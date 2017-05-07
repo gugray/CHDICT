@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-05-06T14:55:00Z
+# Datenstand: 2017-05-07T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -6591,6 +6591,10 @@
 # ID-c27QZ1C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 虧本 亏本 [kui1 ben3] /veszít; rá|fizet (üzletben)/el|veszíti a tőkéjét/
+
+# ID-c27Tc0X
+# Ver 2017-05-06T17:05:18Z gabor Stat-New >https://www.mdbg.net/chinese/dictionary?page=worddict&wdrst=0&wdqb=%E9%A0%86%E5%BF%83
+順心 顺心 [shun4 xin1] /elégedett; boldog/kielégítő/
 
 # ID-c28Ds5v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
