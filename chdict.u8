@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-05-07T02:00:01Z
+# Datenstand: 2017-05-11T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -2119,6 +2119,10 @@
 # ID-a71qA2S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 寫實主義 写实主义 [xie3 shi2 zhu3 yi4] /realizmus (művészeti stílus)/
+
+# ID-a71zt8y
+# Ver 2017-05-10T17:40:06Z gabor Stat-New >CEDICT; http://languagelog.ldc.upenn.edu/nll/?p=32151
+土裡土氣 土里土气 [tu3 li3 tu3 qi4] /vidéki/provinciális/faragatlan/
 
 # ID-a71Dn5i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -9191,6 +9195,10 @@
 # ID-d15nx9q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 傳聞 传闻 [chuan2 wen2] /szóbeszéd/pletyka/
+
+# ID-d15oj4Z
+# Ver 2017-05-10T17:28:46Z gabor Stat-New >https://chinese.stackexchange.com/questions/966/
+牛逼 牛逼 [niu2 bi1] /(szleng) menő; kúl; fasza (eredeti jelentésében vulgáris, köznyelvi használatban pozitív jelző)/
 
 # ID-d15Bl1A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
