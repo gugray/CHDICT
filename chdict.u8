@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-05-12T02:00:01Z
+# Datenstand: 2017-05-14T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -4043,6 +4043,10 @@
 # ID-b36oo6e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 不動 不动 [bu4 dong4] /mozdulatlan/nem mozdul/(igei eredménykiegészítőként azt jelzi, hogy nem lehetséges \ vki képtelen megtenni vmit)/
+
+# ID-b36xr7s
+# Ver 2017-05-13T15:16:06Z gabor Stat-New >.
+布達佩斯 布达佩斯 [bu4 da2 pei4 si1] /(földrajzi név) Budapest/
 
 # ID-b36Cs9u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -8367,6 +8371,10 @@
 # ID-c87so8Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 談論 谈论 [tan2 lun4] /meg|beszél/meg|vitat/beszélgetés/
+
+# ID-c87Fa1O
+# Ver 2017-05-13T15:08:11Z gabor Stat-New >MDBG
+唐納 唐纳 [tang2 na4] /(átirat) Donald/
 
 # ID-c87Gi5A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -13120,6 +13128,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 裝卸 装卸 [zhuang1 xie4] /be- és ki|rakodik/össze- és szét|szerel/
 
+# ID-e52Ux6N
+# Ver 2017-05-13T15:12:36Z gabor Stat-New >MDBG; http://languagelog.ldc.upenn.edu/nll/?p=29471
+川普 川普 [chuan1 pu3] /(tulajdonnév) Donald Trump (2016-ban megválasztott amerikai elnök)/(szecsuáni mandarin nyelvváltozat)/
+
 # ID-e53cC9k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 西裝 西装 [xi1 zhuang1] /öltöny/nyugati öltözet/SZ:套[tao4]/
@@ -13867,6 +13879,10 @@
 # ID-e79PH0C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 米勒 米勒 [mi3 le4] /(átirat) Miller; Müller/
+
+# ID-e79Xl4V
+# Ver 2017-05-13T15:17:38Z gabor Stat-New >.
+匈牙利 匈牙利 [xiong1 ya2 li4] /(földrajzi név) Magyar|ország/
 
 # ID-e80dD2x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -21404,6 +21420,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 酒 酒 [jiu3] /bor/rizspálinka/alkoholos ital/SZ:杯[bei1],瓶[ping2],罐[guan4],桶[tong3],缸[gang1]/
 
+# ID-h43GT3D
+# Ver 2017-05-13T15:13:24Z gabor Stat-New >MDBG; http://languagelog.ldc.upenn.edu/nll/?p=29471
+特朗普 特朗普 [te4 lang3 pu3] /(tulajdonnév) Donald Trump (2016-ban megválasztott amerikai elnök)/
+
 # ID-h43PB9a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 收養 收养 [shou1 yang3] /örökbe|fogad/örökbe|fogadás/
@@ -22054,7 +22074,9 @@
 
 # ID-h68hs3d
 # Ver 2017-05-11T14:15:58Z gabor Stat-New >Microsoft terminológia\nhttps://www.microsoft.com/Language/en-US/Search.aspx
-桌面 桌面 [zhuo1 mian4] /asztal (számítástechnika)/
+# 桌面 桌面 [zhuo1 mian4] /asztal (számítástechnika)/
+# Ver 2017-05-13T15:14:52Z gabor Stat-New >alapjelentés :)
+桌面 桌面 [zhuo1 mian4] /asztal (számítástechnika)/asztal|lap/
 
 # ID-h68mo6F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
