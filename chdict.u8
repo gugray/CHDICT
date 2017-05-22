@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-05-21T02:00:01Z
+# Datenstand: 2017-05-22T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -267,6 +267,10 @@
 # ID-a07IG5n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 包裝 包装 [bao1 zhuang1] /be|csomagol/csomagolás/
+
+# ID-a07Mf4X
+# Ver 2017-05-21T23:18:47Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+高雄 高雄 [gao1 xiong2] /(földrajzi név) Kaohsziung; Kaohsiung (a Kínai Köztársaság, azaz Tajvan második legnagyobb városa)/
 
 # ID-a07NG3v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -566,7 +570,9 @@
 
 # ID-a17VV6z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-所 所 [suo3] /hely/SZ:個|个[ge4]/(számlálószó: épületre)/(nominalizáló-passzivizáló igei prefixum: tk. befejezett melléknévi igenévképzőnek felel meg)/(szenvedő alakot képző igei prefixum)/
+# 所 所 [suo3] /hely/SZ:個|个[ge4]/(számlálószó: épületre)/(nominalizáló-passzivizáló igei prefixum: tk. befejezett melléknévi igenévképzőnek felel meg)/(szenvedő alakot képző igei prefixum)/
+# Ver 2017-05-21T19:56:05Z Adam Stat-Verif >"melléknévi igenév képzője" vagy "melléknéviigenév-képző" [szabályzat, 141. b)]
+所 所 [suo3] /hely/SZ:個|个[ge4]/(számlálószó: épületre)/(nominalizáló-passzivizáló igei prefixum: tk. befejezett melléknévi igenév képzőjének felel meg)/(szenvedő alakot képző igei prefixum)/
 
 # ID-a18eG6l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -603,6 +609,10 @@
 # ID-a19pL7o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 冷藏 冷藏 [leng3 cang2] /hűtés; hűtve tárolás (pl. élelmiszeré)/
+
+# ID-a19vU9E
+# Ver 2017-05-21T22:33:16Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+馬特勞山 马特劳山 [ma3 te4 lao2 shan1] /(átirat) Mátra/
 
 # ID-a19JV3H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -942,7 +952,9 @@
 
 # ID-a31AS2r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-由 由 [you2] /követ/-tól; -től/ok/okán/miatt/rá|hagy (vkire vmit)/(passzív szerkezetben az ige előtt a cselekvőt elöljárószava)/
+# 由 由 [you2] /követ/-tól; -től/ok/okán/miatt/rá|hagy (vkire vmit)/(passzív szerkezetben az ige előtt a cselekvőt elöljárószava)/
+# Ver 2017-05-21T19:58:57Z Adam Stat-Verif >elírás javítása
+由 由 [you2] /követ/-tól; -től/ok/okán/miatt/rá|hagy (vkire vmit)/(passzív szerkezetben az ige előtt a cselekvő elöljárószava)/
 
 # ID-a31Bs5g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -1348,6 +1360,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 運作 运作 [yun4 zuo4] /működik/
 
+# ID-a45pq3q
+# Ver 2017-05-21T21:51:50Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+納吉伊姆雷 纳吉伊姆雷 [na4 ji2 yi1 mu3 lei2] /(átirat) Nagy Imre (politikus)/
+
 # ID-a45sh1Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 站住 站住 [zhan4 zhu4] /áll (egy helyben van)/
@@ -1371,6 +1387,10 @@
 # ID-a45Ix1D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 自留地 自留地 [zi4 liu2 di4] /saját telek (a Kínai Népköztársaságban a szövetkezeti földterület egyéni művelésre engedélyezett része)/
+
+# ID-a45LC6t
+# Ver 2017-05-21T21:55:06Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek (a pinjin-átírás ellenőrizendő)
+魯比剋艾爾諾 鲁比克艾尔诺 [lu3 bi3 ke4 ai4 er3 nuo4] /(átirat) Rubik Ernő (játéktervező, a Rubik-kocka feltalálója)/
 
 # ID-a45LN5F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -1936,6 +1956,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 包 包 [bao1] /be|csomagol/be|borít/csomag/zsák/köteg/SZ:個|个[ge4],隻|只[zhi1]/
 
+# ID-a65XK5e
+# Ver 2017-05-21T19:17:20Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+多瑙河 多瑙河 [duo1 nao3 he2] /(átírás) Duna/
+
 # ID-a66aI9x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 泰斗 泰斗 [tai4 dou3] /vezető tudós/szak|tekintély/
@@ -2043,6 +2067,10 @@
 # ID-a69cF1K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 形象 形象 [xing2 xiang4] /kép/alak/SZ:個|个[ge4]/meg|jelenítés/
+
+# ID-a69cO4e
+# Ver 2017-05-21T19:43:11Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+埃格爾 埃格尔 [ai1 ge2 er3] /(átirat) Eger/
 
 # ID-a69en1N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -2192,6 +2220,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 辦 办 [ban4] /csinál/intéz/kezel/
 
+# ID-a73qZ3C
+# Ver 2017-05-21T22:32:18Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+巴拉頓湖 巴拉顿湖 [ba1 la1 dun4 hu2] /(átirat) Balaton/
+
 # ID-a73tn7j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 秋 秋 [qiu1] /ősz (évszak)/(családnév) Qiu/
@@ -2338,7 +2370,9 @@
 
 # ID-a78Af1u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-大概 大概 [da4 gai4] /körülbelül/hozzávetőleg/durvan (becslés stb.)/talán/valószínűleg/
+# 大概 大概 [da4 gai4] /körülbelül/hozzávetőleg/durvan (becslés stb.)/talán/valószínűleg/
+# Ver 2017-05-21T18:15:34Z Adam Stat-Verif >hiányzó ékezet jav.
+大概 大概 [da4 gai4] /körülbelül/hozzávetőleg/durván (becslés stb.)/talán/valószínűleg/
 
 # ID-a78Bc4q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -2578,7 +2612,9 @@
 
 # ID-a86PP8R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-典 典 [dian3] /kánon/alap|mű/hivatozás (irodalmi)/ceremónia/szótár/
+# 典 典 [dian3] /kánon/alap|mű/hivatozás (irodalmi)/ceremónia/szótár/
+# Ver 2017-05-21T18:14:54Z Adam Stat-Verif >elírás javítása
+典 典 [dian3] /kánon/alap|mű/hivatkozás (irodalmi)/ceremónia/szótár/
 
 # ID-a86XC3E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -2895,6 +2931,10 @@
 # ID-a96Zi9j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 再次 再次 [zai4 ci4] /mégegyszer/ismét/újra/
+
+# ID-a97cL6Z
+# Ver 2017-05-21T21:56:16Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+魔方 魔方 [mo2 fang1] /Rubik-kocka (szó szerint: „bűvös kocka”)/
 
 # ID-a97jE2w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -3800,6 +3840,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 天窗 天窗 [tian1 chuang1] /tető|ablak/
 
+# ID-b26Ax5G
+# Ver 2017-05-21T20:03:16Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+霍爾洛剋 霍尔洛克 [huo4 er3 luo4 ke4] /(átirat) Hollókő/
+
 # ID-b26Bg5D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 脂肪 脂肪 [zhi1 fang2] /zsír (testben, növényben, ételben)/
@@ -4180,6 +4224,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 決賽 决赛 [jue2 sai4] /döntő (bajnokságban)/
 
+# ID-b41hJ9r
+# Ver 2017-05-21T21:34:55Z Adam Stat-New >http://www.taodabai.com/51081691.html és más források alapján, keleti (kínai/magyar) névsorrendre módosítva
+厄岱翁德雷 厄岱翁德雷 [e4 dai4 weng1 de2 lei2] /(átirat) Ady Endre/
+
 # ID-b41wX0E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 急切 急切 [ji2 qie4] /türelmetlen/sietve/
@@ -4411,6 +4459,10 @@
 # ID-b49qd9Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 急劇 急剧 [ji2 ju4] /gyors/hirtelen/
+
+# ID-b49Bs0Z
+# Ver 2017-05-21T22:21:02Z Adam Stat-New >az Árpád híd kínai Wikipédiában szereplő szócikkéből és más források alapján
+阿帕德 阿帕德 [a1 pa4 de2] /(átirat) Árpád/
 
 # ID-b49Iz1f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -5356,6 +5408,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 請示 请示 [qing3 shi4] /utasítást kér/
 
+# ID-b82Bk1S
+# Ver 2017-05-21T20:37:34Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+百度 百度 [bai3 du4] /Baidu (kínai internetes keresőportál)/
+
 # ID-b83di7Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 龍鬚菜 龙须菜 [long2 xu1 cai4] /spárga (növény)/
@@ -5724,6 +5780,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 藉 藉 [ji2] /meg|sért/meg|tipor/
 
+# ID-b94lt9r
+# Ver 2017-05-21T20:07:10Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+匈牙利湯 匈牙利汤 [xiong1 ya2 li4 tang1] /gulyás (mint étel; szó szerint: „magyar leves”)/
+
 # ID-b94oi0S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 貫徹 贯彻 [guan4 che4] /végre|hajt/meg|valósít/
@@ -6036,6 +6096,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 政府 政府 [zheng4 fu3] /kormány/SZ:個|个[ge4]/
 
+# ID-c05Wl1c
+# Ver 2017-05-21T21:50:17Z Adam Stat-New >www.academia.edu és más források alapján (a Wikipédia ehhez fonetikailag távolabbi alakot ad meg)
+毛達奇伊姆雷 毛达奇伊姆雷 [mao2 da2 qi2 yi1 mu3 lei2] /(átirat) Madách Imre/
+
 # ID-c06cK3l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 想起 想起 [xiang3 qi3] /eszébe jut/gondol (vmire)/felidéz/
@@ -6115,6 +6179,10 @@
 # ID-c08nN4k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 伍 五 [wu3] /(családnév) Wu/
+
+# ID-c08AF9u
+# Ver 2017-05-21T21:26:26Z Adam Stat-New >CEDICT
+微信 微信 [wei1 xin4] /WeChat (kínai csevegőprogram)/
 
 # ID-c08CC8T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -6770,7 +6838,9 @@
 
 # ID-c35eI6i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-長江 长江 [chang2 jiang1] /(földrajzi név) Jangce-folyó/
+# 長江 长江 [chang2 jiang1] /(földrajzi név) Jangce-folyó/
+# Ver 2017-05-21T22:37:35Z Adam Stat-Verif >nem kell kötőjel, mert a „folyó” nem része a nevének
+長江 长江 [chang2 jiang1] /(földrajzi név) Jangce (folyó)/
 
 # ID-c35qy7L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -7196,6 +7266,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 敲 敲 [qiao1] /üt (pl. dobot)/kopog/le|húz (túl sokat fizettet)/
 
+# ID-c49MG8o
+# Ver 2017-05-21T20:20:32Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+普斯卡什費倫茨 普斯卡什费伦茨 [pu3 si1 ka3 shi2 fei4 lun2 ci2] /(átirat) Puskás Ferenc/
+
 # ID-c50bI8f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 天文 天文 [tian1 wen2] /csillagászat/
@@ -7596,6 +7670,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 克拉克 克拉克 [ke4 la1 ke4] /(átirat) Clark/
 
+# ID-c61wq6T
+# Ver 2017-05-21T18:02:37Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+漢學家 汉学家 [han4 xue2 jia1] /sinológus (Kína-kutató)/
+
 # ID-c61ww1D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 漢語 汉语 [han4 yu3] /kínai (nyelv)/
@@ -7927,6 +8005,10 @@
 # ID-c73gj3A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 關注 关注 [guan1 zhu4] /figyelemmel követ/
+
+# ID-c73nr2l
+# Ver 2017-05-21T20:52:10Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+馬勞伊山多爾 马劳伊山多尔 [ma3 lao2 yi1 shan1 duo1 er3] /(átirat) Márai Sándor/
 
 # ID-c73sZ3f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -8652,6 +8734,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 咱 咱 [zan2] /mi (T\1, a megszólítottat is magában foglaló névmás)/
 
+# ID-c96oR0A
+# Ver 2017-05-21T19:28:57Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek (a pinjin-átírás ellenőrizendő)
+塞格德 塞格德 [sai1 ge2 de2] /(átirat) Szeged/
+
 # ID-c96vx1F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 東方 东方 [dong1 fang1] /kelet/
@@ -8960,6 +9046,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 肥 肥 [fei2] /kövér; dagadt/termékeny/trágyáz/trágya/
 
+# ID-d05Sg2x
+# Ver 2017-05-21T22:00:01Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+岡布茨 冈布茨 [gang1 bu4 ci2] /gömböc (egy speciális egyensúlyviszonyokkal rendelkező test; a sanghaji világkiállítás magyar pavilonjának központi eleme)/
+
 # ID-d05XO9g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 毅然 毅然 [yi4 ran2] /határozottan/elszántan/habozás nélkül/
@@ -9175,6 +9265,10 @@
 # ID-d13BO4b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 牛仔布 牛仔布 [niu2 zai3 bu4] /farmer|szövet/denim/
+
+# ID-d13BQ5N
+# Ver 2017-05-21T20:41:40Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+納達斯彼得 纳达斯彼得 [na4 da2 si1 bi3 de2] /(átirat) Nádas Péter/
 
 # ID-d13BZ7d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -9490,7 +9584,9 @@
 
 # ID-d26vQ9q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-單純 单纯 [dan1 chun2] /egyszerű/naív/tiszta/
+# 單純 单纯 [dan1 chun2] /egyszerű/naív/tiszta/
+# Ver 2017-05-21T19:57:10Z Adam Stat-Verif >írásmód javítása (pl. Magyar helyesírási szótár)
+單純 单纯 [dan1 chun2] /egyszerű/naiv/tiszta/
 
 # ID-d26Aw7R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -10984,6 +11080,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 獎勵 奖励 [jiang3 li4] /jutalom/meg|jutalmaz/ki|tüntetés/
 
+# ID-d76OV6C
+# Ver 2017-05-21T19:38:38Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+凱奇凱梅特 凯奇凯梅特 [kai3 qi2 kai3 mei2 te4] /(átirat) Kecskemét/
+
 # ID-d77hn4l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 首要 首要 [shou3 yao4] /elsődleges/legfontosabb/
@@ -11068,6 +11168,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 寇 寇 [kou4] /le|rohan; ki|foszt/bandita/ellenség/(családnév) Kou/
 
+# ID-d81FE6R
+# Ver 2017-05-21T22:14:27Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek (心流理论, flow-elmélet)
+心流 心流 [xin1 liu2] /flow-élmény (Csíkszentmihályi Mihály által bevezetett kifejezés az összpontosítás és elmélyültség öröme, más néven „áramlat” leírására)/
+
 # ID-d81LA2V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 輩子 辈子 [bei4 zi5] /emberöltő/az egész életen át/
@@ -11151,6 +11255,10 @@
 # ID-d83in6v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 騎師 骑师 [qi2 shi1] /zsoké/
+
+# ID-d83kP2v
+# Ver 2017-05-21T20:13:08Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek (a pinjin-átírás ellenőrizendő)
+塞切尼鏈橋 塞切尼链桥 [sai1 qie1 ni2 lian4 qiao2] /(átirat+fordítás) Széchenyi lánchíd/
 
 # ID-d83lF6f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -11287,6 +11395,10 @@
 # ID-d88Gl5z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 刺殺 刺杀 [ci4 sha1] /le|szúr (döféssel megöl)/meg|gyilkol/bajonettel harcol/
+
+# ID-d88Ha8T
+# Ver 2017-05-21T20:51:18Z Adam Stat-New >https://hu.wikipedia.org/wiki/J%C3%BC_C%C3%B6-min
+餘澤民 余泽民 [yu2 ze2 min2] /Jü Cö-min; Yu Zemin (kínai orvos, író, kortárs magyar művek fordítója)/
 
 # ID-d88Hs3F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -11496,6 +11608,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 視頻 视频 [shi4 pin2] /videó/videó|frekvencia/
 
+# ID-d96zv3I
+# Ver 2017-05-21T19:20:26Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+蒂薩河 蒂萨河 [di4 sa4 he2] /(átirat) Tisza/
+
 # ID-d96Ah2T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 覺 觉 [jiao4] /alvás/SZ:場|场[chang2]/
@@ -11519,6 +11635,10 @@
 # ID-d97jG3u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 祖先 祖先 [zu3 xian1] /ős/előd/
+
+# ID-d97vL5u
+# Ver 2017-05-21T21:28:32Z Adam Stat-New >Baidu és más keresők alapján
+巴爾提斯阿蒂拉 巴尔提斯阿蒂拉 [ba1 er3 ti2 si1 a1 di4 la1] /(átirat) Bartis Attila (író, fotográfus)/
 
 # ID-d97yU6W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -11607,6 +11727,16 @@
 # ID-e00VK9d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 輪椅 轮椅 [lun2 yi3] /kerekes|szék/
+
+# ID-e01gh7k
+# Ver 2017-05-21T18:44:36Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+# 裴多菲山多爾 裴多菲山多尔 [pei2 duo1 fei1 shan1 duo1 er3] /Petőfi Sándor/
+# Ver 2017-05-21T19:14:35Z Adam Stat-New >címke beszúrása
+裴多菲山多爾 裴多菲山多尔 [pei2 duo1 fei1 shan1 duo1 er3] /(átirat) Petőfi Sándor/
+
+# ID-e01kK9C
+# Ver 2017-05-21T22:56:02Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek; a névsorrendet keletire módosítva (kínai/magyar)
+厄特佛斯約瑟夫 厄特佛斯约瑟夫 [e4 te4 fo2 si1 yue1 se4 fu1] /(átirat) Eötvös József (író)/
 
 # ID-e01lY8a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -12780,6 +12910,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 降落 降落 [jiang4 luo4] /süllyed/ereszkedik/le|száll/
 
+# ID-e41Er5N
+# Ver 2017-05-21T19:14:10Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek (a pinjin-átírás ellenőrizendő)
+科蘇特拉約什 科苏特拉约什 [ke1 su1 te4 la1 yue1 shi2] /(átirat) Kossuth Lajos/
+
 # ID-e41GA2N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 膠水 胶水 [jiao1 shui3] /ragasztó/
@@ -12807,6 +12941,10 @@
 # ID-e42IW9v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 進展 进展 [jin4 zhan3] /halad/haladás/előre|lépés/
+
+# ID-e42Jh9z
+# Ver 2017-05-21T22:06:48Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+原子筆 原子笔 [yuan2 zi3 bi3] /töltő|toll/
 
 # ID-e42KG6P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -13875,6 +14013,12 @@
 # ID-e79jC4s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 先前 先前 [xian1 qian2] /korábban/azelőtt/
+
+# ID-e79qd5O
+# Ver 2017-05-21T17:58:32Z Adam Stat-New >ABC English–Chinese dict., Wikipédia-szócikkek
+# 榲桲 榅桲 [wen1 po5] /birs; birsalma (Cydonia oblonga)/
+# Ver 2017-05-21T18:12:09Z Adam Stat-New >elemek jelölése
+榲桲 榅桲 [wen1 po5] /birs; birs|alma (Cydonia oblonga)/
 
 # ID-e79PH0C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -15231,6 +15375,10 @@
 # ID-f27id2i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 相信 相信 [xiang1 xin4] /hisz/vél/
+
+# ID-f27iO5g
+# Ver 2017-05-21T20:32:11Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+布達佩斯考文紐斯大學 布达佩斯考文纽斯大学 [bu4 da2 pei4 si1 kao3 wen2 niu3 si1 da4 xue2] /(átirat+fordítás) Budapesti Corvinus Egyetem (BCE)/
 
 # ID-f27lR1h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -16608,6 +16756,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 經過 经过 [jing1 guo4] /keresztül|megy/meg|áll (vhol, pl. vonat)/folyamat/
 
+# ID-f72Sq0Q
+# Ver 2017-05-21T22:56:57Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+埃爾德什帕爾 埃尔德什帕尔 [ai1 er3 de2 shi2 pa4 er3] /(átirat) Erdős Pál (matematikus)/
+
 # ID-f73cs6A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 奧祕 奥秘 [ao4 mi4] /rejtély/misztérium/titok (pl. a természet titkai)/
@@ -16952,6 +17104,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 羽毛球 羽毛球 [yu3 mao2 qiu2] /tollas/tollas|labda/SZ:個|个[ge4]/
 
+# ID-f84ue3G
+# Ver 2017-05-21T21:21:49Z Adam Stat-New >kínaira fordított művei címlapképe nyomán
+德拉古曼喬爾吉 德拉古曼乔尔吉 [de2 la1 gu3 man4 qiao2 er3 ji2] /(átirat) Dragomán György (író, műfordító)/
+
 # ID-f84Ar2o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 劫 劫 [jie2] /ki|foszt; ki|rabol; fosztogat/kényszerít/katasztrófa; szerencsétlenség/
@@ -17051,6 +17207,10 @@
 # ID-f88Ik1R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 談話 谈话 [tan2 hua4] /beszélgetés/beszéd/SZ:次[ci4]/beszélget/
+
+# ID-f88TA7m
+# Ver 2017-05-21T22:22:49Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+加博爾德奈什 加博尔德奈什 [jia1 bo2 er3 de2 nai4 shi2] /(átirat) Gábor Dénes (Nobel-díjas fizikus)/
 
 # ID-f89cR7R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -17306,7 +17466,9 @@
 
 # ID-f98nI6j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-執 执 [zhi2] /fog (kézben tart)/véghez|visz/
+# 執 执 [zhi2] /fog (kézben tart)/véghez|visz/
+# Ver 2017-05-21T19:52:32Z Adam Stat-Verif >Magyar helyesírási szótár (2017)
+執 执 [zhi2] /fog (kézben tart)/véghez visz/
 
 # ID-f98yF6G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -17912,6 +18074,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 肉 肉 [rou4] /hús/
 
+# ID-g19Cp2k
+# Ver 2017-05-21T22:49:15Z Adam Stat-New >厄特沃什罗兰大学 Baidu-beli szócikk és más források alapján
+厄特沃什羅蘭 厄特沃什罗兰 [e4 te4 wo4 shi2 luo2 lan2] /(átirat) Eötvös Loránd (fizikus)/
+
 # ID-g19DZ8V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 經受 经受 [jing1 shou4] /el|visel/meg|él/
@@ -18019,6 +18185,10 @@
 # ID-g23pW5D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 脫離 脱离 [tuo1 li2] /el|szakad (vmitől)/távol van (vmitől)/
+
+# ID-g23qi1X
+# Ver 2017-05-21T22:08:22Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+變壓器 变压器 [bian4 ya1 qi4] /transzformátor/
 
 # ID-g23Lx5f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -18816,6 +18986,14 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 氣 气 [qi4] /levegő/gáz/illat/életenergia ("csí" a kínai metafizikában)/düh/lélegzet/
 
+# ID-g52ef0j
+# Ver 2017-05-21T22:38:45Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+烏拉爾山脈 乌拉尔山脉 [wu1 la1 er3 shan1 mai4] /(földrajzi név) Urál (hegység)/
+
+# ID-g52hC4R
+# Ver 2017-05-21T19:33:32Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+傑爾 杰尔 [jie2 er3] /(átirat) Győr/
+
 # ID-g52rz4M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 身後 身后 [shen1 hou4] /posztumusz/mögött (vki mögött)/
@@ -19404,6 +19582,12 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 清理 清理 [qing1 li3] /rendbe rak/ki|tisztít/fel|takarít/el|rendez (ügyeket)/
 
+# ID-g72TL2q
+# Ver 2017-05-21T23:06:05Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+# 中華民國 中华民国 [zhong1 hua2 min2 guo2] /Kínai Köztársaság (Tajvan)/
+# Ver 2017-05-21T23:11:02Z Adam Stat-New >jelentések különválasztása; címke beszúrása
+中華民國 中华民国 [zhong1 hua2 min2 guo2] /(földrajzi név) Kínai Köztársaság/Tajvan/
+
 # ID-g72Zi9l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 緩解 缓解 [huan3 jie3] /enyhül; alább|hagy/enyhít; tompít (fájdalmat, válságot)/
@@ -19570,7 +19754,9 @@
 
 # ID-g80wm8J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-猴拳 猴拳 [hou2 quan2] /majom|box (harcművészet)/
+# 猴拳 猴拳 [hou2 quan2] /majom|box (harcművészet)/
+# Ver 2017-05-21T19:50:56Z Adam Stat-Verif >"boksz" magyaros írásmóddal
+猴拳 猴拳 [hou2 quan2] /majom|boksz (harcművészet)/
 
 # ID-g80QH9q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -20030,7 +20216,9 @@
 
 # ID-g94sz7j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-串 串 [chuan4] /össze|fűz; fel|fűz/össze|játszik; össze|esküszik/össze|kever (nem összatartozó dolgokat)/egyik helyről a másikra megy/karakter|lánc; string (számítástechnika)/szerepet játszik (színdarabban)/(számlálószó) sorozat; lánc; fürt/
+# 串 串 [chuan4] /össze|fűz; fel|fűz/össze|játszik; össze|esküszik/össze|kever (nem összatartozó dolgokat)/egyik helyről a másikra megy/karakter|lánc; string (számítástechnika)/szerepet játszik (színdarabban)/(számlálószó) sorozat; lánc; fürt/
+# Ver 2017-05-21T18:14:08Z Adam Stat-Verif >elírás javítása
+串 串 [chuan4] /össze|fűz; fel|fűz/össze|játszik; össze|esküszik/össze|kever (nem összetartozó dolgokat)/egyik helyről a másikra megy/karakter|lánc; string (számítástechnika)/szerepet játszik (színdarabban)/(számlálószó) sorozat; lánc; fürt/
 
 # ID-g94uH0z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -20736,6 +20924,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 艾倫 艾伦 [ai4 lun2] /(átirat) Allen; Alan; Alain/
 
+# ID-h17rr4w
+# Ver 2017-05-21T20:18:58Z Adam Stat-New >kínai Wikipédiából
+拉科齊費倫茨 拉科齐费伦茨 [la1 ke1 qi2 fei4 lun2 ci2] /(átirat) Rákóczi Ferenc/
+
 # ID-h17sC9d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 遺憾 遗憾 [yi2 han4] /sajnál/meg|bán/bán (vmit)/
@@ -21135,6 +21327,10 @@
 # ID-h32yM8n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 稱贊 称赞 [cheng1 zan4] /dicsér/bókol/
+
+# ID-h32ER1u
+# Ver 2017-05-21T22:36:05Z Adam Stat-New >a CEDICT-ben is szereplő összetétel
+匈牙利語 匈牙利语 [xiong1 ya2 li4 yu3] /magyar nyelv/
 
 # ID-h32TZ8i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -21780,6 +21976,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 這樣 这样 [zhe4 yang4] /ilyen/így/
 
+# ID-h57Ng6X
+# Ver 2017-05-21T20:57:29Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek, keleti (kínai/magyar) névsorrendre módosítva (a pinjin-átírás ellenőrizendő)
+卡撒茲納霍凱拉斯洛 卡撒兹纳霍凯拉斯洛 [ka3 sa1 zi1 na4 huo4 kai3 la1 si1 luo4] /(átirat) Krasznahorkai László/
+
 # ID-h57PN8d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 等到 等到 [deng3 dao4] /meg|vár/mire/
@@ -22120,7 +22320,9 @@
 
 # ID-h69tG7j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-裝 装 [zhuang1] /be|öltözik/játszik (vminek a szerepét játssza)/kosztüm/úgy tesz/telepít/be|szerel/
+# 裝 装 [zhuang1] /be|öltözik/játszik (vminek a szerepét játssza)/kosztüm/úgy tesz/telepít/be|szerel/
+# Ver 2017-05-21T18:07:11Z Adam Stat-Verif >egyértelműbb megfogalmazás
+裝 装 [zhuang1] /be|öltözik/játszik (vminek a szerepét játssza)/kosztüm/úgy tesz, mintha; színlel; tettet/telepít/be|szerel/
 
 # ID-h69wY4I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -22196,7 +22398,15 @@
 
 # ID-h72eu4i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-字 字 [zi4] /írásjegy/SZ:個|个[ge4]/írás/
+# 字 字 [zi4] /írásjegy/SZ:個|个[ge4]/írás/
+# Ver 2017-05-21T18:16:58Z Adam Stat-Verif >szinonima kereshetőség végett
+# 字 字 [zi4] /írásjegy; karakter/SZ:個|个[ge4]/írás/
+# Ver 2017-05-21T18:17:01Z Adam Stat-Verif >szinonima kereshetőség végett
+字 字 [zi4] /írásjegy; karakter/SZ:個|个[ge4]/írás/
+
+# ID-h72kd9w
+# Ver 2017-05-21T20:21:47Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+凱爾泰斯伊姆雷 凯尔泰斯伊姆雷 [kai3 er3 tai4 si1 yi1 mu3 lei2] /(átirat) Kertész Imre/
 
 # ID-h72la8N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -22609,6 +22819,10 @@
 # ID-h86ng0M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 骨髓 骨髓 [gu3 sui3] /csont|velő/
+
+# ID-h86pq3O
+# Ver 2017-05-21T20:09:02Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+冬季莎樂美腸 冬季莎乐美肠 [dong1 ji4 sha1 le4 mei3 chang2] /téli|szalámi/
 
 # ID-h86AO8V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -23720,7 +23934,11 @@
 
 # ID-i23Eh7s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-拳王 拳王 [quan2 wang2] /box bajnok/
+# 拳王 拳王 [quan2 wang2] /box bajnok/
+# Ver 2017-05-21T19:50:37Z Adam Stat-Verif >"boksz" magyaros írásmóddal; szóösszetétel egybe
+# 拳王 拳王 [quan2 wang2] /bokszbajnok/
+# Ver 2017-05-21T19:51:15Z Adam Stat-Verif >elemek elkülönítése
+拳王 拳王 [quan2 wang2] /boksz|bajnok/
 
 # ID-i23JY4m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -24688,7 +24906,9 @@
 
 # ID-i58qr5U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-天天 天天 [tian1 tian1] /minden nap/minden|napi/
+# 天天 天天 [tian1 tian1] /minden nap/minden|napi/
+# Ver 2017-05-21T18:11:11Z Adam Stat-Verif >határozóként egybeíródik
+天天 天天 [tian1 tian1] /minden|nap/minden|napi/
 
 # ID-i58sC9V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -24804,7 +25024,9 @@
 
 # ID-i61tb0i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-執行 执行 [zhi2 xing2] /végre|hajt/véghez|visz/el|végez/
+# 執行 执行 [zhi2 xing2] /végre|hajt/véghez|visz/el|végez/
+# Ver 2017-05-21T19:52:15Z Adam Stat-Verif >Magyar helyesírási szótár (2017)
+執行 执行 [zhi2 xing2] /végre|hajt/véghez visz/el|végez/
 
 # ID-i61DU8u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -26546,6 +26768,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 歡樂 欢乐 [huan1 le4] /vidámság/öröm/boldog/
 
+# ID-j24eE4j
+# Ver 2017-05-21T19:37:39Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek (a pinjin-átírás ellenőrizendő)
+尼賴吉哈佐 尼赖吉哈佐 [ni2 lai4 ji2 ha1 zuo3] /(átirat) Nyíregyháza/
+
 # ID-j24fe9L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 搬家 搬家 [ban1 jia1] /költözik (lakhelyet vált)/
@@ -27140,7 +27366,9 @@
 
 # ID-j44PC5I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-愛河 爱河 [ai4 he2] /a szeret folyója/akadály a megvilágosodás útján (buddhizmus)/
+# 愛河 爱河 [ai4 he2] /a szeret folyója/akadály a megvilágosodás útján (buddhizmus)/
+# Ver 2017-05-21T23:02:24Z Adam Stat-Verif >kiegészítés a kínai Wikipédia szerinti jelentéssel; elírás javítása
+愛河 爱河 [ai4 he2] /(földrajzi név) Szeretet-folyó (Tajvan déli részén)/a szeretet folyója/akadály a megvilágosodás útján (buddhizmus)/
 
 # ID-j44Qb9X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -27230,6 +27458,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 陽性 阳性 [yang2 xing4] /pozitív/hím|nem (nyelvtan)/
 
+# ID-j47BS4d
+# Ver 2017-05-21T20:15:27Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+安德拉什大街 安德拉什大街 [an1 de2 la1 shi2 da4 jie1] /(átirat+fordítás) Andrássy út/
+
 # ID-j47RC5a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 少年 少年 [shao4 nian2] /fiatal/serdülő/
@@ -27245,6 +27477,10 @@
 # ID-j48ez0J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 書籍 书籍 [shu1 ji2] /könyvek/művek/irodalom/
+
+# ID-j48wr8k
+# Ver 2017-05-21T19:41:19Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek (a pinjin-átírás ellenőrizendő)
+塞剋什白堡 塞克什白堡 [sai1 ke4 shi2 bai2 bao3] /(átirat) Székesfehérvár/
 
 # ID-j48JT8S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -27381,6 +27617,10 @@
 # ID-j53Gn6a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 偷聽 偷听 [tou1 ting1] /hallgatózik/le|hallgat/
+
+# ID-j53Hv4p
+# Ver 2017-05-21T20:11:22Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek (a pinjin-átírás ellenőrizendő)
+伊斯特凡塞切尼 伊斯特凡塞切尼 [yi1 si1 te4 fan2 sai1 qie1 ni2] /(átirat) Széchenyi István/
 
 # ID-j53Xr9q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -27805,6 +28045,10 @@
 # ID-j69mP0d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 正負 正负 [zheng4 fu4] /pozitív és negatív/
+
+# ID-j69xV1l
+# Ver 2017-05-21T20:30:24Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+羅蘭大學 罗兰大学 [luo2 lan2 da4 xue2] /(átirat+fordítás) Eötvös Loránd Tudományegyetem; ELTE (szó szerint: „Loránd Egyetem”)/
 
 # ID-j69FJ0n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -28698,6 +28942,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 樹枝 树枝 [shu4 zhi1] /ág (fáé)/gally/
 
+# ID-k00pS3X
+# Ver 2017-05-21T18:29:58Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek; Wiktionary
+榛 榛 [zhen1] /mogyoró (Corylus)/
+
 # ID-k00zH2H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 迷路 迷路 [mi2 lu4] /el|téved/labirintus (a belső fülben)/
@@ -29072,7 +29320,9 @@
 
 # ID-k13jR9H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-你好 你好 [ni3 hao3] /Helló!/Szia!/Jó napot!/
+# 你好 你好 [ni3 hao3] /Helló!/Szia!/Jó napot!/
+# Ver 2017-05-21T18:20:10Z Adam Stat-Verif >sorrend módosítása (előbb az általánosabb jelentés); kapcsolódó jelentések összevonása
+你好 你好 [ni3 hao3] /Jó napot!/Szia! Helló!/
 
 # ID-k13oS2O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -29489,6 +29739,10 @@
 # ID-k26wM3D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 保管 保管 [bao3 guan3] /gondoskodik (vmiről)/bizonyosan; biztosan/
+
+# ID-k26xD0y
+# Ver 2017-05-21T19:24:24Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+米什科爾茨 米什科尔茨 [mi3 shi2 ke1 er3 ci2] /(átirat) Miskolc/
 
 # ID-k26xU8V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -31224,7 +31478,9 @@
 
 # ID-k87vu9b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-大樓 大楼 [da4 lou2] /épület (több emeletes)/toronyház/SZ:幢[zhuang4],座[zuo4]/
+# 大樓 大楼 [da4 lou2] /épület (több emeletes)/toronyház/SZ:幢[zhuang4],座[zuo4]/
+# Ver 2017-05-21T19:47:54Z Adam Stat-Verif >http://helyesiras.mta.hu/helyesiras/default/akh12 117. pont alapján
+大樓 大楼 [da4 lou2] /épület (többemeletes)/toronyház/SZ:幢[zhuang4],座[zuo4]/
 
 # ID-k87IL5M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -31300,7 +31556,9 @@
 
 # ID-k90wc6q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-搖滾 摇滚 [yao2 gun3] /Rock and roll (zene)/
+# 搖滾 摇滚 [yao2 gun3] /Rock and roll (zene)/
+# Ver 2017-05-21T18:13:05Z Adam Stat-Verif >köznév: kisbetűs
+搖滾 摇滚 [yao2 gun3] /rock and roll (zene)/
 
 # ID-k90Ib6o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -31804,7 +32062,9 @@
 
 # ID-l05FR0v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-於 于 [yu2] /van (vhol; idő- és helyhatározói elöljárószó)/-ban; -ben; -nál; -nél/-nál; nél (összehasonlító szerkezetben)/(családnév) Yu/
+# 於 于 [yu2] /van (vhol; idő- és helyhatározói elöljárószó)/-ban; -ben; -nál; -nél/-nál; nél (összehasonlító szerkezetben)/(családnév) Yu/
+# Ver 2017-05-21T19:53:30Z Adam Stat-Verif >kötőjel pótlása
+於 于 [yu2] /van (vhol; idő- és helyhatározói elöljárószó)/-ban; -ben; -nál; -nél/-nál; -nél (összehasonlító szerkezetben)/(családnév) Yu/
 
 # ID-l05Kz3v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -31956,7 +32216,9 @@
 
 # ID-l11MQ6M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-辛普森 辛普森 [xin1 pu3 sen1] /(átirat) Simpson (rajzfilm-család)/
+# 辛普森 辛普森 [xin1 pu3 sen1] /(átirat) Simpson (rajzfilm-család)/
+# Ver 2017-05-21T19:49:02Z Adam Stat-Verif >egyértelműbb megfogalmazás
+辛普森 辛普森 [xin1 pu3 sen1] /(átirat) Simpson (rajzfilmbeli család)/
 
 # ID-l11Rk7Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -32380,7 +32642,9 @@
 
 # ID-l25pi7p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-搖滾樂 摇滚乐 [yao2 gun3 yue4] /Rock and roll/rock|zene/
+# 搖滾樂 摇滚乐 [yao2 gun3 yue4] /Rock and roll/rock|zene/
+# Ver 2017-05-21T18:13:22Z Adam Stat-Verif >köznév: kisbetűs
+搖滾樂 摇滚乐 [yao2 gun3 yue4] /rock and roll/rock|zene/
 
 # ID-l25pK2Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -32618,6 +32882,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 陪伴 陪伴 [pei2 ban4] /kísér/társaság (vki társasága)/
 
+# ID-l33Ek6e
+# Ver 2017-05-21T18:35:57Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+歐榛 欧榛 [ou1 zhen1] /európai mogyoró; közönséges mogyoró (Corylus avellana)/
+
 # ID-l33MS8n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 這兒 这儿 [zhe4 r5] /itt/
@@ -32717,6 +32985,10 @@
 # ID-l37HH5x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 文化 文化 [wen2 hua4] /kultúra/SZ:個|个[ge4],種|种[zhong3]/
+
+# ID-l37Sd1d
+# Ver 2017-05-21T22:29:22Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+菲利普萊納德 菲利普莱纳德 [fei1 li4 pu3 lai2 na4 de2] /(átirat) Lénárd Fülöp; Philipp Eduard Anton (von) Lenard (fizikus, az első magyar származású Nobel-díjas)/
 
 # ID-l38fm1W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -33734,6 +34006,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 中文 中文 [zhong1 wen2] /kínai (írott nyelv)/
 
+# ID-l74CR7x
+# Ver 2017-05-21T19:32:51Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek (a pinjin-átírás ellenőrizendő)
+佩奇 佩奇 [pei4 qi2] /(átirat) Pécs/
+
 # ID-l74DN8D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 絡繹不絕 络绎不绝 [luo4 yi4 bu4 jue2] /(kifejezés) meg|szakítás nélkül özönlik/
@@ -33781,6 +34057,10 @@
 # ID-l76WW1D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 忠實 忠实 [zhong1 shi2] /hűséges/
+
+# ID-l76Xe0n
+# Ver 2017-05-21T18:00:52Z Adam Stat-New >kapcsolódó Wikipédia-szócikkek
+漢學 汉学 [han4 xue2] /sinológia (Kína-kutatás)/
 
 # ID-l77rD3z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -34706,6 +34986,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 準備 准备 [zhun3 bei4] /előkészület/előkészül/szándékozik (tenni vmit)/
 
+# ID-m14WD2Z
+# Ver 2017-05-21T22:31:39Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+阿爾弗雷德諾貝爾 阿尔弗雷德诺贝尔 [a1 er3 fu2 lei2 de2 nuo4 bei4 er3] /Alfred Nobel (svéd kémikus, feltaláló, a Nobel-díj alapítója)/
+
 # ID-m15aH8F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 荷 荷 [he2] /lótusz/(földrajzi név) Hollandia (荷蘭|荷兰[he2 lan2] rövidítése)/
@@ -34804,7 +35088,11 @@
 
 # ID-m17KN2F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-每天 每天 [mei3 tian1] /minden nap/
+# 每天 每天 [mei3 tian1] /minden nap/
+# Ver 2017-05-21T18:10:48Z Adam Stat-Verif >határozóként egybeíródik
+# 每天 每天 [mei3 tian1] /mindennap/
+# Ver 2017-05-21T18:11:46Z Adam Stat-Verif >elemek jelölése
+每天 每天 [mei3 tian1] /minden|nap/
 
 # ID-m17Ld7H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -35618,6 +35906,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 嗒 嗒 [ta4] /kétségbe esik/
 
+# ID-m44qh9C
+# Ver 2017-05-21T20:27:34Z Adam Stat-New >Baidu alapján (a kínai Wikipédiában is így szerepel, csak nyugati névsorrenddel)
+艾斯特哈茲彼得 艾斯特哈兹彼得 [ai4 si1 te4 ha1 zi1 bi3 de2] /(átirat) Esterházy Péter/
+
 # ID-m44rQ6m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 設計師 设计师 [she4 ji4 shi1] /tervező/dizájner/építész/
@@ -35664,7 +35956,9 @@
 
 # ID-m46cy1x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-作 作 [zuo4] /csinál/készít/ír; alkot/tekint (valaminek)/érez/úgy tesz/művek; írások/
+# 作 作 [zuo4] /csinál/készít/ír; alkot/tekint (valaminek)/érez/úgy tesz/művek; írások/
+# Ver 2017-05-21T18:08:38Z Adam Stat-Verif >egyértelműbb megfogalmazás
+作 作 [zuo4] /csinál/készít/ír; alkot/tekint (valaminek)/érez/úgy tesz, mintha; színlel; tettet/művek; írások/
 
 # ID-m46gI8P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -35824,7 +36118,9 @@
 
 # ID-m52fT7x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-土耳其 土耳其 [tu3 er3 qi2] /(földrajzi név) Törökország/
+# 土耳其 土耳其 [tu3 er3 qi2] /(földrajzi név) Törökország/
+# Ver 2017-05-21T22:40:54Z Adam Stat-Verif >elválasztójel beszúrása
+土耳其 土耳其 [tu3 er3 qi2] /(földrajzi név) Török|ország/
 
 # ID-m52jn7o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -35984,7 +36280,11 @@
 
 # ID-m57nU7b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-花生 花生 [hua1 sheng1] /földimogyoró/SZ:粒[li4]/
+# 花生 花生 [hua1 sheng1] /földimogyoró/SZ:粒[li4]/
+# Ver 2017-05-21T18:21:38Z Adam Stat-Verif >elemek jelölése kereshetőség végett
+# 花生 花生 [hua1 sheng1] /földi|mogyoró/SZ:粒[li4]/
+# Ver 2017-05-21T18:22:59Z Adam Stat-Verif >névváltozat és tudományos név megadása
+花生 花生 [hua1 sheng1] /földi|mogyoró; amerikai|mogyoró (Arachis hypogaea)/SZ:粒[li4]/
 
 # ID-m57ot5K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -36513,6 +36813,10 @@
 # ID-m75py2e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 猶太人 犹太人 [you2 tai4 ren2] /zsidó (ember)/
+
+# ID-m75pL9t
+# Ver 2017-05-21T23:53:19Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek (a pinjin-átírás ellenőrizendő), keleti (kínai/magyar) névsorrendre módosítva
+塞切尼伊斯特凡 塞切尼伊斯特凡 [sai1 qie1 ni2 yi1 si1 te4 fan2] /(átirat) Széchenyi István/
 
 # ID-m75qU9B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -37740,6 +38044,12 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 拉拉 拉拉 [la1 la1] /lezbikus (szleng)/(átirat) Lara/
 
+# ID-n18Hr2S
+# Ver 2017-05-21T23:09:43Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+# 臺灣 台湾 [tai2 wan1] /(földrajzi név) Tajvan (Kínai Köztársaság)/
+# Ver 2017-05-21T23:10:22Z Adam Stat-New >jelentések különválasztása
+臺灣 台湾 [tai2 wan1] /(földrajzi név) Tajvan/Kínai Köztársaság/
+
 # ID-n19cS5S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 歡騰 欢腾 [huan1 teng2] /ujjongás/öröm|tánc/
@@ -38246,7 +38556,9 @@
 
 # ID-n37PE4G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-辣椒 辣椒 [la4 jiao1] /chili/erős|paprika/
+# 辣椒 辣椒 [la4 jiao1] /chili/erős|paprika/
+# Ver 2017-05-21T20:01:12Z Adam Stat-Verif >Magyar helyesírási szótár
+辣椒 辣椒 [la4 jiao1] /csili/erős|paprika/
 
 # ID-n37Vs9K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -38331,6 +38643,10 @@
 # ID-n39wv7L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 畫家 画家 [hua4 jia1] /festő/SZ:個|个[ge4]/
+
+# ID-n39zv0W
+# Ver 2017-05-21T19:22:39Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+德布勒森 德布勒森 [de2 bu4 le4 sen1] /(átirat) Debrecen/
 
 # ID-n39AZ2O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -40868,6 +41184,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 探 探 [tan4] /fel|derít/kutat/meg|látogat/detektív/
 
+# ID-o27PU6r
+# Ver 2017-05-21T22:43:58Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+布魯塞爾 布鲁塞尔 [bu4 lu3 sai4 er3] /(földrajzi név) Brüsszel/
+
 # ID-o27Qk0o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 家務 家务 [jia1 wu4] /házi|munka/
@@ -41754,7 +42074,9 @@
 
 # ID-o60mt5u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-阿姆斯特丹 阿姆斯特丹 [a1 mu3 si1 te4 dan1] /(földrajzi név) Amsterdam/
+# 阿姆斯特丹 阿姆斯特丹 [a1 mu3 si1 te4 dan1] /(földrajzi név) Amsterdam/
+# Ver 2017-05-21T22:42:07Z Adam Stat-Verif >magyarul sz-szel írjuk
+阿姆斯特丹 阿姆斯特丹 [a1 mu3 si1 te4 dan1] /(földrajzi név) Amszterdam/
 
 # ID-o60CG3H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -42512,6 +42834,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 抗 抗 [kang4] /ellen|áll/szembe|száll/
 
+# ID-o88NN4E
+# Ver 2017-05-21T23:50:37Z Adam Stat-New >塞切尼·伊什特万广场(布达佩斯)  Wikipédia-szócikk alapján
+塞切尼伊什特萬 塞切尼伊什特万 [sai1 qie1 ni2 yi1 shi2 te4 wan4] /(átirat) Széchenyi István/
+
 # ID-o88ZZ2n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 一整天 一整天 [yi1 zheng3 tian1] /egész nap/
@@ -42852,6 +43178,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 聯誼會 联谊会 [lian2 yi4 hui4] /társaság; egyesület/gyűlés/
 
+# ID-p00yw2m
+# Ver 2017-05-21T23:15:07Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+臺北 台北 [tai2 bei3] /(földrajzi név) Tajpej (a Kínai Köztársaság, más néven Tajvan fővárosa)/
+
 # ID-p00AI4L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 敵國 敌国 [di2 guo2] /ellenséges hatalom/ellenséges ország/
@@ -42955,6 +43285,10 @@
 # ID-p04fs0t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 津巴布韋 津巴布韦 [jin1 ba1 bu4 wei2] /(földrajzi név) Zimbabwe/
+
+# ID-p04Af0L
+# Ver 2017-05-21T22:05:57Z Adam Stat-New >CEDICT, összekapcsolt Wikipédia-szócikkek
+圓珠筆 圆珠笔 [yuan2 zhu1 bi3] /töltő|toll/
 
 # ID-p04CB2P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -43355,6 +43689,10 @@
 # ID-p18iQ9a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 泛濫 泛滥 [fan4 lan4] /árad (pl. folyó)/el|önt/gátolatlanul terjed/
+
+# ID-p18lj2T
+# Ver 2017-05-21T21:38:53Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek (a pinjin-átírás ellenőrizendő)
+剋爾切伊費倫茨 克尔切伊费伦茨 [ke4 er3 qie1 yi1 fei4 lun2 ci2] /(átirat) Kölcsey Ferenc/
 
 # ID-p18wn3A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
