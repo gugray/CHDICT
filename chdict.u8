@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-05-22T02:00:01Z
+# Datenstand: 2017-05-23T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -762,6 +762,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 可能性 可能性 [ke3 neng2 xing4] /lehetőség/eshetőség/valószínűség/
 
+# ID-a24Vx2j
+# Ver 2017-05-22T02:24:33Z Adam Stat-New >CEDICT
+共產主義 共产主义 [gong4 chan3 zhu3 yi4] /kommunizmus/
+
 # ID-a25wU1L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 算 算 [suan4] /számol/számít/ki|számol/tekint (vminek)/
@@ -1019,6 +1023,10 @@
 # ID-a32TJ1c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 大便 大便 [da4 bian4] /ürít/széklet/ürülék/
+
+# ID-a32Wc7r
+# Ver 2017-05-22T03:12:05Z Adam Stat-New >CEDICT
+四川 四川 [si4 chuan1] /Szecsuan (Kína tartománya)/
 
 # ID-a32WK0O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -7140,7 +7148,9 @@
 
 # ID-c45ay4G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-寒暄 寒暄 [han2 xuan1] /udvarias köszöntéseket vált/hogyvagykázik/
+# 寒暄 寒暄 [han2 xuan1] /udvarias köszöntéseket vált/hogyvagykázik/
+# Ver 2017-05-22T02:50:34Z Adam Stat-Verif >jelentés kiegészítése
+寒暄 寒暄 [han2 xuan1] /udvarias köszöntéseket vált/felszínesen elcseveg (pl. időjárásról)/hogyvagykázik/
 
 # ID-c45yU0x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -7882,6 +7892,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 挑逗 挑逗 [tiao3 dou4] /provokál/ugrat; húz/csábít/
 
+# ID-c67Xw7J
+# Ver 2017-05-22T02:21:29Z Adam Stat-New >CEDICT
+拖鞋 拖鞋 [tuo1 xie2] /strand|papucs; műanyag papucs/
+
 # ID-c67Zs9t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 收買 收买 [shou1 mai3] /meg|vásárol/meg|veszteget/
@@ -8184,7 +8198,9 @@
 
 # ID-c78Ko9l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-廁所 厕所 [ce4 suo3] /WC (helyiség)/mosdó/toalett/SZ:間|间[jian1],處|处[chu4]/
+# 廁所 厕所 [ce4 suo3] /WC (helyiség)/mosdó/toalett/SZ:間|间[jian1],處|处[chu4]/
+# Ver 2017-05-22T02:59:14Z Adam Stat-Verif >kereshetőség végett másik írásmód is; szorosabban összetartozó jelentések egy helyre
+廁所 厕所 [ce4 suo3] /WC; vécé (helyiség)/mosdó; toalett/SZ:間|间[jian1],處|处[chu4]/
 
 # ID-c78Na0e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -10426,7 +10442,9 @@
 
 # ID-d54DM7L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-各種 各种 [ge4 zhong3] /minden|féle/minden|fajta/külön|féle/
+# 各種 各种 [ge4 zhong3] /minden|féle/minden|fajta/külön|féle/
+# Ver 2017-05-22T02:57:40Z Adam Stat-Verif >az első két jelentés talán szorosabban tartozik össze; a "különféle" más jelentésű is lehet
+各種 各种 [ge4 zhong3] /minden|féle; minden|fajta/külön|féle/
 
 # ID-d54Fq0B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -11079,6 +11097,10 @@
 # ID-d76wr0X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 獎勵 奖励 [jiang3 li4] /jutalom/meg|jutalmaz/ki|tüntetés/
+
+# ID-d76zB8O
+# Ver 2017-05-22T02:40:33Z Adam Stat-New >CEDICT
+維基 维基 [wei2 ji1] /wiki (webes együttműködésen alapuló rendszer)/
 
 # ID-d76OV6C
 # Ver 2017-05-21T19:38:38Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
@@ -12352,7 +12374,9 @@
 
 # ID-e23iE4L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-乖乖 乖乖 [guai1 guai5] /kedves; drága (gyerekre)/engedelmes; jól viselkedő/
+# 乖乖 乖乖 [guai1 guai5] /kedves; drága (gyerekre)/engedelmes; jól viselkedő/
+# Ver 2017-05-22T02:15:20Z Adam Stat-Verif >+ jelentés
+乖乖 乖乖 [guai1 guai5] /kedves; drága (gyerekre)/engedelmes; szófogadó; jól viselkedő/
 
 # ID-e23jc5c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -13304,7 +13328,9 @@
 
 # ID-e54iY9P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-祖國 祖国 [zu3 guo2] /szűlő|haza/szülő|föld; anya|ország/Kína (kínaiak által használt megnevezés, vö. "hazánkban")/
+# 祖國 祖国 [zu3 guo2] /szűlő|haza/szülő|föld; anya|ország/Kína (kínaiak által használt megnevezés, vö. "hazánkban")/
+# Ver 2017-05-22T02:53:16Z Adam Stat-Verif >elírás és idézőjel javítása
+祖國 祖国 [zu3 guo2] /szülő|haza/szülő|föld; anya|ország/Kína (kínaiak által használt megnevezés, vö. „hazánkban”)/
 
 # ID-e54ja2z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -15232,6 +15258,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 凶暴 凶暴 [xiong1 bao4] /brutális/vad és kegyetlen/
 
+# ID-f21Ax9F
+# Ver 2017-05-22T02:23:48Z Adam Stat-New >CEDICT
+資本主義 资本主义 [zi1 ben3 zhu3 yi4] /kapitalizmus/
+
 # ID-f21Ho3x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 數量 数量 [shu4 liang4] /mennyiség/SZ:個|个[ge4]/kvantitatív/
@@ -16054,7 +16084,9 @@
 
 # ID-f49Qj8F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-簡體字 简体字 [jian3 ti3 zi4] /egyszerűsített írásjelek/
+# 簡體字 简体字 [jian3 ti3 zi4] /egyszerűsített írásjelek/
+# Ver 2017-05-22T02:45:48Z Adam Stat-Verif >nem központozás, hanem karakterek
+簡體字 简体字 [jian3 ti3 zi4] /egyszerűsített írásjegyek (a Kínai Népköztársaságban)/
 
 # ID-f50gN4u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -18028,7 +18060,9 @@
 
 # ID-g18en5w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-結尾 结尾 [jie2 wei3] /be|fejezés/végződés/vége/coda (zene)/
+# 結尾 结尾 [jie2 wei3] /be|fejezés/végződés/vége/coda (zene)/
+# Ver 2017-05-22T02:54:43Z Adam Stat-Verif >Magyar helyesírási szótár (2017)
+結尾 结尾 [jie2 wei3] /be|fejezés/végződés/vége/kóda (zene)/
 
 # ID-g18eF3L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -20526,7 +20560,9 @@
 
 # ID-h02BT3d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-線索 线索 [xian4 suo3] /nyom/
+# 線索 线索 [xian4 suo3] /nyom/
+# Ver 2017-05-22T03:05:22Z Adam Stat-Verif >értelmezés
+線索 线索 [xian4 suo3] /nyom (nyomravezető jel)/
 
 # ID-h02Je8g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -20855,6 +20891,10 @@
 # ID-h14jK3S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 後悔 后悔 [hou4 hui3] /meg|bán/sajnálja/
+
+# ID-h14xZ5p
+# Ver 2017-05-22T02:36:48Z Adam Stat-New >CEDICT
+視窗 视窗 [shi4 chuang1] /ablak (számítástechnikában)/Windows (operációs rendszer)/
 
 # ID-h14GF3X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -23208,6 +23248,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 應該 应该 [ying1 gai1] /kell/muszáj/kötelező/
 
+# ID-h97rm1Z
+# Ver 2017-05-22T02:34:45Z Adam Stat-New >CEDICT
+微軟 微软 [wei1 ruan3] /Microsoft/
+
 # ID-h97GF4u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 家屬 家属 [jia1 shu3] /család|tag/hozzátartozó/
@@ -24354,7 +24398,9 @@
 
 # ID-i38CQ0c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-敷衍 敷衍 [fu1 yan3] /ki|fejt (témát)/felületes/fél vállról vesz; tessék-lássék csinál/épp hogy ki|jön/
+# 敷衍 敷衍 [fu1 yan3] /ki|fejt (témát)/felületes/fél vállról vesz; tessék-lássék csinál/épp hogy ki|jön/
+# Ver 2017-05-22T02:10:06Z Adam Stat-Verif >Magyar helyesírási szótár (2017) alapján
+敷衍 敷衍 [fu1 yan3] /ki|fejt (témát)/felületes/fél|vállról vesz; tessék-lássék csinál/épp hogy ki|jön/
 
 # ID-i38Dw0F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -26730,7 +26776,9 @@
 
 # ID-j22Dv9U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-聽話 听话 [ting1 hua4] /engedelmes/hallgat (valakire)/engedelmeskedik (megteszi, amit mondanak neki)/
+# 聽話 听话 [ting1 hua4] /engedelmes/hallgat (valakire)/engedelmeskedik (megteszi, amit mondanak neki)/
+# Ver 2017-05-22T02:16:11Z Adam Stat-Verif >+ jelentés
+聽話 听话 [ting1 hua4] /engedelmes; szófogadó/szót fogad; hallgat (vkire)/engedelmeskedik (megteszi, amit mondanak neki)/
 
 # ID-j22KJ8o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -26914,7 +26962,9 @@
 
 # ID-j28Nx0z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-文字 文字 [wen2 zi4] /írás|jelek/írás/írott nyelv/
+# 文字 文字 [wen2 zi4] /írás|jelek/írás/írott nyelv/
+# Ver 2017-05-22T02:47:13Z Adam Stat-Verif >nem központozás, hanem karakterek
+文字 文字 [wen2 zi4] /írás|jegyek; karakterek/írás/írott nyelv/
 
 # ID-j28QC5R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -29334,7 +29384,9 @@
 
 # ID-k13xb5H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-繁體字 繁体字 [fan2 ti3 zi4] /hagyományos írásjelek/
+# 繁體字 繁体字 [fan2 ti3 zi4] /hagyományos írásjelek/
+# Ver 2017-05-22T02:46:17Z Adam Stat-Verif >nem központozás, hanem karakterek
+繁體字 繁体字 [fan2 ti3 zi4] /hagyományos írásjegyek (Tajvanon, Hongkongban stb.)/
 
 # ID-k13Lw4g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -31186,7 +31238,9 @@
 
 # ID-k76de7w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-衛生間 卫生间 [wei4 sheng1 jian1] /fürdő|szoba/WC/
+# 衛生間 卫生间 [wei4 sheng1 jian1] /fürdő|szoba/WC/
+# Ver 2017-05-22T03:00:22Z Adam Stat-Verif >kereshetőség végett másik írásmód is
+衛生間 卫生间 [wei4 sheng1 jian1] /fürdő|szoba/WC; vécé/
 
 # ID-k76dG5j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -32322,7 +32376,9 @@
 
 # ID-l16oX9p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-應邀 应邀 [ying4 yao1] /meg|hívásra/meg van hívva/
+# 應邀 应邀 [ying4 yao1] /meg|hívásra/meg van hívva/
+# Ver 2017-05-22T02:11:43Z Adam Stat-Verif >Magyar helyesírási szótár (2017)
+應邀 应邀 [ying4 yao1] /meg|hívásra/meg van híva/
 
 # ID-l16px9E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -32925,6 +32981,10 @@
 # ID-l35tH8J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 桑 桑 [sang1] /eper|fa/(családnév) Sang/
+
+# ID-l35vf6f
+# Ver 2017-05-22T02:34:00Z Adam Stat-New >CEDICT
+穀歌 谷歌 [gu3 ge1] /Google/
 
 # ID-l35SR0S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -35580,7 +35640,9 @@
 
 # ID-m35im2z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-乖 乖 [guai1] /engedelmes; jól viselkedik (gyerek)/okos; ravasz; éber; ügyes/
+# 乖 乖 [guai1] /engedelmes; jól viselkedik (gyerek)/okos; ravasz; éber; ügyes/
+# Ver 2017-05-22T02:14:57Z Adam Stat-Verif >+ jelentés
+乖 乖 [guai1] /engedelmes; szófogadó; jól viselkedik (gyerek)/okos; ravasz; éber; ügyes/
 
 # ID-m35jL2h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -35588,7 +35650,9 @@
 
 # ID-m35wp4O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-隨即 随即 [sui2 ji2] /azonnal/egy pillanaton belül/egyből utána/
+# 隨即 随即 [sui2 ji2] /azonnal/egy pillanaton belül/egyből utána/
+# Ver 2017-05-22T03:02:03Z Adam Stat-Verif >+ jelentés
+隨即 随即 [sui2 ji2] /azonnal/egy pillanaton belül/egyből utána/máris/
 
 # ID-m35Be0R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -36260,7 +36324,9 @@
 
 # ID-m56Gs7j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-川 川 [chuan1] /folyó/patak/síkság/(földrajzi név, rövidítés) Szecsuán/
+# 川 川 [chuan1] /folyó/patak/síkság/(földrajzi név, rövidítés) Szecsuán/
+# Ver 2017-05-22T03:11:04Z Adam Stat-Verif >Magyar helyesírási szótár (2017)
+川 川 [chuan1] /folyó/patak/síkság/(földrajzi név, rövidítés) Szecsuan/
 
 # ID-m56OR7g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -37762,6 +37828,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 象牙海岸 象牙海岸 [xiang4 ya2 hai3 an4] /(földrajzi név) Elefántcsontpart/
 
+# ID-n07mb9k
+# Ver 2017-05-22T02:26:39Z Adam Stat-New >CEDICT
+維基百科 维基百科 [wei2 ji1 bai3 ke1] /Wikipédia/
+
 # ID-n07oy0L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 味兒 味儿 [wei4 r5] /íz/illat/
@@ -38803,6 +38873,10 @@
 # ID-n43PI5M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 形勢 形势 [xing2 shi4] /körülmények/helyzet/terep/
+
+# ID-n43TV8O
+# Ver 2017-05-22T02:43:14Z Adam Stat-New >CEDICT
+百科全書 百科全书 [bai3 ke1 quan2 shu1] /enciklopédia/lexikon/
 
 # ID-n43Zc7Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -39934,7 +40008,9 @@
 
 # ID-n84wT4Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-右手 右手 [you4 shou3] /jobb|kéz/jobb|kéz felőli oldal/
+# 右手 右手 [you4 shou3] /jobb|kéz/jobb|kéz felőli oldal/
+# Ver 2017-05-22T02:12:51Z Adam Stat-Verif >„jobb kéz” külön (hacsak nem vonja össze mozgószabály, pl. jobbkéz-szabály)
+右手 右手 [you4 shou3] /jobb kéz/jobb kéz felőli oldal/
 
 # ID-n84xK7H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -40402,7 +40478,9 @@
 
 # ID-n99mR7w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-左手 左手 [zuo3 shou3] /bal|kéz/bal|kéz felőli oldal/
+# 左手 左手 [zuo3 shou3] /bal|kéz/bal|kéz felőli oldal/
+# Ver 2017-05-22T02:13:16Z Adam Stat-Verif >„bal kéz” külön (hacsak nem vonja össze mozgószabály)
+左手 左手 [zuo3 shou3] /bal kéz/bal kéz felőli oldal/
 
 # ID-n99pa9e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -42780,7 +42858,9 @@
 
 # ID-o87zo9s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-洗手間 洗手间 [xi3 shou3 jian1] /mosdó/WC/fürdő|szoba/
+# 洗手間 洗手间 [xi3 shou3 jian1] /mosdó/WC/fürdő|szoba/
+# Ver 2017-05-22T03:00:02Z Adam Stat-Verif >kereshetőség végett másik írásmód is
+洗手間 洗手间 [xi3 shou3 jian1] /mosdó/WC; vécé/fürdő|szoba/
 
 # ID-o87CK4E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
