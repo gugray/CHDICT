@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-05-24T02:00:02Z
+# Datenstand: 2017-05-25T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -178,7 +178,21 @@
 
 # ID-a04Ok5L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-中心區 中心区 [zhong1 xin1 qu1] /központi kerület/
+# 中心區 中心区 [zhong1 xin1 qu1] /központi kerület/
+# Ver 2017-05-24T21:30:53Z Adam Stat-Verif >a meglévő fordítás magyarul szerintem nemigen használatos, inkább szó szerinti jelentésnek lehet jó zárójelben
+# 中心區 中心区 [zhong1 xin1 qu1] /városközpont; belváros (szó szerint: „központi kerület”)/
+# Ver 2017-05-24T21:30:54Z Adam Stat-Verif >a meglévő fordítás magyarul szerintem nemigen használatos, inkább szó szerinti jelentésnek lehet jó zárójelben
+# Ver 2017-05-24T21:30:54Z Adam Stat-Verif >a meglévő fordítás magyarul szerintem nemigen használatos, inkább szó szerinti jelentésnek lehet jó zárójelben
+# Ver 2017-05-24T21:30:54Z Adam Stat-Verif >a meglévő fordítás magyarul szerintem nemigen használatos, inkább szó szerinti jelentésnek lehet jó zárójelben
+# Ver 2017-05-24T21:30:54Z Adam Stat-Verif >a meglévő fordítás magyarul szerintem nemigen használatos, inkább szó szerinti jelentésnek lehet jó zárójelben
+# Ver 2017-05-24T21:30:54Z Adam Stat-Verif >a meglévő fordítás magyarul szerintem nemigen használatos, inkább szó szerinti jelentésnek lehet jó zárójelben
+# Ver 2017-05-24T21:30:54Z Adam Stat-Verif >a meglévő fordítás magyarul szerintem nemigen használatos, inkább szó szerinti jelentésnek lehet jó zárójelben
+# Ver 2017-05-24T21:30:54Z Adam Stat-Verif >a meglévő fordítás magyarul szerintem nemigen használatos, inkább szó szerinti jelentésnek lehet jó zárójelben
+# Ver 2017-05-24T21:30:54Z Adam Stat-Verif >a meglévő fordítás magyarul szerintem nemigen használatos, inkább szó szerinti jelentésnek lehet jó zárójelben
+# Ver 2017-05-24T21:30:54Z Adam Stat-Verif >a meglévő fordítás magyarul szerintem nemigen használatos, inkább szó szerinti jelentésnek lehet jó zárójelben
+# Ver 2017-05-24T21:30:54Z Adam Stat-Verif >a meglévő fordítás magyarul szerintem nemigen használatos, inkább szó szerinti jelentésnek lehet jó zárójelben
+# Ver 2017-05-24T21:30:54Z Adam Stat-Verif >a meglévő fordítás magyarul szerintem nemigen használatos, inkább szó szerinti jelentésnek lehet jó zárójelben
+中心區 中心区 [zhong1 xin1 qu1] /városközpont; belváros (szó szerint: „központi kerület”)/
 
 # ID-a04SS1i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -7998,6 +8012,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 聖誕樹 圣诞树 [sheng4 dan4 shu4] /karácsony|fa/
 
+# ID-c69qA7s
+# Ver 2017-05-24T14:27:36Z Adam Stat-New >http://culture.china.com/art/11159887/20170427/30466039_all.html
+道洛什久爾吉 道洛什久尔吉 [dao4 luo4 shi2 jiu3 er3 ji2] /(átirat) Dalos György (író)/
+
 # ID-c69rp7N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 臺詞 台词 [tai2 ci2] /szöveg (színészé)/
@@ -9596,6 +9614,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 窗子 窗子 [chuang1 zi5] /ablak/
 
+# ID-d22TA5i
+# Ver 2017-05-24T14:17:52Z Adam Stat-New >http://culture.china.com/art/11159887/20170427/30466039_all.html
+納道詩彼得 纳道诗彼得 [na4 dao4 shi1 bi3 de2] /(átirat) Nádas Péter/
+
 # ID-d23aM0S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 高爾夫 高尔夫 [gao1 er3 fu1] /(átirat) golf/
@@ -10643,6 +10665,10 @@
 # ID-d57Zr7L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 災害 灾害 [zai1 hai4] /katasztrófa/
+
+# ID-d57ZB2a
+# Ver 2017-05-24T14:40:34Z Adam Stat-New >http://baike.baidu.com/item/%E4%BD%99%E6%B3%BD%E6%B0%91
+馬利亞什貝拉 马利亚什贝拉 [ma3 li4 ya4 shi2 bei4 la1] /(átirat) drMáriás; Máriás Béla (festő, író, zenész)/
 
 # ID-d58ef4I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -17494,6 +17520,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 愛惜 爱惜 [ai4 xi1] /meg|becsül/takarékosan használ/
 
+# ID-f92ga0U
+# Ver 2017-05-24T14:58:48Z Adam Stat-New >http://baike.baidu.com/item/%E4%BD%99%E6%B3%BD%E6%B0%91
+繆勒彼得 缪勒彼得 [miao4 le4 bi3 de2] /(átirat) Müller Péter (író, dramaturg)/
+
 # ID-f92xj1O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 從前 从前 [cong2 qian2] /korábban/(volt egyszer egy)/
@@ -18143,6 +18173,10 @@
 # ID-g14mn4k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 研究所 研究所 [yan2 jiu1 suo3] /kutatóintézet/posztgraduális tanulmányok/doktori iskola/SZ:個|个[ge4]/
+
+# ID-g14pr8m
+# Ver 2017-05-24T13:31:11Z Adam Stat-New >"阿尔帕德大公" Wikipédia-szócikkből
+阿爾帕德 阿尔帕德 [a1 er3 pa4 de2] /(átirat) Árpád/
 
 # ID-g14zA8B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -19349,6 +19383,10 @@
 # 上衣 上衣 [shang4 yi1] /zakó/dzseki/felső ruha/SZ:件[jian4]/
 # Ver 2017-05-23T20:05:40Z Adam Stat-Verif >Magyar helyesírási szótár (2017)
 上衣 上衣 [shang4 yi1] /zakó/dzseki/felső|ruha/SZ:件[jian4]/
+
+# ID-g56To6u
+# Ver 2017-05-24T14:15:49Z Adam Stat-New >http://culture.china.com/art/11159887/20170427/30466039_all.html és sok más forrás
+德拉古曼久爾吉 德拉古曼久尔吉 [de2 la1 gu3 man4 jiu3 er3 ji2] /(átirat) Dragomán György (író, műfordító)/
 
 # ID-g56Yi4Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -21552,7 +21590,9 @@
 
 # ID-h32ER1u
 # Ver 2017-05-21T22:36:05Z Adam Stat-New >a CEDICT-ben is szereplő összetétel
-匈牙利語 匈牙利语 [xiong1 ya2 li4 yu3] /magyar nyelv/
+# 匈牙利語 匈牙利语 [xiong1 ya2 li4 yu3] /magyar nyelv/
+# Ver 2017-05-24T16:29:13Z Adam Stat-New >a többi hasonló szócikk mintájára
+匈牙利語 匈牙利语 [xiong1 ya2 li4 yu3] /magyar (nyelv)/
 
 # ID-h32TZ8i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -23654,6 +23694,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 婚前 婚前 [hun1 qian2] /házasság előtti/
 
+# ID-i04UJ8x
+# Ver 2017-05-24T13:29:07Z Adam Stat-New >"马加什一世" c. Wikipédia-szócikk (a pinjin-átírás ellenőrizendő)
+匈雅提馬加什 匈雅提马加什 [xiong1 ya3 ti2 ma3 jia1 shi2] /(átirat) Hunyadi Mátyás/
+
 # ID-i04Vp7r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 變幻 变幻 [bian4 huan4] /ingadozik/rendszertelenül váltakozik/
@@ -25381,6 +25425,10 @@
 # ID-i65Ah1O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 衰老 衰老 [shuai1 lao3] /öregedés/idős/
+
+# ID-i65Ds0H
+# Ver 2017-05-24T16:22:09Z Adam Stat-New >Wikipédia-szócikk
+斯洛伐克 斯洛伐克 [si1 luo4 fa2 ke4] /(földrajzi név) Szlovákia/
 
 # ID-i65KE2B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -28084,6 +28132,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 象棋 象棋 [xiang4 qi2] /kínai sakk/SZ:副[fu4]/
 
+# ID-j58Ss2x
+# Ver 2017-05-24T14:22:37Z Adam Stat-New >http://culture.china.com/art/11159887/20170427/30466039_all.html
+凱爾泰斯伊姆萊 凯尔泰斯伊姆莱 [kai3 er3 tai4 si1 yi1 mu3 lai2] /(átirat) Kertész Imre/
+
 # ID-j58ZG1V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 大家 大家 [da4 jia1] /mindenki/
@@ -30480,6 +30532,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 妻 妻 [qi1] /feleség/
 
+# ID-k42wQ4p
+# Ver 2017-05-24T14:24:18Z Adam Stat-New >http://culture.china.com/art/11159887/20170427/30466039_all.html
+納道什彼得 纳道什彼得 [na4 dao4 shi2 bi3 de2] /(átirat) Nádas Péter/
+
 # ID-k42MB7U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 似的 似的 [shi4 de5] /úgy tűnik/mintha/
@@ -30766,7 +30822,9 @@
 
 # ID-k52kL0U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-法語 法语 [fa3 yu3] /francia nyelv/
+# 法語 法语 [fa3 yu3] /francia nyelv/
+# Ver 2017-05-24T16:26:03Z Adam Stat-Verif >a többi hasonló szócikk mintájára
+法語 法语 [fa3 yu3] /francia (nyelv)/
 
 # ID-k52nS4Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -32544,6 +32602,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 聖母 圣母 [sheng4 mu3] /Szűz|anya/
 
+# ID-l10KG6i
+# Ver 2017-05-24T13:40:13Z Adam Stat-New >https://www.douban.com/group/topic/54431972/  (匈牙利文学)
+托特阿爾巴德 托特阿尔巴德 [tuo1 te4 a1 er3 ba1 de2] /(átirat) Tóth Árpád/
+
 # ID-l10MV5r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 帥氣 帅气 [shuai4 qi5] /kecses/elegáns/jóképű/
@@ -33760,7 +33822,9 @@
 
 # ID-l52Oc9n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-蘇 苏 [su1] /(rövidítés) 蘇州|苏州[su1 zhou1] Suzhou város/(rövidítés) 江蘇|江苏[jiang1 su1] Jiangsu tartomány/(rövidítés) 蘇聯|苏联[su1 lian2] Szovjetunió/(családnév) Su/fel|éleszt/
+# 蘇 苏 [su1] /(rövidítés) 蘇州|苏州[su1 zhou1] Suzhou város/(rövidítés) 江蘇|江苏[jiang1 su1] Jiangsu tartomány/(rövidítés) 蘇聯|苏联[su1 lian2] Szovjetunió/(családnév) Su/fel|éleszt/
+# Ver 2017-05-24T16:51:59Z gabor Stat-Verif >.
+蘇 苏 [su1] /(rövidítés, földrajzi név) Suzhou város (蘇州|苏州[su1 zhou1])/(rövidítés, földrajzi név)  Jiangsu tartomány (江蘇|江苏[jiang1 su1])/(rövidítés, földrajzi név) Szovjetunió (蘇聯|苏联[su1 lian2])/(családnév) Su/fel|éleszt/
 
 # ID-l52PW3k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -35362,6 +35426,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 準備 准备 [zhun3 bei4] /előkészület/előkészül/szándékozik (tenni vmit)/
 
+# ID-m14RO9n
+# Ver 2017-05-24T14:30:53Z Adam Stat-New >http://culture.china.com/art/11159887/20170427/30466039_all.html
+蘇契蓋佐 苏契盖佐 [su1 qi4 ge3 zuo3] /(átirat) Szőcs Géza (költő)/
+
 # ID-m14WD2Z
 # Ver 2017-05-21T22:31:39Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
 阿爾弗雷德諾貝爾 阿尔弗雷德诺贝尔 [a1 er3 fu2 lei2 de2 nuo4 bei4 er3] /Alfred Nobel (svéd kémikus, feltaláló, a Nobel-díj alapítója)/
@@ -35820,7 +35888,9 @@
 
 # ID-m29Ik9l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-斯 斯 [si1] /ez/így/(fonetikus átiratokban használt írásjegy)/(földrajzi név) Szlovákia (斯洛伐克[Si1 luo4 fa2 ke4] rövidítése)/
+# 斯 斯 [si1] /ez/így/(fonetikus átiratokban használt írásjegy)/(földrajzi név) Szlovákia (斯洛伐克[Si1 luo4 fa2 ke4] rövidítése)/
+# Ver 2017-05-24T16:20:04Z Adam Stat-Verif >fölös szóközök ki; a pinjinben nem szükséges nagybetű
+斯 斯 [si1] /ez/így/(fonetikus átiratokban használt írásjegy)/(földrajzi név) Szlovákia (斯洛伐克[si1luo4fa2ke4] rövidítése)/
 
 # ID-m29LZ0O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -36614,7 +36684,9 @@
 
 # ID-m54YP0h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-鋒利 锋利 [feng1 li4] /éles (penge, de átvítten is: nyelv)/metsző/
+# 鋒利 锋利 [feng1 li4] /éles (penge, de átvítten is: nyelv)/metsző/
+# Ver 2017-05-24T16:25:44Z Adam Stat-Verif >elírás jav.
+鋒利 锋利 [feng1 li4] /éles (penge, de átvitten is: nyelv)/metsző/
 
 # ID-m55fI0R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -36927,6 +36999,10 @@
 # ID-m65Rn9K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 大量 大量 [da4 liang4] /számos/nagy mennyiségű/tömeg-/nagylelkű/
+
+# ID-m65TM5f
+# Ver 2017-05-24T14:25:49Z Adam Stat-New >http://culture.china.com/art/11159887/20170427/30466039_all.html
+剋拉斯諾霍爾卡伊拉斯洛 克拉斯诺霍尔卡伊拉斯洛 [ke4 la1 si1 nuo4 huo4 er3 ka3 yi1 la1 si1 luo4] /(átirat) Krasznahorkai László/
 
 # ID-m65VB8l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
