@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-05-28T02:00:01Z
+# Datenstand: 2017-05-29T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -2150,6 +2150,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 鬼魂 鬼魂 [gui3 hun2] /szellem/kísértet/
 
+# ID-a69mY8I
+# Ver 2017-05-28T22:52:42Z Adam Stat-New >锹甲 és összekapcsolt Wikipédia-szócikkek
+鍬甲 锹甲 [qiao1 jia3] /szarvas|bogár (a szarvasbogárfélék, Lucanidae családjának egy tagja)/
+
 # ID-a69nE2A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 到場 到场 [dao4 chang3] /fel|bukkan/meg|jelenik/jelen van/
@@ -2545,6 +2549,10 @@
 # ID-a82vG2z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 匆忙 匆忙 [cong1 mang2] /sietve/sietősen/sebesen/
+
+# ID-a82Bj2E
+# Ver 2017-05-28T22:34:42Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+蟋蟀 蟋蟀 [xi1 shuai4] /tücsök/
 
 # ID-a82Ov3H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -8683,6 +8691,10 @@
 # ID-c88RY9V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 不好意思 不好意思 [bu4 hao3 yi4 si5] /zavarban van/kínos neki/elnézést/
+
+# ID-c88Xz9U
+# Ver 2017-05-28T22:46:34Z Adam Stat-New >螽斯科 és kapcsolt Wikipédia-szócikkek
+螽斯 螽斯 [zhong1 si1] /szöcske (konkrétan a Tettigoniidae, fürgeszöcskék családjának tagja)/
 
 # ID-c89fA6L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -30470,7 +30482,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-k25QW9W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-簡報 简报 [jian3 bao4] /rövid beszámoló/eligazítás/
+# 簡報 简报 [jian3 bao4] /rövid beszámoló/eligazítás/
+# Ver 2017-05-28T23:21:17Z Adam Stat-Verif >kiegészítés a sok helyen megadott "bulletin" és "briefing" jelentések alapján (Google Translate, WHO honlapja, HanDeDict, Pleco kínaiszótára), valamint "prezentáció" (kapcsolt Wikipédia-szócikk)
+簡報 简报 [jian3 bao4] /rövid beszámoló; jelentés; közlemény; hír|adás/prezentáció (PPT vagy más)/eligazítás; tájékoztató/
 
 # ID-k25Wt2Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -36100,6 +36114,12 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 勇敢 勇敢 [yong3 gan3] /bátor/
 
+# ID-m21Ef4w
+# Ver 2017-05-28T11:08:43Z tlaura Stat-New >http://ce.linedict.com/dict.html#/cnen/entry/a1b2ae4d93344d11ae6cab8cde7fe206
+# 責任感 责任感 [ze2 ren4 gan3] /kötelességtudat/
+# Ver 2017-05-28T14:00:27Z Adam Stat-New >+ jelentés (CC-CEDICT, HanDeDict, Tuttle kínaiszótára és példamondata, Wiktionary alapján); elemek tagolása
+責任感 责任感 [ze2 ren4 gan3] /kötelesség|tudat/felelősség|érzet/
+
 # ID-m21WG1s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 驅 驱 [qu1] /vezet; hajt (kocsit, lovat stb.)/ki|űz/sürget/
@@ -39496,7 +39516,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-n35Th7G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-繩子 绳子 [sheng2 zi5] /kötél/zsinór/SZ:根[gen1]/
+# 繩子 绳子 [sheng2 zi5] /kötél/zsinór/SZ:根[gen1]/
+# Ver 2017-05-28T21:08:56Z Adam Stat-Verif >+ pár gyakori szinonima
+繩子 绳子 [sheng2 zi5] /kötél/zsinór; zsineg; madzag/SZ:根[gen1]/
 
 # ID-n35ZS9d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
