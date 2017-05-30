@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-05-29T02:00:01Z
+# Datenstand: 2017-05-30T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -1000,7 +1000,9 @@
 
 # ID-a31Bs5g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-歐洲 欧洲 [ou1 zhou1] /Európa/
+# 歐洲 欧洲 [ou1 zhou1] /Európa/
+# Ver 2017-05-29T12:46:59Z Adam Stat-Verif >+ címke
+歐洲 欧洲 [ou1 zhou1] /(földrajzi név) Európa/
 
 # ID-a31Lg6j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -1334,7 +1336,9 @@
 
 # ID-a42dY3I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-西德 西德 [xi1 de2] /Nyugat-Németország/
+# 西德 西德 [xi1 de2] /Nyugat-Németország/
+# Ver 2017-05-29T12:21:31Z Adam Stat-Verif >függőleges elválasztójel, címke
+西德 西德 [xi1 de2] /(földrajzi név) Nyugat-Német|ország/
 
 # ID-a42hU9a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -1792,6 +1796,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 爛攤子 烂摊子 [lan4 tan1 zi5] /szörnyű rendetlenség/
 
+# ID-a55SI9R
+# Ver 2017-05-29T07:43:59Z gabor Stat-New >MDBG; http://languagelog.ldc.upenn.edu/nll/?p=32933
+蛤蜊 蛤蜊 [ge2 li2] /kagyló/
+
 # ID-a55Vl6X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 或 或 [huo4] /talán/vagy/
@@ -2028,6 +2036,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 泰斗 泰斗 [tai4 dou3] /vezető tudós/szak|tekintély/
 
+# ID-a66cX6E
+# Ver 2017-05-29T12:53:46Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+聖伊什特萬聖殿 圣伊什特万圣殿 [sheng4 yi1 shi2 te4 wan4 sheng4 dian4] /Szent István-bazilika/
+
 # ID-a66kG9j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 正長石 正长石 [zheng4 chang2 shi2] /hold|kő (kőzetalkotó ásvány; KAlSi3O8)/
@@ -2067,6 +2079,10 @@
 # ID-a66Ku9O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 大腦 大脑 [da4 nao3] /agy/nagy|agy/
+
+# ID-a66LA9z
+# Ver 2017-05-29T11:24:40Z Adam Stat-New >CC-CEDICT, Tuttle, ABC szótárak
+淋浴 淋浴 [lin2 yu4] /zuhany; zuhanyzás/zuhanyzik/
 
 # ID-a66Sz2k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -2561,6 +2577,10 @@
 # ID-a82Xd3y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 親吻 亲吻 [qin1 wen3] /csók/meg|csókol/
+
+# ID-a82XJ1Y
+# Ver 2017-05-29T12:12:19Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+熱巧剋力 热巧克力 [re4 qiao3 ke4 li4] /forró csokoládé; kakaó (ital)/
 
 # ID-a83ap0m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -3386,7 +3406,14 @@
 
 # ID-b07OK1O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-沙俄 沙俄 [sha1 e2] /cári Oroszország/
+# 沙俄 沙俄 [sha1 e2] /cári Oroszország/
+# Ver 2017-05-29T12:24:28Z Adam Stat-Verif >címke, elválasztójel, teljes alak említése
+# 沙俄 沙俄 [sha1 e2] /(földrajzi név) cári Orosz|ország (沙皇俄國|沙皇俄国[sha1huang2e2guo2] rövidítése)/
+# Ver 2017-05-29T12:31:09Z Adam Stat-Verif >hagyományos írásmódú alak beszúrása
+# Ver 2017-05-29T12:31:09Z Adam Stat-Verif >hagyományos írásmódú alak beszúrása
+# 沙俄 沙俄 [sha1 e2] /(földrajzi név) cári Orosz|ország (沙皇俄国[sha1huang2e2guo2] rövidítése)/
+# Ver 2017-05-29T12:31:09Z Adam Stat-Verif >hagyományos írásmódú alak beszúrása
+沙俄 沙俄 [sha1 e2] /(földrajzi név) cári Orosz|ország (沙皇俄國|沙皇俄国[sha1huang2e2guo2] rövidítése)/
 
 # ID-b08gw4a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -3623,6 +3650,10 @@
 # ID-b15og9W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 酸 酸 [suan1] /savanyú/sav/fáj (testrész)/
+
+# ID-b15Jw4s
+# Ver 2017-05-29T07:39:21Z gabor Stat-New >MDBG; http://languagelog.ldc.upenn.edu/nll/?p=32933
+食用 食用 [shi2 yong4] /ehető/étel/el|fogyaszt/
 
 # ID-b15Rd6E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -4194,6 +4225,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 變動 变动 [bian4 dong4] /változás/változtatás/
 
+# ID-b35Yb4p
+# Ver 2017-05-29T12:56:20Z Adam Stat-New >Baike Baidu szócikke
+聖伊斯特萬大教堂 圣伊斯特万大教堂 [sheng4 yi1 shi3 te4 wan4 da4 jiao4 tang2] /Szent István-bazilika/
+
 # ID-b36oa2E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 舒暢 舒畅 [shu1 chang4] /gondtalan/boldog/
@@ -4490,6 +4525,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 性關係 性关系 [xing4 guan1 xi5] /szexkapcsolat/közösülés/nemi élmény/
 
+# ID-b47ee2E
+# Ver 2017-05-29T12:32:14Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+沙皇 沙皇 [sha1 huang2] /(átirat) cár/
+
 # ID-b47jL2m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 右邊 右边 [you4 bian5] /jobbra/jobb|oldalt/
@@ -4773,6 +4812,10 @@
 # ID-b57AC1u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 海灘 海滩 [hai3 tan1] /strand/SZ:片[pian4]/
+
+# ID-b57DW5H
+# Ver 2017-05-29T12:08:52Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+可可豆 可可豆 [ke3 ke3 dou4] /kakaó|bab/
 
 # ID-b57OP3b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -5570,7 +5613,9 @@
 
 # ID-b84cS8I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-芝士 芝士 [zhi1 shi4] /sajt/
+# 芝士 芝士 [zhi1 shi4] /sajt/
+# Ver 2017-05-29T12:38:35Z Adam Stat-Verif >+ "átirat" címke
+芝士 芝士 [zhi1 shi4] /(átirat) sajt/
 
 # ID-b84hq4K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -5623,6 +5668,10 @@
 # ID-b85sA5O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 各 各 [ge4] /mindegyik/minden egyes/
+
+# ID-b85to6Y
+# Ver 2017-05-29T11:55:52Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+乳糖不耐症 乳糖不耐症 [ru3 tang2 bu4 nai4 zheng4] /laktóz|érzékenység; laktóz|intolerancia/
 
 # ID-b85xf8b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -9766,6 +9815,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 英尺 英尺 [ying1 chi3] /láb (angolszász hosszmérték)/
 
+# ID-d23Ko0T
+# Ver 2017-05-29T12:00:21Z Adam Stat-New >CC-CEDICT, összekapcsolt Wikipédia-szócikkek
+酶 酶 [mei2] /enzim/
+
 # ID-d23Zu3H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 蠢 蠢 [chun3] /hülye/
@@ -11806,7 +11859,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-d94oS8K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-波蘭 波兰 [bo1 lan2] /(földrajzi név) Lengyelország/
+# 波蘭 波兰 [bo1 lan2] /(földrajzi név) Lengyelország/
+# Ver 2017-05-29T12:20:27Z Adam Stat-Verif >függőleges elválasztójel
+波蘭 波兰 [bo1 lan2] /(földrajzi név) Lengyel|ország/
 
 # ID-d94wZ5W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -12439,6 +12494,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-e16ls3N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 鐵路 铁路 [tie3 lu4] /vas|út/SZ:條|条[tiao2]/
+
+# ID-e16CC7D
+# Ver 2017-05-29T14:54:21Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+蟬 蝉 [chan2] /kabóca (a Cicadidae család egy tagja)/
 
 # ID-e16MC1P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -13190,7 +13249,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-e40Hk6X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-冰激凌 冰激凌 [bing1 ji1 ling2] /jég|krém/fagylalt/
+# 冰激凌 冰激凌 [bing1 ji1 ling2] /jég|krém/fagylalt/
+# Ver 2017-05-29T11:37:10Z Adam Stat-Verif >a Google-képkereső alapján 'jégkrém' jelentésben nem igazán használatos (arra inkább a 冰棒 fordul elő, külön Wikipédia-szócikkel)
+冰激凌 冰激凌 [bing1 ji1 ling2] /fagylalt/
 
 # ID-e40KX0Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -13918,6 +13979,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 洋 洋 [yang2] /óceán/hatalmas/idegen/ezüst|érme/
 
+# ID-e62BA4l
+# Ver 2017-05-29T11:20:00Z Adam Stat-New >fürdőköpeny, hálóköpeny stb. jellegű CC-CEDICT-összetételek és pl. 浴袍 Wikipédia-szócikk alapján
+袍 袍 [pao2] /köpeny; köntös/
+
 # ID-e62Ex3I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 負面 负面 [fu4 mian4] /negatív/fonákja; rossz oldala (vminek)/
@@ -14468,7 +14533,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-e82XA6L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-終於 终于 [zhong1 yu2] /végül/
+# 終於 终于 [zhong1 yu2] /végül/
+# Ver 2017-05-29T12:03:04Z Adam Stat-Verif >Pleco-szótár példamondatai (és más irodalmi források) alapján
+終於 终于 [zhong1 yu2] /végre/végül/
 
 # ID-e83ch3O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -16012,6 +16079,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 大叔 大叔 [da4 shu1] /nagybácsi/bácsi (a beszélő apja korabeli férfi megszólítása)/
 
+# ID-f34LX8T
+# Ver 2017-05-29T12:04:41Z Adam Stat-New >海豹屬 Wikipédia-szócikk és vele összekapcsolt más nyelvű szócikkek + CC-CEDICT alapján
+海豹 海豹 [hai3 bao4] /fóka/
+
 # ID-f34NH6e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 軍團 军团 [jun1 tuan2] /csapatok/légió/
@@ -16998,6 +17069,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 攻 攻 [gong1] /támad/vádol/támadás/tanulmányoz/
 
+# ID-f65Ig3s
+# Ver 2017-05-29T17:29:13Z Adam Stat-New >CC-CEDICT (és kínai Wikipédia-beli használat nyomán)
+或稱 或称 [huo4 cheng1] /más néven; alias/
+
 # ID-f65Ii2b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 終生 终生 [zhong1 sheng1] /egész élet (pl. egész életét vminek szenteli)/életre szóló/
@@ -17013,6 +17088,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-f65Pb0q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 皇冠 皇冠 [huang2 guan1] /korona (fejen hordott ék)/
+
+# ID-f65Uw5w
+# Ver 2017-05-29T11:38:24Z Adam Stat-New >kínai Wikipédia-szócikk, Google-képkereső, CC-CEDICT
+冰棒 冰棒 [bing1 bang4] /jég|krém (pálcikás)/
 
 # ID-f66se6c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -17068,7 +17147,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-f68sv7Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-希臘 希腊 [xi1 la4] /(földrajzi név) Görögország/
+# 希臘 希腊 [xi1 la4] /(földrajzi név) Görögország/
+# Ver 2017-05-29T12:25:29Z Adam Stat-Verif >elválasztójel
+# 希臘 希腊 [xi1 la4] /(földrajzi név) Görög|ország/
+# Ver 2017-05-29T12:25:36Z Adam Stat-Verif >elválasztójel
+希臘 希腊 [xi1 la4] /(földrajzi név) Görög|ország/
 
 # ID-f68FL4u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -17181,6 +17264,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-f72OM0X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 公立 公立 [gong1 li4] /nyilvános (iskola, kórház stb.)/köz-/
+
+# ID-f72Qu0V
+# Ver 2017-05-29T11:51:55Z Adam Stat-New >Pleco-szótár és CC-CEDICT
+乳糖 乳糖 [ru3 tang2] /tej|cukor; laktóz/
 
 # ID-f72Sn7o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -18880,7 +18967,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-g32WA3C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-越來越 越来越 [yue4 lai2 yue4] /egyre inkább; mindinkább/
+# 越來越 越来越 [yue4 lai2 yue4] /egyre inkább; mindinkább/
+# Ver 2017-05-29T12:43:51Z Adam Stat-Verif >fő használata elsőnek (Tuttle és Pleco szótárak szerint)
+越來越 越来越 [yue4 lai2 yue4] /egyre …-bb (melléknevet megelőzve, pl. „egyre nagyobb”)/egyre inkább; mindinkább/
 
 # ID-g32YZ5j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -19232,7 +19321,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-g44gD8c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-意 意 [yi4] /ötlet/jelentés/vélemény/gondol/vágy/kívánság/szándék/(rövidítés: 意大利[Yi4 da4 li4]) Olaszország/
+# 意 意 [yi4] /ötlet/jelentés/vélemény/gondol/vágy/kívánság/szándék/(rövidítés: 意大利[Yi4 da4 li4]) Olaszország/
+# Ver 2017-05-29T12:26:11Z Adam Stat-Verif >elválasztójel
+意 意 [yi4] /ötlet/jelentés/vélemény/gondol/vágy/kívánság/szándék/(rövidítés: 意大利[Yi4da4li4]) Olasz|ország/
 
 # ID-g44kg8Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -19625,6 +19716,12 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-g56ze5v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 撬 撬 [qiao4] /fel|feszít (pl. ajtót)/
+
+# ID-g56Cz5G
+# Ver 2017-05-29T14:37:20Z Adam Stat-New >Baidu Baike szócikke
+# 詞條 词条 [ci2 tiao2] / szócikk (lexikonban, szótárban stb.)/
+# Ver 2017-05-29T14:37:47Z Adam Stat-New >elválasztójel
+詞條 词条 [ci2 tiao2] / szó|cikk (lexikonban, szótárban stb.)/
 
 # ID-g56Df7r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -20678,7 +20775,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-g92wm9q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-沙拉 沙拉 [sha1 la1] /saláta/
+# 沙拉 沙拉 [sha1 la1] /saláta/
+# Ver 2017-05-29T12:33:24Z Adam Stat-Verif >"átirat" és egyértelműsítés beszúrása
+沙拉 沙拉 [sha1 la1] /(átirat) saláta (mint önálló étel)/
 
 # ID-g92BK1F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -21657,6 +21756,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-h24iy3E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 籌 筹 [chou2] /elő|készít; tervez/zseton; játék|pénz/
+
+# ID-h24jZ1u
+# Ver 2017-05-29T12:38:11Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+人造奶油 人造奶油 [ren2 zao4 nai3 you2] /margarin/
 
 # ID-h24pU3V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -23038,7 +23141,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-h74oo0D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-法國 法国 [fa3 guo2] /(földrajzi név) Franciaország/
+# 法國 法国 [fa3 guo2] /(földrajzi név) Franciaország/
+# Ver 2017-05-29T12:26:32Z Adam Stat-Verif >elválasztójel
+法國 法国 [fa3 guo2] /(földrajzi név) Francia|ország/
 
 # ID-h74tl9J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -24004,7 +24109,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-i04UJ8x
 # Ver 2017-05-24T13:29:07Z Adam Stat-New >"马加什一世" c. Wikipédia-szócikk (a pinjin-átírás ellenőrizendő)
-匈雅提馬加什 匈雅提马加什 [xiong1 ya3 ti2 ma3 jia1 shi2] /(átirat) Hunyadi Mátyás/
+# 匈雅提馬加什 匈雅提马加什 [xiong1 ya3 ti2 ma3 jia1 shi2] /(átirat) Hunyadi Mátyás/
+# Ver 2017-05-29T12:36:43Z Adam Stat-New >konkrétabb címke és születés-halálozás éve
+匈雅提馬加什 匈雅提马加什 [xiong1 ya3 ti2 ma3 jia1 shi2] /(személynév) Hunyadi Mátyás (1443–1490)/
 
 # ID-i04Vp7r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -24187,6 +24294,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-i10nk8s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 她們 她们 [ta1 men5] /ők (nőnem)/
+
+# ID-i10tY6W
+# Ver 2017-05-29T11:58:34Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+乳糖酶 乳糖酶 [ru3 tang2 mei2] /laktáz (a tejcukor, laktóz emésztéséhez szükséges enzim)/
 
 # ID-i10vb3x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -24599,6 +24710,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-i25bf5n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 門鎖 门锁 [men2 suo3] /ajtó|zár/
+
+# ID-i25pG6j
+# Ver 2017-05-29T11:30:13Z Adam Stat-New >淋巴系統 és CC-CEDICT alapján
+淋巴 淋巴 [lin2 ba1] /nyirok (folyadék)/
 
 # ID-i25Hg7v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -25484,7 +25599,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-i56NT4c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-愛爾蘭 爱尔兰 [ai4 er3 lan2] /(átirat) Írország/
+# 愛爾蘭 爱尔兰 [ai4 er3 lan2] /(átirat) Írország/
+# Ver 2017-05-29T12:27:08Z Adam Stat-Verif >címke, elválasztójel
+愛爾蘭 爱尔兰 [ai4 er3 lan2] /(földrajzi név; átirat) Ír|ország/
 
 # ID-i57aF1G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -25532,7 +25649,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-i58ks2o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-德國 德国 [de2 guo2] /Németország/
+# 德國 德国 [de2 guo2] /Németország/
+# Ver 2017-05-29T12:27:38Z Adam Stat-Verif >címke, elválasztójel
+德國 德国 [de2 guo2] /(földrajzi név) Német|ország/
 
 # ID-i58qr5U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -26730,7 +26849,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-i98XL1E
 # Ver 2017-05-26T17:54:06Z Adam Stat-New >Wikipédia-szócikkek tetején
-條目 条目 [tiao2 mu4] /szócikk (lexikonban, szótárban stb.)/
+# 條目 条目 [tiao2 mu4] /szócikk (lexikonban, szótárban stb.)/
+# Ver 2017-05-29T14:38:02Z Adam Stat-New >elválasztójel
+條目 条目 [tiao2 mu4] /szó|cikk (lexikonban, szótárban stb.)/
 
 # ID-i98Zc0y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -27067,6 +27188,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-j10Mw2i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 精簡 精简 [jing1 jian3] /egyszerűsít/csökkent/le|épít; racionalizál/
+
+# ID-j10RN8L
+# Ver 2017-05-29T07:45:16Z gabor Stat-New >MDBG; http://languagelog.ldc.upenn.edu/nll/?p=32933
+蛤 蛤 [ge2] /kagyló/
 
 # ID-j11cF5b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -30200,6 +30325,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 預期 预期 [yu4 qi1] /vár; számít (vmire)/
 
+# ID-k17lE6F
+# Ver 2017-05-29T11:50:42Z Adam Stat-New >CC-CEDICT és más szótárak
+咖啡因 咖啡因 [ka1 fei1 yin1] /(átirat) koffein/
+
 # ID-k17md8A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 失陪 失陪 [shi1 pei2] /viszontlátásra/bocsássanak meg, távoznom kell/
@@ -32666,6 +32795,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 堤壩 堤坝 [di1 ba4] /gát (építmény, pl. folyón)/
 
+# ID-k99xJ1F
+# Ver 2017-05-29T14:08:51Z Adam Stat-New >Pleco-szótár és CC-CEDICT
+外傷 外伤 [wai4 shang1] /sérülés; sebesülés/trauma/
+
 # ID-k99FW5y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 萬一 万一 [wan4 yi1] /tízezred/eshetőség/arra az esetre, ha/
@@ -33914,7 +34047,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-l40YB2j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-造就 造就 [zao4 jiu4] /létre|hoz/fel|nevel/ki|képez/éredmények/
+# 造就 造就 [zao4 jiu4] /létre|hoz/fel|nevel/ki|képez/éredmények/
+# Ver 2017-05-29T12:39:28Z Adam Stat-Verif >elírás jav.
+造就 造就 [zao4 jiu4] /létre|hoz/fel|nevel/ki|képez/eredmények/
 
 # ID-l40ZN6L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -34366,7 +34501,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-l56VH9l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-聖誕 圣诞 [sheng4 dan4] /Karácsony/(hagyományosan: Konfuciusz születésnapja; isten\Buddha\császár születésnapja)/
+# 聖誕 圣诞 [sheng4 dan4] /Karácsony/(hagyományosan: Konfuciusz születésnapja; isten\Buddha\császár születésnapja)/
+# Ver 2017-05-29T12:56:56Z Adam Stat-Verif >ünnepek, események neve magyarul kisbetűs
+聖誕 圣诞 [sheng4 dan4] /karácsony/(hagyományosan: Konfuciusz születésnapja; isten\Buddha\császár születésnapja)/
 
 # ID-l56Wf6p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -35866,6 +36003,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 愛美 爱美 [ai4 mei3] /a szépség szeretete/szeret jól meg|jelenni/
 
+# ID-m14zj0U
+# Ver 2017-05-29T12:10:11Z Adam Stat-New >可可树 szócikk alapján
+可可 可可 [ke3 ke3] /kakaó (növény)/
+
 # ID-m14JW2N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 傷感 伤感 [shang1 gan3] /szomorú/el|érzékenyült/
@@ -36126,7 +36267,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-m21WI0d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-西班牙 西班牙 [xi1 ban1 ya2] /Spanyolország/
+# 西班牙 西班牙 [xi1 ban1 ya2] /Spanyolország/
+# Ver 2017-05-29T12:20:55Z Adam Stat-Verif >függőleges elválasztójel, címke
+西班牙 西班牙 [xi1 ban1 ya2] /(földrajzi név) Spanyol|ország/
 
 # ID-m21Yh5y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -37472,7 +37615,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-m65Jx3n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-瑞典 瑞典 [rui4 dian3] /(földrajzi név) Svédország/
+# 瑞典 瑞典 [rui4 dian3] /(földrajzi név) Svédország/
+# Ver 2017-05-29T12:28:36Z Adam Stat-Verif >elválasztójel
+瑞典 瑞典 [rui4 dian3] /(földrajzi név) Svéd|ország/
 
 # ID-m65Mi7B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -39402,7 +39547,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-n31vj5S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-沙發 沙发 [sha1 fa1] /kanapé/szófa/SZ:條|条[tiao2],張|张[zhang1]/
+# 沙發 沙发 [sha1 fa1] /kanapé/szófa/SZ:條|条[tiao2],張|张[zhang1]/
+# Ver 2017-05-29T12:32:40Z Adam Stat-Verif >"átirat" beszúrása
+沙發 沙发 [sha1 fa1] /(átirat) kanapé; szófa/SZ:條|条[tiao2],張|张[zhang1]/
 
 # ID-n31Ek8K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -41944,7 +42091,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-o14Xz0Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-空白 空白 [kong4 bai2] /szó|köz/üresség; űr/
+# 空白 空白 [kong4 bai2] /szó|köz/üresség; űr/
+# Ver 2017-05-29T11:49:14Z Adam Stat-Verif >a "szóköz"-re inkább egy másik szót használnak, ez viszont "üres hely" (CC-CEDICT, Pleco-szótár) és jelzőszerű is lehet (Wiktionary, Pleco-szótár, HanDeDict alapján)
+空白 空白 [kong4 bai2] /űr; üresség; üres hely/üres (kitöltetlen, pl. csekk)/
 
 # ID-o14XA1d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -43882,6 +44031,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 慈祥 慈祥 [ci2 xiang2] /kedves/jóságos/
 
+# ID-o85AG2p
+# Ver 2017-05-29T07:41:00Z gabor Stat-New >MDBG; http://languagelog.ldc.upenn.edu/nll/?p=32933
+外殼 外壳 [wai4 ke2] /külső héj/tok/boríték/
+
 # ID-o85Sq1b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 音樂劇 音乐剧 [yin1 yue4 ju4] /musical/
@@ -44093,6 +44246,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-o92zS3L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 熬 熬 [ao2] /forr (folyadék)/forral; főz; párol/ki|bír; ki|áll (nehézséget, szenvedést)/
+
+# ID-o92Gm2C
+# Ver 2017-05-29T12:06:50Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+果醬 果酱 [guo3 jiang4] /lekvár/
 
 # ID-o92ZP7z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -44841,6 +44998,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-p17Eh0q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 鐘 钟 [zhong1] /óra/órakor (időpont megadásában)/harang/
+
+# ID-p17JV4V
+# Ver 2017-05-29T12:48:05Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+洲 洲 [zhou1] /kontinens; föld|rész (kontinensek nevének utótagjaként is)/
 
 # ID-p17Ly6B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
