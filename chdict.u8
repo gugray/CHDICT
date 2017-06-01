@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-05-30T02:00:01Z
+# Datenstand: 2017-06-01T02:00:02Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -37405,6 +37405,12 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 猜 猜 [cai1] /ki|talál/
 
+# ID-m57Rq9S
+# Ver 2017-05-31T18:22:18Z 小川好友 Stat-New >A fogalomról kínai nyelven lehet olvasni itt/关于这个表现可以读汉语的这里: https://zh.wikipedia.org/wiki/菩提心\nA fogalomról magyar nyelven lehet olvasni a következő könyvben/关于这个表现可以读匈牙利语的这本书: Andrew Skilton: A buddhizmus rövid története, Damaru Könyvkiadó, 2013 (96-97. oldalon/从九十六页，到九十七页)
+# 菩提心 菩提心 [pu2 ti2 xin1] /Bódhicsitta/A felébredésre irányuló önzetlen szándék a buddhista hagyományban/
+# Ver 2017-05-31T19:10:28Z 小川好友 Stat-New >A fogalomról kínai nyelven lehet olvasni itt/关于这个表现可以读汉语的这里: https://zh.wikipedia.org/wiki/菩提心\nA fogalomról magyar nyelven lehet olvasni a következő könyvben/关于这个表现可以读匈牙利语的这本书: Andrew Skilton: A buddhizmus rövid története, Damaru Könyvkiadó, 2013, ISBN: 978-963-88497-3-1 (96-97. oldalon/从九十六页，到九十七页)
+菩提心 菩提心 [pu2 ti2 xin1] /Bódhicsitta/A felébredésre irányuló önzetlen szándék a buddhista hagyományban/
+
 # ID-m57UG4m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 明顯 明显 [ming2 xian3] /világos/nyilvánvaló/evidens/
@@ -44400,6 +44406,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-o97AU9r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 筒 筒 [tong3] /cső/henger/
+
+# ID-o97DN4K
+# Ver 2017-05-31T19:08:56Z 小川好友 Stat-New >A kifejezésről olvasni lehet kínaiul itt/关于这个表现可以读汉语的这里: \nhttps://zh.wikipedia.org/wiki/佛经\nA kifejezésről olvasni lehet magyarul ebben a könyvben/关于这个表现可以读这本书:\nAndrew Skilton: A buddhizmus rövid története, Damaru Könyvkiadó, 2013, ISBN: 978-963-88497-3-1 (70-71. oldal; 87-95. oldal/从七十页，到七十一页；从八十七页，到九十五)
+佛經 佛经 [fo2 jing1] /(buddhista) szútra/Buddhista szentirat (amit a Buddha mondott a hagyomány szerint)/
 
 # ID-o97NL7F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
