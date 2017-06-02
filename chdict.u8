@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-06-01T02:00:02Z
+# Datenstand: 2017-06-02T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -20777,7 +20777,9 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 沙拉 沙拉 [sha1 la1] /saláta/
 # Ver 2017-05-29T12:33:24Z Adam Stat-Verif >"átirat" és egyértelműsítés beszúrása
-沙拉 沙拉 [sha1 la1] /(átirat) saláta (mint önálló étel)/
+# 沙拉 沙拉 [sha1 la1] /(átirat) saláta (mint önálló étel)/
+# Ver 2017-06-01T05:45:26Z gabor Stat-Verif >ezeknél (mint még pl. 沙发 stb.) szándékosan nem alkalmazom az "átirat"-ot. tk. minden fonetikusan átvett jövevényszó átiratként indul, csak ami már "régóta" van és meggyökeresedett, ott nem annyira szembeötlő. plusztán az újdonság szerintem nem elég ok, illetve akkor végtelen történetet nyitunk, hogy hol indokolt még a címek, hol nem indokolt már.\naz átiratot azokra az esetekre tartottam fenn, ahol semmi más szerepe nincs egy szónak, mint hogy egy idennyelvű megnevezést (jellemzően tulajdonnevet) mégiscsak le lehessen írni. szempont 1: nincs "jelentése"; szempont 2: nem konkrét személy, hely stb. neve, ez esetben ui. "tulajdonnév" vagy annak vmelyik alfaja.
+沙拉 沙拉 [sha1 la1] /saláta (mint önálló étel)/
 
 # ID-g92BK1F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -36259,7 +36261,11 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-28T11:08:43Z tlaura Stat-New >http://ce.linedict.com/dict.html#/cnen/entry/a1b2ae4d93344d11ae6cab8cde7fe206
 # 責任感 责任感 [ze2 ren4 gan3] /kötelességtudat/
 # Ver 2017-05-28T14:00:27Z Adam Stat-New >+ jelentés (CC-CEDICT, HanDeDict, Tuttle kínaiszótára és példamondata, Wiktionary alapján); elemek tagolása
-責任感 责任感 [ze2 ren4 gan3] /kötelesség|tudat/felelősség|érzet/
+# 責任感 责任感 [ze2 ren4 gan3] /kötelesség|tudat/felelősség|érzet/
+# Ver 2017-06-01T05:41:07Z gabor Stat-New >szubjektíven itt elválasztás szükségtelen: feltehetőleg nem segít a "kötelességtudatot", ha a "tudat"-ra keresek; érzet / felelősségérzet dettó
+# 責任感 责任感 [ze2 ren4 gan3] /kötelességtudat/felelősségérzet/
+# Ver 2017-06-01T05:41:15Z gabor Stat-Verif >.
+責任感 责任感 [ze2 ren4 gan3] /kötelességtudat/felelősségérzet/
 
 # ID-m21WG1s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -37409,7 +37415,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-31T18:22:18Z 小川好友 Stat-New >A fogalomról kínai nyelven lehet olvasni itt/关于这个表现可以读汉语的这里: https://zh.wikipedia.org/wiki/菩提心\nA fogalomról magyar nyelven lehet olvasni a következő könyvben/关于这个表现可以读匈牙利语的这本书: Andrew Skilton: A buddhizmus rövid története, Damaru Könyvkiadó, 2013 (96-97. oldalon/从九十六页，到九十七页)
 # 菩提心 菩提心 [pu2 ti2 xin1] /Bódhicsitta/A felébredésre irányuló önzetlen szándék a buddhista hagyományban/
 # Ver 2017-05-31T19:10:28Z 小川好友 Stat-New >A fogalomról kínai nyelven lehet olvasni itt/关于这个表现可以读汉语的这里: https://zh.wikipedia.org/wiki/菩提心\nA fogalomról magyar nyelven lehet olvasni a következő könyvben/关于这个表现可以读匈牙利语的这本书: Andrew Skilton: A buddhizmus rövid története, Damaru Könyvkiadó, 2013, ISBN: 978-963-88497-3-1 (96-97. oldalon/从九十六页，到九十七页)
-菩提心 菩提心 [pu2 ti2 xin1] /Bódhicsitta/A felébredésre irányuló önzetlen szándék a buddhista hagyományban/
+# Ver 2017-06-01T05:33:48Z gabor Stat-New >apró formai változtatás - parafrázis/magyarázat zárójelben
+# 菩提心 菩提心 [pu2 ti2 xin1] /bódhicsitta (a felébredésre irányuló önzetlen szándék a buddhista hagyományban)/
+# Ver 2017-06-01T05:34:08Z gabor Stat-Verif >.
+菩提心 菩提心 [pu2 ti2 xin1] /bódhicsitta (a felébredésre irányuló önzetlen szándék a buddhista hagyományban)/
 
 # ID-m57UG4m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -44409,7 +44418,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-o97DN4K
 # Ver 2017-05-31T19:08:56Z 小川好友 Stat-New >A kifejezésről olvasni lehet kínaiul itt/关于这个表现可以读汉语的这里: \nhttps://zh.wikipedia.org/wiki/佛经\nA kifejezésről olvasni lehet magyarul ebben a könyvben/关于这个表现可以读这本书:\nAndrew Skilton: A buddhizmus rövid története, Damaru Könyvkiadó, 2013, ISBN: 978-963-88497-3-1 (70-71. oldal; 87-95. oldal/从七十页，到七十一页；从八十七页，到九十五)
-佛經 佛经 [fo2 jing1] /(buddhista) szútra/Buddhista szentirat (amit a Buddha mondott a hagyomány szerint)/
+# 佛經 佛经 [fo2 jing1] /(buddhista) szútra/Buddhista szentirat (amit a Buddha mondott a hagyomány szerint)/
+# Ver 2017-06-01T05:37:14Z gabor Stat-New >apró formai korrekció: szabad kiegészítés/egyérelműsítés a megfelelő után; jelentés elején kötöttebb címkék közül válogatunk :)
+# 佛經 佛经 [fo2 jing1] /szútra (buddhizmus)/buddhista szentirat (amit a Buddha mondott a hagyomány szerint)/
+# Ver 2017-06-01T05:37:18Z gabor Stat-Verif >.
+佛經 佛经 [fo2 jing1] /szútra (buddhizmus)/buddhista szentirat (amit a Buddha mondott a hagyomány szerint)/
 
 # ID-o97NL7F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
