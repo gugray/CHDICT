@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-06-02T02:00:01Z
+# Datenstand: 2017-06-04T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -12765,6 +12765,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 食 食 [si4] /táplál/
 
+# ID-e24Hd0x
+# Ver 2017-06-03T21:50:30Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+貝拉剋奧巴馬 贝拉克奥巴马 [bei4 la1 ke4 ao4 ba1 ma3] /(személynév) Barack Obama (1961–)/
+
 # ID-e24Kd1O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 稠密 稠密 [chou2 mi4] /sűrű/
@@ -14685,6 +14689,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 推廣 推广 [tui1 guang3] /népszerűsít/el|terjeszt/promóció/
 
+# ID-e87vD5r
+# Ver 2017-06-03T21:55:56Z Adam Stat-New >CC-CEDICT és Pleco-szótár
+澤 泽 [ze2] /tó; medence/nedves/csillogás/
+
 # ID-e87wA5Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 劃 划 [hua2] /meg|karcol/meg|gyújt (gyufát)/ki|húz (pl. elemet, listáról)/
@@ -15620,6 +15628,12 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-f18Xd4x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 野馬 野马 [ye3 ma3] /vad|ló/
+
+# ID-f18Zq4F
+# Ver 2017-06-03T21:43:09Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+# 毛澤東 毛泽东 [mao2 ze2 dong1] /Mao Ce-tung (1893–1976)/
+# Ver 2017-06-03T21:46:37Z Adam Stat-New >címke beszúrása
+毛澤東 毛泽东 [mao2 ze2 dong1] /(személynév) Mao Ce-tung (1893–1976)/
 
 # ID-f19gp5F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -34149,6 +34163,12 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 差異 差异 [cha1 yi4] /különbség/eltérés/diszkrepancia/
 
+# ID-l45vj4j
+# Ver 2017-06-03T21:44:48Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+# 鄧小平 邓小平 [deng4 xiao3 ping2] /Teng Hsziao-ping (1904–1997)/
+# Ver 2017-06-03T21:46:19Z Adam Stat-New >címke beszúrása
+鄧小平 邓小平 [deng4 xiao3 ping2] /(személynév) Teng Hsziao-ping (1904–1997)/
+
 # ID-l45Dw3C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 後果 后果 [hou4 guo3] /következmények/utóhatás/
@@ -38918,7 +38938,13 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-n06TV9G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-資料 资料 [zi1 liao4] /adat/információ/anyag/SZ:份[fen4],個|个[ge4]/
+# 資料 资料 [zi1 liao4] /adat/információ/anyag/SZ:份[fen4],個|个[ge4]/
+# Ver 2017-06-03T21:57:32Z Adam Stat-Verif >+ jelentés (CC-CEDICT alapján)
+# 資料 资料 [zi1 liao4] /adat/információ/anyag/SZ:份[fen4],個|个[ge4]/profil (interneten)/
+# Ver 2017-06-03T21:57:33Z Adam Stat-Verif >+ jelentés (CC-CEDICT alapján)
+# Ver 2017-06-03T21:57:37Z Adam Stat-Verif >+ jelentés (CC-CEDICT alapján)
+# Ver 2017-06-03T21:57:40Z Adam Stat-Verif >+ jelentés (CC-CEDICT alapján)
+資料 资料 [zi1 liao4] /adat/információ/anyag/SZ:份[fen4],個|个[ge4]/profil (interneten)/
 
 # ID-n06XN1f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
