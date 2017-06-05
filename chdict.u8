@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-06-04T02:00:01Z
+# Datenstand: 2017-06-05T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -130,7 +130,9 @@
 
 # ID-a03ub9z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-未經 未经 [wei4 jing1] /nélkül/még nem/
+# 未經 未经 [wei4 jing1] /nélkül/még nem/
+# Ver 2017-06-04T22:08:16Z Adam Stat-Verif >konkrétabb jelentés CC-CEDICT alapján
+未經 未经 [wei4 jing1] /nélkül (anélkül, hogy vmire sor került volna)/még nem/
 
 # ID-a03wg5i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -664,6 +666,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 勇氣 勇气 [yong3 qi4] /bátorság/
 
+# ID-a21ls9t
+# Ver 2017-06-04T22:43:47Z Adam Stat-New >magyar Wikipédia
+戴伯納 戴伯纳 [dai4 bo2 na4] /(személynév) Tálas Barna (1928–)/
+
 # ID-a21na6t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 佐 佐 [zuo3] /asszisztens/segéd/asszisztál; segít/
@@ -1089,6 +1095,10 @@
 # ID-a33yc1z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 互動 互动 [hu4 dong4] /interaktív/kölcsönhatásba lép/
+
+# ID-a33Gc4r
+# Ver 2017-06-04T22:33:06Z Adam Stat-New >magyar Wikipédia
+高恩德 高恩德 [gao1 en1 de2] /(személynév) Galla Endre (1926–2008)/
 
 # ID-a33Jd9K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -1796,6 +1806,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 爛攤子 烂摊子 [lan4 tan1 zi5] /szörnyű rendetlenség/
 
+# ID-a55PI9w
+# Ver 2017-06-04T17:22:22Z Adam Stat-New >Wikipédia, CC-CEDICT
+明朝 明朝 [ming2 chao2] /Ming-dinasztia (1368–1644)/
+
 # ID-a55SI9R
 # Ver 2017-05-29T07:43:59Z gabor Stat-New >MDBG; http://languagelog.ldc.upenn.edu/nll/?p=32933
 蛤蜊 蛤蜊 [ge2 li2] /kagyló/
@@ -2482,6 +2496,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 撤退 撤退 [che4 tui4] /ki|von (csapatokat)/
 
+# ID-a78SX6X
+# Ver 2017-06-04T17:21:59Z Adam Stat-New >Wikipédia, CC-CEDICT
+元朝 元朝 [yuan2 chao2] /Jüan-dinasztia (1279–1368)/
+
 # ID-a78Yy7B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 遵守 遵守 [zun1 shou3] /be|tart (törvényt, szabályt, szerződést stb.)/
@@ -2552,7 +2570,9 @@
 
 # ID-a82gu6W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-經線 经线 [jing1 xian4] /hosszúsági kör/hosszúsági fok/dél|kör/
+# 經線 经线 [jing1 xian4] /hosszúsági kör/hosszúsági fok/dél|kör/
+# Ver 2017-06-04T21:57:11Z Adam Stat-Verif >ami egyazon jelentés, az egy helyen legyen; ami kicsit más jelentés, az pedig külön (+ egy szinonima a "Hosszúsági kör" Wikipédia-szócikkből)
+經線 经线 [jing1 xian4] /hosszúsági kör; dél|kör; meridián (földrajz)/hosszúsági fok/
 
 # ID-a82jP8L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -3040,7 +3060,9 @@
 
 # ID-a96Ud1Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-一 一 [yi1] /egy (számnév: 1)/amint/
+# 一 一 [yi1] /egy (számnév: 1)/amint/
+# Ver 2017-06-04T22:26:37Z Adam Stat-Verif >jelentés pontosítása
+一 一 [yi1] /egy (számnév: 1)/amint; mihelyt (就-val párban)/
 
 # ID-a96Zi9j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -3225,6 +3247,10 @@
 # ID-b02RX9B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 應允 应允 [ying4 yun3] /bele|egyezik/hozzá|járul/
+
+# ID-b02Tn5i
+# Ver 2017-06-04T17:21:07Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+五代十國 五代十国 [wu3 dai4 shi2 guo2] /az öt dinasztia és a tíz királyság kora (907–979)/
 
 # ID-b03hi6z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -4333,6 +4359,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 特地 特地 [te4 di4] /különösen; külön (vmilyen célra)/
 
+# ID-b39Sk6N
+# Ver 2017-06-04T19:52:57Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+義勇軍進行曲 义勇军进行曲 [yi4 yong3 jun1 jin4 xing2 qu3] /Az önkéntesek indulója (Kína himnusza)/
+
 # ID-b39SW4j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 伺候 伺候 [ci4 hou4] /ki|szolgál (vendéget)/el|lát/
@@ -4730,6 +4760,10 @@
 # ID-b54it7q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 段 段 [duan4] /bekezdés/szakasz/rész/(számlálószó: történetek, időtartamok; egy hossz fonál)/
+
+# ID-b54rW2s
+# Ver 2017-06-04T22:05:53Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+經度 经度 [jing1 du4] /hosszúsági fok; hosszúság (földrajz)/
 
 # ID-b54DO2N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -5565,7 +5599,11 @@
 
 # ID-b82ty9V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-陳 陈 [chen2] /régi; el|avult/ki|állít; be|mutat/állít; el|mond/(családnév) Chen/Chen-dinasztia (i.sz. 557-589)/
+# 陳 陈 [chen2] /régi; el|avult/ki|állít; be|mutat/állít; el|mond/(családnév) Chen/Chen-dinasztia (i.sz. 557-589)/
+# Ver 2017-06-04T17:10:44Z Adam Stat-Verif >dinasztia nevéhez magyaros átírás, nagykötőjel
+# 陳 陈 [chen2] /régi; el|avult/ki|állít; be|mutat/állít; el|mond/(családnév) Chen/Csen-dinasztia (i.sz. 557–589)/
+# Ver 2017-06-04T17:15:39Z Adam Stat-Verif >+ címke a dinasztiához
+陳 陈 [chen2] /régi; el|avult/ki|állít; be|mutat/állít; el|mond/(családnév) Chen/(tulajdonnév) Csen-dinasztia (i.sz. 557–589)/
 
 # ID-b82tz2O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -5648,6 +5686,10 @@
 # ID-b84SN7H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 狹隘 狭隘 [xia2 ai4] /keskeny; szűk/szűk|látókörű; korlátolt/
+
+# ID-b85aR0d
+# Ver 2017-06-04T18:56:26Z Adam Stat-New >Wikipédia, Baike Baidu (a 更 pinjin-átírása ellenőrizendő)
+城市讓生活更美好 城市让生活更美好 [cheng2 shi4 rang4 sheng1 huo2 geng4 mei3 hao3] /„jobb város, jobb élet” (a 2010-es sanghaji világkiállítás szlogenje)/
 
 # ID-b85bW6X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -6002,6 +6044,10 @@
 # ID-b95lk8D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 卷宗 卷宗 [juan4 zong1] /mappa/dosszié/
+
+# ID-b95lz2R
+# Ver 2017-06-04T17:37:02Z Adam Stat-New >Wikipédia, CC-CEDICT
+商朝 商朝 [shang1 chao2] /Sang-dinasztia (i.e. 1600 körül – i.e. 1046)/
 
 # ID-b95xQ8v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -6611,7 +6657,9 @@
 
 # ID-c17NH3D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-漢 汉 [han4] /han kínai (etnikai csoport)/kínai nyelv/(tulajdonnév) Han-dinasztia/
+# 漢 汉 [han4] /han kínai (etnikai csoport)/kínai nyelv/(tulajdonnév) Han-dinasztia/
+# Ver 2017-06-04T17:11:48Z Adam Stat-Verif >kiegészítés dátummal (a többi hasonló dinasztiahivatkozás mintájára)
+漢 汉 [han4] /han kínai (etnikai csoport)/kínai nyelv/(tulajdonnév) Han-dinasztia (i.e. 206 – i.sz. 220)/
 
 # ID-c17TL5Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -7847,6 +7895,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 經銷處 经销处 [jing1 xiao1 chu3] /terjesztő; viszont|eladó (adott árucikk terjesztési jogával rendelkező cég)/
 
+# ID-c60bT1x
+# Ver 2017-06-04T19:28:11Z Adam Stat-New >CC-CEDICT
+障 障 [zhang4] /akadályoz/
+
 # ID-c60fS9V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 堡 堡 [bao3] /erődítmény/
@@ -8049,7 +8101,9 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 夏 夏 [xia4] /nyár/(Kínai régi neve)/Xia (dinasztia; családnév)/
 # Ver 2017-05-27T15:39:50Z Adam Stat-Verif >elírás javítása
-夏 夏 [xia4] /nyár/(Kína régi neve)/Xia (dinasztia; családnév)/
+# 夏 夏 [xia4] /nyár/(Kína régi neve)/Xia (dinasztia; családnév)/
+# Ver 2017-06-04T17:38:48Z Adam Stat-Verif >dinasztia külön beillesztése a többi hasonló szócikknek megfelelően
+夏 夏 [xia4] /nyár/(Kína régi neve)/(tulajdonnév) Hszia-dinasztia (i.e. 2070 – i.e. 1600 körül)/(családnév) Xia/
 
 # ID-c66Yc7V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -8241,6 +8295,10 @@
 # Ver 2017-05-21T20:52:10Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
 馬勞伊山多爾 马劳伊山多尔 [ma3 lao2 yi1 shan1 duo1 er3] /(átirat) Márai Sándor/
 
+# ID-c73rs3R
+# Ver 2017-06-04T23:37:11Z Adam Stat-New >Baike Baidu, Amazon.cn és más források
+莫爾納費倫茨 莫尔纳费伦茨 [mo4 er3 na4 fei4 lun2 ci2] /(személynév) Molnár Ferenc (1878–1952)/
+
 # ID-c73sZ3f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 解體 解体 [jie3 ti3] /szét|esik/fel|bomlik/
@@ -8255,7 +8313,9 @@
 
 # ID-c74bo8P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-時期 时期 [shi2 qi1] /idő|szak/fázis/SZ:個|个[ge4]/
+# 時期 时期 [shi2 qi1] /idő|szak/fázis/SZ:個|个[ge4]/
+# Ver 2017-06-04T17:34:02Z Adam Stat-Verif >kínai Wikipédia 春秋时期, 三年困难时期 szócikkei, további összetett CC-CEDICT-szócikkek és szokásos magyar megfelelőik alapján
+時期 时期 [shi2 qi1] /kor|szak/idő|szak; fázis/SZ:個|个[ge4]/
 
 # ID-c74ee1i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -8355,7 +8415,9 @@
 
 # ID-c76YS4c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-元 元 [yuan2] /pénzegység (kínában: jüan; USA-ban: dollár)/jüan/elsődleges/alapvető/
+# 元 元 [yuan2] /pénzegység (kínában: jüan; USA-ban: dollár)/jüan/elsődleges/alapvető/
+# Ver 2017-06-04T17:14:07Z Adam Stat-Verif >kiegészítés dinasztiával; Kína nagybetűvel
+元 元 [yuan2] /pénzegység (Kínában: jüan; USA-ban: dollár)/jüan/elsődleges/alapvető/(tulajdonnév) Jüan-dinasztia (1279–1368)/
 
 # ID-c77av2R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -9479,6 +9541,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 飛彈 飞弹 [fei1 dan4] /rakéta/
 
+# ID-d12cL3F
+# Ver 2017-06-04T22:51:06Z Adam Stat-New >https://peking.mfa.gov.hu/chn/page/munkatarsak és sok más forrás
+宋妮雅 宋妮雅 [song4 ni1 ya3] /(személynév) Buslig Szonja Andrea (1974–)/
+
 # ID-d12eo0G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 處分 处分 [chu3 fen4] /fegyelmez/meg|büntet/fegyelmi eljárás/el|dönt; meg|old (ügyet)/
@@ -9858,6 +9924,10 @@
 # ID-d25Xw1w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 真摯 真挚 [zhen1 zhi4] /őszinte/őszinteség/
+
+# ID-d26nB2O
+# Ver 2017-06-04T18:15:38Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+文化大革命 文化大革命 [wen2 hua4 da4 ge2 ming4] /kulturális forradalom (Kína, 1966–1976)/
 
 # ID-d26om8L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -11543,7 +11613,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-d82oi9W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-旁氏 旁氏 [pang2 shi4] /(tulajdonnév) Pond's (kozmetikai márkanév)/
+# 旁氏 旁氏 [pang2 shi4] /(tulajdonnév) Pond's (kozmetikai márkanév)/
+# Ver 2017-06-04T22:11:58Z Adam Stat-Verif >nyomdai aposztróf
+旁氏 旁氏 [pang2 shi4] /(tulajdonnév) Pond’s (kozmetikai márkanév)/
 
 # ID-d82pO7V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -11600,6 +11672,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-d83Rp7N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 惡魔 恶魔 [e4 mo2] /démon/ördög/
+
+# ID-d83WW9X
+# Ver 2017-06-04T22:36:58Z Adam Stat-New >magyar Wikipédia
+杜剋義 杜克义 [du4 ke4 yi4] /(személynév) Tőkei Ferenc (1930–2000)/
 
 # ID-d84fW4C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -11848,6 +11924,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-d93wX9P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 桃樹 桃树 [tao2 shu4] /barack|fa/
+
+# ID-d93xC3i
+# Ver 2017-06-04T17:24:06Z Adam Stat-New >Wikipédia, CC-CEDICT
+三國 三国 [san1 guo2] /három királyság kora (220–280)/
 
 # ID-d93HA8l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -12118,6 +12198,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-e02ip1m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 防 防 [fang2] /meg|véd/őriz/anti-/
+
+# ID-e02nN7T
+# Ver 2017-06-04T17:59:01Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+共和制 共和制 [gong4 he2 zhi4] /köztársaság/
 
 # ID-e02pG6B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -12716,6 +12800,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-e23tJ7x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 乾淨 干净 [gan1 jing4] /tiszta/rendes/
+
+# ID-e23xV1A
+# Ver 2017-06-04T17:19:46Z Adam Stat-New >Wikipédia, CC-CEDICT
+隋朝 隋朝 [sui2 chao2] /Szuj-dinasztia (581–618)/
 
 # ID-e23zN2Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -14297,7 +14385,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-e72de1j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-攝像頭 摄像头 [she4 xiang4 tou2] /webkamera/webcam/térfigyelő kamera/
+# 攝像頭 摄像头 [she4 xiang4 tou2] /webkamera/webcam/térfigyelő kamera/
+# Ver 2017-06-04T22:11:10Z Adam Stat-Verif >az első két jelentés mintha valójában ugyanaz lenne
+攝像頭 摄像头 [she4 xiang4 tou2] /webkamera; webcam/térfigyelő kamera/
 
 # ID-e72dR7F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -14931,6 +15021,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 辛 辛 [xin1] /csípős/keserű/(családnév) Xin/
 
+# ID-e95bK5m
+# Ver 2017-06-04T17:20:30Z Adam Stat-New >Wikipédia, CC-CEDICT
+唐朝 唐朝 [tang2 chao2] /Tang-dinasztia (618–907)/
+
 # ID-e95eW9P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 一輩子 一辈子 [yi1 bei4 zi5] /egy életre/egy életen át/
@@ -15323,7 +15417,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-f09bl7z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-美國 美国 [mei3 guo2] /USA/
+# 美國 美国 [mei3 guo2] /USA/
+# Ver 2017-06-04T17:53:25Z Adam Stat-Verif >hivatalos név beszúrása (kereshetőség végett is)
+美國 美国 [mei3 guo2] /Amerikai Egyesült Államok; USA/
 
 # ID-f09dl6X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -15694,6 +15790,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-f21bP4r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 近義詞 近义词 [jin4 yi4 ci2] /szinonima/rokon|értelmű szó/
+
+# ID-f21jV1E
+# Ver 2017-06-04T17:36:36Z Adam Stat-New >Wikipédia, CC-CEDICT
+周朝 周朝 [zhou1 chao2] /Csou-dinasztia (i.e. 1046 – i.e. 256 körül)/
 
 # ID-f21wA6W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -16221,7 +16321,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-f38GP9z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-碩士 硕士 [shuo4 shi4] /egyetemi diploma (master's)/tanult ember/
+# 碩士 硕士 [shuo4 shi4] /egyetemi diploma (master's)/tanult ember/
+# Ver 2017-06-04T22:13:46Z Adam Stat-Verif >magyarul "mesterképzés"-nek lehet mondani
+碩士 硕士 [shuo4 shi4] /egyetemi diploma (mesterképzési szintű)/tanult ember/
 
 # ID-f39oA7M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -16487,7 +16589,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-f46Dy6f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-公元 公元 [gong1 yuan2] /időszámításunk szerint/i.sz./
+# 公元 公元 [gong1 yuan2] /időszámításunk szerint/i.sz./
+# Ver 2017-06-04T17:45:45Z Adam Stat-Verif >ez nem két jelentés, hanem egyazon jelentés kétféle változatban leírva
+公元 公元 [gong1 yuan2] /időszámításunk szerint; i. sz./
 
 # ID-f46Yt4x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -16539,7 +16643,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-f48Jq5X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-明 明 [ming2] /fényes/világos/tiszta (érthető)/ért/
+# 明 明 [ming2] /fényes/világos/tiszta (érthető)/ért/
+# Ver 2017-06-04T17:16:47Z Adam Stat-Verif >+ dinasztia
+明 明 [ming2] /fényes/világos/tiszta (érthető)/ért/(tulajdonnév) Ming-dinasztia (1368–1644)/
 
 # ID-f48Oq8U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -16650,6 +16756,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-f52Ru9S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 小孩子 小孩子 [xiao3 hai2 zi5] /gyerek/
+
+# ID-f52XR8Z
+# Ver 2017-06-04T22:33:49Z Adam Stat-New >magyar Wikipédia
+郝淸新 郝淸新 [hao3 qing1 xin1] /(személynév) Hamar Imre (1967–)/
 
 # ID-f52Yt4b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -17451,6 +17561,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 末代 末代 [mo4 dai4] /az utolsó generáció/dinasztia vége/
 
+# ID-f77zm7d
+# Ver 2017-06-04T17:56:16Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+中華人民共和國 中华人民共和国 [zhong1 hua2 ren2 min2 gong4 he2 guo2] /Kínai Nép|köztársaság/
+
 # ID-f77Fq1z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 歷代 历代 [li4 dai4] /egymást követő generációk/múltbeli dinasztiák/történelmi/
@@ -17849,6 +17963,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 總統 总统 [zong3 tong3] /állam|elnök/SZ:個|个[ge4],位[wei4],名[ming2],屆|届[jie4]/
 
+# ID-f91HQ3q
+# Ver 2017-06-04T18:14:11Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek; CC-CEDICT
+一國兩制 一国两制 [yi1 guo2 liang3 zhi4] /„egy ország, két rendszer” elv (a KNK javaslata Hongkongra, Makaóra és Tajvanra vonatkozóan)/
+
 # ID-f91MC6Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 禁止 禁止 [jin4 zhi3] /meg|tilt/tilos/tilalom/
@@ -17892,6 +18010,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-f93qe4g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 美麗 美丽 [mei3 li4] /gyönyörű/
+
+# ID-f93Ev5M
+# Ver 2017-06-04T17:57:03Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+人民共和國 人民共和国 [ren2 min2 gong4 he2 guo2] /nép|köztársaság/
 
 # ID-f93IE8a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -18853,7 +18975,13 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-g27yP1i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-清 清 [qing1] /tiszta/világos/igazságos és becsületes/Csing-dinasztia (i.sz. 1644-1911)/(családnév) Qing/
+# 清 清 [qing1] /tiszta/világos/igazságos és becsületes/Csing-dinasztia (i.sz. 1644-1911)/(családnév) Qing/
+# Ver 2017-06-04T17:01:50Z Adam Stat-Verif >nagykötőjel + záró évszám javítása dinasztiánál (angol és kínai nyelvű Wikipédia alapján)
+# 清 清 [qing1] /tiszta/világos/igazságos és becsületes/Csing-dinasztia (i.sz. 1644–1912)/(családnév) Qing/
+# Ver 2017-06-04T17:15:17Z Adam Stat-Verif >+ címke a dinasztiához
+# 清 清 [qing1] /tiszta/világos/igazságos és becsületes/(tulajdonnév) Csing-dinasztia (i.sz. 1644–1912)/(családnév) Qing/
+# Ver 2017-06-04T17:25:38Z Adam Stat-Verif >"i.sz." törölve, a dátumok növekvő sorrendjéből (és a jelöletlenségből) feltételezhető
+清 清 [qing1] /tiszta/világos/igazságos és becsületes/(tulajdonnév) Csing-dinasztia (1644–1912)/(családnév) Qing/
 
 # ID-g27Gu2Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -19423,6 +19551,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 指揮 指挥 [zhi3 hui1] /parancs/parancsnok/karmester/SZ:個|个[ge4]/parancsol/vezényel/
 
+# ID-g47zA9s
+# Ver 2017-06-04T17:22:53Z Adam Stat-New >Wikipédia, CC-CEDICT
+清朝 清朝 [qing1 chao2] /Csing-dinasztia (1644–1912)/
+
 # ID-g47Bq8Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 隆 隆 [long2] /virágzó; bőséges/nagyszerű; erős; hatalmas/duzzad/(családnév) Long/
@@ -19466,6 +19598,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-g48Tb0a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 痛快 痛快 [tong4 kuai4] /elragadtatott/boldog/örül/
+
+# ID-g48YE8t
+# Ver 2017-06-04T17:27:11Z Adam Stat-New >Wikipédia, CC-CEDICT
+漢朝 汉朝 [han4 chao2] /Han-dinasztia (i.e. 206 – i.sz. 220)/
 
 # ID-g49eq8o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -19719,6 +19855,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 撒尿 撒尿 [sa1 niao4] /vizel/pisil/
 
+# ID-g55WP8w
+# Ver 2017-06-04T19:15:01Z Adam Stat-New >Wikipédia, Baike Baidu
+一帶一路 一带一路 [yi1 dai4 yi1 lu4] /„egy övezet, egy út” (kínai fejlesztési stratégia)/
+
 # ID-g55Xc8I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 分佈 分布 [fen1 bu4] /el|oszlik; meg|oszlik (földrajzi területen)/el|oszt; szét|szór/
@@ -19813,7 +19953,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-g59ho1u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-商 商 [shang1] /kereskedelem/kereskedő/üzlet/hányados/(a pentaton skála 2. foka)/Shang dinasztia (i.e. 1700-1045)/(családnév) Shang/
+# 商 商 [shang1] /kereskedelem/kereskedő/üzlet/hányados/(a pentaton skála 2. foka)/Shang dinasztia (i.e. 1700-1045)/(családnév) Shang/
+# Ver 2017-06-04T17:04:48Z Adam Stat-Verif >dinasztiához kötőjel, magyaros átírás, elterjedtebb korszakhatárok (pl. angol, kínai Wikipédia alapján)
+# 商 商 [shang1] /kereskedelem/kereskedő/üzlet/hányados/(a pentaton skála 2. foka)/Sang-dinasztia (i.e. 1600–1046)/(családnév) Shang/
+# Ver 2017-06-04T17:14:53Z Adam Stat-Verif >+ címke a dinasztiához
+商 商 [shang1] /kereskedelem/kereskedő/üzlet/hányados/(a pentaton skála 2. foka)/(tulajdonnév) Sang-dinasztia (i.e. 1600–1046)/(családnév) Shang/
 
 # ID-g59tm1p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -19940,6 +20084,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-g63LD7t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 美夢 美梦 [mei3 meng4] /szép álom/
+
+# ID-g63Wy7L
+# Ver 2017-06-04T19:22:57Z Adam Stat-New >CC-CEDICT, Baike Baidu
+一葉障目 一叶障目 [yi1 ye4 zhang4 mu4] /(kifejezés) nem látja a fától az erdőt/
 
 # ID-g63Zi6O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -20205,7 +20353,9 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-21T23:06:05Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
 # 中華民國 中华民国 [zhong1 hua2 min2 guo2] /Kínai Köztársaság (Tajvan)/
 # Ver 2017-05-21T23:11:02Z Adam Stat-New >jelentések különválasztása; címke beszúrása
-中華民國 中华民国 [zhong1 hua2 min2 guo2] /(földrajzi név) Kínai Köztársaság/Tajvan/
+# 中華民國 中华民国 [zhong1 hua2 min2 guo2] /(földrajzi név) Kínai Köztársaság/Tajvan/
+# Ver 2017-06-04T18:11:07Z Adam Stat-New >ami ugyanarra utal, az egyazon jelentésben legyen; új, különálló jelentés hozzáadva
+中華民國 中华民国 [zhong1 hua2 min2 guo2] /(földrajzi név) Kínai Köztársaság; Tajvan (mai, részben függő terület)/(földrajzi név) Kínai Köztársaság (történelmi állam, 1912–1949)/
 
 # ID-g72Zi9l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -21199,6 +21349,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 人家 人家 [ren2 jia5] /mások/más|valaki/ő; ők/az ember (általánosságban, magamról beszélve)/
 
+# ID-h03mG1S
+# Ver 2017-06-04T18:18:14Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+馬克思主義 马克思主义 [ma3 ke4 si1 zhu3 yi4] /marxizmus/
+
 # ID-h03Fz0U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 靚 靓 [jing4] /ki|festi magát/
@@ -21384,6 +21538,10 @@ U盤 U盘 [U pan2] /pendrive/
 # 沒有 没有 [mei2 you3] /nincs (valamije: birtoklás tagadása)/nincs (nem létezik; nincs valahol)/(befejezett cselekvés, múltbeli megtörténtség tagadása)/
 # Ver 2017-05-23T21:24:42Z Adam Stat-Verif >rövidíteni szoktuk a vala- előtagú szavakat
 沒有 没有 [mei2 you3] /nincs (vmije: birtoklás tagadása)/nincs (nem létezik; nincs vhol)/(befejezett cselekvés, múltbeli megtörténtség tagadása)/
+
+# ID-h09NA5N
+# Ver 2017-06-04T23:48:54Z Adam Stat-New >Google-képek meglévő, könyvként kiadott fordításokról
+雅諾什勇士 雅诺什勇士 [ya3 nuo4 shi2 yong3 shi4] /János vitéz/
 
 # ID-h09Pb2j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -22123,6 +22281,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 座 座 [zuo4] /ülés/alap/állvány/SZ:個|个[ge4]/(számlálószó: épületek, hegyek, más mozdíthatatlan dolgok)/
 
+# ID-h37CU8o
+# Ver 2017-06-04T17:37:47Z Adam Stat-New >Wikipédia, CC-CEDICT
+夏朝 夏朝 [xia4 chao2] /Hszia-dinasztia (i.e. 2070 – i.e. 1600 körül)/
+
 # ID-h37FS1l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 看守 看守 [kan1 shou3] /őriz/őr/
@@ -22542,6 +22704,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-h52KA4e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 車禍 车祸 [che1 huo4] /közúti baleset/karambol/SZ:場|场[chang2]/
+
+# ID-h53dp5B
+# Ver 2017-06-04T22:32:17Z Adam Stat-New >magyar Wikipédia
+高奕睿 高奕睿 [gao1 yi4 rui4] /(személynév) Galambos Imre (1967–)/
 
 # ID-h53hd4e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -23045,7 +23211,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-h70Rs4a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-宋 宋 [song4] /(tulajdonnév) Song-dinasztia/(családnév) Song/
+# 宋 宋 [song4] /(tulajdonnév) Song-dinasztia/(családnév) Song/
+# Ver 2017-06-04T17:12:50Z Adam Stat-Verif >dinasztiához átírás; dátum beszúrása (a többi hasonló dinasztiahivatkozás mintájára)
+宋 宋 [song4] /(tulajdonnév) Szung-dinasztia (960–1279)/(családnév) Song/
 
 # ID-h71dR3S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -24075,6 +24243,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 約定 约定 [yue1 ding4] /megállapodás/alku/meg|egyezik/
 
+# ID-i02Yj6a
+# Ver 2017-06-04T22:35:20Z Adam Stat-New >magyar Wikipédia
+貝山 贝山 [bei4 shan1] /(személynév) P. Szabó Sándor (1973–)/
+
 # ID-i03di1L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 東區 东区 [dong1 qu1] /keleti város|rész/
@@ -24786,6 +24958,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-i27Sf0Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 名片 名片 [ming2 pian4] /névjegy|kártya/
+
+# ID-i28iH5T
+# Ver 2017-06-04T18:16:12Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+百花運動 百花运动 [bai3 hua1 yun4 dong4] /„száz virág” mozgalom (Kína, 1956–1957)/
 
 # ID-i28rQ5K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -25577,6 +25753,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 話 话 [hua4] /beszéd/nyelv/nyelv|járás/szavak/beszélgetés/SZ:種|种[zhong3],席[xi2],句[ju4],口[kou3],番[fan1]/
 
+# ID-i55qt8T
+# Ver 2017-06-04T22:04:31Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+緯度 纬度 [wei3 du4] /szélességi fok; szélesség (földrajz)/
+
 # ID-i55uc9D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 領土 领土 [ling3 tu3] /terület/
@@ -26055,7 +26235,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-i69Io3z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-膠帶 胶带 [jiao1 dai4] /ragasztó|szalag/szig|szalag/cellux/
+# 膠帶 胶带 [jiao1 dai4] /ragasztó|szalag/szig|szalag/cellux/
+# Ver 2017-06-04T19:15:52Z Adam Stat-Verif >nem árt, ha a teljes alak is elérhető
+膠帶 胶带 [jiao1 dai4] /ragasztó|szalag/szigetelő|szalag; szig|szalag/cellux/
 
 # ID-i69JL6x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -26425,6 +26607,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 折磨 折磨 [zhe2 mo2] /kínoz/gyötör/kínzás/
 
+# ID-i82uM4O
+# Ver 2017-06-04T17:18:27Z Adam Stat-New >Wikipédia, 隋朝 megfelelői alapján + CC-CEDICT
+隋 隋 [sui2] /(tulajdonnév) Szuj-dinasztia (581–618)/(családnév) Sui/
+
 # ID-i82CD8t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 籃 篮 [lan2] /kosár/
@@ -26613,7 +26799,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-i89Dk6q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-元旦 元旦 [yuan2 dan4] /Újév/
+# 元旦 元旦 [yuan2 dan4] /Újév/
+# Ver 2017-06-04T17:44:47Z Adam Stat-Verif >kisbetű; összetétel jelölése (magyarul ez szemantikus összetétel; jó, ha az "év" felől is megtalálható)
+元旦 元旦 [yuan2 dan4] /új|év/
 
 # ID-i89Ee2F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -27119,9 +27307,15 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 嗯 嗯 [en1] /(hangutánzó: nyögés)/
 
+# ID-j07xr9Q
+# Ver 2017-06-04T19:03:22Z Adam Stat-New >Wikipedia, Baidu Baike (vessző kéne bele…)
+同一個世界同一個夢想 同一个世界同一个梦想 [tong2 yi1 ge5 shi4 jie4 tong2 yi1 ge5 meng4 xiang3] /„egy világ, egy álom” (a 2008-as pekingi olimpia szlogenje)/
+
 # ID-j07yB0F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-國務院 国务院 [guo2 wu4 yuan4] /Állam|tanács (Kínában)/Külügy|minisztérium (State Deparment, az Egyesült Államokban)/
+# 國務院 国务院 [guo2 wu4 yuan4] /Állam|tanács (Kínában)/Külügy|minisztérium (State Deparment, az Egyesült Államokban)/
+# Ver 2017-06-04T17:52:34Z Adam Stat-Verif >elírás javítása
+國務院 国务院 [guo2 wu4 yuan4] /Állam|tanács (Kínában)/Külügy|minisztérium (State Department, az Egyesült Államokban)/
 
 # ID-j07EM4L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -27759,7 +27953,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-j29PJ5p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-週 周 [zhou1] /hét (naptári időtartam)/kör/áram|kör/köröz/kerület/egészen/teljes/ki|segít (pénzzel)/(családnév) Zhou (dinasztia neve is)/
+# 週 周 [zhou1] /hét (naptári időtartam)/kör/áram|kör/köröz/kerület/egészen/teljes/ki|segít (pénzzel)/(családnév) Zhou (dinasztia neve is)/
+# Ver 2017-06-04T17:39:41Z Adam Stat-Verif >dinasztia külön beillesztése a többi hasonló szócikknek megfelelően
+週 周 [zhou1] /hét (naptári időtartam)/kör/áram|kör/köröz/kerület/egészen/teljes/ki|segít (pénzzel)/(tulajdonnév) Csou-dinasztia (i.e. 1046 – i.e. 256 körül)/(családnév) Zhou/
 
 # ID-j30aH6P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -27840,6 +28036,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-j32ZL0u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 田 田 [tian2] /mező/termő|föld/SZ:片[pian4]/(családnév) Tian/
+
+# ID-j33cA2d
+# Ver 2017-06-04T22:40:33Z Adam Stat-New >magyar Wikipédia
+康高寶 康高宝 [kang1 gao1 bao3] /(személynév) Kósa Gábor (1971–)/
 
 # ID-j33fZ1X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -28357,6 +28557,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 隱形 隐形 [yin3 xing2] /láthatatlan/láthatatlanná válik/
 
+# ID-j49NX0K
+# Ver 2017-06-04T18:18:31Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+周恩來 周恩来 [zhou1 en1 lai2] /(személynév) Csou En-laj (1898–1976)/
+
 # ID-j49Ot5b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 寬 宽 [kuan1] /széles/szélesség/el|néző/(családnév) Kuan/
@@ -28555,6 +28759,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 價值 价值 [jia4 zhi2] /érték/értékek (etikai, kulturális értelemben)/SZ:個|个[ge4]/
 
+# ID-j55SM0d
+# Ver 2017-06-04T17:27:35Z Adam Stat-New >Wikipédia, CC-CEDICT
+秦朝 秦朝 [qin2 chao2] /Csin-dinasztia (i.e. 221 – i.e. 207)/
+
 # ID-j56fG9A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 襯托 衬托 [chen4 tuo1] /ki|emel/háttérként szolgál/
@@ -28616,6 +28824,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-j58aG2O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 雇工 雇工 [gu4 gong1] /munkás/napszámos/
+
+# ID-j58he1W
+# Ver 2017-06-04T22:42:00Z Adam Stat-New >magyar Wikipédia
+姑蘭 姑兰 [gu1 lan2] /(személynév) Kalmár Éva (1938–)/
 
 # ID-j58mg7y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -28806,6 +29018,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-j65kB9K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 湖 湖 [hu2] /tó/SZ:個|个[ge4],片[pian4]/
+
+# ID-j65pL0P
+# Ver 2017-06-04T22:44:42Z Adam Stat-New >magyar Wikipédia
+阿保磯 阿保矶 [a1 bao3 ji1] /(személynév) Apatóczky Ákos Bertalan (1974–)/
 
 # ID-j65EZ1h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -29000,6 +29216,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-j72hf1t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 毒品 毒品 [du2 pin3] /kábító|szer/drog/
+
+# ID-j72mW8S
+# Ver 2017-06-04T18:15:03Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+大躍進 大跃进 [da4 yue4 jin4] /nagy ugrás (Kína, 1958–1960)/
 
 # ID-j72pf1N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -29202,6 +29422,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-j79zW3r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 到處 到处 [dao4 chu4] /mindenhol/
+
+# ID-j79BQ5h
+# Ver 2017-06-04T17:27:57Z Adam Stat-New >Wikipédia, CC-CEDICT
+戰國 战国 [zhan4 guo2] /hadakozó fejedelemségek kora (i.e. 475 – i.e. 221)/
 
 # ID-j79Tl9W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -29666,6 +29890,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-j94IG0d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 要求 要求 [yao1 qiu2] /követel/kérelmez/kér/igényel/követelés/kérelem/igénylés/SZ:點|点[dian3]/
+
+# ID-j94NG9S
+# Ver 2017-06-04T17:28:48Z Adam Stat-New >Wikipédia, CC-CEDICT
+春秋 春秋 [chun1 qiu1] /tavasz és ősz korszak (i.e. 770 – i.e. 476)/
 
 # ID-j95nz6X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -30509,6 +30737,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 往事 往事 [wang3 shi4] /múltbeli események/
 
+# ID-k22nL5l
+# Ver 2017-06-04T23:07:40Z Adam Stat-New >a latin betűs teljes név és a "Ferenc" elterjedt kínai átírása alapján végzett Google-keresés egyöntetű eredménye nyomán
+霍普費倫茨 霍普费伦茨 [huo4 pu3 fei4 lun2 ci2] /(személynév) Hopp Ferenc (1833–1919)/
+
 # ID-k22uc6L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 特別 特别 [te4 bie2] /nagyon/különösen/különös/különleges/egyedi/
@@ -30864,6 +31096,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-k34Ak8l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 蓋章 盖章 [gai4 zhang1] /le|pecsétel/bélyegez/
+
+# ID-k34Ci2N
+# Ver 2017-06-04T23:46:47Z Adam Stat-New >CC-CEDICT (!), 雅诺什勇士 (János vitéz) kínai címlapja
+雅諾什 雅诺什 [ya3 nuo4 shi2] /(személynév) János/
 
 # ID-k34Fd6c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -34037,6 +34273,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 麥穗 麦穗 [mai4 sui4] /búza|kalász/
 
+# ID-l40Aa8A
+# Ver 2017-06-04T17:21:32Z Adam Stat-New >Wikipédia, CC-CEDICT
+宋朝 宋朝 [song4 chao2] /Szung-dinasztia (960–1279)/
+
 # ID-l40HQ9w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 出來 出来 [chu5 lai5] /ki|jön/ki|emelkedik/(igei után kifelé irányuló mozgást vagy befejezettséget jelöl)/
@@ -34438,6 +34678,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-l53TY0a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 騎士 骑士 [qi2 shi4] /lovas/lovag/
+
+# ID-l53Uk6E
+# Ver 2017-06-04T19:07:02Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+奧林匹克運動會 奥林匹克运动会 [ao4 lin2 pi3 ke4 yun4 dong4 hui4] /olimpiai játékok/
 
 # ID-l53Uw5Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -35143,6 +35387,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 后 后 [hou4] /császárnő/királynő/
 
+# ID-l79xl2j
+# Ver 2017-06-04T17:50:39Z Adam Stat-New >kínai Wikipédia 公元 szócikkéből
+公元前 公元前 [gong1 yuan2 qian2] /időszámításunk előtt; i. e./
+
 # ID-l79xK5F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 說笑 说笑 [shuo1 xiao4] /viccelődik/
@@ -35280,6 +35528,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-l84cO5z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 叮囑 叮嘱 [ding1 zhu3] /buzdít; sarkall/ismételten figyelmeztet/
+
+# ID-l84ot6B
+# Ver 2017-06-04T22:30:34Z Adam Stat-New >magyar Wikipédia
+陳國 陈国 [chen2 guo2] /(személynév) Csongor Barnabás (1923–)/
 
 # ID-l84xh1G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -35522,6 +35774,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-l93px5k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 屋 屋 [wu1] /ház/szoba/
+
+# ID-l93sf1A
+# Ver 2017-06-04T17:26:47Z Adam Stat-New >Wikipédia, CC-CEDICT
+十六國 十六国 [shi2 liu4 guo2] /tizenhat királyság kora (304–439)/
 
 # ID-l93En0G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -35905,6 +36161,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 招收 招收 [zhao1 shou1] /toboroz (diákokat, munkaerőt)/fel|vesz (munkaerőt)/be|fogad (diákot)/
 
+# ID-m09qF5w
+# Ver 2017-06-04T18:52:04Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+中國2010年上海世界博覽會 中国2010年上海世界博览会 [zhong1 guo2 2 0 1 0 nian2 shang4 hai3 shi4 jie4 bo2 lan3 hui4] /2010-es sanghaji világ|kiállítás/
+
 # ID-m09vp2F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 從此 从此 [cong2 ci3] /mostantól/azóta/ezentúl/
@@ -36145,6 +36405,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 裁決 裁决 [cai2 jue2] /ítélet/bírói döntés/
 
+# ID-m17vH4p
+# Ver 2017-06-04T18:16:49Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+毛澤東思想 毛泽东思想 [mao2 ze2 dong1 si1 xiang3] /maoizmus/
+
 # ID-m17GZ3A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 騙 骗 [pian4] /csal/át|ver/meg|téveszt/
@@ -36372,6 +36636,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-m24ac9N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 著 著 [zhu4] /ír (könyvet)/meg|mutat/be|bizonyít/ki|emelkedő/
+
+# ID-m24do0G
+# Ver 2017-06-04T22:35:58Z Adam Stat-New >magyar Wikipédia
+陶凱 陶凯 [tao2 kai3] /(személynév) Tokaji Zsolt (1971–)/
 
 # ID-m24jh6A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -39244,7 +39512,9 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-21T23:09:43Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
 # 臺灣 台湾 [tai2 wan1] /(földrajzi név) Tajvan (Kínai Köztársaság)/
 # Ver 2017-05-21T23:10:22Z Adam Stat-New >jelentések különválasztása
-臺灣 台湾 [tai2 wan1] /(földrajzi név) Tajvan/Kínai Köztársaság/
+# 臺灣 台湾 [tai2 wan1] /(földrajzi név) Tajvan/Kínai Köztársaság/
+# Ver 2017-06-04T18:07:07Z Adam Stat-New >ami ugyanarra utal, az egyazon jelentésben legyen; megkülönböztetés kell a történelmi Kínai Köztársaságtól
+臺灣 台湾 [tai2 wan1] /(földrajzi név) Tajvan; Kínai Köztársaság (a szigeten fekvő, részben függő terület)/
 
 # ID-n19cS5S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -40801,6 +41071,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-n70Bd7p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 加拿大 加拿大 [jia1 na2 da4] /(földrajzi név) Kanada/
+
+# ID-n70Bj9F
+# Ver 2017-06-04T22:34:34Z Adam Stat-New >magyar Wikipédia
+紹萊特 绍莱特 [shao4 lai2 te4] /(személynév) Salát Gergely (1975–)/
 
 # ID-n70VV6P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -42664,7 +42938,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-o32Kv1Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-唐 唐 [tang2] /(tulajdonnév) Tang-dinasztia (618-907)/hiába/túloz/(családnév) Tang/
+# 唐 唐 [tang2] /(tulajdonnév) Tang-dinasztia (618-907)/hiába/túloz/(családnév) Tang/
+# Ver 2017-06-04T16:57:25Z Adam Stat-Verif >nagykötőjel tól-ig viszonyhoz
+唐 唐 [tang2] /(tulajdonnév) Tang-dinasztia (618–907)/hiába/túloz/(családnév) Tang/
 
 # ID-o32NM5O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -42685,6 +42961,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-o34mg9c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 捨 舍 [she3] /fel|ad/ott|hagy/alamizsnát ad/
+
+# ID-o34rA2w
+# Ver 2017-06-04T22:38:15Z Adam Stat-New >magyar Wikipédia
+米白 米白 [mi3 bai2] /(személynév) Miklós Pál (1927–2002)/
 
 # ID-o34HN8D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -44016,6 +44296,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 得分 得分 [de2 fen1] /pont|szám/
 
+# ID-o84FC1D
+# Ver 2017-06-04T22:03:03Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek; http://www.tankonyvtar.hu/hu/tartalom/tamop425/0027_TOP1/ch01s04.html
+緯線 纬线 [wei3 xian4] /szélességi kör; parallel|kör (földrajz)/
+
 # ID-o84IW4g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 乾旱 干旱 [gan1 han4] /aszály/szárazság/
@@ -45216,6 +45500,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 即將 即将 [ji2 jiang1] /hamarosan/küszöbén (vmi bekövetkeztének)/
 
+# ID-p22II8w
+# Ver 2017-06-04T22:31:34Z Adam Stat-New >magyar Wikipédia
+包甫博 包甫博 [bao1 fu3 bo2] /(személynév) Bartos Huba (1966–)/
+
 # ID-p22Ld2t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 越獄 越狱 [yue4 yu4] /szökés (börtönből)/meg|szökik (börtönből)/
@@ -45325,6 +45613,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-p26kP2L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 局面 局面 [ju2 mian4] /helyzet/aspektus/fázis/
+
+# ID-p26nV1w
+# Ver 2017-06-04T17:41:09Z Adam Stat-New >CC-CEDICT
+秦 秦 [qin2] /(tulajdonnév) Csin-dinasztia (i.e. 221 – i.e. 207)/(családnév) Qin/
 
 # ID-p26of7X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
