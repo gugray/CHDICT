@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-06-05T02:00:01Z
+# Datenstand: 2017-06-08T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -17097,6 +17097,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 搶險 抢险 [qiang3 xian3] /mentésre siet/
 
+# ID-f63if8C
+# Ver 2017-06-07T10:48:02Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+華為 华为 [hua2 wei2] /Huawei (cégnév)/
+
 # ID-f63mT4f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 重 重 [zhong4] /nehéz/súlyos/komoly/súly/
@@ -18772,6 +18776,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-g19cd2o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 肉 肉 [rou4] /hús/
+
+# ID-g19hg3D
+# Ver 2017-06-07T10:45:43Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+操作系統 操作系统 [cao1 zuo4 xi4 tong3] /operációs rendszer (informatika)/
 
 # ID-g19Cp2k
 # Ver 2017-05-21T22:49:15Z Adam Stat-New >厄特沃什罗兰大学 Baidu-beli szócikk és más források alapján
@@ -22624,6 +22632,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-h50bc2A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 繫 系 [xi4] /össze|köt/le|tartóztat/aggódik/
+
+# ID-h50jM5R
+# Ver 2017-06-07T10:42:23Z Adam Stat-New >麦金塔操作系统 és Mac系列 Wikipédia-szócikkek + CC-CEDICT alapján
+麥金塔 麦金塔 [mai4 jin1 ta3] /Macintosh (számítógépmárka és operációs rendszer)/
 
 # ID-h50pH5z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -30077,7 +30089,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-k00QK3Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-蘋果 苹果 [ping2 guo3] /alma/SZ:顆|颗[ke1]/
+# 蘋果 苹果 [ping2 guo3] /alma/SZ:顆|颗[ke1]/
+# Ver 2017-06-07T10:37:22Z Adam Stat-Verif >összekapcsolt Wikipédia-szócikkek alapján
+蘋果 苹果 [ping2 guo3] /alma/SZ:顆|颗[ke1]/Apple (technológiai cég)/
 
 # ID-k00WB7I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -33363,7 +33377,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-l09gs8S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-開放 开放 [kai1 fang4] /virágzik/meg|nyit (a nyilvánosság\külvilág számáraÖ/nyitott (konvencióktól mentes)/
+# 開放 开放 [kai1 fang4] /virágzik/meg|nyit (a nyilvánosság\külvilág számáraÖ/nyitott (konvencióktól mentes)/
+# Ver 2017-06-07T10:53:01Z Adam Stat-Verif >elírás javítása, + jelentés 自由及开放源代码软件 Wikipédia-szócikk alapján
+開放 开放 [kai1 fang4] /virágzik/meg|nyit (a nyilvánosság\külvilág számára)/nyitott (konvencióktól mentes)/nyílt (pl. forráskód)/
 
 # ID-l09js2c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -38181,6 +38197,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-m73Ip2E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 京 京 [jing1] /fő|város/(rövidítés, földrajzi név) Peking/
+
+# ID-m73KI8g
+# Ver 2017-06-07T10:32:19Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+安卓 安卓 [an1 zhuo2] /Android (operációs rendszer)/
 
 # ID-m73Lo4W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
