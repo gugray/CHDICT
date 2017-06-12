@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-06-08T02:00:01Z
+# Datenstand: 2017-06-12T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -7694,6 +7694,10 @@
 # ID-c54Uh2P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 做出 做出 [zuo4 chu1] /ki|bocsát/
+
+# ID-c55ad2r
+# Ver 2017-06-11T16:49:07Z Adam Stat-New >"Google 街景" (Google.com kínai nyelvű honlapján), Wikipédia, Baike Baidu, http://map.qq.com/ egyik funkciója is
+街景 街景 [jie1 jing3] /utca|kép (interaktív online térkép jelentésben is)/
 
 # ID-c55fq9q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
