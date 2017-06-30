@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-06-26T02:00:01Z
+# Datenstand: 2017-06-30T02:00:02Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -10682,6 +10682,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-d50km1Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 莫裡斯 莫里斯 [mo4 li3 si1] /(átirat) Morris/
+
+# ID-d50mJ1L
+# Ver 2017-06-29T16:28:28Z gabor Stat-New >CEDICT
+鬆弛 松弛 [song1 chi2] /el|lazul; relaxál/laza/
 
 # ID-d50pY8e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -32491,6 +32495,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 翻過 翻过 [fan1 guo4] /át|alakít/meg|változtat/át|lapoz/
 
+# ID-k80mm4S
+# Ver 2017-06-29T16:32:01Z gabor Stat-New >http://languagelog.ldc.upenn.edu/nll/?p=33446\nhttps://hu.wikipedia.org/wiki/Rilakkuma
+鬆弛熊 松弛熊 [song1 chi2 xiong2] /Rilakkuma (népszerű japán rajzolt mesefigura; japán neve a "relax bear" átirata\fordítása)/
+
 # ID-k80uu2h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 領 领 [ling3] /nyak/gallér/kap/vezet/(számlálószó: ruhák, szőnyegek stb.)/
@@ -39314,6 +39322,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 課 课 [ke4] /tárgy/tan|tárgy/kurzus/SZ:門|门[men2]/osztály/lecke/
 
+# ID-n10us8x
+# Ver 2017-06-29T16:26:35Z gabor Stat-New >http://languagelog.ldc.upenn.edu/nll/?p=33446
+廢青 废青 [fei4 qing1] /el|tékozolt fiatalság/
+
 # ID-n10Ck1H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 尚未 尚未 [shang4 wei4] /még nem/
@@ -42641,6 +42653,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-o21Wn7o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 教育 教育 [jiao4 yu4] /tanít/oktat/oktatás/
+
+# ID-o21Yx4h
+# Ver 2017-06-29T16:23:11Z gabor Stat-New >http://languagelog.ldc.upenn.edu/nll/?p=33446\nhttp://www.sixthtone.com/news/1000407/turn-off%2C-drop-out-why-young-chinese-are-abandoning-ambition
+喪 丧 [sang4] /motiválatlan; ambíciótlan; lehangolt; lusta; üres (fiatalok által használt, életérzést kifejező szleng)/
 
 # ID-o22hQ7L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
