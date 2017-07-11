@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-06-30T02:00:02Z
+# Datenstand: 2017-07-11T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -6969,6 +6969,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 事故 事故 [shi4 gu4] /baleset/SZ:樁|桩[zhuang1],起[qi3],次[ci4]/
 
+# ID-c30Wb8p
+# Ver 2017-07-10T20:32:50Z gabor Stat-New >http://languagelog.ldc.upenn.edu/nll/?p=33561\nABC
+橘 橘 [ju2] /narancs; narancs|sárga (előtagként)/
+
 # ID-c31gh3b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 扣 扣 [kou4] /csat; gomb; csomó/be|csatol; be|köt; be|gombol/le|von; le|foglal; el|koboz/kedvezmény/le|tartóztat/le|fed (homorú tárggyal, pl. tállal)/
@@ -9690,6 +9694,10 @@
 # ID-d16Wd0n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 學校 学校 [xue2 xiao4] /iskola/SZ:所[suo3]/
+
+# ID-d16XT5t
+# Ver 2017-07-10T20:30:14Z gabor Stat-New >http://languagelog.ldc.upenn.edu/nll/?p=33561\nABC
+造反 造反 [zao4 fan3] /lázad/lázadás/lázadó; felkelő/
 
 # ID-d16Zs2O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -12615,6 +12623,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 吃醋 吃醋 [chi1 cu4] /féltékeny/
 
+# ID-e17oV4h
+# Ver 2017-07-10T20:27:30Z gabor Stat-New >http://languagelog.ldc.upenn.edu/nll/?p=33561\nABC
+怒氣 怒气 [nu4 qi4] /düh; harag/
+
 # ID-e17tM1h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 件 件 [jian4] /tétel/összetevő/(számlálószó: események, felső ruhák)/
@@ -15516,6 +15528,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-f11Oi6Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 美元 美元 [mei3 yuan2] /dollár (amerikai valuta)/
+
+# ID-f11Rx0Q
+# Ver 2017-07-10T20:34:51Z gabor Stat-New >http://languagelog.ldc.upenn.edu/nll/?p=33561\nABC
+衛兵 卫兵 [wei4 bing1] /gárda/őr/
 
 # ID-f12jN9X
 # Ver 2017-05-23T20:50:02Z Adam Stat-New >"Quark (dairy product)" és orosz "Творог" Wikipédia-szócikk kínai megfelelője
@@ -20567,6 +20583,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 遞 递 [di4] /át|ad; továbbít (pl. üzenetet)/fokozatosan; folytatólagosan/
 
+# ID-g81io7y
+# Ver 2017-07-10T20:38:34Z gabor Stat-New >ABC; Wikipedia
+紅衛兵 红卫兵 [hong2 wei4 bing1] /vörös gárda (a kínai kulturális forradalom idején, 1966–67-ben működő, főleg diákokból álló félkatonai mozgalom)/
+
 # ID-g81kr8y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 制止 制止 [zhi4 zhi3] /gátat szab (vminek)/meg|fékez/megálljt parancsol/
@@ -22558,6 +22578,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-h46hM2H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 黑暗 黑暗 [hei1 an4] /sötét/sötétség/
+
+# ID-h46BI6c
+# Ver 2017-07-10T20:31:39Z gabor Stat-New >http://languagelog.ldc.upenn.edu/nll/?p=33561\nABC
+有理 有理 [you3 li3] /ésszerű; helyes/racionális (matematika)//
 
 # ID-h46Ls4T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -41979,6 +42003,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-n99hM2d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 佔線 占线 [zhan4 xian4] /foglalt (telefonvonal)/
+
+# ID-n99jz6b
+# Ver 2017-07-10T20:28:47Z gabor Stat-New >http://languagelog.ldc.upenn.edu/nll/?p=33561\nABC
+霄漢 霄汉 [xiao1 han4] /ég; ég|bolt/
 
 # ID-n99mR7w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
