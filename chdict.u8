@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-07-11T02:00:01Z
+# Datenstand: 2017-07-13T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -7746,6 +7746,10 @@
 # ID-c55Mx9y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 管理局 管理局 [guan3 li3 ju2] /hatóság/
+
+# ID-c55Pe0g
+# Ver 2017-07-12T07:32:10Z gabor Stat-New >http://languagelog.ldc.upenn.edu/nll/?p=33612\nABC
+瀆 渎 [du2] /káromol; gyaláz; megvet/kötelesség|szegés; gaz|tett/árok; lefolyó; csatorna///
 
 # ID-c55XH0I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -24472,6 +24476,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-i07LS6b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 哀嘆 哀叹 [ai1 tan4] /sóhajt/siránkozik/
+
+# ID-i07PF3L
+# Ver 2017-07-12T07:39:40Z gabor Stat-New >http://languagelog.ldc.upenn.edu/nll/?p=33585\nABC; Wikipedia
+榨菜 榨菜 [zha4 cai4] /kovászolt mustár|szár (a szecsuáni konyhából származó, a kimcsihez hasonlóan tartósított zöldség)/
 
 # ID-i07Vq4G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
