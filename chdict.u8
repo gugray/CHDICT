@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-07-13T02:00:01Z
+# Datenstand: 2017-08-01T02:00:02Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -1944,7 +1944,9 @@
 
 # ID-a61iu8C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-合理 合理 [he2 li3] /ésszerű/racionális/fair/
+# 合理 合理 [he2 li3] /ésszerű/racionális/fair/
+# Ver 2017-08-01T00:07:09Z Adam Stat-Verif >az újabb helyesírás szerint "észszerű"; + szinonima
+合理 合理 [he2 li3] /észszerű, racionális/méltányos; fair/
 
 # ID-a61tN6P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -5455,7 +5457,9 @@
 
 # ID-b77MY4Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-離譜 离谱 [li2 pu3] /túlzott/az ésszerű határokon túl/
+# 離譜 离谱 [li2 pu3] /túlzott/az ésszerű határokon túl/
+# Ver 2017-08-01T00:07:31Z Adam Stat-Verif >az újabb helyesírás szerint "észszerű"
+離譜 离谱 [li2 pu3] /túlzott/az észszerű határokon túl/
 
 # ID-b78an7g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -22585,7 +22589,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-h46BI6c
 # Ver 2017-07-10T20:31:39Z gabor Stat-New >http://languagelog.ldc.upenn.edu/nll/?p=33561\nABC
-有理 有理 [you3 li3] /ésszerű; helyes/racionális (matematika)//
+# 有理 有理 [you3 li3] /ésszerű; helyes/racionális (matematika)//
+# Ver 2017-08-01T00:02:48Z Adam Stat-New >az újabb helyesírás szerint már így írjuk
+有理 有理 [you3 li3] /észszerű; helyes/racionális (matematika)/
 
 # ID-h46Ls4T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -32529,7 +32535,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-k80mm4S
 # Ver 2017-06-29T16:32:01Z gabor Stat-New >http://languagelog.ldc.upenn.edu/nll/?p=33446\nhttps://hu.wikipedia.org/wiki/Rilakkuma
-鬆弛熊 松弛熊 [song1 chi2 xiong2] /Rilakkuma (népszerű japán rajzolt mesefigura; japán neve a "relax bear" átirata\fordítása)/
+# 鬆弛熊 松弛熊 [song1 chi2 xiong2] /Rilakkuma (népszerű japán rajzolt mesefigura; japán neve a "relax bear" átirata\fordítása)/
+# Ver 2017-08-01T00:04:32Z Adam Stat-New >nyomdai idézőjelek
+鬆弛熊 松弛熊 [song1 chi2 xiong2] /Rilakkuma (népszerű japán rajzolt mesefigura; japán neve a „relax bear” átirata\fordítása)/
 
 # ID-k80uu2h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -44654,7 +44662,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-o92Ka7s
 # Ver 2017-06-25T10:21:43Z gabor Stat-New >http://languagelog.ldc.upenn.edu/nll/?p=18108
-低頭族 低头族 [di1 tou2 zu2] /okostelefon-függők (szó szerint: "lehajtott fejűek törzse": az okostelefonjukba mélyedőkre használt vicces-pejoratív megnevezés)/
+# 低頭族 低头族 [di1 tou2 zu2] /okostelefon-függők (szó szerint: "lehajtott fejűek törzse": az okostelefonjukba mélyedőkre használt vicces-pejoratív megnevezés)/
+# Ver 2017-08-01T00:05:12Z Adam Stat-New >nyomdai idézőjelek
+低頭族 低头族 [di1 tou2 zu2] /okostelefon-függők (szó szerint: „lehajtott fejűek törzse”: az okostelefonjukba mélyedőkre használt vicces-pejoratív megnevezés)/
 
 # ID-o92ZP7z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
