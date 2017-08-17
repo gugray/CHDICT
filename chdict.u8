@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-08-10T02:00:01Z
+# Datenstand: 2017-08-17T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -623,6 +623,10 @@
 # ID-a18WY3d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 傳來 传来 [chuan2 lai2] /át|jön (hang)/meg|hallják/meg|érkezik (hír)/
+
+# ID-a18Ym1Z
+# Ver 2017-08-16T21:24:01Z jojo-chan Stat-New >https://zh.wikipedia.org/wiki/水痘
+水痘 水痘 [shui3 dou4] /bárányhimlő/
 
 # ID-a19hR1C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -2571,6 +2575,10 @@
 # ID-a81WY1u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 咀嚼 咀嚼 [ju3 jue2] /meg|rág; át|gondol/
+
+# ID-a82cz1g
+# Ver 2017-08-16T22:23:54Z jojo-chan Stat-New >http://ce.linedict.com/dict.html#/cnen/entry/ec47b024458f4f7c86d59b9414ba7140
+心臟科醫生 心脏科医生 [xin1 zang4 ke1 yi1 sheng1] /kardiológus/
 
 # ID-a82gu6W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -12483,6 +12491,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 總部 总部 [zong3 bu4] /fő|hadiszállás/fő|parancsnokság/székhely/
 
+# ID-e11DU9X
+# Ver 2017-08-16T22:21:24Z jojo-chan Stat-New >https://zh.wikipedia.org/zh-cn/心理学家
+心理學家 心理学家 [xin1 li3 xue2 jia1] /pszichológus/
+
 # ID-e11EQ3P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 金融 金融 [jin1 rong2] /pénzügy/pénzügyi/
@@ -21343,6 +21355,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 醫學 医学 [yi1 xue2] /orvos|tudomány/orvos|tan/
 
+# ID-h02lZ5k
+# Ver 2017-08-16T21:36:14Z jojo-chan Stat-New >https://zh.wikipedia.org/zh-cn/鼻竇炎
+鼻竇炎 鼻窦炎 [bi2 dou4 yan2] /arcüreggyulladás/homloküreg-gyulladás/orrmelléküreg-gyulladás/arc- és homloküreg-gyulladás/
+
 # ID-h02mv1n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 齊全 齐全 [qi2 quan2] /teljes/
@@ -25092,6 +25108,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-i30YH8n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 酗酒 酗酒 [xu4 jiu3] /alkoholizmus/ivászat/
+
+# ID-i31cG5o
+# Ver 2017-08-16T21:21:26Z jojo-chan Stat-New >https://zh.wikipedia.org/zh-cn/肺炎
+肺炎 肺炎 [fei4 yan2] /tüdőgyulladás/
 
 # ID-i31hF2E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -31550,6 +31570,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-k48DP9J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 王國 王国 [wang2 guo2] /királyság/birodalom/
+
+# ID-k48FT8L
+# Ver 2017-08-16T21:40:16Z jojo-chan Stat-New >https://baike.baidu.com/item/花粉过敏
+花粉過敏 花粉过敏 [hua1 fen3 guo4 min3] /szénanátha/allergia/
 
 # ID-k48Kp5v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -40494,6 +40518,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 跨 跨 [kua4] /át|lép/át|vág/túl|megy/meg|lovagol/
 
+# ID-n47Co1Q
+# Ver 2017-08-16T22:08:14Z jojo-chan Stat-New >http://ce.linedict.com/dict.html#/cnen/entry/f26ba436d705450ba98af96fd5b43055
+轉診 转诊 [zhuan3 zhen3] /beutal (orvos)/
+
 # ID-n47FL1e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 訂單 订单 [ding4 dan1] /rendelés (áruké)/
@@ -44128,6 +44156,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 伶俐 伶俐 [ling2 li4] /okos/szellemes/
 
+# ID-o74Uu5C
+# Ver 2017-08-16T22:06:26Z jojo-chan Stat-New >http://dict.cn/诊疗室
+診療室 诊疗室 [zhen3 liao2 shi4] /rendelő (orvosi)/
+
 # ID-o75nA4r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 出局 出局 [chu1 ju2] /le|küld (játékost a pályáról, szabálytalanságért)/ki|ejt (sportban)/kiesett/
@@ -44275,6 +44307,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-o80nL7I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 娶 娶 [qu3] /feleségül vesz/
+
+# ID-o80oz7X
+# Ver 2017-08-16T22:20:01Z jojo-chan Stat-New >https://zh.wikipedia.org/zh-cn/精神科醫師
+精神科醫生 精神科医生 [jing1 shen2 ke1 yi1 sheng1] /pszichiáter/
 
 # ID-o80ty1G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
