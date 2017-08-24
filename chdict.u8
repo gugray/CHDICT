@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-08-17T02:00:01Z
+# Datenstand: 2017-08-24T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -26444,6 +26444,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-i72nI4e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 官員 官员 [guan1 yuan2] /hivatalnok (szervezetben, kormányzatnál)/tisztviselő/
+
+# ID-i72AA8K
+# Ver 2017-08-23T15:59:35Z gabor Stat-New >http://languagelog.ldc.upenn.edu/nll/?p=34208
+分離主義 分离主义 [fen1 li2 zhu3 yi4] /szeparatizmus/
 
 # ID-i72Bs1c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
