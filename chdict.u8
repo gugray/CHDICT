@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-08-24T02:00:01Z
+# Datenstand: 2017-09-04T02:00:02Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -945,6 +945,10 @@
 # ID-a29Jh5f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 極度 极度 [ji2 du4] /rendkívül/szélsőségesen/
+
+# ID-a30ag3T
+# Ver 2017-09-03T14:01:36Z jojo-chan Stat-New >http://ce.linedict.com/dict.html#/cnen/entry/e7356f107bcb4ecfb0e08224c2b9d27c
+晾衣架 晾衣架 [liang4 yi1 jia4] /ruhaszárító/szárító/
 
 # ID-a30bl1j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -10287,6 +10291,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 外公 外公 [wai4 gong1] /anyai nagyapa/
 
+# ID-d37py5w
+# Ver 2017-09-03T13:45:55Z jojo-chan Stat-New >http://ce.linedict.com/dict.html#/cnen/entry/8a2cf4f04f51416da15d62a1036b727e
+眼紅 眼红 [yan3 hong2] /irigy/féltékeny/
+
 # ID-d37zc3J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 砰 砰 [peng1] /bumm/puffanás/
@@ -11027,7 +11035,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-d60Rl7X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-畢竟 毕竟 [bi4 jing4] /végülis/végső soron/
+# 畢竟 毕竟 [bi4 jing4] /végülis/végső soron/
+# Ver 2017-09-03T13:56:03Z jojo-chan Stat-Verif >Helyesírás javítása: végül is.
+畢竟 毕竟 [bi4 jing4] /végül is/végső soron/
 
 # ID-d61ai1E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
