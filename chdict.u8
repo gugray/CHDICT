@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-09-04T02:00:02Z
+# Datenstand: 2017-09-05T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -626,7 +626,11 @@
 
 # ID-a18Ym1Z
 # Ver 2017-08-16T21:24:01Z jojo-chan Stat-New >https://zh.wikipedia.org/wiki/水痘
-水痘 水痘 [shui3 dou4] /bárányhimlő/
+# 水痘 水痘 [shui3 dou4] /bárányhimlő/
+# Ver 2017-09-04T09:02:36Z gabor Stat-New >elválasztójel
+# 水痘 水痘 [shui3 dou4] /bárány|himlő/
+# Ver 2017-09-04T09:02:50Z gabor Stat-Verif >.
+水痘 水痘 [shui3 dou4] /bárány|himlő/
 
 # ID-a19hR1C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -948,7 +952,11 @@
 
 # ID-a30ag3T
 # Ver 2017-09-03T14:01:36Z jojo-chan Stat-New >http://ce.linedict.com/dict.html#/cnen/entry/e7356f107bcb4ecfb0e08224c2b9d27c
-晾衣架 晾衣架 [liang4 yi1 jia4] /ruhaszárító/szárító/
+# 晾衣架 晾衣架 [liang4 yi1 jia4] /ruhaszárító/szárító/
+# Ver 2017-09-04T08:52:30Z gabor Stat-New >elválasztójel
+# 晾衣架 晾衣架 [liang4 yi1 jia4] /ruha|szárító/szárító/
+# Ver 2017-09-04T08:52:39Z gabor Stat-Verif >.
+晾衣架 晾衣架 [liang4 yi1 jia4] /ruha|szárító/szárító/
 
 # ID-a30bl1j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -2582,6 +2590,8 @@
 
 # ID-a82cz1g
 # Ver 2017-08-16T22:23:54Z jojo-chan Stat-New >http://ce.linedict.com/dict.html#/cnen/entry/ec47b024458f4f7c86d59b9414ba7140
+# 心臟科醫生 心脏科医生 [xin1 zang4 ke1 yi1 sheng1] /kardiológus/
+# Ver 2017-09-04T08:54:52Z gabor Stat-Verif >.
 心臟科醫生 心脏科医生 [xin1 zang4 ke1 yi1 sheng1] /kardiológus/
 
 # ID-a82gu6W
@@ -4779,6 +4789,8 @@
 
 # ID-b54rW2s
 # Ver 2017-06-04T22:05:53Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+# 經度 经度 [jing1 du4] /hosszúsági fok; hosszúság (földrajz)/
+# Ver 2017-09-04T09:11:13Z gabor Stat-Verif >.
 經度 经度 [jing1 du4] /hosszúsági fok; hosszúság (földrajz)/
 
 # ID-b54DO2N
@@ -5752,6 +5764,10 @@
 # ID-b85HO7G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 移 移 [yi2] /el|távolít/odébb tol/változtat/
+
+# ID-b85Nu3O
+# Ver 2017-09-04T09:01:13Z gabor Stat-New >ABC; 花粉过敏 része
+花粉 花粉 [hua1 fen3] /polleng; virág|por/
 
 # ID-b85WH3r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -7721,6 +7737,8 @@
 # Ver 2017-06-11T16:49:07Z Adam Stat-New >"Google 街景" (Google.com kínai nyelvű honlapján), Wikipédia, Baike Baidu, http://map.qq.com/ egyik funkciója is
 # 街景 街景 [jie1 jing3] /utca|kép (interaktív online térkép jelentésben is)/
 # Ver 2017-08-09T20:44:30Z Adam Stat-New >a két legnépszerűbb kínai példájának említése
+# 街景 街景 [jie1 jing3] /utca|kép (interaktív online térkép jelentésben is, pl. a Baidu és a Tencent QQ szolgáltatásaként)/
+# Ver 2017-09-04T09:05:36Z gabor Stat-Verif >.
 街景 街景 [jie1 jing3] /utca|kép (interaktív online térkép jelentésben is, pl. a Baidu és a Tencent QQ szolgáltatásaként)/
 
 # ID-c55fq9q
@@ -7929,7 +7947,11 @@
 
 # ID-c60bT1x
 # Ver 2017-06-04T19:28:11Z Adam Stat-New >CC-CEDICT
-障 障 [zhang4] /akadályoz/
+# 障 障 [zhang4] /akadályoz/
+# Ver 2017-09-04T09:13:17Z gabor Stat-New >ABC
+# 障 障 [zhang4] /akadályoz; akadály/őriz/
+# Ver 2017-09-04T09:13:23Z gabor Stat-Verif >.
+障 障 [zhang4] /akadályoz; akadály/őriz/
 
 # ID-c60fS9V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -8329,7 +8351,11 @@
 
 # ID-c73rs3R
 # Ver 2017-06-04T23:37:11Z Adam Stat-New >Baike Baidu, Amazon.cn és más források
-莫爾納費倫茨 莫尔纳费伦茨 [mo4 er3 na4 fei4 lun2 ci2] /(személynév) Molnár Ferenc (1878–1952)/
+# 莫爾納費倫茨 莫尔纳费伦茨 [mo4 er3 na4 fei4 lun2 ci2] /(személynév) Molnár Ferenc (1878–1952)/
+# Ver 2017-09-04T16:47:21Z gabor Stat-New >kínai nyelven önmagában nem használatos
+# 莫爾納費倫茨 莫尔纳费伦茨 [mo4 er3 na4 fei4 lun2 ci2] /(átirat) Molnár Ferenc (1878–1952)/
+# Ver 2017-09-04T16:47:24Z gabor Stat-Verif >.
+莫爾納費倫茨 莫尔纳费伦茨 [mo4 er3 na4 fei4 lun2 ci2] /(átirat) Molnár Ferenc (1878–1952)/
 
 # ID-c73sZ3f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -9539,7 +9565,9 @@
 
 # ID-d11fE8z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-精神 精神 [jing1 shen2] /szellem/elme/tudat/mentális/pszichológiai/lényeg/SZ:個|个[ge4]/
+# 精神 精神 [jing1 shen2] /szellem/elme/tudat/mentális/pszichológiai/lényeg/SZ:個|个[ge4]/
+# Ver 2017-09-04T08:58:33Z gabor Stat-Verif >jelentéscsoportok összevonása
+精神 精神 [jing1 shen2] /szellem; elme; tudat/mentális; pszichológiai/lényeg/SZ:個|个[ge4]/
 
 # ID-d11tO1A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -9575,7 +9603,11 @@
 
 # ID-d12cL3F
 # Ver 2017-06-04T22:51:06Z Adam Stat-New >https://peking.mfa.gov.hu/chn/page/munkatarsak és sok más forrás
-宋妮雅 宋妮雅 [song4 ni1 ya3] /(személynév) Buslig Szonja Andrea (1974–)/
+# 宋妮雅 宋妮雅 [song4 ni1 ya3] /(személynév) Buslig Szonja Andrea (1974–)/
+# Ver 2017-09-04T16:49:12Z gabor Stat-New >kínai nyelven önmagában nem használatos
+# 宋妮雅 宋妮雅 [song4 ni1 ya3] /(átirat) Buslig Szonja Andrea (1974–)/
+# Ver 2017-09-04T16:49:15Z gabor Stat-Verif >.
+宋妮雅 宋妮雅 [song4 ni1 ya3] /(átirat) Buslig Szonja Andrea (1974–)/
 
 # ID-d12eo0G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -10293,7 +10325,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-d37py5w
 # Ver 2017-09-03T13:45:55Z jojo-chan Stat-New >http://ce.linedict.com/dict.html#/cnen/entry/8a2cf4f04f51416da15d62a1036b727e
-眼紅 眼红 [yan3 hong2] /irigy/féltékeny/
+# 眼紅 眼红 [yan3 hong2] /irigy/féltékeny/
+# Ver 2017-09-04T08:54:16Z gabor Stat-New >ABC
+# 眼紅 眼红 [yan3 hong2] /féltékeny/irigy/irigykedik (vkire, vmire)/
+# Ver 2017-09-04T08:54:20Z gabor Stat-Verif >.
+眼紅 眼红 [yan3 hong2] /féltékeny/irigy/irigykedik (vkire, vmire)/
 
 # ID-d37zc3J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -11661,7 +11697,9 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 旁氏 旁氏 [pang2 shi4] /(tulajdonnév) Pond's (kozmetikai márkanév)/
 # Ver 2017-06-04T22:11:58Z Adam Stat-Verif >nyomdai aposztróf
-旁氏 旁氏 [pang2 shi4] /(tulajdonnév) Pond’s (kozmetikai márkanév)/
+# 旁氏 旁氏 [pang2 shi4] /(tulajdonnév) Pond’s (kozmetikai márkanév)/
+# Ver 2017-09-04T09:10:00Z gabor Stat-Verif >.
+旁氏 旁氏 [pang2 shi4] /(tulajdonnév) Pond's (kozmetikai márkanév)/
 
 # ID-d82pO7V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -12503,6 +12541,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-e11DU9X
 # Ver 2017-08-16T22:21:24Z jojo-chan Stat-New >https://zh.wikipedia.org/zh-cn/心理学家
+# 心理學家 心理学家 [xin1 li3 xue2 jia1] /pszichológus/
+# Ver 2017-09-04T08:55:04Z gabor Stat-Verif >.
 心理學家 心理学家 [xin1 li3 xue2 jia1] /pszichológus/
 
 # ID-e11EQ3P
@@ -18837,6 +18877,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-g19hg3D
 # Ver 2017-06-07T10:45:43Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+# 操作系統 操作系统 [cao1 zuo4 xi4 tong3] /operációs rendszer (informatika)/
+# Ver 2017-09-04T09:08:59Z gabor Stat-Verif >.
 操作系統 操作系统 [cao1 zuo4 xi4 tong3] /operációs rendszer (informatika)/
 
 # ID-g19Cp2k
@@ -19923,7 +19965,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-g55WP8w
 # Ver 2017-06-04T19:15:01Z Adam Stat-New >Wikipédia, Baike Baidu
-一帶一路 一带一路 [yi1 dai4 yi1 lu4] /„egy övezet, egy út” (kínai fejlesztési stratégia)/
+# 一帶一路 一带一路 [yi1 dai4 yi1 lu4] /„egy övezet, egy út” (kínai fejlesztési stratégia)/
+# Ver 2017-09-04T09:11:56Z gabor Stat-New >.
+# 一帶一路 一带一路 [yi1 dai4 yi1 lu4] /"egy övezet, egy út" (kínai fejlesztési stratégia)/
+# Ver 2017-09-04T09:12:02Z gabor Stat-Verif >.
+一帶一路 一带一路 [yi1 dai4 yi1 lu4] /"egy övezet, egy út" (kínai fejlesztési stratégia)/
 
 # ID-g55Xc8I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -20153,6 +20199,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-g63Wy7L
 # Ver 2017-06-04T19:22:57Z Adam Stat-New >CC-CEDICT, Baike Baidu
+# 一葉障目 一叶障目 [yi1 ye4 zhang4 mu4] /(kifejezés) nem látja a fától az erdőt/
+# Ver 2017-09-04T09:11:33Z gabor Stat-Verif >.
 一葉障目 一叶障目 [yi1 ye4 zhang4 mu4] /(kifejezés) nem látja a fától az erdőt/
 
 # ID-g63Zi6O
@@ -21367,7 +21415,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-h02lZ5k
 # Ver 2017-08-16T21:36:14Z jojo-chan Stat-New >https://zh.wikipedia.org/zh-cn/鼻竇炎
-鼻竇炎 鼻窦炎 [bi2 dou4 yan2] /arcüreggyulladás/homloküreg-gyulladás/orrmelléküreg-gyulladás/arc- és homloküreg-gyulladás/
+# 鼻竇炎 鼻窦炎 [bi2 dou4 yan2] /arcüreggyulladás/homloküreg-gyulladás/orrmelléküreg-gyulladás/arc- és homloküreg-gyulladás/
+# Ver 2017-09-04T09:02:09Z gabor Stat-New >elválasztójelek
+鼻竇炎 鼻窦炎 [bi2 dou4 yan2] /arcüreg|gyulladás/homlok|üreg-gyulladás/orr|melléküreg-gyulladás/arc- és homlok|üreg-gyulladás/
 
 # ID-h02mv1n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -25121,7 +25171,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-i31cG5o
 # Ver 2017-08-16T21:21:26Z jojo-chan Stat-New >https://zh.wikipedia.org/zh-cn/肺炎
-肺炎 肺炎 [fei4 yan2] /tüdőgyulladás/
+# 肺炎 肺炎 [fei4 yan2] /tüdőgyulladás/
+# Ver 2017-09-04T09:03:09Z gabor Stat-New >elválasztójel
+# 肺炎 肺炎 [fei4 yan2] /tüdő|gyulladás/
+# Ver 2017-09-04T09:03:11Z gabor Stat-Verif >.
+肺炎 肺炎 [fei4 yan2] /tüdő|gyulladás/
 
 # ID-i31hF2E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -25847,6 +25901,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-i55qt8T
 # Ver 2017-06-04T22:04:31Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+# 緯度 纬度 [wei3 du4] /szélességi fok; szélesség (földrajz)/
+# Ver 2017-09-04T09:11:18Z gabor Stat-Verif >.
 緯度 纬度 [wei3 du4] /szélességi fok; szélesség (földrajz)/
 
 # ID-i55uc9D
@@ -29117,7 +29173,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-j65pL0P
 # Ver 2017-06-04T22:44:42Z Adam Stat-New >magyar Wikipédia
-阿保磯 阿保矶 [a1 bao3 ji1] /(személynév) Apatóczky Ákos Bertalan (1974–)/
+# 阿保磯 阿保矶 [a1 bao3 ji1] /(személynév) Apatóczky Ákos Bertalan (1974–)/
+# Ver 2017-09-04T16:49:24Z gabor Stat-New >kínai nyelven önmagában nem használatos
+# 阿保磯 阿保矶 [a1 bao3 ji1] /(átirat) Apatóczky Ákos Bertalan (1974–)/
+# Ver 2017-09-04T16:49:46Z gabor Stat-Verif >.
+阿保磯 阿保矶 [a1 bao3 ji1] /(átirat) Apatóczky Ákos Bertalan (1974–)/
 
 # ID-j65EZ1h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -30837,7 +30897,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-k22nL5l
 # Ver 2017-06-04T23:07:40Z Adam Stat-New >a latin betűs teljes név és a "Ferenc" elterjedt kínai átírása alapján végzett Google-keresés egyöntetű eredménye nyomán
-霍普費倫茨 霍普费伦茨 [huo4 pu3 fei4 lun2 ci2] /(személynév) Hopp Ferenc (1833–1919)/
+# 霍普費倫茨 霍普费伦茨 [huo4 pu3 fei4 lun2 ci2] /(személynév) Hopp Ferenc (1833–1919)/
+# Ver 2017-09-04T16:49:00Z gabor Stat-New >kínai nyelven önmagában nem használatos
+# 霍普費倫茨 霍普费伦茨 [huo4 pu3 fei4 lun2 ci2] /(átirat) Hopp Ferenc (1833–1919)/
+# Ver 2017-09-04T16:49:03Z gabor Stat-Verif >.
+霍普費倫茨 霍普费伦茨 [huo4 pu3 fei4 lun2 ci2] /(átirat) Hopp Ferenc (1833–1919)/
 
 # ID-k22uc6L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -31197,7 +31261,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-k34Ci2N
 # Ver 2017-06-04T23:46:47Z Adam Stat-New >CC-CEDICT (!), 雅诺什勇士 (János vitéz) kínai címlapja
-雅諾什 雅诺什 [ya3 nuo4 shi2] /(személynév) János/
+# 雅諾什 雅诺什 [ya3 nuo4 shi2] /(személynév) János/
+# Ver 2017-09-04T16:46:45Z gabor Stat-New >kínai nyelven önmagában nem használatos
+# 雅諾什 雅诺什 [ya3 nuo4 shi2] /(átirat) János/
+# Ver 2017-09-04T16:46:48Z gabor Stat-Verif >.
+雅諾什 雅诺什 [ya3 nuo4 shi2] /(átirat) János/
 
 # ID-k34Fd6c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -31587,7 +31655,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-k48FT8L
 # Ver 2017-08-16T21:40:16Z jojo-chan Stat-New >https://baike.baidu.com/item/花粉过敏
-花粉過敏 花粉过敏 [hua1 fen3 guo4 min3] /szénanátha/allergia/
+# 花粉過敏 花粉过敏 [hua1 fen3 guo4 min3] /szénanátha/allergia/
+# Ver 2017-09-04T09:00:04Z gabor Stat-New >elválasztójel
+# 花粉過敏 花粉过敏 [hua1 fen3 guo4 min3] /széna|nátha/allergia/
+# Ver 2017-09-04T09:01:32Z gabor Stat-Verif >.
+花粉過敏 花粉过敏 [hua1 fen3 guo4 min3] /széna|nátha/allergia/
 
 # ID-k48Kp5v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -32579,7 +32651,9 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-06-29T16:32:01Z gabor Stat-New >http://languagelog.ldc.upenn.edu/nll/?p=33446\nhttps://hu.wikipedia.org/wiki/Rilakkuma
 # 鬆弛熊 松弛熊 [song1 chi2 xiong2] /Rilakkuma (népszerű japán rajzolt mesefigura; japán neve a "relax bear" átirata\fordítása)/
 # Ver 2017-08-01T00:04:32Z Adam Stat-New >nyomdai idézőjelek
-鬆弛熊 松弛熊 [song1 chi2 xiong2] /Rilakkuma (népszerű japán rajzolt mesefigura; japán neve a „relax bear” átirata\fordítása)/
+# 鬆弛熊 松弛熊 [song1 chi2 xiong2] /Rilakkuma (népszerű japán rajzolt mesefigura; japán neve a „relax bear” átirata\fordítása)/
+# Ver 2017-09-04T09:07:25Z gabor Stat-New >ezen töprengtem egy kicsit, és inkább az tűnik célravezetőnek, ha nem nyomdait idézőjeleket használunk. egyrészt a törzsanyagban sehol nem azok vannak, másrészt bármilyen későbbi feldolgozást csak megnehezítenek. hozzáveszem majd a szerkesztési elvekhez.
+鬆弛熊 松弛熊 [song1 chi2 xiong2] /Rilakkuma (népszerű japán rajzolt mesefigura; japán neve a "relax bear" átirata\fordítása)/
 
 # ID-k80uu2h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -34791,6 +34865,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-l53Uk6E
 # Ver 2017-06-04T19:07:02Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+# 奧林匹克運動會 奥林匹克运动会 [ao4 lin2 pi3 ke4 yun4 dong4 hui4] /olimpiai játékok/
+# Ver 2017-09-04T09:12:07Z gabor Stat-Verif >.
 奧林匹克運動會 奥林匹克运动会 [ao4 lin2 pi3 ke4 yun4 dong4 hui4] /olimpiai játékok/
 
 # ID-l53Uw5Y
@@ -37699,6 +37775,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 某個 某个 [mou3 ge4] /egy bizonyos/
 
+# ID-m54ts9B
+# Ver 2017-09-04T08:56:37Z gabor Stat-New >精神科医生 része; ABC
+精神科 精神科 [jing1 shen2 ke1] /pszichiátria/
+
 # ID-m54It0V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 講究 讲究 [jiang3 jiu5] /különös figyelmet fordít (vmire)/ízléses/választékos/
@@ -40534,7 +40614,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-n47Co1Q
 # Ver 2017-08-16T22:08:14Z jojo-chan Stat-New >http://ce.linedict.com/dict.html#/cnen/entry/f26ba436d705450ba98af96fd5b43055
-轉診 转诊 [zhuan3 zhen3] /beutal (orvos)/
+# 轉診 转诊 [zhuan3 zhen3] /beutal (orvos)/
+# Ver 2017-09-04T08:59:25Z gabor Stat-New >elválasztójel
+# 轉診 转诊 [zhuan3 zhen3] /be|utal (orvos)/
+# Ver 2017-09-04T08:59:28Z gabor Stat-Verif >.
+轉診 转诊 [zhuan3 zhen3] /be|utal (orvos)/
 
 # ID-n47FL1e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -44172,6 +44256,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-o74Uu5C
 # Ver 2017-08-16T22:06:26Z jojo-chan Stat-New >http://dict.cn/诊疗室
+# 診療室 诊疗室 [zhen3 liao2 shi4] /rendelő (orvosi)/
+# Ver 2017-09-04T08:59:45Z gabor Stat-Verif >.
 診療室 诊疗室 [zhen3 liao2 shi4] /rendelő (orvosi)/
 
 # ID-o75nA4r
@@ -44324,6 +44410,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-o80oz7X
 # Ver 2017-08-16T22:20:01Z jojo-chan Stat-New >https://zh.wikipedia.org/zh-cn/精神科醫師
+# 精神科醫生 精神科医生 [jing1 shen2 ke1 yi1 sheng1] /pszichiáter/
+# Ver 2017-09-04T08:55:32Z gabor Stat-Verif >.
 精神科醫生 精神科医生 [jing1 shen2 ke1 yi1 sheng1] /pszichiáter/
 
 # ID-o80ty1G
@@ -44436,6 +44524,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-o84FC1D
 # Ver 2017-06-04T22:03:03Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek; http://www.tankonyvtar.hu/hu/tartalom/tamop425/0027_TOP1/ch01s04.html
+# 緯線 纬线 [wei3 xian4] /szélességi kör; parallel|kör (földrajz)/
+# Ver 2017-09-04T09:11:23Z gabor Stat-Verif >.
 緯線 纬线 [wei3 xian4] /szélességi kör; parallel|kör (földrajz)/
 
 # ID-o84IW4g
@@ -44718,7 +44808,9 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-06-25T10:21:43Z gabor Stat-New >http://languagelog.ldc.upenn.edu/nll/?p=18108
 # 低頭族 低头族 [di1 tou2 zu2] /okostelefon-függők (szó szerint: "lehajtott fejűek törzse": az okostelefonjukba mélyedőkre használt vicces-pejoratív megnevezés)/
 # Ver 2017-08-01T00:05:12Z Adam Stat-New >nyomdai idézőjelek
-低頭族 低头族 [di1 tou2 zu2] /okostelefon-függők (szó szerint: „lehajtott fejűek törzse”: az okostelefonjukba mélyedőkre használt vicces-pejoratív megnevezés)/
+# 低頭族 低头族 [di1 tou2 zu2] /okostelefon-függők (szó szerint: „lehajtott fejűek törzse”: az okostelefonjukba mélyedőkre használt vicces-pejoratív megnevezés)/
+# Ver 2017-09-04T09:07:51Z gabor Stat-New >ezen töprengtem egy kicsit, és inkább az tűnik célravezetőnek, ha nem nyomdait idézőjeleket használunk. egyrészt a törzsanyagban sehol nem azok vannak, másrészt bármilyen későbbi feldolgozást csak megnehezítenek. hozzáveszem majd a szerkesztési elvekhez.
+低頭族 低头族 [di1 tou2 zu2] /okostelefon-függők (szó szerint: "lehajtott fejűek törzse": az okostelefonjukba mélyedőkre használt vicces-pejoratív megnevezés)/
 
 # ID-o92ZP7z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
