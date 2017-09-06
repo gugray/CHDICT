@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-09-05T02:00:01Z
+# Datenstand: 2017-09-06T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -676,7 +676,11 @@
 
 # ID-a21ls9t
 # Ver 2017-06-04T22:43:47Z Adam Stat-New >magyar Wikipédia
-戴伯納 戴伯纳 [dai4 bo2 na4] /(személynév) Tálas Barna (1928–)/
+# 戴伯納 戴伯纳 [dai4 bo2 na4] /(személynév) Tálas Barna (1928–)/
+# Ver 2017-09-05T08:53:16Z gabor Stat-New >kínai nyelven önmagában nem használatos
+# 戴伯納 戴伯纳 [dai4 bo2 na4] /(átirat) Tálas Barna (1928–)/
+# Ver 2017-09-05T08:53:20Z gabor Stat-Verif >.
+戴伯納 戴伯纳 [dai4 bo2 na4] /(átirat) Tálas Barna (1928–)/
 
 # ID-a21na6t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -1824,6 +1828,8 @@
 
 # ID-a55PI9w
 # Ver 2017-06-04T17:22:22Z Adam Stat-New >Wikipédia, CC-CEDICT
+# 明朝 明朝 [ming2 chao2] /Ming-dinasztia (1368–1644)/
+# Ver 2017-09-05T08:56:03Z gabor Stat-Verif >.
 明朝 明朝 [ming2 chao2] /Ming-dinasztia (1368–1644)/
 
 # ID-a55SI9R
@@ -2518,6 +2524,8 @@
 
 # ID-a78SX6X
 # Ver 2017-06-04T17:21:59Z Adam Stat-New >Wikipédia, CC-CEDICT
+# 元朝 元朝 [yuan2 chao2] /Jüan-dinasztia (1279–1368)/
+# Ver 2017-09-05T08:55:59Z gabor Stat-Verif >.
 元朝 元朝 [yuan2 chao2] /Jüan-dinasztia (1279–1368)/
 
 # ID-a78Yy7B
@@ -3276,6 +3284,8 @@
 
 # ID-b02Tn5i
 # Ver 2017-06-04T17:21:07Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+# 五代十國 五代十国 [wu3 dai4 shi2 guo2] /az öt dinasztia és a tíz királyság kora (907–979)/
+# Ver 2017-09-05T08:55:52Z gabor Stat-Verif >.
 五代十國 五代十国 [wu3 dai4 shi2 guo2] /az öt dinasztia és a tíz királyság kora (907–979)/
 
 # ID-b03hi6z
@@ -9995,6 +10005,8 @@
 
 # ID-d26nB2O
 # Ver 2017-06-04T18:15:38Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+# 文化大革命 文化大革命 [wen2 hua4 da4 ge2 ming4] /kulturális forradalom (Kína, 1966–1976)/
+# Ver 2017-09-05T09:00:03Z gabor Stat-Verif >.
 文化大革命 文化大革命 [wen2 hua4 da4 ge2 ming4] /kulturális forradalom (Kína, 1966–1976)/
 
 # ID-d26om8L
@@ -11759,7 +11771,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-d83WW9X
 # Ver 2017-06-04T22:36:58Z Adam Stat-New >magyar Wikipédia
-杜剋義 杜克义 [du4 ke4 yi4] /(személynév) Tőkei Ferenc (1930–2000)/
+# 杜剋義 杜克义 [du4 ke4 yi4] /(személynév) Tőkei Ferenc (1930–2000)/
+# Ver 2017-09-05T08:54:06Z gabor Stat-New >kínai nyelven önmagában nem használatos
+# 杜剋義 杜克义 [du4 ke4 yi4] /(átirat) Tőkei Ferenc (1930–2000)/
+# Ver 2017-09-05T08:54:08Z gabor Stat-Verif >.
+杜剋義 杜克义 [du4 ke4 yi4] /(átirat) Tőkei Ferenc (1930–2000)/
 
 # ID-d84fW4C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -12011,6 +12027,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-d93xC3i
 # Ver 2017-06-04T17:24:06Z Adam Stat-New >Wikipédia, CC-CEDICT
+# 三國 三国 [san1 guo2] /három királyság kora (220–280)/
+# Ver 2017-09-05T08:56:11Z gabor Stat-Verif >.
 三國 三国 [san1 guo2] /három királyság kora (220–280)/
 
 # ID-d93HA8l
@@ -12285,6 +12303,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-e02nN7T
 # Ver 2017-06-04T17:59:01Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+# 共和制 共和制 [gong4 he2 zhi4] /köztársaság/
+# Ver 2017-09-05T08:59:19Z gabor Stat-Verif >.
 共和制 共和制 [gong4 he2 zhi4] /köztársaság/
 
 # ID-e02pG6B
@@ -12897,6 +12917,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-e23xV1A
 # Ver 2017-06-04T17:19:46Z Adam Stat-New >Wikipédia, CC-CEDICT
+# 隋朝 隋朝 [sui2 chao2] /Szuj-dinasztia (581–618)/
+# Ver 2017-09-05T08:55:45Z gabor Stat-Verif >.
 隋朝 隋朝 [sui2 chao2] /Szuj-dinasztia (581–618)/
 
 # ID-e23zN2Z
@@ -15117,6 +15139,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-e95bK5m
 # Ver 2017-06-04T17:20:30Z Adam Stat-New >Wikipédia, CC-CEDICT
+# 唐朝 唐朝 [tang2 chao2] /Tang-dinasztia (618–907)/
+# Ver 2017-09-05T08:55:48Z gabor Stat-Verif >.
 唐朝 唐朝 [tang2 chao2] /Tang-dinasztia (618–907)/
 
 # ID-e95eW9P
@@ -18067,7 +18091,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-f91HQ3q
 # Ver 2017-06-04T18:14:11Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek; CC-CEDICT
-一國兩制 一国两制 [yi1 guo2 liang3 zhi4] /„egy ország, két rendszer” elv (a KNK javaslata Hongkongra, Makaóra és Tajvanra vonatkozóan)/
+# 一國兩制 一国两制 [yi1 guo2 liang3 zhi4] /„egy ország, két rendszer” elv (a KNK javaslata Hongkongra, Makaóra és Tajvanra vonatkozóan)/
+# Ver 2017-09-05T08:59:47Z gabor Stat-New >.
+# 一國兩制 一国两制 [yi1 guo2 liang3 zhi4] /"egy ország, két rendszer" elv (a KNK javaslata Hongkongra, Makaóra és Tajvanra vonatkozóan)/
+# Ver 2017-09-05T08:59:50Z gabor Stat-Verif >.
+一國兩制 一国两制 [yi1 guo2 liang3 zhi4] /"egy ország, két rendszer" elv (a KNK javaslata Hongkongra, Makaóra és Tajvanra vonatkozóan)/
 
 # ID-f91MC6Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -19661,6 +19689,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-g47zA9s
 # Ver 2017-06-04T17:22:53Z Adam Stat-New >Wikipédia, CC-CEDICT
+# 清朝 清朝 [qing1 chao2] /Csing-dinasztia (1644–1912)/
+# Ver 2017-09-05T08:56:07Z gabor Stat-Verif >.
 清朝 清朝 [qing1 chao2] /Csing-dinasztia (1644–1912)/
 
 # ID-g47Bq8Y
@@ -19709,6 +19739,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-g48YE8t
 # Ver 2017-06-04T17:27:11Z Adam Stat-New >Wikipédia, CC-CEDICT
+# 漢朝 汉朝 [han4 chao2] /Han-dinasztia (i.e. 206 – i.sz. 220)/
+# Ver 2017-09-05T08:56:30Z gabor Stat-Verif >.
 漢朝 汉朝 [han4 chao2] /Han-dinasztia (i.e. 206 – i.sz. 220)/
 
 # ID-g49eq8o
@@ -20469,6 +20501,8 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-21T23:11:02Z Adam Stat-New >jelentések különválasztása; címke beszúrása
 # 中華民國 中华民国 [zhong1 hua2 min2 guo2] /(földrajzi név) Kínai Köztársaság/Tajvan/
 # Ver 2017-06-04T18:11:07Z Adam Stat-New >ami ugyanarra utal, az egyazon jelentésben legyen; új, különálló jelentés hozzáadva
+# 中華民國 中华民国 [zhong1 hua2 min2 guo2] /(földrajzi név) Kínai Köztársaság; Tajvan (mai, részben függő terület)/(földrajzi név) Kínai Köztársaság (történelmi állam, 1912–1949)/
+# Ver 2017-09-05T08:59:30Z gabor Stat-Verif >.
 中華民國 中华民国 [zhong1 hua2 min2 guo2] /(földrajzi név) Kínai Köztársaság; Tajvan (mai, részben függő terület)/(földrajzi név) Kínai Köztársaság (történelmi állam, 1912–1949)/
 
 # ID-g72Zi9l
@@ -25099,7 +25133,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-i28iH5T
 # Ver 2017-06-04T18:16:12Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
-百花運動 百花运动 [bai3 hua1 yun4 dong4] /„száz virág” mozgalom (Kína, 1956–1957)/
+# 百花運動 百花运动 [bai3 hua1 yun4 dong4] /„száz virág” mozgalom (Kína, 1956–1957)/
+# Ver 2017-09-05T09:00:13Z gabor Stat-New >.
+# 百花運動 百花运动 [bai3 hua1 yun4 dong4] /"száz virág" mozgalom (Kína, 1956–1957)/
+# Ver 2017-09-05T09:00:15Z gabor Stat-Verif >.
+百花運動 百花运动 [bai3 hua1 yun4 dong4] /"száz virág" mozgalom (Kína, 1956–1957)/
 
 # ID-i28rQ5K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -26761,6 +26799,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-i82uM4O
 # Ver 2017-06-04T17:18:27Z Adam Stat-New >Wikipédia, 隋朝 megfelelői alapján + CC-CEDICT
+# 隋 隋 [sui2] /(tulajdonnév) Szuj-dinasztia (581–618)/(családnév) Sui/
+# Ver 2017-09-05T08:55:41Z gabor Stat-Verif >.
 隋 隋 [sui2] /(tulajdonnév) Szuj-dinasztia (581–618)/(családnév) Sui/
 
 # ID-i82CD8t
@@ -28191,7 +28231,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-j33cA2d
 # Ver 2017-06-04T22:40:33Z Adam Stat-New >magyar Wikipédia
-康高寶 康高宝 [kang1 gao1 bao3] /(személynév) Kósa Gábor (1971–)/
+# 康高寶 康高宝 [kang1 gao1 bao3] /(személynév) Kósa Gábor (1971–)/
+# Ver 2017-09-05T08:53:42Z gabor Stat-New >kínai nyelven önmagában nem használatos
+# 康高寶 康高宝 [kang1 gao1 bao3] /(átirat) Kósa Gábor (1971–)/
+# Ver 2017-09-05T08:53:46Z gabor Stat-Verif >.
+康高寶 康高宝 [kang1 gao1 bao3] /(átirat) Kósa Gábor (1971–)/
 
 # ID-j33fZ1X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -28913,6 +28957,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-j55SM0d
 # Ver 2017-06-04T17:27:35Z Adam Stat-New >Wikipédia, CC-CEDICT
+# 秦朝 秦朝 [qin2 chao2] /Csin-dinasztia (i.e. 221 – i.e. 207)/
+# Ver 2017-09-05T08:56:33Z gabor Stat-Verif >.
 秦朝 秦朝 [qin2 chao2] /Csin-dinasztia (i.e. 221 – i.e. 207)/
 
 # ID-j56fG9A
@@ -28979,7 +29025,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-j58he1W
 # Ver 2017-06-04T22:42:00Z Adam Stat-New >magyar Wikipédia
-姑蘭 姑兰 [gu1 lan2] /(személynév) Kalmár Éva (1938–)/
+# 姑蘭 姑兰 [gu1 lan2] /(személynév) Kalmár Éva (1938–)/
+# Ver 2017-09-05T08:53:31Z gabor Stat-New >kínai nyelven önmagában nem használatos
+# 姑蘭 姑兰 [gu1 lan2] /(átirat) Kalmár Éva (1938–)/
+# Ver 2017-09-05T08:53:34Z gabor Stat-Verif >.
+姑蘭 姑兰 [gu1 lan2] /(átirat) Kalmár Éva (1938–)/
 
 # ID-j58mg7y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -29375,6 +29425,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-j72mW8S
 # Ver 2017-06-04T18:15:03Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+# 大躍進 大跃进 [da4 yue4 jin4] /nagy ugrás (Kína, 1958–1960)/
+# Ver 2017-09-05T08:59:54Z gabor Stat-Verif >.
 大躍進 大跃进 [da4 yue4 jin4] /nagy ugrás (Kína, 1958–1960)/
 
 # ID-j72pf1N
@@ -29581,6 +29633,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-j79BQ5h
 # Ver 2017-06-04T17:27:57Z Adam Stat-New >Wikipédia, CC-CEDICT
+# 戰國 战国 [zhan4 guo2] /hadakozó fejedelemségek kora (i.e. 475 – i.e. 221)/
+# Ver 2017-09-05T08:56:38Z gabor Stat-Verif >.
 戰國 战国 [zhan4 guo2] /hadakozó fejedelemségek kora (i.e. 475 – i.e. 221)/
 
 # ID-j79Tl9W
@@ -30049,6 +30103,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-j94NG9S
 # Ver 2017-06-04T17:28:48Z Adam Stat-New >Wikipédia, CC-CEDICT
+# 春秋 春秋 [chun1 qiu1] /tavasz és ősz korszak (i.e. 770 – i.e. 476)/
+# Ver 2017-09-05T08:56:43Z gabor Stat-Verif >.
 春秋 春秋 [chun1 qiu1] /tavasz és ősz korszak (i.e. 770 – i.e. 476)/
 
 # ID-j95nz6X
@@ -34459,6 +34515,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-l40Aa8A
 # Ver 2017-06-04T17:21:32Z Adam Stat-New >Wikipédia, CC-CEDICT
+# 宋朝 宋朝 [song4 chao2] /Szung-dinasztia (960–1279)/
+# Ver 2017-09-05T08:55:55Z gabor Stat-Verif >.
 宋朝 宋朝 [song4 chao2] /Szung-dinasztia (960–1279)/
 
 # ID-l40HQ9w
@@ -35963,6 +36021,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-l93sf1A
 # Ver 2017-06-04T17:26:47Z Adam Stat-New >Wikipédia, CC-CEDICT
+# 十六國 十六国 [shi2 liu4 guo2] /tizenhat királyság kora (304–439)/
+# Ver 2017-09-05T08:56:25Z gabor Stat-Verif >.
 十六國 十六国 [shi2 liu4 guo2] /tizenhat királyság kora (304–439)/
 
 # ID-l93En0G
@@ -39712,6 +39772,8 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-21T23:10:22Z Adam Stat-New >jelentések különválasztása
 # 臺灣 台湾 [tai2 wan1] /(földrajzi név) Tajvan/Kínai Köztársaság/
 # Ver 2017-06-04T18:07:07Z Adam Stat-New >ami ugyanarra utal, az egyazon jelentésben legyen; megkülönböztetés kell a történelmi Kínai Köztársaságtól
+# 臺灣 台湾 [tai2 wan1] /(földrajzi név) Tajvan; Kínai Köztársaság (a szigeten fekvő, részben függő terület)/
+# Ver 2017-09-05T08:59:25Z gabor Stat-Verif >.
 臺灣 台湾 [tai2 wan1] /(földrajzi név) Tajvan; Kínai Köztársaság (a szigeten fekvő, részben függő terület)/
 
 # ID-n19cS5S
@@ -43178,7 +43240,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-o34rA2w
 # Ver 2017-06-04T22:38:15Z Adam Stat-New >magyar Wikipédia
-米白 米白 [mi3 bai2] /(személynév) Miklós Pál (1927–2002)/
+# 米白 米白 [mi3 bai2] /(személynév) Miklós Pál (1927–2002)/
+# Ver 2017-09-05T08:53:54Z gabor Stat-New >kínai nyelven önmagában nem használatos
+# 米白 米白 [mi3 bai2] /(átirat) Miklós Pál (1927–2002)/
+# Ver 2017-09-05T08:53:57Z gabor Stat-Verif >.
+米白 米白 [mi3 bai2] /(átirat) Miklós Pál (1927–2002)/
 
 # ID-o34HN8D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
