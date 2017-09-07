@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-09-06T02:00:01Z
+# Datenstand: 2017-09-07T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -5729,7 +5729,10 @@
 
 # ID-b85aR0d
 # Ver 2017-06-04T18:56:26Z Adam Stat-New >Wikipédia, Baike Baidu (a 更 pinjin-átírása ellenőrizendő)
-城市讓生活更美好 城市让生活更美好 [cheng2 shi4 rang4 sheng1 huo2 geng4 mei3 hao3] /„jobb város, jobb élet” (a 2010-es sanghaji világkiállítás szlogenje)/
+# 城市讓生活更美好 城市让生活更美好 [cheng2 shi4 rang4 sheng1 huo2 geng4 mei3 hao3] /„jobb város, jobb élet” (a 2010-es sanghaji világkiállítás szlogenje)/
+# Ver 2017-09-06T19:02:49Z gabor Stat-Verif >.
+# Ver 2017-09-06T19:03:02Z gabor Stat-Verif >.
+城市讓生活更美好 城市让生活更美好 [cheng2 shi4 rang4 sheng1 huo2 geng4 mei3 hao3] /"jobb város, jobb élet" (a 2010-es sanghaji világkiállítás szlogenje)/
 
 # ID-b85bW6X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -7633,6 +7636,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 應酬 应酬 [ying4 chou5] /társasági érintkezés/udvariasan kezel/társasági esemény; vacsora/
 
+# ID-c51BJ1A
+# Ver 2017-09-06T22:08:12Z jojo-chan Stat-New >https://zh.wikipedia.org/zh-cn/西藏自治区
+西藏 西藏 [xi1 zang4] /(földrajzi név) Tibeti Autonóm Terület/Tibet/
+
 # ID-c51GY6b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 夫妻 夫妻 [fu1 qi1] /házas|pár/férj és feleség/
@@ -9535,7 +9542,9 @@
 
 # ID-d09kX1s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-藏 藏 [zang4] /raktár/írás (buddhista\taoista)/(földrajzi név) Tibet/
+# 藏 藏 [zang4] /raktár/írás (buddhista\taoista)/(földrajzi név) Tibet/
+# Ver 2017-09-06T22:22:08Z jojo-chan Stat-Verif >https://zh.wikipedia.org/zh-cn/藏族
+藏 藏 [zang4] /raktár/írás (buddhista\taoista)/(földrajzi név) Tibet/tibeti/
 
 # ID-d09pt4c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -26887,6 +26896,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 感化院 感化院 [gan3 hua4 yuan4] /javító|intézet; nevelő|intézet (büntetett kiskorúak számára)/
 
+# ID-i86qE2c
+# Ver 2017-09-06T22:18:30Z jojo-chan Stat-New >https://zh.wikipedia.org/zh-cn/威利转写
+威利轉寫 威利转写 [wei1 li4 zhuan3 xie3] /Wylie-féle transzliteráció (a tibeti írás latin betűs átírása)/Wylie-féle átírás/Wylie-transzliteráció/Wylie-átírás/
+
 # ID-i86ww3z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 男子漢 男子汉 [nan2 zi3 han4] /igazi férfi/férfias férfi/
@@ -27501,7 +27514,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-j07xr9Q
 # Ver 2017-06-04T19:03:22Z Adam Stat-New >Wikipedia, Baidu Baike (vessző kéne bele…)
-同一個世界同一個夢想 同一个世界同一个梦想 [tong2 yi1 ge5 shi4 jie4 tong2 yi1 ge5 meng4 xiang3] /„egy világ, egy álom” (a 2008-as pekingi olimpia szlogenje)/
+# 同一個世界同一個夢想 同一个世界同一个梦想 [tong2 yi1 ge5 shi4 jie4 tong2 yi1 ge5 meng4 xiang3] /„egy világ, egy álom” (a 2008-as pekingi olimpia szlogenje)/
+# Ver 2017-09-06T19:03:14Z gabor Stat-New >.
+# 同一個世界同一個夢想 同一个世界同一个梦想 [tong2 yi1 ge5 shi4 jie4 tong2 yi1 ge5 meng4 xiang3] /"egy világ, egy álom" (a 2008-as pekingi olimpia szlogenje)/
+# Ver 2017-09-06T19:03:19Z gabor Stat-Verif >.
+同一個世界同一個夢想 同一个世界同一个梦想 [tong2 yi1 ge5 shi4 jie4 tong2 yi1 ge5 meng4 xiang3] /"egy világ, egy álom" (a 2008-as pekingi olimpia szlogenje)/
 
 # ID-j07yB0F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -35775,7 +35792,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-l84ot6B
 # Ver 2017-06-04T22:30:34Z Adam Stat-New >magyar Wikipédia
-陳國 陈国 [chen2 guo2] /(személynév) Csongor Barnabás (1923–)/
+# 陳國 陈国 [chen2 guo2] /(személynév) Csongor Barnabás (1923–)/
+# Ver 2017-09-06T19:04:15Z gabor Stat-New >.
+# 陳國 陈国 [chen2 guo2] /(átirat) Csongor Barnabás (1923–)/
+# Ver 2017-09-06T19:04:18Z gabor Stat-Verif >.
+陳國 陈国 [chen2 guo2] /(átirat) Csongor Barnabás (1923–)/
 
 # ID-l84xh1G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -40083,6 +40104,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-n29OL1z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 留神 留神 [liu2 shen2] /óvatos/oda|figyel/
+
+# ID-n29SA6o
+# Ver 2017-09-06T22:13:44Z jojo-chan Stat-New >https://zh.wikipedia.org/zh-cn/西藏自治区
+西藏自治區 西藏自治区 [xi1 zang4 zi4 zhi4 qu1] /(földrajzi név) Tibeti Autonóm Terület/Tibet/
 
 # ID-n29Wi5g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -45804,7 +45829,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-p22II8w
 # Ver 2017-06-04T22:31:34Z Adam Stat-New >magyar Wikipédia
-包甫博 包甫博 [bao1 fu3 bo2] /(személynév) Bartos Huba (1966–)/
+# 包甫博 包甫博 [bao1 fu3 bo2] /(személynév) Bartos Huba (1966–)/
+# Ver 2017-09-06T19:04:27Z gabor Stat-New >.
+# 包甫博 包甫博 [bao1 fu3 bo2] /(átirat) Bartos Huba (1966–)/
+# Ver 2017-09-06T19:04:31Z gabor Stat-Verif >.
+包甫博 包甫博 [bao1 fu3 bo2] /(átirat) Bartos Huba (1966–)/
 
 # ID-p22Ld2t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
