@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-09-07T02:00:01Z
+# Datenstand: 2017-09-08T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -7638,6 +7638,8 @@
 
 # ID-c51BJ1A
 # Ver 2017-09-06T22:08:12Z jojo-chan Stat-New >https://zh.wikipedia.org/zh-cn/西藏自治区
+# 西藏 西藏 [xi1 zang4] /(földrajzi név) Tibeti Autonóm Terület/Tibet/
+# Ver 2017-09-07T08:36:49Z gabor Stat-Verif >.
 西藏 西藏 [xi1 zang4] /(földrajzi név) Tibeti Autonóm Terület/Tibet/
 
 # ID-c51GY6b
@@ -11331,6 +11333,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-d68wJ5v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 開 开 [kai1] /nyit/nyílik/indít/indul/be|kapcsol/vezet (járművet)/ki|állít (receptet, csekket, számlát stb.)/
+
+# ID-d68xK1H
+# Ver 2017-09-07T22:14:29Z gabor Stat-New >CHDICT
+聽寫 听写 [ting1 xie3] /tollba|mondás; diktálás/
 
 # ID-d68Ee4i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -26898,6 +26904,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-i86qE2c
 # Ver 2017-09-06T22:18:30Z jojo-chan Stat-New >https://zh.wikipedia.org/zh-cn/威利转写
+# 威利轉寫 威利转写 [wei1 li4 zhuan3 xie3] /Wylie-féle transzliteráció (a tibeti írás latin betűs átírása)/Wylie-féle átírás/Wylie-transzliteráció/Wylie-átírás/
+# Ver 2017-09-07T08:36:08Z gabor Stat-Verif >.
 威利轉寫 威利转写 [wei1 li4 zhuan3 xie3] /Wylie-féle transzliteráció (a tibeti írás latin betűs átírása)/Wylie-féle átírás/Wylie-transzliteráció/Wylie-átírás/
 
 # ID-i86ww3z
@@ -40107,6 +40115,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-n29SA6o
 # Ver 2017-09-06T22:13:44Z jojo-chan Stat-New >https://zh.wikipedia.org/zh-cn/西藏自治区
+# 西藏自治區 西藏自治区 [xi1 zang4 zi4 zhi4 qu1] /(földrajzi név) Tibeti Autonóm Terület/Tibet/
+# Ver 2017-09-07T08:36:21Z gabor Stat-Verif >.
 西藏自治區 西藏自治区 [xi1 zang4 zi4 zhi4 qu1] /(földrajzi név) Tibeti Autonóm Terület/Tibet/
 
 # ID-n29Wi5g
