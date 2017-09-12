@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-09-08T02:00:01Z
+# Datenstand: 2017-09-12T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -12706,6 +12706,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-e16CC7D
 # Ver 2017-05-29T14:54:21Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+# 蟬 蝉 [chan2] /kabóca (a Cicadidae család egy tagja)/
+# Ver 2017-09-11T19:13:45Z gabor Stat-Verif >.
 蟬 蝉 [chan2] /kabóca (a Cicadidae család egy tagja)/
 
 # ID-e16MC1P
@@ -12986,7 +12988,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-e24Hd0x
 # Ver 2017-06-03T21:50:30Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
-貝拉剋奧巴馬 贝拉克奥巴马 [bei4 la1 ke4 ao4 ba1 ma3] /(személynév) Barack Obama (1961–)/
+# 貝拉剋奧巴馬 贝拉克奥巴马 [bei4 la1 ke4 ao4 ba1 ma3] /(személynév) Barack Obama (1961–)/
+# Ver 2017-09-11T19:11:52Z gabor Stat-New >.
+# 貝拉剋奧巴馬 贝拉克奥巴马 [bei4 la1 ke4 ao4 ba1 ma3] /(átirat) Barack Obama (1961–)/
+# Ver 2017-09-11T19:11:54Z gabor Stat-Verif >.
+貝拉剋奧巴馬 贝拉克奥巴马 [bei4 la1 ke4 ao4 ba1 ma3] /(átirat) Barack Obama (1961–)/
 
 # ID-e24Kd1O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -14912,7 +14918,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-e87vD5r
 # Ver 2017-06-03T21:55:56Z Adam Stat-New >CC-CEDICT és Pleco-szótár
-澤 泽 [ze2] /tó; medence/nedves/csillogás/
+# 澤 泽 [ze2] /tó; medence/nedves/csillogás/
+# Ver 2017-09-11T19:11:08Z gabor Stat-New >+ABC
+# 澤 泽 [ze2] /tó; medence/mocsár/nedves/csillogás/
+# Ver 2017-09-11T19:11:14Z gabor Stat-Verif >.
+澤 泽 [ze2] /tó; medence/mocsár/nedves/csillogás/
 
 # ID-e87wA5Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -15866,6 +15876,8 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-06-03T21:43:09Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
 # 毛澤東 毛泽东 [mao2 ze2 dong1] /Mao Ce-tung (1893–1976)/
 # Ver 2017-06-03T21:46:37Z Adam Stat-New >címke beszúrása
+# 毛澤東 毛泽东 [mao2 ze2 dong1] /(személynév) Mao Ce-tung (1893–1976)/
+# Ver 2017-09-11T19:12:50Z gabor Stat-Verif >.
 毛澤東 毛泽东 [mao2 ze2 dong1] /(személynév) Mao Ce-tung (1893–1976)/
 
 # ID-f19gp5F
@@ -17336,6 +17348,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-f65Ig3s
 # Ver 2017-05-29T17:29:13Z Adam Stat-New >CC-CEDICT (és kínai Wikipédia-beli használat nyomán)
+# 或稱 或称 [huo4 cheng1] /más néven; alias/
+# Ver 2017-09-11T19:13:31Z gabor Stat-Verif >.
 或稱 或称 [huo4 cheng1] /más néven; alias/
 
 # ID-f65Ii2b
@@ -20034,7 +20048,11 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-29T14:37:20Z Adam Stat-New >Baidu Baike szócikke
 # 詞條 词条 [ci2 tiao2] / szócikk (lexikonban, szótárban stb.)/
 # Ver 2017-05-29T14:37:47Z Adam Stat-New >elválasztójel
-詞條 词条 [ci2 tiao2] / szó|cikk (lexikonban, szótárban stb.)/
+# 詞條 词条 [ci2 tiao2] / szó|cikk (lexikonban, szótárban stb.)/
+# Ver 2017-09-11T19:16:40Z gabor Stat-New >biztos meg akarjuk találni a "cikk"-re a "szócikket"...? érzés dolga, de szerintem inkább nem.
+# 詞條 词条 [ci2 tiao2] / szócikk (lexikonban, szótárban stb.)/
+# Ver 2017-09-11T19:16:42Z gabor Stat-Verif >.
+詞條 词条 [ci2 tiao2] / szócikk (lexikonban, szótárban stb.)/
 
 # ID-g56Df7r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -27268,7 +27286,11 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-26T17:54:06Z Adam Stat-New >Wikipédia-szócikkek tetején
 # 條目 条目 [tiao2 mu4] /szócikk (lexikonban, szótárban stb.)/
 # Ver 2017-05-29T14:38:02Z Adam Stat-New >elválasztójel
-條目 条目 [tiao2 mu4] /szó|cikk (lexikonban, szótárban stb.)/
+# 條目 条目 [tiao2 mu4] /szó|cikk (lexikonban, szótárban stb.)/
+# Ver 2017-09-11T19:15:56Z gabor Stat-New >biztos meg akarjuk találni a "cikk"-re a "szócikket"...? érzés dolga, de szerintem inkább nem.\n+jelentés ABC, PLC
+# 條目 条目 [tiao2 mu4] /szócikk (lexikonban, szótárban stb.)/cikkely; al|cikk/
+# Ver 2017-09-11T19:15:58Z gabor Stat-Verif >.
+條目 条目 [tiao2 mu4] /szócikk (lexikonban, szótárban stb.)/cikkely; al|cikk/
 
 # ID-i98Zc0y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -33312,7 +33334,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-k99xJ1F
 # Ver 2017-05-29T14:08:51Z Adam Stat-New >Pleco-szótár és CC-CEDICT
-外傷 外伤 [wai4 shang1] /sérülés; sebesülés/trauma/
+# 外傷 外伤 [wai4 shang1] /sérülés; sebesülés/trauma/
+# Ver 2017-09-11T19:18:11Z gabor Stat-New >.
+# 外傷 外伤 [wai4 shang1] /külső sérülés; sebesülés/trauma/
+# Ver 2017-09-11T19:18:14Z gabor Stat-Verif >.
+外傷 外伤 [wai4 shang1] /külső sérülés; sebesülés/trauma/
 
 # ID-k99FW5y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -34674,6 +34700,8 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-06-03T21:44:48Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
 # 鄧小平 邓小平 [deng4 xiao3 ping2] /Teng Hsziao-ping (1904–1997)/
 # Ver 2017-06-03T21:46:19Z Adam Stat-New >címke beszúrása
+# 鄧小平 邓小平 [deng4 xiao3 ping2] /(személynév) Teng Hsziao-ping (1904–1997)/
+# Ver 2017-09-11T19:13:02Z gabor Stat-Verif >.
 鄧小平 邓小平 [deng4 xiao3 ping2] /(személynév) Teng Hsziao-ping (1904–1997)/
 
 # ID-l45Dw3C
