@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-09-12T02:00:01Z
+# Datenstand: 2017-09-15T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -2078,6 +2078,8 @@
 
 # ID-a66cX6E
 # Ver 2017-05-29T12:53:46Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+# 聖伊什特萬聖殿 圣伊什特万圣殿 [sheng4 yi1 shi2 te4 wan4 sheng4 dian4] /Szent István-bazilika/
+# Ver 2017-09-14T07:33:21Z gabor Stat-Verif >.
 聖伊什特萬聖殿 圣伊什特万圣殿 [sheng4 yi1 shi2 te4 wan4 sheng4 dian4] /Szent István-bazilika/
 
 # ID-a66kG9j
@@ -4289,6 +4291,8 @@
 
 # ID-b35Yb4p
 # Ver 2017-05-29T12:56:20Z Adam Stat-New >Baike Baidu szócikke
+# 聖伊斯特萬大教堂 圣伊斯特万大教堂 [sheng4 yi1 shi3 te4 wan4 da4 jiao4 tang2] /Szent István-bazilika/
+# Ver 2017-09-14T07:33:25Z gabor Stat-Verif >.
 聖伊斯特萬大教堂 圣伊斯特万大教堂 [sheng4 yi1 shi3 te4 wan4 da4 jiao4 tang2] /Szent István-bazilika/
 
 # ID-b36oa2E
@@ -5693,7 +5697,9 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 芝士 芝士 [zhi1 shi4] /sajt/
 # Ver 2017-05-29T12:38:35Z Adam Stat-Verif >+ "átirat" címke
-芝士 芝士 [zhi1 shi4] /(átirat) sajt/
+# 芝士 芝士 [zhi1 shi4] /(átirat) sajt/
+# Ver 2017-09-14T07:31:45Z gabor Stat-Verif >jövevényszavaknál szándékosan nem tüntettem fel az eredetet: rengeteg szó átvétel, és nemcsak angolból, mint a friss átvételek többsége. teljesen önkényes a határ, hogy mit jelölnénk és mit nem, ezért semmit nem jelölünk inkább.\naz (átirat) címkét jellemzően nevekre használom. ezek nem szervesültek kínai szóként, így indokolt jelezni, hogy itt alapvetően semmi másról nincs szó, mint egy idegen személynév fonetikus átiratáról.
+芝士 芝士 [zhi1 shi4] /sajt/
 
 # ID-b84hq4K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -22124,6 +22130,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-h24jZ1u
 # Ver 2017-05-29T12:38:11Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+# 人造奶油 人造奶油 [ren2 zao4 nai3 you2] /margarin/
+# Ver 2017-09-14T07:27:17Z gabor Stat-Verif >.
 人造奶油 人造奶油 [ren2 zao4 nai3 you2] /margarin/
 
 # ID-h24pU3V
@@ -45699,6 +45707,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-p17JV4V
 # Ver 2017-05-29T12:48:05Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+# 洲 洲 [zhou1] /kontinens; föld|rész (kontinensek nevének utótagjaként is)/
+# Ver 2017-09-14T07:33:15Z gabor Stat-Verif >.
 洲 洲 [zhou1] /kontinens; föld|rész (kontinensek nevének utótagjaként is)/
 
 # ID-p17Ly6B
