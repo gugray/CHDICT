@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-09-15T02:00:01Z
+# Datenstand: 2017-09-16T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -2223,6 +2223,10 @@
 # ID-a69Pl9c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 無論如何 无论如何 [wu2 lun4 ru2 he2] /akárhogyan is/mindenképpen/mindazonáltal/
+
+# ID-a69TO9u
+# Ver 2017-09-15T21:07:36Z gabor Stat-New >CEDICT
+珊瑚 珊瑚 [shan1 hu2] /korall/
 
 # ID-a69Wj6v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -10015,6 +10019,10 @@
 # ID-d25On9A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 輪廓 轮廓 [lun2 kuo4] /kör|vonal/kontúr/
+
+# ID-d25Ou1T
+# Ver 2017-09-15T18:05:06Z gabor Stat-New >http://languagelog.ldc.upenn.edu/nll/?p=34487
+舌尖 舌尖 [she2 jian1] /a nyelv hegye/nyelve hegye (vkinek)/
 
 # ID-d25Xw1w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -18023,6 +18031,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-f88Ik1R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 談話 谈话 [tan2 hua4] /beszélgetés/beszéd/SZ:次[ci4]/beszélget/
+
+# ID-f88OW8z
+# Ver 2017-09-15T21:23:09Z gabor Stat-New >CEDICT
+查票員 查票员 [cha2 piao4 yuan2] /kalauz; ellenőr/
 
 # ID-f88TA7m
 # Ver 2017-05-21T22:22:49Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
