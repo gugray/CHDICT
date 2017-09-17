@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-09-16T02:00:01Z
+# Datenstand: 2017-09-17T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -28178,7 +28178,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-j28MU8T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-物質 物质 [wu4 zhi4] /anyag (fizika)/agyagi/SZ:個|个[ge4]/
+# 物質 物质 [wu4 zhi4] /anyag (fizika)/agyagi/SZ:個|个[ge4]/
+# Ver 2017-09-16T19:17:59Z gabor Stat-Verif >elírás
+# 物質 物质 [wu4 zhi4] /anyag (fizika)/anyagi/SZ:個|个[ge4]/
+# Ver 2017-09-16T19:18:46Z gabor Stat-Verif >sorrend
+物質 物质 [wu4 zhi4] /anyag (fizika)/SZ:個|个[ge4]/anyagi/anyagias/
 
 # ID-j28Nx0z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
