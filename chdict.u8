@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-09-22T02:00:01Z
+# Datenstand: 2017-09-26T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -51,6 +51,10 @@
 # ID-a00WK0E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 圈 圈 [juan1] /be|zár/körül|zár/karámba zár/
+
+# ID-a01oN4F
+# Ver 2017-09-25T20:09:35Z gabor Stat-New >CEDICT, filmfeliratok
+燒傷科 烧伤科 [shao1 shang1 ke1] /égési osztály; égési részleg (kórházban)/
 
 # ID-a01pQ7O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -5350,6 +5354,10 @@
 # ID-b72px1w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 使得 使得 [shi3 de5] /használható/lehetséges/meg|csinálható/csinál/
+
+# ID-b72pN2Y
+# Ver 2017-09-25T20:06:26Z gabor Stat-New >CEDICT, filmfeliratok
+無菌 无菌 [wu2 jun1] /steril/
 
 # ID-b72Cp2L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -12371,6 +12379,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-e03bq0M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 邦德 邦德 [bang1 de2] /(átirat) Bond/
+
+# ID-e03dx1x
+# Ver 2017-09-25T20:06:03Z gabor Stat-New >CEDICT, filmfeliratok
+健保 健保 [jian4 bao3] /egészség|biztosítás; beteg|biztosítás/
 
 # ID-e03jt7f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -26319,6 +26331,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-i65KE2B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 侏儒 侏儒 [zhu1 ru2] /törpe/kis|növésű/
+
+# ID-i65OR7I
+# Ver 2017-09-25T20:14:23Z gabor Stat-New >CEDICT, filmfeliratok
+純淨 纯净 [chun2 jing4] /tiszta (nem szennyezett\kevert, pl. víz, levegő, lélek)/
 
 # ID-i65Pf4r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
