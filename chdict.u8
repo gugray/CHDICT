@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-09-26T02:00:01Z
+# Datenstand: 2017-09-27T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -3385,6 +3385,10 @@
 # ID-b05iu1g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 泄氣 泄气 [xie4 qi4] /le|ereszt (kiengedi a levegőt)/el|csügged/frusztráló/gyenge/
+
+# ID-b05uD4o
+# Ver 2017-09-26T19:08:58Z gabor Stat-New >korpusz; http://chengyu.t086.com/cy1/1328.html
+長篇大論 长篇大论 [zhang3 pian1 da4 lun4] /terjengős beszéd/prédikáció; szónoklat; kis|előadás (átvitten)/
 
 # ID-b05yl2m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -23412,6 +23416,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 忘掉 忘掉 [wang4 diao4] /el|felejt/
 
+# ID-h69lW9x
+# Ver 2017-09-26T19:12:31Z gabor Stat-New >Wikipedia
+發光二極管 发光二极管 [fa1 guang1 er4 ji2 guan3] /LED; világító dióda/
+
 # ID-h69tG7j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 裝 装 [zhuang1] /be|öltözik/játszik (vminek a szerepét játssza)/kosztüm/úgy tesz/telepít/be|szerel/
@@ -24220,6 +24228,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 種 种 [zhong3] /mag/fajok/fajta/típus/(számlálószó: dolgok fajtái, típusai)/(számlálószó: nyelvek)/
 
+# ID-h94sA0Y
+# Ver 2017-09-26T14:10:15Z gabor Stat-New >CEDICT; korpusz
+珊瑚礁 珊瑚礁 [shan1 hu2 jiao1] /korall|zátony/
+
 # ID-h94zD2k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 土地改革 土地改革 [tu3 di4 gai3 ge2] /föld|reform/
@@ -24235,6 +24247,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-h95cb0K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 纖維 纤维 [xian1 wei2] /rost/szál/
+
+# ID-h95hq7d
+# Ver 2017-09-26T19:11:34Z gabor Stat-New >CEDICT; Wikipedia
+二極管 二极管 [er4 ji2 guan3] /dióda/katód|cső; elektron|cső/
 
 # ID-h95pk2E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -27721,6 +27737,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-j12BJ7q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 高檔 高档 [gao1 dang4] /csúcs|minőségű/első|osztályú/prémium/
+
+# ID-j12Of1F
+# Ver 2017-09-26T19:14:49Z gabor Stat-New >CEDICT; korpusz
+手電筒 手电筒 [shou3 dian4 tong3] /elem|lámpa; zseb|lámpa/
 
 # ID-j13ev5Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -33408,6 +33428,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 練 练 [lian4] /gyakorol/edz/
 
+# ID-l00gy1S
+# Ver 2017-09-26T19:16:35Z gabor Stat-New >CEDICT; korpusz
+便攜 便携 [bian4 xie2] /hordozható/
+
 # ID-l00hX9W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 羅斯 罗斯 [luo2 si1] /(átirat) Roth; Ross/
@@ -33651,6 +33675,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-l07tU7b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 蠢貨 蠢货 [chun3 huo4] /idióta/tök|fej/barom/
+
+# ID-l07xK4T
+# Ver 2017-09-26T19:06:12Z gabor Stat-New >CEDICT, korpusz
+長篇 长篇 [chang2 pian1] /hosszú (beszéd, szöveg)/
 
 # ID-l07DU2g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -41762,6 +41790,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-n80Mu0f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 橋 桥 [qiao2] /híd/SZ:座[zuo4]/
+
+# ID-n81pU4m
+# Ver 2017-09-26T14:12:13Z gabor Stat-New >Wikipedia, korpusz
+珊瑚蟲 珊瑚虫 [shan1 hu2 chong2] /korall|polip/
 
 # ID-n81OM7O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
