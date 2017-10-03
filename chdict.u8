@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-09-28T02:00:02Z
+# Datenstand: 2017-10-03T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -35434,7 +35434,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-l67oM5Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-時差 时差 [shi2 cha1] /idő|eltolódás/jetlag/
+# 時差 时差 [shi2 cha1] /idő|eltolódás/jetlag/
+# Ver 2017-10-02T14:18:01Z Adam Stat-Verif >angolul nem tudók kedvéért rövid magyarázat
+時差 时差 [shi2 cha1] /idő|eltolódás/jetlag (hosszú repülőútnál fellépő időeltolódás miatti kimerültség)/
 
 # ID-l67sx4b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
