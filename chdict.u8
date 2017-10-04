@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-10-03T02:00:01Z
+# Datenstand: 2017-10-04T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -35945,6 +35945,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-l85pj5P
 # Ver 2017-05-27T18:26:42Z Adam Stat-New >a kínai Wikipédia "介詞" szócikkének elején közölt definíció alapján
 介詞 介词 [jie4 ci2] /elöljáró; elöljáró|szó; prepozíció (nyelvtan)/név|utó; posztpozíció/viszony|szó/
+
+# ID-l85zR7G
+# Ver 2017-10-03T07:16:18Z gabor Stat-New >CEDICT; http://languagelog.ldc.upenn.edu/nll/?p=34768
+戰線 战线 [zhan4 xian4] /front; arc|vonal (háborúban)/
 
 # ID-l85Ao4w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
