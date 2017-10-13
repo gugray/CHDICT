@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-10-10T02:00:01Z
+# Datenstand: 2017-10-13T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -7604,6 +7604,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 天文 天文 [tian1 wen2] /csillagászat/
 
+# ID-c50eO4Q
+# Ver 2017-10-12T21:13:37Z gabor Stat-New >CEDICT; korpusz
+燈罩 灯罩 [deng1 zhao4] /lámpa|ernyő/
+
 # ID-c50nD9Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 灰 灰 [hui1] /hamu/por/mész/szürke; hamu|szürke/le|vert; kedve|szegett/
@@ -9087,6 +9091,10 @@
 # ID-c94xW6S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 想到 想到 [xiang3 dao4] /gondol (vkire\vmire)/felidéz/
+
+# ID-c94Lu2Z
+# Ver 2017-10-12T21:12:05Z gabor Stat-New >korpusz
+白癡 白癡 [bai2 chi1] /barom; kretén; idióta; marha/
 
 # ID-c94No2X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -18324,6 +18332,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 標題 标题 [biao1 ti2] /cím/címsor/fő|cím/felirat/
 
+# ID-f97Pl0T
+# Ver 2017-10-12T21:08:04Z gabor Stat-New >ABC; CEDICT
+輔 辅 [fu3] /segít/ki|egészít/segéd-/
+
 # ID-f97RC2k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 黑人 黑人 [hei1 ren2] /fekete (fekete bőrű ember)/
@@ -20451,6 +20463,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-g69BE6a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 恐 恐 [kong3] /fél (vmitől)/félelem/rémült/
+
+# ID-g69JR0d
+# Ver 2017-10-12T21:07:04Z gabor Stat-New >CEDICT; korpusz
+輔音 辅音 [fu3 yin1] /mássalhangzó/
 
 # ID-g69XY7M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -44604,6 +44620,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-o79vm8q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 爭鳴 争鸣 [zheng1 ming2] /vitázik; verseng (eltérő vélemények; képileg: egymással versenyt éneklő madarak)/
+
+# ID-o79zx7f
+# Ver 2017-10-12T21:09:07Z gabor Stat-New >CEDICT; korpusz
+元音 元音 [yuan2 yin1] /magánhangzó/
 
 # ID-o79Kc2g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
