@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-10-13T02:00:01Z
+# Datenstand: 2017-10-15T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -5064,6 +5064,10 @@
 # ID-b62Md1X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 拼 拼 [pin1] /össze|rak/ki|rak/életét kockáztatja/
+
+# ID-b62PQ4e
+# Ver 2017-10-14T08:47:55Z gabor Stat-New >CEDICT; korpusz
+海嘯 海啸 [hai3 xiao4] /cunami; szökőár/
 
 # ID-b62SC6l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -11995,6 +11999,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-d89Yi8A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 扎 扎 [zha1] /meg|szúr; át|szúr (pl. tűvel)/(számlálószó) kancsó (sörre, folyadékokra)/
+
+# ID-d90eL7d
+# Ver 2017-10-14T08:42:58Z gabor Stat-New >CEDICT; korpusz
+懼高症 惧高症 [ju4 gao1 zheng4] /tér|iszony/
 
 # ID-d90sC3Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -22896,6 +22904,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 本科 本科 [ben3 ke1] /alap|képzés (felsőoktatásban)/egyetemista (diploma megszerzéséig)/
 
+# ID-h50uJ3o
+# Ver 2017-10-14T08:42:07Z gabor Stat-New >CEDICT; korpusz
+恐高 恐高 [kong3 gao1] /tér|iszonya van; fél a magasságtól/
+
 # ID-h50xM4a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 實業家 实业家 [shi2 ye4 jia1] /gyáros (gyárakat birtokló vagyonos ember)/
@@ -26377,6 +26389,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-i65KE2B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 侏儒 侏儒 [zhu1 ru2] /törpe/kis|növésű/
+
+# ID-i65NQ2e
+# Ver 2017-10-14T08:50:51Z gabor Stat-New >CEDICT; ABC
+嘯 啸 [xiao4] /fütyül; süvít; üvölt/
 
 # ID-i65OR7I
 # Ver 2017-09-25T20:14:23Z gabor Stat-New >CEDICT, filmfeliratok
@@ -37895,6 +37911,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-m51kA5q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 戰鬥 战斗 [zhan4 dou4] /harcol/csatázik/csata/SZ:場|场[chang2],次[ci4]/
+
+# ID-m51AV4z
+# Ver 2017-10-14T08:44:52Z gabor Stat-New >CEDICT; korpusz
+恐高症 恐高症 [kong3 gao1 zheng4] /tér|iszony/
 
 # ID-m51JF8Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
