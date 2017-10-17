@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-10-16T02:00:01Z
+# Datenstand: 2017-10-17T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -1914,7 +1914,11 @@
 
 # ID-a58Il5I
 # Ver 2017-10-15T13:07:31Z jojo-chan Stat-New >http://ce.linedict.com/dict.html#/cnen/entry/b2820813ba3a4cfb8f4d028c218b7896
-郵筒 邮筒 [you2 tong3] /postaláda/postafiók/
+# 郵筒 邮筒 [you2 tong3] /postaláda/postafiók/
+# Ver 2017-10-16T14:34:42Z gabor Stat-New >postafiókot (mint postai szolgáltatás, "PO box") nem támasztják alá a források: ABC, Google keresés, filmfelirat-korpusz.\n+elválasztójel
+# 郵筒 邮筒 [you2 tong3] /posta|láda/
+# Ver 2017-10-16T14:34:48Z gabor Stat-Verif >.
+郵筒 邮筒 [you2 tong3] /posta|láda/
 
 # ID-a58Mo5g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -4329,6 +4333,8 @@
 
 # ID-b36Tm0o
 # Ver 2017-10-15T13:04:38Z jojo-chan Stat-New >http://ce.linedict.com/dict.html#/cnen/entry/dc8d88c2d8af4a9f8d9975056d379b5b
+# 荒誕 荒诞 [huang1 dan4] /abszurd/elképesztő/képtelenség/fantasztikus/
+# Ver 2017-10-16T14:32:09Z gabor Stat-Verif >.
 荒誕 荒诞 [huang1 dan4] /abszurd/elképesztő/képtelenség/fantasztikus/
 
 # ID-b37am9y
@@ -6532,7 +6538,11 @@
 
 # ID-c10dR8Z
 # Ver 2017-10-15T13:18:31Z jojo-chan Stat-New >http://www.ichacha.net/稻子.html
-稻子 稻子 [dao4 zi5] /hántolatlan rizs/
+# 稻子 稻子 [dao4 zi5] /hántolatlan rizs/
+# Ver 2017-10-16T14:38:43Z gabor Stat-New >ABC, MOEDICT
+# 稻子 稻子 [dao4 zi5] /hántolatlan rizs/rizs|szem/
+# Ver 2017-10-16T14:38:46Z gabor Stat-Verif >.
+稻子 稻子 [dao4 zi5] /hántolatlan rizs/rizs|szem/
 
 # ID-c10gQ0U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -6927,6 +6937,10 @@
 # ID-c24Zz2O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 宅 宅 [zhai2] /lakó|hely/lakás/
+
+# ID-c25lL1Q
+# Ver 2017-10-16T16:36:48Z gabor Stat-New >CEDICT; korpusz
+像素 像素 [xiang4 su4] /pixel/
 
 # ID-c25Cg2r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -8173,6 +8187,10 @@
 # ID-c65SP9E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 錦上添花 锦上添花 [jin3 shang4 tian1 hua1] /(kifejezés) tovább díszít valamit, ami már tökéletes/
+
+# ID-c65Wo4s
+# Ver 2017-10-16T19:02:37Z gabor Stat-New >CEDICT; ABC; korpusz
+吹簫 吹箫 [chui1 xiao1] /furulyázik (xiao nevű bambuszfurulyán játszik)/koldul/(vulgáris, szleng) szopás; furulyázás/
 
 # ID-c65YQ8i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -21752,6 +21770,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-h07kJ2d
 # Ver 2017-10-15T13:20:14Z jojo-chan Stat-New >http://www.ichacha.net/麦子.html
+# 麥子 麦子 [mai4 zi5] /gabona/búza/árpa/zab/
+# Ver 2017-10-16T14:43:09Z gabor Stat-Verif >.
 麥子 麦子 [mai4 zi5] /gabona/búza/árpa/zab/
 
 # ID-h07mU6j
@@ -25352,7 +25372,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-i31eA0y
 # Ver 2017-10-15T13:19:02Z jojo-chan Stat-New >http://www.ichacha.net/水稻.html
-水稻 水稻 [shui3 dao4] /hántolatlan rizs/
+# 水稻 水稻 [shui3 dao4] /hántolatlan rizs/
+# Ver 2017-10-16T14:41:45Z gabor Stat-New >https://zh.wikipedia.org/wiki/%E6%B0%B4%E7%A8%BB
+# 水稻 水稻 [shui3 dao4] /rizs (növénynév; Oryza sativa)/
+# Ver 2017-10-16T14:41:48Z gabor Stat-Verif >.
+水稻 水稻 [shui3 dao4] /rizs (növénynév; Oryza sativa)/
 
 # ID-i31hF2E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -43085,6 +43109,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 單詞 单词 [dan1 ci2] /szó/SZ:個|个[ge4]/
 
+# ID-o20vd4N
+# Ver 2017-10-16T16:16:58Z gabor Stat-New >CEDICT; korpusz
+槲寄生 槲寄生 [hu2 ji4 sheng1] /fagyöngy/
+
 # ID-o20wE2P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 家喻戶曉 家喻户晓 [jia1 yu4 hu4 xiao3] /(kifejezés) köz|ismert; háztartási név/
@@ -45042,6 +45070,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-o90Vm7b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 加速 加速 [jia1 su4] /gyorsít/gyorsul/
+
+# ID-o90Vu7X
+# Ver 2017-10-16T19:03:57Z gabor Stat-New >CEDICT; ABC\nhttps://zh.wikipedia.org/wiki/%E7%AE%AB
+簫 箫 [xiao1] /bambusz|furulya; xiao (függőleges tartott hagyományos fúvós hangszer)/
 
 # ID-o90WB1C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
