@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-10-17T02:00:01Z
+# Datenstand: 2017-10-18T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -2298,6 +2298,8 @@
 
 # ID-a71zt8y
 # Ver 2017-05-10T17:40:06Z gabor Stat-New >CEDICT; http://languagelog.ldc.upenn.edu/nll/?p=32151
+# 土裡土氣 土里土气 [tu3 li3 tu3 qi4] /vidéki/provinciális/faragatlan/
+# Ver 2017-10-17T20:23:53Z gabor Stat-Verif >.
 土裡土氣 土里土气 [tu3 li3 tu3 qi4] /vidéki/provinciális/faragatlan/
 
 # ID-a71Dn5i
@@ -4325,6 +4327,8 @@
 
 # ID-b36xr7s
 # Ver 2017-05-13T15:16:06Z gabor Stat-New >.
+# 布達佩斯 布达佩斯 [bu4 da2 pei4 si1] /(földrajzi név) Budapest/
+# Ver 2017-10-17T20:24:07Z gabor Stat-Verif >.
 布達佩斯 布达佩斯 [bu4 da2 pei4 si1] /(földrajzi név) Budapest/
 
 # ID-b36Cs9u
@@ -7016,6 +7020,8 @@
 
 # ID-c27Tc0X
 # Ver 2017-05-06T17:05:18Z gabor Stat-New >https://www.mdbg.net/chinese/dictionary?page=worddict&wdrst=0&wdqb=%E9%A0%86%E5%BF%83
+# 順心 顺心 [shun4 xin1] /elégedett; boldog/kielégítő/
+# Ver 2017-10-17T20:23:42Z gabor Stat-Verif >.
 順心 顺心 [shun4 xin1] /elégedett; boldog/kielégítő/
 
 # ID-c28Ds5v
@@ -8896,6 +8902,8 @@
 
 # ID-c87Fa1O
 # Ver 2017-05-13T15:08:11Z gabor Stat-New >MDBG
+# 唐納 唐纳 [tang2 na4] /(átirat) Donald/
+# Ver 2017-10-17T20:23:57Z gabor Stat-Verif >.
 唐納 唐纳 [tang2 na4] /(átirat) Donald/
 
 # ID-c87Gi5A
@@ -9782,6 +9790,8 @@
 
 # ID-d15oj4Z
 # Ver 2017-05-10T17:28:46Z gabor Stat-New >https://chinese.stackexchange.com/questions/966/
+# 牛逼 牛逼 [niu2 bi1] /(szleng) menő; kúl; fasza (eredeti jelentésében vulgáris, köznyelvi használatban pozitív jelző)/
+# Ver 2017-10-17T20:23:48Z gabor Stat-Verif >.
 牛逼 牛逼 [niu2 bi1] /(szleng) menő; kúl; fasza (eredeti jelentésében vulgáris, köznyelvi használatban pozitív jelző)/
 
 # ID-d15Bl1A
@@ -14766,6 +14776,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-e79Xl4V
 # Ver 2017-05-13T15:17:38Z gabor Stat-New >.
+# 匈牙利 匈牙利 [xiong1 ya2 li4] /(földrajzi név) Magyar|ország/
+# Ver 2017-10-17T20:24:14Z gabor Stat-Verif >.
 匈牙利 匈牙利 [xiong1 ya2 li4] /(földrajzi név) Magyar|ország/
 
 # ID-e80dD2x
@@ -16854,6 +16866,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-f48qU9K
 # Ver 2017-05-17T09:40:24Z gabor Stat-New >ABC, MDBG; egyértelmű szóösszetétel
+# 茶葉 茶叶 [cha2 ye4] /tea|levél/SZ:包[bao1]/
+# Ver 2017-10-17T20:24:24Z gabor Stat-Verif >.
 茶葉 茶叶 [cha2 ye4] /tea|levél/SZ:包[bao1]/
 
 # ID-f48vv6g
@@ -22754,6 +22768,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-h43GT3D
 # Ver 2017-05-13T15:13:24Z gabor Stat-New >MDBG; http://languagelog.ldc.upenn.edu/nll/?p=29471
+# 特朗普 特朗普 [te4 lang3 pu3] /(tulajdonnév) Donald Trump (2016-ban megválasztott amerikai elnök)/
+# Ver 2017-10-17T20:24:00Z gabor Stat-Verif >.
 特朗普 特朗普 [te4 lang3 pu3] /(tulajdonnév) Donald Trump (2016-ban megválasztott amerikai elnök)/
 
 # ID-h43PB9a
@@ -23448,6 +23464,8 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-11T14:15:58Z gabor Stat-New >Microsoft terminológia\nhttps://www.microsoft.com/Language/en-US/Search.aspx
 # 桌面 桌面 [zhuo1 mian4] /asztal (számítástechnika)/
 # Ver 2017-05-13T15:14:52Z gabor Stat-New >alapjelentés :)
+# 桌面 桌面 [zhuo1 mian4] /asztal (számítástechnika)/asztal|lap/
+# Ver 2017-10-17T20:24:04Z gabor Stat-Verif >.
 桌面 桌面 [zhuo1 mian4] /asztal (számítástechnika)/asztal|lap/
 
 # ID-h68mo6F
@@ -45073,7 +45091,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-o90Vu7X
 # Ver 2017-10-16T19:03:57Z gabor Stat-New >CEDICT; ABC\nhttps://zh.wikipedia.org/wiki/%E7%AE%AB
-簫 箫 [xiao1] /bambusz|furulya; xiao (függőleges tartott hagyományos fúvós hangszer)/
+# 簫 箫 [xiao1] /bambusz|furulya; xiao (függőleges tartott hagyományos fúvós hangszer)/
+# Ver 2017-10-17T11:35:46Z gabor Stat-New >elírás
+# 簫 箫 [xiao1] /bambusz|furulya; xiao (függőlegesen tartott hagyományos fúvós hangszer)/
+# Ver 2017-10-17T11:35:51Z gabor Stat-Verif >.
+簫 箫 [xiao1] /bambusz|furulya; xiao (függőlegesen tartott hagyományos fúvós hangszer)/
 
 # ID-o90WB1C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -45345,6 +45367,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-o99rW4o
 # Ver 2017-05-17T09:38:51Z gabor Stat-New >HanDeDict; ABC
+# 甘醇 甘醇 [gan1 chun2] /glicerin/glikol/
+# Ver 2017-10-17T20:24:18Z gabor Stat-Verif >.
 甘醇 甘醇 [gan1 chun2] /glicerin/glikol/
 
 # ID-o99GB1x
