@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-10-18T02:00:01Z
+# Datenstand: 2017-10-21T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -17138,6 +17138,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 敲詐 敲诈 [qiao1 zha4] /zsarolás/ki|csikar/
 
+# ID-f56xy8j
+# Ver 2017-10-20T16:20:57Z gabor Stat-New >http://languagelog.ldc.upenn.edu/nll/?p=35023\nkorpusz
+知己 知己 [zhi1 ji3] /bizalmas; közeli ismerős; kebel|barát/
+
 # ID-f56AB6X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 待 待 [dai4] /vár/kezel/szüksége van (vmire)/
@@ -28341,6 +28345,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-j28QC5R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 精液 精液 [jing1 ye4] /sperma/ondó/
+
+# ID-j28RS1M
+# Ver 2017-10-20T16:18:45Z gabor Stat-New >http://languagelog.ldc.upenn.edu/nll/?p=35023
+支付寶 支付宝 [zhi1 fu4 bao3] /Alipay (a Paypalhoz hasonló, kínai online fizetési szolgáltató)/
 
 # ID-j28Sn9b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
