@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-10-30T03:00:02Z
+# Datenstand: 2017-11-03T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -10703,6 +10703,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-d46ua1z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 竅門 窍门 [qiao4 men2] /kulcs (problémáé, megoldásé)/trükk; mester|fogás/
+
+# ID-d46zI9c
+# Ver 2017-11-02T08:15:48Z gabor Stat-New >kiegészítés; korpusz
+不方便 不方便 [bu4 fang1 bian4] /kényelmetlen/kellemetlen/nem alkalmas (pl. időpont)/
 
 # ID-d46Ax1m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -37444,7 +37448,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-m34Pr4L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-方便 方便 [fang1 bian4] /kényelmes/segít/szívességet tesz (vkinek)/el|megy a mosdóban (eufemizmus)/
+# 方便 方便 [fang1 bian4] /kényelmes/segít/szívességet tesz (vkinek)/el|megy a mosdóban (eufemizmus)/
+# Ver 2017-11-02T08:12:50Z gabor Stat-Verif >korrekció: kiegészítés; elírás\nhttp://languagelog.ldc.upenn.edu/nll/?p=35179
+方便 方便 [fang1 bian4] /kényelmes; kényelem/segít/szívességet tesz (vkinek)/el|megy a mosdóba (eufemizmus)/
 
 # ID-m34Tl3L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -38892,6 +38898,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-m79bh8k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 問 问 [wen4] /kérdez/
+
+# ID-m79gn5f
+# Ver 2017-11-02T18:30:29Z gabor Stat-New >http://languagelog.ldc.upenn.edu/nll/?p=35216\nKorpusz
+嘻哈 嘻哈 [xi1 ha1] /hip-hop (zenei műfaj)/
 
 # ID-m79wj0k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
