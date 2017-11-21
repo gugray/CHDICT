@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-11-03T03:00:01Z
+# Datenstand: 2017-11-21T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -2455,6 +2455,10 @@
 # ID-a75Kl0h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 碳 碳 [tan4] /szén (kémiai elem)/
+
+# ID-a75QM1s
+# Ver 2017-11-20T17:15:30Z gabor Stat-New >CEDICT; korpusz
+喵 喵 [miao1] /(hangutánzó) miau/
 
 # ID-a75Zm2Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -16488,6 +16492,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 幻 幻 [huan4] /fantázia/
 
+# ID-f36uS4X
+# Ver 2017-11-20T17:19:57Z gabor Stat-New >CEDICT; korpusz
+聲波 声波 [sheng1 bo1] /hang|hullám/szonár/
+
 # ID-f36xn9v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 觀眾 观众 [guan1 zhong4] /nézők/közönség/
@@ -17576,7 +17584,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-f69RO9r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-傳奇 传奇 [chuan2 qi2] /legenda/románc/(Tang- és Song-kori rövid elbeszélés)/
+# 傳奇 传奇 [chuan2 qi2] /legenda/románc/(Tang- és Song-kori rövid elbeszélés)/
+# Ver 2017-11-20T11:53:40Z gabor Stat-Verif >pontosítás: http://languagelog.ldc.upenn.edu/nll/?p=35418
+傳奇 传奇 [chuan2 qi2] /legenda/románc/(Tang- és Song-kori rövid elbeszélés fantasztikus és természetfeletti elemekkel)/
 
 # ID-f69ZZ3N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -28640,6 +28650,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 度 度 [du4] /fok (szög, hőmérséklet mértékegysége)/kilowattóra/el|tölt (időt)/mérték/
 
+# ID-j38In5o
+# Ver 2017-11-20T22:17:21Z gabor Stat-New >CEDICT; korpusz
+肉桂 肉桂 [rou4 gui4] /fahéj/
+
 # ID-j38MP1s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 做事 做事 [zuo4 shi4] /dolgozni/ügyet intéz/van munkája/
@@ -36506,6 +36520,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 眼皮 眼皮 [yan3 pi2] /szem|héj/
 
+# ID-m02FX0A
+# Ver 2017-11-20T22:19:02Z gabor Stat-New >CEDICT
+桂 桂 [gui4] /fahéj/babér/(családnév) Gui/
+
 # ID-m02Jb0E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 分量 分量 [fen1 liang4] /komponens; össze|tevő (fizika: vektoré)/
@@ -39092,6 +39110,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-m84Ww3Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 老闆 老板 [lao3 ban3] /főnök/SZ:個|个[ge4]/
+
+# ID-m84Zf5K
+# Ver 2017-11-20T17:08:27Z gabor Stat-New >MDBG; korpusz
+飛碟 飞碟 [fei1 die2] /repülő csésze|alj; ufó/frizbi/
 
 # ID-m85dH6K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
