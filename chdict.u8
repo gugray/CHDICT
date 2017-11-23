@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-11-21T03:00:01Z
+# Datenstand: 2017-11-23T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -30481,6 +30481,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-j98Eg7s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 恕 恕 [shu4] /meg|bocsát/
+
+# ID-j98IJ5Z
+# Ver 2017-11-22T22:31:42Z GaoYanuo Stat-New >HSK3 Standard course textbook
+俗語 俗语 [su2 yu3] /szólás/szólásmondás//
 
 # ID-j99at3O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
