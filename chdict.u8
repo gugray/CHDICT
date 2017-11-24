@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-11-23T03:00:01Z
+# Datenstand: 2017-11-24T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -15656,6 +15656,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 感受 感受 [gan3 shou4] /érzékel/érez/tapasztal/
 
+# ID-f08Vr1D
+# Ver 2017-11-23T22:23:03Z gabor Stat-New >ABC; http://languagelog.ldc.upenn.edu/nll/?p=35505\nhttp://real.mtak.hu/34035/1/Varnai_Andras_Egyenes_nevek_Zheng_ming_Nyelvelmelet_hatalomtechnika_es_erenytan_a_klasszikus_kinai_bolcseletben_u.pdf
+正名 正名 [zheng4 ming2] /egyenes nevek/a nevek ki|javítása (konfucianizmus)/
+
 # ID-f09bl7z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 美國 美国 [mei3 guo2] /USA/
@@ -24944,6 +24948,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 笑 笑 [xiao4] /nevet/mosolyog/SZ:個|个[ge4]/
 
+# ID-i13Vn6T
+# Ver 2017-11-23T22:14:26Z gabor Stat-New >ABC; http://languagelog.ldc.upenn.edu/nll/?p=35505
+富強 富强 [fu4 qiang2] /virágzó/gazdag és erős/
+
 # ID-i13VT5R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 查出 查出 [cha2 chu1] /le|nyomoz/meg|tud/
@@ -30484,7 +30492,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-j98IJ5Z
 # Ver 2017-11-22T22:31:42Z GaoYanuo Stat-New >HSK3 Standard course textbook
-俗語 俗语 [su2 yu3] /szólás/szólásmondás//
+# 俗語 俗语 [su2 yu3] /szólás/szólásmondás//
+# Ver 2017-11-23T09:37:20Z gabor Stat-New >kiegészítés; el|választójel
+# 俗語 俗语 [su2 yu3] /szólás; szólás|mondás; köz|mondás/
+# Ver 2017-11-23T09:37:28Z gabor Stat-Verif >kiegészítés; el|választójel
+俗語 俗语 [su2 yu3] /szólás; szólás|mondás; köz|mondás/
 
 # ID-j99at3O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -36358,6 +36370,22 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-l96cs1u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
+# 喂 喂 [wei4] /halló (telefonban)/helló/hey/etet (állatot, csecsemőt stb.)/
+# Ver 2017-11-23T14:00:42Z luribert Stat-Verif >test
+# 喂 喂 [wei4] /halló (telefonban)/helló/hey/etet (állatot, csecsemőt stb.)/test/
+# Ver 2017-11-23T14:01:07Z luribert Stat-Verif >test
+# Ver 2017-11-23T14:01:46Z luribert Stat-Flagged >testflag
+# Ver 2017-11-23T14:02:06Z luribert Stat-New >test
+# Ver 2017-11-23T14:05:54Z luribert Stat-New >undo tset
+# 喂 喂 [wei4] /halló (telefonban)/helló/hey/etet (állatot, csecsemőt stb.)/
+# Ver 2017-11-23T14:11:58Z luribert Stat-New >test
+# 喂 喂 [wei4] /halló (telefonban)/helló/hey/etet (állatot, csecsemőt stb.)/test/
+# Ver 2017-11-23T14:12:06Z luribert Stat-New >undo test
+# 喂 喂 [wei4] /halló (telefonban)/helló/hey/etet (állatot, csecsemőt stb.)/
+# Ver 2017-11-23T14:17:12Z luribert Stat-Flagged >test flagging
+# Ver 2017-11-23T14:17:27Z luribert Stat-New >undo test
+# Ver 2017-11-23T22:04:12Z gabor Stat-New >Remélem, minden jól működik :)\nHa bármi problémát találsz az oldallal, hálás vagyok, ha itt jelented: https://github.com/gugray/ZydeoWeb/issues\nEz az online szótár-alkalmazásra vonatkozik; magukat a nyelvi problémákat itt, az oldalon belül kezeljük.
+# Ver 2017-11-23T22:04:46Z gabor Stat-Verif >Remélem, minden jól működik :)\nHa bármi problémát találsz az oldallal, hálás vagyok, ha itt jelented: https://github.com/gugray/ZydeoWeb/issues\nEz az online szótár-alkalmazásra vonatkozik; magukat a nyelvi problémákat itt, az oldalon belül kezeljük.\n\n((ismét jóváhagyva))
 喂 喂 [wei4] /halló (telefonban)/helló/hey/etet (állatot, csecsemőt stb.)/
 
 # ID-l96ji9O
@@ -41701,7 +41729,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-n72ei8O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-民主 民主 [min2 zhu3] /demokrácia/
+# 民主 民主 [min2 zhu3] /demokrácia/
+# Ver 2017-11-23T22:15:19Z gabor Stat-Verif >kiegészítés; ABC; http://languagelog.ldc.upenn.edu/nll/?p=35505
+民主 民主 [min2 zhu3] /demokrácia/demokratikus/
 
 # ID-n72je4R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
