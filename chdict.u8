@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-11-27T03:00:01Z
+# Datenstand: 2017-11-28T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -104,7 +104,10 @@
 # Ver 2017-11-24T20:07:04Z GaoYanuo Stat-New >http://dictionary.pinpinchinese.com/search/t/%E6%9C%89%E8%BD%A8%E7%94%B5%E8%BD%A6\nhttps://dict.hjenglish.com/w/%E6%9C%89%E8%BD%A8%E7%94%B5%E8%BD%A6
 # 有軌電車 有轨电车 [you3 gui3 dian4 che1] /villamos/
 # Ver 2017-11-25T15:33:53Z GaoYanuo Stat-New >mondják simán 电车-nek is, általában akkor használják, ha nem egyértelmű, hogy troliról, vagy villamosról van szó. (Miskolci viszonylatban elég a 电车:)
-有軌電車 有轨电车 [you3 gui3 dian4 che1] /villamos/
+# Ver 2017-11-27T17:40:21Z gabor Stat-New >.
+# 有軌電車 有轨电车 [you3 gui3 dian4 che1] /villamos (közlekedési eszköz)/
+# Ver 2017-11-27T17:40:24Z gabor Stat-Verif >.
+有軌電車 有轨电车 [you3 gui3 dian4 che1] /villamos (közlekedési eszköz)/
 
 # ID-a02IB6r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -386,7 +389,9 @@
 
 # ID-a10Gd9M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-清潔工 清洁工 [qing1 jie2 gong1] /utca|seprő/
+# 清潔工 清洁工 [qing1 jie2 gong1] /utca|seprő/
+# Ver 2017-11-27T18:48:47Z GaoYanuo Stat-Verif >CC-CEDICT
+清潔工 清洁工 [qing1 jie2 gong1] /utca|seprő/takarító/szemetes; kukás/gondnok/
 
 # ID-a10Kl4E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -3356,7 +3361,11 @@
 
 # ID-b03Qn4a
 # Ver 2017-11-24T20:29:16Z GaoYanuo Stat-New >CC-CEDICT\nhttps://dict.hjenglish.com/w/%E5%8F%91%E4%BB%B6%E4%BA%BA
-發件人 发件人 [fa1 jian4 ren2] /feladó (levél, e-mail)/
+# 發件人 发件人 [fa1 jian4 ren2] /feladó (levél, e-mail)/
+# Ver 2017-11-27T17:26:38Z gabor Stat-New >.
+# 發件人 发件人 [fa1 jian4 ren2] /feladó; küldő (levél, e-mail)/
+# Ver 2017-11-27T17:26:42Z gabor Stat-Verif >.
+發件人 发件人 [fa1 jian4 ren2] /feladó; küldő (levél, e-mail)/
 
 # ID-b03XM9A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -5298,6 +5307,14 @@
 # ID-b68eZ8r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 說實話 说实话 [shuo1 shi2 hua4] /hogy őszinte legyek/őszintén/
+
+# ID-b68ib1C
+# Ver 2017-11-27T15:55:18Z GaoYanuo Stat-New >https://dict.hjenglish.com/w/%E5%8A%A0%E7%8F%AD%E8%B4%B9\nhttp://dict.youdao.com/w/eng/%E5%8A%A0%E7%8F%AD%E8%B4%B9/#keyfrom=dict2.index\nhttp://www.xyzdict.com/chinese-english/%E5%8A%A0%E7%8F%AD%E8%B4%B9\nhttp://www.dictall.com/indu53/00/5300830B8B9.htm\nÉrdekes, hogy a Youdao és a DictAll "dark money" meghatározást is kidobott. Jelentene szlengben "feketepénzt" is? Példamondatot erre nem találtam.
+# 加班費 加班费 [jia1 ban1 fei4] /túlóradíj/
+# Ver 2017-11-27T17:54:52Z gabor Stat-New >elhatároló
+# 加班費 加班费 [jia1 ban1 fei4] /túlóra|díj/
+# Ver 2017-11-27T17:54:54Z gabor Stat-Verif >.
+加班費 加班费 [jia1 ban1 fei4] /túlóra|díj/
 
 # ID-b68jR8B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -8362,7 +8379,11 @@
 
 # ID-c68cI4R
 # Ver 2017-11-24T21:30:16Z GaoYanuo Stat-New >CC-CEDICT
-鋼筆 钢笔 [gang1 bi3] /töltőtoll/
+# 鋼筆 钢笔 [gang1 bi3] /töltőtoll/
+# Ver 2017-11-27T17:35:21Z gabor Stat-New >.
+# 鋼筆 钢笔 [gang1 bi3] /töltő|toll/
+# Ver 2017-11-27T17:35:24Z gabor Stat-Verif >.
+鋼筆 钢笔 [gang1 bi3] /töltő|toll/
 
 # ID-c68xb9W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -9216,6 +9237,8 @@
 
 # ID-c94VO5Z
 # Ver 2017-11-24T21:29:10Z GaoYanuo Stat-New >https://dict.hjenglish.com/w/%E7%A1%AC%E7%AC%94\nCC-CEDICT
+# 硬筆 硬笔 [ying4 bi3] /kemény írószerszám (minden, ami nem ecset)/
+# Ver 2017-11-27T17:35:00Z gabor Stat-Verif >.
 硬筆 硬笔 [ying4 bi3] /kemény írószerszám (minden, ami nem ecset)/
 
 # ID-c94Wq5I
@@ -13730,7 +13753,11 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-11-24T20:32:08Z GaoYanuo Stat-New >https://dict.hjenglish.com/w/%E6%94%B6%E4%BF%A1%E4%BA%BA
 # 收信人 收信人 [shou1 xin4 ren2] /levél címzettje/
 # Ver 2017-11-25T15:30:21Z GaoYanuo Stat-New >.
-收信人 收信人 [shou1 xin4 ren2] /címzett(csak levélé)/
+# 收信人 收信人 [shou1 xin4 ren2] /címzett(csak levélé)/
+# Ver 2017-11-27T17:39:15Z gabor Stat-New >.
+# 收信人 收信人 [shou1 xin4 ren2] /címzett (csak levélé)/
+# Ver 2017-11-27T17:39:17Z gabor Stat-Verif >.
+收信人 收信人 [shou1 xin4 ren2] /címzett (csak levélé)/
 
 # ID-e42gC3x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -14292,7 +14319,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-e59nC0G
 # Ver 2017-11-24T20:30:55Z GaoYanuo Stat-New >https://dict.hjenglish.com/w/%E6%94%B6%E4%BB%B6%E4%BA%BA
-收件人 收件人 [shou1 jian4 ren2] /címzett (küldeményé)/
+# 收件人 收件人 [shou1 jian4 ren2] /címzett (küldeményé)/
+# Ver 2017-11-27T17:27:17Z gabor Stat-New >.
+# 收件人 收件人 [shou1 jian4 ren2] /címzett (küldeményé, levélé)/
+# Ver 2017-11-27T17:27:20Z gabor Stat-Verif >.
+收件人 收件人 [shou1 jian4 ren2] /címzett (küldeményé, levélé)/
 
 # ID-e59nE1v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -16514,6 +16545,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-f32gT3s
 # Ver 2017-11-24T21:13:12Z GaoYanuo Stat-New >https://bkso.baidu.com/item/%E5%85%8B%E5%92%B3%E7%89%87
+# 剋咳片 克咳片 [ke4 ke2 pian4] /köhögés elleni tabletta/
+# Ver 2017-11-27T17:30:57Z gabor Stat-Verif >egyetlen szótárban sem találom, de az internet szerint tényleg ez :)\nnem lehetséges, hogy márkanév?
+# Ver 2017-11-27T18:18:56Z GaoYanuo Stat-Verif >Esküszöm, hogy a pirula dobozán láttam márkanév alatt apró betű... izé karakterekkel.:-)
 剋咳片 克咳片 [ke4 ke2 pian4] /köhögés elleni tabletta/
 
 # ID-f32ik5d
@@ -17307,6 +17341,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-f55Mq0P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 零 零 [ling2] /nulla/semmi/tört rész/töredék/el|sorvad/
+
+# ID-f55OC5E
+# Ver 2017-11-27T18:53:35Z GaoYanuo Stat-New >http://www.dictall.com/st/42/9/420927570CB.htm
+海關人員 海关人员 [hai3 guan1 ren2 yuan2] /vámos; vámtiszt/
 
 # ID-f55SH2C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -18833,7 +18871,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-g05AK9G
 # Ver 2017-11-25T15:52:02Z GaoYanuo Stat-New >CC-CEDICT\nhttp://dict.youdao.com/w/%E5%85%89%E6%A3%8D/#keyfrom=dict2.top
-光棍 光棍 [guang1 gun4] /bandita/gengszter/útonálló/agglegény/
+# 光棍 光棍 [guang1 gun4] /bandita/gengszter/útonálló/agglegény/
+# Ver 2017-11-27T17:41:10Z gabor Stat-New >.
+# 光棍 光棍 [guang1 gun4] /agglegény/bandita; gengszter; útonálló/
+# Ver 2017-11-27T17:41:12Z gabor Stat-Verif >.
+光棍 光棍 [guang1 gun4] /agglegény/bandita; gengszter; útonálló/
 
 # ID-g05CX5P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -21247,6 +21289,12 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 犧牲 牺牲 [xi1 sheng1] /fel|áldozza magát/áldozat (vallási szertartásban)/
 
+# ID-g86ez6v
+# Ver 2017-11-27T16:02:54Z GaoYanuo Stat-New >http://www.xyzdict.com/chinese-english/%E5%8F%A3%E7%90%B4
+# 口琴 口琴 [kou3 qin2] /szájharmonika/
+# Ver 2017-11-27T17:55:06Z gabor Stat-Verif >.
+口琴 口琴 [kou3 qin2] /szájharmonika/
+
 # ID-g86gZ2i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 公 公 [gong1] /nyilvános/köz|tulajdonban levő/állami/nemzetközi (pl. nemzetközi vizek, metrikus rendszer, naptár)/tisztességes/igazságos/herceg/hím (állatokra)/após/
@@ -21753,7 +21801,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-g99Rl9S
 # Ver 2017-11-24T21:25:55Z GaoYanuo Stat-New >http://dictionary.pinpinchinese.com/search/t/%E7%9F%AD%E8%A2%96
-短袖 短袖 [duan3 xiu4] /rövidujjú/
+# 短袖 短袖 [duan3 xiu4] /rövidujjú/
+# Ver 2017-11-27T17:34:24Z gabor Stat-New >.
+# 短袖 短袖 [duan3 xiu4] /rövid|ujjú/póló (ruhadarab)/
+# Ver 2017-11-27T17:34:26Z gabor Stat-Verif >.
+短袖 短袖 [duan3 xiu4] /rövid|ujjú/póló (ruhadarab)/
 
 # ID-h00kQ4u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -24842,6 +24894,8 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-11-26T15:56:39Z GaoYanuo Stat-Verif >.
 # 害怕 害怕 [hai4 pa4] /fél (vmitől)/félt (pl. telefonját az esőtől)/tart (vmitől)/
 # Ver 2017-11-26T22:42:53Z gabor Stat-Verif >a "félt" értelmet az ABC-ből, CEDICT-ből én nem tudom kiolvasni, egyelőre visszaállítottam. van példád/forrásod?
+# 害怕 害怕 [hai4 pa4] /fél (vmitől)/tart (vmitől)/
+# Ver 2017-11-27T15:18:17Z GaoYanuo Stat-Verif >Olyasmit találtam a neten, hogy félti a családját a háborúból, meg félti a férjét, hogy halálra dolgozza magát. Elfelejtettem könyvjelzőzni. Valószínű, hogy csak az én magyarra fordításomba került bele a "félt", mert azóta sem sikerült olyan mondatot találni, amiben a 害怕-nak nyelvtani tárgya lett volna. Én kérek elnézést. Nem voltam eléggé alapos.
 害怕 害怕 [hai4 pa4] /fél (vmitől)/tart (vmitől)/
 
 # ID-i02QC7X
@@ -24904,7 +24958,12 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-11-26T17:53:38Z GaoYanuo Stat-New >CC-CEDICT
 # 招呼站 招呼站 [zhao1 hu5 zhan4] /feltételes megálló/
 # Ver 2017-11-26T22:29:31Z gabor Stat-New >Nehéz ügy.\nABC: designated bus/taxi stop; flag stop\nCEDICT: request bus stop\nKorpusz: egyetlen példa: "buszállomás"\nhttp://zhhu.zydeo.net/?q=%E6%8B%9B%E5%91%BC%E7%AB%99\nmódosítottam, de egyelőre jóváhagyás nélkül
-招呼站 招呼站 [zhao1 hu5 zhan4] /droszt (taxik kijelölt megállóhelye)/megálló (tömegközelekedési eszközé)/
+# 招呼站 招呼站 [zhao1 hu5 zhan4] /droszt (taxik kijelölt megállóhelye)/megálló (tömegközelekedési eszközé)/
+# Ver 2017-11-27T15:26:56Z GaoYanuo Stat-New >Az Országh féle Angol-magyar egyértelműen feltételes megállónak fordítja a "request stop"-ot. A Bartos-Hamar-ban a "招呼" hív, értesít, szólít, szól, üdvözöl, köszön.\nA CC-CEDICT-ben a "招呼站" "request bus stop".
+# Ver 2017-11-27T17:54:27Z gabor Stat-New >ó, az angol-magyar szótárak sok furcsaságot írnak. nekem gyanús, hogy ez a "request/flag stop" jelentés az eredetiben egy specifikus ügy lehet, (talán) valami olyasmi, amit egy tömegközlekedési vállalat logikájában lehet értelmezni. mint a "szolgálati járat" magyarul... vagy egyszerűen annyi, hogy akkor áll meg ott csak, ha van fel/leszálló, amúgy továbbszáguld?\nehh, "feltételes" vissza.
+# 招呼站 招呼站 [zhao1 hu5 zhan4] /droszt (taxik kijelölt megállóhelye)/feltételes megálló/
+# Ver 2017-11-27T17:54:31Z gabor Stat-Verif >.
+招呼站 招呼站 [zhao1 hu5 zhan4] /droszt (taxik kijelölt megállóhelye)/feltételes megálló/
 
 # ID-i04TB2W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -26078,6 +26137,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 潛 潜 [qian2] /alá|merül/el|rejt/rejtett; titkos/
 
+# ID-i44eG0s
+# Ver 2017-11-27T18:30:44Z GaoYanuo Stat-New >CC-CEDICT
+賽龍舟 赛龙舟 [sai4 long2 zhou1] /Sárkányhajó verseny/
+
 # ID-i44tF7h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 一致 一致 [yi1 zhi4] /egyhangú (vélemény, álláspont)/
@@ -26610,6 +26673,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-i60BH4h
 # Ver 2017-11-24T21:37:16Z gabor Stat-New >https://cc-cedict.org/editor/editor.php?log_id=64633&return=ListChanges&handler=ViewLogEntry
+# 職場 职场 [zhi2 chang3] /munka|hely/a munka világa; munka|erő; dolgozók (egy iparágban, országban)/munkaerő|piac/
+# Ver 2017-11-27T17:36:16Z gabor Stat-Verif >.
 職場 职场 [zhi2 chang3] /munka|hely/a munka világa; munka|erő; dolgozók (egy iparágban, országban)/munkaerő|piac/
 
 # ID-i60JG0J
@@ -27106,6 +27171,7 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-11-26T22:55:03Z gabor Stat-New >a "kétkedik", "rágódik" jelentést én nem olvasom ki a belinkelt forrásokból. a korpuszban sem látok rá példát, ill. CEDICT-ben/ABC-ben nem szerepel. van egy érzésem, hogy ez teljesen transzparens a 再 és a 想 részekből, azaz nem is való a szótárba, de inkább meghagyom.
 # 再想 再想 [zai4 xiang3] /át|gondol; meg|gondol/
 # Ver 2017-11-26T22:55:07Z gabor Stat-Verif >.
+# Ver 2017-11-27T18:03:20Z GaoYanuo Stat-Verif >Eggün. Szócikként szótárban én sem találtam. \nhttp://www.xyzdict.com/chinese-english/%E5%86%8D%E6%83%B3\nItt jó néhány példamondat "ne is gondolj rá többé" értelemben fordítható magyarra, ami ugye nem jelenti azt, hogy 再想 = tépelődik. A Greatwall Chinese 4 textbook tankönyvben is van egy olyan párbeszéd, hogy \nA: 我复习了好几天，没想到还是答错了。\nB: 别再想考试了，出去逛逛吧! \nDettó.A szövegkörnyezet ugyan arra utal, hogy akinek címzik, az rágódik, de ettől még nem lesz valami szócikk. "Kedves naplóm, ma is tanultam valamit." :))\n Óvatosabbnak kell lennem a szóbeli forrásokkal.
 再想 再想 [zai4 xiang3] /át|gondol; meg|gondol/
 
 # ID-i75eW9B
@@ -27443,6 +27509,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-i87Pp2r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 一目了然 一目了然 [yi1 mu4 liao3 ran2] /nyilvánvaló/ránézésre látszik/
+
+# ID-i87UC2E
+# Ver 2017-11-27T19:38:46Z GaoYanuo Stat-New >CC-CEDICT\nBartos-Hamar
+學士 学士 [xue2 shi4] /tudós/egyetemi alapképzés; bachelor fokozat/
 
 # ID-i88eI5i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -28238,7 +28308,12 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-11-25T22:15:35Z GaoYanuo Stat-Verif >.
 # 色 色 [se4] /szín/arc|kifejezés/fajta/vágy/női vonz|erő/megjelenés, külső/minőség, minőségi/guszta/
 # Ver 2017-11-26T23:01:24Z gabor Stat-Verif >- alternatívák pontosvesszővel\n- a "gusztá"-t kivettem, mert magyarban nagyon más, szlenges regiszter, mint a kínai címszó
-色 色 [se4] /szín/arc|kifejezés/fajta/vágy/női vonz|erő/megjelenés; külső/minőség; minőségi/
+# 色 色 [se4] /szín/arc|kifejezés/fajta/vágy/női vonz|erő/megjelenés; külső/minőség; minőségi/
+# Ver 2017-11-27T13:25:07Z GaoYanuo Stat-Verif >Lecke jól feladva... amelyik értelmező szótárban megtaláltam, valóban szlenges beütéssel emlegeti. Mifelénk teljesen polgárjogot nyert... Olyan magyar szót ezen kívül én sem találtam, ami kimondottan ételre vonatkozna dekoratív, szép, stb. értelemben. A környezetemben előforduló kínaiak előszeretettel használják  a 色- akkor, amikor egy ételnél a külső megjelenést akarják dicsérni és egyéb jellemzők (íz, tápérték, stb. mellékesek). Olyat meg, hogy "Ennek az ételnek a külső megjelenése" köznyelvben "nem szokunk"...
+# Ver 2017-11-27T17:48:45Z gabor Stat-Verif >hát, ez megfellebezhetetlen :) guszta vissza.
+# 色 色 [se4] /szín/arc|kifejezés/fajta/vágy/női vonz|erő/megjelenés; külső/minőség; minőségi/guszta (látványra vonzó étel)/
+# Ver 2017-11-27T18:07:22Z GaoYanuo Stat-Verif >Gusta la vista:)))
+色 色 [se4] /szín/arc|kifejezés/fajta/vágy/női vonz|erő/megjelenés; külső/minőség; minőségi/guszta (látványra vonzó étel)/
 
 # ID-j15eP1R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -28406,7 +28481,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-j20cw9o
 # Ver 2017-11-25T16:09:04Z GaoYanuo Stat-New >CC-CEDICT\nhttp://dict.youdao.com/w/%E6%B8%B8%E6%B3%B3%E9%A6%86/#keyfrom=dict2.top\nhttps://dict.hjenglish.com/w/%E6%B8%B8%E6%B3%B3%E9%A6%86
-游泳館 游泳馆 [you2 yong3 guan3] /uszoda(fedett)/
+# 游泳館 游泳馆 [you2 yong3 guan3] /uszoda(fedett)/
+# Ver 2017-11-27T17:43:53Z gabor Stat-New >.
+# 游泳館 游泳馆 [you2 yong3 guan3] /uszoda (fedett)/
+# Ver 2017-11-27T17:43:55Z gabor Stat-Verif >.
+游泳館 游泳馆 [you2 yong3 guan3] /uszoda (fedett)/
 
 # ID-j20jf6W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -29301,7 +29380,8 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-11-24T21:57:04Z GaoYanuo Stat-Verif >Szerintem kimondottan kód beolvasásra vonatkozik, ezért nem szerencsés a zárójeles "pl." Dokumentum, véna, irisz szkenneléshez nem használható a "码 mǎ" miatt.\nOktatófilmen láttam, sajnos nem tudom a forrását.
 # Ver 2017-11-24T22:09:20Z gabor Stat-Verif >Teljesen jogos... és nem jut eszembe jó megoldás. Sok ige+tárgy kombinációnál (pl. 吃饭, 看电视, 打电话) vagy van egyetlen magyar megfelelő ige (eszik), vagy létezik egy hasonló, idiomatikus szerkezet (tévét néz), vagy van egy főnévből származtatott ige (telefonál). Az a gondom, hogy a "kódot olvas" mint olyan nem létezik magyarban... Ezért döntöttem szimplán az ige mellett, azzal, hogy a jelentésvégi kiegészítés majd egyértelműsít. De én sem vagyok elégedett ezzel.
 # Ver 2017-11-25T15:23:40Z GaoYanuo Stat-Verif >Talán a beolvas... A leolvas lehet emberi tevékenység. Pl. Nem tudta leolvasni a rendszámát. A beolvas viszont csak gépi tevékenységre használatos, és nem tudok róla, hogy kódon kívül másra használnánk .
-掃碼 扫码 [sao3 ma3] /leolvas; szkennel (pl. vonalkódot)/
+# Ver 2017-11-27T17:36:42Z gabor Stat-Verif >.
+掃碼 扫码 [sao3 ma3] /be|olvas; szkennel (vonalkódot, QR-kódot stb.)/
 
 # ID-j48Tm1z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -29386,6 +29466,12 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-j50ML2G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 鋸開 锯开 [ju4 kai1] /szét|fűrészel/
+
+# ID-j51ms1d
+# Ver 2017-11-27T16:04:22Z GaoYanuo Stat-New >CC-CEDICT
+# 入境 入境 [ru4 jing4] /belép (egy ország területére)/
+# Ver 2017-11-27T17:55:30Z gabor Stat-Verif >.
+入境 入境 [ru4 jing4] /belép (egy ország területére)/
 
 # ID-j51xR6D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -30901,7 +30987,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-k01rQ4T
 # Ver 2017-11-25T15:57:33Z GaoYanuo Stat-New > CC-CEDICT\nhttp://dict.youdao.com/w/%E8%80%81%E5%A4%84%E5%A5%B3/#keyfrom=dict2.top\nhttps://dict.hjenglish.com/w/%E8%80%81%E5%A4%84%E5%A5%B3
-老處女 老处女 [lao3 chu3 nü3] /vénlány/aggszűz/egyedülálló nő/
+# 老處女 老处女 [lao3 chu3 nü3] /vénlány/aggszűz/egyedülálló nő/
+# Ver 2017-11-27T17:42:49Z gabor Stat-New >a példákat nézegetve nem érzem, hogy olyan negatív konnotációja lenne, mint az aggszűznek.
+# 老處女 老处女 [lao3 chu3 nü3] /vén|lány; vén|kisasszony/egyedülálló nő/
+# Ver 2017-11-27T17:42:52Z gabor Stat-Verif >.
+老處女 老处女 [lao3 chu3 nü3] /vén|lány; vén|kisasszony/egyedülálló nő/
 
 # ID-k01AS5T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -31167,7 +31257,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-k09mU3J
 # Ver 2017-11-24T21:35:18Z GaoYanuo Stat-New >http://dictionary.pinpinchinese.com/search/t/%E6%96%87%E6%88%BF%E5%9B%9B%E5%AE%9D
-文房四寶 文房四宝 [wen2 fang2 si4 bao3] /(idióma) a tanulás négy kincse: ecset, tus, papír, dörzskő tuskészítéshez/
+# 文房四寶 文房四宝 [wen2 fang2 si4 bao3] /(idióma) a tanulás négy kincse: ecset, tus, papír, dörzskő tuskészítéshez/
+# Ver 2017-11-27T17:35:49Z gabor Stat-New >címke
+# 文房四寶 文房四宝 [wen2 fang2 si4 bao3] /(kifejezés) a tanulás négy kincse: ecset, tus, papír, dörzskő tuskészítéshez/
+# Ver 2017-11-27T17:35:52Z gabor Stat-Verif >.
+文房四寶 文房四宝 [wen2 fang2 si4 bao3] /(kifejezés) a tanulás négy kincse: ecset, tus, papír, dörzskő tuskészítéshez/
 
 # ID-k09rf8t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -33985,6 +34079,12 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 爵士 爵士 [jue2 shi4] /lovag/nemes/jazz/
 
+# ID-l00PF1t
+# Ver 2017-11-27T16:07:22Z GaoYanuo Stat-New >CC-CEDICT
+# 出境 出境 [chu1 jing4] /elhagyja az országot/emigrál/
+# Ver 2017-11-27T17:55:43Z gabor Stat-Verif >.
+出境 出境 [chu1 jing4] /elhagyja az országot/emigrál/
+
 # ID-l00UL3R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 山羊 山羊 [shan1 yang2] /kecske/bak (sporteszköz)/
@@ -34589,6 +34689,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 高爾夫球 高尔夫球 [gao1 er3 fu1 qiu2] /golf/golf|labda/
 
+# ID-l20HC9B
+# Ver 2017-11-27T20:18:54Z GaoYanuo Stat-New >CC-CEDICT\n宅女 is forgalomban van, ha nő az illető.  A CC-EDICT-ben van is külön bejegyzés. Gondolom nem kap minden szócikk külön bejegyzést egy nő, meg egy férfi esetében. Pincér-, tanár-,színész-,író- stb nő. Mert a kínaiban hol elöl, hol hátul biggyesztik mellé, hogy  nő.
+宅男 宅男 [zhai2 nan2] /otthonülő/számítógép,TV, stb függő/
+
 # ID-l20QL4Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 治 治 [zhi4] /uralkodik/kormányoz/vezet/irányít/büntet/kutatás/kezel (betegséget)/
@@ -35051,6 +35155,10 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-l35vf6f
 # Ver 2017-05-22T02:34:00Z Adam Stat-New >CEDICT
+# 穀歌 谷歌 [gu3 ge1] /Google/
+# Ver 2017-11-27T17:18:14Z GaoYanuo Stat-New >.
+# 穀歌 谷歌 [gu3 ge1] /(átirat)Google/
+# Ver 2017-11-27T18:01:58Z gabor Stat-New >egyelőre az az elvem, hogy ha egy "átiratnak" konkrét referense van: egy létező cég, márkanév, földrajzi hely, konkrét személy stb., akkor nem használom a címkét. leginkább a nyugati keresztnevek átiratok - azzal a logikával, ahogy "Jinping" sem lesz magyar keresztnév.\n\negyelőre csak a (földrajzi név) címkét használom igazán konzekvensen, időnként előjön a (tulajdonnév). ezen egy pár napot el kéne töprengeni, hogy hányfélét van értelme megkülönböztetni, ha egyáltalán: pl. személynév, márkanév stb.\n\nleginkább azért nem foglalkoztam vele, mert a tulajdonneveket egy nagy nekifutásra, félig automatikusan bele lehet önteni a szótárba, és igazából ráérünk akkor, amikor ez sorra kerül.
 穀歌 谷歌 [gu3 ge1] /Google/
 
 # ID-l35SR0S
@@ -35459,7 +35567,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-l50iL9A
 # Ver 2017-11-25T16:03:26Z GaoYanuo Stat-New >CC-CEDICT\nhttp://dict.youdao.com/w/%E5%A4%84%E5%A5%B3%E8%86%9C/#keyfrom=dict2.top\nhttps://dict.hjenglish.com/w/%E8%80%81%E5%A4%84%E5%A5%B3
-處女膜 处女膜 [chu3 nü3 mo2] /szűzhártya/
+# 處女膜 处女膜 [chu3 nü3 mo2] /szűzhártya/
+# Ver 2017-11-27T17:43:17Z gabor Stat-New >.
+# 處女膜 处女膜 [chu3 nü3 mo2] /szűz|hártya/
+# Ver 2017-11-27T17:43:20Z gabor Stat-Verif >.
+處女膜 处女膜 [chu3 nü3 mo2] /szűz|hártya/
 
 # ID-l50pZ2k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -36033,7 +36145,11 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-11-24T21:01:43Z GaoYanuo Stat-New >http://dictionary.pinpinchinese.com/definitions/t/%E9%80%9B%E8%A1%97-guangjie
 # 逛街 逛街 [guang4 jie1] /vásárol/nézelődik//
 # Ver 2017-11-25T15:27:45Z GaoYanuo Stat-New >Szóval direkt vásárlási szándék nélkül kolbászol ott, ahol üzletek vannak. Azt hiszem, múzeumi nézelődésre nem használják. (Biztos nem vagyok benne.)
-逛街 逛街 [guang4 jie1] /vásárol/nézelődik (boltban, üzletsoron)/
+# 逛街 逛街 [guang4 jie1] /vásárol/nézelődik (boltban, üzletsoron)/
+# Ver 2017-11-27T17:38:40Z gabor Stat-New >.
+# 逛街 逛街 [guang4 jie1] /vásárolgat; shoppingol/nézelődik (boltban, üzletsoron)/sétál (pl. kirakatokat nézegetve)/
+# Ver 2017-11-27T17:38:43Z gabor Stat-Verif >.
+逛街 逛街 [guang4 jie1] /vásárolgat; shoppingol/nézelődik (boltban, üzletsoron)/sétál (pl. kirakatokat nézegetve)/
 
 # ID-l68XH4j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -37871,6 +37987,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-m32dk6N
 # Ver 2017-11-24T21:14:57Z GaoYanuo Stat-New >CC-CEDICT
+# 電飯鍋 电饭锅 [dian4 fan4 guo1] /elektromos rizsfőző/
+# Ver 2017-11-27T17:31:19Z gabor Stat-Verif >.
 電飯鍋 电饭锅 [dian4 fan4 guo1] /elektromos rizsfőző/
 
 # ID-m32ia7V
@@ -40545,7 +40663,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-n17Vo9S
 # Ver 2017-11-24T20:17:57Z GaoYanuo Stat-New >CC-CEDICT\nhttps://dict.hjenglish.com/w/%E9%99%8D%E6%B8%A9
-降溫 降温 [jiang4 wen1] /lehűl (idő, étel, lelkesedés, stb.)/kihűl/
+# 降溫 降温 [jiang4 wen1] /lehűl (idő, étel, lelkesedés, stb.)/kihűl/
+# Ver 2017-11-27T17:26:10Z gabor Stat-New >.
+# 降溫 降温 [jiang4 wen1] /le|hűl (idő, étel, lelkesedés, stb.)/ki|hűl/
+# Ver 2017-11-27T17:26:12Z gabor Stat-Verif >.
+降溫 降温 [jiang4 wen1] /le|hűl (idő, étel, lelkesedés, stb.)/ki|hűl/
 
 # ID-n18kS3S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -41076,6 +41198,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-n36KN6h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 營 营 [ying2] /tábor/tábori szállás/zászló|alj/vezet; működtet (szervezetet)/táplál/
+
+# ID-n36Vs1H
+# Ver 2017-11-27T19:41:44Z GaoYanuo Stat-New >CC-CEDICT
+公共衛生 公共卫生 [gong1 gong4 wei4 sheng1] /közegészségügy; népegészségügy/
 
 # ID-n36Vy0G
 # Ver 2017-05-23T15:09:50Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
@@ -41681,7 +41807,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-n53TU0v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-訂婚 订婚 [ding4 hun1] /el|jegyzés/
+# 訂婚 订婚 [ding4 hun1] /el|jegyzés/
+# Ver 2017-11-27T19:44:04Z GaoYanuo Stat-Verif >Bartos-Hamar\nCC-CEDICT
+訂婚 订婚 [ding4 hun1] /el|jegyzés/jegyben jár/
 
 # ID-n53WC1T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -41903,7 +42031,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-n62lr9L
 # Ver 2017-11-24T21:00:46Z GaoYanuo Stat-New >http://fanyi.youdao.com/\n
-二手商店 二手商店 [er4 shou3 shang1 dian4] /használt cikk kereskedés (secondhand store)/
+# 二手商店 二手商店 [er4 shou3 shang1 dian4] /használt cikk kereskedés (secondhand store)/
+# Ver 2017-11-27T17:28:05Z gabor Stat-New >.
+# 二手商店 二手商店 [er4 shou3 shang1 dian4] /használt áruk boltja/
+# Ver 2017-11-27T17:28:07Z gabor Stat-Verif >.
+二手商店 二手商店 [er4 shou3 shang1 dian4] /használt áruk boltja/
 
 # ID-n62vg8V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -45259,7 +45391,11 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 游泳池 游泳池 [you2 yong3 chi2] /úszó|medence/SZ:場|场[chang3]/
 # Ver 2017-11-25T16:14:02Z GaoYanuo Stat-Verif >http://dict.youdao.com/w/%E6%B8%B8%E6%B3%B3%E6%B1%A0/#keyfrom=dict2.top\n
-游泳池 游泳池 [you2 yong3 chi2] /úszó|medence (szabadtéri)/SZ:場|场[chang3]/
+# 游泳池 游泳池 [you2 yong3 chi2] /úszó|medence (szabadtéri)/SZ:場|场[chang3]/
+# Ver 2017-11-27T17:46:20Z gabor Stat-Verif >nem látok arra utaló jelet (a linken sem), hogy ez kimondottan szabadtéri lenne. és egy gyors google képkeresés sem ezt mutatja :)
+# 游泳池 游泳池 [you2 yong3 chi2] /úszó|medence/SZ:場|场[chang3]/
+# Ver 2017-11-27T18:16:49Z GaoYanuo Stat-Verif >Meg vagyok győzve, Kicsi Liu-t pedig elfenekelem:-) 
+游泳池 游泳池 [you2 yong3 chi2] /úszó|medence/SZ:場|场[chang3]/
 
 # ID-o77Ft8n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -45655,6 +45791,12 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 臭 臭 [xiu4] /szag/szaglás/
 
+# ID-o89AS6H
+# Ver 2017-11-27T16:09:25Z GaoYanuo Stat-New >CC-CEDICT
+# 過境簽證 过境签证 [guo4 jing4 qian1 zheng4] /átutazó vízum/tranzit vízum/
+# Ver 2017-11-27T17:55:51Z gabor Stat-Verif >.
+過境簽證 过境签证 [guo4 jing4 qian1 zheng4] /átutazó vízum/tranzit vízum/
+
 # ID-o89Or7E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 沒 没 [mei2] /(igei tagadószó)/
@@ -46003,7 +46145,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-p00oq6K
 # Ver 2017-11-24T21:23:35Z GaoYanuo Stat-New >http://dictionary.pinpinchinese.com/definitions/t/%E7%A6%AE%E5%A0%82-litang
-禮堂 礼堂 [li3 tang2] /előadóterem/gyűlésterem/nagyterem/
+# 禮堂 礼堂 [li3 tang2] /előadóterem/gyűlésterem/nagyterem/
+# Ver 2017-11-27T17:32:19Z gabor Stat-New >elhatárolók
+# 禮堂 礼堂 [li3 tang2] /előadó|terem/gyűlés|terem/nagy|terem/
+# Ver 2017-11-27T17:32:22Z gabor Stat-Verif >.
+禮堂 礼堂 [li3 tang2] /előadó|terem/gyűlés|terem/nagy|terem/
 
 # ID-p00tg2z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -46547,7 +46693,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-p17Od7R
 # Ver 2017-11-24T20:25:17Z GaoYanuo Stat-New >https://dict.hjenglish.com/w/%E5%AF%84%E4%BB%B6%E4%BA%BA
-寄件人 寄件人 [ji4 jian4 ren2] /feladó (küldeményé)/
+# 寄件人 寄件人 [ji4 jian4 ren2] /feladó (küldeményé)/
+# Ver 2017-11-27T17:24:48Z gabor Stat-New >.
+# 寄件人 寄件人 [ji4 jian4 ren2] /feladó; küldő (küldeményé)/
+# Ver 2017-11-27T17:24:51Z gabor Stat-Verif >.
+寄件人 寄件人 [ji4 jian4 ren2] /feladó; küldő (küldeményé)/
 
 # ID-p18iQ9a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -46700,6 +46850,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-p22ts0b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 印第安 印第安 [yin4 di4 an1] /indián (amerikai)/
+
+# ID-p22ws2v
+# Ver 2017-11-27T18:42:56Z GaoYanuo Stat-New >CC-CEDICT, Wikipedia
+粽子 粽子 [zong4 zi5] /bambuszlevélbe göngyölt rizsgombóc különféle töltelékekkel. (A Sárkányhajó ünnep kitüntetett eledele.)/
 
 # ID-p22wN6x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
