@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-11-28T03:00:01Z
+# Datenstand: 2017-11-29T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -704,6 +704,14 @@
 # ID-a21nr4c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 小說 小说 [xiao3 shuo1] /regény/SZ:本[ben3],部[bu4]/
+
+# ID-a21os7l
+# Ver 2017-11-28T11:28:59Z GaoYanuo Stat-New >http://dict.youdao.com/w/%E5%B8%88%E7%94%9F/#keyfrom=dict2.top\nhttp://www.dictall.com/dictall/result.jsp?cd=UTF-8&keyword=%E5%B8%88%E7%94%9F
+# 師生 师生 [shi1 sheng1] /(összetételekben) tanár-diák (kapcsolat, viszony, stb.)/tanárok és diákok (pl. A Konfuciusz Intézet tanárai és diákjai)/
+# Ver 2017-11-28T15:51:22Z gabor Stat-New >.
+# 師生 师生 [shi1 sheng1] /tanárok és diákok/tanár-diák (előtagként)/
+# Ver 2017-11-28T15:51:25Z gabor Stat-Verif >.
+師生 师生 [shi1 sheng1] /tanárok és diákok/tanár-diák (előtagként)/
 
 # ID-a21sM6A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -2253,7 +2261,9 @@
 
 # ID-a69uz0s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-嚴厲 严厉 [yan2 li4] /szigorú/súlyos/
+# 嚴厲 严厉 [yan2 li4] /szigorú/súlyos/
+# Ver 2017-11-28T17:59:54Z GaoYanuo Stat-Verif >8 találat van a "súlyos" szóra rákeresve, ezért próbálom zárójelesben pontosítgatni.\nhttp://www.dictall.com/dictall/result_sentence.jsp?cd=UTF-8&keyword=%E6%B2%89%E9%87%8D
+嚴厲 严厉 [yan2 li4] /szigorú/súlyos (nyomasztó)/
 
 # ID-a69Pl9c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -5017,6 +5027,14 @@
 # ID-b59gc0o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 預告 预告 [yu4 gao4] /előre|jelez/előzetes értesítés/
+
+# ID-b59gp9B
+# Ver 2017-11-28T11:00:44Z GaoYanuo Stat-New >http://www.baike.com/wiki/%E3%80%8A%E6%88%91%E6%84%BF%E6%84%8F%E6%98%AF%E6%80%A5%E6%B5%81%E3%80%8B
+# 裴多菲山陀爾 裴多菲山陀尔 [pei2 duo1 fei3 shan1 tuo2 er3] /(átirat) Petőfi Sándor/
+# Ver 2017-11-28T15:48:29Z gabor Stat-New >.
+# 裴多菲山陀爾 裴多菲山陀尔 [pei2 duo1 fei3 shan1 tuo2 er3] /(tulajdonnév) Petőfi Sándor/
+# Ver 2017-11-28T15:48:45Z gabor Stat-Verif >na ez pont az, ami (tulajdonnév), nem (átirat) :)
+裴多菲山陀爾 裴多菲山陀尔 [pei2 duo1 fei3 shan1 tuo2 er3] /(tulajdonnév) Petőfi Sándor/
 
 # ID-b59ip4J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -8855,7 +8873,11 @@
 
 # ID-c82Ig2e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-嚴重 严重 [yan2 zhong4] /súlyos/szigorú/
+# 嚴重 严重 [yan2 zhong4] /súlyos/szigorú/
+# Ver 2017-11-28T17:48:59Z GaoYanuo Stat-Verif >https://chinese.yabla.com/chinese-english-pinyin-dictionary.php?define=%E4%B8%A5
+# 嚴重 严重 [yan2 zhong4] /súlyos (betegség)/szigorú/
+# Ver 2017-11-28T21:40:39Z gabor Stat-Verif >úgy látom, tágabban véve rossz dolgok, amik vkit érhetnek
+嚴重 严重 [yan2 zhong4] /súlyos (betegség, kár, sérülés stb.)/szigorú/
 
 # ID-c82Ue9F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -9900,6 +9922,14 @@
 # ID-d15Mv0I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 牢 牢 [lao2] /rögzített; fix/börtön/karám; ketrec/áldozat/
+
+# ID-d15RR2l
+# Ver 2017-11-28T16:57:38Z GaoYanuo Stat-New >CC-CEDICT
+# 小寫字母 小写字母 [xiao3 xie3 zi4 mu3] /kisbetű/
+# Ver 2017-11-28T21:38:01Z gabor Stat-New >elhat
+# 小寫字母 小写字母 [xiao3 xie3 zi4 mu3] /kis|betű/
+# Ver 2017-11-28T21:38:04Z gabor Stat-Verif >.
+小寫字母 小写字母 [xiao3 xie3 zi4 mu3] /kis|betű/
 
 # ID-d16cj7x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -12489,7 +12519,12 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-21T18:44:36Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
 # 裴多菲山多爾 裴多菲山多尔 [pei2 duo1 fei1 shan1 duo1 er3] /Petőfi Sándor/
 # Ver 2017-05-21T19:14:35Z Adam Stat-New >címke beszúrása
-裴多菲山多爾 裴多菲山多尔 [pei2 duo1 fei1 shan1 duo1 er3] /(átirat) Petőfi Sándor/
+# 裴多菲山多爾 裴多菲山多尔 [pei2 duo1 fei1 shan1 duo1 er3] /(átirat) Petőfi Sándor/
+# Ver 2017-11-28T19:53:39Z GaoYanuo Stat-New >Hoppá.... Itt meg átirat.
+# Ver 2017-11-28T21:58:32Z gabor Stat-New >.
+# 裴多菲山多爾 裴多菲山多尔 [pei2 duo1 fei1 shan1 duo1 er3] /(tulajdonnév) Petőfi Sándor/
+# Ver 2017-11-28T21:58:42Z gabor Stat-Verif >hoppá bizony.
+裴多菲山多爾 裴多菲山多尔 [pei2 duo1 fei1 shan1 duo1 er3] /(tulajdonnév) Petőfi Sándor/
 
 # ID-e01kK9C
 # Ver 2017-05-21T22:56:02Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek; a névsorrendet keletire módosítva (kínai/magyar)
@@ -14753,7 +14788,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-e71mf9E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-混合 混合 [hun4 he2] /kever/vegyít/
+# 混合 混合 [hun4 he2] /kever/vegyít/
+# Ver 2017-11-28T18:57:19Z GaoYanuo Stat-Verif >http://dict.youdao.com/w/%E6%B7%B7%E5%90%88%E5%8F%8C%E6%89%93/#keyfrom=dict2.top
+混合 混合 [hun4 he2] /kever/vegyít/vegyes (pl. vegyes páros teniszben)/
 
 # ID-e71NI2E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -14936,6 +14973,12 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-e79PH0C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 米勒 米勒 [mi3 le4] /(átirat) Miller; Müller/
+
+# ID-e79ST4z
+# Ver 2017-11-28T19:02:20Z GaoYanuo Stat-New >http://dict.youdao.com/w/%E9%93%81%E4%BA%BA%E4%B8%89%E9%A1%B9/#keyfrom=dict2.top
+# 鐵人三項 铁人三项 [tie3 ren2 san1 xiang4] /triatlon/
+# Ver 2017-11-28T21:47:53Z gabor Stat-New >szerintem ez nem lehet más, mint az Ironman :)
+鐵人三項 铁人三项 [tie3 ren2 san1 xiang4] /Ironman Triatlon (a hosszútávú triatlon versenyek egyik fajtája)/
 
 # ID-e79Xl4V
 # Ver 2017-05-13T15:17:38Z gabor Stat-New >.
@@ -15831,7 +15874,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-f09dl6X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-沒關係 没关系 [mei2 guan1 xi5] /nincs mit (köszönetre adott válasz)/semmi gond/
+# 沒關係 没关系 [mei2 guan1 xi5] /nincs mit (köszönetre adott válasz)/semmi gond/
+# Ver 2017-11-28T16:41:41Z GaoYanuo Stat-Verif >https://mojim.com/cny100970x11x4.htm
+# 沒關係 没关系 [mei2 guan1 xi5] /nincs mit (köszönetre adott válasz)/semmi gond/(pejoratív) nem számít (most már mindegy, fújhatjuk)/
+# Ver 2017-11-28T17:24:19Z GaoYanuo Stat-Verif >a "semmi gond", ha nem "bocsika" után mondják:\nhttp://dictionary.pinpinchinese.com/search/t/no%20problem
+沒關係 没关系 [mei2 guan1 xi5] /nincs mit (köszönetre adott válasz)/semmi gond (bocsánatkérésre adott válasz)/(pejoratív) nem számít (most már mindegy, fújhatjuk)/
 
 # ID-f09dN0H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -17344,7 +17391,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-f55OC5E
 # Ver 2017-11-27T18:53:35Z GaoYanuo Stat-New >http://www.dictall.com/st/42/9/420927570CB.htm
-海關人員 海关人员 [hai3 guan1 ren2 yuan2] /vámos; vámtiszt/
+# 海關人員 海关人员 [hai3 guan1 ren2 yuan2] /vámos; vámtiszt/
+# Ver 2017-11-28T07:47:32Z gabor Stat-New >elhat
+# 海關人員 海关人员 [hai3 guan1 ren2 yuan2] /vámos; vám|tiszt/
+# Ver 2017-11-28T07:47:34Z gabor Stat-Verif >.
+海關人員 海关人员 [hai3 guan1 ren2 yuan2] /vámos; vám|tiszt/
 
 # ID-f55SH2C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -17582,7 +17633,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-f63mT4f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-重 重 [zhong4] /nehéz/súlyos/komoly/súly/
+# 重 重 [zhong4] /nehéz/súlyos/komoly/súly/
+# Ver 2017-11-28T17:54:13Z GaoYanuo Stat-Verif >8 találat van a "súlyos" szóra rákeresve, ezért próbálom zárójelesben pontosítgatni.
+# 重 重 [zhong4] /nehéz/súlyos (fizikai és átv. ért. is)/komoly/súly/
+# Ver 2017-11-28T21:41:10Z gabor Stat-Verif >.
+重 重 [zhong4] /nehéz/súlyos (fizikai és átvitt értelemben is)/komoly/súly/
 
 # ID-f63nu4f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -17595,6 +17650,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-f63oL0x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 挑剔 挑剔 [tiao1 ti5] /válogat/válogatós/
+
+# ID-f63pT7p
+# Ver 2017-11-28T08:06:26Z gabor Stat-New >ABC; http://languagelog.ldc.upenn.edu/nll/?p=35569
+喜鵲 喜鹊 [xi3 que5] /szarka/
 
 # ID-f63Ar6t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -17903,6 +17962,14 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-f73op3G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 展開 展开 [zhan3 kai1] /ki|bontakozik/ki|terít/el|indít/
+
+# ID-f73pq7P
+# Ver 2017-11-28T12:29:24Z GaoYanuo Stat-New >http://www.dictall.com/dictall/result.jsp?cd=UTF-8&keyword=%E6%89%8D%E5%AD%90\nCC-CEDICT
+# 才子佳人 才子佳人 [cai2 zi3 jia1 ren2] /(kifejezés) a tehetséges ifjú és a gyönyörű nő/álompár/
+# Ver 2017-11-28T16:00:55Z gabor Stat-New >.
+# 才子佳人 才子佳人 [cai2 zi3 jia1 ren2] /(kifejezés) a tehetséges tudós és a gyönyörű nő; álom|pár/
+# Ver 2017-11-28T16:00:58Z gabor Stat-Verif >.
+才子佳人 才子佳人 [cai2 zi3 jia1 ren2] /(kifejezés) a tehetséges tudós és a gyönyörű nő; álom|pár/
 
 # ID-f73pE5m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -18353,7 +18420,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-f88Ik1R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-談話 谈话 [tan2 hua4] /beszélgetés/beszéd/SZ:次[ci4]/beszélget/
+# 談話 谈话 [tan2 hua4] /beszélgetés/beszéd/SZ:次[ci4]/beszélget/
+# Ver 2017-11-28T11:51:43Z GaoYanuo Stat-Verif >Bartos-Hamar\nhttp://www.dictall.com/dictall/result.jsp?cd=UTF-8&keyword=%E8%B0%88%E8%AF%9D\nAzért szúrtam be, hogy megkülönböztessük a csevegést, fecsegést a komoly társalgástól, mivel a "beszélgetés"-be nagyjából mindkettő belefér.
+# 談話 谈话 [tan2 hua4] /beszélgetés/beszéd/SZ:次[ci4]/beszélget/társalgás/
+# Ver 2017-11-28T16:03:35Z gabor Stat-Verif >.
+談話 谈话 [tan2 hua4] /beszélgetés; társalgás/beszéd/SZ:次[ci4]/beszélget; társalog//
 
 # ID-f88OW8z
 # Ver 2017-09-15T21:23:09Z gabor Stat-New >CEDICT
@@ -18502,6 +18573,14 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-f92Tf1O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 鬨 哄 [hong4] /fel|fordulás/tumultus/
+
+# ID-f92Yk4D
+# Ver 2017-11-28T12:08:26Z GaoYanuo Stat-New >CC-CEDICT
+# 酉年 酉年 [you3 nian2] /A Kínai naptárban a 12 éves ciklusból a 10. év, a Kakas éve. /
+# Ver 2017-11-28T15:54:14Z gabor Stat-New >.
+# 酉年 酉年 [you3 nian2] /a Kakas éve (kínai naptárban a 12 éves ciklusból a 10. év)/
+# Ver 2017-11-28T15:54:18Z gabor Stat-Verif >.
+酉年 酉年 [you3 nian2] /a Kakas éve (kínai naptárban a 12 éves ciklusból a 10. év)/
 
 # ID-f93hu4q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -20591,7 +20670,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-g61aU2v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-減肥 减肥 [jian3 fei2] /le|fogy/
+# 減肥 减肥 [jian3 fei2] /le|fogy/
+# Ver 2017-11-28T12:48:32Z GaoYanuo Stat-Verif >maga a "fogyókúra nem "减肥", de a tevékenység, ami a súlycsökkenéshez, fogyáshoz vezet, az ezzel van jelölve a szótárakban, csak úgy mint az ehhez használatos eszközök: diéta, szerek, terápiás központ, stb. Még ha nem orvosi, kúraszerű a dolog, a köznyelvben gyakran mondjuk "fogyókúrás" aerobiknak, teának, stb. az ilyesmiket.\n\nhttp://www.dictall.com/dictall/result.jsp?cd=UTF-8&keyword=%E5%87%8F%E8%82%A5\nhttps://dict.hjenglish.com/w/%E5%87%8F%E8%82%A5
+# 減肥 减肥 [jian3 fei2] /le|fogy/(összetételekben) fogyasztó; fogyókúrás (tabletta, diéta, stb.)/
+# Ver 2017-11-28T16:01:52Z gabor Stat-Verif >.
+減肥 减肥 [jian3 fei2] /le|fogy/fogyasztó; fogyókúrás (összetételekben: tabletta, diéta stb.)/
 
 # ID-g61er5S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -22581,7 +22664,17 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-h25gv7m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-傷害 伤害 [shang1 hai4] /meg|sebesít/sért/bajt okoz (vkinek)/
+# 傷害 伤害 [shang1 hai4] /meg|sebesít/sért/bajt okoz (vkinek)/
+# Ver 2017-11-28T13:21:41Z GaoYanuo Stat-Verif >Bartos-Hamar\nNem akartam dagályos lenni, csak arra gondoltam, hogy ha valaki erre a szóra keres rá magyarul, minél több kínai találatot kapjon. Nem tudom, helyes -e ez a felfogás.
+# 傷害 伤害 [shang1 hai4] /meg|sebesít/sért/bajt okoz (vkinek)/árt/
+# Ver 2017-11-28T13:23:26Z GaoYanuo Stat-Verif >előző komment
+# 傷害 伤害 [shang1 hai4] /meg|sebesít/sért/bajt okoz (vkinek)/árt/bánt/
+# Ver 2017-11-28T13:27:45Z GaoYanuo Stat-Verif >eddig csak a "megbánt" volt itt a CH-EDICT-en, az meg csak lelki sértést jelent, a bánt meg konkrét kupánvágást is.
+# 傷害 伤害 [shang1 hai4] /meg|sebesít/sért/bajt okoz (vkinek)/árt/bánt; bántalmaz (fizikailag)/
+# Ver 2017-11-28T16:07:09Z gabor Stat-Verif >jogos, viszont akkor a "fizikailag"-ot meg kivenném, mert az meg ellenkezőleg, a lelki bántást veszi ki a képből, pedig ott van az is.
+# 傷害 伤害 [shang1 hai4] /meg|sebesít/sért/bajt okoz (vkinek)/árt/bánt; bántalmaz/
+# Ver 2017-11-28T19:20:48Z GaoYanuo Stat-Verif >Korrekt, mert a "bántalmaz" inkább testi inzultus, így benne marad mind a két értelmezés.
+傷害 伤害 [shang1 hai4] /meg|sebesít/sért/bajt okoz (vkinek)/árt/bánt; bántalmaz/
 
 # ID-h25iI8k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -23244,6 +23337,14 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-h49Ww6G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 懷著 怀着 [huai2 zhe5] /ápol (érzést)/
+
+# ID-h49YQ8r
+# Ver 2017-11-28T11:57:24Z GaoYanuo Stat-New >CC-CEDICT
+# 酉雞 酉鸡 [you3 ji1] /A Kakas éve/
+# Ver 2017-11-28T15:53:03Z gabor Stat-New >.
+# 酉雞 酉鸡 [you3 ji1] /a Kakas éve/
+# Ver 2017-11-28T15:53:32Z gabor Stat-Verif >.
+酉雞 酉鸡 [you3 ji1] /a Kakas éve/
 
 # ID-h50bc2A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -25401,7 +25502,10 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-i18or5p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-深沉 深沉 [shen1 chen2] /mély (gondolat, hang stb.)/tartózkodó (személyiség)/súlyos/
+# 深沉 深沉 [shen1 chen2] /mély (gondolat, hang stb.)/tartózkodó (személyiség)/súlyos/
+# Ver 2017-11-28T18:34:19Z GaoYanuo Stat-Verif >8 találat van a "súlyos" szóra rákeresve, ezért próbálom zárójelesben pontosítgatni.\n\nEnnél a bejegyzésnél nem találtam olyan szótárat, ahol "súlyos", "heavy", stb találat lett volna rá. Az is lehet, hogy kevés helyen kerestem. A többi találatnál (ebben a szótárban) nem volt gondom a "súlyossal", elég volt a szokásos 5-6 szótár.
+# Ver 2017-11-28T21:45:04Z gabor Stat-Verif >igen, úgy tűnik, leginkább mély, mélységes. a részeiből is ez következik. tévedés, kiszedtem.
+深沉 深沉 [shen1 chen2] /mély (gondolat, hang stb.)/tartózkodó (személyiség)/
 
 # ID-i18to7g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -25643,6 +25747,18 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-11-26T22:38:21Z gabor Stat-Verif >.
 貴人多忘事 贵人多忘事 [gui4 ren2 duo1 wang4 shi4] /(kifejezés) a sas nem kapkod legyeket; a nagy emberek szórakozottak (apró dolgokat elfelejtenek)/
 
+# ID-i27yD7w
+# Ver 2017-11-28T20:18:33Z GaoYanuo Stat-New >Most bajban vagyok, mert nem tudom, hogy átirat, vagy tényleg ez a kínai neve, vagy csak becenév, nick a "Kis sárkány".
+# 李小龍 李小龙 [li3 xiao3 long2] /Bruce Lee hongkongi harcművész, színész (1940-1973)/
+# Ver 2017-11-28T20:23:05Z GaoYanuo Stat-New >"megvikipédiáztam".
+# 李小龍 李小龙 [li3 xiao3 long2] /Bruce Lee (李振藩 Lǐ Zhènfān) hongkongi származású amerikai harcművész, színész (1940-1973)/
+# Ver 2017-11-28T20:26:12Z GaoYanuo Stat-New >Kis sárkány kisbetűvel, mint nemecsek, vagy naggyal, mint Vadölő?
+# 李小龍 李小龙 [li3 xiao3 long2] /Bruce Lee (李振藩 Lǐ Zhènfān) hongkongi származású amerikai harcművész, színész (1940-1973) beceneve, szó szerint kis sárkány./
+# Ver 2017-11-28T22:06:58Z gabor Stat-New >.
+# 李小龍 李小龙 [li3 xiao3 long2] /Bruce Lee (李振藩|李小龙[li3 zhen4 fan1] hongkongi származású amerikai színész \1940-1973\ beceneve, szó szerint Kis Sárkány)/
+# Ver 2017-11-28T22:08:44Z gabor Stat-Verif >inkább nagy? :) a bonyi kínai beágyazást majd elmesélem.\nmilyen filmeket nézel te kedd este? :)
+李小龍 李小龙 [li3 xiao3 long2] /Bruce Lee (李振藩|李小龙[li3 zhen4 fan1] hongkongi származású amerikai színész \1940-1973\ beceneve, szó szerint Kis Sárkány)/
+
 # ID-i27Dp3B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 威脅 威胁 [wei1 xie2] /fenyeget/
@@ -25758,6 +25874,12 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-i31rp3l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 留戀 留恋 [liu2 lian4] /nosztalgiával emlékezik (vmire)/ragaszkodik (vmihez\vkihez)/
+
+# ID-i31tG4s
+# Ver 2017-11-28T19:00:24Z GaoYanuo Stat-New >CC-CEDICT
+# 三項全能 三项全能 [san1 xiang4 quan2 neng2] /triatlon/
+# Ver 2017-11-28T21:45:42Z gabor Stat-Verif >.
+三項全能 三项全能 [san1 xiang4 quan2 neng2] /triatlon/
 
 # ID-i31Bp2G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -26411,6 +26533,14 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 沒錯 没错 [mei2 cuo4] /így van/helyes/
 
+# ID-i53uE5u
+# Ver 2017-11-28T20:13:21Z GaoYanuo Stat-New >http://dict.youdao.com/w/twelve%20chinese%20zodiac%20signs/#keyfrom=E2Ctranslation
+# 二十生肖 二十生肖 [er4 shi2 sheng1 xiao4] /A kínai naptár éveinek állat jelképei/
+# Ver 2017-11-28T22:00:46Z gabor Stat-New >.
+# 二十生肖 二十生肖 [er4 shi2 sheng1 xiao4] /a húsz állat|jegy (a kínai naptár éveinek állat jelképei)/
+# Ver 2017-11-28T22:02:39Z gabor Stat-Verif >próbálom átrakni a kifejtéseket, parafrázisokat a végső zárójelezett részbe, de ha nincs direkt magyar megfelelő, nem mindig olyan szuper a tényleges "fordítás". szélsőséges esetben lehet az egész szócikk meta, pl. \n吗: https://chdict.zydeo.net/hu/edit/existing/o68Hq0M
+二十生肖 二十生肖 [er4 shi2 sheng1 xiao4] /a húsz állat|jegy (a kínai naptár éveinek állat jelképei)/
+
 # ID-i53DX1z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 在乎 在乎 [zai4 hu5] /törődik (vmivel)/gondoskodik/
@@ -26946,6 +27076,12 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-i68Nt2f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 面對面 面对面 [mian4 dui4 mian4] /szemtől szemben/
+
+# ID-i68OP2p
+# Ver 2017-11-28T11:17:02Z GaoYanuo Stat-New >https://dict.hjenglish.com/w/%E5%87%A0%E6%AC%A1\nhttp://dict.youdao.com/w/eng/%E5%87%A0%E6%AC%A1/#keyfrom=dict2.index
+# 幾次 几次 [ji3 ci4] /többször /sokszor/néhányszor/valahányszor/hányszor/
+# Ver 2017-11-28T15:49:59Z gabor Stat-Verif >.
+幾次 几次 [ji3 ci4] /többször /sokszor/néhányszor/valahányszor/hányszor/
 
 # ID-i68Qu6t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -27512,6 +27648,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-i87UC2E
 # Ver 2017-11-27T19:38:46Z GaoYanuo Stat-New >CC-CEDICT\nBartos-Hamar
+# 學士 学士 [xue2 shi4] /tudós/egyetemi alapképzés; bachelor fokozat/
+# Ver 2017-11-28T07:47:15Z gabor Stat-Verif >.
 學士 学士 [xue2 shi4] /tudós/egyetemi alapképzés; bachelor fokozat/
 
 # ID-i88eI5i
@@ -32301,6 +32439,12 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 鬚 须 [xu1] /szakáll/bajusz/bojt/
 
+# ID-k43bd8L
+# Ver 2017-11-28T12:57:13Z GaoYanuo Stat-New >http://www.dictall.com/dictall/result.jsp?cd=UTF-8&keyword=%E6%B2%A1%E7%A4%BC%E8%B2%8C
+# 沒禮貌 没礼貌 [mei2 li3 mao4] /udvariatlan/modortalan/pofátlan/szemtelen/
+# Ver 2017-11-28T16:05:22Z gabor Stat-New >.
+沒禮貌 没礼貌 [mei2 li3 mao4] /goromba; udvariatlan; modortalan/
+
 # ID-k43Nj0S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 懸念 悬念 [xuan2 nian4] /feszültség (filmben, színdarabban, történetben)/aggódás (távoli ember jóllétéért)/
@@ -33501,7 +33645,12 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-k82kM7j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-整 整 [zheng3] /pontosan/egész/teljes/ki|egészít/meg|javít/
+# 整 整 [zheng3] /pontosan/egész/teljes/ki|egészít/meg|javít/
+# Ver 2017-11-28T13:13:48Z GaoYanuo Stat-Verif >azért szúrtam be, mert a "pontosan" mást is jelent.
+# 整 整 [zheng3] /pontosan; pontban (nyolc órakor)/egész/kerek (~számok, kereken 10 éves)/teljes/ki|egészít/meg|javít/
+# Ver 2017-11-28T15:50:31Z GaoYanuo Stat-Verif >整
+# Ver 2017-11-28T15:51:28Z GaoYanuo Stat-Verif >Nem a link volt a vágólapon az előbb. Ezt akartam:\nhttp://www.dictall.com/dictall/result_sentence.jsp?cd=UTF-8&keyword=%E6%95%B4
+整 整 [zheng3] /pontosan; pontban (nyolc órakor)/egész/kerek (~számok, kereken 10 éves)/teljes/ki|egészít/meg|javít/
 
 # ID-k82tJ5d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -33737,7 +33886,12 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-k91el4v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-主辦 主办 [zhu3 ban4] /szervez (eseményt)/vendégül lát (rendezvényt)/
+# 主辦 主办 [zhu3 ban4] /szervez (eseményt)/vendégül lát (rendezvényt)/
+# Ver 2017-11-28T16:28:40Z GaoYanuo Stat-Verif >http://www.dictall.com/dictall/result_sentence.jsp?cd=UTF-8&keyword=%E4%B8%BB%E5%8A%9E\n
+# 主辦 主办 [zhu3 ban4] /szervez (eseményt)/vendégül lát (rendezvényt)/(összetételekben) rendező; vendéglátó; házigazda (ország, tanszék, sportegyesület, stb.)/szponzor/
+# Ver 2017-11-28T16:29:43Z GaoYanuo Stat-Verif >https://dict.hjenglish.com/w/sponsor
+# Ver 2017-11-28T21:37:18Z gabor Stat-Verif >magyarázat, nem címke; pici tömörítés
+主辦 主办 [zhu3 ban4] /szervez; rendez (eseményt)/vendégül lát (rendezvényt)/rendező; vendéglátó; házigazda (összetételben: ország, sportegyesület stb.)/szponzor/
 
 # ID-k91jA3Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -33841,7 +33995,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-k94AZ7E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-尊敬 尊敬 [zun1 jing4] /tisztel/becsül/
+# 尊敬 尊敬 [zun1 jing4] /tisztel/becsül/
+# Ver 2017-11-28T16:10:30Z GaoYanuo Stat-Verif >http://www.dictall.com/dictall/result_sentence.jsp?cd=UTF-8&keyword=%E5%B0%8A%E6%95%AC\n
+# 尊敬 尊敬 [zun1 jing4] /tisztel/(megszólítás) tisztelt (pl. ~ Igazgató úr)/becsül/
+# Ver 2017-11-28T21:34:41Z gabor Stat-Verif >inkább magyarázat, mint címke
+尊敬 尊敬 [zun1 jing4] /tisztel; becsül/tisztelt (megszólításként: "Tisztelt XY")/
 
 # ID-k94Bf4n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -34214,6 +34372,13 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-l04vh6G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 優雅 优雅 [you1 ya3] /kecses/ízléses/elegáns/
+
+# ID-l04yI2f
+# Ver 2017-11-28T11:07:16Z GaoYanuo Stat-New >CC-CEDICT
+# 動作片 动作片 [dong4 zuo4 pian4] /akciófilm/
+# Ver 2017-11-28T15:49:14Z gabor Stat-Verif >.
+# Ver 2017-11-28T15:49:22Z gabor Stat-Verif >elhat
+動作片 动作片 [dong4 zuo4 pian4] /akció|film/
 
 # ID-l04CF5L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -34691,7 +34856,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-l20HC9B
 # Ver 2017-11-27T20:18:54Z GaoYanuo Stat-New >CC-CEDICT\n宅女 is forgalomban van, ha nő az illető.  A CC-EDICT-ben van is külön bejegyzés. Gondolom nem kap minden szócikk külön bejegyzést egy nő, meg egy férfi esetében. Pincér-, tanár-,színész-,író- stb nő. Mert a kínaiban hol elöl, hol hátul biggyesztik mellé, hogy  nő.
-宅男 宅男 [zhai2 nan2] /otthonülő/számítógép,TV, stb függő/
+# 宅男 宅男 [zhai2 nan2] /otthonülő/számítógép,TV, stb függő/
+# Ver 2017-11-28T07:53:20Z gabor Stat-New >.
+# 宅男 宅男 [zhai2 nan2] /otthonülő; videojáték-függő (a megszállott manga\anime-rajongókat leíró japán "otaku" szó átvétele)/
+# Ver 2017-11-28T07:53:42Z gabor Stat-Verif >.
+宅男 宅男 [zhai2 nan2] /otthonülő; videojáték-függő (a megszállott manga\anime-rajongókat leíró japán "otaku" szó átvétele)/
 
 # ID-l20QL4Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -34876,6 +35045,16 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-l25Wi5V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 晚飯 晚饭 [wan3 fan4] /vacsora/SZ:份[fen4],頓|顿[dun4],次[ci4],餐[can1]/
+
+# ID-l25Zu8j
+# Ver 2017-11-28T12:25:13Z GaoYanuo Stat-New >https://dict.hjenglish.com/w/%E6%89%8D%E5%AD%90\nhttp://www.dictall.com/dictall/result.jsp?cd=UTF-8&keyword=%E6%89%8D%E5%AD%90
+# 才子 才子 [cai2 zi5] /tehetséges/ifjú tehetség/
+# Ver 2017-11-28T12:26:57Z GaoYanuo Stat-New >pinyin javítva
+# 才子 才子 [cai2 zi3] /tehetséges/ifjú tehetség/
+# Ver 2017-11-28T15:59:22Z gabor Stat-New >scholar: tudós, esetleg kutató\nABC feltünteti a zsenit is
+# 才子 才子 [cai2 zi3] /tehetséges tudós/zseni/
+# Ver 2017-11-28T15:59:25Z gabor Stat-Verif >.
+才子 才子 [cai2 zi3] /tehetséges tudós/zseni/
 
 # ID-l26bt9D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -35108,6 +35287,14 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-l33qF3o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 陪伴 陪伴 [pei2 ban4] /kísér/társaság (vki társasága)/
+
+# ID-l33Ak5K
+# Ver 2017-11-28T12:17:20Z GaoYanuo Stat-New >http://dict.youdao.com/w/%E6%9C%89%E6%89%8D/#keyfrom=dict2.top\nhttps://dict.hjenglish.com/w/%E6%9C%89%E6%89%8D
+# 有才 有才 [you3 cai2] /tehetséges/rátermett/alkalmas/
+# Ver 2017-11-28T15:56:21Z gabor Stat-New >.
+# 有才 有才 [you3 cai2] /tehetséges/
+# Ver 2017-11-28T15:56:23Z gabor Stat-Verif >.
+有才 有才 [you3 cai2] /tehetséges/
 
 # ID-l33Ek6e
 # Ver 2017-05-21T18:35:57Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
@@ -35543,7 +35730,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-l49wo7m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-射擊 射击 [she4 ji1] /lő/el|süt (fegyvert)/
+# 射擊 射击 [she4 ji1] /lő/el|süt (fegyvert)/
+# Ver 2017-11-28T19:09:06Z GaoYanuo Stat-Verif >http://dict.youdao.com/w/%E5%B0%84%E5%87%BB/#keyfrom=dict2.top
+射擊 射击 [she4 ji1] /lő/el|süt (fegyvert)/lövészet/
 
 # ID-l49wu1e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -35697,7 +35886,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-l53gX0w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-沉重 沉重 [chen2 zhong4] /nehéz/súlyos/komoly/
+# 沉重 沉重 [chen2 zhong4] /nehéz/súlyos/komoly/
+# Ver 2017-11-28T18:11:26Z GaoYanuo Stat-Verif >8 találat van a "súlyos" szóra rákeresve, ezért próbálom zárójelesben pontosítgatni.\nhttp://dictionary.pinpinchinese.com/search/t/%E6%B2%89%E9%87%8D
+沉重 沉重 [chen2 zhong4] /nehéz/súlyos (csapás, lecke)/komoly/
 
 # ID-l53mN6Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -37221,6 +37412,14 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 保護區 保护区 [bao3 hu4 qu1] /védett terület/természet|védelmi terület/SZ:個|个[ge4],片[pian4]/
 
+# ID-m07PG7e
+# Ver 2017-11-28T19:05:21Z GaoYanuo Stat-New >CC-CEDICT
+# 水上運動 水上运动 [shui3 shang4 yun4 dong4] /vízisportok/
+# Ver 2017-11-28T21:49:04Z gabor Stat-New >elhat
+# 水上運動 水上运动 [shui3 shang4 yun4 dong4] /vízis|port/
+# Ver 2017-11-28T21:51:07Z gabor Stat-Verif >egy csomó efféle szónál, ahol az esetek nagy részében többes számban értjük, bár a kínai természetesen nem jelöli, picit gondban vagyok. inkább arra hajlok, hogy egyes számban vegyük fel őket, és tudjuk be a nyelvhasználatból adódó értelemszerű következménynek, hogy fordításban túlnyomórészt többes szám lesz belőlük. (vagyis ne vegyük a kínai szó lexikalizált tulajdonságának.)\n\nmit gondolsz?
+水上運動 水上运动 [shui3 shang4 yun4 dong4] /vízis|port/
+
 # ID-m07PV7W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 恤 恤 [xu4] /együtt|érez/szimpatizál/
@@ -37331,7 +37530,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-m12fh7s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-了解 了解 [liao3 jie3] /ért/meg|ért/meg|tud/meg|ismer/tájékozódik/érdeklődik/
+# 了解 了解 [liao3 jie3] /ért/meg|ért/meg|tud/meg|ismer/tájékozódik/érdeklődik/
+# Ver 2017-11-28T11:41:38Z GaoYanuo Stat-Verif >http://www.dictall.com/st/19/92/1992641E558.htm
+# 了解 了解 [liao3 jie3] /ért; felfog/meg|ért (pl. a másik lelkiállapotát)/meg|tud/tudás/meg|ismer/ismeret/tájékozódik/érdeklődik/
+# Ver 2017-11-28T15:52:29Z gabor Stat-Verif >.
+了解 了解 [liao3 jie3] /ért; fel|fog/meg|ért (pl. a másik lelkiállapotát)/meg|tud/tudás; ismeret/meg|ismer/tájékozódik/érdeklődik/
 
 # ID-m12Ti9d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -37591,7 +37794,12 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-m20sh0i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-大不了 大不了 [da4 bu4 liao3] /leg|rosszabb esetben/súlyos/riasztó/
+# 大不了 大不了 [da4 bu4 liao3] /leg|rosszabb esetben/súlyos/riasztó/
+# Ver 2017-11-28T17:52:54Z GaoYanuo Stat-Verif >8 találat van a "súlyos" szóra rákeresve, ezért próbálom zárójelesben pontosítgatni.
+# 大不了 大不了 [da4 bu4 liao3] /leg|rosszabb esetben/súlyos (helyzet)/riasztó/
+# Ver 2017-11-28T18:02:40Z GaoYanuo Stat-Verif >http://www.dictall.com/dictall/result_sentence.jsp?cd=UTF-8&keyword=%E5%A4%A7%E4%B8%8D%E4%BA%86\n\nLegjobban ez a példamondat tettszett:\n接个吻有什么大不了的?
+# Ver 2017-11-28T21:42:54Z gabor Stat-Verif >a "nagy ügy" kihagyhatatlan, ha már :)
+大不了 大不了 [da4 bu4 liao3] /leg|rosszabb esetben/nagy ügy/súlyos (helyzet)/riasztó/
 
 # ID-m20tA4h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -38884,6 +39092,12 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-m58YH6Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 爪 爪 [zhao3] /karom/
+
+# ID-m59bW7X
+# Ver 2017-11-28T18:59:18Z GaoYanuo Stat-New >CC-CEDICT
+# 五項全能 五项全能 [wu3 xiang4 quan2 neng2] /öttusa/
+# Ver 2017-11-28T21:45:33Z gabor Stat-Verif >.
+五項全能 五项全能 [wu3 xiang4 quan2 neng2] /öttusa/
 
 # ID-m59fO4i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -41201,7 +41415,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-n36Vs1H
 # Ver 2017-11-27T19:41:44Z GaoYanuo Stat-New >CC-CEDICT
-公共衛生 公共卫生 [gong1 gong4 wei4 sheng1] /közegészségügy; népegészségügy/
+# 公共衛生 公共卫生 [gong1 gong4 wei4 sheng1] /közegészségügy; népegészségügy/
+# Ver 2017-11-28T07:46:58Z gabor Stat-New >elhat
+# 公共衛生 公共卫生 [gong1 gong4 wei4 sheng1] /köz|egészségügy; nép|egészségügy/
+# Ver 2017-11-28T07:47:00Z gabor Stat-Verif >.
+公共衛生 公共卫生 [gong1 gong4 wei4 sheng1] /köz|egészségügy; nép|egészségügy/
 
 # ID-n36Vy0G
 # Ver 2017-05-23T15:09:50Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
@@ -43257,6 +43475,14 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 象徵 象征 [xiang4 zheng1] /jelképez/szimbolizál/szimbólum/embléma/jelkép/szimbolikus/
 
+# ID-o02EN0f
+# Ver 2017-11-28T19:30:35Z GaoYanuo Stat-New >CC-CEDICT
+# 子鼠 子鼠 [zi3 shu3] /a kínai naptár 12 éves ciklusából az első év, a patkány éve/
+# Ver 2017-11-28T21:52:54Z gabor Stat-New >.
+# 子鼠 子鼠 [zi3 shu3] /a Patkány éve (a kínai naptár 12 éves ciklusából az első év)/
+# Ver 2017-11-28T21:55:25Z gabor Stat-Verif >ezekből random 1-2 jött elő a 11 ezer kiinduló szócikkben, és én leginkább kigolyóztam őket, mert nem akartam módszeresen utánamenni. de akkor már tudjuk le az összeset.\n\na javaslatom, hogy "a(z) XYÁllat éve" legyen a fordítás, és a magyarázatot tekintsük... magyarázatnak, zárójelben. amúgy pl. a "kínai", "naptár" szavakra keresve ezek mind előjönnek, ami nekem valahol lehangoló lennne.
+子鼠 子鼠 [zi3 shu3] /a Patkány éve (a kínai naptár 12 éves ciklusából az első év)/
+
 # ID-o02Ky2f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 截 截 [jie2] /le|vág/szakasz/hossz/
@@ -43946,6 +44172,15 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-o25DG5G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 風俗 风俗 [feng1 su2] /konvenció/szokás/SZ:個|个[ge4]/
+
+# ID-o25Kk0Z
+# Ver 2017-11-28T19:45:38Z GaoYanuo Stat-New >CC-CEDICT
+# 老牛吃嫩草 老牛吃嫩草 [lao3 niu2 chi1 nen4 cao3] /(kifejezés) Vén marha zsenge füvet legel; Vén kecske is megnyalja a sót.  (Mikor a férfi jóval idősebb, mint a nő.)/
+# Ver 2017-11-28T21:56:54Z gabor Stat-New >.
+# 老牛吃嫩草 老牛吃嫩草 [lao3 niu2 chi1 nen4 cao3] /(kifejezés) vén marha zsenge füvet legel; vén kecske is megnyalja a sót (egy kapcsolatban a férfi jóval idősebb, mint a nő)/
+# Ver 2017-11-28T21:56:59Z gabor Stat-Verif >szép!
+# Ver 2017-11-28T21:58:10Z gabor Stat-Verif >korpuszból kedvenc fordításom: "medencés fiú az öregek otthonában" :)) ezek a feliratfordítók nem tudom, mit szívnak, de én is kérek belőle!
+老牛吃嫩草 老牛吃嫩草 [lao3 niu2 chi1 nen4 cao3] /(kifejezés) vén marha zsenge füvet legel; vén kecske is megnyalja a sót (egy kapcsolatban a férfi jóval idősebb, mint a nő)/
 
 # ID-o25Lp0T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -46227,6 +46462,14 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 臺階 台阶 [tai2 jie1] /lépcső/kiút (nehéz helyzetből)/
 
+# ID-p02KW7V
+# Ver 2017-11-28T16:56:52Z GaoYanuo Stat-New >CC-CEDICT
+# 大寫字母 大写字母 [da4 xie3 zi4 mu3] /nagybetű/
+# Ver 2017-11-28T21:37:45Z gabor Stat-New >elhat
+# 大寫字母 大写字母 [da4 xie3 zi4 mu3] /nagy|betű/
+# Ver 2017-11-28T21:37:48Z gabor Stat-Verif >.
+大寫字母 大写字母 [da4 xie3 zi4 mu3] /nagy|betű/
+
 # ID-p02TA1o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 競賽 竞赛 [jing4 sai4] /verseny/
@@ -46315,7 +46558,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-p05Xj3L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-千萬 千万 [qian1 wan4] /tíz|millió/10.000.000/számtalan/sok/mindenképpen/
+# 千萬 千万 [qian1 wan4] /tíz|millió/10.000.000/számtalan/sok/mindenképpen/
+# Ver 2017-11-28T17:41:23Z GaoYanuo Stat-Verif >http://www.dictall.com/dictall/result_sentence.jsp?cd=UTF-8&keyword=%E5%8D%83%E4%B8%87\nhttps://resources.allsetlearning.com/chinese/grammar/Expressing_%22to_make_certain%22_with_%22qianwan%22\n\nMás: miért külön szócikk a tízmillió betűvel és számjeggyel kiírva?
+# 千萬 千万 [qian1 wan4] /tíz|millió/10.000.000/számtalan/sok/mindenképpen (felszólító mondatban 要 előtt)/semmiképp (tagadó mondatban 不, 别 előtt)/
+# Ver 2017-11-28T21:39:07Z gabor Stat-Verif >jogos
+千萬 千万 [qian1 wan4] /tíz|millió; 10.000.000/számtalan; sok/mindenképpen (felszólító mondatban 要 előtt)/semmiképp (tagadó mondatban 不, 别 előtt)/
 
 # ID-p05XO4n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -46644,6 +46891,16 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-p16qR4M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 起飛 起飞 [qi3 fei1] /fel|száll/
+
+# ID-p16Cj8T
+# Ver 2017-11-28T16:00:53Z GaoYanuo Stat-New >CC-CEDICT\nhttp://www.dictall.com/dictall/result_sentence.jsp?cd=UTF-8&keyword=%E8%87%AA%E5%B0%8A%E5%BF%83
+# 自尊心 自尊心 [zi4 zun1 xin1] /önérzet/ego/
+# Ver 2017-11-28T16:10:55Z gabor Stat-New >sef-respect, self-esteem - valahol az önérzet-önbecsülés-büszkeség háromszög közepén\nhttp://zhhu.zydeo.net/?q=%E8%87%AA%E5%B0%8A%E5%BF%83
+# 自尊心 自尊心 [zi4 zun1 xin1] /önérzet; önbecsülés; büszkeség/egó/
+# Ver 2017-11-28T16:11:22Z gabor Stat-New >egó hosszú ó-val tévedés volt :)
+# 自尊心 自尊心 [zi4 zun1 xin1] /önérzet; önbecsülés; büszkeség/ego/
+# Ver 2017-11-28T16:11:26Z gabor Stat-Verif >.
+自尊心 自尊心 [zi4 zun1 xin1] /önérzet; önbecsülés; büszkeség/ego/
 
 # ID-p17bz2j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
