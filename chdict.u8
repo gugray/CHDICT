@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-11-29T03:00:01Z
+# Datenstand: 2017-11-30T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -1145,6 +1145,8 @@
 
 # ID-a33sY4p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
+# 鼠 鼠 [shu3] /patkány/egér/SZ:隻|只[zhi1]/
+# Ver 2017-11-29T10:59:10Z GaoYanuo Stat-Verif >Mint látom, szerepel a 老鼠 is, mint bejegyzés, nagyon helyesen. Nem tudom, szükséges -e jelezni a lelkes szótározó számára, hogy ha a konkrét manifesztálódott állatkáról beszélünk, akkor 老鼠, ha meg el vagyunk absztrahálva, mint a naptárban, akkor csak simán 鼠.\nHasonló a szitu még egy jó pár állattal is, mint pl. a tigris: 老虎.
 鼠 鼠 [shu3] /patkány/egér/SZ:隻|只[zhi1]/
 
 # ID-a33yc1z
@@ -3093,6 +3095,12 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 破爛 破烂 [po4 lan4] /hulladék/szemét/szakadt/rongyos/ütött-kopott/
 
+# ID-a95bx6j
+# Ver 2017-11-29T12:14:33Z GaoYanuo Stat-New >CC-EDICT
+# 辰龍 辰龙 [chen2 long2] /a Sárkány éve (a kínai naptár 12 éves ciklusából az ötödik év)/
+# Ver 2017-11-29T17:28:37Z gabor Stat-Verif >.
+辰龍 辰龙 [chen2 long2] /a Sárkány éve (a kínai naptár 12 éves ciklusából az ötödik év)/
+
 # ID-a95ix8q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 有史以來 有史以来 [you3 shi3 yi3 lai2] /a történelem kezdete óta/
@@ -4171,6 +4179,14 @@
 # ID-b27IQ6G
 # Ver 2017-05-23T18:44:10Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
 埃斯泰爾戈姆 埃斯泰尔戈姆 [ai1 si1 tai4 er3 ge1 mu3] /(földrajzi név) Esztergom/
+
+# ID-b27KR0p
+# Ver 2017-11-29T12:20:09Z GaoYanuo Stat-New >CC-CEDICT
+# 申猴 申猴 [shen1 hou2] /A Majom éve (a kínai naptár 12 éves ciklusából a kilencedik év)/
+# Ver 2017-11-29T17:29:29Z gabor Stat-New >.
+# 申猴 申猴 [shen1 hou2] /a Majom éve (a kínai naptár 12 éves ciklusából a kilencedik év)/
+# Ver 2017-11-29T17:29:31Z gabor Stat-Verif >.
+申猴 申猴 [shen1 hou2] /a Majom éve (a kínai naptár 12 éves ciklusából a kilencedik év)/
 
 # ID-b27ZG2i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -6610,6 +6626,14 @@
 # ID-c09AC5T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 毫米 毫米 [hao2 mi3] /milliméter/mm/
+
+# ID-c09BX3T
+# Ver 2017-11-29T12:22:35Z GaoYanuo Stat-New >CC-CEDICT
+# 戌狗 戌狗 [xu1 gou3] /A Kutya éve (a kínai naptár 12 éves ciklusából a tizenegyedik év)/
+# Ver 2017-11-29T17:29:36Z gabor Stat-New >.
+# 戌狗 戌狗 [xu1 gou3] /a Kutya éve (a kínai naptár 12 éves ciklusából a tizenegyedik év)/
+# Ver 2017-11-29T17:29:38Z gabor Stat-Verif >.
+戌狗 戌狗 [xu1 gou3] /a Kutya éve (a kínai naptár 12 éves ciklusából a tizenegyedik év)/
 
 # ID-c09Lq2l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -22966,6 +22990,14 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 年級 年级 [nian2 ji2] /osztály/év|folyam/SZ:個|个[ge4]/
 
+# ID-h36EJ3l
+# Ver 2017-11-29T12:25:15Z GaoYanuo Stat-New >CC-CEDICT\nBakter, ez is kész van... hu.
+# 亥豬 亥猪 [hai4 zhu1] /A Malac éve; a Disznó éve (a kínai naptár 12 éves ciklusából a tizenkettedik év)/
+# Ver 2017-11-29T17:29:45Z gabor Stat-New >.
+# 亥豬 亥猪 [hai4 zhu1] /a Malac éve; a Disznó éve (a kínai naptár 12 éves ciklusából a tizenkettedik év)/
+# Ver 2017-11-29T17:29:48Z gabor Stat-Verif >.
+亥豬 亥猪 [hai4 zhu1] /a Malac éve; a Disznó éve (a kínai naptár 12 éves ciklusából a tizenkettedik év)/
+
 # ID-h36Jg7N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 好吃 好吃 [hao3 chi1] /finom/ízletes/
@@ -23344,7 +23376,8 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-11-28T15:53:03Z gabor Stat-New >.
 # 酉雞 酉鸡 [you3 ji1] /a Kakas éve/
 # Ver 2017-11-28T15:53:32Z gabor Stat-Verif >.
-酉雞 酉鸡 [you3 ji1] /a Kakas éve/
+# Ver 2017-11-29T12:21:08Z GaoYanuo Stat-Verif >.
+酉雞 酉鸡 [you3 ji1] /a Kakas éve (a kínai naptár 12 éves ciklusából a tizedik év)/
 
 # ID-h50bc2A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -26387,6 +26420,14 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 安全 安全 [an1 quan2] /biztonság/biztonságos/
 
+# ID-i48vR5h
+# Ver 2017-11-29T12:17:33Z GaoYanuo Stat-New >CC-CEDICT
+# 午馬 午马 [wu3 ma3] /A Ló éve (a kínai naptár 12 éves ciklusából a hetedik év)/
+# Ver 2017-11-29T17:29:14Z gabor Stat-New >.
+# 午馬 午马 [wu3 ma3] /a Ló éve (a kínai naptár 12 éves ciklusából a hetedik év)/
+# Ver 2017-11-29T17:29:16Z gabor Stat-Verif >.
+午馬 午马 [wu3 ma3] /a Ló éve (a kínai naptár 12 éves ciklusából a hetedik év)/
+
 # ID-i48Av8k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 冥 冥 [ming2] /al|világ/sötét/homályos/buta/
@@ -26539,7 +26580,8 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-11-28T22:00:46Z gabor Stat-New >.
 # 二十生肖 二十生肖 [er4 shi2 sheng1 xiao4] /a húsz állat|jegy (a kínai naptár éveinek állat jelképei)/
 # Ver 2017-11-28T22:02:39Z gabor Stat-Verif >próbálom átrakni a kifejtéseket, parafrázisokat a végső zárójelezett részbe, de ha nincs direkt magyar megfelelő, nem mindig olyan szuper a tényleges "fordítás". szélsőséges esetben lehet az egész szócikk meta, pl. \n吗: https://chdict.zydeo.net/hu/edit/existing/o68Hq0M
-二十生肖 二十生肖 [er4 shi2 sheng1 xiao4] /a húsz állat|jegy (a kínai naptár éveinek állat jelképei)/
+# Ver 2017-11-29T10:51:51Z GaoYanuo Stat-Verif >.
+十二生肖 十二生肖 [shi2 er4 sheng1 xiao4] /a tizenkét állat|jegy (a kínai naptár éveinek állat jelképei)/
 
 # ID-i53DX1z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -31111,6 +31153,14 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-06-07T10:37:22Z Adam Stat-Verif >összekapcsolt Wikipédia-szócikkek alapján
 蘋果 苹果 [ping2 guo3] /alma/SZ:顆|颗[ke1]/Apple (technológiai cég)/
 
+# ID-k00VP7P
+# Ver 2017-11-29T12:13:15Z GaoYanuo Stat-New >CC-CEDICT
+# 卯兔 卯兔 [mao3 tu4] /A Nyúl éve (a kínai naptár 12 éves ciklusából a negyedik év)/
+# Ver 2017-11-29T17:28:25Z gabor Stat-New >.
+# 卯兔 卯兔 [mao3 tu4] /a Nyúl éve (a kínai naptár 12 éves ciklusából a negyedik év)/
+# Ver 2017-11-29T17:28:28Z gabor Stat-Verif >.
+卯兔 卯兔 [mao3 tu4] /a Nyúl éve (a kínai naptár 12 éves ciklusából a negyedik év)/
+
 # ID-k00WB7I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 踢足球 踢足球 [ti1 zu2 qiu2] /focizik/futballozik/
@@ -34534,6 +34584,14 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 較 较 [jiao4] /inkább; jobban; meg|lehetősgen/össze|hasonlít/viszonylag/
 
+# ID-l09Fv2j
+# Ver 2017-11-29T12:18:51Z GaoYanuo Stat-New >CC-CEDICT
+# 未羊 未羊 [wei4 yang2] /A Bak éve (a kínai naptár 12 éves ciklusából a nyolcadik év)/
+# Ver 2017-11-29T17:29:21Z gabor Stat-New >.
+# 未羊 未羊 [wei4 yang2] /a Bak éve (a kínai naptár 12 éves ciklusából a nyolcadik év)/
+# Ver 2017-11-29T17:29:24Z gabor Stat-Verif >.
+未羊 未羊 [wei4 yang2] /a Bak éve (a kínai naptár 12 éves ciklusából a nyolcadik év)/
+
 # ID-l09Hb4d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 可悲 可悲 [ke3 bei1] /sajnálatos/
@@ -37154,6 +37212,14 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 會員 会员 [hui4 yuan2] /tag (szervezeté)/tagság/
 
+# ID-l97Pq2u
+# Ver 2017-11-29T12:11:43Z GaoYanuo Stat-New >CC-CEDICT
+# 寅虎 寅虎 [yin2 hu3] /A Tigris éve (a kínai naptár 12 éves ciklusából a harmadik év)/
+# Ver 2017-11-29T17:28:12Z gabor Stat-New >.
+# 寅虎 寅虎 [yin2 hu3] /a Tigris éve (a kínai naptár 12 éves ciklusából a harmadik év)/
+# Ver 2017-11-29T17:28:14Z gabor Stat-Verif >.
+寅虎 寅虎 [yin2 hu3] /a Tigris éve (a kínai naptár 12 éves ciklusából a harmadik év)/
+
 # ID-l97Ud4r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 耳 耳 [er3] /fül (testrész)/oldal; oldalsó (előtagként)/
@@ -37418,6 +37484,7 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-11-28T21:49:04Z gabor Stat-New >elhat
 # 水上運動 水上运动 [shui3 shang4 yun4 dong4] /vízis|port/
 # Ver 2017-11-28T21:51:07Z gabor Stat-Verif >egy csomó efféle szónál, ahol az esetek nagy részében többes számban értjük, bár a kínai természetesen nem jelöli, picit gondban vagyok. inkább arra hajlok, hogy egyes számban vegyük fel őket, és tudjuk be a nyelvhasználatból adódó értelemszerű következménynek, hogy fordításban túlnyomórészt többes szám lesz belőlük. (vagyis ne vegyük a kínai szó lexikalizált tulajdonságának.)\n\nmit gondolsz?
+# Ver 2017-11-29T11:26:59Z GaoYanuo Stat-Verif >Nem egyszerű. Én, mint laikus, úgy gondolom, hogy annak kéne a szótárban szerepelnie, amit magyarul mondunk az adott helyzetben. Hasonlóképpen, mint a szólásoknál:\n"Drinks like fish" = "Iszik, mint a kefekötő" Hiába fish ≠ kefekötő\nMivel gyűjtőfogalomról van szó, magyarban indokolt a többesszám, hiába a forrásnyelvben nem az. [Egyes kukacoskodó nyelvészek szerint a kínaiban nincs is többesszám. (meg melléknév, meg igeidő, meg stb. A végén még kiderül, hogy beszélni sem tudnak a tudós szaknagyagyak szerint.)]\n"A toronyugrás egy vízisport."  "Magyarország hagyományosan jól szerepel az olimpián a vízisportokban." Az első mondat esetében " 一种水上运动" lenne a fordításban, a másodiknál csak simán "水上运动". Tehát a megfeleltetésnél a célnyelvhez kéne igazodni, nem a forrásnyelvhez. Mármint nyelvtanilag. De hangsúlyozom, hogy ez csak egy félművelt laikus véleménye. 
 水上運動 水上运动 [shui3 shang4 yun4 dong4] /vízis|port/
 
 # ID-m07PV7W
@@ -44296,6 +44363,14 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 趕緊 赶紧 [gan3 jin3] /sietve/késlekedés nélkül/
 
+# ID-o29TT3v
+# Ver 2017-11-29T12:16:12Z GaoYanuo Stat-New >CC-CEDICT
+# 巳蛇 巳蛇 [si4 she2] /A Kígyó éve (a kínai naptár 12 éves ciklusából a hatodik év)/
+# Ver 2017-11-29T17:28:47Z gabor Stat-New >.
+# 巳蛇 巳蛇 [si4 she2] /a Kígyó éve (a kínai naptár 12 éves ciklusából a hatodik év)/
+# Ver 2017-11-29T17:28:51Z gabor Stat-Verif >.
+巳蛇 巳蛇 [si4 she2] /a Kígyó éve (a kínai naptár 12 éves ciklusából a hatodik év)/
+
 # ID-o29ZT3j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 配套 配套 [pei4 tao4] /teljes (egyetlen odatartozó elem sem hiányzik)/össze|függő; össze|illő/
@@ -46107,6 +46182,14 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-o91SF2r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 勃 勃 [bo2] /virágzó/prosperáló/
+
+# ID-o92iu6a
+# Ver 2017-11-29T12:10:01Z GaoYanuo Stat-New >CC-CEDICT
+# 丑牛 丑牛 [chou3 niu2] /A Bika éve (a kínai naptár 12 éves ciklusából a második év)/
+# Ver 2017-11-29T17:27:58Z gabor Stat-New >.
+# 丑牛 丑牛 [chou3 niu2] /a Bika éve (a kínai naptár 12 éves ciklusából a második év)/
+# Ver 2017-11-29T17:28:00Z gabor Stat-Verif >.
+丑牛 丑牛 [chou3 niu2] /a Bika éve (a kínai naptár 12 éves ciklusából a második év)/
 
 # ID-o92mP2f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
