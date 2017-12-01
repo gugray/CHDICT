@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-11-30T03:00:01Z
+# Datenstand: 2017-12-01T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -24800,7 +24800,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-h95tL6B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-講 讲 [jiang3] /beszél/el|mond/magyaráz/hangsúlyoz/tárgyal/beszéd/előadás/
+# 講 讲 [jiang3] /beszél/el|mond/magyaráz/hangsúlyoz/tárgyal/beszéd/előadás/
+# Ver 2017-11-30T20:09:20Z GaoYanuo Stat-Verif >https://dict.hjenglish.com/w/%E8%AE%B2\n
+講 讲 [jiang3] /beszél/el|mond; el|mesél/magyaráz/hangsúlyoz/tárgyal/beszéd/előadás/megvitat/
 
 # ID-h95tP9T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -33371,6 +33373,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 提拔 提拔 [ti2 ba2] /elő|léptet/
 
+# ID-k71Us2B
+# Ver 2017-11-30T14:16:24Z GaoYanuo Stat-New >https://baike.baidu.com/item/%E8%9C%80%E7%8A%AC%E5%90%A0%E6%97%A5
+蜀犬吠日 蜀犬吠日 [shu3 quan3 fei4 ri4] /Szecsuáni kutya ugatja a napot; bámul, mint borjú az új kapura (A szecsuáni éghajlat nagyon párás, ritkán látják a napot.)/
+
 # ID-k72aB8i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 照看 照看 [zhao4 kan4] /gondoskodik/gondoz/
@@ -35096,6 +35102,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 合唱團 合唱团 [he2 chang4 tuan2] /énekkar/kórus/
 
+# ID-l25re6e
+# Ver 2017-11-30T20:20:37Z GaoYanuo Stat-New >http://www.dictall.com/dictall/result.jsp?keyword=polyurethane\nCC-CEDICT
+縮寫 缩写 [suo1 xie3] /rövidítés (írásban)/
+
 # ID-l25uL3o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 忠誠 忠诚 [zhong1 cheng2] /hűséges/oda|adó/ki|tartó/
@@ -36314,7 +36324,10 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-l66oa8L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-塊 块 [kuai4] /darab/kupac (föld)/jüan (köznyelvi; egyéb valutát is jelölhet)/(számlálószó: szögletes dolgok, ruhák, szappan; pénz)/
+# 塊 块 [kuai4] /darab/kupac (föld)/jüan (köznyelvi; egyéb valutát is jelölhet)/(számlálószó: szögletes dolgok, ruhák, szappan; pénz)/
+# Ver 2017-11-30T19:37:36Z GaoYanuo Stat-Verif >felkockáz; apróra darabol
+# Ver 2017-11-30T19:41:28Z GaoYanuo Stat-Verif >igei értelemben duplázva használják. a kínaiban a duplázás(igéké) kb. a -gat-get-nek felel meg.\nForrás: HSK3 standard textbook
+塊 块 [kuai4] /darab/kupac (föld)/jüan (köznyelvi; egyéb valutát is jelölhet)/(számlálószó: szögletes dolgok, ruhák, szappan; pénz)/felkockáz; apróra darabol/
 
 # ID-l66Bi2z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -44198,7 +44211,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-o23Pi4m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-香蕉 香蕉 [xiang1 jiao1] /banán/SZ:枝[zhi1/
+# 香蕉 香蕉 [xiang1 jiao1] /banán/SZ:枝[zhi1/
+# Ver 2017-11-30T19:48:17Z GaoYanuo Stat-Verif >CC-CEDICT
+香蕉 香蕉 [xiang1 jiao1] /banán/SZ:枝[zhi1],根[gen1],個|个[ge4],把[ba3]/
 
 # ID-o23Vx6j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
