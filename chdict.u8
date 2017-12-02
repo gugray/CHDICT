@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-12-01T03:00:01Z
+# Datenstand: 2017-12-02T03:00:02Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -18762,6 +18762,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-21T19:52:32Z Adam Stat-Verif >Magyar helyesírási szótár (2017)
 執 执 [zhi2] /fog (kézben tart)/véghez visz/
 
+# ID-f98qU4g
+# Ver 2017-12-01T10:02:44Z gabor Stat-New >CEDICT; 吠 gyakori előfordulása korpuszban
+吠叫 吠叫 [fei4 jiao4] /ugat/
+
 # ID-f98yF6G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 哪 哪 [na3] /melyik/mi/ki/
@@ -24802,7 +24806,9 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 講 讲 [jiang3] /beszél/el|mond/magyaráz/hangsúlyoz/tárgyal/beszéd/előadás/
 # Ver 2017-11-30T20:09:20Z GaoYanuo Stat-Verif >https://dict.hjenglish.com/w/%E8%AE%B2\n
-講 讲 [jiang3] /beszél/el|mond; el|mesél/magyaráz/hangsúlyoz/tárgyal/beszéd/előadás/megvitat/
+# 講 讲 [jiang3] /beszél/el|mond; el|mesél/magyaráz/hangsúlyoz/tárgyal/beszéd/előadás/megvitat/
+# Ver 2017-12-01T10:11:01Z gabor Stat-Verif >elhat
+講 讲 [jiang3] /beszél/el|mond; el|mesél/magyaráz/hangsúlyoz/tárgyal/beszéd/előadás/meg|vitat/
 
 # ID-h95tP9T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -29815,6 +29821,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 成 成 [cheng2] /sikerül/be|fejez/teljesít/el|ér/válik (vmivé)/-va; -ve (elöljárószóként)/(családnév) Cheng/
 
+# ID-j56rF3V
+# Ver 2017-12-01T10:01:24Z gabor Stat-New >CEDICT; 蜀犬吠日 szócikk
+吠 吠 [fei4] /ugat/
+
 # ID-j56xa0n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 赤 赤 [chi4] /piros; vörös/csupasz; meztelen/
@@ -33375,7 +33385,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-k71Us2B
 # Ver 2017-11-30T14:16:24Z GaoYanuo Stat-New >https://baike.baidu.com/item/%E8%9C%80%E7%8A%AC%E5%90%A0%E6%97%A5
-蜀犬吠日 蜀犬吠日 [shu3 quan3 fei4 ri4] /Szecsuáni kutya ugatja a napot; bámul, mint borjú az új kapura (A szecsuáni éghajlat nagyon párás, ritkán látják a napot.)/
+# 蜀犬吠日 蜀犬吠日 [shu3 quan3 fei4 ri4] /Szecsuáni kutya ugatja a napot; bámul, mint borjú az új kapura (A szecsuáni éghajlat nagyon párás, ritkán látják a napot.)/
+# Ver 2017-12-01T09:54:34Z gabor Stat-New >.
+# 蜀犬吠日 蜀犬吠日 [shu3 quan3 fei4 ri4] /(kifejezés) szecsuáni kutya ugatja a napot; bámul, mint borjú az új kapura (a szecsuáni éghajlat nagyon párás, ritkán látni a napot)/
+# Ver 2017-12-01T09:54:37Z gabor Stat-Verif >.
+蜀犬吠日 蜀犬吠日 [shu3 quan3 fei4 ri4] /(kifejezés) szecsuáni kutya ugatja a napot; bámul, mint borjú az új kapura (a szecsuáni éghajlat nagyon párás, ritkán látni a napot)/
 
 # ID-k72aB8i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -35104,7 +35118,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-l25re6e
 # Ver 2017-11-30T20:20:37Z GaoYanuo Stat-New >http://www.dictall.com/dictall/result.jsp?keyword=polyurethane\nCC-CEDICT
-縮寫 缩写 [suo1 xie3] /rövidítés (írásban)/
+# 縮寫 缩写 [suo1 xie3] /rövidítés (írásban)/
+# Ver 2017-12-01T10:13:27Z gabor Stat-New >CEDICT, ABC, korpusz
+# 縮寫 缩写 [suo1 xie3] /rövidítés; betű|szó/monogram/rövidít (írásban)/
+# Ver 2017-12-01T10:13:30Z gabor Stat-Verif >.
+縮寫 缩写 [suo1 xie3] /rövidítés; betű|szó/monogram/rövidít (írásban)/
 
 # ID-l25uL3o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -36327,7 +36345,11 @@ U盤 U盘 [U pan2] /pendrive/
 # 塊 块 [kuai4] /darab/kupac (föld)/jüan (köznyelvi; egyéb valutát is jelölhet)/(számlálószó: szögletes dolgok, ruhák, szappan; pénz)/
 # Ver 2017-11-30T19:37:36Z GaoYanuo Stat-Verif >felkockáz; apróra darabol
 # Ver 2017-11-30T19:41:28Z GaoYanuo Stat-Verif >igei értelemben duplázva használják. a kínaiban a duplázás(igéké) kb. a -gat-get-nek felel meg.\nForrás: HSK3 standard textbook
-塊 块 [kuai4] /darab/kupac (föld)/jüan (köznyelvi; egyéb valutát is jelölhet)/(számlálószó: szögletes dolgok, ruhák, szappan; pénz)/felkockáz; apróra darabol/
+# 塊 块 [kuai4] /darab/kupac (föld)/jüan (köznyelvi; egyéb valutát is jelölhet)/(számlálószó: szögletes dolgok, ruhák, szappan; pénz)/felkockáz; apróra darabol/
+# Ver 2017-12-01T10:10:03Z gabor Stat-Verif >a 块块-nak utána kell még járni. kizárólag 一块块-ként látom, és azon belül is sokszor 成一块块-ként. egyetlen más szótárban sincs meg a 块 mint ige, hogy "darabol".
+# 塊 块 [kuai4] /darab/kupac (föld)/jüan (köznyelvi; egyéb valutát is jelölhet)/(számlálószó: szögletes dolgok, ruhák, szappan; pénz)/
+# Ver 2017-12-01T19:25:40Z gabor Stat-Verif >megkérdeztem az internetet: https://chinese.stackexchange.com/questions/27891/verbal-reading-of-%e5%9d%97\n\naz van, amire én is gondoltam. a 块块 a számlálószó reduplikációja. 一块块 lehet attributív (a főnév előtt álló) melléknévi módosító (minden darab, sok darab); állhat határozói értelemben (darabonként); és lehet igei eredménykiegészítő (darabokra). csak épp ige nem lehet szegény :(
+塊 块 [kuai4] /darab/kupac (föld)/jüan (köznyelvi; egyéb valutát is jelölhet)/(számlálószó: szögletes dolgok, ruhák, szappan; pénz)/
 
 # ID-l66Bi2z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -38393,6 +38415,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 了 了 [liao3] /be|fejez/el|ér (vmit)/világosan ért/
 
+# ID-m36ag5P
+# Ver 2017-12-01T09:52:47Z gabor Stat-New >http://languagelog.ldc.upenn.edu/nll/?p=35595\nhttp://zhhu.zydeo.net/?q=%E5%92%B8%E7%8C%AA%E6%89%8B\nCEDICT
+鹹豬手 咸猪手 [xian2 zhu1 shou3] /sós malac|csülök/perverz; tapizó; szexuális zaklató (átvétel a kantoni nyelvből)/
+
 # ID-m36bA1w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 鞋子 鞋子 [xie2 zi5] /cipő/
@@ -39544,6 +39570,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-m71ik5F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 印刷 印刷 [yin4 shua1] /nyomtatás/
+
+# ID-m71tG6k
+# Ver 2017-12-01T10:00:29Z gabor Stat-New >CHDICT; 蜀汉 jelentése
+蜀 蜀 [shu3] /(földrajzi név; rövidítés) Sichuan; Szecsuan/
 
 # ID-m71Jz8c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
