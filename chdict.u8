@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-12-02T03:00:02Z
+# Datenstand: 2017-12-04T03:00:02Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -157,7 +157,9 @@
 
 # ID-a03Nt5a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-經理 经理 [jing1 li3] /menedzser/igazgató/SZ:個|个[ge4],位[wei4],名[ming2]/
+# 經理 经理 [jing1 li3] /menedzser/igazgató/SZ:個|个[ge4],位[wei4],名[ming2]/
+# Ver 2017-12-03T23:42:11Z GaoYanuo Stat-Verif >Greatwall Chinese textbook 1
+經理 经理 [jing1 li3] /menedzser/igazgató/vezető (utótagként pl. 部门经理 - osztályvezető)/SZ:個|个[ge4],位[wei4],名[ming2]/
 
 # ID-a03WL9o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -1569,6 +1571,12 @@
 
 # ID-a46Mc6O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
+# 差 差 [cha1] /különbség (matematika)/
+# Ver 2017-12-03T23:06:03Z GaoYanuo Stat-Verif >所差的就是这一点 Ez az egy híja van\n差十分五 10 perc múlva öt.
+# 差 差 [cha1] /különbség (matematika)/híja van; híján van/múlva //
+# Ver 2017-12-03T23:09:32Z GaoYanuo Stat-Verif >A gond nem kicsi: ugyanez a hanzi "chāi" kiejtéssel küldetést, küldöncöt is jelent. \nHasonlóképp, mint a 了 "le-liǎo" párosnál. És még sok ilyen van... Ezeket hogyan oldjuk meg?
+# 差 差 [cha1] /különbség (matematika)/híja van; híján van/múlva/
+# Ver 2017-12-03T23:15:25Z GaoYanuo Stat-Verif >Bocs, beszoptam a pinyint. Most már leesett. Minden sztornó. A komment is.\nMegnéztem mind a két cha-t... Most már képben vagyok.
 差 差 [cha1] /különbség (matematika)/
 
 # ID-a46XK9n
@@ -7427,7 +7435,9 @@
 
 # ID-c39dP8k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-差 差 [cha4] /alacsonyabbrendű/hibás/téves/különbözik (vmennyivel)/kevesebb/
+# 差 差 [cha4] /alacsonyabbrendű/hibás/téves/különbözik (vmennyivel)/kevesebb/
+# Ver 2017-12-03T23:24:44Z GaoYanuo Stat-Verif >https://dict.hjenglish.com/w/%E5%B7%AE\n"所差的就是这一点。Valójában ez az egy híja van"\nGreatwall Chinese textbook1\n"差十分五点 Tíz perc múlva öt(óra)"
+差 差 [cha4] /alacsonyabbrendű/hibás/téves/különbözik (vmennyivel)/híja van; (pl. Csak ennyi híja van)/kevesebb/múlva (idő megadásakor pl. 10 perc múlva öt óra.)/
 
 # ID-c39fU5v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -8731,7 +8741,9 @@
 
 # ID-c78eW7p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-小朋友 小朋友 [xiao3 peng2 you3] /gyerek/SZ:個|个[ge4]/
+# 小朋友 小朋友 [xiao3 peng2 you3] /gyerek/SZ:個|个[ge4]/
+# Ver 2017-12-03T21:25:52Z GaoYanuo Stat-Verif >Greatwall CHinese -essential in communication tananyag sorozat, textbook 1\nA "Helló kiskrapek!"-től kicsit udvariasabb, de hangulatát tekintve kb. egyezik.
+小朋友 小朋友 [xiao3 peng2 you3] /gyerek/SZ:個|个[ge4]/gyerekek megszólítása (你好 小朋友!)/
 
 # ID-c78kc4y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -9912,6 +9924,10 @@
 # ID-d14vU0E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 當中 当中 [dang1 zhong1] /középen/között/
+
+# ID-d14wg1r
+# Ver 2017-12-04T00:11:43Z GaoYanuo Stat-New >Greatwall Chinese
+留學生 留学生 [liu2 xue2 sheng1] /vendégdiák; külföldi ösztöndíjas/cserediák/
 
 # ID-d14IU8n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -11611,6 +11627,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 莫 莫 [mo4] /ne (tiltószó)/senki; nincs, aki/(családnév) Mo/
 
+# ID-d68Kk7G
+# Ver 2017-12-04T00:08:36Z GaoYanuo Stat-New >Greatwall Chinese textbok 2\nref.: CC-EDICT
+古玩店 古玩店 [gu3 wan2 dian4] /régiségbolt/
+
 # ID-d68Oc3F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 押金 押金 [ya1 jin1] /letét/előleg/kaució/
@@ -11903,7 +11923,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-d80ad2N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-口 口 [kou3] /száj/nyílás/bejárat/lyuk/(számlálószó: falatnyi dolgok; emberek; háziállatok; kutak; ágyúk; egyéb nyílással rendelkező dolgok)/
+# 口 口 [kou3] /száj/nyílás/bejárat/lyuk/(számlálószó: falatnyi dolgok; emberek; háziállatok; kutak; ágyúk; egyéb nyílással rendelkező dolgok)/
+# Ver 2017-12-03T22:21:59Z GaoYanuo Stat-Verif >Bár a "számlálószó falatnyi dolgokra" korrekt, de ha a "korty" és "falat" szavakra keresnek rá, lemaradnak róla. Ezért tettem a címszavak közzé. Valójában tényleg számlálóként használják akkor is, mikor mi falatnak, kortynak fordítjuk a mondatot. (Értelemszerűen kaja előtt falat, pia előtt korty.)
+口 口 [kou3] /száj/nyílás/bejárat/lyuk/falat/korty/(számlálószó: falatnyi dolgok; emberek; háziállatok; kutak; ágyúk; egyéb nyílással rendelkező dolgok)/
 
 # ID-d80eo8P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -17241,6 +17263,12 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 租賃 租赁 [zu1 lin4] /bérel/
 
+# ID-f51iM9E
+# Ver 2017-12-03T21:18:30Z GaoYanuo Stat-New >én csak ezt a három jelentést tanultam, de a CC-CEDICT-ben  "neighborhood"-nak is van fordítva. Itt: "https://dict.hjenglish.com/w/%E5%B0%8F%E5%8C%BA" meg "village" -nek is. Mivel mind a kettő wiki szótár, eléggé fenntartással kezelem ezt a két jelentést. Ha lesz időm, még utánajárok.
+# 小區 小区 [xiao3 qu1] /városnegyed/kerület/lakótelep/
+# Ver 2017-12-03T21:19:59Z GaoYanuo Stat-Flagged >a kommentben jeleztem.
+小區 小区 [xiao3 qu1] /városnegyed/kerület/lakótelep/
+
 # ID-f51nr3Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 有意思 有意思 [you3 yi4 si5] /érdekes/élvezetes/szórakoztató/
@@ -18957,6 +18985,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-g04VY4X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 國旗 国旗 [guo2 qi2] /nemzeti zászló/nemzeti lobogó/SZ:面[mian4]/
+
+# ID-g05hl1X
+# Ver 2017-12-03T22:03:22Z GaoYanuo Stat-New >referencia: CC-CEDICT forrás: személyes kontaktus\nA "külföldi" értelemben is eléggé lesajnáló hangnemben használják.
+老外 老外 [lao3 wai4] /idegen/külföldi/kívülálló/amatőr/laikus/
 
 # ID-g05jx4N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -20794,7 +20826,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-g64CF1s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-飲料 饮料 [yin3 liao4] /ital/
+# 飲料 饮料 [yin3 liao4] /ital/
+# Ver 2017-12-03T22:24:46Z GaoYanuo Stat-Verif >A tanárom mondta, hogy a "酒 félék" (bor, sör, stb.) nem tartoznak ide.
+飲料 饮料 [yin3 liao4] /ital (szeszmentes)/
 
 # ID-g64Ie6k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -22326,7 +22360,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-h11Qf9n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-希望 希望 [xi1 wang4] /remény/SZ:個|个[ge4]/remény/vágyik (vmire)/
+# 希望 希望 [xi1 wang4] /remény/SZ:個|个[ge4]/remény/vágyik (vmire)/
+# Ver 2017-12-03T21:53:27Z GaoYanuo Stat-Verif >https://dict.hjenglish.com/w/%E5%B8%8C%E6%9C%9B "希望朋友们帮助"\nGreatwall Chinese textbook 1
+# 希望 希望 [xi1 wang4] /remél/SZ:個|个[ge4]/remény/vágyik (vmire)/óhajt/el|vár (vkitől vmit)/
+# Ver 2017-12-04T00:19:53Z GaoYanuo Stat-Verif >.
+希望 希望 [xi1 wang4] /remény/SZ:個|个[ge4]/remél/vágyik (vmire)/óhajt/el|vár (vkitől vmit)/
 
 # ID-h12mw6c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -25511,7 +25549,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-i16Vj2p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-姑娘 姑娘 [gu1 niang5] /lány/SZ:個|个[ge4]/
+# 姑娘 姑娘 [gu1 niang5] /lány/SZ:個|个[ge4]/
+# Ver 2017-12-03T22:36:23Z GaoYanuo Stat-Verif >Greatwall Chinese textbook1
+姑娘 姑娘 [gu1 niang5] /lány/SZ:個|个[ge4]/ifjú hölgy (udvarias megszólításként)/
 
 # ID-i16WS2E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -27656,6 +27696,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 教導 教导 [jiao4 dao3] /tanít/oktat/tanítás/
 
+# ID-i86Nx9t
+# Ver 2017-12-03T23:00:25Z GaoYanuo Stat-New >CC-CEDICT, https://dict.hjenglish.com/w/%E5%A4%A7%E5%A6%88\nGreatwall Chinese textbook 1
+大媽 大妈 [da4 ma1] /nagynéni (apa bátyjának felesége)/idős hölgyek tiszteletteljes megszólítása/
+
 # ID-i87bH6B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 毀 毁 [hui3] /meg|semmisít/tönkre|tesz/meg|rágalmaz/
@@ -28950,6 +28994,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-j28YA6H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 大腦死亡 大脑死亡 [da4 nao3 si3 wang2] /agy|halál/
+
+# ID-j29xD8y
+# Ver 2017-12-03T23:45:27Z GaoYanuo Stat-New >CC-CEDICT, Greatwall Chinese textbook 1
+回國 回国 [hui2 guo2] /visszatér a hazájába/
 
 # ID-j29FM9F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -31887,6 +31935,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 融解 融解 [rong2 jie3] /fel|olvad/
 
+# ID-k23cC3L
+# Ver 2017-12-03T22:38:12Z GaoYanuo Stat-New >.
+化工 化工 [hua4 gong1] /vegyipar/
+
 # ID-k23iF7j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 接收 接收 [jie1 shou1] /kap; el|fogad/fog (adást)/át|vesz (tulajdont)/ki|sajátít/
@@ -32681,7 +32733,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-k49bB6y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-差 差 [chai1] /küld/meg|bíz/
+# 差 差 [chai1] /küld/meg|bíz/
+# Ver 2017-12-03T23:17:50Z GaoYanuo Stat-Verif >CC-CEDICT
+# 差 差 [chai1] /küld/meg|bíz/küldönc/ki|küldetés/
+# Ver 2017-12-03T23:26:45Z GaoYanuo Stat-Verif >"ki-" sztornó, mert a kiküldetés az 出差.
+差 差 [chai1] /küld/meg|bíz/küldönc/küldetés/
 
 # ID-k49mz6w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -33247,7 +33303,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-k67iK2N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-勞駕 劳驾 [lao2 jia4] /elnézést/
+# 勞駕 劳驾 [lao2 jia4] /elnézést/
+# Ver 2017-12-03T22:16:20Z GaoYanuo Stat-Verif >A lényeg, hogy bocsánatkérésre nem használják (tudomásom szerint). Ha valakinek a lábára lépsz, nem kóser...\nreferencia: https://www.chineseboost.com/grammar/dui4buqi3-qing3wen4-ma2fan-ni3-lao2jia/
+勞駕 劳驾 [lao2 jia4] /elnézést (kérés előtt: Elnézést, megmondaná hány óra?)/
 
 # ID-k67wi5h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -34802,7 +34860,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-l16Xw9m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-家庭 家庭 [jia1 ting2] /család/háztartás/SZ:戶|户[hu4],個|个[ge4]/
+# 家庭 家庭 [jia1 ting2] /család/háztartás/SZ:戶|户[hu4],個|个[ge4]/
+# Ver 2017-12-03T22:29:59Z GaoYanuo Stat-Verif >A céges családi napot hívják 家庭日-nek a kollégák.\nhttps://dict.hjenglish.com/w/%E5%AE%B6%E5%BA%AD
+# 家庭 家庭 [jia1 ting2] /család/háztartás/SZ:戶|户[hu4],個|个[ge4]/(előtag) családi (pl. ~ nap, ~ körülmények)/
+# Ver 2017-12-03T22:31:02Z GaoYanuo Stat-Verif >https://dict.hjenglish.com/w/%E5%AE%B6%E5%BA%AD
+家庭 家庭 [jia1 ting2] /család/háztartás/SZ:戶|户[hu4],個|个[ge4]/családi (előtagként pl. ~ nap, ~ körülmények)/
 
 # ID-l17aL7F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -36349,6 +36411,7 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-12-01T10:10:03Z gabor Stat-Verif >a 块块-nak utána kell még járni. kizárólag 一块块-ként látom, és azon belül is sokszor 成一块块-ként. egyetlen más szótárban sincs meg a 块 mint ige, hogy "darabol".
 # 塊 块 [kuai4] /darab/kupac (föld)/jüan (köznyelvi; egyéb valutát is jelölhet)/(számlálószó: szögletes dolgok, ruhák, szappan; pénz)/
 # Ver 2017-12-01T19:25:40Z gabor Stat-Verif >megkérdeztem az internetet: https://chinese.stackexchange.com/questions/27891/verbal-reading-of-%e5%9d%97\n\naz van, amire én is gondoltam. a 块块 a számlálószó reduplikációja. 一块块 lehet attributív (a főnév előtt álló) melléknévi módosító (minden darab, sok darab); állhat határozói értelemben (darabonként); és lehet igei eredménykiegészítő (darabokra). csak épp ige nem lehet szegény :(
+# Ver 2017-12-04T00:36:57Z GaoYanuo Stat-Verif >Más úton ide jutottam én is próbáltam kereszt-szótárazni a "felkockáz", "feldarabol", "aprít", stb. igéket. Ételreceptben többször is megtaláltam, de ott is inkább melléknévi szerepben 块块的 alakban. Engem a 的 tévesztett meg. Attól, hogy a magyar "felkockázott" még melléknévi igenév és származtatható egy igéből, még nem következik, hogy a kínai megfelelője is igéből származik. Dehát ez a rohadék 的 annyira svájci bicska nekik, hogy komplett mellékmondatokat bezúznak vele jelzős szerkezetbe. \nPl. 刚才送饺子的邻居住在哪儿? Az a szomszéd, aki az imént a gombócot hozta, hol lakik? ("Az imént gombócot hozott szomszéd"  lenne a rondamagyar szolgai fordítás.) Szóval ez a köcsög "de" vitt az erdőbe:-)
 塊 块 [kuai4] /darab/kupac (föld)/jüan (köznyelvi; egyéb valutát is jelölhet)/(számlálószó: szögletes dolgok, ruhák, szappan; pénz)/
 
 # ID-l66Bi2z
@@ -37193,7 +37256,8 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-11-23T14:17:27Z luribert Stat-New >undo test
 # Ver 2017-11-23T22:04:12Z gabor Stat-New >Remélem, minden jól működik :)\nHa bármi problémát találsz az oldallal, hálás vagyok, ha itt jelented: https://github.com/gugray/ZydeoWeb/issues\nEz az online szótár-alkalmazásra vonatkozik; magukat a nyelvi problémákat itt, az oldalon belül kezeljük.
 # Ver 2017-11-23T22:04:46Z gabor Stat-Verif >Remélem, minden jól működik :)\nHa bármi problémát találsz az oldallal, hálás vagyok, ha itt jelented: https://github.com/gugray/ZydeoWeb/issues\nEz az online szótár-alkalmazásra vonatkozik; magukat a nyelvi problémákat itt, az oldalon belül kezeljük.\n\n((ismét jóváhagyva))
-喂 喂 [wei4] /halló (telefonban)/helló/hey/etet (állatot, csecsemőt stb.)/
+# Ver 2017-12-03T21:56:45Z GaoYanuo Stat-Verif >magyarban nincs "hey"
+喂 喂 [wei4] /halló (telefonban)/helló/hé!/etet (állatot, csecsemőt stb.)/
 
 # ID-l96ji9O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -37608,7 +37672,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-m10FI8Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-等 等 [deng3] /vár (vmit\vmire)/várakozik/meg|várva, hogy; amikor/egyenlő/fajta; osztály; típus; kategória/összesen; stb.; és így tovább (felsorolás végén)/
+# 等 等 [deng3] /vár (vmit\vmire)/várakozik/meg|várva, hogy; amikor/egyenlő/fajta; osztály; típus; kategória/összesen; stb.; és így tovább (felsorolás végén)/
+# Ver 2017-12-03T22:55:00Z GaoYanuo Stat-Verif >Pl. 等他到了就告诉我。Mihelyst megjön, egyből szólj nekem. \n(HSK3 Standard Course Textbook)
+等 等 [deng3] /meg|vár (vmit\vkit)/várakozik/mihelyst; amint/egyenlő/fajta; osztály; típus; kategória/összesen; stb.; és így tovább (felsorolás végén)/
 
 # ID-m11yI1l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -38004,6 +38070,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-m22ED2f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 排除 排除 [pai2 chu2] /el|távolít/ki|zár/ki|küszöböl/
+
+# ID-m22Fe4K
+# Ver 2017-12-03T21:05:07Z GaoYanuo Stat-New >forrás: tanár\nreferencia: http://www.learnmandarinchinese.com/words/xiong1di4jie3mei4/
+兄弟姐妹 兄弟姐妹 [xiong1 di4 jie3 mei4] /testvér/
 
 # ID-m22Gc5H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -39098,7 +39168,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-m56zu8B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-出差 出差 [chu1 chai1] /hivatalos útra megy/üzleti útra megy/
+# 出差 出差 [chu1 chai1] /hivatalos útra megy/üzleti útra megy/
+# Ver 2017-12-03T23:35:28Z GaoYanuo Stat-Verif >.
+# 出差 出差 [chu1 chai1] /hivatalos útra megy/üzleti útra megy/kiküldetésbe megy/
+# Ver 2017-12-03T23:38:11Z GaoYanuo Stat-Verif >https://dict.hjenglish.com/w/%E5%87%BA%E5%B7%AE
+出差 出差 [chu1 chai1] /hivatalos útra megy/üzleti útra megy/kiküldetés/
 
 # ID-m56Gs7j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -43547,7 +43621,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-o01mh8j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-巧 巧 [qiao3] /ügyes/okos/szerencsés; véletlen (pont megfelelő)/
+# 巧 巧 [qiao3] /ügyes/okos/szerencsés; véletlen (pont megfelelő)/
+# Ver 2017-12-03T23:57:21Z GaoYanuo Stat-Verif >Muszáj volt ilyen terjengősen pontosítani, mert a random-véletlent nem ez a szó fedi le. Ez csak a véletlen egybeesésre használják. Többnyire pozitív értelemben, de nem okvetlen szerencsés esetben. Teszem azt "Te a Nagy Októberi Szocialista Forradalom napján születtél? Micsoda véletlen!" (Hogy ki tekinti szerencsének, erősen változó...)
+巧 巧 [qiao3] /ügyes/képzett; gyakorlott (munkaerő)/okos/szerencsés; véletlen egybeesés (pont megfelelő pl. Pont jókor jössz. Micsoda véletlen!)//
 
 # ID-o01wa6I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -45530,6 +45606,8 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 國慶節 国庆节 [guo2 qing4 jie2] /Nemzeti Ünnep (a Kínai Népköztársaság 1949-es kikiáltásának évfordulója, október 1.)/
 # Ver 2017-05-27T19:50:14Z Adam Stat-Verif >nem kell nagy kezdőbetű
+# 國慶節 国庆节 [guo2 qing4 jie2] /nemzeti ünnep (a Kínai Népköztársaság 1949-es kikiáltásának évfordulója, október 1.)/
+# Ver 2017-12-04T00:06:11Z GaoYanuo Stat-Verif >Nem csak a Kínai Népköztársaság nemzeti ünnepe. A Mi okt. 23; márc 15. és aug 20-ánkat is annak nevezik.\nA zárójelest úgy javítanám, hogy "A Kínai Népköztársaságban a népköztársaság 1949-es kikiáltásának évfordulója, október 1." 
 國慶節 国庆节 [guo2 qing4 jie2] /nemzeti ünnep (a Kínai Népköztársaság 1949-es kikiáltásának évfordulója, október 1.)/
 
 # ID-o68PB5Q
