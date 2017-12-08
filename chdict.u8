@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-12-05T03:00:01Z
+# Datenstand: 2017-12-08T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -4781,6 +4781,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 雜貨店 杂货店 [za2 huo4 dian4] /élelmiszer|bolt/vegyes|bolt/
 
+# ID-b49cU0O
+# Ver 2017-12-07T21:35:22Z gabor Stat-New >ABC; korpusz
+電線走火 电线走火 [dian4 xian4 zou3 huo3] /rövid|zárlat/
+
 # ID-b49iC1F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 百姓 百姓 [bai3 xing4] /az utca embere/az összes létező családnév/
@@ -5256,6 +5260,10 @@
 # ID-b64CB1T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 玩笑 玩笑 [wan2 xiao4] /vicc/tréfa/viccel/
+
+# ID-b64CJ3Q
+# Ver 2017-12-07T21:29:55Z gabor Stat-New >CEDICT; korpusz
+短路 短路 [duan3 lu4] /rövid|zárlat/
 
 # ID-b64Di9G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -9964,6 +9972,10 @@
 # 牛逼 牛逼 [niu2 bi1] /(szleng) menő; kúl; fasza (eredeti jelentésében vulgáris, köznyelvi használatban pozitív jelző)/
 # Ver 2017-10-17T20:23:48Z gabor Stat-Verif >.
 牛逼 牛逼 [niu2 bi1] /(szleng) menő; kúl; fasza (eredeti jelentésében vulgáris, köznyelvi használatban pozitív jelző)/
+
+# ID-d15zq7V
+# Ver 2017-12-07T21:28:12Z gabor Stat-New >CEDICT; korpusz
+汽化器 汽化器 [qi4 hua4 qi4] /karburátor/
 
 # ID-d15Bl1A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -21388,6 +21400,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-g82Cm4B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 一時 一时 [yi1 shi2] /ideiglenes/pillanatnyi/rövid ideig/
+
+# ID-g83ii8t
+# Ver 2017-12-07T21:33:05Z gabor Stat-New >CEDICT, korpusz
+走火 走火 [zou3 huo3] /el|sül (fegyver, nem szándékosan)/ki|gyullad/
 
 # ID-g83jj6V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -41558,6 +41574,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-26T17:28:20Z Adam Stat-Verif >ige is lehet (Tuttle és ABC kínaiszótárának példamondatai nyomán)
 過期 过期 [guo4 qi1] /lejárt (túl van a szavatosságán, nem használható)/lejár (érvénytelenné válik)/túllépi a határidőt/
 
+# ID-n33sE7o
+# Ver 2017-12-07T21:34:48Z gabor Stat-New >ABC; korpusz
+走火入魔 走火入魔 [zou3 huo3 ru4 mo2] /(kifejezés) rögeszmés; megszállottja (vminek)/(kifejezés) meg|szállta az ördög/
+
 # ID-n33wg9e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 胃 胃 [wei4] /gyomor/SZ:個|个[ge4]/
@@ -47023,6 +47043,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-p11TE5T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 簽名 签名 [qian1 ming2] /alá|ír/szignál/alá|írás/
+
+# ID-p11Wm3g
+# Ver 2017-12-07T21:28:40Z gabor Stat-New >CEDICT; korpusz
+化油器 化油器 [hua4 you2 qi4] /karburátor/
 
 # ID-p11Yz1y
 # Ver 2017-05-25T14:55:41Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
