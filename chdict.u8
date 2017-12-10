@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-12-09T03:00:01Z
+# Datenstand: 2017-12-10T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -292,6 +292,10 @@
 
 # ID-a06UU7U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
+# 含量 含量 [han2 liang4] /tartalom/tartalmazott mennyiség/
+# Ver 2017-12-09T20:04:46Z GaoYanuo Stat-Verif >Hogy ne egy könyv, film, stb. tartalmára gondoljanak a keresők.
+# 含量 含量 [han2 liang4] /tartalom (valamilyen anyagé)/tartalmazott mennyiség/
+# Ver 2017-12-09T20:08:22Z GaoYanuo Stat-Verif >Visszacsináltam. Nem kapkodom el, inkább jobban utánaások.
 含量 含量 [han2 liang4] /tartalom/tartalmazott mennyiség/
 
 # ID-a06Yl4h
@@ -3096,6 +3100,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 刊登 刊登 [kan1 deng1] /le|hoz; közzé|tesz (újságban)/
 
+# ID-a93Ri8x
+# Ver 2017-12-09T22:12:56Z gabor Stat-New >CEDICT, korpusz
+低語 低语 [di1 yu3] /suttog/
+
 # ID-a94fi4j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 膽大 胆大 [dan3 da4] /merész/
@@ -4635,7 +4643,9 @@
 
 # ID-b43MS9q
 # Ver 2017-12-08T21:23:18Z GaoYanuo Stat-New >.
-甲醇 甲醇 [jia3 chun2] /faszesz/metilalkohol/metanol/
+# 甲醇 甲醇 [jia3 chun2] /faszesz/metilalkohol/metanol/
+# Ver 2017-12-09T19:37:34Z GaoYanuo Stat-New >.
+甲醇 甲醇 [jia3 chun2] /faszesz; metilalkohol; metanol/
 
 # ID-b43Nc9j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -4887,7 +4897,9 @@
 
 # ID-b52ef4t
 # Ver 2017-12-08T21:24:40Z GaoYanuo Stat-New >.
-苛性鈉 苛性钠 [ke1 xing4 na4] /nátronlúg/nátrium-hidroxid/marólúg/
+# 苛性鈉 苛性钠 [ke1 xing4 na4] /nátronlúg/nátrium-hidroxid/marólúg/
+# Ver 2017-12-09T19:38:24Z GaoYanuo Stat-New >.
+苛性鈉 苛性钠 [ke1 xing4 na4] /nátronlúg; nátrium-hidroxid; marólúg/
 
 # ID-b52zn5q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -6473,6 +6485,10 @@
 # ID-c02FR2z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 相乘 相乘 [xiang1 cheng2] /szoroz/szorzás/
+
+# ID-c02NB8P
+# Ver 2017-12-09T20:56:07Z gabor Stat-New >ABC
+以誠相待 以诚相待 [yi3 cheng2 xiang1 dai4] /teljesen őszinte (vkivel)/
 
 # ID-c02SF1I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -10947,6 +10963,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 天性 天性 [tian1 xing4] /természet/természetes ösztön/veleszületett hajlam/
 
+# ID-d44SU2E
+# Ver 2017-12-09T19:53:57Z GaoYanuo Stat-New >.
+沸點 沸点 [fei4 dian3] /forráspont/
+
 # ID-d44Tw5Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 大規模 大规模 [da4 gui1 mo2] /nagyszabású/kiterjedt/
@@ -13499,6 +13519,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-e26oi6c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 霍 霍 [huo4] /hirtelen/(családnév) Huo/
+
+# ID-e26BC0R
+# Ver 2017-12-09T21:03:30Z gabor Stat-New >korpusz, CEDICT
+瘋婆子 疯婆子 [feng1 po2 zi3] /(derogatív) őrült tyúk (nőre)/
 
 # ID-e26HG4o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -16645,6 +16669,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-f27Fq7l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 懇求 恳求 [ken3 qiu2] /könyörög/kér/esdekel/
+
+# ID-f27Tw0C
+# Ver 2017-12-09T21:42:33Z gabor Stat-New >ABC, CEDICT, korpusz
+牛油果 牛油果 [niu2 you2 guo3] /avokádó/
 
 # ID-f27Zb6q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -22967,6 +22995,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 團聚 团聚 [tuan2 ju4] /találkozik/újra találkozik/újra|egyesít/
 
+# ID-h26Rh6n
+# Ver 2017-12-09T21:37:46Z gabor Stat-New >ABC, CEDICT, korpusz
+搖籃 摇篮 [yao2 lan2] /bölcső/
+
 # ID-h26VR3A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 亞軍 亚军 [ya4 jun1] /második helyezett/ezüst|érmes/
@@ -24855,6 +24887,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-h90ge4j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 視線 视线 [shi4 xian4] /rá|látás; látó|mező (szó szerint: a látás egyenes vonala)/
+
+# ID-h90tK1n
+# Ver 2017-12-09T21:19:55Z gabor Stat-New >ABC, korpusz
+造紙廠 造纸厂 [zao4 zhi3 chang3] /papír|gyár/
 
 # ID-h90Rf5W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -27542,6 +27578,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-i72TL7q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 牙膏 牙膏 [ya2 gao1] /fog|krém/
+
+# ID-i72Wl4t
+# Ver 2017-12-09T15:54:59Z gabor Stat-New >CEDICT, korpusz
+漏油 漏油 [lou4 you2] /olaj|szivárgás/fúj! (a hajrá! ellentéte)/
 
 # ID-i72YJ5b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -34990,6 +35030,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 機組 机组 [ji1 zu3] /személyzet (repülőn)/egység (gép, berendezés része)/
 
+# ID-l12lr3h
+# Ver 2017-12-09T23:02:08Z gabor Stat-New >CEDICT
+排水溝 排水沟 [pai2 shui3 gou1] /csatorna; lefolyó; víz|elvezető/
+
 # ID-l12xT8D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 炊煙 炊烟 [chui1 yan1] /füst (konyhai kéményből felszálló)/foglalt ház/
@@ -36953,6 +36997,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-l75Dm4W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 最新 最新 [zui4 xin1] /aktuális/leg|újabb/
+
+# ID-l75Jg9r
+# Ver 2017-12-09T20:55:28Z gabor Stat-New >CEDICT
+坦誠相待 坦诚相待 [tan3 cheng2 xiang1 dai4] /őszinte (vkivel)/teljesen meg|bíznak egymásban/
 
 # ID-l75Vc2V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
