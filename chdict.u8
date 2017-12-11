@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-12-10T03:00:01Z
+# Datenstand: 2017-12-11T03:00:02Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -1759,6 +1759,10 @@
 # ID-a51pw8V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 郎 郎 [lang2] /fiatal|ember/miniszter; hivatalnok/(funkciót\státuszt jelölő főnévi előtag)/(családnév) Lang/
+
+# ID-a51tr0p
+# Ver 2017-12-10T17:30:06Z gabor Stat-New >CEDICT, korpusz
+貴重物品 贵重物品 [gui4 zhong4 wu4 pin3] /érték|tárgy/
 
 # ID-a51EZ3L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
