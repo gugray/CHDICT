@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-12-11T03:00:02Z
+# Datenstand: 2017-12-12T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -180,7 +180,9 @@
 
 # ID-a04ez3q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-透露 透露 [tou4 lu4] /fel|fed/közzé|tesz/
+# 透露 透露 [tou4 lu4] /fel|fed/közzé|tesz/
+# Ver 2017-12-11T20:53:45Z gabor Stat-Verif >露 = harmat, a szivárgás indokolt.
+透露 透露 [tou4 lu4] /fel|fed/közzé|tesz/ki|szivárogtat/
 
 # ID-a04fq1k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -2432,6 +2434,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 辦 办 [ban4] /csinál/intéz/kezel/
 
+# ID-a73mL7h
+# Ver 2017-12-11T21:06:06Z gabor Stat-New >korpusz; internet
+低音號 低音号 [di1 yin1 hao4] /tuba/
+
 # ID-a73qZ3C
 # Ver 2017-05-21T22:32:18Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
 # 巴拉頓湖 巴拉顿湖 [ba1 la1 dun4 hu2] /(átirat) Balaton/
@@ -2899,6 +2905,10 @@
 # ID-a87KC9f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 記載 记载 [ji4 zai3] /le|ír; le|jegyez; fel|jegyez/írásba foglal/
+
+# ID-a87ZD8k
+# Ver 2017-12-11T17:15:01Z gabor Stat-New >ABC; korpusz
+製片廠 制片厂 [zhi4 pian4 chang3] /film|gyár; film|stúdió/
 
 # ID-a88kW0K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -4730,6 +4740,10 @@
 # ID-b45Df7r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 過度 过度 [guo4 du4] /túlzott/túlzó/mértéktelen/többlet/
+
+# ID-b46ds2n
+# Ver 2017-12-11T20:09:22Z gabor Stat-New >CEDICT, ABC
+射線 射线 [she4 xian4] /sugár (fizika, pl. gamma-sugarak)/
 
 # ID-b46Bl1q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -9519,6 +9533,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 無能 无能 [wu2 neng2] /alkalmatlan/képtelen/hozzá nem értés/
 
+# ID-c97Pp8o
+# Ver 2017-12-11T17:14:05Z gabor Stat-New >CEDICT, korpusz
+製片人 制片人 [zhi4 pian4 ren2] /producer; filmes/
+
 # ID-c97Ti9g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 走漏 走漏 [zou3 lou4] /ki|szivárogtat/ki|beszél (elárul)/közzé|tesz/
@@ -12942,6 +12960,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 范 范 [fan4] /(családnév) Fan/
 
+# ID-e08kB2E
+# Ver 2017-12-11T15:17:35Z gabor Stat-New >CEDICT
+輕量級 轻量级 [qing1 liang4 ji2] /könnyű|súlyú/
+
 # ID-e08mU7u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 累 累 [lei4] /fáradt/meg|erőltet/keményen dolgozik/
@@ -15961,6 +15983,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-f04yr2r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 保姆 保姆 [bao3 mu3] /dajka/házvezető|nő/
+
+# ID-f04Ae5l
+# Ver 2017-12-11T22:07:47Z gabor Stat-New >ABC, CEDICT, internet
+熱力學 热力学 [re4 li4 xue2] /termodinamika/
 
 # ID-f04Ek0P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -19477,6 +19503,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-11-24T18:54:44Z gabor Stat-Verif >.
 二維碼 二维码 [er4 wei2 ma3] /QR-kód/
 
+# ID-g13zR2A
+# Ver 2017-12-11T21:07:48Z gabor Stat-New >CEDICT, korpusz, ABC
+大號 大号 [da4 hao4] /nagy méret (ruha, cipő stb.)/tuba/
+
 # ID-g13Aj2c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 操 操 [cao1] /meg|fog/működtet; tesz/gyakorlat/viselkedés/beszél (nyelvet vagy nyelvjárást)/
@@ -21199,7 +21229,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-g71ve5H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-紀錄 纪录 [ji4 lu4] /jegyzetel/fel|jegyez/jegyzetek/
+# 紀錄 纪录 [ji4 lu4] /jegyzetel/fel|jegyez/jegyzetek/
+# Ver 2017-12-11T19:32:23Z gabor Stat-Verif >CEDICT; korpusz; 世界纪录
+紀錄 纪录 [ji4 lu4] /jegyzetel/fel|jegyez/jegyzetek/rekord/
 
 # ID-g71Aq4A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -25200,6 +25232,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 賣 卖 [mai4] /el|ad/el|árul/nem kímél/kérkedik (vmivel)/
 
+# ID-h98PF3Y
+# Ver 2017-12-11T20:07:01Z gabor Stat-New >korpusz
+位高權重 位高权重 [wei4 gao1 quan2 zhong4] /(kifejezés) nagy|hatalmú; befolyásos/
+
 # ID-h98XI6p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 摔交 摔交 [shuai1 jiao1] /birkózik/el|esik/
@@ -26337,6 +26373,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-i34Yr5Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 永恆 永恒 [yong3 heng2] /örök/örökké|való/időtlen/
+
+# ID-i35gh5k
+# Ver 2017-12-11T19:57:03Z gabor Stat-New >Wikipedia
+搭橋手術 搭桥手术 [da1 qiao2 shou3 shu4] /bypass műtét/
 
 # ID-i35hv3V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -28372,6 +28412,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 凶 凶 [xiong1] /szörnyű/félelmetes/rettenetes/baljós/éhínség/
 
+# ID-j00JS3F
+# Ver 2017-12-11T20:25:37Z gabor Stat-New >korpusz
+提琴手 提琴手 [ti2 qin2 shou3] /hegedűs (zenész)/
+
 # ID-j00QN4f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 埋伏 埋伏 [mai2 fu2] /lesben áll/lesből meg|támad/
@@ -28810,6 +28854,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-j15xp2Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 高中生 高中生 [gao1 zhong1 sheng1] /közép|iskolás (diák)/
+
+# ID-j15yc7L
+# Ver 2017-12-11T21:09:48Z gabor Stat-New >ABC, korpusz
+婚外情 婚外情 [hun1 wai4 qing2] /házasság|törés; házasságon kívüli viszony/
 
 # ID-j15DL7t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -29619,6 +29667,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 兜 兜 [dou1] /zseb/táska/be|csomagol/
 
+# ID-j40Yn8c
+# Ver 2017-12-11T21:50:28Z gabor Stat-New >ABC; korpusz
+搬運 搬运 [ban1 yun4] /szállít; hord; cipel/
+
 # ID-j41ls4J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 道理 道理 [dao4 li5] /ok/ráció/elv/igazság/SZ:個|个[ge4]/
@@ -29724,6 +29776,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-j44Pn3V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 代 代 [dai4] /helyettesít/nevében (cselekszik vkinek)/generáció/dinasztia/korszak/kor/
+
+# ID-j44Po7k
+# Ver 2017-12-11T15:58:21Z gabor Stat-New >CEDICT, korpusz
+國庫 国库 [guo2 ku4] /állam|kincstár/
 
 # ID-j44PC5I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -33387,6 +33443,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 秋天 秋天 [qiu1 tian1] /ősz (évszak)/
 
+# ID-k60hO0H
+# Ver 2017-12-11T15:25:43Z gabor Stat-New >ABC, CEDICT
+田雞 田鸡 [tian2 ji1] /béka/
+
 # ID-k60xa0X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 跌 跌 [die1] /ejt/esik/
@@ -33466,6 +33526,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-k62ud7h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 亂 乱 [luan4] /rendetlen/zavarodott/rendetlenség/káosz/össze|kever/meg|gondolatlanul/
+
+# ID-k62yZ8m
+# Ver 2017-12-11T15:21:35Z gabor Stat-New >ABC, CEDICT, korpusz
+吵鬧 吵闹 [chao3 nao4] /zajong; hangoskodik; lármát csap/
 
 # ID-k62Ta5p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -36049,6 +36113,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-l45ct8U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 飛行 飞行 [fei1 xing2] /repül/repülés/
+
+# ID-l45cO2h
+# Ver 2017-12-11T20:00:05Z gabor Stat-New >MOEDICT
+搭橋 搭桥 [da1 qiao2] /hidat ver/át|hidal/
 
 # ID-l45kn8P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -39446,6 +39514,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 某個 某个 [mou3 ge4] /egy bizonyos/
 
+# ID-m54mT2n
+# Ver 2017-12-11T19:39:59Z gabor Stat-New >CEDICT, korpusz
+活化石 活化石 [huo2 hua4 shi2] /élő kövület (máig élő, evolúciósan régi faj, pl. ginkó, mezei zsurló)/
+
 # ID-m54ts9B
 # Ver 2017-09-04T08:56:37Z gabor Stat-New >精神科医生 része; ABC
 精神科 精神科 [jing1 shen2 ke1] /pszichiátria/
@@ -41798,6 +41870,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-n31Ff0v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 鮮艷 鲜艳 [xian1 yan4] /élénk; színes/színpompás/
+
+# ID-n31Th6a
+# Ver 2017-12-11T15:56:35Z gabor Stat-New >CEDICT, korpusz
+財政部 财政部 [cai2 zheng4 bu4] /pénzügy|minisztérium/állam|kincstár/
 
 # ID-n31Wf5h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -44792,6 +44868,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 家務 家务 [jia1 wu4] /házi|munka/
 
+# ID-o27QG7e
+# Ver 2017-12-11T21:42:39Z gabor Stat-New >korpusz, internet
+即時貼 即时贴 [ji2 shi2 tie1] /post-it (öntapadós kisméretű jegyzetlap)/
+
 # ID-o28CV6j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 長期 长期 [chang2 qi1] /hosszú|távú (időben)/
@@ -44929,6 +45009,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-o31Uq0U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 了不起 了不起 [liao3 bu5 qi3] /nagyszerű/csodálatos/elképesztő/
+
+# ID-o31VG3W
+# Ver 2017-12-11T19:44:27Z gabor Stat-New >korpusz
+一身冷汗 一身冷汗 [yi1 shen1 leng3 han4] /ki|veri a verejték; izzadságban fürdik/
 
 # ID-o31WA6x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -47028,6 +47112,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-p02iR7q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 吸食 吸食 [xi1 shi2] /szív (kábítószert)/
+
+# ID-p02mB6I
+# Ver 2017-12-11T19:03:50Z gabor Stat-New >CEDICT
+吉利 吉利 [ji2 li4] /szerencsés; kecsegtető; kedvező/
 
 # ID-p02oT1w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
