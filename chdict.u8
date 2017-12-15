@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-12-14T03:00:01Z
+# Datenstand: 2017-12-15T03:00:02Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -1225,6 +1225,8 @@
 
 # ID-a30Ae8t
 # Ver 2017-12-08T21:33:02Z GaoYanuo Stat-New >.
+# 化合物 化合物 [hua4 he2 wu4] /vegyület/
+# Ver 2017-12-14T10:07:28Z gabor Stat-Verif >.
 化合物 化合物 [hua4 he2 wu4] /vegyület/
 
 # ID-a30AF6n
@@ -4842,6 +4844,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 態度 态度 [tai4 du5] /hozzá|állás/attitűd/SZ:個|个[ge4]/
 
+# ID-b21Dj9J
+# Ver 2017-12-14T20:53:12Z GaoYanuo Stat-New >CC-CEDICT
+斤 斤 [jin1] /0.5 kilogramm ( Hagyományos kínai súlymérték. Taiwanon 0,6 kg)/
+
 # ID-b21DR4U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 迪 迪 [di2] /fel|világosít/irányít/vezet/
@@ -4853,6 +4859,12 @@
 # ID-b21SB5I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 壯烈 壮烈 [zhuang4 lie4] /hősies/bátor/
+
+# ID-b21Tq5n
+# Ver 2017-12-14T20:34:46Z GaoYanuo Stat-New >CC-CEDICT\nBevallom, ez nem saját gyűjtés, a CC-CEDICT-ből nyúltam, de nem tudtam ellenállni.:-)
+# 頭髮鬍子一把抓 头发胡子一把抓 [tou2 fa5 hu2 zi5 yi1 ba3 zhua1] /(szólás) több legyet egy csapásra; egy tettel több dolgot elintézni/
+# Ver 2017-12-14T20:35:51Z GaoYanuo Stat-New >címke javítás
+頭髮鬍子一把抓 头发胡子一把抓 [tou2 fa5 hu2 zi5 yi1 ba3 zhua1] /(kifejezés) több legyet egy csapásra; egy tettel több dolgot elintézni/
 
 # ID-b22ad7M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -5584,7 +5596,11 @@
 # Ver 2017-12-08T21:23:18Z GaoYanuo Stat-New >.
 # 甲醇 甲醇 [jia3 chun2] /faszesz/metilalkohol/metanol/
 # Ver 2017-12-09T19:37:34Z GaoYanuo Stat-New >.
-甲醇 甲醇 [jia3 chun2] /faszesz; metilalkohol; metanol/
+# 甲醇 甲醇 [jia3 chun2] /faszesz; metilalkohol; metanol/
+# Ver 2017-12-14T10:07:00Z gabor Stat-New >elhat
+# 甲醇 甲醇 [jia3 chun2] /fa|szesz; metil|alkohol; metanol/
+# Ver 2017-12-14T10:07:02Z gabor Stat-Verif >.
+甲醇 甲醇 [jia3 chun2] /fa|szesz; metil|alkohol; metanol/
 
 # ID-b43Nc9j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -5898,7 +5914,11 @@
 # Ver 2017-12-08T21:24:40Z GaoYanuo Stat-New >.
 # 苛性鈉 苛性钠 [ke1 xing4 na4] /nátronlúg/nátrium-hidroxid/marólúg/
 # Ver 2017-12-09T19:38:24Z GaoYanuo Stat-New >.
-苛性鈉 苛性钠 [ke1 xing4 na4] /nátronlúg; nátrium-hidroxid; marólúg/
+# 苛性鈉 苛性钠 [ke1 xing4 na4] /nátronlúg; nátrium-hidroxid; marólúg/
+# Ver 2017-12-14T10:06:33Z gabor Stat-New >elhat
+# 苛性鈉 苛性钠 [ke1 xing4 na4] /nátron|lúg; nátrium-hidroxid; maró|lúg/
+# Ver 2017-12-14T10:06:37Z gabor Stat-Verif >.
+苛性鈉 苛性钠 [ke1 xing4 na4] /nátron|lúg; nátrium-hidroxid; maró|lúg/
 
 # ID-b52zn5q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -8645,6 +8665,10 @@
 # Ver 2017-05-23T14:40:04Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
 比羅拉斯洛 比罗拉斯洛 [bi3 luo2 la1 si1 luo4] /(átirat) Bíró László (a golyóstoll feltalálója)/
 
+# ID-c27lf2a
+# Ver 2017-12-14T20:13:41Z GaoYanuo Stat-New >CC-CEDICT
+弟媳 弟媳 [di4 xi2] /sógornő (öcs felesége)/
+
 # ID-c27lV1l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 長官 长官 [zhang3 guan1] /vezető/parancsnok/SZ:位[wei4]/
@@ -10010,6 +10034,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 伸出 伸出 [shen1 chu1] /ki|nyújt/
 
+# ID-c61Xn9c
+# Ver 2017-12-14T21:01:51Z GaoYanuo Stat-New >CC-CEDICT
+小麵包 小面包 [xiao3 mian4 bao1] /zsemle/cipó/apró péksütemény/
+
 # ID-c62ax6s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 蠻 蛮 [man2] /barbár; vad/nagyon/(kínai déli kisebbségeinek történelmi megnevezése)/
@@ -10948,6 +10976,8 @@
 
 # ID-c86nd8q
 # Ver 2017-12-08T21:34:04Z GaoYanuo Stat-New >.
+# 混合物 混合物 [hun4 he2 wu4] /keverék/elegy/
+# Ver 2017-12-14T10:07:22Z gabor Stat-Verif >.
 混合物 混合物 [hun4 he2 wu4] /keverék/elegy/
 
 # ID-c86ym0i
@@ -12440,6 +12470,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 時常 时常 [shi2 chang2] /gyakran/
 
+# ID-d23dz2u
+# Ver 2017-12-14T20:42:30Z GaoYanuo Stat-New >CC-CEDICT
+婦女節 妇女节 [fu4 nü3 jie2] /Nemzetközi nőnap (március 8.)/
+
 # ID-d23iM2O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 扳機 扳机 [ban1 ji1] /ravasz (fegyveren)/
@@ -13268,6 +13302,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-d44SU2E
 # Ver 2017-12-09T19:53:57Z GaoYanuo Stat-New >.
+# 沸點 沸点 [fei4 dian3] /forráspont/
+# Ver 2017-12-14T10:06:10Z gabor Stat-Verif >.
 沸點 沸点 [fei4 dian3] /forráspont/
 
 # ID-d44SU3W
@@ -13376,6 +13412,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-d47yK6c
 # Ver 2017-12-08T21:35:21Z GaoYanuo Stat-New >.
+# 結構式 结构式 [jie2 gou4 shi4] /szerkezeti képlet (kémia)/
+# Ver 2017-12-14T10:07:10Z gabor Stat-Verif >.
 結構式 结构式 [jie2 gou4 shi4] /szerkezeti képlet (kémia)/
 
 # ID-d47Lc1y
@@ -19283,6 +19321,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 輪盤 轮盘 [lun2 pan2] /rulett/
 
+# ID-f05yB8L
+# Ver 2017-12-14T20:11:07Z GaoYanuo Stat-New >CC-CEDICT
+姐夫 姐夫 [jie3 fu5] /sógor (nővér férje)/
+
 # ID-f05LH1M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 底線 底线 [di3 xian4] /alá|húz/alap|vonal/minimum/a lényeg/
@@ -22594,7 +22636,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-f90Bt5R
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
-酒精中毒 酒精中毒 [jiu3 jing1 zhong4 du2] /alkohol|mérgezés/
+# 酒精中毒 酒精中毒 [jiu3 jing1 zhong4 du2] /alkohol|mérgezés/
+# Ver 2017-12-14T10:03:42Z gabor Stat-Verif >CEDICT szerkesztők
+酒精中毒 酒精中毒 [jiu3 jing1 zhong4 du2] /alkohol|mérgezés/alkoholizms/
 
 # ID-f90Ep6U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -28182,7 +28226,8 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-12-12T22:19:03Z gabor Stat-New >elhat
 # 無名指 无名指 [wu2 ming2 zhi3] /gyűrűs|ujj/
 # Ver 2017-12-12T22:19:05Z gabor Stat-Verif >.
-無名指 无名指 [wu2 ming2 zhi3] /gyűrűs|ujj/
+# Ver 2017-12-14T20:22:20Z GaoYanuo Stat-Verif >Bocs, de nem bírtam kihagyni:-)
+無名指 无名指 [wu2 ming2 zhi3] /gyűrűs|ujj (szó szerint "nevenincs" ujj)/
 
 # ID-h39IQ5z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -30457,6 +30502,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 重心 重心 [zhong4 xin1] /közép|pont; mag; lényeg/tömeg|középpont/
 
+# ID-h98Ia2R
+# Ver 2017-12-14T20:16:24Z GaoYanuo Stat-New >CC-CEDICT
+妹夫 妹夫 [mei4 fu5] /sógor (húg férje)/
+
 # ID-h98Jy9e
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 神經元 神经元 [shen2 jing1 yuan2] /neuron/
@@ -30907,6 +30956,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-i09TH8S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 奇特 奇特 [qi2 te4] /különös/szokatlan/egyedi/
+
+# ID-i09Vf4b
+# Ver 2017-12-14T20:25:17Z GaoYanuo Stat-New >CC-CEDICT
+腳掌 脚掌 [jiao3 zhang3] /talp (lábé)/
 
 # ID-i09XX2q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -33118,7 +33171,9 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 壓力 压力 [ya1 li4] /nyomás/
 # Ver 2017-12-08T21:26:49Z GaoYanuo Stat-Verif >.
-壓力 压力 [ya1 li4] /nyomás (lelki, fizikai és technikai értelemben egyaránt) /
+# 壓力 压力 [ya1 li4] /nyomás (lelki, fizikai és technikai értelemben egyaránt) /
+# Ver 2017-12-14T10:08:21Z gabor Stat-Verif >átfog
+壓力 压力 [ya1 li4] /nyomás (fizikai és átvitt is) /
 
 # ID-i68qm2C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -37788,6 +37843,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-j92ds1f
 # Ver 2017-12-08T21:28:11Z GaoYanuo Stat-New >.
+# 溶劑 溶剂 [rong2 ji4] /oldószer/
+# Ver 2017-12-14T10:07:59Z gabor Stat-Verif >.
 溶劑 溶剂 [rong2 ji4] /oldószer/
 
 # ID-j92kM8S
@@ -38300,6 +38357,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-k04dz9u
 # Ver 2017-12-08T21:30:32Z GaoYanuo Stat-New >.
+# 一氧化碳 一氧化碳 [yi1 yang3 hua4 tan4] /szén-monoxid; CO/
+# Ver 2017-12-14T10:07:45Z gabor Stat-Verif >.
 一氧化碳 一氧化碳 [yi1 yang3 hua4 tan4] /szén-monoxid; CO/
 
 # ID-k04eC1U
@@ -38759,6 +38818,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-k16uK8V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 以至於 以至于 [yi3 zhi4 yu2] /oly mértékben, hogy/
+
+# ID-k16uW8T
+# Ver 2017-12-14T20:57:05Z GaoYanuo Stat-New >CC-CEDICT\nhttp://dictionary.reverso.net/chinese-english/%E6%96%A4
+斤斤計較 斤斤计较 [jin1 jin1 ji4 jiao4] /(kifejezés) A kákán is csomót keres. (akadékoskodik)/
 
 # ID-k16yO7w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -45878,6 +45941,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-m03pq3e
 # Ver 2017-12-08T21:31:23Z GaoYanuo Stat-New >.
+# 化學品 化学品 [hua4 xue2 pin3] /vegyszer/
+# Ver 2017-12-14T10:07:32Z gabor Stat-Verif >.
 化學品 化学品 [hua4 xue2 pin3] /vegyszer/
 
 # ID-m03Ss4G
@@ -49417,6 +49482,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-m92dI8m
 # Ver 2017-12-08T21:22:06Z GaoYanuo Stat-New >.
+# 副產品 副产品 [fu4 chan3 pin3] /melléktermék/
+# Ver 2017-12-14T10:08:39Z gabor Stat-Verif >.
 副產品 副产品 [fu4 chan3 pin3] /melléktermék/
 
 # ID-m92fy4w
@@ -53891,6 +53958,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 監視器 监视器 [jian1 shi4 qi4] /biztonsági kamera/tér|figyelő kamera/
 
+# ID-o12rq2y
+# Ver 2017-12-14T20:19:31Z GaoYanuo Stat-New >CC-CEDICT
+手背 手背 [shou3 bei4] /kézfej/
+
 # ID-o12ES7U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 癮 瘾 [yin3] /függőség/
@@ -56910,6 +56981,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-o93hq6x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 灰色 灰色 [hui1 se4] /szürke/pesszimista; ború|látó; komor/homályos; nem egy|értelmű/
+
+# ID-o93ik7R
+# Ver 2017-12-14T20:26:28Z GaoYanuo Stat-New >CC-CEDICT
+腳跟 脚跟 [jiao3 gen1] /sarok (lábé)/
 
 # ID-o93ln5v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
