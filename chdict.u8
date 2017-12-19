@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-12-15T03:00:02Z
+# Datenstand: 2017-12-19T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -4846,7 +4846,11 @@
 
 # ID-b21Dj9J
 # Ver 2017-12-14T20:53:12Z GaoYanuo Stat-New >CC-CEDICT
-斤 斤 [jin1] /0.5 kilogramm ( Hagyományos kínai súlymérték. Taiwanon 0,6 kg)/
+# 斤 斤 [jin1] /0.5 kilogramm ( Hagyományos kínai súlymérték. Taiwanon 0,6 kg)/
+# Ver 2017-12-18T20:09:04Z gabor Stat-New >https://en.wikipedia.org/wiki/Catty
+# 斤 斤 [jin1] /jin (hagyományos kínai súlymérték, elsősorban élelmiszer mérésére; napjainkban a szárazföli Kínában 0,5 kg, másutt 0,6 kg)/
+# Ver 2017-12-18T20:09:07Z gabor Stat-Verif >.
+斤 斤 [jin1] /jin (hagyományos kínai súlymérték, elsősorban élelmiszer mérésére; napjainkban a szárazföli Kínában 0,5 kg, másutt 0,6 kg)/
 
 # ID-b21DR4U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -4864,7 +4868,11 @@
 # Ver 2017-12-14T20:34:46Z GaoYanuo Stat-New >CC-CEDICT\nBevallom, ez nem saját gyűjtés, a CC-CEDICT-ből nyúltam, de nem tudtam ellenállni.:-)
 # 頭髮鬍子一把抓 头发胡子一把抓 [tou2 fa5 hu2 zi5 yi1 ba3 zhua1] /(szólás) több legyet egy csapásra; egy tettel több dolgot elintézni/
 # Ver 2017-12-14T20:35:51Z GaoYanuo Stat-New >címke javítás
-頭髮鬍子一把抓 头发胡子一把抓 [tou2 fa5 hu2 zi5 yi1 ba3 zhua1] /(kifejezés) több legyet egy csapásra; egy tettel több dolgot elintézni/
+# 頭髮鬍子一把抓 头发胡子一把抓 [tou2 fa5 hu2 zi5 yi1 ba3 zhua1] /(kifejezés) több legyet egy csapásra; egy tettel több dolgot elintézni/
+# Ver 2017-12-18T20:12:21Z gabor Stat-New >.
+# 頭髮鬍子一把抓 头发胡子一把抓 [tou2 fa5 hu2 zi5 yi1 ba3 zhua1] /(kifejezés) több legyet üt egy csapásra; egy füst alatt/
+# Ver 2017-12-18T20:12:25Z gabor Stat-Verif >.
+頭髮鬍子一把抓 头发胡子一把抓 [tou2 fa5 hu2 zi5 yi1 ba3 zhua1] /(kifejezés) több legyet üt egy csapásra; egy füst alatt/
 
 # ID-b22ad7M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -8667,6 +8675,8 @@
 
 # ID-c27lf2a
 # Ver 2017-12-14T20:13:41Z GaoYanuo Stat-New >CC-CEDICT
+# 弟媳 弟媳 [di4 xi2] /sógornő (öcs felesége)/
+# Ver 2017-12-18T20:14:06Z gabor Stat-Verif >.
 弟媳 弟媳 [di4 xi2] /sógornő (öcs felesége)/
 
 # ID-c27lV1l
@@ -10036,6 +10046,8 @@
 
 # ID-c61Xn9c
 # Ver 2017-12-14T21:01:51Z GaoYanuo Stat-New >CC-CEDICT
+# 小麵包 小面包 [xiao3 mian4 bao1] /zsemle/cipó/apró péksütemény/
+# Ver 2017-12-18T20:04:28Z gabor Stat-Verif >.
 小麵包 小面包 [xiao3 mian4 bao1] /zsemle/cipó/apró péksütemény/
 
 # ID-c62ax6s
@@ -12472,7 +12484,11 @@
 
 # ID-d23dz2u
 # Ver 2017-12-14T20:42:30Z GaoYanuo Stat-New >CC-CEDICT
-婦女節 妇女节 [fu4 nü3 jie2] /Nemzetközi nőnap (március 8.)/
+# 婦女節 妇女节 [fu4 nü3 jie2] /Nemzetközi nőnap (március 8.)/
+# Ver 2017-12-18T20:09:58Z gabor Stat-New >.
+# 婦女節 妇女节 [fu4 nü3 jie2] /nemzetközi nőnap (március 8.)/
+# Ver 2017-12-18T20:10:07Z gabor Stat-Verif >.
+婦女節 妇女节 [fu4 nü3 jie2] /nemzetközi nőnap (március 8.)/
 
 # ID-d23iM2O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -19323,6 +19339,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-f05yB8L
 # Ver 2017-12-14T20:11:07Z GaoYanuo Stat-New >CC-CEDICT
+# 姐夫 姐夫 [jie3 fu5] /sógor (nővér férje)/
+# Ver 2017-12-18T20:14:11Z gabor Stat-Verif >.
 姐夫 姐夫 [jie3 fu5] /sógor (nővér férje)/
 
 # ID-f05LH1M
@@ -30504,6 +30522,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-h98Ia2R
 # Ver 2017-12-14T20:16:24Z GaoYanuo Stat-New >CC-CEDICT
+# 妹夫 妹夫 [mei4 fu5] /sógor (húg férje)/
+# Ver 2017-12-18T20:14:01Z gabor Stat-Verif >.
 妹夫 妹夫 [mei4 fu5] /sógor (húg férje)/
 
 # ID-h98Jy9e
@@ -30905,7 +30925,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-i08fK1w
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
-鬆緊帶 松紧带 [song1 jin3 dai4] /gumi|szalag/
+# 鬆緊帶 松紧带 [song1 jin3 dai4] /gumi|szalag/
+# Ver 2017-12-18T20:39:16Z gabor Stat-Verif >egyértelműsítés
+鬆緊帶 松紧带 [song1 jin3 dai4] /gumi|szalag (pl. ruhába varrva)/
 
 # ID-i08iJ7t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -30959,7 +30981,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-i09Vf4b
 # Ver 2017-12-14T20:25:17Z GaoYanuo Stat-New >CC-CEDICT
-腳掌 脚掌 [jiao3 zhang3] /talp (lábé)/
+# 腳掌 脚掌 [jiao3 zhang3] /talp (lábé)/
+# Ver 2017-12-18T20:13:31Z gabor Stat-New >.
+# 腳掌 脚掌 [jiao3 zhang3] /talp (testrész)/
+# Ver 2017-12-18T20:13:34Z gabor Stat-Verif >.
+腳掌 脚掌 [jiao3 zhang3] /talp (testrész)/
 
 # ID-i09XX2q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -38821,7 +38847,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-k16uW8T
 # Ver 2017-12-14T20:57:05Z GaoYanuo Stat-New >CC-CEDICT\nhttp://dictionary.reverso.net/chinese-english/%E6%96%A4
-斤斤計較 斤斤计较 [jin1 jin1 ji4 jiao4] /(kifejezés) A kákán is csomót keres. (akadékoskodik)/
+# 斤斤計較 斤斤计较 [jin1 jin1 ji4 jiao4] /(kifejezés) A kákán is csomót keres. (akadékoskodik)/
+# Ver 2017-12-18T20:04:08Z gabor Stat-New >ABC, korpusz
+# 斤斤計較 斤斤计较 [jin1 jin1 ji4 jiao4] /(kifejezés) a kákán is csomót keres; akadékoskodó/
+# Ver 2017-12-18T20:04:11Z gabor Stat-Verif >.
+斤斤計較 斤斤计较 [jin1 jin1 ji4 jiao4] /(kifejezés) a kákán is csomót keres; akadékoskodó/
 
 # ID-k16yO7w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -53960,6 +53990,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-o12rq2y
 # Ver 2017-12-14T20:19:31Z GaoYanuo Stat-New >CC-CEDICT
+# 手背 手背 [shou3 bei4] /kézfej/
+# Ver 2017-12-18T20:13:43Z gabor Stat-Verif >.
 手背 手背 [shou3 bei4] /kézfej/
 
 # ID-o12ES7U
@@ -56984,7 +57016,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-o93ik7R
 # Ver 2017-12-14T20:26:28Z GaoYanuo Stat-New >CC-CEDICT
-腳跟 脚跟 [jiao3 gen1] /sarok (lábé)/
+# 腳跟 脚跟 [jiao3 gen1] /sarok (lábé)/
+# Ver 2017-12-18T20:13:22Z gabor Stat-New >.
+# 腳跟 脚跟 [jiao3 gen1] /sarok (testrész)/
+# Ver 2017-12-18T20:13:24Z gabor Stat-Verif >.
+腳跟 脚跟 [jiao3 gen1] /sarok (testrész)/
 
 # ID-o93ln5v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
