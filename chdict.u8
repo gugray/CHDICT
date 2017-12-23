@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-12-19T03:00:01Z
+# Datenstand: 2017-12-23T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -12660,7 +12660,9 @@
 
 # ID-d27ff5v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-結束 结束 [jie2 shu4] /vég/vége van/befejez/
+# 結束 结束 [jie2 shu4] /vég/vége van/befejez/
+# Ver 2017-12-22T22:48:36Z GaoYanuo Stat-Verif >egyértelműsíteni szerettem volna az igei használatot. Vége a botnak, útnak, stb. is van.
+結束 结束 [jie2 shu4] /vég/véget ér(színdarab, háború, stb.)/befejez/
 
 # ID-d27rS5L
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -28923,7 +28925,10 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-h58uT9i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-它 它 [ta1] /az (E\3 személyes névmás élettelen dolgokra)/
+# 它 它 [ta1] /az (E\3 személyes névmás élettelen dolgokra)/
+# Ver 2017-12-22T22:35:58Z GaoYanuo Stat-Verif >Nem csak élettelen dolgokra, hanem állatokra is használják:\n快把马截住，别让它跑了。  点击发音\nHurry up and stop the horse, don't let it run away.  Forrás:\nhttps://dict.hjenglish.com/w/%E5%AE%83
+# Ver 2017-12-22T22:39:42Z GaoYanuo Stat-Verif >https://www.google.hu/search?ei=CYk9WuqNHMTVwQLa7qlg&q=%E5%AE%83%E7%9A%84%E6%84%8F%E6%80%9D&oq=%E5%AE%83+&gs_l=psy-ab.1.1.0i12k1l5j0l2j0i12k1l3.5349.5780.0.12078.2.2.0.0.0.0.106.194.1j1.2.0....0...1c.1.64.psy-ab..0.2.193...0i67k1.0.Z4Vsc9UjrD0
+它 它 [ta1] /az (E\3 személyes névmás nem emberi dolgokra)/
 
 # ID-h58wE5J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -32953,6 +32958,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 夢 梦 [meng4] /álom/SZ:場|场[chang2],個|个[ge4]/
 
+# ID-i62km5n
+# Ver 2017-12-22T21:48:33Z GaoYanuo Stat-New >CC-CEDICT
+啤酒節 啤酒节 [pi2 jiu3 jie2] /sörfesztivál/
+
 # ID-i62nx7E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 地址 地址 [di4 zhi3] /posta|cím/SZ:個|个[ge4]/
@@ -33565,6 +33574,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-i77lu3f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 響亮 响亮 [xiang3 liang4] /hangos/tiszta és érthető/
+
+# ID-i77pl1V
+# Ver 2017-12-22T23:23:01Z GaoYanuo Stat-New >CC-CEDICT és még sokan mások
+隨聲附和 随声附和 [sui2 sheng1 fu4 he4] /(szólás) visszhangozza; szajkózza mások szavait (Idéz másokat, anélkül, hogy tudná, mit jelent.)/
 
 # ID-i77ps4T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -39423,7 +39436,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-k30pV5O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-舊 旧 [jiu4] /régi/korábbi/volt/
+# 舊 旧 [jiu4] /régi/korábbi/volt/
+# Ver 2017-12-22T23:02:04Z GaoYanuo Stat-Verif >a "volt" túlságosan sokféleképpen értelmezhető. ref.:\nhttps://dict.hjenglish.com/w/%E6%97%A7\nhttp://www.youdao.com/w/%E6%97%A7/#keyfrom=dict2.top\nA Google képtalálatok is beszédesek\n
+舊 旧 [jiu4] /régi/korábbi/néhai/használt; elnyűtt; lelakott/ódivatú/
 
 # ID-k30rp5k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
