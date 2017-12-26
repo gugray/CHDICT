@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-12-23T03:00:01Z
+# Datenstand: 2017-12-26T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -603,7 +603,13 @@
 
 # ID-a15hx3J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-競選 竞选 [jing4 xuan3] /indul (választáson, jelöltként)/
+# 競選 竞选 [jing4 xuan3] /indul (választáson, jelöltként)/
+# Ver 2017-12-25T20:06:49Z gabor Stat-Verif >pontosítás
+競選 竞选 [jing4 xuan3] /indul (választáson, jelöltként)/kampányol/kampány/
+
+# ID-a15nm7n
+# Ver 2017-12-25T20:40:16Z gabor Stat-New >ABC, korpusz
+乞求 乞求 [qi3 qiu2] /könyörög/
 
 # ID-a15oX3i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -9498,6 +9504,10 @@
 # Ver 2017-05-21T20:20:32Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
 普斯卡什費倫茨 普斯卡什费伦茨 [pu3 si1 ka3 shi2 fei4 lun2 ci2] /(átirat) Puskás Ferenc/
 
+# ID-c50aP9A
+# Ver 2017-12-25T20:11:57Z gabor Stat-New >korpusz, ABC
+散熱器 散热器 [san4 re4 qi4] /radiátor/
+
 # ID-c50bI8f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 天文 天文 [tian1 wen2] /csillagászat/
@@ -9947,6 +9957,10 @@
 # ID-c59En2a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 駱駝 骆驼 [luo4 tuo5] /teve/tökfilkó (mint: "szamár")/
+
+# ID-c59HE2W
+# Ver 2017-12-25T20:24:34Z gabor Stat-New >ABC, korpusz
+鼻孔 鼻孔 [bi2 kong3] /orr|lyuk/orr|cimpa/
 
 # ID-c59Oa7s
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -15915,6 +15929,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 頭髮 头发 [tou2 fa5] /haj/
 
+# ID-e14va0u
+# Ver 2017-12-25T19:51:31Z gabor Stat-New >korpusz
+消防栓 消防栓 [xiao1 fang2 shuan1] /tűz|csap/
+
 # ID-e14xK4X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 畢業 毕业 [bi4 ye4] /le|diplomázik/el|végzi az iskolát/
@@ -17466,6 +17484,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-e54SW4G
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 工作服 工作服 [gong1 zuo4 fu2] /munka|ruha/
+
+# ID-e54Tx1V
+# Ver 2017-12-25T20:17:22Z gabor Stat-New >korpusz, ABC
+水蛭 水蛭 [shui3 zhi4] /pióca/
 
 # ID-e55hh8m
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -21673,6 +21695,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 地 地 [de5] /(határozói partikula: a határozóként szolgáló elem után, ige előtt)/
 
+# ID-f64Fj2j
+# Ver 2017-12-25T20:10:37Z gabor Stat-New >korpusz, ABC, Wikipédia
+麋鹿 麋鹿 [mi2 lu4] /Dávid-szarvas (vadon már kipusztult, eredetileg Kínában honos szarvasféle)/
+
 # ID-f64GL6L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 整體 整体 [zheng3 ti3] /teljes test/teljes egész/szintézis/egészében/globális/teljes/
@@ -22238,6 +22264,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-f78tx6i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 今晚 今晚 [jin1 wan3] /ma este/
+
+# ID-f78xP0s
+# Ver 2017-12-25T20:29:33Z gabor Stat-New >ABC, korpusz
+鼻涕蟲 鼻涕虫 [bi2 ti4 chong2] /meztelen csiga/
 
 # ID-f78yi9M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -31452,6 +31482,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-i23Rm6K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 嬌嫩 娇嫩 [jiao1 nen5] /törékeny/finom/
+
+# ID-i23RM4a
+# Ver 2017-12-25T20:16:29Z gabor Stat-New >korpusz; ABC
+蠕蟲 蠕虫 [ru2 chong2] /féreg/giliszta/
 
 # ID-i24bV8E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -40883,6 +40917,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-k68WT3K
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 臭名昭著 臭名昭著 [chou4 ming2 zhao1 zhu4] /(kifejezés) hírhedt; notórius/
+
+# ID-k68Yj3x
+# Ver 2017-12-25T20:25:44Z gabor Stat-New >ABC, korpusz
+觸角 触角 [chu4 jiao3] /csáp/
 
 # ID-k68YA3T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -52682,6 +52720,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-n76dQ4Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 老鷹 老鹰 [lao3 ying1] /sas/sólyom/ragadozó madár/
+
+# ID-n76gn3l
+# Ver 2017-12-25T20:02:34Z gabor Stat-New >ABC, korpusz
+緞帶 缎带 [duan4 dai4] /szalag (dekorációs)/masni/
 
 # ID-n76tC7E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
