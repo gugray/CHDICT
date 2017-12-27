@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-12-26T03:00:01Z
+# Datenstand: 2017-12-27T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -34809,6 +34809,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-29T07:45:16Z gabor Stat-New >MDBG; http://languagelog.ldc.upenn.edu/nll/?p=32933
 蛤 蛤 [ge2] /kagyló/
 
+# ID-j10XB4X
+# Ver 2017-12-26T16:13:18Z gabor Stat-New >korpusz, ABC
+頂嘴 顶嘴 [ding3 zui3] /felesel; vissza|beszél/vitatkozik/
+
 # ID-j11cF5b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 答辯 答辩 [da2 bian4] /válaszol (kérdésre, vádra, érvre)/meg|véd (diplomamunkát)/
@@ -37877,6 +37881,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-j90Dr2t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 統一 统一 [tong3 yi1] /egyesít/egyesülés/egység/
+
+# ID-j90Jj5h
+# Ver 2017-12-26T16:09:35Z gabor Stat-New >korpusz, ABC
+消化不良 消化不良 [xiao1 hua4 bu4 liang2] /gyomorrontás/emésztési zavar/
 
 # ID-j90MU9c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -48202,6 +48210,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 熱帶 热带 [re4 dai4] /trópusok/trópusi/
 
+# ID-m57eD4I
+# Ver 2017-12-26T18:07:18Z gabor Stat-New >korpusz\nhttp://chengyu.xpcha.com/551g14n8nnq.html\nhttps://baike.baidu.com/item/%E6%B2%A1%E5%A4%B4%E8%8B%8D%E8%9D%87
+無頭蒼蠅 无头苍蝇 [wu2 tou2 cang1 ying5] /(kifejezés) hebehurgya; kapkodó; fejetlen (ember)/
+
 # ID-m57mL0o
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 野生動物 野生动物 [ye3 sheng1 dong4 wu4] /vad; vadon élő állat/
@@ -51660,6 +51672,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-n47ff1Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 交涉 交涉 [jiao1 she4] /tárgyal/
+
+# ID-n47yG9C
+# Ver 2017-12-26T18:06:31Z gabor Stat-New >korpusz\nhttp://chengyu.xpcha.com/551g14n8nnq.html\nhttps://baike.baidu.com/item/%E6%B2%A1%E5%A4%B4%E8%8B%8D%E8%9D%87
+沒頭蒼蠅 没头苍蝇 [mei2 tou2 cang1 ying5] /(kifejezés) hebehurgya; kapkodó; fejetlen (ember)/
 
 # ID-n47yN9c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
