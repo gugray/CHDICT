@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-12-27T03:00:01Z
+# Datenstand: 2017-12-28T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -2815,6 +2815,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 嫂子 嫂子 [sao3 zi5] /sógornő (báty felesége)/
 
+# ID-a70XK3i
+# Ver 2017-12-27T22:08:44Z gabor Stat-New >korpusz; internet
+扁虱 扁虱 [bian3 shi1] /kullancs/
+
 # ID-a71fL0r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 維多利亞 维多利亚 [wei2 duo1 li4 ya4] /(átirat) Victoria; Viktória/
@@ -5198,6 +5202,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 提高 提高 [ti2 gao1] /emel/növel/javít/
 
+# ID-b31xF9d
+# Ver 2017-12-27T21:40:36Z gabor Stat-New >korpusz; ABC; CEDICT
+礦坑 矿坑 [kuang4 keng1] /bánya/
+
 # ID-b31yt9J
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 流民 流民 [liu2 min2] /menekültek/
@@ -6181,6 +6189,14 @@
 # ID-b58Mf4Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 羞恥 羞耻 [xiu1 chi3] /szégyen/szégyen|érzet/
+
+# ID-b58YX5l
+# Ver 2017-12-27T18:43:33Z gabor Stat-New >korpusz, ABC
+# 受僱 受雇 [shou4 gu4] /fel|bérel/alkalmaz; fel|vesz/
+# Ver 2017-12-27T18:46:20Z gabor Stat-New >pontosítás
+# 受僱 受雇 [shou4 gu4] /fel|bérlik/alkalmazzák; fel|veszik/
+# Ver 2017-12-27T18:46:36Z gabor Stat-New >.
+受僱 受雇 [shou4 gu4] /fel|bérlik/alkalmazzák; fel|veszik; munkát kap/
 
 # ID-b59cm0z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -7666,6 +7682,10 @@
 # 十二星座 十二星座 [shi2 er4 xing1 zuo4] /a 12 nyugati csillagjegy/
 # Ver 2017-12-12T22:14:52Z gabor Stat-Verif >.
 十二星座 十二星座 [shi2 er4 xing1 zuo4] /a 12 nyugati csillagjegy/
+
+# ID-b98fV9p
+# Ver 2017-12-27T14:26:29Z gabor Stat-New >korpusz, ABC
+紅桃 红桃 [hong2 tao2] /kőr (kártya)/
 
 # ID-b98hy6J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -10698,6 +10718,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 樣品 样品 [yang4 pin3] /minta (áruminta)/minta|példány/
 
+# ID-c78zv7n
+# Ver 2017-12-27T14:37:31Z gabor Stat-New >korpusz, CEDICT
+門禁卡 门禁卡 [men2 jin4 ka3] /belépő|kártya/
+
 # ID-c78Bh6P
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 光頭黨 光头党 [guang1 tou2 dang3] /skinheadek/
@@ -11186,6 +11210,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 崩 崩 [beng1] /össze|omlik/romba dől/meg|hal (király vagy császár)/
 
+# ID-c90IB4g
+# Ver 2017-12-27T18:29:00Z gabor Stat-New >korpusz, ABC
+零花錢 零花钱 [ling2 hua1 qian2] /zseb|pénz/
+
 # ID-c90Qc8n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 賊 贼 [zei2] /tolvaj/áruló/csalárd/rettenetesen/
@@ -11383,6 +11411,10 @@
 # ID-c94Ty9A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 鋼軌 钢轨 [gang1 gui3] /acél|sín/
+
+# ID-c94Vq3e
+# Ver 2017-12-27T22:06:33Z gabor Stat-New >ABC, korpusz
+頭蝨 头虱 [tou2 shi1] /fej|tetű/
 
 # ID-c94VO5Z
 # Ver 2017-11-24T21:29:10Z GaoYanuo Stat-New >https://dict.hjenglish.com/w/%E7%A1%AC%E7%AC%94\nCC-CEDICT
@@ -11869,6 +11901,10 @@
 # ID-d06eN0C
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 澳門市 澳门市 [ao4 men2 shi4] /(földrajzi név) Makaó városa/
+
+# ID-d06ll9K
+# Ver 2017-12-27T21:38:46Z gabor Stat-New >korpusz
+痘痘 痘痘 [dou4 dou4] /pattanás/
 
 # ID-d06wd5W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -13792,7 +13828,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-d56ro4c
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
-方塊 方块 [fang1 kuai4] /kocka; négyzet/treff (kártya)/
+# 方塊 方块 [fang1 kuai4] /kocka; négyzet/treff (kártya)/
+# Ver 2017-12-27T14:28:18Z gabor Stat-Verif >javítás
+方塊 方块 [fang1 kuai4] /kocka; négyzet/káró (kártya)/
 
 # ID-d56wo5C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -18517,6 +18555,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 德 德 [de2] /erény/jóság/német/
 
+# ID-e81Qj7E
+# Ver 2017-12-27T21:55:37Z gabor Stat-New >korpusz, ABC
+芹菜 芹菜 [qin2 cai4] /zeller/
+
 # ID-e81Qw7P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 女僕 女仆 [nü3 pu2] /szoba|lány/
@@ -19010,6 +19052,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-e95eW9P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 一輩子 一辈子 [yi1 bei4 zi5] /egy életre/egy életen át/
+
+# ID-e95fz5a
+# Ver 2017-12-27T15:29:53Z gabor Stat-New >korpusz, ABC
+頑皮 顽皮 [wan2 pi2] /rakoncátlan; csintalan/
 
 # ID-e95sY0o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -25785,6 +25831,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-g72oM9F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 三明治 三明治 [san1 ming2 zhi4] /szendvics (átvett szó)/SZ:個|个[ge4]/
+
+# ID-g72pS4f
+# Ver 2017-12-27T15:27:48Z gabor Stat-New >korpusz, ABC
+破布 破布 [po4 bu4] /rongy/
 
 # ID-g72rU2f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -33256,6 +33306,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-27T18:31:25Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
 賓語 宾语 [bin1 yu3] /tárgy (nyelvtan)/
 
+# ID-i68BZ5P
+# Ver 2017-12-27T21:43:55Z gabor Stat-New >korpusz; CEDICT
+破傷風 破伤风 [po4 shang1 feng1] /tetanusz/
+
 # ID-i68CG2h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 就是說 就是说 [jiu4 shi4 shuo1] /más szóval/azaz/tehát/
@@ -34049,7 +34103,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-i89Ee2F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-棉花 棉花 [mian2 hua5] /pamut/
+# 棉花 棉花 [mian2 hua5] /pamut/
+# Ver 2017-12-27T21:59:37Z gabor Stat-Verif >kieg; ABC, korpusz
+棉花 棉花 [mian2 hua5] /pamut/gyapot/
 
 # ID-i89Kd0D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -36633,6 +36689,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-j57BW5A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 碰到 碰到 [peng4 dao4] /össze|fut/találkozik/meg|érint (vmit)/
+
+# ID-j57Ru8S
+# Ver 2017-12-27T21:17:13Z gabor Stat-New >korpusz, ABC
+玻璃紙 玻璃纸 [bo1 li2 zhi3] /celofán/
 
 # ID-j57SB4I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -39255,6 +39315,12 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-k25im2D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 企鵝 企鹅 [qi3 e2] /pingvin/
+
+# ID-k25ip0t
+# Ver 2017-12-27T22:01:19Z gabor Stat-New >korpusz, CEDICT
+# 棉花糖 棉花糖 [mian2 hua1 tang2] /mályva|cukor; marshmallow/
+# Ver 2017-12-27T22:02:07Z gabor Stat-New >korpusz
+棉花糖 棉花糖 [mian2 hua1 tang2] /mályva|cukor; marshmallow/vatta|cukor/
 
 # ID-k25nx2e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -43610,6 +43676,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-l38fm1W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 哺乳 哺乳 [bu3 ru3] /szoptat/
+
+# ID-l38CU2X
+# Ver 2017-12-27T14:36:48Z gabor Stat-New >CHDICT, ABC
+門禁 门禁 [men2 jin4] /beléptető|pont (metróba, irodába stb.)/ellenőrzött bejárat/
 
 # ID-l38KF3q
 # Ver 2017-05-23T15:18:19Z Adam Stat-New >baike.baidu.com
@@ -51493,6 +51563,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 感覺 感觉 [gan3 jue2] /érez/érzékel/érzés/érzékelés/SZ:個|个[ge4]/
 
+# ID-n43ms5f
+# Ver 2017-12-27T22:05:25Z gabor Stat-New >korpusz; ABC; internet
+疥瘡 疥疮 [jie4 chuang1] /rüh/
+
 # ID-n43ts8U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 鎮定 镇定 [zhen4 ding4] /nyugodt/higgadt/
@@ -52300,6 +52374,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-n64eb4V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 遲疑 迟疑 [chi2 yi2] /tétovázik/habozik/
+
+# ID-n64fO4s
+# Ver 2017-12-27T21:36:23Z gabor Stat-New >korpusz; CEDICT; Wikipedia
+暗瘡 暗疮 [an4 chuang1] /pattanás/szemölcs/
 
 # ID-n64gm3n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -54293,6 +54371,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 君子 君子 [jun1 zi3] /nemes ember/úri|ember/
 
+# ID-o18sL8j
+# Ver 2017-12-27T21:58:05Z gabor Stat-New >korpusz, ABC
+螺旋槳 螺旋桨 [luo2 xuan2 jiang3] /propeller/lég|csavar/hajó|csavar/rotor/
+
 # ID-o18uQ7k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 有用 有用 [you3 yong4] /hasznos/
@@ -54360,6 +54442,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-o19Py4n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 骨幹 骨干 [gu3 gan4] /gerinc/
+
+# ID-o19Qa6B
+# Ver 2017-12-27T22:06:59Z gabor Stat-New >ABC, korpusz
+虱 虱 [shi1] /tetű/
 
 # ID-o19UX3g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -54641,6 +54727,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-o27oK4h
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 廳堂 厅堂 [ting1 tang2] /terem/nappali/konyha/
+
+# ID-o27zh9O
+# Ver 2017-12-27T14:25:49Z gabor Stat-New >korpusz, ABC
+梅花 梅花 [mei2 hua1] /szilva|virág/treff (kártya)/
 
 # ID-o27Fd9i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -57200,6 +57290,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-o95Ph4H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 親自 亲自 [qin1 zi4] /személyesen/
+
+# ID-o95Up9I
+# Ver 2017-12-27T14:24:47Z gabor Stat-New >korpusz, ABC
+黑桃 黑桃 [hei1 tao2] /pikk (kártya)/
 
 # ID-o96dE0Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
