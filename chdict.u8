@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-12-28T03:00:01Z
+# Datenstand: 2017-12-29T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -274,6 +274,10 @@
 # ID-a05Cq4t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 理髮 理发 [li3 fa4] /fodrász/hajat vág/
+
+# ID-a05CA7T
+# Ver 2017-12-28T21:18:18Z gabor Stat-New >korpusz; ABC; Wikipedia
+碱液 碱液 [jian3 ye4] /lúg; nátron|lúg/
 
 # ID-a05CI2I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -609,6 +613,8 @@
 
 # ID-a15nm7n
 # Ver 2017-12-25T20:40:16Z gabor Stat-New >ABC, korpusz
+# 乞求 乞求 [qi3 qiu2] /könyörög/
+# Ver 2017-12-28T21:07:21Z gabor Stat-Verif >.
 乞求 乞求 [qi3 qiu2] /könyörög/
 
 # ID-a15oX3i
@@ -1332,6 +1338,10 @@
 # ID-a32qX0D
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 蛇皮 蛇皮 [she2 pi2] /kígyó|bőr/
+
+# ID-a32vd8X
+# Ver 2017-12-28T21:47:37Z gabor Stat-New >korpusz, ABC
+漏水 漏水 [lou4 shui3] /szivárog; ereszt (vizet)/cső|törés/
 
 # ID-a32wV2A
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -2817,6 +2827,8 @@
 
 # ID-a70XK3i
 # Ver 2017-12-27T22:08:44Z gabor Stat-New >korpusz; internet
+# 扁虱 扁虱 [bian3 shi1] /kullancs/
+# Ver 2017-12-28T21:09:32Z gabor Stat-Verif >.
 扁虱 扁虱 [bian3 shi1] /kullancs/
 
 # ID-a71fL0r
@@ -5204,6 +5216,8 @@
 
 # ID-b31xF9d
 # Ver 2017-12-27T21:40:36Z gabor Stat-New >korpusz; ABC; CEDICT
+# 礦坑 矿坑 [kuang4 keng1] /bánya/
+# Ver 2017-12-28T21:09:42Z gabor Stat-Verif >.
 礦坑 矿坑 [kuang4 keng1] /bánya/
 
 # ID-b31yt9J
@@ -6196,6 +6210,8 @@
 # Ver 2017-12-27T18:46:20Z gabor Stat-New >pontosítás
 # 受僱 受雇 [shou4 gu4] /fel|bérlik/alkalmazzák; fel|veszik/
 # Ver 2017-12-27T18:46:36Z gabor Stat-New >.
+# 受僱 受雇 [shou4 gu4] /fel|bérlik/alkalmazzák; fel|veszik; munkát kap/
+# Ver 2017-12-28T21:08:07Z gabor Stat-Verif >.
 受僱 受雇 [shou4 gu4] /fel|bérlik/alkalmazzák; fel|veszik; munkát kap/
 
 # ID-b59cm0z
@@ -7685,6 +7701,8 @@
 
 # ID-b98fV9p
 # Ver 2017-12-27T14:26:29Z gabor Stat-New >korpusz, ABC
+# 紅桃 红桃 [hong2 tao2] /kőr (kártya)/
+# Ver 2017-12-28T21:07:44Z gabor Stat-Verif >.
 紅桃 红桃 [hong2 tao2] /kőr (kártya)/
 
 # ID-b98hy6J
@@ -9526,6 +9544,8 @@
 
 # ID-c50aP9A
 # Ver 2017-12-25T20:11:57Z gabor Stat-New >korpusz, ABC
+# 散熱器 散热器 [san4 re4 qi4] /radiátor/
+# Ver 2017-12-28T21:06:00Z gabor Stat-Verif >.
 散熱器 散热器 [san4 re4 qi4] /radiátor/
 
 # ID-c50bI8f
@@ -9980,6 +10000,8 @@
 
 # ID-c59HE2W
 # Ver 2017-12-25T20:24:34Z gabor Stat-New >ABC, korpusz
+# 鼻孔 鼻孔 [bi2 kong3] /orr|lyuk/orr|cimpa/
+# Ver 2017-12-28T21:06:11Z gabor Stat-Verif >.
 鼻孔 鼻孔 [bi2 kong3] /orr|lyuk/orr|cimpa/
 
 # ID-c59Oa7s
@@ -10720,6 +10742,8 @@
 
 # ID-c78zv7n
 # Ver 2017-12-27T14:37:31Z gabor Stat-New >korpusz, CEDICT
+# 門禁卡 门禁卡 [men2 jin4 ka3] /belépő|kártya/
+# Ver 2017-12-28T21:07:51Z gabor Stat-Verif >.
 門禁卡 门禁卡 [men2 jin4 ka3] /belépő|kártya/
 
 # ID-c78Bh6P
@@ -11212,6 +11236,8 @@
 
 # ID-c90IB4g
 # Ver 2017-12-27T18:29:00Z gabor Stat-New >korpusz, ABC
+# 零花錢 零花钱 [ling2 hua1 qian2] /zseb|pénz/
+# Ver 2017-12-28T21:08:04Z gabor Stat-Verif >.
 零花錢 零花钱 [ling2 hua1 qian2] /zseb|pénz/
 
 # ID-c90Qc8n
@@ -11414,6 +11440,8 @@
 
 # ID-c94Vq3e
 # Ver 2017-12-27T22:06:33Z gabor Stat-New >ABC, korpusz
+# 頭蝨 头虱 [tou2 shi1] /fej|tetű/
+# Ver 2017-12-28T21:09:25Z gabor Stat-Verif >.
 頭蝨 头虱 [tou2 shi1] /fej|tetű/
 
 # ID-c94VO5Z
@@ -11904,6 +11932,8 @@
 
 # ID-d06ll9K
 # Ver 2017-12-27T21:38:46Z gabor Stat-New >korpusz
+# 痘痘 痘痘 [dou4 dou4] /pattanás/
+# Ver 2017-12-28T21:08:16Z gabor Stat-Verif >.
 痘痘 痘痘 [dou4 dou4] /pattanás/
 
 # ID-d06wd5W
@@ -15969,6 +15999,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-e14va0u
 # Ver 2017-12-25T19:51:31Z gabor Stat-New >korpusz
+# 消防栓 消防栓 [xiao1 fang2 shuan1] /tűz|csap/
+# Ver 2017-12-28T21:05:41Z gabor Stat-Verif >.
 消防栓 消防栓 [xiao1 fang2 shuan1] /tűz|csap/
 
 # ID-e14xK4X
@@ -17525,6 +17557,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-e54Tx1V
 # Ver 2017-12-25T20:17:22Z gabor Stat-New >korpusz, ABC
+# 水蛭 水蛭 [shui3 zhi4] /pióca/
+# Ver 2017-12-28T21:06:07Z gabor Stat-Verif >.
 水蛭 水蛭 [shui3 zhi4] /pióca/
 
 # ID-e55hh8m
@@ -18467,6 +18501,12 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-21T18:12:09Z Adam Stat-New >elemek jelölése
 榲桲 榅桲 [wen1 po5] /birs; birs|alma (Cydonia oblonga)/
 
+# ID-e79tg3h
+# Ver 2017-12-28T16:43:21Z gabor Stat-New >korpusz, ABC
+# 藏貓貓 藏猫猫 [cang2 mao1 mao1] /bújócskázik/
+# Ver 2017-12-28T21:09:36Z gabor Stat-Verif >.
+藏貓貓 藏猫猫 [cang2 mao1 mao1] /bújócskázik/
+
 # ID-e79xm9I
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 拍檔 拍档 [pai1 dang4] /társ; partner/üzlet|társ/
@@ -18557,6 +18597,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-e81Qj7E
 # Ver 2017-12-27T21:55:37Z gabor Stat-New >korpusz, ABC
+# 芹菜 芹菜 [qin2 cai4] /zeller/
+# Ver 2017-12-28T21:09:09Z gabor Stat-Verif >.
 芹菜 芹菜 [qin2 cai4] /zeller/
 
 # ID-e81Qw7P
@@ -19055,6 +19097,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-e95fz5a
 # Ver 2017-12-27T15:29:53Z gabor Stat-New >korpusz, ABC
+# 頑皮 顽皮 [wan2 pi2] /rakoncátlan; csintalan/
+# Ver 2017-12-28T21:07:58Z gabor Stat-Verif >.
 頑皮 顽皮 [wan2 pi2] /rakoncátlan; csintalan/
 
 # ID-e95sY0o
@@ -21743,6 +21787,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-f64Fj2j
 # Ver 2017-12-25T20:10:37Z gabor Stat-New >korpusz, ABC, Wikipédia
+# 麋鹿 麋鹿 [mi2 lu4] /Dávid-szarvas (vadon már kipusztult, eredetileg Kínában honos szarvasféle)/
+# Ver 2017-12-28T21:05:56Z gabor Stat-Verif >.
 麋鹿 麋鹿 [mi2 lu4] /Dávid-szarvas (vadon már kipusztult, eredetileg Kínában honos szarvasféle)/
 
 # ID-f64GL6L
@@ -22313,6 +22359,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-f78xP0s
 # Ver 2017-12-25T20:29:33Z gabor Stat-New >ABC, korpusz
+# 鼻涕蟲 鼻涕虫 [bi2 ti4 chong2] /meztelen csiga/
+# Ver 2017-12-28T21:06:18Z gabor Stat-Verif >.
 鼻涕蟲 鼻涕虫 [bi2 ti4 chong2] /meztelen csiga/
 
 # ID-f78yi9M
@@ -22342,6 +22390,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-f79ae8B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 欄目 栏目 [lan2 mu4] /oszlop|cím; rubrika (táblázatban)/rovat; kolumna (folyóiratban)/
+
+# ID-f79cz1w
+# Ver 2017-12-28T21:56:38Z gabor Stat-New >korpusz; ABC
+膽固醇 胆固醇 [dan3 gu4 chun2] /koleszterin/
 
 # ID-f79ki7m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -25250,6 +25302,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 分紅 分红 [fen1 hong2] /osztalék/bónusz; jutalom/
 
+# ID-g56NQ6K
+# Ver 2017-12-28T21:52:23Z gabor Stat-New >korpusz
+啄木鳥 啄木鸟 [zhuo2 mu4 niao3] /harkály/
+
 # ID-g56Oy9S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 上衣 上衣 [shang4 yi1] /zakó/dzseki/felső ruha/SZ:件[jian4]/
@@ -25834,6 +25890,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-g72pS4f
 # Ver 2017-12-27T15:27:48Z gabor Stat-New >korpusz, ABC
+# 破布 破布 [po4 bu4] /rongy/
+# Ver 2017-12-28T21:07:55Z gabor Stat-Verif >.
 破布 破布 [po4 bu4] /rongy/
 
 # ID-g72rU2f
@@ -27886,6 +27944,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 團聚 团聚 [tuan2 ju4] /találkozik/újra találkozik/újra|egyesít/
 
+# ID-h26Kz8M
+# Ver 2017-12-28T21:19:10Z gabor Stat-New >korpusz; ABC; transzparens összetétel
+蜘蛛網 蜘蛛网 [zhi1 zhu1 wang3] /pók|háló/
+
 # ID-h26Nn2X
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 火蜥蜴 火蜥蜴 [huo3 xi1 yi4] /szalamandra/
@@ -28970,6 +29032,12 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-h57Af2z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 整個 整个 [zheng3 ge4] /egész/teljes/
+
+# ID-h57Bq1Q
+# Ver 2017-12-28T16:45:26Z gabor Stat-New >korpusz, ABC, CEDICT
+# 窺視 窥视 [kui1 shi4] /kukkol; leskelődik/kémkedik (vki után)/
+# Ver 2017-12-28T21:09:39Z gabor Stat-Verif >.
+窺視 窥视 [kui1 shi4] /kukkol; leskelődik/kémkedik (vki után)/
 
 # ID-h57Cw2N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -30319,6 +30387,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 巴 巴 [ba1] /remél/ragaszkodik (vmihez)/közel van (vmihez)/bar (nyomás mértékegysége)/(családnév) Ba/
 
+# ID-h91WM6p
+# Ver 2017-12-28T21:14:37Z gabor Stat-New >korpusz; ABC; Wikipedia
+獅子狗 狮子狗 [shi1 zi5 gou3] /pekingi palota|kutya/
+
 # ID-h91Xo6r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 受到 受到 [shou4 dao4] /kap/fogad/
@@ -31535,6 +31607,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-i23RM4a
 # Ver 2017-12-25T20:16:29Z gabor Stat-New >korpusz; ABC
+# 蠕蟲 蠕虫 [ru2 chong2] /féreg/giliszta/
+# Ver 2017-12-28T21:06:04Z gabor Stat-Verif >.
 蠕蟲 蠕虫 [ru2 chong2] /féreg/giliszta/
 
 # ID-i24bV8E
@@ -33044,6 +33118,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-i62km5n
 # Ver 2017-12-22T21:48:33Z GaoYanuo Stat-New >CC-CEDICT
+# 啤酒節 啤酒节 [pi2 jiu3 jie2] /sörfesztivál/
+# Ver 2017-12-28T21:05:33Z gabor Stat-Verif >.
 啤酒節 啤酒节 [pi2 jiu3 jie2] /sörfesztivál/
 
 # ID-i62nx7E
@@ -33308,6 +33384,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-i68BZ5P
 # Ver 2017-12-27T21:43:55Z gabor Stat-New >korpusz; CEDICT
+# 破傷風 破伤风 [po4 shang1 feng1] /tetanusz/
+# Ver 2017-12-28T21:09:45Z gabor Stat-Verif >.
 破傷風 破伤风 [po4 shang1 feng1] /tetanusz/
 
 # ID-i68CG2h
@@ -33665,7 +33743,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-i77pl1V
 # Ver 2017-12-22T23:23:01Z GaoYanuo Stat-New >CC-CEDICT és még sokan mások
-隨聲附和 随声附和 [sui2 sheng1 fu4 he4] /(szólás) visszhangozza; szajkózza mások szavait (Idéz másokat, anélkül, hogy tudná, mit jelent.)/
+# 隨聲附和 随声附和 [sui2 sheng1 fu4 he4] /(szólás) visszhangozza; szajkózza mások szavait (Idéz másokat, anélkül, hogy tudná, mit jelent.)/
+# Ver 2017-12-28T21:13:39Z gabor Stat-New >címke; tömörítés
+# 隨聲附和 随声附和 [sui2 sheng1 fu4 he4] /(kifejezés) szajkóz másokat (ismétel\idéz másokat anélkül, hogy értené)/
+# Ver 2017-12-28T21:13:41Z gabor Stat-Verif >.
+隨聲附和 随声附和 [sui2 sheng1 fu4 he4] /(kifejezés) szajkóz másokat (ismétel\idéz másokat anélkül, hogy értené)/
 
 # ID-i77ps4T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -34867,6 +34949,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-j10XB4X
 # Ver 2017-12-26T16:13:18Z gabor Stat-New >korpusz, ABC
+# 頂嘴 顶嘴 [ding3 zui3] /felesel; vissza|beszél/vitatkozik/
+# Ver 2017-12-28T21:07:28Z gabor Stat-Verif >.
 頂嘴 顶嘴 [ding3 zui3] /felesel; vissza|beszél/vitatkozik/
 
 # ID-j11cF5b
@@ -36692,6 +36776,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-j57Ru8S
 # Ver 2017-12-27T21:17:13Z gabor Stat-New >korpusz, ABC
+# 玻璃紙 玻璃纸 [bo1 li2 zhi3] /celofán/
+# Ver 2017-12-28T21:08:10Z gabor Stat-Verif >.
 玻璃紙 玻璃纸 [bo1 li2 zhi3] /celofán/
 
 # ID-j57SB4I
@@ -37922,6 +38008,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 策劃 策划 [ce4 hua4] /tervez/tervezés/terveket sző/
 
+# ID-j90hA6e
+# Ver 2017-12-28T21:50:30Z gabor Stat-New >korpusz; transzparens
+雪人 雪人 [xue3 ren2] /hó|ember/
+
 # ID-j90mQ9l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 老是 老是 [lao3 shi5] /mindig/
@@ -37944,6 +38034,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-j90Jj5h
 # Ver 2017-12-26T16:09:35Z gabor Stat-New >korpusz, ABC
+# 消化不良 消化不良 [xiao1 hua4 bu4 liang2] /gyomorrontás/emésztési zavar/
+# Ver 2017-12-28T21:07:25Z gabor Stat-Verif >.
 消化不良 消化不良 [xiao1 hua4 bu4 liang2] /gyomorrontás/emésztési zavar/
 
 # ID-j90MU9c
@@ -39320,6 +39412,8 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-12-27T22:01:19Z gabor Stat-New >korpusz, CEDICT
 # 棉花糖 棉花糖 [mian2 hua1 tang2] /mályva|cukor; marshmallow/
 # Ver 2017-12-27T22:02:07Z gabor Stat-New >korpusz
+# 棉花糖 棉花糖 [mian2 hua1 tang2] /mályva|cukor; marshmallow/vatta|cukor/
+# Ver 2017-12-28T21:09:19Z gabor Stat-Verif >.
 棉花糖 棉花糖 [mian2 hua1 tang2] /mályva|cukor; marshmallow/vatta|cukor/
 
 # ID-k25nx2e
@@ -40994,6 +41088,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-k68Yj3x
 # Ver 2017-12-25T20:25:44Z gabor Stat-New >ABC, korpusz
+# 觸角 触角 [chu4 jiao3] /csáp/
+# Ver 2017-12-28T21:06:14Z gabor Stat-Verif >.
 觸角 触角 [chu4 jiao3] /csáp/
 
 # ID-k68YA3T
@@ -43679,6 +43775,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-l38CU2X
 # Ver 2017-12-27T14:36:48Z gabor Stat-New >CHDICT, ABC
+# 門禁 门禁 [men2 jin4] /beléptető|pont (metróba, irodába stb.)/ellenőrzött bejárat/
+# Ver 2017-12-28T21:07:47Z gabor Stat-Verif >.
 門禁 门禁 [men2 jin4] /beléptető|pont (metróba, irodába stb.)/ellenőrzött bejárat/
 
 # ID-l38KF3q
@@ -46458,6 +46556,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 糾纏 纠缠 [jiu1 chan2] /nyaggat; zaklat; zavar/bonyodalom/
 
+# ID-m13vA2x
+# Ver 2017-12-28T21:54:19Z gabor Stat-New >korpusz
+復古 复古 [fu4 gu3] /idejétmúlt; régimódi/retró; nosztalgia-/
+
 # ID-m13Fh6I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 完畢 完毕 [wan2 bi4] /be|fejez/véget ér/
@@ -48282,6 +48384,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-m57eD4I
 # Ver 2017-12-26T18:07:18Z gabor Stat-New >korpusz\nhttp://chengyu.xpcha.com/551g14n8nnq.html\nhttps://baike.baidu.com/item/%E6%B2%A1%E5%A4%B4%E8%8B%8D%E8%9D%87
+# 無頭蒼蠅 无头苍蝇 [wu2 tou2 cang1 ying5] /(kifejezés) hebehurgya; kapkodó; fejetlen (ember)/
+# Ver 2017-12-28T21:07:34Z gabor Stat-Verif >.
 無頭蒼蠅 无头苍蝇 [wu2 tou2 cang1 ying5] /(kifejezés) hebehurgya; kapkodó; fejetlen (ember)/
 
 # ID-m57mL0o
@@ -51565,6 +51669,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-n43ms5f
 # Ver 2017-12-27T22:05:25Z gabor Stat-New >korpusz; ABC; internet
+# 疥瘡 疥疮 [jie4 chuang1] /rüh/
+# Ver 2017-12-28T21:09:22Z gabor Stat-Verif >.
 疥瘡 疥疮 [jie4 chuang1] /rüh/
 
 # ID-n43ts8U
@@ -51749,6 +51855,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-n47yG9C
 # Ver 2017-12-26T18:06:31Z gabor Stat-New >korpusz\nhttp://chengyu.xpcha.com/551g14n8nnq.html\nhttps://baike.baidu.com/item/%E6%B2%A1%E5%A4%B4%E8%8B%8D%E8%9D%87
+# 沒頭蒼蠅 没头苍蝇 [mei2 tou2 cang1 ying5] /(kifejezés) hebehurgya; kapkodó; fejetlen (ember)/
+# Ver 2017-12-28T21:07:30Z gabor Stat-Verif >.
 沒頭蒼蠅 没头苍蝇 [mei2 tou2 cang1 ying5] /(kifejezés) hebehurgya; kapkodó; fejetlen (ember)/
 
 # ID-n47yN9c
@@ -52377,6 +52485,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-n64fO4s
 # Ver 2017-12-27T21:36:23Z gabor Stat-New >korpusz; CEDICT; Wikipedia
+# 暗瘡 暗疮 [an4 chuang1] /pattanás/szemölcs/
+# Ver 2017-12-28T21:08:12Z gabor Stat-Verif >.
 暗瘡 暗疮 [an4 chuang1] /pattanás/szemölcs/
 
 # ID-n64gm3n
@@ -52817,6 +52927,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-n76gn3l
 # Ver 2017-12-25T20:02:34Z gabor Stat-New >ABC, korpusz
+# 緞帶 缎带 [duan4 dai4] /szalag (dekorációs)/masni/
+# Ver 2017-12-28T21:05:46Z gabor Stat-Verif >.
 緞帶 缎带 [duan4 dai4] /szalag (dekorációs)/masni/
 
 # ID-n76tC7E
@@ -54373,6 +54485,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-o18sL8j
 # Ver 2017-12-27T21:58:05Z gabor Stat-New >korpusz, ABC
+# 螺旋槳 螺旋桨 [luo2 xuan2 jiang3] /propeller/lég|csavar/hajó|csavar/rotor/
+# Ver 2017-12-28T21:09:13Z gabor Stat-Verif >.
 螺旋槳 螺旋桨 [luo2 xuan2 jiang3] /propeller/lég|csavar/hajó|csavar/rotor/
 
 # ID-o18uQ7k
@@ -54445,6 +54559,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-o19Qa6B
 # Ver 2017-12-27T22:06:59Z gabor Stat-New >ABC, korpusz
+# 虱 虱 [shi1] /tetű/
+# Ver 2017-12-28T21:09:29Z gabor Stat-Verif >.
 虱 虱 [shi1] /tetű/
 
 # ID-o19UX3g
@@ -54730,6 +54846,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-o27zh9O
 # Ver 2017-12-27T14:25:49Z gabor Stat-New >korpusz, ABC
+# 梅花 梅花 [mei2 hua1] /szilva|virág/treff (kártya)/
+# Ver 2017-12-28T21:07:40Z gabor Stat-Verif >.
 梅花 梅花 [mei2 hua1] /szilva|virág/treff (kártya)/
 
 # ID-o27Fd9i
@@ -57293,6 +57411,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-o95Up9I
 # Ver 2017-12-27T14:24:47Z gabor Stat-New >korpusz, ABC
+# 黑桃 黑桃 [hei1 tao2] /pikk (kártya)/
+# Ver 2017-12-28T21:07:37Z gabor Stat-Verif >.
 黑桃 黑桃 [hei1 tao2] /pikk (kártya)/
 
 # ID-o96dE0Z
@@ -58288,6 +58408,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-p20NT3P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 柴油 柴油 [chai2 you2] /dízel|olaj/
+
+# ID-p20Vu1T
+# Ver 2017-12-28T21:28:30Z gabor Stat-New >korpusz, ABC
+花苞 花苞 [hua1 bao1] /rügy/
 
 # ID-p21bP6B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
