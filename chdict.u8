@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-12-29T03:00:01Z
+# Datenstand: 2017-12-30T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -19714,6 +19714,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-f12UA7B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 梗概 梗概 [geng3 gai4] /körvonal; lényeg (történeté)/
+
+# ID-f12YZ3T
+# Ver 2017-12-29T21:52:37Z gabor Stat-New >korpusz
+實戰經驗 实战经验 [shi2 zhan4 jing1 yan4] /gyakorlati tapasztalat/
 
 # ID-f12Zq3h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -42813,6 +42817,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 想家 想家 [xiang3 jia1] /honvágya van/
 
+# ID-l14iH4t
+# Ver 2017-12-29T20:55:10Z gabor Stat-New >korpusz; ABC
+罪惡感 罪恶感 [zui4 e4 gan3] /bűntudat/
+
 # ID-l14jk6S
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 祖籍 祖籍 [zu3 ji2] /eredeti lakó|hely/származás/
@@ -55512,6 +55520,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 殘廢 残废 [can2 fei4] /fogyatékos/nyomorék/
 
+# ID-o44Vr2A
+# Ver 2017-12-29T11:38:50Z gabor Stat-New >korpusz, ABC
+維他命 维他命 [wei2 ta1 ming4] /vitamin/
+
 # ID-o44ZV6F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 奇 奇 [qi2] /furcsa/különös/szokatlan/
@@ -56267,6 +56279,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-o66OF7b
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 瘀傷 瘀伤 [yu1 shang1] /zúzódás; horzsolás/
+
+# ID-o67ir6B
+# Ver 2017-12-29T19:31:35Z gabor Stat-New >korpusz; 家室 jellemző előfordulása
+有家室 有家室 [you3 jia1 shi4] /családos; van családja/
 
 # ID-o67kv8N
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
