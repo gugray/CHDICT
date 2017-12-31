@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-12-30T03:00:01Z
+# Datenstand: 2017-12-31T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -15956,6 +15956,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-e12ki6c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 輾轉反側 辗转反侧 [zhan3 zhuan3 fan3 ce4] /(kifejezés) hánykolódik; forgolódik (ágyban)/
+
+# ID-e12Ct7q
+# Ver 2017-12-30T13:06:30Z gabor Stat-New >ABC
+鏟 铲 [chan3] /lapátol/lapát/
 
 # ID-e12Qb9x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -34631,6 +34635,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 採納 采纳 [cai3 na4] /el|fogad/fel|karol (javaslatot)/
 
+# ID-j01PJ9G
+# Ver 2017-12-30T14:24:42Z gabor Stat-New >ABC, korpusz
+食人族 食人族 [shi2 ren2 zu2] /kannibálok; kannibál törzs/
+
 # ID-j02cu0A
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 喀噠 喀哒 [ka1 da1] /(hangutánzó) katt/
@@ -48785,6 +48793,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 什 什 [shen2] /mi (kérdő névmás)/
 
+# ID-m67dE9D
+# Ver 2017-12-30T14:26:40Z gabor Stat-New >ABC, korpusz
+性病 性病 [xing4 bing4] /nemi betegség/
+
 # ID-m67eL1u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 人身 人身 [ren2 shen1] /személyes/emberi test/
@@ -53662,6 +53674,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-n95vd7H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 實質 实质 [shi2 zhi4] /lényeg/esszencia/
+
+# ID-n95xT4u
+# Ver 2017-12-30T14:23:18Z gabor Stat-New >korpusz; CEDICT
+食人魔 食人魔 [shi2 ren2 mo2] /ogre/
 
 # ID-n95yQ3q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
