@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2017-12-31T03:00:01Z
+# Datenstand: 2018-01-03T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -402,6 +402,10 @@
 # ID-a09tb8g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 以往 以往 [yi3 wang3] /a múltban/
+
+# ID-a09tX8y
+# Ver 2018-01-03T00:01:52Z gabor Stat-New >korpusz
+慘痛代價 惨痛代价 [can3 tong4 dai4 jia4] /nagy ár (átvitten)/
 
 # ID-a09xN6f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -2993,7 +2997,9 @@
 
 # ID-a74Dz5S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-挖 挖 [wa1] /ás/ki|ás/
+# 挖 挖 [wa1] /ás/ki|ás/
+# Ver 2018-01-02T21:16:07Z gabor Stat-Verif >kieg: korpusz
+挖 挖 [wa1] /ás/ki|ás/túr (orrot)/
 
 # ID-a74IS9D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -7756,6 +7762,10 @@
 # ID-b99Bq6z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 額 额 [e2] /homlok/adott mennyiség/
+
+# ID-b99Ea4j
+# Ver 2018-01-02T23:00:31Z gabor Stat-New >korpusz; ABC
+保溫瓶 保温瓶 [bao3 wen1 ping2] /termosz/
 
 # ID-b99FU9c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -15420,6 +15430,12 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 傳染 传染 [chuan2 ran3] /meg|fertőz/fertőző/
 
+# ID-d97GC8t
+# Ver 2018-01-02T22:59:55Z gabor Stat-New >korpusz
+# 熱水瓶 热水瓶 [re4 shui3 ping2] /forró|vizes palack/ágy|melegítő/
+# Ver 2018-01-02T23:00:46Z gabor Stat-New >kieg
+熱水瓶 热水瓶 [re4 shui3 ping2] /forró|vizes palack/ágy|melegítő/termosz/
+
 # ID-d97Qh9m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 委員會 委员会 [wei3 yuan2 hui4] /bizottság/
@@ -22812,6 +22828,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 琴 琴 [qin2] /húros hangszer/
 
+# ID-f91bq7s
+# Ver 2018-01-02T23:06:24Z gabor Stat-New >korpusz, ABC
+馬屁 马屁 [ma3 pi4] /a ló segge/
+
 # ID-f91gZ7X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 交換 交换 [jiao1 huan4] /csere/cserél/switch (számítástechnika)/
@@ -24864,6 +24884,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 罐子 罐子 [guan4 zi5] /korsó; kanna/üveg (vmi tárolására, pl. befőttes)/fazék/
 
+# ID-g45Zp1R
+# Ver 2018-01-02T21:06:56Z gabor Stat-New >korpusz, ABC
+體育場 体育场 [ti3 yu4 chang3] /stadion/
+
 # ID-g46lB6W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 創業 创业 [chuang4 ye4] /vállalkozásba kezd/vállalkozó szellem/utat tör/
@@ -25102,6 +25126,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-23T20:16:38Z Adam Stat-Verif >nyomdai idézőjel jav.
 氣 气 [qi4] /levegő/gáz/illat/életenergia („csí” a kínai metafizikában)/düh/lélegzet/
 
+# ID-g52cx1R
+# Ver 2018-01-02T23:35:01Z gabor Stat-New >korpusz
+隕石坑 陨石坑 [yun3 shi2 keng1] /kráter (meteor becsapódásától)/
+
 # ID-g52ef0j
 # Ver 2017-05-21T22:38:45Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
 烏拉爾山脈 乌拉尔山脉 [wu1 la1 er3 shan1 mai4] /(földrajzi név) Urál (hegység)/
@@ -25179,6 +25207,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-g53UY7U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 原告 原告 [yuan2 gao4] /felperes/panaszos/
+
+# ID-g53XZ8g
+# Ver 2018-01-02T23:13:15Z gabor Stat-New >korpusz
+接種人 接种人 [jie1 zhong3 ren2] /bér|anya/
 
 # ID-g54bI2D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -31324,6 +31356,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 堅決 坚决 [jian1 jue2] /el|szánt/határozott/
 
+# ID-i14FZ1Y
+# Ver 2018-01-02T23:07:01Z gabor Stat-New >korpusz, ABC
+拍馬屁 拍马屁 [pai1 ma3 pi4] /segget nyal (hízelkedik)/
+
 # ID-i14KN1U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 救出 救出 [jiu4 chu1] /meg|ment; ki|ment (vmiből)/
@@ -31747,6 +31783,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 肉末 肉末 [rou4 mo4] /darált|hús/
 
+# ID-i26ZL4A
+# Ver 2018-01-02T23:24:32Z gabor Stat-New >korpusz
+哈西德 哈西德 [ha1 xi1 de2] /haszid/
+
 # ID-i27wv1g
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 遺孀 遗孀 [yi2 shuang1] /özvegy/
@@ -32107,7 +32147,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-i35AX4P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-完成 完成 [wan2 cheng2] /el|végez/teljesít/el|ér/
+# 完成 完成 [wan2 cheng2] /el|végez/teljesít/el|ér/
+# Ver 2018-01-02T22:25:59Z gabor Stat-Verif >kieg - korpusz
+完成 完成 [wan2 cheng2] /el|végez; be|fejez/teljesít/el|ér/
 
 # ID-i35DI8w
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -35252,6 +35294,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 改天 改天 [gai3 tian1] /máskor/más napon/el|halaszt; be|pótol (elmaradt eseményt)/
 
+# ID-j18sQ3e
+# Ver 2018-01-02T23:41:49Z gabor Stat-New >korpusz, ABC
+陳詞濫調 陈词滥调 [chen2 ci2 lan4 diao4] /klisé; közhely/
+
 # ID-j18FA9R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 妹 妹 [mei4] /húg/
@@ -36351,6 +36397,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-j46ba2Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 謊言 谎言 [huang3 yan2] /hazugság/
+
+# ID-j46nR6V
+# Ver 2018-01-02T14:39:59Z gabor Stat-New >korpusz; ABC
+頭顱 头颅 [tou2 lu2] /fej/koponya/
 
 # ID-j46nV0a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -43601,6 +43651,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 儀器 仪器 [yi2 qi4] /eszköz/be|rendezés/SZ:臺|台[tai2]/
 
+# ID-l32TK0z
+# Ver 2018-01-02T21:56:57Z gabor Stat-New >korpusz, ABC, wiki
+朋克 朋克 [peng2 ke4] /punk (zene; ember)/
+
 # ID-l32Yh6V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 保重 保重 [bao3 zhong4] /vigyáz magára/
@@ -48602,6 +48656,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-m61LB6e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 收益 收益 [shou1 yi4] /nyereség/profit/
+
+# ID-m61Oi6A
+# Ver 2018-01-02T22:33:55Z gabor Stat-New >ABC, korpusz
+汞 汞 [gong3] /higany/
 
 # ID-m61Ph3O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -53997,6 +54055,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 逗 逗 [dou4] /ugrat; játszik (vkivel)/mulatságos/rövid szünet (felolvasásban)/
 
+# ID-o04NJ8c
+# Ver 2018-01-02T23:35:33Z gabor Stat-New >korpusz
+火山口 火山口 [huo3 shan1 kou3] /kráter (vulkáni)/
+
 # ID-o04Pf6k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 当真 当真 [dang4 zhen1] /komolyan vesz/igazán/tényleg/
@@ -55866,6 +55928,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 觸手 触手 [chu4 shou3] /csáp/
 
+# ID-o54Rm8h
+# Ver 2018-01-02T22:24:06Z gabor Stat-New >korpusz, ABC
+禁慾 禁欲 [jin4 yu4] /ön|megtartóztatás/cölibátus/
+
 # ID-o54Vc6S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 呼 呼 [hu1] /ki|lélegzik/kiabál/(családnév) Hu/
@@ -57108,6 +57174,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-o88gO5n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 哀痛 哀痛 [ai1 tong4] /mély fájdalom/bánat/gyászol/
+
+# ID-o88lJ8d
+# Ver 2018-01-02T20:46:44Z gabor Stat-New >korpusz; ABC
+高年級 高年级 [gao1 nian2 ji2] /felsőbb évfolyam/
 
 # ID-o88oc0Z
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
