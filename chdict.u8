@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-01-04T03:00:01Z
+# Datenstand: 2018-01-06T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -5724,6 +5724,10 @@
 # ID-b35Uz4v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 變動 变动 [bian4 dong4] /változás/változtatás/
+
+# ID-b35US2j
+# Ver 2018-01-05T19:53:25Z gabor Stat-New >korpusz, ABC
+留校 留校 [liu2 xiao4] /büntetésben van; nem engedik haza (iskolából)/az egyetemen marad (végzés után, dolgozni\kutatni)/
 
 # ID-b35Yb4p
 # Ver 2017-05-29T12:56:20Z Adam Stat-New >Baike Baidu szócikke
@@ -21123,6 +21127,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-f10ab1k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 赤字 赤字 [chi4 zi4] /költségvetési hiány/veszteség/
+
+# ID-f10bO8w
+# Ver 2018-01-05T19:49:15Z gabor Stat-New >korpusz
+犯罪現場 犯罪现场 [fan4 zui4 xian4 chang3] /tett|hely; helyszín/
 
 # ID-f10gv1K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -37239,6 +37247,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-j01HZ8P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 晴雨表 晴雨表 [qing2 yu3 biao3] /barométer/légnyomás|mérő/
+
+# ID-j01JF3K
+# Ver 2018-01-05T20:18:11Z gabor Stat-New >korpusz
+太空漫步 太空漫步 [tai4 kong1 man4 bu4] /űr|séta/
 
 # ID-j01Pk8W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -57164,6 +57176,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 精度 精度 [jing1 du4] /precízség; pontosság/
 
+# ID-n81hp4r
+# Ver 2018-01-05T20:57:58Z gabor Stat-New >korpusz, ABC
+殉道者 殉道者 [xun4 dao4 zhe3] /mártír; vértanú/
+
 # ID-n81pU4m
 # Ver 2017-09-26T14:12:13Z gabor Stat-New >Wikipedia, korpusz
 珊瑚蟲 珊瑚虫 [shan1 hu2 chong2] /korall|polip/
@@ -61567,6 +61583,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-o89xh1u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 首都 首都 [shou3 du1] /fő|város/SZ:個|个[ge4]/
+
+# ID-o89xs2D
+# Ver 2018-01-05T19:51:27Z gabor Stat-New >korpusz
+留校察看 留校察看 [liu2 xiao4 cha2 kan4] /próba|idős; fel van függesztve (iskolában)/
 
 # ID-o89Aa8q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
