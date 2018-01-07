@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-01-06T03:00:01Z
+# Datenstand: 2018-01-07T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -20570,6 +20570,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-12-28T21:07:58Z gabor Stat-Verif >.
 頑皮 顽皮 [wan2 pi2] /rakoncátlan; csintalan/
 
+# ID-e95oK2D
+# Ver 2018-01-06T16:23:51Z gabor Stat-New >ABC, CEDICT
+鑰 钥 [yao4] /kulcs/
+
 # ID-e95sY0o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 難道 难道 [nan2 dao4] /csak nem...?/előfordulhat, hogy...?/
@@ -29554,6 +29558,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-h11ve2d
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 岸邊 岸边 [an4 bian1] /part/
+
+# ID-h11DA3R
+# Ver 2018-01-06T16:17:26Z gabor Stat-New >ABC, CEDICT
+歷 历 [li4] /tapasztalat/kor; korszak/keresztül/(családnév) Li/
 
 # ID-h11Gr6W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -49211,6 +49219,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-l89mi2L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 查 查 [zha1] /(családnév) Zha/
+
+# ID-l89mM3k
+# Ver 2018-01-06T15:58:08Z gabor Stat-New >ABC
+研習會 研习会 [yan2 xi2 hui4] /konferencia; szimpózium/szeminárium/workshop/
 
 # ID-l89po4x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
