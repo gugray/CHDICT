@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-01-07T03:00:01Z
+# Datenstand: 2018-01-09T03:00:02Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -21077,6 +21077,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-f08KV2D
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 強求 强求 [qiang3 qiu2] /ki|kényszerít/rá|erőltet/
+
+# ID-f08QM1n
+# Ver 2018-01-08T21:14:25Z gabor Stat-New >ABC, CEDICT
+參 参 [can1] /csatlakozik/részt vesz/kikéri a véleményét/
 
 # ID-f08Td1d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -54400,6 +54404,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 來源 来源 [lai2 yuan2] /forrás (információé, híré)/
 
+# ID-n12tx7D
+# Ver 2018-01-08T15:58:09Z gabor Stat-New >korpusz, ABC
+提詞 提词 [ti2 ci2] /súg (színésznek)/
+
 # ID-n12wB9p
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 綁走 绑走 [bang3 zou3] /el|rabol (embert)/
@@ -56589,6 +56597,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-n66mZ2a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 哲學 哲学 [zhe2 xue2] /filozófia/
+
+# ID-n66nA4i
+# Ver 2018-01-08T15:59:25Z gabor Stat-New >korpusz; CEDICT
+提詞器 提词器 [ti2 ci2 qi4] /súgó|gép/
 
 # ID-n66qf6I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
