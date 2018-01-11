@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-01-09T03:00:02Z
+# Datenstand: 2018-01-11T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -19460,6 +19460,15 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-26T23:38:58Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
 烏鶇 乌鸫 [wu1 dong1] /fekete rigó (Turdus merula)/
 
+# ID-e66iK9k
+# Ver 2018-01-10T17:40:31Z GaoYanuo Stat-New >http://www.youdao.com/w/eng/%E5%B7%A5%E8%89%BA/#keyfrom=dict2.index
+# 工藝 工艺 [gong1 yi4] /(gyártási) eljárás/technológia/SZ:項|项[xiàng]/
+# Ver 2018-01-10T23:12:23Z gabor Stat-New >.
+# 工藝 工艺 [gong1 yi4] /eljárás (gyártási)/technológia; technika/SZ:項|项[xiàng]/
+# Ver 2018-01-10T23:12:25Z gabor Stat-Verif >.
+# Ver 2018-01-10T23:13:23Z gabor Stat-Verif >számlálószó korr
+工藝 工艺 [gong1 yi4] /eljárás (gyártási)/technológia; technika/SZ:項|项[xiang4]/
+
 # ID-e66yh2p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 拽 拽 [zhuai4] /húz/rángat/
@@ -27178,6 +27187,12 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-g54Yz5E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 索菲 索菲 [suo3 fei1] /(átirat) Sophie; Zsófi/
+
+# ID-g55bC8T
+# Ver 2018-01-10T17:43:27Z GaoYanuo Stat-New >CC-CEDICT, + saját gyűjtés
+# 參數 参数 [can1 shu4] /paraméter/
+# Ver 2018-01-10T23:12:47Z gabor Stat-Verif >.
+參數 参数 [can1 shu4] /paraméter/
 
 # ID-g55bY6l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
