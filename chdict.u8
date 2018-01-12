@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-01-11T03:00:01Z
+# Datenstand: 2018-01-12T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -8697,6 +8697,10 @@
 # ID-c09mt6r
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 迷亂 迷乱 [mi2 luan4] /zavartság/meg|zavarodott/
+
+# ID-c09qx3w
+# Ver 2018-01-11T19:38:01Z gabor Stat-New >CEDICT, korpusz
+雄心 雄心 [xiong2 xin1] /nagy ambíció/törekvés; hév/
 
 # ID-c09sz9F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -25237,6 +25241,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-g07Bl7I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 鮮血 鲜血 [xian1 xie3] /vér/
+
+# ID-g07Dh5w
+# Ver 2018-01-11T19:24:13Z gabor Stat-New >korpusz, ABC, CEDICT
+自告奮勇 自告奋勇 [zi4 gao4 fen4 yong3] /(kifejezés) vállalkozik; önként jelentkezik (nehéz feladatra)/
 
 # ID-g07Jb4v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -62741,6 +62749,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 離異 离异 [li2 yi4] /el|válik (házastárstól)/
 
+# ID-p15xg7t
+# Ver 2018-01-11T19:36:36Z gabor Stat-New >korpusz, CEDICT
+雄心壯志 雄心壮志 [xiong2 xin1 zhuang4 zhi4] /(kifejezés) nagy ambíciók és fennkölt célok; ambiciózus; becsvágy/
+
 # ID-p15Ef2f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 追逐 追逐 [zhui1 zhu2] /üldöz/hajtó|vadászat/
@@ -63138,6 +63150,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-p23id5E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 見證 见证 [jian4 zheng4] /tanú/bizonyíték/
+
+# ID-p23mE1Q
+# Ver 2018-01-11T20:55:33Z gabor Stat-New >korpusz, ABC
+淘金熱 淘金热 [tao2 jin1 re4] /arany|láz/
 
 # ID-p23mI3L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
