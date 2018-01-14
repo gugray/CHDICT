@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-01-12T03:00:01Z
+# Datenstand: 2018-01-14T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -62482,6 +62482,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-p09EL2t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 哎喲 哎哟 [ai1 yo1] /(indulatszó) jaj! (fájdalom, meglepetés)/
+
+# ID-p09Jm8G
+# Ver 2018-01-13T15:26:10Z tlaura Stat-New >http://ce.linedict.com/dict.html#/cnen/example?query=%E6%B1%82%E8%81%8C%E4%BF%A1
+求職信 求职信 [qiu2 zhi2 xin4] /motivációs levél/
 
 # ID-p09Kt4z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
