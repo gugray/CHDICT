@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-01-14T03:00:01Z
+# Datenstand: 2018-01-15T03:00:02Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -7414,6 +7414,10 @@
 # ID-b78FU6U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 聯盟 联盟 [lian2 meng2] /szövetség/koalíció/liga/unió/
+
+# ID-b78Ht4c
+# Ver 2018-01-14T09:48:45Z gabor Stat-New >CEDICT, ABC, korpusz\nhttp://languagelog.ldc.upenn.edu/nll/?p=36222
+知音 知音 [zhi1 yin1] /lelki társ/
 
 # ID-b78JD3I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -18621,6 +18625,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-e47Jo3r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 故障 故障 [gu4 zhang4] /üzem|zavar/meg|hibásodás/hiba/
+
+# ID-e47Nq3H
+# Ver 2018-01-14T09:51:47Z gabor Stat-New >ABC, CEDICT\nhttp://languagelog.ldc.upenn.edu/nll/?p=36222
+空谷足音 空谷足音 [kong1 gu3 zu2 yin1] /(kifejezés) léptek nesze az elhagyatott völgyben; ritka, váratlan és becses/
 
 # ID-e47Ro5B
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -30119,6 +30127,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-h26fh1O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 相連 相连 [xiang1 lian2] /össze|kapcsol/össze|köt/össze|láncol/kapcsolat/kapocs/
+
+# ID-h26is2x
+# Ver 2018-01-14T23:35:01Z gabor Stat-New >ABC, korpusz
+雛菊 雏菊 [chu2 ju2] /százszorszép/
 
 # ID-h26kC5v
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -62485,7 +62497,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-p09Jm8G
 # Ver 2018-01-13T15:26:10Z tlaura Stat-New >http://ce.linedict.com/dict.html#/cnen/example?query=%E6%B1%82%E8%81%8C%E4%BF%A1
-求職信 求职信 [qiu2 zhi2 xin4] /motivációs levél/
+# 求職信 求职信 [qiu2 zhi2 xin4] /motivációs levél/
+# Ver 2018-01-14T09:54:28Z gabor Stat-New >kieg
+# 求職信 求职信 [qiu2 zhi2 xin4] /motivációs levél; kísérő|levél (állás megpályázásához)/
+# Ver 2018-01-14T09:54:31Z gabor Stat-Verif >.
+求職信 求职信 [qiu2 zhi2 xin4] /motivációs levél; kísérő|levél (állás megpályázásához)/
 
 # ID-p09Kt4z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
