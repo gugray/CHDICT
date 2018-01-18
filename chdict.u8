@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-01-15T03:00:02Z
+# Datenstand: 2018-01-18T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -32817,6 +32817,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 犯事 犯事 [fan4 shi4] /törvényt szeg/bűncselekményt követ el/
 
+# ID-h92Ql3j
+# Ver 2018-01-17T22:17:55Z jojo-chan Stat-New >http://ce.linedict.com/dict.html#/cnen/entry/d5480cd89328467486b7c3f55b38f3d2
+繳費 缴费 [jiao3 fei4] /kifizet/befizet (valamilyen díjat, kötelező költséget)/
+
 # ID-h92Rj3z
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 拉力 拉力 [la1 li4] /vonó|erő; szakító|szilárdság/
@@ -59200,6 +59204,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 只能 只能 [zhi3 neng2] /nincs választása/csak (azt tudja tenni)/kell/
 
+# ID-o30gf9q
+# Ver 2018-01-17T22:26:58Z jojo-chan Stat-New >http://ce.linedict.com/dict.html#/cnen/entry/296deab910934b5fb14d867b50cf2904
+掃帚 扫帚 [sao4 zhou5] /seprű/
+
 # ID-o30gS2b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 惹火 惹火 [re3 huo3] /fel|kavar/provokál/fel|izgat (szexuálisan)/
@@ -62406,6 +62414,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-p07kH8N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 商標 商标 [shang1 biao1] /véd|jegy/márka|név/
+
+# ID-p07ry0z
+# Ver 2018-01-17T22:21:34Z jojo-chan Stat-New >Korpusz; http://ce.linedict.com/dict.html#/cnen/entry/fe56856340e34a6e9f3e9e40824d4d8a
+星斗 星斗 [xing1 dou3] /csillag (égitest)/csillagok/
 
 # ID-p07LN0X
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
