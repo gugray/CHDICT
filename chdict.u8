@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-01-18T03:00:01Z
+# Datenstand: 2018-01-21T03:00:02Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -32819,7 +32819,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-h92Ql3j
 # Ver 2018-01-17T22:17:55Z jojo-chan Stat-New >http://ce.linedict.com/dict.html#/cnen/entry/d5480cd89328467486b7c3f55b38f3d2
-繳費 缴费 [jiao3 fei4] /kifizet/befizet (valamilyen díjat, kötelező költséget)/
+# 繳費 缴费 [jiao3 fei4] /kifizet/befizet (valamilyen díjat, kötelező költséget)/
+# Ver 2018-01-20T10:42:32Z gabor Stat-New >.
+# 繳費 缴费 [jiao3 fei4] /díjat fizet/ki|fizet; be|fizet (díjat, költséget)/
+# Ver 2018-01-20T10:42:34Z gabor Stat-Verif >.
+繳費 缴费 [jiao3 fei4] /díjat fizet/ki|fizet; be|fizet (díjat, költséget)/
 
 # ID-h92Rj3z
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -59206,6 +59210,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-o30gf9q
 # Ver 2018-01-17T22:26:58Z jojo-chan Stat-New >http://ce.linedict.com/dict.html#/cnen/entry/296deab910934b5fb14d867b50cf2904
+# 掃帚 扫帚 [sao4 zhou5] /seprű/
+# Ver 2018-01-20T10:44:16Z gabor Stat-Verif >.
 掃帚 扫帚 [sao4 zhou5] /seprű/
 
 # ID-o30gS2b
@@ -62417,7 +62423,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-p07ry0z
 # Ver 2018-01-17T22:21:34Z jojo-chan Stat-New >Korpusz; http://ce.linedict.com/dict.html#/cnen/entry/fe56856340e34a6e9f3e9e40824d4d8a
-星斗 星斗 [xing1 dou3] /csillag (égitest)/csillagok/
+# 星斗 星斗 [xing1 dou3] /csillag (égitest)/csillagok/
+# Ver 2018-01-20T10:43:55Z gabor Stat-New >.
+# 星斗 星斗 [xing1 dou3] /csillag (égitest)/a csillagok/
+# Ver 2018-01-20T10:43:57Z gabor Stat-Verif >.
+星斗 星斗 [xing1 dou3] /csillag (égitest)/a csillagok/
 
 # ID-p07LN0X
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
