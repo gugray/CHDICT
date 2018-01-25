@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-01-21T03:00:02Z
+# Datenstand: 2018-01-25T03:00:02Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -2647,6 +2647,16 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 帽子 帽子 [mao4 zi5] /sapka/kalap/címke/SZ:頂|顶[ding3]/
 
+# ID-a61Ae4S
+# Ver 2018-01-24T05:40:54Z GaoYanuo Stat-New >http://www.youdao.com/w/%E8%AF%95%E9%AA%8C%E5%8E%8B%E5%8A%9B/#keyfrom=dict2.top
+# 試驗壓力 试验压力 [shi4 yan4 ya1 li4] /próbanyomás/
+# Ver 2018-01-24T22:47:38Z gabor Stat-New >elhat
+# 試驗壓力 试验压力 [shi4 yan4 ya1 li4] /próba|nyomás/
+# Ver 2018-01-24T22:49:33Z gabor Stat-New >kicsit bezavar nekem a "próbanyomat"  (nyomdai), ezért kiegészítettem
+# 試驗壓力 试验压力 [shi4 yan4 ya1 li4] /próba|nyomás (nyomás alatt üzemelő gép ellenőrzéséhez)/
+# Ver 2018-01-24T22:49:37Z gabor Stat-Verif >.
+試驗壓力 试验压力 [shi4 yan4 ya1 li4] /próba|nyomás (nyomás alatt üzemelő gép ellenőrzéséhez)/
+
 # ID-a61Hi4V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 葷 荤 [hun1] /hús|étel (hús vagy hal; nem vegetáriánus)/erős szagú élelmiszer/
@@ -3616,7 +3626,11 @@
 
 # ID-a84cN2z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-轉向 转向 [zhuan3 xiang4] /irányt vált/meg|változtatja az álláspontját/
+# 轉向 转向 [zhuan3 xiang4] /irányt vált/meg|változtatja az álláspontját/
+# Ver 2018-01-24T04:36:22Z GaoYanuo Stat-Verif >http://www.youdao.com/w/direction%20of%20rotation/#keyfrom=dict2.top
+# 轉向 转向 [zhuan3 xiang4] /irányt vált/meg|változtatja az álláspontját/forgásirány/
+# Ver 2018-01-24T22:37:43Z gabor Stat-Verif >elhat
+轉向 转向 [zhuan3 xiang4] /irányt vált/meg|változtatja az álláspontját/forgás|irány/
 
 # ID-a84ho9n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -4276,7 +4290,11 @@
 
 # ID-b01fJ7f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-合成 合成 [he2 cheng2] /vegyít/szintetizál/szintézis/
+# 合成 合成 [he2 cheng2] /vegyít/szintetizál/szintézis/
+# Ver 2018-01-24T04:01:01Z GaoYanuo Stat-Verif >CC-CEDICT
+# 合成 合成 [he2 cheng2] /vegyít/szintetizál/szintézis/szintetikus; mű(-szál, -bőr, stb.)/
+# Ver 2018-01-24T22:34:52Z gabor Stat-Verif >átfogalmazás; szóköz
+合成 合成 [he2 cheng2] /vegyít/szintetizál/szintézis/szintetikus; mű- (módosítóként, pl. műbőr)/
 
 # ID-b01gD5U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -9230,6 +9248,12 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 嚴峻 严峻 [yan2 jun4] /szigorú/komoly/
 
+# ID-c24fM7i
+# Ver 2018-01-24T22:52:15Z gabor Stat-New >korpusz; 防爆 alapján
+# 防爆小組 防爆小组 [fang2 bao4 xiao3 zu3] /bomba|szakértők/tűzszerészek/
+# Ver 2018-01-24T22:53:18Z gabor Stat-Verif >.
+防爆小組 防爆小组 [fang2 bao4 xiao3 zu3] /bomba|szakértők/tűzszerészek/
+
 # ID-c24mI5H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 不止 不止 [bu4 zhi3] /szüntelenül/vég nélkül/több, mint/
@@ -10519,6 +10543,14 @@
 # Ver 2017-09-04T09:05:36Z gabor Stat-Verif >.
 街景 街景 [jie1 jing3] /utca|kép (interaktív online térkép jelentésben is, pl. a Baidu és a Tencent QQ szolgáltatásaként)/
 
+# ID-c55af5f
+# Ver 2018-01-24T05:14:38Z GaoYanuo Stat-New >http://www.youdao.com/w/%E5%8D%B1%E9%99%A9%E6%80%A7/#keyfrom=dict2.top\nhttps://dict.hjenglish.com/w/%E5%8D%B1%E9%99%A9%E6%80%A7
+# 危險性 危险性 [wei1 xian3 xing4] /veszély|es/kockázat|os/
+# Ver 2018-01-24T22:44:25Z gabor Stat-New >főnév
+# 危險性 危险性 [wei1 xian3 xing4] /veszély; veszélyesség/ártalmasság/
+# Ver 2018-01-24T22:44:28Z gabor Stat-Verif >.
+危險性 危险性 [wei1 xian3 xing4] /veszély; veszélyesség/ártalmasság/
+
 # ID-c55fq9q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 存在 存在 [cun2 zai4] /létezik/van/lét/
@@ -11146,6 +11178,14 @@
 # 鋼筆 钢笔 [gang1 bi3] /töltő|toll/
 # Ver 2017-11-27T17:35:24Z gabor Stat-Verif >.
 鋼筆 钢笔 [gang1 bi3] /töltő|toll/
+
+# ID-c68tW3e
+# Ver 2018-01-24T04:05:12Z GaoYanuo Stat-New >http://www.whchem.com/en/aboutus/overview.shtml
+# 萬華 万华 [wan4 hua4] /(cégnév) Wanhua Chemical (vegyipari multinacionális vállalat)/
+# Ver 2018-01-24T22:35:37Z gabor Stat-New >címek korr
+# 萬華 万华 [wan4 hua4] /(tulajdonnév) Wanhua Chemical (vegyipari multinacionális vállalat)/
+# Ver 2018-01-24T22:35:40Z gabor Stat-Verif >.
+萬華 万华 [wan4 hua4] /(tulajdonnév) Wanhua Chemical (vegyipari multinacionális vállalat)/
 
 # ID-c68xb9W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -13953,6 +13993,8 @@
 
 # ID-d34jl7Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
+# 單位 单位 [dan1 wei4] /egység (szervezeti; mértékegység is)/SZ:個|个[ge4]/
+# Ver 2018-01-24T06:51:30Z GaoYanuo Stat-Verif >Egy dokumentben találtam a "冷却水的单位消耗量" kifejezést, ami a szövegkörnyezet alapján fajlagos/egységnyi hűtővíz felhasználást jelent. A neten azonban nem találtam olyan szöveget, amiből egyértelműsíthető lenne, hogy 单位 = egységnyi/fajlagos.\nEmiatt nem mertem szerkeszteni. Privátban mellékelhetek részletet belőle.
 單位 单位 [dan1 wei4] /egység (szervezeti; mértékegység is)/SZ:個|个[ge4]/
 
 # ID-d34mV7R
@@ -14949,6 +14991,14 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 頂針 顶针 [ding3 zhen1] /gyűszű/
 
+# ID-d57KI4X
+# Ver 2018-01-24T05:48:47Z GaoYanuo Stat-New >http://www.youdao.com/w/%E8%BD%AC%E9%80%9F/#keyfrom=dict2.top\nCC_CEDICT
+# 轉速 转速 [zhuan4 su4] /forgási sebesség (technika)/szögsebesség/fordulatszám/
+# Ver 2018-01-24T22:50:19Z gabor Stat-New >elhat
+# 轉速 转速 [zhuan4 su4] /forgási sebesség (technika)/szög|sebesség/fordulatszám/
+# Ver 2018-01-24T22:50:21Z gabor Stat-Verif >.
+轉速 转速 [zhuan4 su4] /forgási sebesség (technika)/szög|sebesség/fordulatszám/
+
 # ID-d57RG1I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 上校 上校 [shang4 xiao4] /ezredes/
@@ -15346,6 +15396,14 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-d67hq4w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 露 露 [lou4] /fel|fed/meg|mutat/el|árul/
+
+# ID-d67kU9h
+# Ver 2018-01-24T04:59:26Z GaoYanuo Stat-New >http://www.youdao.com/w/%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9/#keyfrom=dict2.top\nhttps://dict.hjenglish.com/w/%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9
+# 註意事項 注意事项 [zhu4 yi4 shi4 xiang4] /szempont/észrevétel/megjegyzés/figyelemfelhívás; figyelmeztetés/
+# Ver 2018-01-24T22:41:35Z gabor Stat-New >összevontam párat; igazából ugyanazt a forró kását kerülgeti az összes megfogalmazás
+# 註意事項 注意事项 [zhu4 yi4 shi4 xiang4] /szempont; észrevétel; megjegyzés/jegyzetek; feljegyzések/figyelemfelhívás; figyelmeztetés/(figyelmet érdemlő ügyek, dolgok)/
+# Ver 2018-01-24T22:41:38Z gabor Stat-Verif >.
+註意事項 注意事项 [zhu4 yi4 shi4 xiang4] /szempont; észrevétel; megjegyzés/jegyzetek; feljegyzések/figyelemfelhívás; figyelmeztetés/(figyelmet érdemlő ügyek, dolgok)/
 
 # ID-d67mo1h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -17756,7 +17814,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-e25mA7x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-裝置 装置 [zhuang1 zhi4] /fel|szerel/be|épít/berendezés/készülék/
+# 裝置 装置 [zhuang1 zhi4] /fel|szerel/be|épít/berendezés/készülék/
+# Ver 2018-01-24T06:18:32Z GaoYanuo Stat-Verif >http://www.dictall.com/dictall/result.jsp?cd=UTF-8&keyword=%E8%A3%85%E7%BD%AE\nnem nyilvános dokumentum
+裝置 装置 [zhuang1 zhi4] /fel|szerel/be|épít/berendezés/készülék/üzem|egység/
 
 # ID-e25tx8T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -18255,6 +18315,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-e38ye7j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 顧問 顾问 [gu4 wen4] /tanácsadó/
+
+# ID-e38yM4y
+# Ver 2018-01-24T06:33:24Z GaoYanuo Stat-New >http://www.youdao.com/w/%E5%86%B7%E5%8D%B4%E6%B0%B4/#keyfrom=dict2.top
+冷卻水 冷却水 [leng3 que4 shui3] /hűtővíz/hűtött víz (környezeti hőfoknál hidegebb, hűtőgéppel hűtött hűtővíz)/
 
 # ID-e38yV1K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -19012,7 +19076,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-e57bQ9C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-消耗 消耗 [xiao1 hao4] /el|használ/ki|merít/
+# 消耗 消耗 [xiao1 hao4] /el|használ/ki|merít/
+# Ver 2018-01-24T06:09:30Z GaoYanuo Stat-Verif >http://www.youdao.com/w/%E6%B6%88%E8%80%97/#keyfrom=dict2.top\nNem tudom, hogy kéne egy bejegyzésbe tömöríteni az el/fel/használ szavakat. A használ a szótő, de ugye teljesen más a jelentés az igekötőtől függően.
+消耗 消耗 [xiao1 hao4] /el|használ/ki|merít/fogyaszt|ás /felhasznál|ás /
 
 # ID-e57dp9g
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -24420,6 +24486,12 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 著 着 [zhe5] /(aspektuspartikula: folyamatban levőséget, fennálló állapotot fejez ki)/(felszólítást nyomatékosító partikula)/
 
+# ID-f87Gl8z
+# Ver 2018-01-24T04:51:06Z GaoYanuo Stat-New >CC-CEDICT\nhttp://www.youdao.com/w/%E8%A3%85%E8%BD%BD/#keyfrom=dict2.top
+# 裝載 装载 [zhuang1 zai4] /berakodás/behajózás/
+# Ver 2018-01-24T22:39:17Z gabor Stat-Verif >.
+裝載 装载 [zhuang1 zai4] /berakodás/behajózás/
+
 # ID-f87Jn4A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 躲開 躲开 [duo3 kai1] /el|kerül (bajt, kellemetlen helyzetet stb.)/
@@ -24781,6 +24853,14 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-f96At1N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 斷絕 断绝 [duan4 jue2] /el|vág/meg|szakít (pl. kapcsolatot)/
+
+# ID-f96CJ5s
+# Ver 2018-01-24T04:22:01Z GaoYanuo Stat-New >CC-CEDICT\nhttp://www.youdao.com/w/%E7%94%B5%E5%8A%A8%E6%9C%BA/#keyfrom=dict2.top
+# 電動機 电动机 [dian4 dong4 ji1] /villanymotor/
+# Ver 2018-01-24T22:36:46Z gabor Stat-New >elhat
+# 電動機 电动机 [dian4 dong4 ji1] /villany|motor/
+# Ver 2018-01-24T22:36:49Z gabor Stat-Verif >.
+電動機 电动机 [dian4 dong4 ji1] /villany|motor/
 
 # ID-f96Iv2a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -28002,7 +28082,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-g73xI6x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-觸電 触电 [chu4 dian4] /meg|rázza az áram/áram|ütést kap/
+# 觸電 触电 [chu4 dian4] /meg|rázza az áram/áram|ütést kap/
+# Ver 2018-01-24T05:10:33Z GaoYanuo Stat-Verif >az áram|ütés azt sugallja, hogy más ütést is jelent, másrészt főnévként is használatos.\nforrás: berendezés használati utasítása
+觸電 触电 [chu4 dian4] /meg|rázza az áram/áramütés/
 
 # ID-g73FM8N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -29287,6 +29369,14 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-h03Pi2V
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 構造運動 构造运动 [gou4 zao4 yun4 dong4] /tektonikus mozgás/
+
+# ID-h03Rt3o
+# Ver 2018-01-24T05:38:32Z GaoYanuo Stat-New >http://www.youdao.com/w/%E6%8A%80%E6%9C%AF%E5%8F%82%E6%95%B0/#keyfrom=dict2.top\nkészülék dokumentum
+# 技術參數 技术参数 [ji4 shu4 can1 shu4] /Műszaki adatok/technikai paraméterek/
+# Ver 2018-01-24T22:47:02Z gabor Stat-New >kisbötű
+# 技術參數 技术参数 [ji4 shu4 can1 shu4] /műszaki adatok/technikai paraméterek/
+# Ver 2018-01-24T22:47:05Z gabor Stat-Verif >.
+技術參數 技术参数 [ji4 shu4 can1 shu4] /műszaki adatok/technikai paraméterek/
 
 # ID-h03TC4D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -31564,6 +31654,16 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 江 江 [jiang1] /folyó; folyam/SZ:條|条[tiao2],道[dao4]/(családnév) Jian/
 
+# ID-h63Ny3R
+# Ver 2018-01-24T05:54:44Z GaoYanuo Stat-New >http://www.youdao.com/w/%E9%98%B2%E7%88%86%E9%98%B2%E6%8A%A4%E7%AD%89%E7%BA%A7/#keyfrom=dict2.top
+# 防爆 防爆 [fang2 bao4] /robbanásvédelem/robbanásvédelmi/
+# Ver 2018-01-24T05:58:29Z GaoYanuo Stat-New >a forrás ugyanaz, csak én néztem be nagy csipásan. \nA 防爆防护等级 = robbanásvédelmi besorolási osztályt próbáltam szavakra bontani, aztán közben megkeveredtem.
+# 防爆 防爆 [fang2 bao4] /robbanásbiztos/
+# Ver 2018-01-24T22:51:32Z gabor Stat-New >kieg ABC alapján
+# 防爆 防爆 [fang2 bao4] /robbanás|biztos/tűz|biztos/
+# Ver 2018-01-24T22:51:35Z gabor Stat-Verif >.
+防爆 防爆 [fang2 bao4] /robbanás|biztos/tűz|biztos/
+
 # ID-h63QX2Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 產生 产生 [chan3 sheng1] /fel|merül/elő|idéz/okoz/generál/
@@ -32403,6 +32503,12 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-h83xm3G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 一般 一般 [yi1 ban1] /általános/általában/
+
+# ID-h83Ea1v
+# Ver 2018-01-24T05:44:06Z GaoYanuo Stat-New >http://www.youdao.com/w/%E5%8A%9F%E7%8E%87/#keyfrom=dict2.top\nCC-CEDICT
+# 功率 功率 [gong1 lü4] /teljesítmény (fizika)/
+# Ver 2018-01-24T22:49:53Z gabor Stat-Verif >.
+功率 功率 [gong1 lü4] /teljesítmény (fizika)/
 
 # ID-h83Fu6o
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -33746,6 +33852,14 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 衛士 卫士 [wei4 shi4] /őr; test|őr/
 
+# ID-i14lN9L
+# Ver 2018-01-24T04:28:45Z GaoYanuo Stat-New >http://www.youdao.com/w/airtight/#keyfrom=E2Ctranslation
+# 氣密 气密 [qi4 mi4] /gáztömör/légmentesen záró/
+# Ver 2018-01-24T22:37:23Z gabor Stat-New >megcseréltem, az első szerintem közérthetőbb/általánosabb
+# 氣密 气密 [qi4 mi4] /légmentesen záró/gáztömör/
+# Ver 2018-01-24T22:37:25Z gabor Stat-Verif >.
+氣密 气密 [qi4 mi4] /légmentesen záró/gáztömör/
+
 # ID-i14pZ1S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 平 平 [ping2] /lapos/sima/egyenlő (egy szintben van vmivel)/döntetlen/békés/
@@ -34582,6 +34696,14 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-i34Gm4W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 進 进 [jin4] /be|lép/be|megy/eszik; iszik/be|nyújt/(ige utáni kiegészítőként befelé irányuló mozgást jelez)/
+
+# ID-i34Je7W
+# Ver 2018-01-24T06:03:19Z GaoYanuo Stat-New >http://www.youdao.com/w/%E7%89%A9%E6%96%99%E5%AE%88%E6%81%92/#keyfrom=dict2.top
+# 物料守恆 物料守恒 [wu4 liao4 shou3 heng2] /anyagmegmaradás/tömegmérleg (kémia, technológia)/
+# Ver 2018-01-24T22:52:49Z gabor Stat-New >elhat
+# 物料守恆 物料守恒 [wu4 liao4 shou3 heng2] /anyag|megmaradás/tömegmérleg (kémia, technológia)/
+# Ver 2018-01-24T22:52:51Z gabor Stat-Verif >.
+物料守恆 物料守恒 [wu4 liao4 shou3 heng2] /anyag|megmaradás/tömegmérleg (kémia, technológia)/
 
 # ID-i34KY0U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -36409,6 +36531,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 碟 碟 [die2] /tál; tányér; csésze|alj/lemez; korong/
 
+# ID-i79dj0b
+# Ver 2018-01-24T06:36:35Z GaoYanuo Stat-New >http://www.youdao.com/w/%E8%B4%9F%E8%8D%B7/#keyfrom=dict2.top
+負荷 负荷 [fu4 he4] /teher (fizikai)/terhelés (fizikai)/
+
 # ID-i79nm6R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 越過 越过 [yue4 guo4] /keresztez/át|lép/meg|halad/meg|tesz (távolságot)/felül|emelkedik/
@@ -37396,6 +37522,14 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-j04sS6x
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 大旗 大旗 [da4 qi2] /zászló; lobogó/
+
+# ID-j04vH5O
+# Ver 2018-01-24T04:41:18Z GaoYanuo Stat-New >CC-CEDICT\nhttp://www.youdao.com/w/%E6%A3%80%E4%BF%AE/#keyfrom=dict2.top
+# 檢修 检修 [jian3 xiu1] /szervizelés/nagyjavítás; generáljavítás/
+# Ver 2018-01-24T22:38:02Z gabor Stat-New >elhat
+# 檢修 检修 [jian3 xiu1] /szervizelés/nagy|javítás; generál|javítás/
+# Ver 2018-01-24T22:38:16Z gabor Stat-Verif >.
+檢修 检修 [jian3 xiu1] /szervizelés/nagy|javítás; generál|javítás/
 
 # ID-j04xo8C
 # Ver 2017-11-24T19:41:07Z GaoYanuo Stat-New >http://dictionary.pinpinchinese.com/search/t/%E6%9A%96%E5%86%AC\nhttps://dict.hjenglish.com/w/%E6%9A%96%E5%86%AC
@@ -42920,6 +43054,14 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 蛇毒 蛇毒 [she2 du2] /kígyó|méreg/
 
+# ID-k36er6j
+# Ver 2018-01-24T05:26:40Z GaoYanuo Stat-New >CC-CEDICT\nhttp://www.youdao.com/w/limen/#keyfrom=E2Ctranslation\nhttps://dict.hjenglish.com/w/%E9%98%80
+# 閥 阀 [fa2] /klikk/befolyásos csoport/szelep/
+# Ver 2018-01-24T22:45:44Z gabor Stat-New >korpusz, ABC alapján; klikk egyértelműsítése (nem kattintás)
+# 閥 阀 [fa2] /klikk (csoport)/befolyásos csoport/befolyásos ember/szelep/
+# Ver 2018-01-24T22:45:46Z gabor Stat-Verif >.
+閥 阀 [fa2] /klikk (csoport)/befolyásos csoport/befolyásos ember/szelep/
+
 # ID-k36od7Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 有空 有空 [you3 kong4] /van ideje (vmire)/
@@ -46137,6 +46279,12 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 頸子 颈子 [jing3 zi5] /nyak/
 
+# ID-l14Iv8G
+# Ver 2018-01-24T05:05:54Z GaoYanuo Stat-New >http://www.youdao.com/w/%E6%8E%A5%E5%9C%B0/#keyfrom=dict2.top\nhttps://dict.hjenglish.com/w/%E6%8E%A5%E5%9C%B0
+# 接地 接地 [jie1 di4] /földelés (elektrotechnika)/
+# Ver 2018-01-24T22:42:57Z gabor Stat-Verif >.
+接地 接地 [jie1 di4] /földelés (elektrotechnika)/
+
 # ID-l14Iz2w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 掘出 掘出 [jue2 chu1] /ki|ás/
@@ -47625,7 +47773,10 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-l49gH3G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-運輸 运输 [yun4 shu1] /közlekedés/áru|szállítás/
+# 運輸 运输 [yun4 shu1] /közlekedés/áru|szállítás/
+# Ver 2018-01-24T04:45:16Z GaoYanuo Stat-Verif >A második jelentést redukálnám "szállítás"-ra.\nBármilyen tárgy, objektum (el)szállítására vonatkozhat, nem csak termék és áru összefüggésben. Pl. tilosban parkoló jármű elszállítása.
+# Ver 2018-01-24T22:38:50Z gabor Stat-Verif >egyetértek
+運輸 运输 [yun4 shu1] /közlekedés/szállítás/
 
 # ID-l49sP9l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -54989,6 +55140,14 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 感興趣 感兴趣 [gan3 xing4 qu4] /érdekli (vmi)/érdeklődik (vmi iránt)/
 
+# ID-n26Jf4d
+# Ver 2018-01-24T04:14:19Z GaoYanuo Stat-New >http://www.youdao.com/example/%E9%93%AD%E7%89%8C/#keyfrom=dict.basic.ce
+# 銘牌 铭牌 [ming2 pai2] /névtábla/adattábla (gépeken)/
+# Ver 2018-01-24T22:36:21Z gabor Stat-New >elhat
+# 銘牌 铭牌 [ming2 pai2] /név|tábla/adat|tábla (gépeken)/
+# Ver 2018-01-24T22:36:23Z gabor Stat-Verif >.
+銘牌 铭牌 [ming2 pai2] /név|tábla/adat|tábla (gépeken)/
+
 # ID-n26Mn2d
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 飛魚 飞鱼 [fei1 yu2] /repülő|hal/
@@ -57050,6 +57209,14 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-n76vR3E
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 右派 右派 [you4 pai4] /jobb|oldal (politikai)/jobboldali; jobbos/
+
+# ID-n76MZ9S
+# Ver 2018-01-24T05:31:01Z GaoYanuo Stat-New >CC-CEDICT\nhttp://www.youdao.com/w/%E6%B3%B5/#keyfrom=dict2.top
+# 泵 泵 [beng4] /szivattyú/
+# Ver 2018-01-24T22:46:28Z gabor Stat-New >LOL, ez a "pump" fonetikus átvétele :)
+# 泵 泵 [beng4] /szivattyú; pumpa/
+# Ver 2018-01-24T22:46:30Z gabor Stat-Verif >.
+泵 泵 [beng4] /szivattyú; pumpa/
 
 # ID-n76Na7j
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -60510,7 +60677,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-o62pD9H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-安裝 安装 [an1 zhuang1] /telepít (számítógépen)/be|szerel/
+# 安裝 安装 [an1 zhuang1] /telepít (számítógépen)/be|szerel/
+# Ver 2018-01-24T04:19:12Z GaoYanuo Stat-Verif >http://www.youdao.com/w/%E5%AE%89%E8%A3%85/#keyfrom=dict2.top
+安裝 安装 [an1 zhuang1] /telepít (szoftvert, berendezést, gépet)/be|szerel/
 
 # ID-o62pV5Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -62173,7 +62342,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-p01ut9M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-結晶 结晶 [jie2 jing1] /kristályosodás/kristályos/
+# 結晶 结晶 [jie2 jing1] /kristályosodás/kristályos/
+# Ver 2018-01-24T06:21:40Z GaoYanuo Stat-Verif >http://www.dictall.com/dictall/result.jsp?cd=UTF-8&keyword=%E7%BB%93%E6%99%B6
+結晶 结晶 [jie2 jing1] /kristályosodás/kristályos/kristályosít|ás/kristályosító/
 
 # ID-p01vc4C
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
