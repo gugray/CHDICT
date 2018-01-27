@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-01-25T03:00:02Z
+# Datenstand: 2018-01-27T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -2298,6 +2298,10 @@
 # ID-a51tr0p
 # Ver 2017-12-10T17:30:06Z gabor Stat-New >CEDICT, korpusz
 貴重物品 贵重物品 [gui4 zhong4 wu4 pin3] /érték|tárgy/
+
+# ID-a51xp1w
+# Ver 2018-01-26T18:19:42Z GaoYanuo Stat-New >korpusz\nCC-CEDICT\nhttp://www.dictall.com/st/2/12/212211E3D8.htm
+殘渣 残渣 [can2 zha1] /maradék/üledék/törmelék/szemét, hulladék/
 
 # ID-a51EZ3L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -25211,6 +25215,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-g05uC4r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 進一步 进一步 [jin4 yi1 bu4] /egy lépéssel tovább/további/tovább/
+
+# ID-g05zG2v
+# Ver 2018-01-26T17:06:36Z GaoYanuo Stat-New >http://www.youdao.com/w/eng/%E4%BA%A7%E7%89%A9/#keyfrom=dict2.index\nCC-CEDICT
+產物 产物 [chan3 wu4] /eredmény/termék (átv. is)/
 
 # ID-g05AK9G
 # Ver 2017-11-25T15:52:02Z GaoYanuo Stat-New >CC-CEDICT\nhttp://dict.youdao.com/w/%E5%85%89%E6%A3%8D/#keyfrom=dict2.top
