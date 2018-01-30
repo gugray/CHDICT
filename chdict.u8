@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-01-27T03:00:01Z
+# Datenstand: 2018-01-30T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -758,6 +758,10 @@
 # ID-a17jf3w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 上品 上品 [shang4 pin3] /első osztályú (jó minőségű)/
+
+# ID-a17qF3p
+# Ver 2018-01-29T20:14:08Z GaoYanuo Stat-New >http://www.youdao.com/w/%E7%A4%BA%E6%84%8F%E6%80%A7/#keyfrom=dict2.top\nhttp://www.dictall.com/dictall/result.jsp?cd=UTF-8&keyword=%E7%A4%BA%E6%84%8F%E6%80%A7
+示意性 示意性 [shi4 yi4 xing4] /vázlatos/sematikus/
 
 # ID-a17Jo7w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -9049,6 +9053,10 @@
 # ID-c17Do1X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 加強 加强 [jia1 qiang2] /meg|erősít (pl. védelmet)/
+
+# ID-c17FT9D
+# Ver 2018-01-29T20:56:59Z GaoYanuo Stat-New >http://www.dictall.com/dictall/result.jsp?cd=UTF-8&keyword=%E8%92%B8%E9%A6%8F\nhttp://www.youdao.com/w/%E8%92%B8%E9%A6%8F/#keyfrom=dict2.top
+蒸餾 蒸馏 [zheng1 liu2] /lepárlás; desztilláció/
 
 # ID-c17NH3D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -20001,6 +20009,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 幾率 几率 [ji1 lü4] /valószínűség/
 
+# ID-e78gj2b
+# Ver 2018-01-29T20:43:21Z GaoYanuo Stat-New >korpusz, CC-CEDICT\nhttp://www.youdao.com/w/%E9%99%8D%E8%86%9C/#keyfrom=dict2.top\nhttp://www.dictall.com/dictall/result.jsp?cd=UTF-8&keyword=%E7%86%94%E8%9E%8D
+熔融 熔融 [rong2 rong2] /olvadék, megolvadt/
+
 # ID-e78rW5A
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 海鳥 海鸟 [hai3 niao3] /tengeri madár/
@@ -25957,6 +25969,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-g22gg8c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 株 株 [zhu1] /törzs (fáé)/növény/(számlálószó: növények, fák)/
+
+# ID-g22gt6L
+# Ver 2018-01-29T20:39:07Z GaoYanuo Stat-New >http://www.youdao.com/w/%E9%99%8D%E8%86%9C/#keyfrom=dict2.top
+降膜 降膜 [jiang4 mo2] /esőfilmes (lecsurgó vékony folyadékréteggel működő)/
 
 # ID-g22nh4P
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -39544,6 +39560,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 甲板 甲板 [jia3 ban3] /fedélzet (hajón)/
 
+# ID-j52mM6V
+# Ver 2018-01-29T20:52:50Z GaoYanuo Stat-New >http://www.youdao.com/w/%E8%92%B8%E6%B0%94/#keyfrom=dict2.top\nhttp://www.dictall.com/dictall/result.jsp?cd=UTF-8&keyword=%E8%92%B8%E6%B0%94
+蒸氣 蒸气 [zheng1 qi4] /gőz (összetételek előtagjaként is, mint gőzzel működő)/pára/gőzöl (gőzzel működtet, kezel vmit.)/
+
 # ID-j52uA0E
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 書信 书信 [shu1 xin4] /levél (írott üzenet)/
@@ -51765,6 +51785,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 海拔 海拔 [hai3 ba2] /magasság (tengerszint feletti)/
 
+# ID-m44Sy3A
+# Ver 2018-01-29T21:13:55Z GaoYanuo Stat-New >korpusz, CC-CEDICT\nhttp://www.youdao.com/w/%E6%B5%81%E9%87%8F/#keyfrom=dict2.top\nhttp://www.dictall.com/dictall/result.jsp?cd=UTF-8&keyword=%E6%B5%81%E9%87%8F
+流量 流量 [liu2 liang4] /áramlás; fluxus (technika, informatika, gazdaságatan)/anyagáram/forgalom/
+
 # ID-m44Wi2y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 心想 心想 [xin1 xiang3] /gondol/vél/azt hiszi/
@@ -54721,6 +54745,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-n15VL4a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 文藝 文艺 [wen2 yi4] /irodalom és művészet/
+
+# ID-n15Wk2o
+# Ver 2018-01-29T21:01:59Z GaoYanuo Stat-New >http://www.dictall.com/dictall/result.jsp?cd=UTF-8&keyword=%E7%B2%BE%E9%A6%8F\nhttp://www.youdao.com/w/%E7%B2%BE%E9%A6%8F/#keyfrom=dict2.top
+精餾 精馏 [jing1 liu2] /rektifikálás (többszörösen megismételt desztilláció)/
 
 # ID-n16cc3K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -63109,6 +63137,12 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-p18lj2T
 # Ver 2017-05-21T21:38:53Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek (a pinjin-átírás ellenőrizendő)
 剋爾切伊費倫茨 克尔切伊费伦茨 [ke4 er3 qie1 yi1 fei4 lun2 ci2] /(átirat) Kölcsey Ferenc/
+
+# ID-p18pI4v
+# Ver 2018-01-29T20:03:26Z GaoYanuo Stat-New >http://www.youdao.com/w/%E4%BB%8B%E8%B4%A8/#keyfrom=dict2.top\nhttp://www.dictall.com/dictall/result.jsp?cd=UTF-8&keyword=%E4%BB%8B%E8%B4%A8
+# 介質 介质 [jie4 zhi4] /közeg/közvetítő/dielektromos/neurogén/
+# Ver 2018-01-29T20:15:13Z GaoYanuo Stat-New >pontosítás
+介質 介质 [jie4 zhi4] /közeg/közvetítő; átvivő/dielektromos/neurogén/
 
 # ID-p18wn3A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
