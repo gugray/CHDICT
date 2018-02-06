@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-01-30T03:00:01Z
+# Datenstand: 2018-02-06T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -31544,7 +31544,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-h59Si0f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-收藏 收藏 [shou1 cang2] /gyűjt/fel|halmoz/
+# 收藏 收藏 [shou1 cang2] /gyűjt/fel|halmoz/
+# Ver 2018-02-05T17:16:03Z gabor Stat-Verif >https://twitter.com/withoutdoing/status/959128541311877120
+收藏 收藏 [shou1 cang2] /gyűjt/fel|halmoz/kedvencek közé rak (pl. böngészőben)/
 
 # ID-h59SO3G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -53956,6 +53958,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 臭烘烘 臭烘烘 [chou4 hong1 hong1] /büdös; bűzlő/
 
+# ID-m95az9T
+# Ver 2018-02-05T17:16:46Z gabor Stat-New >https://twitter.com/withoutdoing/status/959128541311877120
+被和諧 被和谐 [bei4 he2 xie2] /ki|moderálják; ki|cenzúrázzák (online)/
+
 # ID-m95lm1e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 不幸 不幸 [bu4 xing4] /balszerencse/szerencsétlenség/SZ:個|个[ge4]/szomorú/sajnos/
@@ -53998,7 +54004,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-m96kk3i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-評論 评论 [ping2 lun4] /véleményez; meg|vitat/kommentár/kritika/SZ:篇[pian1]/
+# 評論 评论 [ping2 lun4] /véleményez; meg|vitat/kommentel (online)/kommentár/kritika/SZ:篇[pian1]/
+# Ver 2018-02-05T17:13:47Z gabor Stat-Verif >https://twitter.com/withoutdoing/status/959128541311877120
+# 評論 评论 [ping2 lun4] /véleményez; meg|vitat/kommentár/kritika/SZ:篇[pian1]/
+# Ver 2018-02-05T17:13:47Z gabor Stat-Verif >https://twitter.com/withoutdoing/status/959128541311877120
+評論 评论 [ping2 lun4] /véleményez; meg|vitat/kommentel (online)/kommentár/kritika/SZ:篇[pian1]/
 
 # ID-m96tK7m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -60087,6 +60097,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 癮君子 瘾君子 [yin3 jun1 zi3] /drog|függő/lánc|dohányos/függő/
 
+# ID-o46Ed2w
+# Ver 2018-02-05T17:13:14Z gabor Stat-New >https://twitter.com/withoutdoing/status/959128541311877120
+點贊 点赞 [dian3 zan4] /lájkol/
+
 # ID-o46Pt4S
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 讀書會 读书会 [du2 shu1 hui4] /könyv|klub/
@@ -61200,7 +61214,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-o75An9T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-發 发 [fa1] /küld/ki|mutat/ki|ad/(számlálószó: lőfegyverek esetén: sorozat)/
+# 發 发 [fa1] /küld/ki|mutat/ki|ad/(számlálószó: lőfegyverek esetén: sorozat)/
+# Ver 2018-02-05T17:10:23Z gabor Stat-Verif >https://twitter.com/withoutdoing/status/959128541311877120
+發 发 [fa1] /küld/ki|mutat/ki|ad/posztol (online)/(számlálószó: lőfegyverek esetén: sorozat)/
 
 # ID-o75GP6e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -61461,6 +61477,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-o81kb6y
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 男爵 男爵 [nan2 jue2] /báró/
+
+# ID-o81lu8z
+# Ver 2018-02-05T17:18:50Z gabor Stat-New >https://twitter.com/withoutdoing/status/959128541311877120
+拉黑 拉黑 [la1 hei1] /le|tilt (online, pl. közösségi médián)/
 
 # ID-o81nz6o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
