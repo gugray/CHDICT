@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-02-06T03:00:01Z
+# Datenstand: 2018-02-23T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -23281,6 +23281,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 法子 法子 [fa3 zi5] /mód/módszer/
 
+# ID-f57pA5c
+# Ver 2018-02-22T09:12:11Z gabor Stat-New >ABC
+臉皮 脸皮 [lian3 pi2] /arc; orca/
+
 # ID-f57vI1s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 語氣 语气 [yu3 qi4] /hangnem/tónus/mód (nyelvészet: igemód)/SZ:個|个[ge4]/
@@ -26147,6 +26151,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-g27yd0p
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 浩渺 浩渺 [hao4 miao3] /hatalmas; távolba vesző (víz)/
+
+# ID-g27yz9h
+# Ver 2018-02-22T09:13:09Z gabor Stat-New >http://languagelog.ldc.upenn.edu/nll/?p=36821\nABC, korpusz
+不要臉 不要脸 [bu4 yao4 lian3] /szégyentelen/
 
 # ID-g27yP1i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -40364,6 +40372,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 大廳 大厅 [da4 ting1] /csarnok/
 
+# ID-j71OY4b
+# Ver 2018-02-22T09:10:53Z gabor Stat-New >http://languagelog.ldc.upenn.edu/nll/?p=36821\nkorpusz
+厚臉皮 厚脸皮 [hou4 lian3 pi2] /pimasz; szemtelen; vastag a bőre/
+
 # ID-j72hf1t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 毒品 毒品 [du2 pin3] /kábító|szer/drog/
@@ -50072,6 +50084,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-m05tM8T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 強度 强度 [qiang2 du4] /erősség/intenzitás/
+
+# ID-m05BH9z
+# Ver 2018-02-22T09:08:14Z gabor Stat-New >http://languagelog.ldc.upenn.edu/nll/?p=36821\nkorpusz
+肉麻 肉麻 [rou4 ma2] /émelyítő; érzelgős; giccses/
 
 # ID-m05CF5J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
