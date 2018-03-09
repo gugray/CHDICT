@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-03-08T03:00:01Z
+# Datenstand: 2018-03-09T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -10159,7 +10159,11 @@
 
 # ID-c45WZ6N
 # Ver 2018-03-07T20:55:01Z jojo-chan Stat-New >http://ce.linedict.com/dict.html#/cnen/entry/ba107b828e8949969fd1729446f66f03
-突兀 突兀 [tu1 wu4] /váratlan, hirtelen/magas (hegy)/
+# 突兀 突兀 [tu1 wu4] /váratlan, hirtelen/magas (hegy)/
+# Ver 2018-03-08T19:45:01Z gabor Stat-New >kieg, korr; ABC, korpusz
+# 突兀 突兀 [tu1 wu4] /váratlan; hirtelen/feltűnő/magas; tornyosuló/
+# Ver 2018-03-08T19:45:05Z gabor Stat-Verif >.
+突兀 突兀 [tu1 wu4] /váratlan; hirtelen/feltűnő/magas; tornyosuló/
 
 # ID-c46aj8x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -19665,7 +19669,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-e68LJ8f
 # Ver 2018-03-07T21:32:55Z GaoYanuo Stat-New >CHEDICT, HSK3 tanköny
-事假 事假 [shi4 jia4] /szabadság; távollét (munkahelyi, iskolai)/
+# 事假 事假 [shi4 jia4] /szabadság; távollét (munkahelyi, iskolai)/
+# Ver 2018-03-08T19:46:26Z gabor Stat-New >ABC
+# 事假 事假 [shi4 jia4] /szabadság; távollét (munkahelyi, iskolai; különleges okból, méltányosságból)/
+# Ver 2018-03-08T19:46:29Z gabor Stat-Verif >.
+事假 事假 [shi4 jia4] /szabadság; távollét (munkahelyi, iskolai; különleges okból, méltányosságból)/
 
 # ID-e68Ui2t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -57168,7 +57176,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-n73gl0u
 # Ver 2018-03-07T21:54:13Z jojo-chan Stat-New >http://ce.linedict.com/dict.html#/cnen/entry/dfa5c3b253a94f0da7bf835325c7f064
-彷徨 彷徨 [pang2 huang2] /habozik/bizonytalankodik/hezitál/bizonytalan/
+# 彷徨 彷徨 [pang2 huang2] /habozik/bizonytalankodik/hezitál/bizonytalan/
+# Ver 2018-03-08T19:48:13Z gabor Stat-New >tömörebben
+# 彷徨 彷徨 [pang2 huang2] /habozik; tétovázik/bizonytalan; határozatlan/
+# Ver 2018-03-08T19:48:15Z gabor Stat-Verif >.
+彷徨 彷徨 [pang2 huang2] /habozik; tétovázik/bizonytalan; határozatlan/
 
 # ID-n73jM1v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
