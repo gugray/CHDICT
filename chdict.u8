@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-03-16T03:00:01Z
+# Datenstand: 2018-03-17T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -9436,7 +9436,11 @@
 
 # ID-c28Wb4J
 # Ver 2018-03-15T23:44:43Z jojo-chan Stat-New >http://ce.linedict.com/dict.html#/cnen/entry/0da5f7965a9f496b87ed1a390466b7d1
-鐵絲網 铁丝网 [tie3 si1 wang3] /szögesdrót/
+# 鐵絲網 铁丝网 [tie3 si1 wang3] /szögesdrót/
+# Ver 2018-03-16T22:33:29Z gabor Stat-New >elhat; kieg: ABC, Google
+# 鐵絲網 铁丝网 [tie3 si1 wang3] /szöges|drót/drót|háló/
+# Ver 2018-03-16T22:33:34Z gabor Stat-Verif >.
+鐵絲網 铁丝网 [tie3 si1 wang3] /szöges|drót/drót|háló/
 
 # ID-c28WD2o
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
