@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-03-20T03:00:01Z
+# Datenstand: 2018-03-21T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -51831,7 +51831,11 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2018-01-29T21:13:55Z GaoYanuo Stat-New >korpusz, CC-CEDICT\nhttp://www.youdao.com/w/%E6%B5%81%E9%87%8F/#keyfrom=dict2.top\nhttp://www.dictall.com/dictall/result.jsp?cd=UTF-8&keyword=%E6%B5%81%E9%87%8F
 # 流量 流量 [liu2 liang4] /áramlás; fluxus (technika, informatika, gazdaságatan)/anyagáram/forgalom/
 # Ver 2018-03-19T22:43:19Z Adam Stat-New >elírás javítása
-流量 流量 [liu2 liang4] /áramlás; fluxus (technika, informatika, gazdaságtan)/anyagáram/forgalom/
+# 流量 流量 [liu2 liang4] /áramlás; fluxus (technika, informatika, gazdaságtan)/anyagáram/forgalom/
+# Ver 2018-03-20T21:28:10Z gabor Stat-New >elhat
+# 流量 流量 [liu2 liang4] /áramlás; fluxus (technika, informatika, gazdaságtan)/anyag|áram/forgalom/
+# Ver 2018-03-20T21:28:12Z gabor Stat-Verif >.
+流量 流量 [liu2 liang4] /áramlás; fluxus (technika, informatika, gazdaságtan)/anyag|áram/forgalom/
 
 # ID-m44Wi2y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -61454,7 +61458,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-o79Yx7W
 # Ver 2018-03-18T21:23:51Z jojo-chan Stat-New >http://archiv.akk.uni-nke.hu/uploads/media_items/nke-akk-okj-segedanyag2.original.pdf
-全國人民代表大會 全国人民代表大会 [quan2 guo2 ren2 min2 dai4 biao3 da4 hui4] /Országos Népi Gyűlés/
+# 全國人民代表大會 全国人民代表大会 [quan2 guo2 ren2 min2 dai4 biao3 da4 hui4] /Országos Népi Gyűlés/
+# Ver 2018-03-20T21:30:42Z gabor Stat-New >magyarázat/kieg
+# 全國人民代表大會 全国人民代表大会 [quan2 guo2 ren2 min2 dai4 biao3 da4 hui4] /Országos Népi Gyűlés (a KNK legfelsőbb törvényhozó hatalma; évente egyszer ülésezik)/
+# Ver 2018-03-20T21:30:48Z gabor Stat-Verif >aktuális :)
+全國人民代表大會 全国人民代表大会 [quan2 guo2 ren2 min2 dai4 biao3 da4 hui4] /Országos Népi Gyűlés (a KNK legfelsőbb törvényhozó hatalma; évente egyszer ülésezik)/
 
 # ID-o80ip3s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
