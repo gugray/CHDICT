@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-03-24T03:00:01Z
+# Datenstand: 2018-04-06T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -45439,6 +45439,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-k93Lg7K
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 非此即彼 非此即彼 [fei1 ci3 ji2 bi3] /vagy ez, vagy az; vagy-vagy/
+
+# ID-k93Xb2L
+# Ver 2018-04-05T18:11:16Z jojo-chan Stat-New >Galambos Imre 2013. Magyar-kínai szótár. Budapest: Magyar Kultúra Kiadó, 16.
+面霜 面霜 [mian4 shuang1] /arckrém/
 
 # ID-k94dZ0k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
