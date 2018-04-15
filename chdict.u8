@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-04-13T02:00:01Z
+# Datenstand: 2018-04-15T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -5719,6 +5719,14 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 維克多 维克多 [wei2 ke4 duo1] /(átirat) Victor; Viktor/
 
+# ID-b34Zs7P
+# Ver 2018-04-14T18:36:09Z jojo-chan Stat-New >Korpusz
+# 塞爾維亞 塞尔维亚 [sai1 er3 wei2 ya4] /Szerbia/
+# Ver 2018-04-14T20:07:01Z gabor Stat-New >címke; wikipedia is megerősíti :)
+# 塞爾維亞 塞尔维亚 [sai1 er3 wei2 ya4] /(földrajzi név) Szerbia/
+# Ver 2018-04-14T20:07:15Z gabor Stat-Verif >wikipedia is megerősíti :)
+塞爾維亞 塞尔维亚 [sai1 er3 wei2 ya4] /(földrajzi név) Szerbia/
+
 # ID-b35bo2S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 分局 分局 [fen1 ju2] /fiók|iroda/
@@ -8601,6 +8609,14 @@
 # 結腸 结肠 [jie2 chang2] /vastag|bél/
 # Ver 2017-12-08T21:22:30Z gabor Stat-Verif >.
 結腸 结肠 [jie2 chang2] /vastag|bél/
+
+# ID-c06iL5v
+# Ver 2018-04-14T16:22:28Z jojo-chan Stat-New >https://baike.baidu.com/item/%E9%A5%B6%E6%9C%89%E5%85%B4%E8%B6%A3
+# 饒有興趣 饶有兴趣 [rao2 you3 xing4 qu4] /lebilincselő/érdekes/izgalmas/
+# Ver 2018-04-14T20:08:36Z gabor Stat-New >ezen töprengtem egy darabig. ha nem is úgy kifejezés, mint egy 成语, a bake megfogalmazásából is úgy tűnik,  ez afféle állandósult szókapcsolat. ezért a címke.
+# 饒有興趣 饶有兴趣 [rao2 you3 xing4 qu4] /(kifejezés) lebilincselő; érdekes; izgalmas/
+# Ver 2018-04-14T20:08:48Z gabor Stat-Verif >.
+饒有興趣 饶有兴趣 [rao2 you3 xing4 qu4] /(kifejezés) lebilincselő; érdekes; izgalmas/
 
 # ID-c06oT4o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -11918,6 +11934,14 @@
 # ID-c85qn6o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 林肯 林肯 [lin2 ken3] /(átirat) Lincoln/
+
+# ID-c85tT2W
+# Ver 2018-04-14T16:17:23Z jojo-chan Stat-New >https://zh.wikipedia.org/wiki/%E7%AE%A1%E9%A3%8E%E7%90%B4
+# 管風琴 管风琴 [guan3 feng1 qin2] /orgona (hangszer)/
+# Ver 2018-04-14T19:22:59Z gabor Stat-New >szszó
+# 管風琴 管风琴 [guan3 feng1 qin2] /orgona (hangszer)/SZ:台[tai2]/
+# Ver 2018-04-14T19:23:02Z gabor Stat-Verif >.
+管風琴 管风琴 [guan3 feng1 qin2] /orgona (hangszer)/SZ:台[tai2]/
 
 # ID-c85vf8X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -18185,6 +18209,12 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-e33Po6j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 頭兒 头儿 [tou2 r5] /főnök (rendőrfőnök stb.)/
+
+# ID-e33Tv6s
+# Ver 2018-04-14T20:13:03Z gabor Stat-New >CEDICT; 饶有兴趣 ürügyén
+# 饒有 饶有 [rao2 you3] /teli; bővelkedik (elvont vmiben: humor, érzés, izgalom stb.)/
+# Ver 2018-04-14T20:14:26Z gabor Stat-Verif >.
+饒有 饶有 [rao2 you3] /teli; bővelkedik (elvont vmiben: humor, érzés, izgalom stb.)/
 
 # ID-e33ZL8p
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -40926,6 +40956,13 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 咔噠聲 咔哒声 [ka3 da5 sheng1] /(hangutánzó) kopp/kattanás; koppanás/
 
+# ID-j85hL2k
+# Ver 2018-04-14T17:33:30Z jojo-chan Stat-New >https://zh.wikipedia.org/wiki/%E5%A4%A7%E6%B4%8B%E6%B4%B2
+# 大洋洲 大洋洲 [da4 yang2 zhou1] /Óceánia/csendes-óceáni térség/Csendes-óceán szigetvilága/
+# Ver 2018-04-14T19:45:48Z gabor Stat-Verif >.
+# Ver 2018-04-14T19:46:36Z gabor Stat-Verif >címke
+大洋洲 大洋洲 [da4 yang2 zhou1] /(földrajzi név) Óceánia; csendes-óceáni térség; Csendes-óceán szigetvilága/
+
 # ID-j85iH0h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 摔倒 摔倒 [shuai1 dao3] /le|esik/el|esik/
@@ -41177,6 +41214,14 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-j89ZS7w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 策劃 策划 [ce4 hua4] /tervez/tervezés/terveket sző/
+
+# ID-j90eS1d
+# Ver 2018-04-14T17:26:59Z jojo-chan Stat-New >http://ce.linedict.com/dict.html#/cnen/entry/5b5101521a994c898c1f2e3ae4eb2e49
+# 足跡 足迹 [zu2 ji4] /lábnyom/
+# Ver 2018-04-14T19:45:00Z gabor Stat-New >elhat
+# 足跡 足迹 [zu2 ji4] /láb|nyom/
+# Ver 2018-04-14T19:45:08Z gabor Stat-Verif >.
+足跡 足迹 [zu2 ji4] /láb|nyom/
 
 # ID-j90hA6e
 # Ver 2017-12-28T21:50:30Z gabor Stat-New >korpusz; transzparens
