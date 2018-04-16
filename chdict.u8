@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-04-15T02:00:01Z
+# Datenstand: 2018-04-16T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -6622,6 +6622,10 @@
 # ID-b56Sl1B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 漲 涨 [zhang4] /fel|duzzad; puffad; felfúvódik/
+
+# ID-b57he5c
+# Ver 2018-04-15T10:11:17Z jojo-chan Stat-New >http://ce.linedict.com/dict.html#/cnen/search?query=%E4%BA%AB%E6%9C%89%E7%9B%9B%E8%AA%89
+享有盛譽 享有盛誉 [xiang3 you3 sheng4 yu4] /nagy népszerűségnek örvend/híres/
 
 # ID-b57rF9U
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
