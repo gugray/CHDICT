@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-04-17T02:00:01Z
+# Datenstand: 2018-04-19T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -2325,7 +2325,9 @@
 
 # ID-a52dp8v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-開心 开心 [kai1 xin1] /örül/boldog/jól érzi magát/
+# 開心 开心 [kai1 xin1] /örül/boldog/jól érzi magát/
+# Ver 2018-04-18T20:19:15Z GaoYanuo Stat-Verif >Bartos-Hamar
+開心 开心 [kai1 xin1] /örül/boldog/jól érzi magát/kárörvendő/
 
 # ID-a52hm8b
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -10388,6 +10390,10 @@
 # ID-c51ct4v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 前胸 前胸 [qian2 xiong1] /mell; mellkas/
+
+# ID-c51mZ4t
+# Ver 2018-04-18T21:02:00Z GaoYanuo Stat-New >http://www.youdao.com/w/%E6%AF%8D%E4%BA%B2%E6%B2%B3/#keyfrom=dict2.top\ntanár\n\nOlyasmi, mint az oroszoknál a "Volga anyácska".
+母親河 母亲河 [mu3 qin1 he2] /Sárga folyó (a folyó népies neve)/
 
 # ID-c51ot0W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -21815,6 +21821,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-f22mB2q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
+# 洗 洗 [xi3] /mos/fürdet/tisztít/elő|hív (fotót)/
+# Ver 2018-04-18T21:16:50Z GaoYanuo Stat-Verif >洗出来 ként tanultuk, példa itt: http://www.trainchinese.com/v2/wordDetails.php?rAp=0&wordId=110250)\nÉrdemes külön szócikkbe felvenni?  Azért gondolom, hogy ha valaki az "előhív"-ra rákeres, így is találja meg, mert a köznyelvben így használják.
 洗 洗 [xi3] /mos/fürdet/tisztít/elő|hív (fotót)/
 
 # ID-f22tJ1q
@@ -21989,7 +21997,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-f27id2i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-相信 相信 [xiang1 xin4] /hisz/vél/
+# 相信 相信 [xiang1 xin4] /hisz/vél/
+# Ver 2018-04-18T20:46:18Z GaoYanuo Stat-Verif >pontosítás
+相信 相信 [xiang1 xin4] /el|hisz/vél/
 
 # ID-f27iD3L
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -25392,7 +25402,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-g07kD4o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-下來 下来 [xia4 lai5] /le|jön/(igei iránykiegészítő: fentről lefelé irányuló mozgás)/(igei iránykiegészítő: egy adott helytől eltávolodás)/(igei iránykiegészítő: cselekvés befejezettsége, eredményessége)/(igei iránykiegészítő: cselekvés folyamatossága)/
+# 下來 下来 [xia4 lai5] /le|jön/(igei iránykiegészítő: fentről lefelé irányuló mozgás)/(igei iránykiegészítő: egy adott helytől eltávolodás)/(igei iránykiegészítő: cselekvés befejezettsége, eredményessége)/(igei iránykiegészítő: cselekvés folyamatossága)/
+# Ver 2018-04-18T19:54:23Z GaoYanuo Stat-Verif >HSK3 tananyag
+# 下來 下来 [xia4 lai5] /le|jön/(igei iránykiegészítő: fentről lefelé irányuló mozgás)/(igei iránykiegészítő: egy adott helytől eltávolodás)/(igei iránykiegészítő: cselekvés befejezettsége, eredményessége)/(igei iránykiegészítő: cselekvés folyamatossága)/(igei kiegészítő: valami átmenettel, lassan történik: pl. besötétedik, lehalkul, lassan megáll, stb)/
+# Ver 2018-04-18T19:55:41Z GaoYanuo Stat-Verif >pontosítás
+下來 下来 [xia4 lai5] /le|jön/(igei iránykiegészítő: fentről lefelé irányuló mozgás)/(igei iránykiegészítő: egy adott helytől eltávolodás)/(igei iránykiegészítő: cselekvés befejezettsége, eredményessége)/(igei iránykiegészítő: cselekvés folyamatossága)/(igei kiegészítő: valami átmenettel, fokozatosan történik: pl. besötétedik, lehalkul, lassan megáll, stb)/
 
 # ID-g07oN1u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -26843,6 +26857,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-g42Qc6s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 巢 巢 [chao2] /fészek/(családnév) Chao/
+
+# ID-g42Tj6k
+# Ver 2018-04-18T21:08:07Z GaoYanuo Stat-New >http://www.youdao.com/w/%E4%BB%8E%E6%97%A0%E5%88%B0%E6%9C%89/#keyfrom=dict2.top\ntanár\n\n(Bocsi, de elfelejtettem, hogyan kell jelezni, hogy állandósult kifejezés, szólás, idióma)
+從無到有 从无到有 [cong2 wu2 dao4 you3] /a semmiből (lett valaki, hozta létre)/a nulláról (indult és jutott valamire)/
 
 # ID-g42Ur4E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -43233,6 +43251,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 量 量 [liang2] /meg|mér/méretet vesz/
 
+# ID-k36JN5y
+# Ver 2018-04-18T20:54:39Z GaoYanuo Stat-New >http://www.youdao.com/w/%E8%93%9D%E8%89%B2%E5%A4%9A%E7%91%99%E6%B2%B3/#keyfrom=dict2.top\ntanár, 
+藍色多瑙河 蓝色多瑙河 [lan2 se4 duo1 nao3 he2] /Kék Duna (Johann Strauss keringője)/
+
 # ID-k36Pn5i
 # Ver 2017-11-24T19:47:00Z gabor Stat-New >ABC; MBDG; korpusz
 健美 健美 [jian4 mei3] /egészséges és szép/testépítés (sport)/
@@ -49069,6 +49091,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 實戰 实战 [shi2 zhan4] /valódi háború (nem csak gyakorlat);/terep-/
 
+# ID-l76ki1F
+# Ver 2018-04-18T21:18:31Z GaoYanuo Stat-New >korpusz, tanár
+西服 西服 [xi1 fu2] /öltöny/nyugati stílusú ruha/
+
 # ID-l76EN8K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 工具 工具 [gong1 ju4] /szerszám/eszköz/
@@ -54079,6 +54105,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-m94Ga1o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
+# 光盤 光盘 [guang1 pan2] /CD/DVD/SZ:片[pian4],張|张[zhang1]/
+# Ver 2018-04-18T20:51:25Z GaoYanuo Stat-Verif >Az optikai adathordozó hozzáadása dagályos lenne?
 光盤 光盘 [guang1 pan2] /CD/DVD/SZ:片[pian4],張|张[zhang1]/
 
 # ID-m94TI9V
@@ -60018,7 +60046,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-o40GE5u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-測試 测试 [ce4 shi4] /ellen|őriz (gépet, berendezést)/fel|mér (diák tudását)/teszt/vizsga/
+# 測試 测试 [ce4 shi4] /ellen|őriz (gépet, berendezést)/fel|mér (diák tudását)/teszt/vizsga/
+# Ver 2018-04-18T20:37:41Z GaoYanuo Stat-Verif >CCEDICT
+測試 测试 [ce4 shi4] /ellen|őriz (gépet, berendezést)/fel|mér (diák tudását)/teszt/vizsga/béta (tesztelés alatti szoftver)/
 
 # ID-o40MQ6q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -60540,7 +60570,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-o53pZ3c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-都 都 [dou1] /mind/mindegyik/az egész/
+# 都 都 [dou1] /mind/mindegyik/az egész/
+# Ver 2018-04-18T19:50:17Z GaoYanuo Stat-Verif >CCDEDICT, tanár, tanköny, stb.
+都 都 [dou1] /mind/mindegyik/az egész/már (pl. már fél kilenc; neked már van ilyen)/
 
 # ID-o53sa0m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -62804,6 +62836,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-p06XI4l
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 大教堂 大教堂 [da4 jiao4 tang2] /katedrális/
+
+# ID-p07bG7X
+# Ver 2018-04-18T20:43:44Z GaoYanuo Stat-New >CCEDICT, tanár
+藍精靈 蓝精灵 [lan2 jing1 ling2] /Hupikék Törpikék/
 
 # ID-p07kH8N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
