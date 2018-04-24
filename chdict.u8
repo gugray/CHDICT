@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-04-19T02:00:01Z
+# Datenstand: 2018-04-24T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -1850,6 +1850,10 @@
 # ID-a42hU9a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 物美價廉 物美价廉 [wu4 mei3 jia4 lian2] /olcsó és jó/
+
+# ID-a42uf7J
+# Ver 2018-04-23T11:13:08Z jojo-chan Stat-New >http://ce.linedict.com/dict.html#/cnen/entry/3c36d59577564a138d807b62fc1e4fff
+經貿 经贸 [jing1 mao4] /gazdaság és kereskedelem/
 
 # ID-a42Ik9s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -26337,6 +26341,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-g29Fq4L
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 淋巴瘤 淋巴瘤 [lin2 ba1 liu2] /nyirokcsomó-daganat; limfóma/
+
+# ID-g29Gc6m
+# Ver 2018-04-23T10:49:53Z jojo-chan Stat-New >https://zh.wikipedia.org/wiki/%E9%A9%AC%E6%89%8E%E5%B0%94%E4%BA%BA
+馬扎爾 马扎尔 [ma3 zha1 er3] /magyar (nemzetiség)/
 
 # ID-g29HH7Z
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
