@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-04-25T02:00:01Z
+# Datenstand: 2018-04-30T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -13176,6 +13176,10 @@
 # ID-d12qA6o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 哪個 哪个 [na3 ge5] /melyik/amelyik/
+
+# ID-d12uf5r
+# Ver 2018-04-29T16:53:00Z jojo-chan Stat-New >https://zh.wikipedia.org/wiki/%E8%8C%84
+茄子 茄子 [qie2 zi5] /padlizsán/
 
 # ID-d12xY1l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
