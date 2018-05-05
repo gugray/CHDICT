@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-05-04T02:00:01Z
+# Datenstand: 2018-05-05T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -1853,7 +1853,11 @@
 
 # ID-a42uf7J
 # Ver 2018-04-23T11:13:08Z jojo-chan Stat-New >http://ce.linedict.com/dict.html#/cnen/entry/3c36d59577564a138d807b62fc1e4fff
-經貿 经贸 [jing1 mao4] /gazdaság és kereskedelem/
+# 經貿 经贸 [jing1 mao4] /gazdaság és kereskedelem/
+# Ver 2018-05-04T11:24:20Z gabor Stat-New >.
+# 經貿 经贸 [jing1 mao4] /gazdaság és kereskedelem (összevonás: 经济贸易)/
+# Ver 2018-05-04T11:24:25Z gabor Stat-Verif >.
+經貿 经贸 [jing1 mao4] /gazdaság és kereskedelem (összevonás: 经济贸易)/
 
 # ID-a42Ik9s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -6371,6 +6375,8 @@
 # Ver 2018-04-24T14:53:38Z GaoYanuo Stat-New >http://www.cocz.org/news/content-262378.aspx\nA "中匈宝思德经贸合作区" felirat a BorsodChem több épületén, kerítésén látható.\n(A Google térkép még nem frissített arrafelé:-)
 # 寶思德 宝思德 [bao3 si1 de2] /(földrajzi név)Borsod/
 # Ver 2018-04-24T14:54:18Z GaoYanuo Stat-New >szóköz...
+# 寶思德 宝思德 [bao3 si1 de2] /(földrajzi név) Borsod/
+# Ver 2018-05-04T11:06:22Z gabor Stat-Verif >.
 寶思德 宝思德 [bao3 si1 de2] /(földrajzi név) Borsod/
 
 # ID-b50PD5J
@@ -6637,7 +6643,11 @@
 
 # ID-b57he5c
 # Ver 2018-04-15T10:11:17Z jojo-chan Stat-New >http://ce.linedict.com/dict.html#/cnen/search?query=%E4%BA%AB%E6%9C%89%E7%9B%9B%E8%AA%89
-享有盛譽 享有盛誉 [xiang3 you3 sheng4 yu4] /nagy népszerűségnek örvend/híres/
+# 享有盛譽 享有盛誉 [xiang3 you3 sheng4 yu4] /nagy népszerűségnek örvend/híres/
+# Ver 2018-05-04T11:40:40Z gabor Stat-New >címke
+# 享有盛譽 享有盛誉 [xiang3 you3 sheng4 yu4] /(kifejezés) nagy népszerűségnek örvend; híres/
+# Ver 2018-05-04T11:40:42Z gabor Stat-Verif >.
+享有盛譽 享有盛誉 [xiang3 you3 sheng4 yu4] /(kifejezés) nagy népszerűségnek örvend; híres/
 
 # ID-b57rF9U
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -6901,7 +6911,9 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 關心 关心 [guan1 xin1] /gondoskodik/aggódik/
 # Ver 2018-04-24T12:59:04Z GaoYanuo Stat-Verif >HSK3 Official textbook: "你怎么突然关心起体育来了?" Hogy-hogy hirtelen elkezdett érdekelni a sport?
-關心 关心 [guan1 xin1] /gondoskodik/aggódik/törődik; érdekli/
+# 關心 关心 [guan1 xin1] /gondoskodik/aggódik/törődik; érdekli/
+# Ver 2018-05-04T11:22:39Z gabor Stat-Verif >kiírtam figyelemfelhívásul a névmásokat, mert nem tükrözi a magyar vonzatkeret a kínait
+關心 关心 [guan1 xin1] /gondoskodik/aggódik/törődik (vmivel)/érdekli (vmi)/
 
 # ID-b63Dw8l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -8170,7 +8182,11 @@
 
 # ID-b94ye7J
 # Ver 2018-05-03T19:44:47Z GaoYanuo Stat-New >HSK3 official textbook\nhttp://www.youdao.com/w/eng/%E8%AF%95%E7%9D%80%E5%81%9A%E5%81%9A/#keyfrom=dict2.index\n
-試著做做 试着做做 [shi4 zhe5 zuo4 zuo4] /próbálkozik/
+# 試著做做 试着做做 [shi4 zhe5 zuo4 zuo4] /próbálkozik/
+# Ver 2018-05-04T10:51:42Z gabor Stat-New >címke sztem indokolt - nem annyira rögzült, mint egy chengyu, de mégis több, mint a részei összege
+# 試著做做 试着做做 [shi4 zhe5 zuo4 zuo4] /(kifejezés) próbálkozik/
+# Ver 2018-05-04T10:51:45Z gabor Stat-Verif >.
+試著做做 试着做做 [shi4 zhe5 zuo4 zuo4] /(kifejezés) próbálkozik/
 
 # ID-b94yp7q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -10413,6 +10429,8 @@
 
 # ID-c51mZ4t
 # Ver 2018-04-18T21:02:00Z GaoYanuo Stat-New >http://www.youdao.com/w/%E6%AF%8D%E4%BA%B2%E6%B2%B3/#keyfrom=dict2.top\ntanár\n\nOlyasmi, mint az oroszoknál a "Volga anyácska".
+# 母親河 母亲河 [mu3 qin1 he2] /Sárga folyó (a folyó népies neve)/
+# Ver 2018-05-04T11:31:27Z gabor Stat-Verif >.
 母親河 母亲河 [mu3 qin1 he2] /Sárga folyó (a folyó népies neve)/
 
 # ID-c51ot0W
@@ -20819,7 +20837,11 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2018-04-24T15:47:57Z GaoYanuo Stat-New >tanár,\nhttp://ce.linedict.com/dict.html#/cnen/example?query=%E9%95%BF%E5%9F%8E%E4%B8%8D%E6%98%AF%E4%B8%80%E5%A4%A9%E5%BB%BA%E6%88%90%E7%9A%84
 # 長城不是一天建成的 长城不是一天建成的 [zhang3 cheng2 bu4 shi4 yi1 tian1 jian4 cheng2 de5] /(szólásmondás) Rómát sem egy nap alatt építették (szó szerint a Nagy Falat sem...)/
 # Ver 2018-05-03T20:14:56Z GaoYanuo Stat-New >pinyin javítva
-長城不是一天建成的 长城不是一天建成的 [chang2 cheng2 bu4 shi4 yi1 tian1 jian4 cheng2 de5] /(szólásmondás) Rómát sem egy nap alatt építették (szó szerint a Nagy Falat sem...)/
+# 長城不是一天建成的 长城不是一天建成的 [chang2 cheng2 bu4 shi4 yi1 tian1 jian4 cheng2 de5] /(szólásmondás) Rómát sem egy nap alatt építették (szó szerint a Nagy Falat sem...)/
+# Ver 2018-05-04T11:11:36Z gabor Stat-New >szólásmondás címkét nem használ a szótár máshol, nem is tudom, egyértelmű-e a határ - szóval megy minden a "kifejezés" alá :)
+# 長城不是一天建成的 长城不是一天建成的 [chang2 cheng2 bu4 shi4 yi1 tian1 jian4 cheng2 de5] /(kifejezés) Rómát sem egy nap alatt építették (szó szerint: a Nagy Falat)/
+# Ver 2018-05-04T11:11:39Z gabor Stat-Verif >.
+長城不是一天建成的 长城不是一天建成的 [chang2 cheng2 bu4 shi4 yi1 tian1 jian4 cheng2 de5] /(kifejezés) Rómát sem egy nap alatt építették (szó szerint: a Nagy Falat)/
 
 # ID-e96mP2n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -21859,6 +21881,7 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 洗 洗 [xi3] /mos/fürdet/tisztít/elő|hív (fotót)/
 # Ver 2018-04-18T21:16:50Z GaoYanuo Stat-Verif >洗出来 ként tanultuk, példa itt: http://www.trainchinese.com/v2/wordDetails.php?rAp=0&wordId=110250)\nÉrdemes külön szócikkbe felvenni?  Azért gondolom, hogy ha valaki az "előhív"-ra rákeres, így is találja meg, mert a köznyelvben így használják.
+# Ver 2018-05-04T11:30:16Z gabor Stat-Verif >jó kérdés... én inkább nem venném fel, mert érzésem szerint teljesen átlátható, de az ilyen kvázi-rögzült igei kiegészítős szerkezeteknél nehéz megmondani, hol a határ.
 洗 洗 [xi3] /mos/fürdet/tisztít/elő|hív (fotót)/
 
 # ID-f22tJ1q
@@ -22630,7 +22653,9 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 世界 世界 [shi4 jie4] /világ/SZ:個|个[ge4]/
 # Ver 2018-04-24T13:08:21Z GaoYanuo Stat-Verif >forrás: tanár, korpusz megerősíti.
-世界 世界 [shi4 jie4] /világ (összetételek előtagjaként is, pl. világbajnok)/SZ:個|个[ge4]/
+# 世界 世界 [shi4 jie4] /világ (összetételek előtagjaként is, pl. világbajnok)/SZ:個|个[ge4]/
+# Ver 2018-05-04T11:20:16Z gabor Stat-Verif >ez nagyon sok főnévre igaz, nem írnám ki mindenhol... ez inkább érzés, de szerintem ilyen szinten már úgysem lehet elég jól leírni a nyelvhasználatot, hogy ez melyik szónál és és melyiknél nem. ebben segít a korpuszban a példák nézegetése, meg leginkább az, hogy forrásnyelvi szót mindig csak valódi szövegkörnyezetből szabad megtanulni, s ott látszik az ilyesmi.
+世界 世界 [shi4 jie4] /világ/SZ:個|个[ge4]/
 
 # ID-f41dc1u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -23445,6 +23470,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-f58iK1j
 # Ver 2018-04-24T15:52:10Z GaoYanuo Stat-New >tanár,\nhttp://ce.linedict.com/dict.html#/cnen/example?query=%E9%95%BF%E5%AF%BF%E9%9D%A2
+# 長壽麵 长寿面 [chang2 shou4 mian4] /hosszú élet tészta (a születésnapi torta kínai megfelelője)/
+# Ver 2018-05-04T11:06:58Z gabor Stat-Verif >.
 長壽麵 长寿面 [chang2 shou4 mian4] /hosszú élet tészta (a születésnapi torta kínai megfelelője)/
 
 # ID-f58tz5F
@@ -26384,6 +26411,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-g29Gc6m
 # Ver 2018-04-23T10:49:53Z jojo-chan Stat-New >https://zh.wikipedia.org/wiki/%E9%A9%AC%E6%89%8E%E5%B0%94%E4%BA%BA
+# 馬扎爾 马扎尔 [ma3 zha1 er3] /magyar (nemzetiség)/
+# Ver 2018-05-04T11:27:29Z gabor Stat-Verif >hahh! hogy ilyen is van!
 馬扎爾 马扎尔 [ma3 zha1 er3] /magyar (nemzetiség)/
 
 # ID-g29HH7Z
@@ -26908,7 +26937,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-g42Tj6k
 # Ver 2018-04-18T21:08:07Z GaoYanuo Stat-New >http://www.youdao.com/w/%E4%BB%8E%E6%97%A0%E5%88%B0%E6%9C%89/#keyfrom=dict2.top\ntanár\n\n(Bocsi, de elfelejtettem, hogyan kell jelezni, hogy állandósult kifejezés, szólás, idióma)
-從無到有 从无到有 [cong2 wu2 dao4 you3] /a semmiből (lett valaki, hozta létre)/a nulláról (indult és jutott valamire)/
+# 從無到有 从无到有 [cong2 wu2 dao4 you3] /a semmiből (lett valaki, hozta létre)/a nulláról (indult és jutott valamire)/
+# Ver 2018-05-04T11:42:10Z gabor Stat-New >címke, összevonás
+# 從無到有 从无到有 [cong2 wu2 dao4 you3] /(kifejezés) a semmiből; nulláról (lett valaki, hozta létre, indult és jutott valamire)/
+# Ver 2018-05-04T11:42:13Z gabor Stat-Verif >.
+從無到有 从无到有 [cong2 wu2 dao4 you3] /(kifejezés) a semmiből; nulláról (lett valaki, hozta létre, indult és jutott valamire)/
 
 # ID-g42Ur4E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -27868,7 +27901,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-g64nJ1g
 # Ver 2018-05-03T19:21:17Z GaoYanuo Stat-New >CC-CEDICT\nkorpusz\nhttps://www.purpleculture.net/sample_sentences/?word=%E8%89%AF&page=3
-良 良 [liang2] /jó (érdemjegy is)/nagyszerű/
+# 良 良 [liang2] /jó (érdemjegy is)/nagyszerű/
+# Ver 2018-05-04T10:50:04Z gabor Stat-New >kieg ABC alapján
+# 良 良 [liang2] /jó; nagyszerű/jó (érdemjegy)/nagyon/
+# Ver 2018-05-04T10:50:06Z gabor Stat-Verif >.
+良 良 [liang2] /jó; nagyszerű/jó (érdemjegy)/nagyon/
 
 # ID-g64xD4C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -31708,6 +31745,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-h60Pl2O
 # Ver 2018-04-24T15:07:35Z GaoYanuo Stat-New >https://www.purpleculture.net/sample-sentences/?word=%E7%A4%BE%E5%9B%A2%E6%B4%BB%E5%8A%A8\n\nhttp://ce.linedict.com/dict.html#/cnen/example?query=%E7%A4%BE%E5%9B%A2%E6%B4%BB%E5%8A%A8
+# 社團活動 社团活动 [she4 tuan2 huo2 dong4] /társasági élet/társadalmi tevékenység/
+# Ver 2018-05-04T11:45:12Z gabor Stat-Verif >.
 社團活動 社团活动 [she4 tuan2 huo2 dong4] /társasági élet/társadalmi tevékenység/
 
 # ID-h60Ul8Y
@@ -32306,7 +32345,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-h74Jy0P
 # Ver 2018-04-16T19:29:03Z jojo-chan Stat-New >Korpusz.
-積蓄 积蓄 [ji1 xu4] /felhalmoz, összegyűjt/megtakarít (pénzt)/
+# 積蓄 积蓄 [ji1 xu4] /felhalmoz, összegyűjt/megtakarít (pénzt)/
+# Ver 2018-05-04T11:40:02Z gabor Stat-New >.
+# 積蓄 积蓄 [ji1 xu4] /fel|halmoz; össze|gyűjt/megtakarít; félretesz (pénzt)/megtakarítások (félretett vagyon)/
+# Ver 2018-05-04T11:40:05Z gabor Stat-Verif >.
+積蓄 积蓄 [ji1 xu4] /fel|halmoz; össze|gyűjt/megtakarít; félretesz (pénzt)/megtakarítások (félretett vagyon)/
 
 # ID-h74Kp6J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -33904,7 +33947,9 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 戴 戴 [dai4] /fel|vesz (ruhát)/visel (ruhát, ékszert stb.)/tisztel/támogat/(családnév) Dai/
 # Ver 2018-04-24T13:59:55Z GaoYanuo Stat-Verif >Fontos megkülönböztetni a 穿chuān-tól. Forrás: tanár\npéldamondatok itt:\nhttps://www.purpleculture.net/sample-sentences/?word=%E6%88%B4
-戴 戴 [dai4] /fel|vesz (kisebb darabot, pl. öv, kesztyű, kalap-, ékszer, stb.)/visel (kisebb darabot, pl. öv, kesztyű, kalap-, ékszer, stb.)/tisztel/támogat/(családnév) Dai/
+# 戴 戴 [dai4] /fel|vesz (kisebb darabot, pl. öv, kesztyű, kalap-, ékszer, stb.)/visel (kisebb darabot, pl. öv, kesztyű, kalap-, ékszer, stb.)/tisztel/támogat/(családnév) Dai/
+# Ver 2018-05-04T11:17:14Z gabor Stat-Verif >tömörítettem
+戴 戴 [dai4] /fel|vesz; visel (kisebb darabot, kiegészítőt, ékszert stb.)/tisztel/támogat/(családnév) Dai/
 
 # ID-i10Lh3Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -38207,6 +38252,12 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-j15Qz4e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 獅子 狮子 [shi1 zi5] /oroszlán/SZ:隻|只[zhi1],頭|头[tou2]/
+
+# ID-j15Xe9K
+# Ver 2018-05-04T11:03:50Z gabor Stat-New >自动扶梯 ürügyén. eredeti jelentése lépcső (ABC), de minden jel szerint így önmagában is mozgólépcső értelemben használatos elsősorban - korpusz, gépi fordítók, képkeresés.
+# 扶梯 扶梯 [fu2 ti1] /lépcső (korlátos)/mozgó|lépcső/
+# Ver 2018-05-04T11:03:58Z gabor Stat-Verif >.
+扶梯 扶梯 [fu2 ti1] /lépcső (korlátos)/mozgó|lépcső/
 
 # ID-j16eD4S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -43255,7 +43306,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-k35dk7j
 # Ver 2018-05-03T21:19:06Z GaoYanuo Stat-New >http://www.youdao.com/w/%E7%9B%B4%E6%A2%AF/#keyfrom=dict2.top
-直梯 直梯 [zhi2 ti1] /lift/
+# 直梯 直梯 [zhi2 ti1] /lift/
+# Ver 2018-05-04T11:00:31Z gabor Stat-New >itt egész biztos vagyok benne, hogy a youdao mondatfordítása hibás - a szótagok értelmezése, Google MT, fanyi.newtranx.com, képkeresés mind erre mutat.
+# 直梯 直梯 [zhi2 ti1] /létra/
+# Ver 2018-05-04T11:00:34Z gabor Stat-Verif >.
+直梯 直梯 [zhi2 ti1] /létra/
 
 # ID-k35sT5r
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -43329,7 +43384,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-k36JN5y
 # Ver 2018-04-18T20:54:39Z GaoYanuo Stat-New >http://www.youdao.com/w/%E8%93%9D%E8%89%B2%E5%A4%9A%E7%91%99%E6%B2%B3/#keyfrom=dict2.top\ntanár, 
-藍色多瑙河 蓝色多瑙河 [lan2 se4 duo1 nao3 he2] /Kék Duna (Johann Strauss keringője)/
+# 藍色多瑙河 蓝色多瑙河 [lan2 se4 duo1 nao3 he2] /Kék Duna (Johann Strauss keringője)/
+# Ver 2018-05-04T11:33:58Z gabor Stat-New >itt látszik, hogy nem kiforrott még a tulajdonneveknél a címkerendszer - de utánanéztem, egyszer már előfordul a "cím", hát legyen ez a második!
+# 藍色多瑙河 蓝色多瑙河 [lan2 se4 duo1 nao3 he2] /(cím) Kék Duna (Johann Strauss keringője)/
+# Ver 2018-05-04T11:34:02Z gabor Stat-Verif >.
+藍色多瑙河 蓝色多瑙河 [lan2 se4 duo1 nao3 he2] /(cím) Kék Duna (Johann Strauss keringője)/
 
 # ID-k36Pn5i
 # Ver 2017-11-24T19:47:00Z gabor Stat-New >ABC; MBDG; korpusz
@@ -43817,7 +43876,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-k49Qi9q
 # Ver 2018-04-24T15:56:36Z GaoYanuo Stat-New >tanár, CCEDICT, Google képek, wikipédia
-古箏 古筝 [gu3 zheng1] /hagyományos 13-25 húros citera szerű pengetős hangszer/
+# 古箏 古筝 [gu3 zheng1] /hagyományos 13-25 húros citera szerű pengetős hangszer/
+# Ver 2018-05-04T11:44:09Z gabor Stat-New >https://hu.wikipedia.org/wiki/Ku-cseng
+# 古箏 古筝 [gu3 zheng1] /ku-cseng; kínai citera (hagyományos 16-21 húros, citeraszerű pengetős hangszer)/
+# Ver 2018-05-04T11:44:13Z gabor Stat-Verif >.
+古箏 古筝 [gu3 zheng1] /ku-cseng; kínai citera (hagyományos 16-21 húros, citeraszerű pengetős hangszer)/
 
 # ID-k50gz7F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -44614,7 +44677,9 @@ U盤 U盘 [U pan2] /pendrive/
 # 西班牙語 西班牙语 [xi1 ban1 ya2 yu3] /spanyol (nyelv)/
 # Ver 2017-12-08T21:19:10Z GaoYanuo Stat-Verif >Bocsi, az egerem szórakozik velem, illetve a "Zhongwen Chinese popup dictionary" nevű Chrome bővítmény:-) Nem akartam a 语-t odatenni, csak csipa vagyok, nem vetten észre.
 # Ver 2018-04-24T14:06:27Z GaoYanuo Stat-Verif >Nem indokolt a "nyelv" zárójelezése a 语 miatt.
-西班牙語 西班牙语 [xi1 ban1 ya2 yu3] /spanyol nyelv/
+# 西班牙語 西班牙语 [xi1 ban1 ya2 yu3] /spanyol nyelv/
+# Ver 2018-05-04T11:15:29Z gabor Stat-Verif >tk. igaz az érvelés, de én mégis zárójelbe teszem inkább:\n- "spanyol" önmagában is jelenti a nyelvet, pl. "imádom a spanyolt"\n- gyakorlatias megfontolás: ha mindenhol odaírjuk, hogy "nyelv", akkor magyarul a "nyelv"-re keresve mindent megkapunk, ami nem szerencsés; ellenben ha konkrétan X nyelv érdekel, úgy X-re keresek.
+西班牙語 西班牙语 [xi1 ban1 ya2 yu3] /spanyol (nyelv)/
 
 # ID-k68WT3K
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -46923,7 +46988,9 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 蘇格蘭 苏格兰 [su1 ge2 lan2] /(földrajzi név) Skócia/
 # Ver 2018-04-24T14:35:29Z GaoYanuo Stat-Verif >melléknév is\n苏格兰
-蘇格蘭 苏格兰 [su1 ge2 lan2] /(földrajzi név) Skócia/skót/
+# 蘇格蘭 苏格兰 [su1 ge2 lan2] /(földrajzi név) Skócia/skót/
+# Ver 2018-05-04T11:09:57Z gabor Stat-Verif >ez a kettősség az összes országnévre igaz, és sehol nem tüntettem fel - pontosan azért, mert teljesen kiszámítható. ha nagyon kéne nyelvészkednem, azt mondanám, ez külön melléknévként nem is létezik a kínaiban, hanem minden országnév szerepelhet összetétel előtagjaként, amit mi *történetesen* melléknévvel fordítunk magyarra.\n\negy szó mint száz, így is, úgy is ér, de eddig a konvenció az, hogy a melléknevet nem írja ki külön a szótár, úh. maradok ennél.
+蘇格蘭 苏格兰 [su1 ge2 lan2] /(földrajzi név) Skócia/
 
 # ID-l22zs8h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -49178,6 +49245,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-l76ki1F
 # Ver 2018-04-18T21:18:31Z GaoYanuo Stat-New >korpusz, tanár
+# 西服 西服 [xi1 fu2] /öltöny/nyugati stílusú ruha/
+# Ver 2018-05-04T11:28:10Z gabor Stat-Verif >.
 西服 西服 [xi1 fu2] /öltöny/nyugati stílusú ruha/
 
 # ID-l76EN8K
@@ -51030,7 +51099,9 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-29T12:20:55Z Adam Stat-Verif >függőleges elválasztójel, címke
 # 西班牙 西班牙 [xi1 ban1 ya2] /(földrajzi név) Spanyol|ország/
 # Ver 2018-04-24T14:11:41Z GaoYanuo Stat-Verif >melléknévként is használatos\nhttps://www.purpleculture.net/sample-sentences/?word=%E8%A5%BF%E7%8F%AD%E7%89%99
-西班牙 西班牙 [xi1 ban1 ya2] /(földrajzi név) Spanyol|ország/(előtagként) spanyol (nép,nyelv, stb.)/
+# 西班牙 西班牙 [xi1 ban1 ya2] /(földrajzi név) Spanyol|ország/(előtagként) spanyol (nép,nyelv, stb.)/
+# Ver 2018-05-04T11:12:52Z gabor Stat-Verif >ld. 苏格兰 - nem jelöljük külön a melléknévi fordítást
+西班牙 西班牙 [xi1 ban1 ya2] /(földrajzi név) Spanyol|ország/
 
 # ID-m21Yh5y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -53232,7 +53303,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-m72LB8M
 # Ver 2018-05-03T21:21:00Z GaoYanuo Stat-New >CC-CEDICT\nhttp://www.youdao.com/w/%E8%87%AA%E5%8A%A8%E6%89%B6%E6%A2%AF/#keyfrom=dict2.top
-自動扶梯 自动扶梯 [zi4 dong4 fu2 ti1] /mozgólépcső/
+# 自動扶梯 自动扶梯 [zi4 dong4 fu2 ti1] /mozgólépcső/
+# Ver 2018-05-04T11:01:30Z gabor Stat-New >elhat
+# 自動扶梯 自动扶梯 [zi4 dong4 fu2 ti1] /mozgó|lépcső/
+# Ver 2018-05-04T11:01:35Z gabor Stat-Verif >.
+自動扶梯 自动扶梯 [zi4 dong4 fu2 ti1] /mozgó|lépcső/
 
 # ID-m72Rw4o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -54210,6 +54285,7 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 光盤 光盘 [guang1 pan2] /CD/DVD/SZ:片[pian4],張|张[zhang1]/
 # Ver 2018-04-18T20:51:25Z GaoYanuo Stat-Verif >Az optikai adathordozó hozzáadása dagályos lenne?
+# Ver 2018-05-04T11:34:33Z gabor Stat-Verif >igen, azt már túlzónak érezném :)
 光盤 光盘 [guang1 pan2] /CD/DVD/SZ:片[pian4],張|张[zhang1]/
 
 # ID-m94TI9V
@@ -58876,7 +58952,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-o10pR0h
 # Ver 2018-05-03T20:12:05Z GaoYanuo Stat-New >A tanár szerint régen mondták az orvosok, hogy "Táskám mindent gyógyít.", vagyis a táskában minden benne van, ami kell.\nhttps://www.purpleculture.net/sample_sentences/?word=%E5%8C%85%E6%B2%BB%E7%99%BE%E7%97%85\nCC-CEDICT, korpusz\n
-包治百病 包治百病 [bao1 zhi4 bai3 bing4] /ezerjó; mindent gyógyító/mindenre jó ("svájci bicska")//
+# 包治百病 包治百病 [bao1 zhi4 bai3 bing4] /ezerjó; mindent gyógyító/mindenre jó ("svájci bicska")//
+# Ver 2018-05-04T10:53:51Z gabor Stat-New >címke (ilyenkor azért vonom össze, mert a címke az adott jelentésben felsoroltakra vonatkozik - ez inkább fejlövés, mint aranyszabály, de mindenhol így csináltam)
+# 包治百病 包治百病 [bao1 zhi4 bai3 bing4] /(kifejezés) ezerjó; mindent gyógyító; mindenre jó/
+# Ver 2018-05-04T10:53:54Z gabor Stat-Verif >.
+包治百病 包治百病 [bao1 zhi4 bai3 bing4] /(kifejezés) ezerjó; mindent gyógyító; mindenre jó/
 
 # ID-o10pR3n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -60149,7 +60229,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-o39YI3h
 # Ver 2018-05-03T18:55:02Z GaoYanuo Stat-New >https://www.purpleculture.net/sample_sentences/?word=%E5%B7%AE&page=3\nCC-CEDICT\nkorpusz
-對我來說 对我来说 [dui4 wo3 lai2 shuo1] /(kifejezés) ami engem illet/nekem legyen mondva/számomra/
+# 對我來說 对我来说 [dui4 wo3 lai2 shuo1] /(kifejezés) ami engem illet/nekem legyen mondva/számomra/
+# Ver 2018-05-04T10:48:03Z gabor Stat-New >a "nekem legyen mondva" színezetét én nem érzem benne :)
+# 對我來說 对我来说 [dui4 wo3 lai2 shuo1] /(kifejezés) ami engem illet; számomra; szerintem/
+# Ver 2018-05-04T10:48:10Z gabor Stat-Verif >.
+對我來說 对我来说 [dui4 wo3 lai2 shuo1] /(kifejezés) ami engem illet; számomra; szerintem/
 
 # ID-o40tV7u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -60695,7 +60779,9 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 都 都 [dou1] /mind/mindegyik/az egész/
 # Ver 2018-04-18T19:50:17Z GaoYanuo Stat-Verif >CCDEDICT, tanár, tanköny, stb.
-都 都 [dou1] /mind/mindegyik/az egész/már (pl. már fél kilenc; neked már van ilyen)/
+# 都 都 [dou1] /mind/mindegyik/az egész/már (pl. már fél kilenc; neked már van ilyen)/
+# Ver 2018-05-04T11:38:20Z gabor Stat-Verif >.
+都 都 [dou1] /mind/mindegyik/az egész/már/
 
 # ID-o53sa0m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -62962,7 +63048,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-p07bG7X
 # Ver 2018-04-18T20:43:44Z GaoYanuo Stat-New >CCEDICT, tanár
-藍精靈 蓝精灵 [lan2 jing1 ling2] /Hupikék Törpikék/
+# 藍精靈 蓝精灵 [lan2 jing1 ling2] /Hupikék Törpikék/
+# Ver 2018-05-04T11:36:35Z gabor Stat-New >.
+# 藍精靈 蓝精灵 [lan2 jing1 ling2] /(cím) Hupikék Törpikék/
+# Ver 2018-05-04T11:36:39Z gabor Stat-Verif >.
+藍精靈 蓝精灵 [lan2 jing1 ling2] /(cím) Hupikék Törpikék/
 
 # ID-p07kH8N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -63810,7 +63900,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-p24RX2j
 # Ver 2018-05-03T21:07:41Z GaoYanuo Stat-New >tanár\nhttp://www.youdao.com/w/%E5%A4%8D%E8%B5%9B/#keyfrom=dict2.top
-複賽 复赛 [fu4 sai4] /negyeddöntő/középdöntő/
+# 複賽 复赛 [fu4 sai4] /negyeddöntő/középdöntő/
+# Ver 2018-05-04T10:55:11Z gabor Stat-New >ABC és korpusz szerint is van visszavágó jelentése is
+# 複賽 复赛 [fu4 sai4] /negyed|döntő; közép|döntő/visszavágó/
+# Ver 2018-05-04T10:55:16Z gabor Stat-Verif >.
+複賽 复赛 [fu4 sai4] /negyed|döntő; közép|döntő/visszavágó/
 
 # ID-p24TO6S
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
