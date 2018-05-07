@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-05-05T02:00:01Z
+# Datenstand: 2018-05-07T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -15401,6 +15401,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 沒法 没法 [mei2 fa3] /nincs választása/nem tud mit tenni/nincs módja (vmire)/
 
+# ID-d64IZ4J
+# Ver 2018-05-06T15:16:37Z jojo-chan Stat-New >A korpusz is megerősíti.
+近年 近年 [jin4 nian2] /az utóbbi években/
+
 # ID-d64Kq4o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 飛過 飞过 [fei1 guo4] /át|repül (vmi felett)/
@@ -18921,6 +18925,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-e50wm4d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 婚姻 婚姻 [hun1 yin1] /házasság/esküvő/SZ:次[ci4]/
+
+# ID-e50Aq6A
+# Ver 2018-05-06T15:35:21Z jojo-chan Stat-New >https://zh.wikipedia.org/wiki/%E6%AC%A7%E6%B4%B2%E8%81%94%E7%9B%9F
+歐洲聯盟 欧洲联盟 [ou1 zhou1 lian2 meng2] /Európai Unió, EU/
 
 # ID-e50Co7S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -22950,6 +22958,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-f47pc3I
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 冊子 册子 [ce4 zi5] /brosúra; prospektus/
+
+# ID-f47vP7g
+# Ver 2018-05-06T15:28:39Z jojo-chan Stat-New >https://baike.baidu.com/item/%E9%B2%9C/34301#3_2
+鮮 鲜 [xian3] /ritkán/kevés/
 
 # ID-f47CL4H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -29393,6 +29405,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-11-27T17:34:26Z gabor Stat-Verif >.
 短袖 短袖 [duan3 xiu4] /rövid|ujjú/póló (ruhadarab)/
 
+# ID-g99Vg3u
+# Ver 2018-05-06T14:52:33Z jojo-chan Stat-New >https://zh.wikipedia.org/wiki/%E6%AC%A7%E5%85%83%E5%8C%BA
+歐元區 欧元区 [ou1 yuan2 qu1] /eurózóna, euróövezet/
+
 # ID-g99Yu4P
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 偷運 偷运 [tou1 yun4] /csempész (illegálisan szállít)/
@@ -35593,6 +35609,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-i52Ab9v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 啟事 启事 [qi3 shi4] /be|jelentés/közlemény/értesítés/
+
+# ID-i52As2L
+# Ver 2018-05-06T14:37:44Z jojo-chan Stat-New >https://zh.wikipedia.org/wiki/%E6%AD%90%E6%B4%B2%E8%B2%A8%E5%B9%A3%E7%AE%A1%E7%90%86%E5%B1%80
+歐洲貨幣管理局 欧洲货币管理局 [ou1 zhou1 huo4 bi4 guan3 li3 ju2] /Európai Monetáris Intézet/
 
 # ID-i52He5S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -55209,6 +55229,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-n18FB1V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 開辟 开辟 [kai1 pi4] /nyit; kezd; létre|hoz/épít (utat)/
+
+# ID-n18Hj9k
+# Ver 2018-05-06T15:34:48Z jojo-chan Stat-New >https://zh.wikipedia.org/wiki/%E6%AC%A7%E6%B4%B2%E8%81%94%E7%9B%9F\n"简称欧盟"
+歐盟 欧盟 [ou1 meng2] /EU, Európai Unió (összevonás: 欧洲联盟)/
 
 # ID-n18Hm1o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
