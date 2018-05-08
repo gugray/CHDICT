@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-05-07T02:00:01Z
+# Datenstand: 2018-05-08T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -44699,6 +44699,8 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2018-04-24T14:06:27Z GaoYanuo Stat-Verif >Nem indokolt a "nyelv" zárójelezése a 语 miatt.
 # 西班牙語 西班牙语 [xi1 ban1 ya2 yu3] /spanyol nyelv/
 # Ver 2018-05-04T11:15:29Z gabor Stat-Verif >tk. igaz az érvelés, de én mégis zárójelbe teszem inkább:\n- "spanyol" önmagában is jelenti a nyelvet, pl. "imádom a spanyolt"\n- gyakorlatias megfontolás: ha mindenhol odaírjuk, hogy "nyelv", akkor magyarul a "nyelv"-re keresve mindent megkapunk, ami nem szerencsés; ellenben ha konkrétan X nyelv érdekel, úgy X-re keresek.
+# 西班牙語 西班牙语 [xi1 ban1 ya2 yu3] /spanyol (nyelv)/
+# Ver 2018-05-08T01:27:50Z GaoYanuo Stat-Verif >OK, nekem ezzel az volt a gondom, hogy a szótárhasználó melléknévként ne használja, csak a "西班牙"-t. Tehát nem mindenhova írjuk ki, hogy "nyelv", csak ott, ahol szerepel a "语". Mert az mégis csak nyelv. Másik megoldás: meghagyni egyedüli szócikként a "西班牙"-t, "语" nélkül, és mindkettőnk érvelése "csontnélküli". :-) 
 西班牙語 西班牙语 [xi1 ban1 ya2 yu3] /spanyol (nyelv)/
 
 # ID-k68WT3K
