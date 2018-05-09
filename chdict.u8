@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-05-08T02:00:01Z
+# Datenstand: 2018-05-09T02:00:02Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -15403,6 +15403,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-d64IZ4J
 # Ver 2018-05-06T15:16:37Z jojo-chan Stat-New >A korpusz is megerősíti.
+# 近年 近年 [jin4 nian2] /az utóbbi években/
+# Ver 2018-05-08T12:43:31Z gabor Stat-Verif >.
 近年 近年 [jin4 nian2] /az utóbbi években/
 
 # ID-d64Kq4o
@@ -22961,7 +22963,10 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-f47vP7g
 # Ver 2018-05-06T15:28:39Z jojo-chan Stat-New >https://baike.baidu.com/item/%E9%B2%9C/34301#3_2
-鮮 鲜 [xian3] /ritkán/kevés/
+# 鮮 鲜 [xian3] /ritkán/kevés/
+# Ver 2018-05-08T12:44:57Z gabor Stat-Verif >.
+# Ver 2018-05-08T12:45:30Z gabor Stat-Verif >ahogy én a forrásokban nézem, ez inkább "ritka", mint "ritkán"
+鮮 鲜 [xian3] /ritka/kevés/
 
 # ID-f47CL4H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -29407,7 +29412,10 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-g99Vg3u
 # Ver 2018-05-06T14:52:33Z jojo-chan Stat-New >https://zh.wikipedia.org/wiki/%E6%AC%A7%E5%85%83%E5%8C%BA
-歐元區 欧元区 [ou1 yuan2 qu1] /eurózóna, euróövezet/
+# 歐元區 欧元区 [ou1 yuan2 qu1] /eurózóna, euróövezet/
+# Ver 2018-05-08T12:42:49Z gabor Stat-Verif >.
+# Ver 2018-05-08T12:43:13Z gabor Stat-Verif >elhat; alternatívák pontosvesszővel
+歐元區 欧元区 [ou1 yuan2 qu1] /euró|zóna; euró|övezet/
 
 # ID-g99Yu4P
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -35612,7 +35620,10 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-i52As2L
 # Ver 2018-05-06T14:37:44Z jojo-chan Stat-New >https://zh.wikipedia.org/wiki/%E6%AD%90%E6%B4%B2%E8%B2%A8%E5%B9%A3%E7%AE%A1%E7%90%86%E5%B1%80
-歐洲貨幣管理局 欧洲货币管理局 [ou1 zhou1 huo4 bi4 guan3 li3 ju2] /Európai Monetáris Intézet/
+# 歐洲貨幣管理局 欧洲货币管理局 [ou1 zhou1 huo4 bi4 guan3 li3 ju2] /Európai Monetáris Intézet/
+# Ver 2018-05-08T12:41:59Z gabor Stat-Verif >.
+# Ver 2018-05-08T12:42:10Z gabor Stat-Verif >címke
+歐洲貨幣管理局 欧洲货币管理局 [ou1 zhou1 huo4 bi4 guan3 li3 ju2] /(tulajdonnév) Európai Monetáris Intézet/
 
 # ID-i52He5S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -44701,6 +44712,7 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2018-05-04T11:15:29Z gabor Stat-Verif >tk. igaz az érvelés, de én mégis zárójelbe teszem inkább:\n- "spanyol" önmagában is jelenti a nyelvet, pl. "imádom a spanyolt"\n- gyakorlatias megfontolás: ha mindenhol odaírjuk, hogy "nyelv", akkor magyarul a "nyelv"-re keresve mindent megkapunk, ami nem szerencsés; ellenben ha konkrétan X nyelv érdekel, úgy X-re keresek.
 # 西班牙語 西班牙语 [xi1 ban1 ya2 yu3] /spanyol (nyelv)/
 # Ver 2018-05-08T01:27:50Z GaoYanuo Stat-Verif >OK, nekem ezzel az volt a gondom, hogy a szótárhasználó melléknévként ne használja, csak a "西班牙"-t. Tehát nem mindenhova írjuk ki, hogy "nyelv", csak ott, ahol szerepel a "语". Mert az mégis csak nyelv. Másik megoldás: meghagyni egyedüli szócikként a "西班牙"-t, "语" nélkül, és mindkettőnk érvelése "csontnélküli". :-) 
+# Ver 2018-05-08T12:48:18Z gabor Stat-Flagged >ez igaz érvelés, és nem is igazán tudok/akarok vitatkozni az érdemi részével. egyedül a konzisztencia marad, hogy akkor ezt nemcsak a spanyolnál kellene megcsinálni, hanem szisztematikusan minden nyelvnél, országnál - méghozzá akkor már offline. ezért most ezt itt jól megjelölöm emlékeztetőnek.
 西班牙語 西班牙语 [xi1 ban1 ya2 yu3] /spanyol (nyelv)/
 
 # ID-k68WT3K
@@ -55234,7 +55246,10 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-n18Hj9k
 # Ver 2018-05-06T15:34:48Z jojo-chan Stat-New >https://zh.wikipedia.org/wiki/%E6%AC%A7%E6%B4%B2%E8%81%94%E7%9B%9F\n"简称欧盟"
-歐盟 欧盟 [ou1 meng2] /EU, Európai Unió (összevonás: 欧洲联盟)/
+# 歐盟 欧盟 [ou1 meng2] /EU, Európai Unió (összevonás: 欧洲联盟)/
+# Ver 2018-05-08T12:45:44Z gabor Stat-Verif >.
+# Ver 2018-05-08T12:46:13Z gabor Stat-Verif >címke; alternatívák pontosvesszővel
+歐盟 欧盟 [ou1 meng2] /(tulajdonnév) Európai Unió; EU (összevonás: 欧洲联盟)/
 
 # ID-n18Hm1o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
