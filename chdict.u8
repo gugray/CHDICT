@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-05-14T02:00:01Z
+# Datenstand: 2018-05-17T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -980,6 +980,10 @@
 # 沒意思 没意思 [mei2 yi4 si5] /unalmas/érdektelen/fárasztó/értelmetlen/
 # Ver 2017-11-26T22:18:57Z gabor Stat-Verif >.
 沒意思 没意思 [mei2 yi4 si5] /unalmas/érdektelen/fárasztó/értelmetlen/
+
+# ID-a22kf6Z
+# Ver 2018-05-16T22:10:32Z GaoYanuo Stat-New > CC-CEDICT, és egyéb szótárak, Wikipédia
+川劇 川剧 [chuan1 ju4] /Szecsuáni opera/
 
 # ID-a22tv6q
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -16001,6 +16005,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 近地點 近地点 [jin4 di4 dian3] /közel|pont; apszis|pont (csillagászat: a pálya azon pontja, amikor az égitest a központi égitesthez a legjözelebb van)/
 
+# ID-d77Cx9S
+# Ver 2018-05-16T18:39:54Z jojo-chan Stat-New >A korpusz is megerősíti.
+知識產權 知识产权 [zhi1 shi5 chan3 quan2] /szellemi tulajdon/
+
 # ID-d77Lg8j
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 洗衣房 洗衣房 [xi3 yi1 fang2] /mosoda/mosó|konyha/
@@ -19740,6 +19748,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-e67FO0a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 炒 炒 [chao3] /pirít (serpenyőben vagy wokban, rázva süt)/ki|rúg (állásából)/
+
+# ID-e67Jb0Y
+# Ver 2018-05-16T21:59:21Z GaoYanuo Stat-New >tanár, wikipédia\nMég a magyar wikipédiában is igen sokféle elnevezés van rá, nem tudom, melyik lenne a legtalálóbb. \nMás:\nÉrdekes, hogy a korpusz ad rá komisz, csintalan, rakoncátlan (és még egész durva) találatokat is, de azok mind 调皮蛋 (tiáo pí dàn) összetételben szerepelnek. A szokásos szótárakban szintén 调皮蛋 alakban találtam csak meg "jómadár","süvölvény", stb. jelentéssel. Egy thaiföldi film címét is így fordították le kínaira. (Két iskola rivalizálásáról szól.)\nA második jelentésre a 皮蛋-t 调 nélkül nem mertem belevenni.
+皮蛋 皮蛋 [pi2 dan4] /Pídan; százéves tojás (hagyományos kínai ételkülönlegesség)/
 
 # ID-e67Ky4n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -24530,6 +24542,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 萬事 万事 [wan4 shi4] /minden dolog; minden/
 
+# ID-f83cm6z
+# Ver 2018-05-16T21:25:35Z GaoYanuo Stat-New >http://ce.linedict.com/dict.html#/cnen/example?query=%E5%8F%98%E8%84%B8\nA korpuszban is érdekes dolgok vannak.\nGondban vagyok, hogy a megváltozik,/átváltozik hogy jelenjen meg. Meg|át|változik, vagy külön bekezdésben?
+變臉 变脸 [bian4 lian3] /arcot vált (A Szecsuáni opera különleges attrakciója, a színészek pillanatok alatt cserélnek sminket, maszkot.)/megváltozik (vkinek a jelleme, hangulata)/
+
 # ID-f83dC6E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 壁龕 壁龛 [bi4 kan1] /fal|fülke/alkóv/
@@ -25139,6 +25155,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-f99aG3r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 試卷 试卷 [shi4 juan4] /vizsga|dolgozat/SZ:份[fen4],張|张[zhang1]/
+
+# ID-f99fm2k
+# Ver 2018-05-16T18:32:32Z jojo-chan Stat-New >https://zh.wikipedia.org/zh-cn/%E9%9B%BB%E5%AD%90%E6%9B%B8
+電子書 电子书 [dian4 zi5 shu1] /e-könyv; e-book; elektronikus könyv/
 
 # ID-f99gl4d
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -37767,6 +37787,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 貨物 货物 [huo4 wu4] /áruk/áru|cikkek/SZ:宗[zong1]/
 
+# ID-j03Ka4w
+# Ver 2018-05-16T18:33:51Z jojo-chan Stat-New >A korpusz is megerősíti.
+紙質書 纸质书 [zhi3 zhi4 shu1] /nyomtatott könyv/
+
 # ID-j03Lo5y
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 痛楚 痛楚 [tong4 chu3] /fájdalom/gyötrelem; kín/
@@ -48771,6 +48795,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-l64Kj5C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
+# 三分之一 三分之一 [san1 fen1 zhi1 yi1] /egy|harmad/
+# Ver 2018-05-16T22:07:20Z GaoYanuo Stat-Verif >Az "A"分之"B" típusú kifejezés többször szerepel. Az összes törtet mégsem kéne külön szócikként felvenni, mert akkor a CHEDICT lehetne a legnagyobb szótár.:-)\nA "száz százalék" más mise, mert az megszilárdult kifejezés. \nA jövőben az ilyesmit hogy kezeljük? Hasonló a szitu, mint az ország/nép/nyelv nevekkel.
 三分之一 三分之一 [san1 fen1 zhi1 yi1] /egy|harmad/
 
 # ID-l64WN6M
