@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-05-17T02:00:01Z
+# Datenstand: 2018-05-19T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -1752,6 +1752,10 @@
 # ID-a39xp3p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 雙曲線 双曲线 [shuang1 qu1 xian4] /hiperbola (geometria)/
+
+# ID-a39zr5R
+# Ver 2018-05-18T13:51:23Z GaoYanuo Stat-New >Forrás: egyetemi dokumentum, korpusz,\nhttp://ce.linedict.com/dict.html#/cnen/example?query=%E8%A1%8C%E7%A8%8B%E5%AE%89%E6%8E%92
+行程安排 行程安排 [xing2 cheng2 an1 pai2] /útiterv; úti program/
 
 # ID-a39Ak4Q
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -6563,6 +6567,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 留學 留学 [liu2 xue2] /külföldön tanul/
 
+# ID-b55cw2h
+# Ver 2018-05-18T14:51:55Z GaoYanuo Stat-New >szokásos szótárak (Youdao, Purple culture, Line Dict, CC-CEDICT, etc.)
+中華 中华 [zhong1 hua2] /Kína/kínai/
+
 # ID-b55mN2w
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 小蔥 小葱 [xiao3 cong1] /mogyoró|hagyma/új|hagyma/SZ:把[ba3]/
@@ -8095,6 +8103,10 @@
 # ID-b91hc8n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 培訓 培训 [pei2 xun4] /művel/képez/oktatás/tréning/
+
+# ID-b91kc1l
+# Ver 2018-05-18T15:43:14Z GaoYanuo Stat-New >Wikipédia, szokásos szótárak (Youdao, Purple culture, Line Dict, CC-CEDICT, etc.)
+雍和宮 雍和宫 [yong1 he2 gong1] /A Lámatemplom Pekingben/
 
 # ID-b91vt7n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -15575,6 +15587,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 暖 暖 [nuan3] /meleg/melegít/
 
+# ID-d67Xe1W
+# Ver 2018-05-18T23:58:16Z GaoYanuo Stat-New >Wikipedia\nhttp://www.youdao.com/w/eng/%E6%97%A0%E5%90%8D%E6%B0%8F/#keyfrom=dict2.index
+無名氏 无名氏 [wu2 ming2 shi4] /névtelen; anonim/Anonymus/
+
 # ID-d67Xt2v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 商務 商务 [shang1 wu4] /üzleti ügyek/kereskedelem/
@@ -16857,6 +16873,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 產 产 [chan3] /világra hoz/termel/gyárt/
 
+# ID-d99VQ2p
+# Ver 2018-05-19T00:10:09Z GaoYanuo Stat-New >https://www.sulzer.com/zh-cn/shared/products/2017/03/28/13/47/static-crystallization
+凝固點 凝固点 [ning2 gu4 dian3] /olvadáspont; fagyáspont/
+
 # ID-e00dd0k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 職 职 [zhi2] /hivatl/szakma/foglalkozás/
@@ -17468,7 +17488,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-e14Xn1r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-應用 应用 [ying4 yong4] /használ/alkalmaz/alkalmazás; app (szoftver)/
+# 應用 应用 [ying4 yong4] /használ/alkalmaz/alkalmazás; app (szoftver)/
+# Ver 2018-05-19T00:23:40Z GaoYanuo Stat-Verif >https://www.sulzer.com/zh-cn/shared/products/2017/03/28/13/47/static-crystallization
+應用 应用 [ying4 yong4] /használ/alkalmaz/alkalmazás; app (szoftver)/alkalmazási terület/
 
 # ID-e15cN2O
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -22923,6 +22945,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 逃逸 逃逸 [tao2 yi4] /el|menekül/meg|szökik/
 
+# ID-f46gS2P
+# Ver 2018-05-18T15:22:54Z GaoYanuo Stat-New >angol wikipédia, \nhttp://ce.linedict.com/dict.html#/cnen/example?query=%E7%8E%8B%E5%BA%9C%E4%BA%95
+王府井 王府井 [wang2 fu3 jing3] /Vangfucsing, híres pekingi bevásárlóutca/
+
 # ID-f46ir3X
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 外地人 外地人 [wai4 di4 ren2] /idegen; nem idevalósi (ember)/
@@ -23390,6 +23416,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-f56ih7D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 敲詐 敲诈 [qiao1 zha4] /zsarolás/ki|csikar/
+
+# ID-f56lb3I
+# Ver 2018-05-19T00:03:53Z GaoYanuo Stat-New >https://eng.ichacha.net/%E6%94%B6%E7%8E%87.html
+收率 收率 [shou1 lü4] /hozam (pénzügy, technológia)/hatékonyság/kihozatal (technológia, kémia)/
 
 # ID-f56xy8j
 # Ver 2017-10-20T16:20:57Z gabor Stat-New >http://languagelog.ldc.upenn.edu/nll/?p=35023\nkorpusz
@@ -26480,6 +26510,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 奶 奶 [nai3] /mell/tej/szoptat/
 
+# ID-g30qY0B
+# Ver 2018-05-18T13:56:50Z GaoYanuo Stat-New >korpusz, \nhttp://ce.linedict.com/dict.html#/cnen/example?query=%E6%8E%A5%E6%9C%BA
+波音 波音 [bo1 yin1] /(márkanév) Boeing/
+
 # ID-g30wB3b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 嚴寒 严寒 [yan2 han2] /metsző hideg/
@@ -27096,6 +27130,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 謠言 谣言 [yao2 yan2] /szóbeszéd/híresztelés/kacsa (hamis hír)/
 
+# ID-g45Im5r
+# Ver 2018-05-18T14:45:30Z GaoYanuo Stat-New >szokásos szótárak (Youdao, Purple culture, Line Dict, CC-CEDICT, etc.)
+擀 擀 [gan3] /nyújt; gyúr (tésztát, stb.)/
+
 # ID-g45RT3E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 事跡 事迹 [shi4 ji4] /tett/múltbeli érdem/fontos múltbeli esemény/
@@ -27502,7 +27540,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-g54Nj7z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-體驗 体验 [ti3 yan4] /meg|tapasztal/
+# 體驗 体验 [ti3 yan4] /meg|tapasztal/
+# Ver 2018-05-18T15:10:26Z GaoYanuo Stat-Verif >jelentés bővítés\nA szokásos szótárak közül egyedül a Youdao említi főnévként is.
+# 體驗 体验 [ti3 yan4] /meg|tapasztal/tapasztalat/élmény/
+# Ver 2018-05-18T15:12:17Z GaoYanuo Stat-Verif >http://ce.linedict.com/dict.html#/cnen/example?query=%E4%BD%93%E9%AA%8C
+體驗 体验 [ti3 yan4] /meg|tapasztal/tapasztalat/élmény/
 
 # ID-g54Th5a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -42927,6 +42969,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-k25zU3k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
+# 儀式 仪式 [yi2 shi4] /szertartás/rítus/
+# Ver 2018-05-18T16:23:57Z GaoYanuo Stat-Verif >Nem tudom, hogy kéne jelezni, hogy nem csak vallási, rituális értelemben használják.\nFelvegyük harmadiknak az "ünnepség", vagy a "ceremónia" szót is?  Bár a szertartás a ceremónia magyar jelentése...
 儀式 仪式 [yi2 shi4] /szertartás/rítus/
 
 # ID-k25CD6D
@@ -43923,7 +43967,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-k49Nj8X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-課程 课程 [ke4 cheng2] /tanterv/SZ:堂[tang2],節|节[jie2],門|门[men2]/
+# 課程 课程 [ke4 cheng2] /tanterv/SZ:堂[tang2],節|节[jie2],門|门[men2]/
+# Ver 2018-05-18T14:35:41Z GaoYanuo Stat-Verif >jelentés bővítés\nhttps://www.purpleculture.net/dictionary-details/?word=%E8%AF%BE%E7%A8%8B\nhttp://www.youdao.com/w/curriculum/#keyfrom=E2Ctranslation\nhttp://ce.linedict.com/dict.html#/cnen/example?query=%E8%AF%BE%E7%A8%8B
+課程 课程 [ke4 cheng2] /tanterv/tananyag/kurzus/SZ:堂[tang2],節|节[jie2],門|门[men2]/
 
 # ID-k49Nr5V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -47165,6 +47211,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-l25gk2Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 長 长 [chang2] /hosszú/hossz/
+
+# ID-l25mj9R
+# Ver 2018-05-18T17:48:49Z GaoYanuo Stat-New >szokásos szótárak (Youdao, Purple culture, Line Dict, CC-CEDICT, etc.) + korpusz
+景點 景点 [jing3 dian3] /(turista) látványosság; látnivaló/
 
 # ID-l25pi7p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -52891,6 +52941,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 電解 电解 [dian4 jie3] /elektrolízis/
 
+# ID-m61aK6z
+# Ver 2018-05-18T15:30:01Z GaoYanuo Stat-New >szokásos szótárak (Youdao, Purple culture, Line Dict, CC-CEDICT, etc.)
+漢服 汉服 [han4 fu2] /Hagyományos kínai viselet, öltözék./
+
 # ID-m61dv1U
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 色素 色素 [se4 su4] /pigment/
@@ -53446,6 +53500,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-m73Tz3f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 獨處 独处 [du2 chu3] /magányos/egyedül van/
+
+# ID-m73YO1A
+# Ver 2018-05-18T23:25:36Z GaoYanuo Stat-New >wikipédia, CC-CEDICT
+分辨率 分辨率 [fen1 bian4 lü4] /felbontás (leképezésnél)/
 
 # ID-m73YO1K
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -54054,6 +54112,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-m87IN8N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 極其 极其 [ji2 qi2] /rendkívül/
+
+# ID-m87NH8k
+# Ver 2018-05-19T00:19:51Z GaoYanuo Stat-New >ICHACHA, YOUDAO
+闆材 板材 [ban3 cai2] /lap/lemez//
 
 # ID-m87NW2j
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -54891,6 +54953,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-n07KT6U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 晉升 晋升 [jin4 sheng1] /elő|léptet/magasabb beosztásba helyez/
+
+# ID-n07RF0O
+# Ver 2018-05-18T14:30:00Z GaoYanuo Stat-New >https://www.purpleculture.net/dictionary-details/?word=%E9%81%97%E5%9D%80\nhttp://ce.linedict.com/dict.html#/cnen/example?query=%E9%81%97%E5%9D%80\nkorpusz, stb.
+遺址 遗址 [yi2 zhi3] /rom, maradvány/történelmi emlékhely; örökség/relikvia/
 
 # ID-n07Yp3S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -56314,6 +56380,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-n43ts8U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 鎮定 镇定 [zhen4 ding4] /nyugodt/higgadt/
+
+# ID-n43vl7f
+# Ver 2018-05-18T23:50:42Z GaoYanuo Stat-New >https://www.sulzer.com/zh-cn/shared/products/2017/03/28/13/47/static-crystallization\nhttps://eng.ichacha.net/%E9%9D%99%E6%80%81.html
+靜態 静态 [jing4 tai4] /statikus (fizikában, technológiában szóösszetételekben)/nyugalmi/
 
 # ID-n43wK7y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -60270,7 +60340,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-o39lp3P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-尺寸 尺寸 [chi3 cun4] /méret/
+# 尺寸 尺寸 [chi3 cun4] /méret/
+# Ver 2018-05-18T23:33:12Z GaoYanuo Stat-Verif >jelentésbővítés\nWikipédia, CC-EDICT
+尺寸 尺寸 [chi3 cun4] /méret/mértékegység; dimenzió/
 
 # ID-o39ng3J
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -62212,6 +62284,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-o86VU1K
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 露珠 露珠 [lu4 zhu1] /harmat|csepp/
+
+# ID-o87al3O
+# Ver 2018-05-18T16:30:02Z GaoYanuo Stat-New >ELTE Konfuciusz Intézet honlapja, szokásos szótárak (Youdao, Purple culture, Line Dict, CC-CEDICT, etc.)
+漢辦 汉办 [han4 ban4] /(intézmény) Kínai Nyelvoktatási Tanács (A 国家汉办 rövidítése)/
 
 # ID-o87dB7k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
