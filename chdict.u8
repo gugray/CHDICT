@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-05-19T02:00:01Z
+# Datenstand: 2018-05-23T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -24439,6 +24439,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 諾言 诺言 [nuo4 yan2] /ígéret/bele|egyezés/
 
+# ID-f79PE7U
+# Ver 2018-05-22T15:00:48Z GaoYanuo Stat-New >https://www.purpleculture.net/chinese-english-dictionary/?word=%E7%A0%94%E7%A9%B6%E9%99%A2%E8%A3%85%E7%BD%AE%E5%B7%A5%E8%89%BA%E4%BC%98%E5%8C%96%E4%B8%AD%E5%BF%83
+優化 优化 [you1 hua4] /optimalizálás/
+
 # ID-f79Tn9u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 至 至 [zhi4] /érkezik/-ig/
@@ -32359,6 +32363,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 柯林 柯林 [ke1 lin2] /(átirat) Colin/
 
+# ID-h73an3P
+# Ver 2018-05-22T14:49:09Z GaoYanuo Stat-New >CC-CEDICT és mások
+穩定性 稳定性 [wen3 ding4 xing4] /stabilitás/
+
 # ID-h73gy8p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 創立 创立 [chuang4 li4] /alapít/létre|hoz/
@@ -36812,6 +36820,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-i77Bg1W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 線路 线路 [xian4 lu4] /áram|kör/vonal (közlekedési eszközé)/
+
+# ID-i77ZP7o
+# Ver 2018-05-22T14:51:29Z GaoYanuo Stat-New >CC-CEDICT és a többi alapszótár
+二聚體 二聚体 [er4 ju4 ti3] /dimer (kémia)/
 
 # ID-i78gp4o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -42702,6 +42714,10 @@ U盤 U盘 [U pan2] /pendrive/
 # 芥末 芥末 [jie4 mo5] /mustár/
 # Ver 2018-03-23T23:33:23Z gabor Stat-Verif >.
 芥末 芥末 [jie4 mo5] /mustár/
+
+# ID-k19Xx8S
+# Ver 2018-05-22T14:59:20Z GaoYanuo Stat-New >https://www.purpleculture.net/chinese-english-dictionary/?word=%E7%A0%94%E7%A9%B6%E9%99%A2%E8%A3%85%E7%BD%AE%E5%B7%A5%E8%89%BA%E4%BC%98%E5%8C%96%E4%B8%AD%E5%BF%83
+研究院 研究院 [yan2 jiu1 yuan4] /kutatóintézet/
 
 # ID-k19Yp2t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -52150,7 +52166,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-m43kW3S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-運行 运行 [yun4 xing2] /mozgásban van/fut (program)/
+# 運行 运行 [yun4 xing2] /mozgásban van/fut (program)/
+# Ver 2018-05-22T14:56:50Z GaoYanuo Stat-Verif >http://www.dictall.com/dictall/result.jsp?cd=UTF-8&keyword=%E8%BF%90%E8%A1%8C
+運行 运行 [yun4 xing2] /mozgásban van/fut (program)/üzemelés/üzemeltetés/
 
 # ID-m43lT9j
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -62947,7 +62965,9 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 結晶 结晶 [jie2 jing1] /kristályosodás/kristályos/
 # Ver 2018-01-24T06:21:40Z GaoYanuo Stat-Verif >http://www.dictall.com/dictall/result.jsp?cd=UTF-8&keyword=%E7%BB%93%E6%99%B6
-結晶 结晶 [jie2 jing1] /kristályosodás/kristályos/kristályosít|ás/kristályosító/
+# 結晶 结晶 [jie2 jing1] /kristályosodás/kristályos/kristályosít|ás/kristályosító/
+# Ver 2018-05-22T14:28:33Z GaoYanuo Stat-Verif >korábban a "kristályosító"-t hibásan vettem bele.
+結晶 结晶 [jie2 jing1] /kristályosodás/kristályos/kristályosít|ás/
 
 # ID-p01vc4C
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
