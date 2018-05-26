@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-05-23T02:00:01Z
+# Datenstand: 2018-05-26T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -8963,6 +8963,10 @@
 # ID-c12sa0A
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 檢查站 检查站 [jian3 cha2 zhan4] /ellenőrző|pont/
+
+# ID-c12FK7v
+# Ver 2018-05-25T17:36:05Z GaoYanuo Stat-New >http://www.youdao.com/w/eng/%E5%9B%BD%E5%88%AB/#keyfrom=dict2.index\nhttp://www.archchinese.com/chinese_english_dictionary.html?find=%E5%9B%BD%E5%88%AB
+國別 国别 [guo2 bie2] /ország/nemzetiség/
 
 # ID-c12KQ9S
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
