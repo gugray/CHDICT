@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-05-26T02:00:01Z
+# Datenstand: 2018-05-27T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -1755,7 +1755,11 @@
 
 # ID-a39zr5R
 # Ver 2018-05-18T13:51:23Z GaoYanuo Stat-New >Forrás: egyetemi dokumentum, korpusz,\nhttp://ce.linedict.com/dict.html#/cnen/example?query=%E8%A1%8C%E7%A8%8B%E5%AE%89%E6%8E%92
-行程安排 行程安排 [xing2 cheng2 an1 pai2] /útiterv; úti program/
+# 行程安排 行程安排 [xing2 cheng2 an1 pai2] /útiterv; úti program/
+# Ver 2018-05-26T22:16:07Z gabor Stat-New >elhat
+# 行程安排 行程安排 [xing2 cheng2 an1 pai2] /úti|terv; úti program/
+# Ver 2018-05-26T22:16:10Z gabor Stat-Verif >.
+行程安排 行程安排 [xing2 cheng2 an1 pai2] /úti|terv; úti program/
 
 # ID-a39Ak4Q
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -6569,6 +6573,8 @@
 
 # ID-b55cw2h
 # Ver 2018-05-18T14:51:55Z GaoYanuo Stat-New >szokásos szótárak (Youdao, Purple culture, Line Dict, CC-CEDICT, etc.)
+# 中華 中华 [zhong1 hua2] /Kína/kínai/
+# Ver 2018-05-26T22:16:51Z gabor Stat-Verif >.
 中華 中华 [zhong1 hua2] /Kína/kínai/
 
 # ID-b55mN2w
@@ -16027,6 +16033,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-d77Cx9S
 # Ver 2018-05-16T18:39:54Z jojo-chan Stat-New >A korpusz is megerősíti.
+# 知識產權 知识产权 [zhi1 shi5 chan3 quan2] /szellemi tulajdon/
+# Ver 2018-05-26T22:14:40Z gabor Stat-Verif >.
 知識產權 知识产权 [zhi1 shi5 chan3 quan2] /szellemi tulajdon/
 
 # ID-d77Lg8j
@@ -18964,7 +18972,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-e50Aq6A
 # Ver 2018-05-06T15:35:21Z jojo-chan Stat-New >https://zh.wikipedia.org/wiki/%E6%AC%A7%E6%B4%B2%E8%81%94%E7%9B%9F
-歐洲聯盟 欧洲联盟 [ou1 zhou1 lian2 meng2] /Európai Unió, EU/
+# 歐洲聯盟 欧洲联盟 [ou1 zhou1 lian2 meng2] /Európai Unió, EU/
+# Ver 2018-05-26T22:14:04Z gabor Stat-New >címke; pontosvessző alternatívákhoz
+# 歐洲聯盟 欧洲联盟 [ou1 zhou1 lian2 meng2] /(földrajzi név) Európai Unió; EU/
+# Ver 2018-05-26T22:14:07Z gabor Stat-Verif >.
+歐洲聯盟 欧洲联盟 [ou1 zhou1 lian2 meng2] /(földrajzi név) Európai Unió; EU/
 
 # ID-e50Co7S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -22951,7 +22963,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-f46gS2P
 # Ver 2018-05-18T15:22:54Z GaoYanuo Stat-New >angol wikipédia, \nhttp://ce.linedict.com/dict.html#/cnen/example?query=%E7%8E%8B%E5%BA%9C%E4%BA%95
-王府井 王府井 [wang2 fu3 jing3] /Vangfucsing, híres pekingi bevásárlóutca/
+# 王府井 王府井 [wang2 fu3 jing3] /Vangfucsing, híres pekingi bevásárlóutca/
+# Ver 2018-05-26T22:19:24Z gabor Stat-New >magyarázat inkább zárójelben; címke, elvégre: földrajzi név :)
+# 王府井 王府井 [wang2 fu3 jing3] /(földrajzi név) Vangfucsing (híres pekingi bevásárlóutca)/
+# Ver 2018-05-26T22:19:27Z gabor Stat-Verif >.
+王府井 王府井 [wang2 fu3 jing3] /(földrajzi név) Vangfucsing (híres pekingi bevásárlóutca)/
 
 # ID-f46ir3X
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -24445,7 +24461,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-f79PE7U
 # Ver 2018-05-22T15:00:48Z GaoYanuo Stat-New >https://www.purpleculture.net/chinese-english-dictionary/?word=%E7%A0%94%E7%A9%B6%E9%99%A2%E8%A3%85%E7%BD%AE%E5%B7%A5%E8%89%BA%E4%BC%98%E5%8C%96%E4%B8%AD%E5%BF%83
-優化 优化 [you1 hua4] /optimalizálás/
+# 優化 优化 [you1 hua4] /optimalizálás/
+# Ver 2018-05-26T22:22:00Z gabor Stat-New >ABC szerint ige is
+# 優化 优化 [you1 hua4] /optimalizál; optimalizálás/
+# Ver 2018-05-26T22:22:02Z gabor Stat-Verif >.
+優化 优化 [you1 hua4] /optimalizál; optimalizálás/
 
 # ID-f79Tn9u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -25196,6 +25216,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-f99fm2k
 # Ver 2018-05-16T18:32:32Z jojo-chan Stat-New >https://zh.wikipedia.org/zh-cn/%E9%9B%BB%E5%AD%90%E6%9B%B8
+# 電子書 电子书 [dian4 zi5 shu1] /e-könyv; e-book; elektronikus könyv/
+# Ver 2018-05-26T22:12:44Z gabor Stat-Verif >.
 電子書 电子书 [dian4 zi5 shu1] /e-könyv; e-book; elektronikus könyv/
 
 # ID-f99gl4d
@@ -26520,6 +26542,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-g30qY0B
 # Ver 2018-05-18T13:56:50Z GaoYanuo Stat-New >korpusz, \nhttp://ce.linedict.com/dict.html#/cnen/example?query=%E6%8E%A5%E6%9C%BA
+# 波音 波音 [bo1 yin1] /(márkanév) Boeing/
+# Ver 2018-05-26T22:16:17Z gabor Stat-Verif >.
 波音 波音 [bo1 yin1] /(márkanév) Boeing/
 
 # ID-g30wB3b
@@ -27140,7 +27164,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-g45Im5r
 # Ver 2018-05-18T14:45:30Z GaoYanuo Stat-New >szokásos szótárak (Youdao, Purple culture, Line Dict, CC-CEDICT, etc.)
-擀 擀 [gan3] /nyújt; gyúr (tésztát, stb.)/
+# 擀 擀 [gan3] /nyújt; gyúr (tésztát, stb.)/
+# Ver 2018-05-26T22:16:29Z gabor Stat-New >.
+# 擀 擀 [gan3] /nyújt; gyúr (pl. tésztát)/
+# Ver 2018-05-26T22:16:33Z gabor Stat-Verif >.
+擀 擀 [gan3] /nyújt; gyúr (pl. tésztát)/
 
 # ID-g45RT3E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -27552,7 +27580,8 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2018-05-18T15:10:26Z GaoYanuo Stat-Verif >jelentés bővítés\nA szokásos szótárak közül egyedül a Youdao említi főnévként is.
 # 體驗 体验 [ti3 yan4] /meg|tapasztal/tapasztalat/élmény/
 # Ver 2018-05-18T15:12:17Z GaoYanuo Stat-Verif >http://ce.linedict.com/dict.html#/cnen/example?query=%E4%BD%93%E9%AA%8C
-體驗 体验 [ti3 yan4] /meg|tapasztal/tapasztalat/élmény/
+# Ver 2018-05-26T22:18:32Z gabor Stat-Verif >korpuszbeli példák között egyértelműen van főnév. nem tudom, tapasztalat/élmény tényleg különböző értelem-e, inkább összevontam.
+體驗 体验 [ti3 yan4] /meg|tapasztal/tapasztalat; élmény/
 
 # ID-g54Th5a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -36827,6 +36856,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-i77ZP7o
 # Ver 2018-05-22T14:51:29Z GaoYanuo Stat-New >CC-CEDICT és a többi alapszótár
+# 二聚體 二聚体 [er4 ju4 ti3] /dimer (kémia)/
+# Ver 2018-05-26T22:21:07Z gabor Stat-Verif >.
 二聚體 二聚体 [er4 ju4 ti3] /dimer (kémia)/
 
 # ID-i78gp4o
@@ -37847,6 +37878,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-j03Ka4w
 # Ver 2018-05-16T18:33:51Z jojo-chan Stat-New >A korpusz is megerősíti.
+# 紙質書 纸质书 [zhi3 zhi4 shu1] /nyomtatott könyv/
+# Ver 2018-05-26T22:14:27Z gabor Stat-Verif >.
 紙質書 纸质书 [zhi3 zhi4 shu1] /nyomtatott könyv/
 
 # ID-j03Lo5y
@@ -42721,7 +42754,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-k19Xx8S
 # Ver 2018-05-22T14:59:20Z GaoYanuo Stat-New >https://www.purpleculture.net/chinese-english-dictionary/?word=%E7%A0%94%E7%A9%B6%E9%99%A2%E8%A3%85%E7%BD%AE%E5%B7%A5%E8%89%BA%E4%BC%98%E5%8C%96%E4%B8%AD%E5%BF%83
-研究院 研究院 [yan2 jiu1 yuan4] /kutatóintézet/
+# 研究院 研究院 [yan2 jiu1 yuan4] /kutatóintézet/
+# Ver 2018-05-26T22:21:27Z gabor Stat-New >elhat
+# 研究院 研究院 [yan2 jiu1 yuan4] /kutató|intézet/
+# Ver 2018-05-26T22:21:30Z gabor Stat-Verif >.
+研究院 研究院 [yan2 jiu1 yuan4] /kutató|intézet/
 
 # ID-k19Yp2t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
