@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-05-27T02:00:01Z
+# Datenstand: 2018-05-29T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -983,7 +983,11 @@
 
 # ID-a22kf6Z
 # Ver 2018-05-16T22:10:32Z GaoYanuo Stat-New > CC-CEDICT, és egyéb szótárak, Wikipédia
-川劇 川剧 [chuan1 ju4] /Szecsuáni opera/
+# 川劇 川剧 [chuan1 ju4] /Szecsuáni opera/
+# Ver 2018-05-28T20:50:32Z gabor Stat-New >kisbetű, wikipedia is így ír róla; nem tulajdonnév, csak fogalom
+# 川劇 川剧 [chuan1 ju4] /szecsuáni opera/
+# Ver 2018-05-28T20:50:35Z gabor Stat-Verif >.
+川劇 川剧 [chuan1 ju4] /szecsuáni opera/
 
 # ID-a22tv6q
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -8112,7 +8116,11 @@
 
 # ID-b91kc1l
 # Ver 2018-05-18T15:43:14Z GaoYanuo Stat-New >Wikipédia, szokásos szótárak (Youdao, Purple culture, Line Dict, CC-CEDICT, etc.)
-雍和宮 雍和宫 [yong1 he2 gong1] /A Lámatemplom Pekingben/
+# 雍和宮 雍和宫 [yong1 he2 gong1] /A Lámatemplom Pekingben/
+# Ver 2018-05-28T21:13:28Z gabor Stat-New >kicsit hozzáigazítottam a Wikipedia megfogalmazásához
+# 雍和宮 雍和宫 [yong1 he2 gong1] /(tulajdonnév) Jungho templom; Láma templom (nevezetes buddhista monostor Pekingben)/
+# Ver 2018-05-28T21:13:31Z gabor Stat-Verif >.
+雍和宮 雍和宫 [yong1 he2 gong1] /(tulajdonnév) Jungho templom; Láma templom (nevezetes buddhista monostor Pekingben)/
 
 # ID-b91vt7n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -19789,7 +19797,12 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-e67Jb0Y
 # Ver 2018-05-16T21:59:21Z GaoYanuo Stat-New >tanár, wikipédia\nMég a magyar wikipédiában is igen sokféle elnevezés van rá, nem tudom, melyik lenne a legtalálóbb. \nMás:\nÉrdekes, hogy a korpusz ad rá komisz, csintalan, rakoncátlan (és még egész durva) találatokat is, de azok mind 调皮蛋 (tiáo pí dàn) összetételben szerepelnek. A szokásos szótárakban szintén 调皮蛋 alakban találtam csak meg "jómadár","süvölvény", stb. jelentéssel. Egy thaiföldi film címét is így fordították le kínaira. (Két iskola rivalizálásáról szól.)\nA második jelentésre a 皮蛋-t 调 nélkül nem mertem belevenni.
-皮蛋 皮蛋 [pi2 dan4] /Pídan; százéves tojás (hagyományos kínai ételkülönlegesség)/
+# 皮蛋 皮蛋 [pi2 dan4] /Pídan; százéves tojás (hagyományos kínai ételkülönlegesség)/
+# Ver 2018-05-28T20:57:03Z gabor Stat-New >nekem száznapos :)
+# 皮蛋 皮蛋 [pi2 dan4] /száznapos tojás; százéves tojás (fermentált tojás, hagyományos kínai ételkülönlegesség)/
+# Ver 2018-05-28T20:57:10Z gabor Stat-Verif >.
+# Ver 2018-05-28T20:59:43Z gabor Stat-Verif >haha, a pajzán találatoknak tényleg vicces volt utánajárni! nekem egyértelműen úgy tűnik, a 调皮-ről van szó, ami szerepel a törzsanyagban is. az a gyanúm, hogy a 调皮蛋 erre épített szójáték, ami nem lep meg, ha a 蛋 olyan használatára gondolsz, mint a 笨蛋 :) nem kérdezel rá a munkatársaknál? én is igyekszem "gyűjteni" egy kicsit.
+皮蛋 皮蛋 [pi2 dan4] /száznapos tojás; százéves tojás (fermentált tojás, hagyományos kínai ételkülönlegesség)/
 
 # ID-e67Ky4n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -24602,7 +24615,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-f83cm6z
 # Ver 2018-05-16T21:25:35Z GaoYanuo Stat-New >http://ce.linedict.com/dict.html#/cnen/example?query=%E5%8F%98%E8%84%B8\nA korpuszban is érdekes dolgok vannak.\nGondban vagyok, hogy a megváltozik,/átváltozik hogy jelenjen meg. Meg|át|változik, vagy külön bekezdésben?
-變臉 变脸 [bian4 lian3] /arcot vált (A Szecsuáni opera különleges attrakciója, a színészek pillanatok alatt cserélnek sminket, maszkot.)/megváltozik (vkinek a jelleme, hangulata)/
+# 變臉 变脸 [bian4 lian3] /arcot vált (A Szecsuáni opera különleges attrakciója, a színészek pillanatok alatt cserélnek sminket, maszkot.)/megváltozik (vkinek a jelleme, hangulata)/
+# Ver 2018-05-28T21:02:50Z gabor Stat-New >a szecsuáni operán kívül az ABC és a CEDICT szerint is konkrétan arról van szó, hogy ellenségessé válik váratlanul. bevettem az elszemtelenediket, tök jó fordítás a korpuszból.
+# 變臉 变脸 [bian4 lian3] /arcot vált (a szecsuáni opera különleges attrakciója, ahol a színészek pillanatok alatt cserélnek sminket, maszkot)/ellenségessé válik; el|szemtelenedik/
+# Ver 2018-05-28T21:02:53Z gabor Stat-Verif >.
+變臉 变脸 [bian4 lian3] /arcot vált (a szecsuáni opera különleges attrakciója, ahol a színészek pillanatok alatt cserélnek sminket, maszkot)/ellenségessé válik; el|szemtelenedik/
 
 # ID-f83dC6E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -43028,7 +43045,8 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 儀式 仪式 [yi2 shi4] /szertartás/rítus/
 # Ver 2018-05-18T16:23:57Z GaoYanuo Stat-Verif >Nem tudom, hogy kéne jelezni, hogy nem csak vallási, rituális értelemben használják.\nFelvegyük harmadiknak az "ünnepség", vagy a "ceremónia" szót is?  Bár a szertartás a ceremónia magyar jelentése...
-儀式 仪式 [yi2 shi4] /szertartás/rítus/
+# Ver 2018-05-28T21:09:26Z gabor Stat-Verif >vegyük hozzá a ceremóniát az első jelentéshez. igazából a szertartás szinonimája, de talán kevésbé van a magyarban szakrális konnotációja, valóban.
+儀式 仪式 [yi2 shi4] /szertartás; ceremónia/rítus/
 
 # ID-k25CD6D
 # Ver 2017-12-08T19:27:24Z GaoYanuo Stat-New >http://www.youdao.com/w/%E9%A5%AE%E9%A3%9F%E6%96%87%E5%8C%96/#keyfrom=dict2.top\nhttps://eng.ichacha.net/%E9%A6%99%E6%B8%AF%E9%A5%AE%E9%A3%9F%E6%96%87%E5%8C%96.html
@@ -44026,7 +44044,9 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 課程 课程 [ke4 cheng2] /tanterv/SZ:堂[tang2],節|节[jie2],門|门[men2]/
 # Ver 2018-05-18T14:35:41Z GaoYanuo Stat-Verif >jelentés bővítés\nhttps://www.purpleculture.net/dictionary-details/?word=%E8%AF%BE%E7%A8%8B\nhttp://www.youdao.com/w/curriculum/#keyfrom=E2Ctranslation\nhttp://ce.linedict.com/dict.html#/cnen/example?query=%E8%AF%BE%E7%A8%8B
-課程 课程 [ke4 cheng2] /tanterv/tananyag/kurzus/SZ:堂[tang2],節|节[jie2],門|门[men2]/
+# 課程 课程 [ke4 cheng2] /tanterv/tananyag/kurzus/SZ:堂[tang2],節|节[jie2],門|门[men2]/
+# Ver 2018-05-28T21:05:12Z gabor Stat-Verif >összevontam csak a tömörség kedvéért
+課程 课程 [ke4 cheng2] /tan|terv; tan|anyag/kurzus/SZ:堂[tang2],節|节[jie2],門|门[men2]/
 
 # ID-k49Nr5V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -47271,7 +47291,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-l25mj9R
 # Ver 2018-05-18T17:48:49Z GaoYanuo Stat-New >szokásos szótárak (Youdao, Purple culture, Line Dict, CC-CEDICT, etc.) + korpusz
-景點 景点 [jing3 dian3] /(turista) látványosság; látnivaló/
+# 景點 景点 [jing3 dian3] /(turista) látványosság; látnivaló/
+# Ver 2018-05-28T21:11:19Z gabor Stat-New >turista > magyarázatba, nem címke :)
+# 景點 景点 [jing3 dian3] /látványosság; látnivaló (turisták számára)/
+# Ver 2018-05-28T21:11:21Z gabor Stat-Verif >.
+景點 景点 [jing3 dian3] /látványosság; látnivaló (turisták számára)/
 
 # ID-l25pi7p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -48904,6 +48928,7 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 三分之一 三分之一 [san1 fen1 zhi1 yi1] /egy|harmad/
 # Ver 2018-05-16T22:07:20Z GaoYanuo Stat-Verif >Az "A"分之"B" típusú kifejezés többször szerepel. Az összes törtet mégsem kéne külön szócikként felvenni, mert akkor a CHEDICT lehetne a legnagyobb szótár.:-)\nA "száz százalék" más mise, mert az megszilárdult kifejezés. \nA jövőben az ilyesmit hogy kezeljük? Hasonló a szitu, mint az ország/nép/nyelv nevekkel.
+# Ver 2018-05-28T20:52:43Z gabor Stat-Verif >igen, ezeket bizti nem kéne mind bevinni :) ami bekerült, az nem teljesen tudatos döntés: ezeket szóként kidobta az elemző eszköz, és elég gyakoriak voltak, hogy bekerüljenek az első tízezerbe. én nem agyalnék rajta túl sokat: ami bent van, bent van, többet ne vigyünk be. az ilyesmi határeset, hogy a nyelvtankönyvbe való vagy a szótárba. szerintem inkább a nyelvtankönyvbe.
 三分之一 三分之一 [san1 fen1 zhi1 yi1] /egy|harmad/
 
 # ID-l64WN6M
@@ -53002,7 +53027,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-m61aK6z
 # Ver 2018-05-18T15:30:01Z GaoYanuo Stat-New >szokásos szótárak (Youdao, Purple culture, Line Dict, CC-CEDICT, etc.)
-漢服 汉服 [han4 fu2] /Hagyományos kínai viselet, öltözék./
+# 漢服 汉服 [han4 fu2] /Hagyományos kínai viselet, öltözék./
+# Ver 2018-05-28T21:06:21Z gabor Stat-New >kína széles folyam, nem minden han, ami kínai :)
+# 漢服 汉服 [han4 fu2] /hagyományos han kínai viselet/
+# Ver 2018-05-28T21:07:53Z gabor Stat-Verif >habozok, hogy zárójelbe tegyem-e, hiszen végülis körülírás, de inkább mégse; túl későn van már ma este.
+漢服 汉服 [han4 fu2] /hagyományos han kínai viselet/
 
 # ID-m61dv1U
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -53562,7 +53591,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-m73YO1A
 # Ver 2018-05-18T23:25:36Z GaoYanuo Stat-New >wikipédia, CC-CEDICT
-分辨率 分辨率 [fen1 bian4 lü4] /felbontás (leképezésnél)/
+# 分辨率 分辨率 [fen1 bian4 lü4] /felbontás (leképezésnél)/
+# Ver 2018-05-28T21:14:53Z gabor Stat-New >.
+# 分辨率 分辨率 [fen1 bian4 lü4] /felbontás (képé, monitoré, szkenneré stb.)/
+# Ver 2018-05-28T21:14:57Z gabor Stat-Verif >.
+分辨率 分辨率 [fen1 bian4 lü4] /felbontás (képé, monitoré, szkenneré stb.)/
 
 # ID-m73YO1K
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -55015,7 +55048,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-n07RF0O
 # Ver 2018-05-18T14:30:00Z GaoYanuo Stat-New >https://www.purpleculture.net/dictionary-details/?word=%E9%81%97%E5%9D%80\nhttp://ce.linedict.com/dict.html#/cnen/example?query=%E9%81%97%E5%9D%80\nkorpusz, stb.
-遺址 遗址 [yi2 zhi3] /rom, maradvány/történelmi emlékhely; örökség/relikvia/
+# 遺址 遗址 [yi2 zhi3] /rom, maradvány/történelmi emlékhely; örökség/relikvia/
+# Ver 2018-05-28T21:04:24Z gabor Stat-New >.
+# 遺址 遗址 [yi2 zhi3] /rom; maradvány/relikvia/történelmi emlékhely; örökség/
+# Ver 2018-05-28T21:04:26Z gabor Stat-Verif >.
+遺址 遗址 [yi2 zhi3] /rom; maradvány/relikvia/történelmi emlékhely; örökség/
 
 # ID-n07Yp3S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -60401,6 +60438,9 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 尺寸 尺寸 [chi3 cun4] /méret/
 # Ver 2018-05-18T23:33:12Z GaoYanuo Stat-Verif >jelentésbővítés\nWikipédia, CC-EDICT
+# 尺寸 尺寸 [chi3 cun4] /méret/mértékegység; dimenzió/
+# Ver 2018-05-28T21:15:43Z gabor Stat-Verif >
+# Ver 2018-05-28T21:16:08Z gabor Stat-Verif >(ez egy "thumbs up" szmájli akart lenni)
 尺寸 尺寸 [chi3 cun4] /méret/mértékegység; dimenzió/
 
 # ID-o39ng3J
@@ -62346,7 +62386,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-o87al3O
 # Ver 2018-05-18T16:30:02Z GaoYanuo Stat-New >ELTE Konfuciusz Intézet honlapja, szokásos szótárak (Youdao, Purple culture, Line Dict, CC-CEDICT, etc.)
-漢辦 汉办 [han4 ban4] /(intézmény) Kínai Nyelvoktatási Tanács (A 国家汉办 rövidítése)/
+# 漢辦 汉办 [han4 ban4] /(intézmény) Kínai Nyelvoktatási Tanács (A 国家汉办 rövidítése)/
+# Ver 2018-05-28T21:10:29Z gabor Stat-New >még nincs "intézmény" címke, maradok a tágabb "tulajdonnév"-nél.
+# 漢辦 汉办 [han4 ban4] /(tulajdonnév) Kínai Nyelvoktatási Tanács (rövidítés: 国家汉办)/
+# Ver 2018-05-28T21:10:32Z gabor Stat-Verif >.
+漢辦 汉办 [han4 ban4] /(tulajdonnév) Kínai Nyelvoktatási Tanács (rövidítés: 国家汉办)/
 
 # ID-o87dB7k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
