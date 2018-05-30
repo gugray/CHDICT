@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-05-29T02:00:01Z
+# Datenstand: 2018-05-30T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -39186,7 +39186,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-j34xD8w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-衛星 卫星 [wei4 xing1] /műhold/SZ:顆|颗[ke1]/
+# 衛星 卫星 [wei4 xing1] /műhold/SZ:顆|颗[ke1]/
+# Ver 2018-05-29T21:52:33Z jojo-chan Stat-Verif >https://zh.wikipedia.org/wiki/%E8%A1%9B%E6%98%9F
+衛星 卫星 [wei4 xing1] /műhold/hold (égitesttípus; a bolygók, törpebolygók és kisbolygók körül keringő égitest)/SZ:顆|颗[ke1]/
 
 # ID-j34yR4M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
