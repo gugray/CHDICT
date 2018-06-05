@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-05-30T02:00:01Z
+# Datenstand: 2018-06-05T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -1788,6 +1788,12 @@
 # ID-a39Uv1X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 倉 仓 [cang1] /raktár/istálló; mag|tár/
+
+# ID-a40cG3U
+# Ver 2018-06-04T13:41:27Z Adam Stat-New >kínai Wikipédia szócikke
+# 大寫鎖定 大写锁定 [da4 xie3 suo3 ding4] /Caps Lock gomb (számítógépen)/
+# Ver 2018-06-04T19:55:50Z gabor Stat-Verif >.
+大寫鎖定 大写锁定 [da4 xie3 suo3 ding4] /Caps Lock gomb (számítógépen)/
 
 # ID-a40jC0J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -3799,6 +3805,12 @@
 # ID-a87eU8j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 順 顺 [shun4] /engedelmeskedik/követ/el|rendez/gördülékeny (szöveg)/kényelmes/előnyös/
+
+# ID-a87ju9A
+# Ver 2018-06-04T13:39:59Z Adam Stat-New >kínai Wikipédia szócikke
+# 轉換鍵 转换键 [zhuan3 huan4 jian4] /Alt gomb (számítógépen)/
+# Ver 2018-06-04T19:55:46Z gabor Stat-Verif >.
+轉換鍵 转换键 [zhuan3 huan4 jian4] /Alt gomb (számítógépen)/
 
 # ID-a87rX7K
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -6998,6 +7010,12 @@
 # ID-b65gc0u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 精打細算 精打细算 [jing1 da3 xi4 suan4] /(kifejezés) aprólékos tervezés és gondos számvitel/
+
+# ID-b65pz8c
+# Ver 2018-06-04T13:46:40Z Adam Stat-New >kínai Wikipédia szócikke
+# 插入鍵 插入键 [cha1 ru4 jian4] /Insert gomb (számítógépen)/
+# Ver 2018-06-04T19:56:15Z gabor Stat-Verif >.
+插入鍵 插入键 [cha1 ru4 jian4] /Insert gomb (számítógépen)/
 
 # ID-b65qo7Z
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -14613,6 +14631,14 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 名單 名单 [ming2 dan1] /név|lista/
 
+# ID-d46cQ5M
+# Ver 2018-06-04T13:17:35Z Adam Stat-New >kínai Wikipédia alapján
+# 多鄰國 多邻国 [duo1 lin2 guo2] /Duolingo (webes nyelvtanulási program)/
+# Ver 2018-06-04T19:53:17Z gabor Stat-New >címke; én inkább appnak nevezném
+# 多鄰國 多邻国 [duo1 lin2 guo2] /(tulajdonnév) Duolingo (app nyelvtanulók számára)/
+# Ver 2018-06-04T19:53:22Z gabor Stat-Verif >.
+多鄰國 多邻国 [duo1 lin2 guo2] /(tulajdonnév) Duolingo (app nyelvtanulók számára)/
+
 # ID-d46fE0Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 部落 部落 [bu4 luo4] /törzs (népcsoport)/
@@ -16307,6 +16333,12 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 薄暮 薄暮 [bo2 mu4] /szürkület/alkonyat/
 
+# ID-d84lk7S
+# Ver 2018-06-04T13:25:37Z Adam Stat-New >Pleco-szótár (PLC) és CC-CEDICT alapján
+# 百科 百科 [bai3 ke1] /enciklopédikus; egyetemes; általános; átfogó/enciklopédia (a 百科全书 rövidítése)//
+# Ver 2018-06-04T19:53:45Z gabor Stat-Verif >.
+百科 百科 [bai3 ke1] /enciklopédikus; egyetemes; általános; átfogó/enciklopédia (a 百科全书 rövidítése)//
+
 # ID-d84wz1E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 滿 满 [man3] /teljes/egészen/elégedett/meg|tölt/eléri a határt/(családnév) Man/madzsu/
@@ -17957,6 +17989,12 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-e24So3s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 針對 针对 [zhen1 dui4] /irányul (vki ellen)/tükrében (vminek)/kapcsolatban (vmivel)/
+
+# ID-e24TG1M
+# Ver 2018-06-04T13:15:21Z Adam Stat-New >rövid alak (匈牙利语 helyett)
+# 匈語 匈语 [xiong1 yu3] /magyar (nyelv)/
+# Ver 2018-06-04T19:52:13Z gabor Stat-Verif >.
+匈語 匈语 [xiong1 yu3] /magyar (nyelv)/
 
 # ID-e24XA8J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -20018,6 +20056,12 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 衰 衰 [shuai1] /hanyatlik/el|gyengül/
 
+# ID-e72NZ0M
+# Ver 2018-06-04T13:45:50Z Adam Stat-New >kínai Wikipédia szócikke
+# 退出鍵 退出键 [tui4 chu1 jian4] /Escape gomb (számítógépen)/
+# Ver 2018-06-04T19:56:10Z gabor Stat-Verif >.
+退出鍵 退出键 [tui4 chu1 jian4] /Escape gomb (számítógépen)/
+
 # ID-e72Pw0b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 相差 相差 [xiang1 cha4] /különbözik/különbség/
@@ -21890,6 +21934,12 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 石蠟 石蜡 [shi2 la4] /paraffin/
 
+# ID-f21aJ3l
+# Ver 2018-06-04T13:44:06Z Adam Stat-New >kínai Wikipédia szócikke
+# 空格鍵 空格键 [kong4 ge2 jian4] /szóköz|gomb (számítógépen)/
+# Ver 2018-06-04T19:56:07Z gabor Stat-Verif >.
+空格鍵 空格键 [kong4 ge2 jian4] /szóköz|gomb (számítógépen)/
+
 # ID-f21bP4r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 近義詞 近义词 [jin4 yi4 ci2] /szinonima/rokon|értelmű szó/
@@ -23620,7 +23670,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-f60rD7P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-講座 讲座 [jiang3 zuo4] /tanfolyam/kurzus/előadás/SZ:個|个[ge4]/
+# 講座 讲座 [jiang3 zuo4] /tanfolyam/kurzus/előadás/SZ:個|个[ge4]/
+# Ver 2018-06-04T14:22:17Z Adam Stat-Verif >tanfolyam és kurzus egyazon jelentés alá (ha jól sejtem, hasonló értelemben szerepelnek); előadás egyértelműsítése (oktatás, ti. nem színházi)
+講座 讲座 [jiang3 zuo4] /tanfolyam; kurzus/előadás (oktatás)/SZ:個|个[ge4]/
 
 # ID-f60wP8u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -24119,6 +24171,14 @@ U盤 U盘 [U pan2] /pendrive/
 # 埃爾德什帕爾 埃尔德什帕尔 [ai1 er3 de2 shi2 pa4 er3] /(tulajdonnév) Erdős Pál (matematikus)/
 # Ver 2018-01-03T10:46:07Z gabor Stat-Verif >.
 埃爾德什帕爾 埃尔德什帕尔 [ai1 er3 de2 shi2 pa4 er3] /(tulajdonnév) Erdős Pál (matematikus)/
+
+# ID-f73aV1g
+# Ver 2018-06-04T16:15:02Z Adam Stat-New >Pleco-szótár, CC-CEDICT, kínai Wikipédia
+# 橡樹 橡树 [xiang4 shu4] /tölgy|fa (köznyelvi kif.)/
+# Ver 2018-06-04T19:58:16Z gabor Stat-New >.
+# 橡樹 橡树 [xiang4 shu4] /tölgy|fa (köznyelvi szó)/
+# Ver 2018-06-04T19:58:19Z gabor Stat-Verif >.
+橡樹 橡树 [xiang4 shu4] /tölgy|fa (köznyelvi szó)/
 
 # ID-f73cs6A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -24730,6 +24790,12 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-f87fO8w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 苛捐雜稅 苛捐杂税 [ke1 juan1 za2 shui4] /(kifejezés) adó|prés; elviselhetetlen adók; sokféle magas adó/
+
+# ID-f87mu9H
+# Ver 2018-06-04T13:38:32Z Adam Stat-New >kínai Wikipédia szócikke
+# 換檔鍵 换档键 [huan4 dang4 jian4] /Shift gomb (számítógépen)/
+# Ver 2018-06-04T19:55:41Z gabor Stat-Verif >.
+換檔鍵 换档键 [huan4 dang4 jian4] /Shift gomb (számítógépen)/
 
 # ID-f87og0N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -26367,6 +26433,12 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 制服 制服 [zhi4 fu2] /egyen|ruha/SZ:套[tao4]/le|győz; ráncba szed/
 
+# ID-g26oy5q
+# Ver 2018-06-04T13:43:04Z Adam Stat-New >kínai Wikipédia szócikke
+# 製錶鍵 制表键 [zhi4 biao3 jian4] /tabulátor (számítógépen)/
+# Ver 2018-06-04T19:55:59Z gabor Stat-Verif >.
+製錶鍵 制表键 [zhi4 biao3 jian4] /tabulátor (számítógépen)/
+
 # ID-g26pA8U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 不已 不已 [bu4 yi3] /folyton/szüntelen/szakadatlan/
@@ -27433,7 +27505,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-g51wQ3j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-越南 越南 [yue4 nan2] /(földrajzi név) Vietnam/
+# 越南 越南 [yue4 nan2] /(földrajzi név) Vietnam/
+# Ver 2018-06-04T14:25:33Z Adam Stat-Verif >a szabályzat új, 12. kiadása alapján á-val
+越南 越南 [yue4 nan2] /(földrajzi név) Vietnám/
 
 # ID-g51AQ4c
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -31060,6 +31134,10 @@ U盤 U盘 [U pan2] /pendrive/
 # 無名指 无名指 [wu2 ming2 zhi3] /gyűrűs|ujj/
 # Ver 2017-12-12T22:19:05Z gabor Stat-Verif >.
 # Ver 2017-12-14T20:22:20Z GaoYanuo Stat-Verif >Bocs, de nem bírtam kihagyni:-)
+# 無名指 无名指 [wu2 ming2 zhi3] /gyűrűs|ujj (szó szerint "nevenincs" ujj)/
+# Ver 2018-06-04T13:09:19Z Adam Stat-Verif >írógépes helyett nyomdai idézőjel
+# 無名指 无名指 [wu2 ming2 zhi3] /gyűrűs|ujj (szó szerint „nevenincs” ujj)/
+# Ver 2018-06-04T20:03:02Z gabor Stat-Verif >ezt kicsit rossz lelkiismerettel, de visszaállítom... sehol nem használ az anyag nyomdai idézőjeleket, és nem is várható, hogy konzekvensen bekerüljenek, mert szövegszerkesztő segítsége nélkül nem reális bevinni őket. inkább maradjunk kevésbé elegánsak, de konzisztensek. (ha az anyag digitális feldolgozására kerül a sor bármilyen célból, még praktikusabb is így.)
 無名指 无名指 [wu2 ming2 zhi3] /gyűrűs|ujj (szó szerint "nevenincs" ujj)/
 
 # ID-h39IQ5z
@@ -31674,7 +31752,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-h55FR6K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-廣場 广场 [guang3 chang3] /köz|tér/fórum/
+# 廣場 广场 [guang3 chang3] /köz|tér/fórum/
+# Ver 2018-06-04T13:10:50Z Adam Stat-Verif >inkább csak térnek mondjuk magyarul
+廣場 广场 [guang3 chang3] /tér; köz|tér/fórum/
 
 # ID-h55HG7q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -33974,6 +34054,12 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-i07LS6b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 哀嘆 哀叹 [ai1 tan4] /sóhajt/siránkozik/
+
+# ID-i07Pg1d
+# Ver 2018-06-04T13:47:58Z Adam Stat-New >kínai Wikipédia szócikke
+# 刪除鍵 删除键 [shan1 chu2 jian4] /Delete; törlés|gomb (számítógépen)/
+# Ver 2018-06-04T19:56:24Z gabor Stat-Verif >.
+刪除鍵 删除键 [shan1 chu2 jian4] /Delete; törlés|gomb (számítógépen)/
 
 # ID-i07PF3L
 # Ver 2017-07-12T07:39:40Z gabor Stat-New >http://languagelog.ldc.upenn.edu/nll/?p=33585\nABC; Wikipedia
@@ -39188,7 +39274,9 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 衛星 卫星 [wei4 xing1] /műhold/SZ:顆|颗[ke1]/
 # Ver 2018-05-29T21:52:33Z jojo-chan Stat-Verif >https://zh.wikipedia.org/wiki/%E8%A1%9B%E6%98%9F
-衛星 卫星 [wei4 xing1] /műhold/hold (égitesttípus; a bolygók, törpebolygók és kisbolygók körül keringő égitest)/SZ:顆|颗[ke1]/
+# 衛星 卫星 [wei4 xing1] /műhold/hold (égitesttípus; a bolygók, törpebolygók és kisbolygók körül keringő égitest)/SZ:顆|颗[ke1]/
+# Ver 2018-06-04T20:04:13Z gabor Stat-Verif >és valóban! az egyértelműsítő kommenten picit húztam :)
+衛星 卫星 [wei4 xing1] /műhold/hold (égitest)/SZ:顆|颗[ke1]/
 
 # ID-j34yR4M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -39233,6 +39321,14 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-j35kf6G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 鬼 鬼 [gui3] /szellem/kísértet/gonosz/ravasz/
+
+# ID-j35lO7c
+# Ver 2018-06-04T13:36:01Z Adam Stat-New >kínai Wikipédia 回车键 szócikke (jobbra lévő doboz)
+# 輸入鍵 输入键 [shu1 ru4 jian4] /Enter gomb (számítógépen; főleg a Tajvanon és Hongkongban használt nevén)/
+# Ver 2018-06-04T19:55:31Z gabor Stat-New >.
+# 輸入鍵 输入键 [shu1 ru4 jian4] /Enter gomb (számítógépen; főleg Tajvanon és Hongkongban használt változat)/
+# Ver 2018-06-04T19:55:34Z gabor Stat-Verif >.
+輸入鍵 输入键 [shu1 ru4 jian4] /Enter gomb (számítógépen; főleg Tajvanon és Hongkongban használt változat)/
 
 # ID-j35rP5a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -44048,7 +44144,9 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2018-05-18T14:35:41Z GaoYanuo Stat-Verif >jelentés bővítés\nhttps://www.purpleculture.net/dictionary-details/?word=%E8%AF%BE%E7%A8%8B\nhttp://www.youdao.com/w/curriculum/#keyfrom=E2Ctranslation\nhttp://ce.linedict.com/dict.html#/cnen/example?query=%E8%AF%BE%E7%A8%8B
 # 課程 课程 [ke4 cheng2] /tanterv/tananyag/kurzus/SZ:堂[tang2],節|节[jie2],門|门[men2]/
 # Ver 2018-05-28T21:05:12Z gabor Stat-Verif >összevontam csak a tömörség kedvéért
-課程 课程 [ke4 cheng2] /tan|terv; tan|anyag/kurzus/SZ:堂[tang2],節|节[jie2],門|门[men2]/
+# 課程 课程 [ke4 cheng2] /tan|terv; tan|anyag/kurzus/SZ:堂[tang2],節|节[jie2],門|门[men2]/
+# Ver 2018-06-04T14:00:48Z Adam Stat-Verif >+ a kurzus magyar megfelelője
+課程 课程 [ke4 cheng2] /tan|terv; tan|anyag/tanfolyam; kurzus/SZ:堂[tang2],節|节[jie2],門|门[men2]/
 
 # ID-k49Nr5V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -48207,6 +48305,16 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 如此 如此 [ru2 ci3] /ily módon/így/
 
+# ID-l46TF9t
+# Ver 2018-06-04T13:53:43Z Adam Stat-New >kínai Wikipédia szócikke
+# 打印顯示屏 打印显示屏 [da3 yin4 xian3 shi4 ping2] /Print Screen; PrntScrn gomb (számítógépen; KNK-beli használat)/
+# Ver 2018-06-04T13:56:19Z Adam Stat-New >.
+# 打印顯示屏 打印显示屏 [da3 yin4 xian3 shi4 ping2] /Print Screen; PrntScrn gomb (számítógépen; KNK-beli nevén)/
+# Ver 2018-06-04T19:57:52Z gabor Stat-New >.
+# 打印顯示屏 打印显示屏 [da3 yin4 xian3 shi4 ping2] /Print Screen; PrntScrn gomb (számítógépen; KNK-beli változat)/
+# Ver 2018-06-04T19:57:54Z gabor Stat-Verif >.
+打印顯示屏 打印显示屏 [da3 yin4 xian3 shi4 ping2] /Print Screen; PrntScrn gomb (számítógépen; KNK-beli változat)/
+
 # ID-l47aG6y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 公務 公务 [gong1 wu4] /hivatalos ügy/
@@ -48335,6 +48443,14 @@ U盤 U盘 [U pan2] /pendrive/
 # 處女膜 处女膜 [chu3 nü3 mo2] /szűz|hártya/
 # Ver 2017-11-27T17:43:20Z gabor Stat-Verif >.
 處女膜 处女膜 [chu3 nü3 mo2] /szűz|hártya/
+
+# ID-l50ky0Y
+# Ver 2018-06-04T16:16:51Z Adam Stat-New >kínai Wikipédia, CC-CEDICT
+# 櫟樹 栎树 [li4 shu4] /tölgy|fa (tudományos kif.)/
+# Ver 2018-06-04T19:58:26Z gabor Stat-New >.
+# 櫟樹 栎树 [li4 shu4] /tölgy|fa (tudományos szó)/
+# Ver 2018-06-04T19:58:27Z gabor Stat-Verif >.
+櫟樹 栎树 [li4 shu4] /tölgy|fa (tudományos szó)/
 
 # ID-l50pZ2k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -48599,6 +48715,14 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-l54ZU3s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 崗位 岗位 [gang3 wei4] /munka/poszt/
+
+# ID-l55gP8X
+# Ver 2018-06-04T13:33:42Z Adam Stat-New >kínai Wikipédia
+# 回車鍵 回车键 [hui2 che1 jian4] /Enter gomb (számítógépen; főleg a KNK-ban használt nevén)/
+# Ver 2018-06-04T19:55:13Z gabor Stat-New >.
+# 回車鍵 回车键 [hui2 che1 jian4] /Enter gomb (számítógépen; főleg a KNK-ban használt változat)/
+# Ver 2018-06-04T19:55:15Z gabor Stat-Verif >.
+回車鍵 回车键 [hui2 che1 jian4] /Enter gomb (számítógépen; főleg a KNK-ban használt változat)/
 
 # ID-l55oh4b
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -54892,7 +55016,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-n03xs8X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-圖示 图示 [tu2 shi4] /illusztrál/jelképez/
+# 圖示 图示 [tu2 shi4] /illusztrál/jelképez/
+# Ver 2018-06-04T14:14:34Z Adam Stat-Verif >új jelentés a CC-CEDICT és kínai Wikipédia alapján; a "jelképez"-t kivettem, mert sem e kínai szónál nem találtam nyomát ennek a jelentésnek, sem pedig a "symbolize"-ra nem találtam ezt a szót (csak a 象征，标志，标识 szavakat) + hozzátettem egy másik magyar megfelelőt
+# 圖示 图示 [tu2 shi4] /illusztrál; szemléltet/ikon (számítástechnika)/
+# Ver 2018-06-04T20:00:10Z gabor Stat-Verif >igaz! tévedés volt a jelképez. az illusztrál/szemléltet pedig a szótárak szerint kimondottan "képpel" - hiszen ott is a 图 :)
+圖示 图示 [tu2 shi4] /illusztrál; szemléltet (képpel)/ikon (számítástechnika)/
 
 # ID-n03Ft6r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -56305,6 +56433,12 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 精密 精密 [jing1 mi4] /pontos/precíz/pontosság/precizitás/
 
+# ID-n39pf0d
+# Ver 2018-06-04T13:37:38Z Adam Stat-New >kínai Wikipédia szócikke
+# 控製鍵 控制键 [kong4 zhi4 jian4] /Ctrl gomb (számítógépen)/
+# Ver 2018-06-04T19:55:38Z gabor Stat-Verif >.
+控製鍵 控制键 [kong4 zhi4 jian4] /Ctrl gomb (számítógépen)/
+
 # ID-n39wh9P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 成心 成心 [cheng2 xin1] /szándékosan/
@@ -57138,6 +57272,12 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-n58FR3Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 準 准 [zhun3] /pontos/bizonyosan/határozottan/kvázi-/para-/
+
+# ID-n58Pf5X
+# Ver 2018-06-04T13:51:00Z Adam Stat-New >kínai Wikipédia szócikke
+# 退格鍵 退格键 [tui4 ge2 jian4] /Backspace gomb (számítógépen)/
+# Ver 2018-06-04T19:56:29Z gabor Stat-Verif >.
+退格鍵 退格键 [tui4 ge2 jian4] /Backspace gomb (számítógépen)/
 
 # ID-n58Sy2B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -62137,6 +62277,14 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-o81tD5Z
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 女主人 女主人 [nü3 zhu3 ren2] /a ház asszonya/úr|nő/
+
+# ID-o81xT8w
+# Ver 2018-06-04T13:55:40Z Adam Stat-New >kínai Wikipédia szócikke
+# 列印螢幕 列印萤幕 [lie4 yin4 ying2 mu4] /Print Screen; PrntScrn gomb (számítógépen; tajvani nevén)/
+# Ver 2018-06-04T19:57:38Z gabor Stat-New >.
+# 列印螢幕 列印萤幕 [lie4 yin4 ying2 mu4] /Print Screen; PrntScrn gomb (számítógépen; tajvani változat)/
+# Ver 2018-06-04T19:57:41Z gabor Stat-Verif >.
+列印螢幕 列印萤幕 [lie4 yin4 ying2 mu4] /Print Screen; PrntScrn gomb (számítógépen; tajvani változat)/
 
 # ID-o81GU9x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
