@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-06-06T02:00:01Z
+# Datenstand: 2018-06-07T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -16231,6 +16231,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 拿到 拿到 [na2 dao4] /kap/szerez/
 
+# ID-d81Vf1R
+# Ver 2018-06-07T01:10:01Z GaoYanuo Stat-New >gyanús még az "egyhangú", mint unalmas, de nem volt lelkierőm végigbogarászni.
+同聲 同声 [tong2 sheng1] /egyhangúlag/egy szólamban énekelnek /
+
 # ID-d81Vv2i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 植物學家 植物学家 [zhi2 wu4 xue2 jia1] /botanikus (ember)/
@@ -27164,6 +27168,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-g42xt5k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 畫蛇添足 画蛇添足 [hua4 she2 tian1 zu2] /(kifejezés) túlzásba visz; fölösleges részlet hozzáadásával elrontja az eredményt/(szó szerint) lábat rajzol a kígyónak/
+
+# ID-g42AC7v
+# Ver 2018-06-07T00:58:31Z GaoYanuo Stat-New >szokásos szótárak, korpusz
+痛飲 痛饮 [tong4 yin3] /italozik, poharazgat/leissza magát/
 
 # ID-g42GD3h
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -46336,6 +46344,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 書局 书局 [shu1 ju2] /könyv|kiadó/könyves|bolt/
 
+# ID-l00aI3T
+# Ver 2018-06-07T01:29:56Z GaoYanuo Stat-New >korpusz, \nhttps://www.purpleculture.net/sample-sentences/?word=%E9%80%8D%E9%81%A5\n(meg még mindig az a nyavalyás Gyertyafény keringő:-))
+逍遙 逍遥 [xiao1 yao2] /szabad; kötöttségektől mentes/szabadlábon/laza, fittyet hány a szabályokra/
+
 # ID-l00bw4Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 練 练 [lian4] /gyakorol/edz/
@@ -53088,6 +53100,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 大聲喊叫 大声喊叫 [da4 sheng1 han3 jiao4] /kiabál/hangosan kiált/
 
+# ID-m57zh2y
+# Ver 2018-06-07T00:20:33Z GaoYanuo Stat-New >korpusz, szokásos webszótárak megerősítik.
+終日 终日 [zhong1 ri4] /egész nap; egy állónapon keresztül;/naphosszat;/nap, mint nap/
+
 # ID-m57Ky6f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 可信 可信 [ke3 xin4] /megbízható/szavahihető/
@@ -53646,6 +53662,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-m69YW9d
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 贊成票 赞成票 [zan4 cheng2 piao4] /támogató szavazat/
+
+# ID-m70bR4T
+# Ver 2018-06-07T00:40:44Z GaoYanuo Stat-New >https://www.purpleculture.net/sample-sentences/?word=%E8%8B%A6%E8%BE%9B\nhttps://www.mdbg.net/chinese/dictionary?page=worddict&wdrst=1&wdqb=%E8%BE%9B%E8%8B%A6\nelég keserves volt utánajárni, de így is bizonytalan vagyok az íz vonatkozásában.
+苦辛 苦辛 [ku3 xin1] /keserű/keserves/
 
 # ID-m70jl2J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
