@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-06-07T02:00:01Z
+# Datenstand: 2018-06-13T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -19835,6 +19835,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 違抗 违抗 [wei2 kang4] /ellen|szegül; nem engedelmeskedik/
 
+# ID-e66YR3l
+# Ver 2018-06-12T08:38:20Z GaoYanuo Stat-New >szokásos szótárak megerősítik
+披薩 披萨 [pi1 sa4] /pizza/
+
 # ID-e67bx2D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 節制 节制 [jie2 zhi4] /vissza|fog; csökkent; kontrollál/mértékletesség/ön|megtartóztatás/
@@ -27938,6 +27942,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-g59tm1p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
+# 年代 年代 [nian2 dai4] /évtized/kor|szak/SZ:個|个[ge4]/
+# Ver 2018-06-12T09:16:28Z GaoYanuo Stat-Verif >Valahogy jelezni kéne, hogy kerek számnév után, pl. 70年代 = 70-es évek jelentése is van.
 年代 年代 [nian2 dai4] /évtized/kor|szak/SZ:個|个[ge4]/
 
 # ID-g59Aq3e
@@ -37199,6 +37205,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 成年 成年 [cheng2 nian2] /felnőtté válik/felnőtt; nagykorú/évről évre; egész évben/
 
+# ID-i82re1Z
+# Ver 2018-06-12T08:25:20Z GaoYanuo Stat-New >forrás: egyetemi körlevél\nCC-CEDICT, korpusz megerősíti
+序號 序号 [xu4 hao4] /sorszám/számkód/
+
 # ID-i82tw2x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 折磨 折磨 [zhe2 mo2] /kínoz/gyötör/kínzás/
@@ -41225,6 +41235,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-j80vU9L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 過渡 过渡 [guo4 du4] /átkel (komppal)/átmenet/köztes/ideiglenes/
+
+# ID-j80Ey2B
+# Ver 2018-06-12T09:08:26Z GaoYanuo Stat-New >forrás: egyetemi körlevél\nCC-CEDICT, korpusz megerősíti
+遊玩 游玩 [you2 wan2] /városnézés; nézelődés/szórakozás/
 
 # ID-j80IZ1T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -48507,6 +48521,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-l49Dk2d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 本該 本该 [ben3 gai1] /tulajdonképpen/
+
+# ID-l49Kf7I
+# Ver 2018-06-12T08:42:22Z GaoYanuo Stat-New >forrás: egyetemi körlevél, megerősítés:\nhttps://eng.ichacha.net/fanyi.aspx\nGoogle fordító, Google képek
+達美樂披薩 达美乐披萨 [da2 mei3 le4 pi1 sa4] /(márkanév) Domino's Pizza/
 
 # ID-l49OD6s
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
