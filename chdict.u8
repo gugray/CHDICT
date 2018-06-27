@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-06-13T02:00:01Z
+# Datenstand: 2018-06-27T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -4178,6 +4178,8 @@
 # Ver 2017-05-26T23:44:31Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
 # 禿鼻烏鴉 秃鼻乌鸦 [tu1 bi2 wu1 ya1] /vetési varjú/
 # Ver 2018-06-05T21:07:33Z Adam Stat-New >tudományos név betoldva, ha már sok más élőlénynél szerepel (sokszor csak ez egyértelműsít, úgyhogy nem árt)
+# 禿鼻烏鴉 秃鼻乌鸦 [tu1 bi2 wu1 ya1] /vetési varjú (Corvus frugilegus)/
+# Ver 2018-06-26T20:29:51Z gabor Stat-Verif >.
 禿鼻烏鴉 秃鼻乌鸦 [tu1 bi2 wu1 ya1] /vetési varjú (Corvus frugilegus)/
 
 # ID-a96aH5n
@@ -5761,6 +5763,8 @@
 
 # ID-b34Nd8R
 # Ver 2018-06-05T17:48:00Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+# 夏櫟 夏栎 [xia4 li4] /kocsányos tölgy (Quercus robur)/
+# Ver 2018-06-26T20:19:33Z gabor Stat-Verif >.
 夏櫟 夏栎 [xia4 li4] /kocsányos tölgy (Quercus robur)/
 
 # ID-b34Pm0D
@@ -15595,6 +15599,8 @@ U盤 U盘 [U pan2] /pendrive/
 # 註意事項 注意事项 [zhu4 yi4 shi4 xiang4] /szempont; észrevétel; megjegyzés/jegyzetek; feljegyzések/figyelemfelhívás; figyelmeztetés/(figyelmet érdemlő ügyek, dolgok)/
 # Ver 2018-01-24T22:41:38Z gabor Stat-Verif >.
 # Ver 2018-06-05T20:42:48Z Adam Stat-Verif >a zárójel miatt egy egész jelentés kommentbe került: vagy legyen önálló jelentés (most ezt választottam, mert nem eléggé elkülönültnek tűnik), vagy ha mégis zárójelben marad, akkor egy másik jelentés végére soroljuk be
+# 註意事項 注意事项 [zhu4 yi4 shi4 xiang4] /szempont; észrevétel; megjegyzés/jegyzetek; feljegyzések/figyelemfelhívás; figyelmeztetés/figyelmet érdemlő ügyek, dolgok/
+# Ver 2018-06-26T20:27:17Z gabor Stat-Verif >inkább nem értek egyet: azért volt a teljes jelentés zárójelben, mert nem magyar megfelelő, hanem parafrázis. nem azonos egyik másik jelentéssel sem, csak épp nincs rá direkt szó (illetve én nem találtam).\n\nde hogy hol a határ a megfelelő és a parafrázis között, az itt egy picit képlékeny és érzés dolga, szóval nem csinálom vissza, ha te másképp érzed.
 註意事項 注意事项 [zhu4 yi4 shi4 xiang4] /szempont; észrevétel; megjegyzés/jegyzetek; feljegyzések/figyelemfelhívás; figyelmeztetés/figyelmet érdemlő ügyek, dolgok/
 
 # ID-d67mo1h
@@ -16233,7 +16239,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-d81Vf1R
 # Ver 2018-06-07T01:10:01Z GaoYanuo Stat-New >gyanús még az "egyhangú", mint unalmas, de nem volt lelkierőm végigbogarászni.
-同聲 同声 [tong2 sheng1] /egyhangúlag/egy szólamban énekelnek /
+# 同聲 同声 [tong2 sheng1] /egyhangúlag/egy szólamban énekelnek /
+# Ver 2018-06-26T20:51:35Z gabor Stat-New >.
+# 同聲 同声 [tong2 sheng1] /egyhangúlag/egy szólamban/
+# Ver 2018-06-26T20:51:37Z gabor Stat-Verif >.
+同聲 同声 [tong2 sheng1] /egyhangúlag/egy szólamban/
 
 # ID-d81Vv2i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -18068,6 +18078,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-e25Qq0l
 # Ver 2018-06-05T17:49:49Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+# 無梗花櫟 无梗花栎 [wu2 geng3 hua1 li4] /kocsánytalan tölgy (Quercus petraea)/
+# Ver 2018-06-26T20:19:46Z gabor Stat-Verif >.
 無梗花櫟 无梗花栎 [wu2 geng3 hua1 li4] /kocsánytalan tölgy (Quercus petraea)/
 
 # ID-e26gs7S
@@ -18256,6 +18268,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-e30Eh5F
 # Ver 2018-06-05T21:42:33Z Adam Stat-New >Pleco-szótár és CC-CEDICT
+# 甲型肝炎 甲型肝炎 [jia3 xing2 gan1 yan2] /hepatitis A; A típusú máj|gyulladás/
+# Ver 2018-06-26T20:30:14Z gabor Stat-Verif >.
 甲型肝炎 甲型肝炎 [jia3 xing2 gan1 yan2] /hepatitis A; A típusú máj|gyulladás/
 
 # ID-e30EK6K
@@ -19837,6 +19851,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-e66YR3l
 # Ver 2018-06-12T08:38:20Z GaoYanuo Stat-New >szokásos szótárak megerősítik
+# 披薩 披萨 [pi1 sa4] /pizza/
+# Ver 2018-06-26T20:55:12Z gabor Stat-Verif >.
 披薩 披萨 [pi1 sa4] /pizza/
 
 # ID-e67bx2D
@@ -23028,6 +23044,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-f45pC6S
 # Ver 2018-06-05T22:07:02Z Adam Stat-New >Pleco-szótár és CC-CEDICT
+# 橡實 橡实 [xiang4 shi2] /makk (tölgyfán)/
+# Ver 2018-06-26T20:32:02Z gabor Stat-Verif >.
 橡實 橡实 [xiang4 shi2] /makk (tölgyfán)/
 
 # ID-f45zz0Z
@@ -23078,6 +23096,8 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2018-06-05T21:15:16Z Adam Stat-New >kínai Wikipédia alapján; a Pleco-szótár és a CC-CEDICT szerint tortoise és turtle is lehet
 # 龜 龟 [gui1] /teknősbéka; teknős (szárazföldi vagy vízi)/
 # Ver 2018-06-05T21:20:07Z Adam Stat-New >pontosítás
+# 龜 龟 [gui1] /teknősbéka; teknős (szárazföldi vagy vízi; Testudines rend)/
+# Ver 2018-06-26T20:30:02Z gabor Stat-Verif >.
 龜 龟 [gui1] /teknősbéka; teknős (szárazföldi vagy vízi; Testudines rend)/
 
 # ID-f46ws8E
@@ -24032,7 +24052,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-f67Dd2z
 # Ver 2018-06-06T00:53:25Z GaoYanuo Stat-New >A forrás a Gyertyafény keringő kínai változata. (友谊地久天长)\nCC-CEDICT és Youdao megerősíti.
-勞燕分飛 劳燕分飞 [lao2 yan4 fen1 fei1] /elválik (házaspár, végzős diákok, stb.)/válás/
+# 勞燕分飛 劳燕分飞 [lao2 yan4 fen1 fei1] /elválik (házaspár, végzős diákok, stb.)/válás/
+# Ver 2018-06-26T20:36:48Z gabor Stat-New >ABC, Pleco alapján. egyértelműen kifejezés :)
+# 勞燕分飛 劳燕分飞 [lao2 yan4 fen1 fei1] /(kifejezés) el|válik; külön|válik; elválnak útjaik/
+# Ver 2018-06-26T20:36:51Z gabor Stat-Verif >.
+勞燕分飛 劳燕分飞 [lao2 yan4 fen1 fei1] /(kifejezés) el|válik; külön|válik; elválnak útjaik/
 
 # ID-f67Pg1x
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -24765,6 +24789,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-f83ZZ0e
 # Ver 2018-06-06T00:58:28Z GaoYanuo Stat-New >CC-CEDICT, Youdao
+# 歷盡 历尽 [li4 jin4] /átél; megél (kalandot, nehézséget)/
+# Ver 2018-06-26T20:37:44Z gabor Stat-Verif >.
 歷盡 历尽 [li4 jin4] /átél; megél (kalandot, nehézséget)/
 
 # ID-f84fr7x
@@ -26353,6 +26379,12 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 敬意 敬意 [jing4 yi4] /tisztelet/
 
+# ID-g21Gp2u
+# Ver 2018-06-26T20:44:40Z gabor Stat-New >ABC, CEDICT\n友谊地久天长 ürügyén
+# 地久天長 地久天长 [di4 jiu3 tian1 chang2] /(kifejezés) örökké tart; az idők végezetéig/
+# Ver 2018-06-26T20:44:49Z gabor Stat-Verif >.
+地久天長 地久天长 [di4 jiu3 tian1 chang2] /(kifejezés) örökké tart; az idők végezetéig/
+
 # ID-g22gg8c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 株 株 [zhu1] /törzs (fáé)/növény/(számlálószó: növények, fák)/
@@ -27175,7 +27207,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-g42AC7v
 # Ver 2018-06-07T00:58:31Z GaoYanuo Stat-New >szokásos szótárak, korpusz
-痛飲 痛饮 [tong4 yin3] /italozik, poharazgat/leissza magát/
+# 痛飲 痛饮 [tong4 yin3] /italozik, poharazgat/leissza magát/
+# Ver 2018-06-26T20:50:19Z gabor Stat-New >megfelelők jelentésen belül pontosvesszővel
+# 痛飲 痛饮 [tong4 yin3] /italozik; poharazgat/leissza magát/
+# Ver 2018-06-26T20:50:22Z gabor Stat-Verif >.
+痛飲 痛饮 [tong4 yin3] /italozik; poharazgat/leissza magát/
 
 # ID-g42GD3h
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -30799,6 +30835,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-h29fI0B
 # Ver 2018-06-05T18:10:20Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+# 橡膠樹 橡胶树 [xiang4 jiao1 shu4] /kaucsuk|fa; gumi|fa (Hevea brasiliensis)/
+# Ver 2018-06-26T20:20:26Z gabor Stat-Verif >.
 橡膠樹 橡胶树 [xiang4 jiao1 shu4] /kaucsuk|fa; gumi|fa (Hevea brasiliensis)/
 
 # ID-h29wm2k
@@ -34463,7 +34501,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-i16na5O
 # Ver 2018-06-06T01:09:40Z GaoYanuo Stat-New >... még mindig a Gyertyafény... szótárak megerősítik
-舉杯 举杯 [ju3 bei1] /pohárköszöntő; tószt/
+# 舉杯 举杯 [ju3 bei1] /pohárköszöntő; tószt/
+# Ver 2018-06-26T20:39:43Z gabor Stat-New >sztem egyértelműen ige+tárgy szerkezetű ige; szótárak szerint is :)
+# 舉杯 举杯 [ju3 bei1] /emeli poharát/pohárköszöntőt mond/
+# Ver 2018-06-26T20:39:46Z gabor Stat-Verif >.
+舉杯 举杯 [ju3 bei1] /emeli poharát/pohárköszöntőt mond/
 
 # ID-i16wo5i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -34550,6 +34592,8 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 乙 乙 [yi3] /második (égi jegy)/másik fél (jogi szövegben)/(felsorolásban második: B, 2., II.)/etil/(az 5. Kangxi gyök)/
 # Ver 2018-06-05T21:47:14Z Adam Stat-Verif >szerintem jó, ha egy adott jelentés alatt a zárójelen kívül is van valami infó, ami adott esetben kereshető, vizuálisan is jobban kiemelkedik (az 5. jelentésnél viszont nem tudok mit megadni…)
+# 乙 乙 [yi3] /második (égi jegy)/másik fél (jogi szövegben)/B; II.; 2. (felsorolásban: második)/etil-/(az 5. Kangxi-gyök)/
+# Ver 2018-06-26T20:31:50Z gabor Stat-Verif >egyetértek itt. alapvetően soha nem szándékosan jön tisztán zárójelezett jelentés, hanem azért, mert csak parafrázist találtam, megefelelőt nem. de végülis ezek megfelelők, még ha nem is feltétlenül tartalmas szavak, so... legyen :)
 乙 乙 [yi3] /második (égi jegy)/másik fél (jogi szövegben)/B; II.; 2. (felsorolásban: második)/etil-/(az 5. Kangxi-gyök)/
 
 # ID-i19qz9l
@@ -36352,6 +36396,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-i61Ma5x
 # Ver 2018-06-05T21:43:44Z Adam Stat-New >Pleco-szótár; CC-CEDICT
+# 乙型肝炎 乙型肝炎 [yi3 xing2 gan1 yan2] /hepatitis B; B típusú máj|gyulladás/
+# Ver 2018-06-26T20:30:21Z gabor Stat-Verif >.
 乙型肝炎 乙型肝炎 [yi3 xing2 gan1 yan2] /hepatitis B; B típusú máj|gyulladás/
 
 # ID-i62km5n
@@ -37207,7 +37253,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-i82re1Z
 # Ver 2018-06-12T08:25:20Z GaoYanuo Stat-New >forrás: egyetemi körlevél\nCC-CEDICT, korpusz megerősíti
-序號 序号 [xu4 hao4] /sorszám/számkód/
+# 序號 序号 [xu4 hao4] /sorszám/számkód/
+# Ver 2018-06-26T20:54:59Z gabor Stat-New >.
+# 序號 序号 [xu4 hao4] /sorszám; sorozat|szám/számkód/
+# Ver 2018-06-26T20:55:01Z gabor Stat-Verif >.
+序號 序号 [xu4 hao4] /sorszám; sorozat|szám/számkód/
 
 # ID-i82tw2x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -41238,6 +41288,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-j80Ey2B
 # Ver 2018-06-12T09:08:26Z GaoYanuo Stat-New >forrás: egyetemi körlevél\nCC-CEDICT, korpusz megerősíti
+# 遊玩 游玩 [you2 wan2] /városnézés; nézelődés/szórakozás/
+# Ver 2018-06-26T20:57:18Z gabor Stat-Verif >.
 遊玩 游玩 [you2 wan2] /városnézés; nézelődés/szórakozás/
 
 # ID-j80IZ1T
@@ -43430,7 +43482,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-k29Yj7b
 # Ver 2018-06-05T18:13:55Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
-橡皮筋 橡皮筋 [xiang4 pi2 jin1] /gumi|szalag; gumi|gyűrű; gumi|karika/
+# 橡皮筋 橡皮筋 [xiang4 pi2 jin1] /gumi|szalag; gumi|gyűrű; gumi|karika/
+# Ver 2018-06-26T20:23:16Z gabor Stat-New >ez a CEDICT, ABC, online képkeresés, meg a 皮筋 jelentése alapján szimplán gumiszalagnak tűnik nekem...
+# 橡皮筋 橡皮筋 [xiang4 pi2 jin1] /gumi|szalag/
+# Ver 2018-06-26T20:23:20Z gabor Stat-Verif >.
+橡皮筋 橡皮筋 [xiang4 pi2 jin1] /gumi|szalag/
 
 # ID-k30dp4J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -43460,6 +43516,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-k30xy1B
 # Ver 2018-06-05T18:09:02Z Adam Stat-New >Tuttle Chinese Dict., Pleco-szótár
+# 橡 橡 [xiang4] /tölgy|fa/kaucsuk|fa; gumi|fa/
+# Ver 2018-06-26T20:20:03Z gabor Stat-Verif >.
 橡 橡 [xiang4] /tölgy|fa/kaucsuk|fa; gumi|fa/
 
 # ID-k30AP9A
@@ -45777,7 +45835,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-k87sv5H
 # Ver 2018-06-06T01:20:20Z GaoYanuo Stat-New >szótárak megerősítik
-友誼地久天長 友谊地久天长 [you3 yi4 di4 jiu3 tian1 chang2] /(kifejezés) A barátság örökké tart./Az Auld Lang Syne (Gyertyafény keringő) kínai változatának címe/
+# 友誼地久天長 友谊地久天长 [you3 yi4 di4 jiu3 tian1 chang2] /(kifejezés) A barátság örökké tart./Az Auld Lang Syne (Gyertyafény keringő) kínai változatának címe/
+# Ver 2018-06-26T20:42:11Z gabor Stat-New >pici átrendezés
+# 友誼地久天長 友谊地久天长 [you3 yi4 di4 jiu3 tian1 chang2] /(kifejezés) a barátság örökké tart/(cím) Auld Lang Syne; Gyertyafény keringő/
+# Ver 2018-06-26T20:42:13Z gabor Stat-Verif >.
+友誼地久天長 友谊地久天长 [you3 yi4 di4 jiu3 tian1 chang2] /(kifejezés) a barátság örökké tart/(cím) Auld Lang Syne; Gyertyafény keringő/
 
 # ID-k87tq8U
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -46360,7 +46422,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-l00aI3T
 # Ver 2018-06-07T01:29:56Z GaoYanuo Stat-New >korpusz, \nhttps://www.purpleculture.net/sample-sentences/?word=%E9%80%8D%E9%81%A5\n(meg még mindig az a nyavalyás Gyertyafény keringő:-))
-逍遙 逍遥 [xiao1 yao2] /szabad; kötöttségektől mentes/szabadlábon/laza, fittyet hány a szabályokra/
+# 逍遙 逍遥 [xiao1 yao2] /szabad; kötöttségektől mentes/szabadlábon/laza, fittyet hány a szabályokra/
+# Ver 2018-06-26T20:53:25Z gabor Stat-New >pontosvessző
+# 逍遙 逍遥 [xiao1 yao2] /szabad; kötöttségektől mentes/szabadlábon/laza; fittyet hány a szabályokra/
+# Ver 2018-06-26T20:53:29Z gabor Stat-Verif >.
+逍遙 逍遥 [xiao1 yao2] /szabad; kötöttségektől mentes/szabadlábon/laza; fittyet hány a szabályokra/
 
 # ID-l00bw4Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -47527,6 +47593,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-l25IM6M
 # Ver 2018-06-05T21:04:17Z Adam Stat-New >Pleco-szótár, CC-CEDICT
+# 龜頭 龟头 [gui1 tou2] /makk (a hímvessző része)/teknős|fej/
+# Ver 2018-06-26T20:29:16Z gabor Stat-Verif >.
 龜頭 龟头 [gui1 tou2] /makk (a hímvessző része)/teknős|fej/
 
 # ID-l25Wi5V
@@ -48524,6 +48592,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-l49Kf7I
 # Ver 2018-06-12T08:42:22Z GaoYanuo Stat-New >forrás: egyetemi körlevél, megerősítés:\nhttps://eng.ichacha.net/fanyi.aspx\nGoogle fordító, Google képek
+# 達美樂披薩 达美乐披萨 [da2 mei3 le4 pi1 sa4] /(márkanév) Domino's Pizza/
+# Ver 2018-06-26T20:57:02Z gabor Stat-Verif >.
 達美樂披薩 达美乐披萨 [da2 mei3 le4 pi1 sa4] /(márkanév) Domino's Pizza/
 
 # ID-l49OD6s
@@ -49502,6 +49572,12 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-l72tm0V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 噹 当 [dang1] /(hangutánzó: harang) ding-dong/
+
+# ID-l72HE4D
+# Ver 2018-06-26T20:56:41Z gabor Stat-New >a 披萨-ról jutott eszembe :) tajvani gyűjtés.
+# 起司 起司 [qi3 si1] /sajt/
+# Ver 2018-06-26T20:56:48Z gabor Stat-Verif >.
+起司 起司 [qi3 si1] /sajt/
 
 # ID-l72HT6y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -52047,6 +52123,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-m34uu2T
 # Ver 2018-06-05T21:01:00Z Adam Stat-New >Pleco-szótár és CCEDICT, sok egyéb mellett; a második karakter kiejtése felől ellentmondó adatokat találtam (a szótárban szereplő összetételekben pl. elveszti a tónusát), ez viszont pl. a 3. tónus mellett szól: https://zh.wiktionary.org/wiki/%E6%A9%A1%E5%AD%90 és végül is létezik több tucat más szó is, ahol a Pleco szerint szó végi helyzetben megőrzi a tónusát
+# 橡子 橡子 [xiang4 zi3] /makk (tölgyfán)/
+# Ver 2018-06-26T20:29:01Z gabor Stat-Verif >.
 橡子 橡子 [xiang4 zi3] /makk (tölgyfán)/
 
 # ID-m34vh9j
@@ -53120,7 +53198,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-m57zh2y
 # Ver 2018-06-07T00:20:33Z GaoYanuo Stat-New >korpusz, szokásos webszótárak megerősítik.
-終日 终日 [zhong1 ri4] /egész nap; egy állónapon keresztül;/naphosszat;/nap, mint nap/
+# 終日 终日 [zhong1 ri4] /egész nap; egy állónapon keresztül;/naphosszat;/nap, mint nap/
+# Ver 2018-06-26T20:46:33Z gabor Stat-New >a "nap mint nap"-ot én nem látom bele se a szerkezetébe, se a szótárakban nem lelelem
+# 終日 终日 [zhong1 ri4] /egész nap; naphosszat/
+# Ver 2018-06-26T20:46:36Z gabor Stat-Verif >.
+終日 终日 [zhong1 ri4] /egész nap; naphosszat/
 
 # ID-m57Ky6f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -53683,7 +53765,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-m70bR4T
 # Ver 2018-06-07T00:40:44Z GaoYanuo Stat-New >https://www.purpleculture.net/sample-sentences/?word=%E8%8B%A6%E8%BE%9B\nhttps://www.mdbg.net/chinese/dictionary?page=worddict&wdrst=1&wdqb=%E8%BE%9B%E8%8B%A6\nelég keserves volt utánajárni, de így is bizonytalan vagyok az íz vonatkozásában.
-苦辛 苦辛 [ku3 xin1] /keserű/keserves/
+# 苦辛 苦辛 [ku3 xin1] /keserű/keserves/
+# Ver 2018-06-26T20:48:55Z gabor Stat-New >nekem a részeiből, meg a 苦 egyéb összetételeiből a keserves jön át, a keserű íz nem. így összevontam eggyé.
+# 苦辛 苦辛 [ku3 xin1] /keserű; keserves//
+# Ver 2018-06-26T20:49:13Z gabor Stat-Verif >.
+苦辛 苦辛 [ku3 xin1] /keserű; keserves//
 
 # ID-m70jl2J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -59829,6 +59915,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-o18Fw0Z
 # Ver 2018-06-05T21:18:58Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+# 陸龜 陆龟 [lu4 gui1] /szárazföldi teknős (Testudinidae család)/
+# Ver 2018-06-26T20:29:56Z gabor Stat-Verif >.
 陸龜 陆龟 [lu4 gui1] /szárazföldi teknős (Testudinidae család)/
 
 # ID-o18Ga4P
@@ -61004,6 +61092,12 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-o46Pt4S
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 讀書會 读书会 [du2 shu1 hui4] /könyv|klub/
+
+# ID-o46Pw9y
+# Ver 2018-06-26T20:24:05Z gabor Stat-New >橡皮筋 nyomán; ABC, CEDICT
+# 皮筋 皮筋 [pi2 jin1] /gumi|szalag/
+# Ver 2018-06-26T20:24:14Z gabor Stat-Verif >.
+皮筋 皮筋 [pi2 jin1] /gumi|szalag/
 
 # ID-o46Tf5W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
