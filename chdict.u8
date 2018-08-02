@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-07-10T02:00:01Z
+# Datenstand: 2018-08-02T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -25032,6 +25032,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-f90Hg0s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 視力 视力 [shi4 li4] /látás (vki látása, szeme: éles, gyenge stb.)/
+
+# ID-f90Kf5I
+# Ver 2018-08-01T17:53:22Z GaoYanuo Stat-New >Különböző weboldalak. CC-CEDICT megerősíti.
+驗證碼 验证码 [yan4 zheng4 ma3] /Ellenőrző kód/
 
 # ID-f90VN7W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
