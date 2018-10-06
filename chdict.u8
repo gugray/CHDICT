@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-09-28T02:00:01Z
+# Datenstand: 2018-10-06T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -10286,7 +10286,9 @@
 
 # ID-c45Pc0B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-緊張 紧张 [jin3 zhang1] /ideges/feszült/
+# 緊張 紧张 [jin3 zhang1] /ideges/feszült/
+# Ver 2018-10-06T00:49:00Z GaoYanuo Stat-Verif >HSK4 tanönyv 我时间安排得很紧张。
+緊張 紧张 [jin3 zhang1] /ideges/feszült/feszített (munka)/szoros (időbeosztás)/
 
 # ID-c45QN6G
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -10960,6 +10962,8 @@
 
 # ID-c59SB8t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
+# 不得不 不得不 [bu4 de2 bu4] /nincs más választása, mint hogy.../muszáj/kell/
+# Ver 2018-10-06T01:31:23Z GaoYanuo Stat-Verif >a "nincs más választása, mint hogy..." helyett azt írnám, hogy kénytelen.
 不得不 不得不 [bu4 de2 bu4] /nincs más választása, mint hogy.../muszáj/kell/
 
 # ID-c59Vd7o
@@ -11580,6 +11584,8 @@
 
 # ID-c74Xa0A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
+# 專門 专门 [zhuan1 men2] /különleges/specializált/egyedi/
+# Ver 2018-10-05T23:20:16Z GaoYanuo Stat-Verif >"külön erre a célra", "direkt ezért" értelemben szerepel a HSK4 tankönyvben.\n她专门从国外飞回来呢。Külön ezért repül haza külföldről.
 專門 专门 [zhuan1 men2] /különleges/specializált/egyedi/
 
 # ID-c74Zh8R
@@ -29549,6 +29555,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-g96QP8r
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 夏日 夏日 [xia4 ri4] /nyári nap/
+
+# ID-g96TH2I
+# Ver 2018-10-06T01:29:24Z GaoYanuo Stat-New >CC-CEDICT és sokan mások megerősítik
+手忙腳亂 手忙脚乱 [shou3 mang2 jiao3 luan4] /(kifejezés) Körmére ég a munka/össze-vissza kapkod/
 
 # ID-g96UD4g
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -48613,6 +48623,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-l49Ph0J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
+# 接 接 [jie1] /kap/fogad/fel|vesz (telefont: fogadja a hívást)/össze|köt/el|kap/csatlakozik/le|vált (szolgálatban)/
+# Ver 2018-10-06T01:08:28Z GaoYanuo Stat-Verif >találkoztam még "megragadja a lehetőséget", "él a lehetőséggel" jelentéssel is. (HSK4 tk.)\n我一定接这次机会去跟大家见见面。Más forrásból nem tudtam megerősíteni.
 接 接 [jie1] /kap/fogad/fel|vesz (telefont: fogadja a hívást)/össze|köt/el|kap/csatlakozik/le|vált (szolgálatban)/
 
 # ID-l49SO3l
@@ -51719,6 +51731,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-m23zC6Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 費用 费用 [fei4 yong4] /költség/ki|adás/SZ:筆|笔[bi3]/
+
+# ID-m23CH8c
+# Ver 2018-10-05T23:07:09Z GaoYanuo Stat-New >Nem sikerült a pinyint szerkeszteni:( ejtik még zhē-nek is.\nhttps://www.purpleculture.net/sample_sentences/?word=%E9%BB%84%E8%9C%82&page=2\nYip Po-Ching and Don Rimmington Chinese An Essential Grammar
+螫 螫 [shi4] /csípés (rovar, csalán,stb)/
 
 # ID-m23Hc9Y
 # Ver 2017-05-26T23:56:28Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
