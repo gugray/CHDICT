@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-10-06T02:00:01Z
+# Datenstand: 2018-10-08T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -41977,7 +41977,10 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-j95vt9w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-眼前 眼前 [yan3 qian2] /szemei előtt/pillanatnyilag/
+# 眼前 眼前 [yan3 qian2] /szemei előtt/pillanatnyilag/
+# Ver 2018-10-08T00:56:14Z GaoYanuo Stat-Verif >a "不要只看眼前" ~ "nem lát tovább az orránál" kifejezést külön szócikkben kellene felvenni, vagy itt kell harmadik jelentésbe bevenni?\n(Egyelőre csak képtalálatok és egy tankönyvi példamondat erősíti meg.)
+# Ver 2018-10-08T00:58:25Z GaoYanuo Stat-Verif >korpusz és képtalálatok erősítik.
+眼前 眼前 [yan3 qian2] /szemei előtt/pillanatnyilag/az orra előtt/
 
 # ID-j95Bf8D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
