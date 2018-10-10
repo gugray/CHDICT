@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-10-08T02:00:01Z
+# Datenstand: 2018-10-10T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -40074,7 +40074,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-j49CP5N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-載 载 [zai3] /év/le|ír/
+# 載 载 [zai3] /év/le|ír/
+# Ver 2018-10-09T14:13:51Z Adam Stat-Verif >Pleco: PLC, CC, ABC szótárak szerint 3. tónussal is megvan ez a jelentése
+載 载 [zai3] /év/le|ír; fel|jegyez/
 
 # ID-j49Nt6S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -47646,6 +47648,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-l26fu6L
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 消費者 消费者 [xiao1 fei4 zhe3] /fogyasztó (ember)/
+
+# ID-l26jt8J
+# Ver 2018-10-09T12:26:34Z Adam Stat-New >Pleco, PLC, TCE, ABC szótárak
+會議記錄 会议记录 [hui4 yi4 ji4 lu4] /jegyzőkönyv/
 
 # ID-l26nQ2X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
