@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-10-20T02:00:01Z
+# Datenstand: 2018-10-31T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -9196,6 +9196,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 每 每 [mei3] /minden/mindegyik/
 
+# ID-c17Uf7t
+# Ver 2018-10-30T20:24:58Z GaoYanuo Stat-New >CC-EDICT, Wikipedia, tanár
+活雷鋒 活雷锋 [huo2 lei2 feng1] /önzetlen/segítőkész/mintapolgár (mint Léi Fēng valaha, lásd wikipédia)/
+
 # ID-c17YY3R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 鴿子 鸽子 [ge1 zi5] /galamb/
@@ -15533,6 +15537,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-d65vw9e
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 白血病 白血病 [bai2 xue4 bing4] /leukémia/
+
+# ID-d65EC5e
+# Ver 2018-10-30T20:27:31Z GaoYanuo Stat-New >tanár, wikipédia, stb.
+文化革命 文化革命 [wen2 hua4 ge2 ming4] /Kultúrális forradalom/
 
 # ID-d65Zc2u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -33135,6 +33143,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 遲到 迟到 [chi2 dao4] /el|késik/késve érkezik/
 
+# ID-h84Ip3A
+# Ver 2018-10-30T20:34:03Z GaoYanuo Stat-New >forrás a tanár, képtalálatok és korpusz megerősítik
+輕拿輕放 轻拿轻放 [qing1 na2 qing1 fang4] /(kifejezés) óvatosan/finoman (bánni valamival)/
+
 # ID-h84QB8S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 紫色 紫色 [zi3 se4] /lila szín/
@@ -47740,6 +47752,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-l27Yh3q
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 避難所 避难所 [bi4 nan4 suo3] /menedék/
+
+# ID-l28ad5q
+# Ver 2018-10-30T20:28:55Z GaoYanuo Stat-New >HSK4 tankönyv
+打完折 打完折 [da3 wan2 zhe2] /Diszkont ár/árengedmény utáni ár/
 
 # ID-l28lQ8o
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
