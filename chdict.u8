@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-10-31T03:00:01Z
+# Datenstand: 2018-11-05T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -62119,6 +62119,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-o70FA7t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 一來 一来 [yi1 lai2] /egyrészt/
+
+# ID-o70HK5v
+# Ver 2018-11-05T00:54:49Z GaoYanuo Stat-New >https://chinesepod.com/tools/glossary/entry/%E6%9C%89%E7%A6%8F%E5%90%8C%E4%BA%AB%EF%BC%8C%E6%9C%89%E9%9A%BE%E5%90%8C%E5%BD%93\nCC-CEDICT\nforrás: tanár
+有福同享有難同噹 有福同享有难同当 [you3 fu2 tong2 xiang3 you3 nan2 tong2 dang1] /(kifejezés) jóban-rosszban/
 
 # ID-o70Jl6h
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
