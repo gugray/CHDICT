@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-11-05T03:00:01Z
+# Datenstand: 2018-11-15T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -37707,7 +37707,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-i92Dl6q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-估計 估计 [gu1 ji4] /becsül/arra számít, hogy/SZ:個|个[ge4]/
+# 估計 估计 [gu1 ji4] /becsül/arra számít, hogy/SZ:個|个[ge4]/
+# Ver 2018-11-14T20:13:59Z GaoYanuo Stat-Verif >A szinonima csak az egyértelműsítés miatt lett hozzátéve, hogy nem a "tisztel, óv" értelmű "becsül"-ről van szó.
+估計 估计 [gu1 ji4] /becsül, saccol/arra számít, hogy/SZ:個|个[ge4]/
 
 # ID-i92Ge4O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -39387,6 +39389,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-j32Mh8q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 玄學 玄学 [xuan2 xue2] /misztikus tan/metafizika/
+
+# ID-j32Nk8I
+# Ver 2018-11-14T20:21:55Z GaoYanuo Stat-New >hallomás utáni forrás, Barto-Hamar és sok egyéb szótár, képtalálatok megerősítik.
+番茄 番茄 [fan1 qie2] /paradicsom (növény)/
 
 # ID-j32ZL0u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -49244,7 +49250,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-l63vK6m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-陽光 阳光 [yang2 guang1] /nap|fény/nap|sugár/SZ:線|线[xian4]/
+# 陽光 阳光 [yang2 guang1] /nap|fény/nap|sugár/SZ:線|线[xian4]/
+# Ver 2018-11-14T20:03:46Z GaoYanuo Stat-Verif >HSK4A tankönyv, https://app.ninchanese.com/word/traditional/31/%E9%99%BD%E5%85%89\n(Vért izzadtam, mire találtam a tankönyvön kívüli megerősítést.)
+陽光 阳光 [yang2 guang1] /nap|fény/nap|sugár/derűs (átv. is)/derűlátó; optimista/átlátható, nyilvánosság számára hozzáférhető/SZ:線|线[xian4]/
 
 # ID-l63MU8N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -54393,7 +54401,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-m82KD2z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-值得 值得 [zhi2 de5] /ér (vmennyit)/meg|érdemel/
+# 值得 值得 [zhi2 de5] /ér (vmennyit)/meg|érdemel/
+# Ver 2018-11-14T20:18:29Z GaoYanuo Stat-Verif >HSK4 tankönyv, Bartos-Hamar megerősíti.
+值得 值得 [zhi2 de5] /ér (vmennyit)/meg|érdemel/megéri, érdemes (tenni valamit)/
 
 # ID-m82RT7X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
