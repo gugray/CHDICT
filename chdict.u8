@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-11-15T03:00:01Z
+# Datenstand: 2018-11-16T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -1834,6 +1834,10 @@
 # ID-a41hq2P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 盧 卢 [lu2] /(családnév) Lu/
+
+# ID-a41jH1L
+# Ver 2018-11-15T12:48:32Z GaoYanuo Stat-New >HSK4 tankönyv, CC-EDICT
+加深 加深 [jia1 shen1] /elmélyít (barátságot, stb.)/
 
 # ID-a41lf1Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -8350,7 +8354,9 @@
 
 # ID-b96MM3U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-規律 规律 [gui1 lü4] /törvény (természeti)/mintázat; szabály/
+# 規律 规律 [gui1 lü4] /törvény (természeti)/mintázat; szabály/
+# Ver 2018-11-15T12:55:06Z GaoYanuo Stat-Verif >http://www.youdao.com/w/eng/%E8%A7%84%E5%BE%8B/#keyfrom=dict2.index\nhttps://www.purpleculture.net/sample-sentences/?word=%E8%A7%84%E5%BE%8B
+規律 规律 [gui1 lü4] /törvény (természeti)/mintázat; szabály/rendszeres/ritmikus; periodikus/
 
 # ID-b96OA1y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -60047,6 +60053,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 骨幹 骨干 [gu3 gan4] /gerinc/
 
+# ID-o19PN3u
+# Ver 2018-11-15T13:00:43Z GaoYanuo Stat-New >tanár\nhttps://www.purpleculture.net/sample-sentences/?word=%E5%8E%BB%E9%80%9D
+去逝 去逝 [qu4 shi4] /meghal; eltávozik (hivatalosabb forma)/
+
 # ID-o19Qa6B
 # Ver 2017-12-27T22:06:59Z gabor Stat-New >ABC, korpusz
 # 虱 虱 [shi1] /tetű/
@@ -63098,6 +63108,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 至上 至上 [zhi4 shang4] /mindenek feletti/leg|felsőbb/magasságos/
 
+# ID-o92bO7q
+# Ver 2018-11-15T12:47:11Z GaoYanuo Stat-New >CC-EDICT és képtalálatok megerősítik
+禁止吸煙 禁止吸烟 [jin4 zhi3 xi1 yan1] /Tilos a dohányzás!/
+
 # ID-o92iu6a
 # Ver 2017-11-29T12:10:01Z GaoYanuo Stat-New >CC-CEDICT
 # 丑牛 丑牛 [chou3 niu2] /A Bika éve (a kínai naptár 12 éves ciklusából a második év)/
@@ -64577,6 +64591,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-p24cQ9u
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 亂畫 乱画 [luan4 hua4] /firkál/rajzolgat/
+
+# ID-p24fC0V
+# Ver 2018-11-15T12:40:56Z GaoYanuo Stat-New >CC-EDICT megerősíti
+二手煙 二手烟 [er4 shou3 yan1] /passzív dohányzás/
 
 # ID-p24sP8A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
