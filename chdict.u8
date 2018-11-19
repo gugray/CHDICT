@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-11-16T03:00:01Z
+# Datenstand: 2018-11-19T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -2848,7 +2848,9 @@
 
 # ID-a66mO2a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-合算 合算 [he2 suan4] /meg|éri/jövedelmező/össze|számol/
+# 合算 合算 [he2 suan4] /meg|éri/jövedelmező/össze|számol/
+# Ver 2018-11-18T23:11:27Z GaoYanuo Stat-Verif >Csak az egyértelműsítés miatt a zárójeles megjegyzés.
+合算 合算 [he2 suan4] /meg|éri (anyagilag)/jövedelmező/össze|számol/
 
 # ID-a66sd6C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -6098,6 +6100,10 @@
 # ID-b42OL8o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 大小 大小 [da4 xiao3] /méret/
+
+# ID-b42UG7o
+# Ver 2018-11-18T23:08:40Z GaoYanuo Stat-New >youtubon láttam, CC-EDICT megerősíti
+喀秋莎 喀秋莎 [ka1 qiu1 sha1] /(átirat) Katyusa /
 
 # ID-b43ac2H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -20892,7 +20898,9 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 遠離 远离 [yuan3 li2] /messze van (valamitől)/távol marad (valamitől)/
 # Ver 2017-05-23T21:11:39Z Adam Stat-Verif >rövidíteni szoktuk
-遠離 远离 [yuan3 li2] /messze van (vmitől)/távol marad (vmitől)/
+# 遠離 远离 [yuan3 li2] /messze van (vmitől)/távol marad (vmitől)/
+# Ver 2018-11-18T23:21:06Z GaoYanuo Stat-Verif >A "távol marad" is jelenheti ezt is, de másképp is értelmezhető.
+遠離 远离 [yuan3 li2] /messze van (vmitől)/távol marad (vmitől)/tartózkodik (vmitől, pl. drog, dohányzás,stb.)/
 
 # ID-e93fM9d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -28773,6 +28781,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-g78gj4t
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 車臣 车臣 [che1 chen2] /Csecsenföld/csecsen/
+
+# ID-g78sa1D
+# Ver 2018-11-18T23:17:14Z GaoYanuo Stat-New >Forrás : tanár, CC-EDICT megerősíti
+老年痴獃症 老年痴呆症 [lao3 nian2 chi1 dai1 zheng4] /időskori szenilitás/Alzheimer kór/demencia/
 
 # ID-g78vx9U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -49780,6 +49792,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-l75iY5J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 難能可貴 难能可贵 [nan2 neng2 ke3 gui4] /(kifejezés) ritka és értékes/
+
+# ID-l75kb9T
+# Ver 2018-11-18T23:24:18Z GaoYanuo Stat-New >https://eng.ichacha.net/zaoju/%E6%B2%A1%E6%9C%89%E8%80%90%E5%BF%83.html
+沒有耐心 没有耐心 [mei2 you3 nai4 xin1] /türelmetlen/
 
 # ID-l75zC9V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
