@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-11-19T03:00:01Z
+# Datenstand: 2018-11-22T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -3739,6 +3739,10 @@
 # ID-a85ub3E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 小包 小包 [xiao3 bao1] /kis csomag/
+
+# ID-a85uP9P
+# Ver 2018-11-21T18:12:08Z GaoYanuo Stat-New >https://zhidao.baidu.com/question/175540938.html\nhttp://www.youdao.com/w/eng/%E7%9B%97%E5%9B%BE/#keyfrom=dict2.index\nA harmadik jelentés forrása a wechat. Ott olvastam ilyen mondatot, hogy 盗图想家.\nÚgy értette a kommentelő, hogy olyan szép helyen van, hogy elfeledte a honvágyát.\nSajnos más forrásból nem tudtam megerősíteni.
+盜圖 盗图 [dao4 tu2] /hamisít/kalózkodik (mások szellemi tulajdonát felhasználja)/lop (szleng)/
 
 # ID-a85ww3y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -14379,6 +14383,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-d38mj3f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 撒 撒 [sa3] /szét|szór/el|szór/ki|önt/
+
+# ID-d38mQ9l
+# Ver 2018-11-22T00:46:55Z GaoYanuo Stat-New >Forrás: HSK4 tankönyv, referencia: CC-EDICT, Bartos-Hamar
+拿主意 拿主意 [na2 zhu3 yi5] /dönt/el|határoz/
 
 # ID-d38vO2a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -55575,6 +55583,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-n11mL4e
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 神情 神情 [shen2 qing2] /nézés/arc|kifejezés/
+
+# ID-n11nV5o
+# Ver 2018-11-22T01:22:40Z GaoYanuo Stat-New >CC-EDICT, Pleco
+有了 有了 [you3 le5] /megvan(tudom már!)/terhes/
 
 # ID-n11qr5H
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
