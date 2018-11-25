@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-11-22T03:00:01Z
+# Datenstand: 2018-11-25T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -9115,6 +9115,10 @@
 # ID-c15tw5P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 道奇 道奇 [dao4 qi2] /Dodge (autómárka)/
+
+# ID-c15yK0i
+# Ver 2018-11-24T21:55:15Z GaoYanuo Stat-New >CC-EDICT, korpusz
+白頭到老 白头到老 [bai2 tou2 dao4 lao3] /(kifejezés) együtt élni v.kivel/együtt megöregedni, megőszülni/
 
 # ID-c15zy4V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -18704,6 +18708,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 桿 杆 [gan1] /rúd/
 
+# ID-e40On7G
+# Ver 2018-11-24T22:16:21Z GaoYanuo Stat-New >http://dict.youdao.com/w/%E7%BA%A2%E5%8F%8C%E5%96%9C/\nhttps://eng.ichacha.net/%E7%BA%A2%E5%8F%8C%E5%96%9C.html
+紅雙喜字 红双喜字 [hong2 shuang1 xi3 zi4] /dupla öröm/
+
 # ID-e40OR0l
 # Ver 2017-05-25T15:24:46Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
 蝸牛 蜗牛 [wo1 niu2] /csiga (állat)/
@@ -20908,6 +20916,8 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-23T21:11:39Z Adam Stat-Verif >rövidíteni szoktuk
 # 遠離 远离 [yuan3 li2] /messze van (vmitől)/távol marad (vmitől)/
 # Ver 2018-11-18T23:21:06Z GaoYanuo Stat-Verif >A "távol marad" is jelenheti ezt is, de másképp is értelmezhető.
+# 遠離 远离 [yuan3 li2] /messze van (vmitől)/távol marad (vmitől)/tartózkodik (vmitől, pl. drog, dohányzás,stb.)/
+# Ver 2018-11-24T20:27:31Z GaoYanuo Stat-Verif >bocsi, kimaradt a referencia:\nhttp://www.youdao.com/w/%E8%BF%9C%E7%A6%BB/#keyfrom=dict2.top
 遠離 远离 [yuan3 li2] /messze van (vmitől)/távol marad (vmitől)/tartózkodik (vmitől, pl. drog, dohányzás,stb.)/
 
 # ID-e93fM9d
@@ -21491,6 +21501,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-f08mX5D
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 衝進 冲进 [chong1 jin4] /be|ront/
+
+# ID-f08ne4t
+# Ver 2018-11-24T18:59:12Z GaoYanuo Stat-New >http://www.dictall.com/dictall/result_sentence.jsp\nhttp://www.youdao.com/w/%E5%B9%BF%E5%9C%BA%E8%88%9E/#keyfrom=dict2.top
+廣場舞 广场舞 [guang3 chang3 wu3] /szabadtéri tánc/
 
 # ID-f08oU1b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -22088,7 +22102,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-f22de7j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-強壯 强壮 [qiang2 zhuang4] /erős/masszív/robusztus/
+# 強壯 强壮 [qiang2 zhuang4] /erős/masszív/robusztus/
+# Ver 2018-11-24T18:29:46Z GaoYanuo Stat-Verif >http://www.dictall.com/st/59/9/5909569E581.htm
+強壯 强壮 [qiang2 zhuang4] /erős/masszív/robusztus/erősödik (test, szervezet)/erősít (testet, szervezetet)/
 
 # ID-f22im3M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -29154,6 +29170,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 組建 组建 [zu3 jian4] /alapít; meg|szervez/
 
+# ID-g86LP9n
+# Ver 2018-11-24T17:14:50Z GaoYanuo Stat-New >CC-EDICT és még sokan mások\nCsak azért vettem fel, mert a "另一方面" már szerepelt és általában együtt használják a kettőt.
+一方面 一方面 [yi1 fang1 mian4] /egyrészt/
+
 # ID-g86Pt0n
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 甜菜 甜菜 [tian2 cai4] /cékla/
@@ -29765,6 +29785,14 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 偷運 偷运 [tou1 yun4] /csempész (illegálisan szállít)/
 
+# ID-g99Zm5X
+# Ver 2018-11-24T21:35:43Z GaoYanuo Stat-New >Forrás a tanár, netes szótárakban nem találtam, a korpuszban akad egy pár, de nem minden jelentésre.
+# 雞湯 鸡汤 [ji1 tang1] /csirkehús leves/egészséges (átv. is)/pozitív, előremutató/
+# Ver 2018-11-24T21:38:47Z GaoYanuo Stat-New >kifelejtettem a "hasznos"-t
+# 雞湯 鸡汤 [ji1 tang1] /csirkehús leves/egészséges (átv. is)/hasznos/pozitív, előremutató/
+# Ver 2018-11-24T21:40:53Z GaoYanuo Stat-New >Az etimológia az, hogy a csirkehúsleves jó minden betegségre, így ment át átvitt értelembe, hogy hasznos, egészséges, jó, mint a húsleves.
+雞湯 鸡汤 [ji1 tang1] /csirkehús leves/egészséges (átv. is)/hasznos/pozitív, előremutató/
+
 # ID-h00cz3Y
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 伐木 伐木 [fa2 mu4] /fát vág/fa|vágás/
@@ -29928,6 +29956,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-h03mG1S
 # Ver 2017-06-04T18:18:14Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
 馬克思主義 马克思主义 [ma3 ke4 si1 zhu3 yi4] /marxizmus/
+
+# ID-h03vw2D
+# Ver 2018-11-24T19:44:56Z GaoYanuo Stat-New >http://www.dictall.com/dictall/result_sentence.jsp
+少年維特的煩惱 少年维特的烦恼 [shao3 nian2 wei2 te4 de5 fan2 nao3] /(cím) Az ifjú Werther keservei (Johann Goethe)/
 
 # ID-h03Fz0U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -46402,6 +46434,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 涼水 凉水 [liang2 shui3] /hideg|víz/
 
+# ID-k98jG7y
+# Ver 2018-11-24T20:23:54Z GaoYanuo Stat-New >http://www.dictall.com/dictall/result_sentence.jsp
+珍愛 珍爱 [zhen1 ai4] /értékel, nagyra becsül/imád, szeret/kedves neki (pl. az élete)/féltve őrzött/
+
 # ID-k98lI8W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 中介 中介 [zhong1 jie4] /közvetít (köztes szerepet tölt be)/közvetítő/össze|kapcsol/inter-/ügynökség/ügynök/
@@ -48630,6 +48666,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-l48ms4z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 哪 哪 [na5] /(az 啊[a1] partikulával egyenértékű, n-re végződő főnév után)/
+
+# ID-l48tI0r
+# Ver 2018-11-24T16:55:29Z GaoYanuo Stat-New >CC-EDICT, Youdao
+史蒂芬霍金 史蒂芬霍金 [shi3 di4 fen1 huo4 jin1] /(személynév) Stephen Hawking (brit fizikus)/
 
 # ID-l48Fn0O
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -52039,6 +52079,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 分泌 分泌 [fen1 mi4] /ki|választ (élőlény, nedvet\anyagot)/váladék/
 
+# ID-m29tE6G
+# Ver 2018-11-24T17:40:44Z GaoYanuo Stat-New >CC-EDICT és egyebek
+芳華 芳华 [fang1 hua2] /fiatalság, ifjúság/fiatalkor, ifjúkor/
+
 # ID-m29Ik9l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 斯 斯 [si1] /ez/így/(fonetikus átiratokban használt írásjegy)/(földrajzi név) Szlovákia (斯洛伐克[Si1 luo4 fa2 ke4] rövidítése)/
@@ -54742,6 +54786,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-m90lG7R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 治理 治理 [zhi4 li3] /kormányoz/kormányzás/
+
+# ID-m90xe0I
+# Ver 2018-11-24T20:54:24Z GaoYanuo Stat-New >http://www.youdao.com/w/%E5%A0%B5%E5%BE%97%E6%85%8C/#keyfrom=dict2.top\nhttp://www.dictall.com/dictall/result_sentence.jsp
+堵得慌 堵得慌 [du3 de2 huang1] /pánikol/szorong/
 
 # ID-m90Wt6N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
