@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-11-25T03:00:01Z
+# Datenstand: 2018-11-26T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -7263,7 +7263,9 @@
 
 # ID-b70Ox1c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-放棄 放弃 [fang4 qi4] /fel|ad (nem próbálkozik tovább)/
+# 放棄 放弃 [fang4 qi4] /fel|ad (nem próbálkozik tovább)/
+# Ver 2018-11-25T16:52:34Z GaoYanuo Stat-Verif >1. bejegyzés pontosítás, tömörítés. A másik három jelentés a CC-CEDICT alapján hozzáadva. Ott szerepel a "to abandon" és "to renounce" is.\nhttps://www.purpleculture.net/sample-sentences/?word=%E6%94%BE%E5%BC%83
+放棄 放弃 [fang4 qi4] /fel|ad (harcot, reményt)/lemond (vmiről)/felhagy (szokással)/otthagy, cserben hagy/
 
 # ID-b70OF6Q
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -14390,7 +14392,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-d38mQ9l
 # Ver 2018-11-22T00:46:55Z GaoYanuo Stat-New >Forrás: HSK4 tankönyv, referencia: CC-EDICT, Bartos-Hamar
-拿主意 拿主意 [na2 zhu3 yi5] /dönt/el|határoz/
+# 拿主意 拿主意 [na2 zhu3 yi5] /dönt/el|határoz/
+# Ver 2018-11-25T15:41:29Z GaoYanuo Stat-New >Megkülönböztetendő a 决定-től. Ott szerepel zárójelesben, hogy eldöntendő kérdésre adott "reakció". Ez meg inkább a hosszabb tanakodás utáni döntéshozatal. \nMostanában ezekkel akasztom ki a tanaramat: X-y szinonima közt mi a különbség?\nKipróbáltam a kereszt szótárazást is. CC-EDICT
+拿主意 拿主意 [na2 zhu3 yi5] /döntést hoz/el|határoz/
 
 # ID-d38vO2a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -15118,7 +15122,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-d55Hb3F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-經歷 经历 [jing1 li4] /tapasztalat/SZ:個|个[ge4],次[ci4]/tapasztal/meg|él/
+# 經歷 经历 [jing1 li4] /tapasztalat/SZ:個|个[ge4],次[ci4]/tapasztal/meg|él/
+# Ver 2018-11-25T15:30:05Z GaoYanuo Stat-Verif >Megkérdeztem a tanárt, hogy mi a különbség a 经历 és a 经验 közt, mivel a szótárak mindkettőre az "experience" találatot adják. Azt válaszolta, hogy az előbbi az egész élet folyamán szerzett tapasztalatra vonatkozik, míg a másik konkrét dologra: iskola, munka, utazás, stb.
+經歷 经历 [jing1 li4] /tapasztalat (az élet folyamán szerzett)/SZ:個|个[ge4],次[ci4]/tapasztal/meg|él/
 
 # ID-d55VT7f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -26271,7 +26277,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-g18eF3L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-主意 主意 [zhu3 yi5] /ötlet/terv/döntés/SZ:個|个[ge4]/
+# 主意 主意 [zhu3 yi5] /ötlet/terv/döntés/SZ:個|个[ge4]/
+# Ver 2018-11-25T17:00:38Z GaoYanuo Stat-Verif >Az "idea"-ba még belefér, a 改变主意 = meggondolja magát is alátámasztja ezt a 4.jelentést.\nhttps://www.purpleculture.net/sample-sentences/?word=%E4%B8%BB%E6%84%8F
+主意 主意 [zhu3 yi5] /ötlet/terv/döntés/elképzelés, nézet/SZ:個|个[ge4]/
 
 # ID-g18iC3U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -34956,7 +34964,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-i25SD6Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-經驗 经验 [jing1 yan4] /tapasztal/tapasztalat/
+# 經驗 经验 [jing1 yan4] /tapasztal/tapasztalat/
+# Ver 2018-11-25T15:32:25Z GaoYanuo Stat-Verif >Indoklás a 经历 címszó alattival egyező.
+經驗 经验 [jing1 yan4] /tapasztal/tapasztalat (munka, utazás stb. során szerzett)/
 
 # ID-i25Xp3x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -62566,7 +62576,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-o80ip3s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-理解 理解 [li3 jie3] /meg|ért/fel|fog/megértés/
+# 理解 理解 [li3 jie3] /meg|ért/fel|fog/megértés/
+# Ver 2018-11-25T14:53:37Z GaoYanuo Stat-Verif >Tankönyvi szöveg:\n怎么理解 "生活中的美到处都是" 这句话? \nA meg|ért mellé fura lenne betenni az "(ért valahogy )" megjegyzést, mert az a felhasználónál így jelenne meg: megért (ért valahogy). Nekem ez zavaros lenne, ezért vettem fel az "értelmez" jelentést.\nA "felfogás" benne van a Bartos-Hamarban.
+理解 理解 [li3 jie3] /meg|ért/fel|fog/megértés/felfogás/értelmez, (ért valahogy)/
 
 # ID-o80jb3d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
