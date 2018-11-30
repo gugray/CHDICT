@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-11-29T03:00:01Z
+# Datenstand: 2018-11-30T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -21692,7 +21692,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-f12Bs7O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-屋頂 屋顶 [wu1 ding3] /tető/ház|tető/
+# 屋頂 屋顶 [wu1 ding3] /tető/ház|tető/
+# Ver 2018-11-29T09:04:02Z Adam Stat-Verif >ez nem két különálló jelentés: jobb egy jelentés alatt
+屋頂 屋顶 [wu1 ding3] /tető; ház|tető/
 
 # ID-f12Sy1S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -29803,7 +29805,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2018-11-24T21:38:47Z GaoYanuo Stat-New >kifelejtettem a "hasznos"-t
 # 雞湯 鸡汤 [ji1 tang1] /csirkehús leves/egészséges (átv. is)/hasznos/pozitív, előremutató/
 # Ver 2018-11-24T21:40:53Z GaoYanuo Stat-New >Az etimológia az, hogy a csirkehúsleves jó minden betegségre, így ment át átvitt értelembe, hogy hasznos, egészséges, jó, mint a húsleves.
-雞湯 鸡汤 [ji1 tang1] /csirkehús leves/egészséges (átv. is)/hasznos/pozitív, előremutató/
+# Ver 2018-11-29T09:07:15Z Adam Stat-New >csirkehúsleves egybeírandó (szóösszetétel, még 6 szótag fölött is kötőjel kéne, de nem különírás)
+# 雞湯 鸡汤 [ji1 tang1] /csirkehús|leves/egészséges (átv. is)/hasznos/pozitív, előremutató/
+# Ver 2018-11-29T09:10:31Z Adam Stat-New >hasznos "jótékony" értelemben
+雞湯 鸡汤 [ji1 tang1] /csirkehús|leves/egészséges (átv. is)/hasznos, jótékony/pozitív, előremutató/
 
 # ID-h00cz3Y
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -46877,6 +46882,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-23T18:00:14Z Adam Stat-New >奥格泰莱克的喀斯特岩洞群和斯洛伐克的喀斯特地貌 szócikkből kiemelve
 奧格泰萊剋 奥格泰莱克 [ao4 ge2 tai4 lai2 ke4] /(földrajzi név) Aggtelek/
 
+# ID-l06FI1s
+# Ver 2018-11-29T08:57:27Z Adam Stat-New >HanDeDict, Baidu Baike és angolon keresztül való fordítás alapján (suspended ceiling, false ceiling)
+吊頂 吊顶 [diao4 ding3] /ál|mennyezet/
+
 # ID-l06GF4R
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 字條 字条 [zi4 tiao2] /cetli; rövid üzenet/
@@ -54573,7 +54582,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-m85dH6K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-天花板 天花板 [tian1 hua1 ban3] /mennyezet/plafon/
+# 天花板 天花板 [tian1 hua1 ban3] /mennyezet/plafon/
+# Ver 2018-11-29T08:58:31Z Adam Stat-Verif >ez nem két jelentés, hanem egyazon jelentés két szinonimája
+天花板 天花板 [tian1 hua1 ban3] /mennyezet; plafon/
 
 # ID-m85gg2S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
