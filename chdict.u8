@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-11-30T03:00:01Z
+# Datenstand: 2018-12-16T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -2191,7 +2191,11 @@
 
 # ID-a48Zx0Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-指 指 [zhi3] /ujj/mutat (vmire)/hivatkozik (vmire)/
+# 指 指 [zhi3] /ujj/mutat (vmire)/hivatkozik (vmire)/
+# Ver 2018-12-15T19:23:05Z GaoYanuo Stat-Verif >Forrás : tanár.  你指什么? Ezt meg hogy érted? Ez alatt mit értesz?
+# 指 指 [zhi3] /ujj/mutat (vmire)/hivatkozik (vmire)/utal (vmire)/ért valahogy/
+# Ver 2018-12-15T19:24:20Z GaoYanuo Stat-Verif >Lemaradt a referencia:\nhttp://www.youdao.com/w/%E4%BD%A0%E6%8C%87%E4%BB%80%E4%B9%88/#keyfrom=dict2.top
+指 指 [zhi3] /ujj/mutat (vmire)/hivatkozik (vmire)/utal (vmire)/ért valahogy/
 
 # ID-a49aV3y
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -4238,6 +4242,10 @@
 # Ver 2017-06-04T22:26:37Z Adam Stat-Verif >jelentés pontosítása
 一 一 [yi1] /egy (számnév: 1)/amint; mihelyt (就-val párban)/
 
+# ID-a96We3A
+# Ver 2018-12-15T18:38:57Z GaoYanuo Stat-New >http://www.youdao.com/w/%E7%9C%8B%E9%87%8D/#keyfrom=dict2.top
+看重 看重 [kan4 zhong4] /értékel (nagyra becsül)/fontosnak tart/
+
 # ID-a96Zi9j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 再次 再次 [zai4 ci4] /mégegyszer/ismét/újra/
@@ -4527,6 +4535,10 @@
 # ID-b03XM9A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 軍 军 [jun1] /had|sereg/csapatok/SZ:個|个[ge4]/
+
+# ID-b04jc7b
+# Ver 2018-12-15T18:36:13Z GaoYanuo Stat-New >forrás: tanár, CC-CEDICT megerősíti.
+魚與熊掌不可以兼得 鱼与熊掌不可以兼得 [yu2 yu3 xiong2 zhang3 bu4 ke3 yi3 jian1 de2] /(kifejezés) Egy fenékkel nem lehet két lovat megülni. /
 
 # ID-b04rG7X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -9828,6 +9840,10 @@
 # ID-c34oT3D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 金質 金质 [jin1 zhi2] /arany/
+
+# ID-c34qo3D
+# Ver 2018-12-15T18:59:34Z GaoYanuo Stat-New >http://www.ichacha.net/%E5%90%8D%E4%BA%BA%E5%90%8D%E8%A8%80.html
+名人名信 名人名信 [ming2 ren2 ming2 xin4] /híres idézet (nagy ember nagy mondása)/
 
 # ID-c34sg5A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -34578,6 +34594,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 每年 每年 [mei3 nian2] /minden évben/évente/
 
+# ID-i15nc7R
+# Ver 2018-12-15T19:09:37Z GaoYanuo Stat-New >http://www.youdao.com/w/%E7%AC%94%E8%AF%91/#keyfrom=dict2.top
+筆譯 笔译 [bi3 yi4] /írásbeli fordítás/
+
 # ID-i15tH2T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 管理 管理 [guan3 li3] /irányít/igazgat/vezet/
@@ -41511,6 +41531,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 防水 防水 [fang2 shui3] /víz|álló/
 
+# ID-j82lL0U
+# Ver 2018-12-15T17:41:14Z GaoYanuo Stat-New >forrás: tanár\nhttp://www.hjenglish.com/new/p671898/
+匹夫之勇 匹夫之勇 [pi3 fu1 zhi1 yong3] /vakmerő/
+
 # ID-j82ng6H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 演戲 演戏 [yan3 xi4] /elő|ad/el|játszik/meg|játszik/
@@ -42511,7 +42535,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-k04gx3G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-其中 其中 [qi2 zhong1] /közöttük/ezek között/
+# 其中 其中 [qi2 zhong1] /közöttük/ezek között/
+# Ver 2018-12-15T17:33:40Z GaoYanuo Stat-Verif >http://www.youdao.com/w/%E5%85%B6%E4%B8%AD/#keyfrom=dict2.top\nhttp://www.youdao.com/w/among%20others/#keyfrom=dict2.top
+其中 其中 [qi2 zhong1] /közöttük/ezek között/ezek közül/többek közt/
 
 # ID-k04rG9U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -45734,6 +45760,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-k80uu2h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 領 领 [ling3] /nyak/gallér/kap/vezet/(számlálószó: ruhák, szőnyegek stb.)/
+
+# ID-k80wQ8w
+# Ver 2018-12-15T18:45:25Z GaoYanuo Stat-New >http://www.youdao.com/w/%E7%9C%8B%E8%BD%BB/#keyfrom=dict2.top\nCC-CEDICT
+看輕 看轻 [kan4 qing1] /alábecsül/lenéz (értéktelennek tart)/
 
 # ID-k80xB0K
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -57520,6 +57550,12 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 學員 学员 [xue2 yuan2] /diák/tanuló/
 
+# ID-n54vj3V
+# Ver 2018-12-15T19:06:51Z GaoYanuo Stat-New >http://www.youdao.com/w/%E5%8F%A3%E8%AF%91/#keyfrom=dict2.top\nCC-CEDICT
+# 口譯 口译 [kou3 yi4] /fordítás; tolmácsolás (szóban)/
+# Ver 2018-12-15T19:11:36Z GaoYanuo Stat-New >Igéből képzett főnév helyett ige.
+口譯 口译 [kou3 yi4] /fordít; tolmácsol (szóban)/
+
 # ID-n54OK6u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 股票 股票 [gu3 piao4] /részvény (részesedést tanúsító irat)/kötvény (pénzügyi értelemben)/
@@ -59493,6 +59529,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-o04zo6I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 解放 解放 [jie3 fang4] /fel|szabadít/fel|szabadulás (a kommunisták győzelme a nacionalisták felett 1949-ben)/
+
+# ID-o04DE6O
+# Ver 2018-12-15T17:25:48Z GaoYanuo Stat-New >http://www.youdao.com/example/%E7%98%A6%E4%B8%8B%E6%9D%A5/#keyfrom=dict.basic.ce
+瘦下來 瘦下来 [shou4 xia4 lai2] /lefogy/
 
 # ID-o04KM9r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
