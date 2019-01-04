@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2018-12-16T03:00:01Z
+# Datenstand: 2019-01-04T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -48307,6 +48307,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-l39fX0C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 終點 终点 [zhong1 dian3] /cél/vég|pont/cél|állomás/vég|állomás/
+
+# ID-l39km7S
+# Ver 2019-01-03T17:36:21Z gabor Stat-New >CHDICT, MOEDICT\nhttps://www.linguee.com/chinese-english/translation/%E5%92%94%E5%9A%93.html
+咔嚓 咔嚓 [ka1 cha1] /(hangutánzó) katt; kattanás/exponáló hang (fényképezőgépen)/
 
 # ID-l39ml0w
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
