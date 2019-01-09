@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2019-01-04T03:00:01Z
+# Datenstand: 2019-01-09T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -240,6 +240,10 @@
 # ID-a04wq8Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 課堂 课堂 [ke4 tang2] /osztály|terem/tan|terem/SZ:間|间[jian1]/
+
+# ID-a04xb7M
+# Ver 2019-01-08T14:01:54Z GaoYanuo Stat-New >http://www.youdao.com/w/%E5%9B%9B%E5%91%A8/#keyfrom=dict2.top\nés egyéb szótárak
+四周 四周 [si4 zhou1] /körül, körbe (tekint, stb.)/körös-körül, minden irányban//
 
 # ID-a04Ok5L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -5165,6 +5169,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 問世 问世 [wen4 shi4] /meg|jelenik (könyv)/napvilágot lát/
 
+# ID-b17Of6t
+# Ver 2019-01-08T13:43:07Z GaoYanuo Stat-New >tankönyv,\nhttp://www.youdao.com/w/eng/%E9%80%81%E8%B4%A7%E4%B8%8A%E9%97%A8/#keyfrom=dict2.index
+送貨上門 送货上门 [song4 huo4 shang4 men2] /házhoz szállítás (eladó részéről)/
+
 # ID-b17Tt9l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 少 少 [shao3] /kevés/kevesebb/hiányos/hiányzik/ritkán/
@@ -9987,7 +9995,9 @@
 
 # ID-c37VV1e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-前方 前方 [qian2 fang1] /előre/eleje (vminek)/
+# 前方 前方 [qian2 fang1] /előre/eleje (vminek)/
+# Ver 2019-01-08T12:53:26Z GaoYanuo Stat-Verif >https://www.purpleculture.net/sample-sentences/?word=%E5%89%8D%E6%96%B9\npl. "前方到站是西直门。"
+前方 前方 [qian2 fang1] /előre/eleje (vminek)/(vki, vmi) előtt/következő (pl. megálló)/
 
 # ID-c37Xs0a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -13358,7 +13368,9 @@
 
 # ID-d12UG4F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-鏡子 镜子 [jing4 zi5] /tükör/SZ:面[mian4],個|个[ge4]/
+# 鏡子 镜子 [jing4 zi5] /tükör/SZ:面[mian4],個|个[ge4]/
+# Ver 2019-01-08T13:49:23Z GaoYanuo Stat-Verif >http://www.youdao.com/w/%E9%95%9C%E5%AD%90/#keyfrom=dict2.top
+鏡子 镜子 [jing4 zi5] /tükör/szemüveg/SZ:面[mian4],個|个[ge4]/
 
 # ID-d12Xw0T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -20229,6 +20241,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-e74aI3Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 會 会 [hui4] /találkozik/össze|gyűlik/társaság; szövetség/gyűlés; összejövetel/SZ:個|个[ge4]/alkalom; lehetőség/tud (tanulás alapján)/fog (valószínűleg, jövő idő)/
+
+# ID-e74dI0V
+# Ver 2019-01-08T12:57:08Z GaoYanuo Stat-New >tankönyv, CC-EDICT\nhttps://www.purpleculture.net/sample-sentences/?word=%E6%8D%A2%E4%B9%98
+換乘 换乘 [huan4 cheng2] /átszáll (utas másik járműre)/
 
 # ID-e74dW6z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -29824,6 +29840,8 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2018-11-29T09:07:15Z Adam Stat-New >csirkehúsleves egybeírandó (szóösszetétel, még 6 szótag fölött is kötőjel kéne, de nem különírás)
 # 雞湯 鸡汤 [ji1 tang1] /csirkehús|leves/egészséges (átv. is)/hasznos/pozitív, előremutató/
 # Ver 2018-11-29T09:10:31Z Adam Stat-New >hasznos "jótékony" értelemben
+# 雞湯 鸡汤 [ji1 tang1] /csirkehús|leves/egészséges (átv. is)/hasznos, jótékony/pozitív, előremutató/
+# Ver 2019-01-08T13:09:17Z GaoYanuo Stat-New >鸡汤文 néven úgy látom, azokat a cuccokat nevezik a wechaten, melyek látszatra hasznosnak tűnnek, valójában komolytalan, megalapozatlan marhaságok, mint pl. magyar viszonylatban a "lúgosítás" és társai. van erre magyar szó? nekem nem jut eszembe.
 雞湯 鸡汤 [ji1 tang1] /csirkehús|leves/egészséges (átv. is)/hasznos, jótékony/pozitív, előremutató/
 
 # ID-h00cz3Y
@@ -48310,7 +48328,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-l39km7S
 # Ver 2019-01-03T17:36:21Z gabor Stat-New >CHDICT, MOEDICT\nhttps://www.linguee.com/chinese-english/translation/%E5%92%94%E5%9A%93.html
-咔嚓 咔嚓 [ka1 cha1] /(hangutánzó) katt; kattanás/exponáló hang (fényképezőgépen)/
+# 咔嚓 咔嚓 [ka1 cha1] /(hangutánzó) katt; kattanás/exponáló hang (fényképezőgépen)/
+# Ver 2019-01-08T13:25:41Z GaoYanuo Stat-New >https://youtu.be/eAnxE7JOAcs
+咔嚓 咔嚓 [ka1 cha1] /(hangutánzó) katt; kattanás, vonat hangja ("csihuhu")/exponáló hang (fényképezőgépen)/
 
 # ID-l39ml0w
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -53543,6 +53563,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-m60SX6R
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 渾身解數 浑身解数 [hun2 shen1 xie4 shu4] /(kifejezés) mindent bele|ad/
+
+# ID-m60TU1y
+# Ver 2019-01-08T13:34:55Z GaoYanuo Stat-New >tankönyv, CC-CEDICT megerősíti
+有好處 有好处 [you3 hao3 chu4] /hasznos, hatásos/ajánlott (vmi célra, vmi ellen)//
 
 # ID-m60Vw7S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
