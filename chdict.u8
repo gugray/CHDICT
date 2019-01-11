@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2019-01-09T03:00:01Z
+# Datenstand: 2019-01-11T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -2353,7 +2353,9 @@
 
 # ID-a51EZ3L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-煩惱 烦恼 [fan2 nao3] /aggódik/zaklatott/
+# 煩惱 烦恼 [fan2 nao3] /aggódik/zaklatott/
+# Ver 2019-01-10T08:43:27Z GaoYanuo Stat-Verif >A legtöbb szótár kifejezetten melléknévnek veszi, a CC-CEDICT-ben szerepel "worries".\nTankönyvi példaszöveg: "家人忙了一天需要交流，...  一天的烦恼就跑掉了。" 
+煩惱 烦恼 [fan2 nao3] /aggódik/zaklatott/gondok-bajok/
 
 # ID-a51Nu7A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -4542,7 +4544,9 @@
 
 # ID-b04jc7b
 # Ver 2018-12-15T18:36:13Z GaoYanuo Stat-New >forrás: tanár, CC-CEDICT megerősíti.
-魚與熊掌不可以兼得 鱼与熊掌不可以兼得 [yu2 yu3 xiong2 zhang3 bu4 ke3 yi3 jian1 de2] /(kifejezés) Egy fenékkel nem lehet két lovat megülni. /
+# 魚與熊掌不可以兼得 鱼与熊掌不可以兼得 [yu2 yu3 xiong2 zhang3 bu4 ke3 yi3 jian1 de2] /(kifejezés) Egy fenékkel nem lehet két lovat megülni. /
+# Ver 2019-01-10T08:56:56Z GaoYanuo Stat-New >Túl nagy az eltérés a szóhasználatban, csak a komplett közmondás értelme egyezik.
+魚與熊掌不可以兼得 鱼与熊掌不可以兼得 [yu2 yu3 xiong2 zhang3 bu4 ke3 yi3 jian1 de2] /(kifejezés) Egy fenékkel nem lehet két lovat megülni. (Szó szerint: nem szerezhetsz egyszerre halat és medvetalpat.)/
 
 # ID-b04rG7X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -18748,7 +18752,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-e40On7G
 # Ver 2018-11-24T22:16:21Z GaoYanuo Stat-New >http://dict.youdao.com/w/%E7%BA%A2%E5%8F%8C%E5%96%9C/\nhttps://eng.ichacha.net/%E7%BA%A2%E5%8F%8C%E5%96%9C.html
-紅雙喜字 红双喜字 [hong2 shuang1 xi3 zi4] /dupla öröm/
+# 紅雙喜字 红双喜字 [hong2 shuang1 xi3 zi4] /dupla öröm/
+# Ver 2019-01-10T08:54:42Z GaoYanuo Stat-New >https://eng.ichacha.net/double%20happiness.html
+紅雙喜字 红双喜字 [hong2 shuang1 xi3 zi4] /dupla öröm (főleg házasság, eljegyzés esetén)/
 
 # ID-e40OR0l
 # Ver 2017-05-25T15:24:46Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
@@ -22285,6 +22291,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-f25Hn5S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
+# 掉 掉 [diao4] /esik/le|marad/el|veszít/
+# Ver 2019-01-10T08:34:10Z GaoYanuo Stat-Flagged >hogyan kéne jelezni, hogy igei kiegészítőként kb. a magyar "el" igekötőnek felel meg. pl. elvérzik, elszalad, stb.
 掉 掉 [diao4] /esik/le|marad/el|veszít/
 
 # ID-f25II1F
@@ -23630,7 +23638,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-f55xF4k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-靜 静 [jing4] /csendes/nyugodt/
+# 靜 静 [jing4] /csendes/nyugodt/
+# Ver 2019-01-10T07:53:06Z GaoYanuo Stat-Verif >tankönyvi szöveg: 如果人一天静坐超过6小时，就会影响身体健康。\nCC-CEDICT megerősíti.
+靜 静 [jing4] /csendes/nyugodt/mozdulatlan/
 
 # ID-f55GT9O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -25967,6 +25977,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 棕櫚 棕榈 [zong1 lü2] /pálma/pálma|fa/
 
+# ID-g10aG2q
+# Ver 2019-01-10T08:14:29Z GaoYanuo Stat-New >tankönyv, CC-CEDICT\nhttps://www.hujiang.com/ciku/31341_739958729/
+一句話 一句话 [yi1 ju4 hua4] /egyszóval/röviden, tömören (szólva)/szó nélkül (tagadó módban)/
+
 # ID-g10gh3M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 合 合 [he2] /be|zár/egyesít/meg|felel (vminek)/egyenlő (vmivel)/egész/együtt/
@@ -28201,6 +28215,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-g61er5S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 名稱 名称 [ming2 cheng1] /meg|nevezés/meg|jelölés/
+
+# ID-g61ks5b
+# Ver 2019-01-10T07:33:24Z GaoYanuo Stat-New >tankönyv\nhttps://m.hujiang.com/en/p665991/
+老樣子 老样子 [lao3 yang4 zi5] /szokásos ("a régi nóta")/
 
 # ID-g61kY9W
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -33084,7 +33102,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-h80jH8t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-為了 为了 [wei4 le5] /azért, hogy/annak érdekében, hogy/céljából (vminek)/
+# 為了 为了 [wei4 le5] /azért, hogy/annak érdekében, hogy/céljából (vminek)/
+# Ver 2019-01-10T07:39:10Z GaoYanuo Stat-Verif >Tankönyvi példamondat: 为了你和你的家人别再抽了。A te és a családod érdekében ne dohányozz!
+為了 为了 [wei4 le5] /azért, hogy/érdekében (szmély, vagy cél)/céljából (vminek)/
 
 # ID-h80qZ4f
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -37793,6 +37813,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-i90Vb4g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 虛偽 虚伪 [xu1 wei3] /hamis/képmutató/álságos/
+
+# ID-i90Vc7X
+# Ver 2019-01-10T19:56:59Z GaoYanuo Stat-New >CC-CEDICT\nhttps://www.hujiang.com/ciku/5954_39053432/
+變得 变得 [bian4 de5] /válik, változik (vmilyenné)/
 
 # ID-i90Ww4E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -50981,6 +51005,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 建成 建成 [jian4 cheng2] /épít/át|épít (vmivé)/
 
+# ID-m02AH4v
+# Ver 2019-01-10T19:26:36Z GaoYanuo Stat-New >tankönyv, CC-CEDICT\na pinyin egyezik a CC-CEDICT-ével, a tankönyvben (HSK4上) ke3bu2shi5 szerepel.
+可不是 可不是 [ke3 bu5 shi4] /bizony/pontosan (így gondolom én is)/úgy van/
+
 # ID-m02FX0A
 # Ver 2017-11-20T22:19:02Z gabor Stat-New >CEDICT
 桂 桂 [gui4] /fahéj/babér/(családnév) Gui/
@@ -51784,7 +51812,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-m21dT7Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-肚子 肚子 [du4 zi5] /has/SZ:個|个[ge4]/
+# 肚子 肚子 [du4 zi5] /has/SZ:個|个[ge4]/
+# Ver 2019-01-10T08:28:20Z GaoYanuo Stat-Verif >CC-CEDICT és más szótárak
+肚子 肚子 [du4 zi5] /has/gyomor/SZ:個|个[ge4]/
 
 # ID-m21dU7N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
