@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2019-01-11T03:00:01Z
+# Datenstand: 2019-01-15T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -13680,7 +13680,9 @@
 
 # ID-d20Ni8K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-洗澡 洗澡 [xi3 zao3] /fürdik/meg|fürdik/
+# 洗澡 洗澡 [xi3 zao3] /fürdik/meg|fürdik/
+# Ver 2019-01-14T12:14:10Z GaoYanuo Stat-Verif >Nem dagályoskodni akarok, csak mivel vonzatos ige, gyakran kerül a 洗 és a 澡 közé akár komplett kifejezés is. Pl. 洗个热水澡. Ezért vettem fel harmadik jelentésbe a hasonló tárgy-ige jellegű kifejezést.
+洗澡 洗澡 [xi3 zao3] /fürdik/meg|fürdik/fürdőt vesz/
 
 # ID-d20SA5N
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -61906,7 +61908,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-o59hm9A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-僅 仅 [jin3] /alig/csak/épp/
+# 僅 仅 [jin3] /alig/csak/épp/
+# Ver 2019-01-14T12:38:42Z GaoYanuo Stat-Verif >Jelentés egyértelműsítés. A "csak"-nak túl sok egyéb értelme van, ráadásul a kínaiban rengeteg szó van, amit magyarra "csak"-kal lehet fordítani. (Elég, ha csak a saját portánkon szétnézünk:-)
+僅 仅 [jin3] /alig/csak, csupán, pusztán/épp/
 
 # ID-o59OR9j
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -64649,7 +64653,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-p21Qz8Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-新聞 新闻 [xin1 wen2] /hír/hírek/SZ:條|条[tiao2],個|个[ge4]/
+# 新聞 新闻 [xin1 wen2] /hír/hírek/SZ:條|条[tiao2],個|个[ge4]/
+# Ver 2019-01-14T12:27:12Z GaoYanuo Stat-Verif >tanszöveg (HSK4A) : 我本来想当律师，但是后来我发现自己对新闻更兴趣。\nYoudao megerősíti.
+新聞 新闻 [xin1 wen2] /hír/hírek/újságírás, zsurnalisztika/SZ:條|条[tiao2],個|个[ge4]/
 
 # ID-p21RJ4C
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
