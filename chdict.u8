@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2019-02-12T03:00:01Z
+# Datenstand: 2019-02-16T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -27203,6 +27203,8 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 聽見 听见 [ting1 jian4] /ért (akusztikusan, hallás után)/
 # Ver 2019-02-11T23:48:09Z LevA Stat-Verif >Én személy szerint még nem találtam olyan példát, ahol ez a szó "ért" jelentésben szerepel, de "hall" jelentésben többször találkoztam vele.
+# 聽見 听见 [ting1 jian4] /hall/hallgat/ért (akusztikusan, hallás után)/
+# Ver 2019-02-15T22:45:12Z GaoYanuo Stat-Verif >Én sem találtam olyan szöveget, ahol hallás utáni szövegértésre utalna. Környezetemben erre a célra inkább a 听出来-t használják. Szóval a harmadik jelentéshez tényleg elkélne valamilyen referencia.
 聽見 听见 [ting1 jian4] /hall/hallgat/ért (akusztikusan, hallás után)/
 
 # ID-g39oR9S
