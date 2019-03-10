@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2019-02-16T03:00:01Z
+# Datenstand: 2019-03-10T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -3978,7 +3978,9 @@
 
 # ID-a91Ba0I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-與否 与否 [yu3 fou3] /függetlenül attól, hogy (vmi fennál-e vagy sem; tagmondat végén)/
+# 與否 与否 [yu3 fou3] /függetlenül attól, hogy (vmi fennál-e vagy sem; tagmondat végén)/
+# Ver 2019-03-09T15:04:10Z GaoYanuo Stat-Verif >a jelentések nagyon hasonlóak, de a magyar nyelvű rákeresések miatt  jónak láttam bővíteni.\n无论/不管你成功与否你试试努力过。Példamondat a tanártól.  Mindhárom változattal fordítható. Függetlenül attól, sikeres vagy -e, (vagy sem)/Akár sikeres vagy, akár nem , legalább megpróbáltad.
+與否 与否 [yu3 fou3] /függetlenül attól, hogy (vmi fennál-e vagy sem; tagmondat végén)/akár igen, akár nem/vagy sem (pl. jössz-e, vagy sem.)/
 
 # ID-a91LH3R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -7027,7 +7029,9 @@
 
 # ID-b63Qe9O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-大陸 大陆 [da4 lu4] /kontinens/szárazföld/Kína (a Kínai Népköztársaság)/SZ:個|个[ge4],塊|块[kuai4]/
+# 大陸 大陆 [da4 lu4] /kontinens/szárazföld/Kína (a Kínai Népköztársaság)/SZ:個|个[ge4],塊|块[kuai4]/
+# Ver 2019-03-09T19:40:22Z GaoYanuo Stat-Verif >Pontosítás. Hongkong és Makaó is a Kínai Népköztársaság része.
+大陸 大陆 [da4 lu4] /kontinens/szárazföld/Kína (a Kínai Népköztársaság Hongkong és Makaó nélkül)/SZ:個|个[ge4],塊|块[kuai4]/
 
 # ID-b63Ua4M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -7933,6 +7937,10 @@
 # ID-b85WH3r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 發明 发明 [fa1 ming2] /fel|talál/találmány/
+
+# ID-b86cs4J
+# Ver 2019-03-09T19:08:26Z GaoYanuo Stat-New >http://www.youdao.com/w/%E7%89%A9%E4%B8%9A%E8%B4%B9/#keyfrom=dict2.top
+物業費 物业费 [wu4 ye4 fei4] /lakbér; lakhatási költség/
 
 # ID-b86lY3j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -9804,6 +9812,10 @@
 # ID-c33rz0j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 鑰匙 钥匙 [yao4 shi5] /kulcs/SZ:把[ba3]/
+
+# ID-c33rC2B
+# Ver 2019-03-09T18:53:07Z GaoYanuo Stat-New >tanár,\nhttp://www.youdao.com/w/%E6%9C%89%E5%9E%8B/#keyfrom=dict2.top
+有型 有型 [you3 xing2] /stílusos/divatos/menő/jóképű/
 
 # ID-c33yx7J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -14034,6 +14046,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 紋 纹 [wen2] /erezet/minta/vonal (pl. tenyéren)/ránc (bőrön)/
 
+# ID-d28Jx5J
+# Ver 2019-03-09T18:41:38Z GaoYanuo Stat-New >tanár, CC-CEDICT
+黑話 黑话 [hei1 hua4] /tolvajnyelv; argó/
+
 # ID-d28ZP0M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 順序 顺序 [shun4 xu4] /sorozat/sor|rend/sor|rend szerint/
@@ -14654,7 +14670,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-d44lk2t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-理由 理由 [li3 you2] /indok/indoklás/ok/SZ:個|个[ge4]/
+# 理由 理由 [li3 you2] /indok/indoklás/ok/SZ:個|个[ge4]/
+# Ver 2019-03-09T19:32:14Z GaoYanuo Stat-Verif >http://www.youdao.com/w/%E7%90%86%E7%94%B1/#keyfrom=dict2.top
+# 理由 理由 [li3 you2] /indok/indoklás/ok/mentség/kifogás/SZ:個|个[ge4]/
+# Ver 2019-03-09T19:35:15Z GaoYanuo Stat-Verif >.
+理由 理由 [li3 you2] /indok/indoklás/ok/mentség/kifogás; ürügy/SZ:個|个[ge4]/
 
 # ID-d44lG8h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -15483,6 +15503,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-d62Vz7k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 魯直 鲁直 [lu3 zhi2] /tapintatlanul őszinte/
+
+# ID-d63fi7l
+# Ver 2019-03-09T16:48:37Z GaoYanuo Stat-New >forrás tanár, referencia CC-CEDICT,\nhttps://www.purpleculture.net/sample-sentences/?word=%E7%82%B9%E4%BA%AE
+點亮 点亮 [dian3 liang4] /meg|világít/kigyullad (lámpa)/gyújt (világosságot)/
 
 # ID-d63fJ1h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -18426,6 +18450,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 女生 女生 [nü3 sheng1] /lány/diák|lány/
 
+# ID-e32On7c
+# Ver 2019-03-09T19:11:51Z GaoYanuo Stat-New >http://www.youdao.com/w/%E6%A5%BC%E6%88%BF/#keyfrom=dict2.top\nCC_CEDICT
+樓房 楼房 [lou2 fang2] /bérház, blokkház, több emeletes ház/
+
 # ID-e32Sj1l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 耿直 耿直 [geng3 zhi2] /becsületes/őszinte/
@@ -19814,7 +19842,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-e64tg2D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-用心 用心 [yong4 xin1] /indíték/szándék/figyelmes/
+# 用心 用心 [yong4 xin1] /indíték/szándék/figyelmes/
+# Ver 2019-03-09T18:29:19Z GaoYanuo Stat-Verif >Egyértelműsítés miatt vettem fel szinoniát. A figyelmes "udvarias" értelemben is használatos.
+用心 用心 [yong4 xin1] /indíték/szándék/figyelmes; gondos/
 
 # ID-e64xX6Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -22839,6 +22869,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-f38Nn0N
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 招認 招认 [zhao1 ren4] /be|ismer; be|vall/
+
+# ID-f38YP2q
+# Ver 2019-03-09T17:09:43Z GaoYanuo Stat-New >tanár, CC-CEDICT\nhttps://www.purpleculture.net/sample-sentences/?word=%E6%87%A6%E5%BC%B1
+懦弱 懦弱 [nuo4 ruo4] /gyáva/gyenge/
 
 # ID-f39cs6T
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -30366,6 +30400,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2018-01-06T16:17:26Z gabor Stat-New >ABC, CEDICT
 歷 历 [li4] /tapasztalat/kor; korszak/keresztül/(családnév) Li/
 
+# ID-h11Fh2O
+# Ver 2019-03-09T17:33:00Z GaoYanuo Stat-New >tanár, CC-CEDICT
+班主任 班主任 [ban1 zhu3 ren4] /osztályfőnök/
+
 # ID-h11Gr6W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 日子 日子 [ri4 zi5] /nap (naptári)/
@@ -32033,7 +32071,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-h55Lv3v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-演講 演讲 [yan3 jiang3] /elő|ad/beszédet mond/
+# 演講 演讲 [yan3 jiang3] /elő|ad/beszédet mond/
+# Ver 2019-03-09T17:21:08Z GaoYanuo Stat-Verif >CC-CEDICT,\nhttps://www.purpleculture.net/sample-sentences/?word=%E6%BC%94%E8%AE%B2
+演講 演讲 [yan3 jiang3] /elő|ad/beszédet mond/előadás (szöveges); beszéd (szónoki)/
 
 # ID-h55Si7X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -34596,7 +34636,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-i14pZ1S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-平 平 [ping2] /lapos/sima/egyenlő (egy szintben van vmivel)/döntetlen/békés/
+# 平 平 [ping2] /lapos/sima/egyenlő (egy szintben van vmivel)/döntetlen/békés/
+# Ver 2019-03-09T19:24:48Z GaoYanuo Stat-Verif >forrás: anyanyelvi tanár
+平 平 [ping2] /lapos/sima/egyenlő (egy szintben van vmivel)/döntetlen/békés/négyzetméter (a 平方米 rövidítése) /
 
 # ID-i14sX6O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -36035,6 +36077,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 得了 得了 [de2 le5] /elég legyen!/rendben/
 
+# ID-i50hN4S
+# Ver 2019-03-09T19:27:40Z GaoYanuo Stat-New >http://www.youdao.com/w/%E6%8D%90%E9%92%B1/#keyfrom=dict2.top
+捐錢 捐钱 [juan1 qian2] /adomány/pénz gyűjtés adományozáshoz/
+
 # ID-i50vZ9J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 族人 族人 [zu2 ren2] /a törzs tagjai/rokonok/
@@ -36302,6 +36348,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-i56ka6w
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 構造 构造 [gou4 zao4] /szerkezet; fel|építmény/tektonika/
+
+# ID-i56kY0C
+# Ver 2019-03-09T18:20:59Z GaoYanuo Stat-New >tanár, CC-CEDICT
+再好 再好 [zai4 hao3] /még jobb/
 
 # ID-i56pc0I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -42693,7 +42743,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-k07nZ3q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-隨便 随便 [sui2 bian4] /ahogy tetszik/találomra/lezser/könnyelmű/
+# 隨便 随便 [sui2 bian4] /ahogy tetszik/találomra/lezser/könnyelmű/
+# Ver 2019-03-09T14:35:48Z GaoYanuo Stat-Verif >Bartos-Hamar alapján bővítve.
+隨便 随便 [sui2 bian4] /ahogy tetszik/találomra/lezser/könnyelmű/önkényes/
 
 # ID-k07ru5W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -46021,6 +46073,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-k85Td1I
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 通關密語 通关密语 [tong1 guan1 mi4 yu3] /jelszó/
+
+# ID-k86Ao8I
+# Ver 2019-03-09T18:01:27Z GaoYanuo Stat-New >tanár, tankönyv, CC-CEDICT megerősíti
+上有老下有小 上有老下有小 [shang4 you3 lao3 xia4 you3 xiao3] /(kifejezés) egyszerre gondoskodik szülőről és gyerekről/szendvics nemzedék/
 
 # ID-k86Cu2z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -51531,7 +51587,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-m15jH6r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-紅 红 [hong2] /piros/vörös/forradalmi/(családnév) Hong/
+# 紅 红 [hong2] /piros/vörös/forradalmi/(családnév) Hong/
+# Ver 2019-03-09T18:47:33Z GaoYanuo Stat-Verif >tanár, Pleco
+紅 红 [hong2] /piros/vörös/forradalmi/népszerű, sikeres/(családnév) Hong/
 
 # ID-m15lS3d
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -54586,7 +54644,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-m82BY3m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-生產 生产 [sheng1 chan3] /termel/gyárt/szül/
+# 生產 生产 [sheng1 chan3] /termel/gyárt/szül/
+# Ver 2019-03-09T14:48:05Z GaoYanuo Stat-Verif >Bartos-Hamar és anyanyelvi beszélő alapján kiegészítve.
+生產 生产 [sheng1 chan3] /termel/gyárt/termelés, gyártás/szül/
 
 # ID-m82Cf2v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -58210,6 +58270,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 預 预 [yu4] /előre; előzetesen/
 
+# ID-n69zk9z
+# Ver 2019-03-09T18:39:48Z GaoYanuo Stat-New >CC-CEDICT
+結婚證 结婚证 [jie2 hun1 zheng4] /házassági anyakönyvi kivonat/
+
 # ID-n69CD0l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 追究 追究 [zhui1 jiu1] /nyomoz/kutat/
@@ -59577,6 +59641,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-o04aS4q
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 青草 青草 [qing1 cao3] /fű/
+
+# ID-o04cX2o
+# Ver 2019-03-09T17:55:39Z GaoYanuo Stat-New >tanár, CC-EDICT
+紅糖 红糖 [hong2 tang2] /barnacukor/
 
 # ID-o04fL0v
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -62212,6 +62280,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 撐腰 撑腰 [cheng1 yao1] /támogat/ki|áll (vki mellett)/
 
+# ID-o66Si4v
+# Ver 2019-03-09T19:15:13Z GaoYanuo Stat-New >CC-CEDICT
+物價 物价 [wu4 jia4] /fogyasztói ár/
+
 # ID-o67ir6B
 # Ver 2017-12-29T19:31:35Z gabor Stat-New >korpusz; 家室 jellemző előfordulása
 # 有家室 有家室 [you3 jia1 shi4] /családos; van családja/
@@ -63839,6 +63911,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 鍛鍊 锻炼 [duan4 lian4] /edz; sportol/test|mozgás/
 
+# ID-p03Cb6Q
+# Ver 2019-03-09T18:58:03Z GaoYanuo Stat-New >tanár,\nhttp://www.youdao.com/w/eng/%E7%99%BD%E5%90%83%E7%99%BD%E4%BD%8F/?spc=%E7%99%BD%E5%90%83%E7%99%BD%E4%BD%8F#keyfrom=dict.typo
+百吃百住 百吃百住 [bai3 chi1 bai3 zhu4] /ingyenélő/élősködés/
+
 # ID-p03Gk8d
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 河床 河床 [he2 chuang2] /folyó|meder/
@@ -64286,6 +64362,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-p13Gz5n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 瞄 瞄 [miao2] /céloz/szándékozik/
+
+# ID-p13Ju1A
+# Ver 2019-03-09T18:38:10Z GaoYanuo Stat-New >tanár, CC_CEDICT\nhttps://www.purpleculture.net/sample-sentences/?word=%E9%BB%91%E6%88%B7
+黑戶 黑户 [hei1 hu4] /illegálisan tartózkodó egyén/iratok nélküli személy/nem anyakönyvezett élettársi kapcsolat/
 
 # ID-p14rq0v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
