@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2019-03-10T03:00:01Z
+# Datenstand: 2019-03-19T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -7031,7 +7031,9 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 大陸 大陆 [da4 lu4] /kontinens/szárazföld/Kína (a Kínai Népköztársaság)/SZ:個|个[ge4],塊|块[kuai4]/
 # Ver 2019-03-09T19:40:22Z GaoYanuo Stat-Verif >Pontosítás. Hongkong és Makaó is a Kínai Népköztársaság része.
-大陸 大陆 [da4 lu4] /kontinens/szárazföld/Kína (a Kínai Népköztársaság Hongkong és Makaó nélkül)/SZ:個|个[ge4],塊|块[kuai4]/
+# 大陸 大陆 [da4 lu4] /kontinens/szárazföld/Kína (a Kínai Népköztársaság Hongkong és Makaó nélkül)/SZ:個|个[ge4],塊|块[kuai4]/
+# Ver 2019-03-18T07:18:32Z GaoYanuo Stat-Verif >Forrás: anyanyelvi tanár.
+大陸 大陆 [da4 lu4] /kontinens/szárazföld/A kontinentális Kína (a Kínai Népköztársaság Hongkong, Makaó és Tajvan nélkül)/SZ:個|个[ge4],塊|块[kuai4]/
 
 # ID-b63Ua4M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -42745,7 +42747,11 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 隨便 随便 [sui2 bian4] /ahogy tetszik/találomra/lezser/könnyelmű/
 # Ver 2019-03-09T14:35:48Z GaoYanuo Stat-Verif >Bartos-Hamar alapján bővítve.
-隨便 随便 [sui2 bian4] /ahogy tetszik/találomra/lezser/könnyelmű/önkényes/
+# 隨便 随便 [sui2 bian4] /ahogy tetszik/találomra/lezser/könnyelmű/önkényes/
+# Ver 2019-03-18T07:35:48Z GaoYanuo Stat-Verif >tanár, \nhttps://www.purpleculture.net/sample-sentences/?word=%E9%9A%8F%E4%BE%BF
+# 隨便 随便 [sui2 bian4] /ahogy tetszik/találomra/lezser/könnyelmű/önkényes/csak nyugodtan (invitáláskor, kínáláskor)/
+# Ver 2019-03-18T07:38:10Z GaoYanuo Stat-Verif >előző bejegyzés szerint
+隨便 随便 [sui2 bian4] /ahogy tetszik/találomra/lezser/könnyelmű/önkényes; féktelen/csak nyugodtan (invitáláskor, kínáláskor)/
 
 # ID-k07ru5W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -44436,6 +44442,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-k46Wi4O
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 陰暗面 阴暗面 [yin1 an4 mian4] /sötét oldal (dolgoké, társadalomé stb.)/
+
+# ID-k46Zt2k
+# Ver 2019-03-18T07:56:08Z GaoYanuo Stat-New >Forrás: tanár, Pleco megerősíti.\nhttp://www.ichacha.net/%E5%B0%8F%E8%91%B1%E6%8B%8C%E8%B1%86%E8%85%90,%E4%B8%80%E6%B8%85%E4%BA%8C%E7%99%BD.html
+小蔥拌豆腐一清二白 小葱拌豆腐一清二白 [xiao3 cong1 ban4 dou4 fu3 yi1 qing1 er4 bai2] /(kifejezés) Egyszerű,mint a faék. (Szó szerint: egyszerű, mint egy tál tofu hagymával.)/
 
 # ID-k47dm1a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -48636,7 +48646,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-l43RB7g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-增加 增加 [zeng1 jia1] /növel/emel/meg|nő (több lesz)/
+# 增加 增加 [zeng1 jia1] /növel/emel/meg|nő (több lesz)/
+# Ver 2019-03-18T15:22:03Z GaoYanuo Stat-Verif >forrás: tanár
+增加 增加 [zeng1 jia1] /növel/emel/meg|nő (több lesz)/gyarapít (tudást, stb.)/
 
 # ID-l44dp6I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -50296,7 +50308,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-l82yh9Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-養成 养成 [yang3 cheng2] /művel (rendszeresen csinál vmit)/szokásává tesz/meg|szerez/
+# 養成 养成 [yang3 cheng2] /művel (rendszeresen csinál vmit)/szokásává tesz/meg|szerez/
+# Ver 2019-03-18T15:46:13Z GaoYanuo Stat-Verif >https://www.purpleculture.net/sample-sentences/?word=%E5%85%BB%E6%88%90
+養成 养成 [yang3 cheng2] /művel (rendszeresen csinál vmit)/szokásává tesz; rászokik, szoktat/meg|szerez/
 
 # ID-l82Cx0N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -53545,7 +53559,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-m57OF5S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-猜 猜 [cai1] /ki|talál/
+# 猜 猜 [cai1] /ki|talál/
+# Ver 2019-03-18T15:07:01Z GaoYanuo Stat-Verif >tanár, Bartos-Hamar megerősíti
+猜 猜 [cai1] /ki|talál; találgat/saccol/gyanakszik; gyanít/
 
 # ID-m57Rq9S
 # Ver 2017-05-31T18:22:18Z 小川好友 Stat-New >A fogalomról kínai nyelven lehet olvasni itt/关于这个表现可以读汉语的这里: https://zh.wikipedia.org/wiki/菩提心\nA fogalomról magyar nyelven lehet olvasni a következő könyvben/关于这个表现可以读匈牙利语的这本书: Andrew Skilton: A buddhizmus rövid története, Damaru Könyvkiadó, 2013 (96-97. oldalon/从九十六页，到九十七页)
