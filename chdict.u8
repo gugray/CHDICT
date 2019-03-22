@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2019-03-21T03:00:01Z
+# Datenstand: 2019-03-22T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -50322,7 +50322,9 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 養成 养成 [yang3 cheng2] /művel (rendszeresen csinál vmit)/szokásává tesz/meg|szerez/
 # Ver 2019-03-18T15:46:13Z GaoYanuo Stat-Verif >https://www.purpleculture.net/sample-sentences/?word=%E5%85%BB%E6%88%90
-養成 养成 [yang3 cheng2] /művel (rendszeresen csinál vmit)/szokásává tesz; rászokik, szoktat/meg|szerez/
+# 養成 养成 [yang3 cheng2] /művel (rendszeresen csinál vmit)/szokásává tesz; rászokik, szoktat/meg|szerez/
+# Ver 2019-03-21T10:43:56Z GaoYanuo Stat-Verif >pontosvessző
+養成 养成 [yang3 cheng2] /művel (rendszeresen csinál vmit)/szokásává tesz; rászokik; szoktat/meg|szerez/
 
 # ID-l82Cx0N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
