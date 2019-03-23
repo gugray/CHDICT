@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2019-03-22T03:00:01Z
+# Datenstand: 2019-03-23T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -1570,6 +1570,10 @@
 # ID-a34nV3f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 煙花 烟花 [yan1 hua1] /tűzi|játék/
+
+# ID-a34zr4M
+# Ver 2019-03-22T17:49:42Z GaoYanuo Stat-New >tanár, CC-CEDICT
+筆順 笔顺 [bi3 shun4] /vonás sorrend (kínai karakterek írásakor)/
 
 # ID-a34HN4F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -39009,7 +39013,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-j18Io5A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-丟 丢 [diu1] /el|veszít/el|veszik/el|dob/
+# 丟 丢 [diu1] /el|veszít/el|veszik/el|dob/
+# Ver 2019-03-23T02:08:53Z GaoYanuo Stat-Verif >Bartos-Hamar és Youdao alapján kiegészítve.\nhttp://www.youdao.com/w/%E4%B8%A2/#keyfrom=dict2.top
+丟 丢 [diu1] /el|veszít/el|veszik/el|dob/elvet (ötletet pl.)/
 
 # ID-j18Lp2W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
