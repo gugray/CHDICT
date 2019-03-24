@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2019-03-23T03:00:01Z
+# Datenstand: 2019-03-24T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -35423,7 +35423,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-i33oP9x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-張開 张开 [zhang1 kai1] /ki|terít/ki|nyit/ki|terjed/
+# 張開 张开 [zhang1 kai1] /ki|terít/ki|nyit/ki|terjed/
+# Ver 2019-03-24T02:16:27Z GaoYanuo Stat-Verif >tanár, HSK4 standard course textbook, Pleco
+張開 张开 [zhang1 kai1] /ki|terít/ki|nyit/ki|terjed/ki|tát (szájat, pofát)/
 
 # ID-i33uR3Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -63688,6 +63690,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-o97rs3t
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 麻藥 麻药 [ma2 yao4] /érzéstelenítő/
+
+# ID-o97sT3R
+# Ver 2019-03-24T02:30:29Z GaoYanuo Stat-New >tankönyv, CC-CEDICT, Pleco
+受歡迎 受欢迎 [shou4 huan1 ying2] /népszerű/üdvözölt; üdvös/
 
 # ID-o97ud4x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
