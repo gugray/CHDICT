@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2019-03-24T03:00:01Z
+# Datenstand: 2019-03-30T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -8876,7 +8876,9 @@
 
 # ID-c08ai2h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-葉子 叶子 [ye4 zi5] /levél/SZ:片[pian4]/lomb; lombozat/
+# 葉子 叶子 [ye4 zi5] /levél/SZ:片[pian4]/lomb; lombozat/
+# Ver 2019-03-29T12:09:27Z GaoYanuo Stat-Verif >.
+葉子 叶子 [ye4 zi5] /levél (növényé)/SZ:片[pian4]/lomb; lombozat/
 
 # ID-c08bC4D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -9445,6 +9447,10 @@
 # ID-c23IY6j
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 流浪狗 流浪狗 [liu2 lang4 gou3] /kóbor kutya/
+
+# ID-c23MJ5X
+# Ver 2019-03-29T09:27:25Z GaoYanuo Stat-New >tanár, CC-CEDICT, Pleco, stb.
+死心眼兒 死心眼儿 [si3 xin1 yan3 r5] /makacs/fafej (nem meggyőzhető)/vaskalapos (szabályokhoz mereven ragaszkodó)/
 
 # ID-c24au4C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
