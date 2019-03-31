@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2019-03-30T03:00:01Z
+# Datenstand: 2019-03-31T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -4664,7 +4664,9 @@
 
 # ID-b06sO8s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-蒼蠅 苍蝇 [cang1 ying5] /légy/házi|légy/SZ:隻|只[zhi1]/
+# 蒼蠅 苍蝇 [cang1 ying5] /légy/házi|légy/SZ:隻|只[zhi1]/
+# Ver 2019-03-30T06:49:57Z GaoYanuo Stat-Verif >Azonos alakú szavak megkülönböztetése.
+蒼蠅 苍蝇 [cang1 ying5] /légy (rovar)/házi|légy/SZ:隻|只[zhi1]/
 
 # ID-b06wk3N
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -6001,7 +6003,9 @@
 
 # ID-b39rG0w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-達到 达到 [da2 dao4] /el|ér/
+# 達到 达到 [da2 dao4] /el|ér/
+# Ver 2019-03-30T07:52:28Z GaoYanuo Stat-Verif >Jelentésbővítés az angol fordításokban megadott "attain" alapján.
+達到 达到 [da2 dao4] /el|ér (rangot, szintet, célt)/el|jut (vmilyen szintre, hatalomra)/megvalósít (elképzelést, tervet)/
 
 # ID-b39va2f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -11010,7 +11014,9 @@
 
 # ID-c59io1Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-力氣 力气 [li4 qi5] /erő/erőfeszítés/SZ:把[ba3]/
+# 力氣 力气 [li4 qi5] /erő/erőfeszítés/SZ:把[ba3]/
+# Ver 2019-03-30T07:17:36Z GaoYanuo Stat-Verif >Zárójeles pontosítás a Bartos-Hamar és a HSK4 tankönyv alapján.
+力氣 力气 [li4 qi5] /erő (fizikai)/erőfeszítés/SZ:把[ba3]/
 
 # ID-c59ky9d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -27767,6 +27773,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 安寧 安宁 [an1 ning2] /békés/nyugodt/gondtalan/
 
+# ID-g50XL4J
+# Ver 2019-03-30T06:54:33Z GaoYanuo Stat-New >HSK4 tankönyv, CC-CEDICT
+事半功倍 事半功倍 [shi4 ban4 gong1 bei4] /(kifejezés) Két legyet egy csapásra. (többszörös haszna egy dolognak)//
+
 # ID-g50YI8L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 回憶 回忆 [hui2 yi4] /emlékezik/fel|idéz/emlék/
@@ -30544,7 +30554,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-h14Zn4p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-鹽 盐 [yan2] /só/SZ:粒[li4]/
+# 鹽 盐 [yan2] /só/SZ:粒[li4]/
+# Ver 2019-03-30T08:03:20Z GaoYanuo Stat-Verif >https://eng.ichacha.net/zaoju/%E7%9B%90.html
+鹽 盐 [yan2] /só (étkezési és kémiai értelemben is)/SZ:粒[li4]/
 
 # ID-h15ia4h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -51711,7 +51723,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-m16BQ9y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-節約 节约 [jie2 yue1] /takarékoskodik/spórol/
+# 節約 节约 [jie2 yue1] /takarékoskodik/spórol/
+# Ver 2019-03-30T07:04:36Z GaoYanuo Stat-Verif >a "takarékoskodik", "spórol" szinonimák. A "beoszt", "megóv" az angol fordításokban megadott "to economize", "to conserve" alapján hozzáadva. (HSK4 tankönyv, CC_CEDICT)
+節約 节约 [jie2 yue1] /megtakarít (energiát, időt, stb.)/takarékoskodik; spórol/beoszt (erőforrást, jövedelmet, stb.)/megóv (állagát, állapotát vminek)/
 
 # ID-m16Il1G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -56646,7 +56660,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-n30Gm3M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-商量 商量 [shang1 liang5] /meg|vitat/át|beszél/konzultál/
+# 商量 商量 [shang1 liang5] /meg|vitat/át|beszél/konzultál/
+# Ver 2019-03-30T07:59:41Z GaoYanuo Stat-Verif >Csak a magyarosabb változat kedvéért.
+商量 商量 [shang1 liang5] /meg|vitat/át|beszél/tanácskozik; konzultál/
 
 # ID-n30XM0F
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -57966,7 +57982,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-n60Ih1n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-仔細 仔细 [zi3 xi4] /óvatos/körül|tekintő/figyelmes/
+# 仔細 仔细 [zi3 xi4] /óvatos/körül|tekintő/figyelmes/
+# Ver 2019-03-30T07:35:11Z GaoYanuo Stat-Verif >A 4. jelentés a HSK4 "meticulous" fordítása alapján hozzáadva.
+仔細 仔细 [zi3 xi4] /óvatos/körül|tekintő/figyelmes/aprólékos, pedáns/
 
 # ID-n60Ql1T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
