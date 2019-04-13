@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2019-04-06T02:00:01Z
+# Datenstand: 2019-04-13T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -1225,7 +1225,9 @@
 
 # ID-a28en2q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-聽取 听取 [ting1 qu3] /hall (hírt)/értesül (vmiről)/hallgat (vmit)/
+# 聽取 听取 [ting1 qu3] /hall (hírt)/értesül (vmiről)/hallgat (vmit)/
+# Ver 2019-04-12T18:17:16Z GaoYanuo Stat-Verif >tanár,\nhttps://www.purpleculture.net/sample-sentences/?word=%E5%90%AC%E5%8F%96\nNehéz eldönteni, hogy a "hallgat" (vmit) mellé zárójelbe kéne-e írni, hogy "vkire", vagy új sorba, mivel teljesen más jelentés...
+聽取 听取 [ting1 qu3] /hall (hírt)/értesül (vmiről)/hallgat (vmit)/hallgat rá; megfogadja a tanácsát vkinek /
 
 # ID-a28fo4b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -53912,7 +53914,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-m65gG7X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-定 定 [ding4] /rögzít/el|dönt/meg|határoz/
+# 定 定 [ding4] /rögzít/el|dönt/meg|határoz/
+# Ver 2019-04-12T16:17:01Z GaoYanuo Stat-Verif >tanár, PLECO
+定 定 [ding4] /rögzít/el|dönt/meg|határoz/előfizet (újságot,stb.)/
 
 # ID-m65jC6r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
