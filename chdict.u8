@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2019-04-13T02:00:01Z
+# Datenstand: 2019-04-21T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -38233,6 +38233,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-i99vc6T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 能源 能源 [neng2 yuan2] /energia/energia|forrás/energia|ipar/SZ:個|个[ge4]/
+
+# ID-i99xP6c
+# Ver 2019-04-21T01:44:20Z GaoYanuo Stat-New >HSK4 tk., \nhttps://www.xyzdict.com/en/chinese-english/%E6%B7%B1%E5%8E%9A
+深厚 深厚 [shen1 hou4] /mély (érzelem, álom, stb)/
 
 # ID-i99Db3E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
