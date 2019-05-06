@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2019-04-24T02:00:01Z
+# Datenstand: 2019-05-06T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -5448,6 +5448,10 @@
 # ID-b23TH9x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 不安 不安 [bu4 an1] /nyughatatlan/nyugtalan/zavart/aggódik/szorong/
+
+# ID-b23YS7i
+# Ver 2019-05-05T19:23:45Z GaoYanuo Stat-New >HSK4 tankönyv, CC-CEDICT
+解渴 解渴 [jie3 ke3] /szomjat olt/
 
 # ID-b24fD6G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -13684,6 +13688,12 @@
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 邦 邦 [bang1] /ország/nemzet/állam/
 
+# ID-d19rY2E
+# Ver 2019-05-05T18:48:48Z GaoYanuo Stat-New >tanár, CC-CEDICT,\nhttps://www.lingq.com/en/learn-chinese-online/translate/zh/7303334/%E8%89%AF%E8%8D%AF%E8%8B%A6%E5%8F%A3%E5%88%A9%E4%BA%8E%E7%97%85-%E5%BF%A0%E8%A8%80%E9%80%86%E8%80%B3%E5%88%A9%E4%BA%8E%E8%A1%8C/
+# 良藥苦口利於病 良药苦口利于病 [liang2 yao4 ku3 kou3 li4 yu2 bing4] /(kifejezés)keserű pirula; hasznos, de kellemetlen//
+# Ver 2019-05-05T18:56:16Z GaoYanuo Stat-New >rossz vágólap kezelés miatt lemaradt a kifejezés második fele:\n忠言逆耳利於行 és nem tudom javítani.
+良藥苦口利於病 良药苦口利于病 [liang2 yao4 ku3 kou3 li4 yu2 bing4] /(kifejezés)keserű pirula; hasznos, de kellemetlen//
+
 # ID-d19tU4r
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 正方形 正方形 [zheng4 fang1 xing2] /négyzet/
@@ -17303,6 +17313,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-e04na8V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 莫名其妙 莫名其妙 [mo4 ming2 qi2 miao4] /(kifejezés) érthetetlen; meg|magyarázhatatlan/
+
+# ID-e04yk0I
+# Ver 2019-05-05T20:21:06Z GaoYanuo Stat-New >tanár, CC-CEDICT
+空間站 空间站 [kong1 jian1 zhan4] /űrállomás/
 
 # ID-e04yL3a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -23920,6 +23934,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 氣象 气象 [qi4 xiang4] /időjárás/meteorológia/
 
+# ID-f60xQ3F
+# Ver 2019-05-05T19:32:52Z GaoYanuo Stat-New >tanár, CC-CEDICT
+不可缺少 不可缺少 [bu4 ke3 que1 shao3] /nélkülözhetetlen/elengedhetetlen/kihagyhatatlan/
+
 # ID-f60CO6I
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 吹噓 吹嘘 [chui1 xu1] /henceg; kérkedik/
@@ -28294,6 +28312,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 名稱 名称 [ming2 cheng1] /meg|nevezés/meg|jelölés/
 
+# ID-g61gt9B
+# Ver 2019-05-05T20:30:54Z GaoYanuo Stat-New >tanár\nhttps://www.xyzdict.com/en/chinese-english/%E7%BA%B8%E5%9B%A2
+紙團 纸团 [zhi3 tuan2] /papírgalacsin/
+
 # ID-g61ks5b
 # Ver 2019-01-10T07:33:24Z GaoYanuo Stat-New >tankönyv\nhttps://m.hujiang.com/en/p665991/
 老樣子 老样子 [lao3 yang4 zi5] /szokásos ("a régi nóta")/
@@ -32574,6 +32596,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 塞車 塞车 [sai1 che1] /forgalmi dugó/dugóba kerül/be|dugul (út)/
 
+# ID-h67kC2U
+# Ver 2019-05-05T18:18:56Z GaoYanuo Stat-New >tanár,\nhttps://www.xyzdict.com/en/chinese-english/%E8%AE%B0%E5%BF%86%E5%8A%9B
+記憶力 记忆力 [ji4 yi4 li4] /emlékezőtehetség; memória/
+
 # ID-h67ul5B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 胡瓜 胡瓜 [hu2 gua1] /uborka/
@@ -34872,6 +34898,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-i19TQ9F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 授權 授权 [shou4 quan2] /engedélyez/fel|hatalmaz/
+
+# ID-i19Xb7G
+# Ver 2019-05-05T19:50:46Z GaoYanuo Stat-New >tanár\nhttps://www.xyzdict.com/en/chinese-english/%E5%8F%96%E6%9A%96
+取暖 取暖 [qu3 nuan3] /melegszik (valaki fázás után)/fűtés (szolgáltatás)/
 
 # ID-i20el9U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -39156,6 +39186,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-j20YZ4U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 坦克兵 坦克兵 [tan3 ke4 bing1] /tankos (tankban szolgáló katona)/
+
+# ID-j21bZ9a
+# Ver 2019-05-05T20:01:02Z GaoYanuo Stat-New >tanár, CC-CEDICT
+浴巾 浴巾 [yu4 jin1] /fürdőtörölköző/
 
 # ID-j21dj2C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -44046,6 +44080,10 @@ U盤 U盘 [U pan2] /pendrive/
 # 直梯 直梯 [zhi2 ti1] /létra/
 # Ver 2018-05-04T11:00:34Z gabor Stat-Verif >.
 直梯 直梯 [zhi2 ti1] /létra/
+
+# ID-k35gw3Z
+# Ver 2019-05-05T20:32:51Z GaoYanuo Stat-New >tanár\nhttps://www.xyzdict.com/en/chinese-english/%E5%81%9A%E8%B5%B7
+做起 做起 [zuo4 qi3] /elkezd/
 
 # ID-k35sT5r
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -54062,6 +54100,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 動態 动态 [dong4 tai4] /mozgás/tendencia/dinamikus/
 
+# ID-m67KK5b
+# Ver 2019-05-05T19:44:54Z GaoYanuo Stat-New >tanár\nhttps://www.xyzdict.com/en/chinese-english/%E5%A1%91%E5%BD%A2
+塑形 塑形 [su4 xing2] /formál, alakít/
+
 # ID-m67KV6l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 投資 投资 [tou2 zi1] /be|ruházás/be|ruház/be|fektet/
@@ -55856,6 +55898,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-n09tq8L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 茫茫 茫茫 [mang2 mang2] /hatalmas/határtalan/
+
+# ID-n09ML9s
+# Ver 2019-05-05T19:01:18Z GaoYanuo Stat-New >tanár, képtalálatok megerősítik\nhttps://www.lingq.com/en/learn-chinese-online/translate/zh/%E7%82%95/
+匟 炕 [kang4] /hagyományos (kemenceszerű) fűthető ágy/
 
 # ID-n09Zn4f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -64004,6 +64050,10 @@ U盤 U盘 [U pan2] /pendrive/
 # 百吃百住 百吃百住 [bai3 chi1 bai3 zhu4] /ingyenélő/élősködés/
 # Ver 2019-04-23T18:39:27Z GaoYanuo Stat-New >sajtóhiba, a百 cseréje 白-ra. (Roppant röstellem, hogy az első bevitelkor nem vettem észre.)
 白吃白住 白吃白住 [bai2 chi1 bai2 zhu4] /ingyenélő/élősködés/más nyakán él/
+
+# ID-p03Cm3W
+# Ver 2019-05-05T20:35:34Z GaoYanuo Stat-New >tanár\nhttps://www.xyzdict.com/en/chinese-english/%E9%AB%98%E9%93%81
+高鐵 高铁 [gao1 tie3] /gyorsvasút/
 
 # ID-p03Gk8d
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
