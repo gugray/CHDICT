@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2019-05-06T02:00:01Z
+# Datenstand: 2019-05-08T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -7378,6 +7378,10 @@
 # ID-b72Cp2L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 宣告 宣告 [xuan1 gao4] /be|jelent/ki|hirdet/
+
+# ID-b72Lv3E
+# Ver 2019-05-07T23:31:25Z GaoYanuo Stat-New >tanár, CC-CEDICT
+鉛筆盒 铅笔盒 [qian1 bi3 he2] /tolltartó/
 
 # ID-b72Ly9o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -15155,6 +15159,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-d53Rm8I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 代替 代替 [dai4 ti4] /helyett/helyettesít/
+
+# ID-d53Wr2Z
+# Ver 2019-05-07T23:16:17Z GaoYanuo Stat-New >tanár, CC-CEDICT
+C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-d54gr0p
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -43107,6 +43115,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 替 替 [ti4] /helyettesít/nevében (vkinek)/
 
+# ID-k13QU4p
+# Ver 2019-05-08T01:28:59Z GaoYanuo Stat-New >HSK4 tankönyv példamondat: 请大家节约使用塑料袋，或者购物时自卑购物袋。\nhttps://www.xyzdict.com/en/chinese-english/%E8%87%AA%E5%A4%87
+自備 自备 [zi4 bei4] /gondoskodik saját magának vmiről/hoz magával saját vmit/önerőből képes vmire/
+
 # ID-k13WB6D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 單身 单身 [dan1 shen1] /egyedül|álló (nem házas)/független/
@@ -46236,6 +46248,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 球棒 球棒 [qiu2 bang4] /ütő (baseball, cricket stb.)/
 
+# ID-k88hk6H
+# Ver 2019-05-07T23:27:30Z GaoYanuo Stat-New >tanár, CC-CEDICT
+一次性 一次性 [yi1 ci4 xing4] /egyszer használatos/eldobható/
+
 # ID-k88kL1C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 為期 为期 [wei2 qi1] /-ig (egy adott időpontig)/-ig (egy adott időn át)/tart (valamennyi ideig)/idő|tartam/
@@ -46883,7 +46899,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-l01IF6m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-降低 降低 [jiang4 di1] /csökkent/le|szállít/
+# 降低 降低 [jiang4 di1] /csökkent/le|szállít/
+# Ver 2019-05-08T00:00:14Z GaoYanuo Stat-Verif >a "leszállít" érthető úgy is, hogy gyártó/eladó a megrendelő részére eljuttat.
+降低 降低 [jiang4 di1] /csökkent/le|szállít(árat)/
 
 # ID-l02io4J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -46912,6 +46930,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-l02vg6C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 遭到 遭到 [zao1 dao4] /el|szenved (szerencsétlenséggel találkozik)/
+
+# ID-l02CY2w
+# Ver 2019-05-07T23:13:25Z GaoYanuo Stat-New >tanár\nhttps://www.xyzdict.com/en/chinese-english/%E9%97%A8%E7%94%9F
+門生 门生 [men2 sheng1] /tanítvány/
 
 # ID-l02JF3p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -54800,6 +54822,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 名譽 名誉 [ming2 yu4] /hírnév/jó hírnév/becsület/tiszteletbeli/
 
+# ID-m83gv2O
+# Ver 2019-05-07T23:14:29Z GaoYanuo Stat-New >tanár, CC-CEDICT
+梅西 梅西 [mei2 xi1] /Lionel Messi argentin labdarúgó/
+
 # ID-m83rd0F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 西 西 [xi1] /nyugat/nyugati/
@@ -61661,6 +61687,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-o48bE7i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 負責 负责 [fu4 ze2] /felelős (vmiért; felelős pozícióban van)/felelősséggel van/
+
+# ID-o48nu3I
+# Ver 2019-05-07T23:17:34Z GaoYanuo Stat-New >tanár, CC-CEDICT
+進球 进球 [jin4 qiu2] /gól/gólt lő/
 
 # ID-o48wv4Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
