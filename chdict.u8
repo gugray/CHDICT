@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2019-05-08T02:00:01Z
+# Datenstand: 2019-05-28T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -27081,7 +27081,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-g34Pe5y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-證 证 [zheng4] /igazolás/tanúsítvány/bizonyíték/igazol/bizonyít/
+# 證 证 [zheng4] /igazolás/tanúsítvány/bizonyíték/igazol/bizonyít/
+# Ver 2019-05-27T13:44:12Z Adam Stat-Verif >összefüggő jelentések egy helyre
+證 证 [zheng4] /igazolás, tanúsítvány, bizonyíték/igazol, bizonyít/
 
 # ID-g34VD4H
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -34923,6 +34925,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 前景 前景 [qian2 jing3] /előtér/kilátás/távlat/perspektíva/
 
+# ID-i20nt2g
+# Ver 2019-05-27T13:45:47Z Adam Stat-New >min. 4 különböző Pleco-szótár alapján
+居留證 居留证 [ju1 liu2 zheng4] /tartózkodási engedély/
+
 # ID-i20rG4x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 突出 突出 [tu1 chu1] /prominens; ki|emelkedő/ki|szögell; ki|emelkedik; ki|türemkedik/
@@ -39197,7 +39203,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-j21bZ9a
 # Ver 2019-05-05T20:01:02Z GaoYanuo Stat-New >tanár, CC-CEDICT
-浴巾 浴巾 [yu4 jin1] /fürdőtörölköző/
+# 浴巾 浴巾 [yu4 jin1] /fürdőtörölköző/
+# Ver 2019-05-27T20:32:25Z Adam Stat-New >kereshetőség végett | jel a második elem elé
+浴巾 浴巾 [yu4 jin1] /fürdő|törölköző/
 
 # ID-j21dj2C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -56333,6 +56341,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # ID-n20xG4p
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 麥酒 麦酒 [mai4 jiu3] /sör (gabonából készült szeszesital)/
+
+# ID-n20zP8p
+# Ver 2019-05-27T13:24:03Z Adam Stat-New >5 különböző Pleco-szótár
+居留 居留 [ju1 liu2] /tartózkodik, él, lakik (vhol)/tartózkodás/
 
 # ID-n20Pp0m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
