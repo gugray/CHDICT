@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2019-06-01T02:00:01Z
+# Datenstand: 2019-07-02T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -709,6 +709,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 林 林 [lin2] /erdő/SZ:片[pian4]/(családnév) Lin/
 
+# ID-a15Zc4i
+# Ver 2019-07-01T15:24:45Z GaoYanuo Stat-New >http://translation-dictionary.net/chinese-english/%E6%B6%88%E8%80%97%E9%87%8F
+消耗量 消耗量 [xiao1 hao4 liang4] /fogyasztás (pl. autóé)/fajlagos fogyasztás (egységnyi termék rezsiköltsége)/fogyasztási ráta/felhasznált mennyiség/
+
 # ID-a16eJ5S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 尼 尼 [ni2] /Buddhista apáca/(fonetikus átiratokban gyakran használt írásjegy)/
@@ -786,6 +790,10 @@
 # 所 所 [suo3] /hely/SZ:個|个[ge4]/(számlálószó: épületre)/(nominalizáló-passzivizáló igei prefixum: tk. befejezett melléknévi igenévképzőnek felel meg)/(szenvedő alakot képző igei prefixum)/
 # Ver 2017-05-21T19:56:05Z Adam Stat-Verif >"melléknévi igenév képzője" vagy "melléknéviigenév-képző" [szabályzat, 141. b)]
 所 所 [suo3] /hely/SZ:個|个[ge4]/(számlálószó: épületre)/(nominalizáló-passzivizáló igei prefixum: tk. befejezett melléknévi igenév képzőjének felel meg)/(szenvedő alakot képző igei prefixum)/
+
+# ID-a18ak9f
+# Ver 2019-07-01T15:35:48Z GaoYanuo Stat-New >https://www.xyzdict.com/en/chinese-english/%E8%BE%93%E5%87%BA
+輸出 输出 [shu1 chu1] /kimenet, output/kivitel, export/
 
 # ID-a18bt5Q
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -4274,6 +4282,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 搖擺 摇摆 [yao2 bai3] /lenget/lóbál/ingadozik/
 
+# ID-a97rw9e
+# Ver 2019-07-01T16:35:00Z GaoYanuo Stat-New >munkahely, képtalálatok
+工作原理 工作原理 [gong1 zuo4 yuan2 li3] /működési elv/
+
 # ID-a97rB4r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 殺死 杀死 [sha1 si3] /meg|öl/meg|gyilkol/
@@ -7379,6 +7391,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 宣告 宣告 [xuan1 gao4] /be|jelent/ki|hirdet/
 
+# ID-b72Il6G
+# Ver 2019-07-01T16:51:39Z GaoYanuo Stat-New >http://translation-dictionary.net/chinese-english/%E8%BF%9B%E6%96%99
+進料 进料 [jin4 liao4] /betáp|lálás/
+
 # ID-b72Lv3E
 # Ver 2019-05-07T23:31:25Z GaoYanuo Stat-New >tanár, CC-CEDICT
 鉛筆盒 铅笔盒 [qian1 bi3 he2] /tolltartó/
@@ -8688,6 +8704,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 照常 照常 [zhao4 chang2] /mint mindig/a szokásos/
 
+# ID-c03TC7n
+# Ver 2019-07-02T00:00:36Z GaoYanuo Stat-New >munkahely, szokásos szótárak
+管線 管线 [guan3 xian4] /csővezeték/
+
 # ID-c03Wu7O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 租 租 [zu1] /ki|bérel/bérbe ad/bérleti díj/
@@ -8749,6 +8769,10 @@
 # ID-c04Iu5Z
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 遠足 远足 [yuan3 zu2] /kirándulás/túra/
+
+# ID-c04Lz2N
+# Ver 2019-07-01T15:29:59Z GaoYanuo Stat-New >https://www.xyzdict.com/en/chinese-english/%E4%BD%8D%E5%8F%B7
+位號 位号 [wei4 hao4] /tételszám/pozíciószám/
 
 # ID-c04VX4w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -9833,7 +9857,9 @@
 
 # ID-c33gg6G
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
-旁路 旁路 [pang2 lu4] /el|kerülés; meg|kerülés/sönt (elektronika)/
+# 旁路 旁路 [pang2 lu4] /el|kerülés; meg|kerülés/sönt (elektronika)/
+# Ver 2019-07-01T15:56:39Z GaoYanuo Stat-Verif >forrás: munkahely
+旁路 旁路 [pang2 lu4] /el|kerülés; meg|kerülés/sönt (elektronika)/by-pass (vegyipar) kerülő -szelep, -vezeték/
 
 # ID-c33lG9Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -10948,6 +10974,10 @@
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 首付 首付 [shou3 fu4] /foglaló (előre kifizetett összeg)/
 
+# ID-c57Mf7d
+# Ver 2019-07-01T16:39:20Z GaoYanuo Stat-New >munkahely, képtalálatok
+拉西環 拉西环 [la1 xi1 huan2] /(átirat) Raschig gyűrű (olyan hengerpalást, amelynek az átmérője egyenlő a magasságával)/
+
 # ID-c57VY1E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 酒精 酒精 [jiu3 jing1] /alkohol/etanol/
@@ -11074,7 +11104,8 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 不得不 不得不 [bu4 de2 bu4] /nincs más választása, mint hogy.../muszáj/kell/
 # Ver 2018-10-06T01:31:23Z GaoYanuo Stat-Verif >a "nincs más választása, mint hogy..." helyett azt írnám, hogy kénytelen.
-不得不 不得不 [bu4 de2 bu4] /nincs más választása, mint hogy.../muszáj/kell/
+# Ver 2019-07-01T14:40:01Z GaoYanuo Stat-Verif >Ha valaki konkrétan erre keresne rá. (mármint a "kénytelenre")
+不得不 不得不 [bu4 de2 bu4] /nincs más választása, mint hogy.../muszáj/kell/kénytelen (megteni vmit)/
 
 # ID-c59Vd7o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -12234,7 +12265,9 @@
 
 # ID-c87iw0r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-能力 能力 [neng2 li4] /képesség/SZ:個|个[ge4]/
+# 能力 能力 [neng2 li4] /képesség/SZ:個|个[ge4]/
+# Ver 2019-07-01T22:27:10Z GaoYanuo Stat-Verif >https://www.xyzdict.com/en/chinese-english/%E8%83%BD%E5%8A%9B
+能力 能力 [neng2 li4] /képesség/kapacitás/igénybevétel/kompetencia/SZ:個|个[ge4]/
 
 # ID-c87jT0R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -14638,6 +14671,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 司機 司机 [si1 ji1] /sofőr/SZ:個|个[ge4]/
 
+# ID-d42ar0u
+# Ver 2019-07-02T00:10:22Z GaoYanuo Stat-New >https://www.xyzdict.com/en/chinese-english/%E6%8A%95%E7%94%A8
+投用 投用 [tou2 yong4] /beüzemel (gépet)/használatba vesz/
+
 # ID-d42fO9L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 簡 简 [jian3] /egyszerű/levél (írott üzenet)/ki|választ/
@@ -15163,6 +15200,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-d53Wr2Z
 # Ver 2019-05-07T23:16:17Z GaoYanuo Stat-New >tanár, CC-CEDICT
 C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
+
+# ID-d54cm6r
+# Ver 2019-07-01T16:28:02Z GaoYanuo Stat-New >munkahely, képtalálatok
+颳闆薄膜蒸發器 刮板薄膜蒸发器 [gua1 ban3 bo2 mo2 zheng1 fa1 qi4] /kaparókéses filmbepárló/
 
 # ID-d54gr0p
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -16451,6 +16492,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 毛重 毛重 [mao2 zhong4] /bruttó súly/
 
+# ID-d82Tt0R
+# Ver 2019-07-01T16:36:56Z GaoYanuo Stat-New >munkahely, képtalálatok
+大修 大修 [da4 xiu1] /nagyjavítás/TMK (tervszerű megelőző karbantartás)/
+
 # ID-d82Yg4W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 就職 就职 [jiu4 zhi2] /hivatalba lép/
@@ -16528,6 +16573,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # ID-d84wz1E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 滿 满 [man3] /teljes/egészen/elégedett/meg|tölt/eléri a határt/(családnév) Man/madzsu/
+
+# ID-d84Bk9h
+# Ver 2019-07-01T16:01:31Z GaoYanuo Stat-New >https://www.xyzdict.com/en/chinese-english/%E8%B0%83%E8%8A%82%E9%98%80
+調節閥 调节阀 [diao4 jie2 fa2] /szabályzószelep/
 
 # ID-d84Kz3d
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -16797,6 +16846,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 揮桿 挥杆 [hui1 gan1] /lendít; üt (golfban)/lendítés; ütés (golfban)/
 
+# ID-d92ah6n
+# Ver 2019-07-01T15:59:08Z GaoYanuo Stat-New >https://www.xyzdict.com/en/chinese-english/%E4%B8%B2%E7%BA%A7
+串級 串级 [chuan4 ji2] /kaszkád (az egyik egység kimenete a másik bemenete)/
+
 # ID-d92cP8O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 失事 失事 [shi1 shi4] /balesetet szenved (hajó, repülő)/
@@ -16836,6 +16889,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # ID-d92VD3j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 排放 排放 [pai2 fang4] /ki|bocsátás (pl. szennyező anyagé)/
+
+# ID-d93hh4d
+# Ver 2019-07-01T16:45:49Z GaoYanuo Stat-New >http://translation-dictionary.net/chinese-english/%E5%81%9C%E7%95%99%E6%97%B6%E9%97%B4
+停留時間 停留时间 [ting2 liu2 shi2 jian1] /tartózkodási idő/
 
 # ID-d93jQ0D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -18072,6 +18129,12 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 詢問 询问 [xun2 wen4] /érdeklődik (formálisan utánajár, kérdez)/
 
+# ID-e23dM7g
+# Ver 2019-07-01T16:25:30Z GaoYanuo Stat-New >munkahely, képtalálatok
+# 冷卻塔 冷却塔 [leng3 que4 ta3] /hűtötorony/
+# Ver 2019-07-01T16:25:57Z GaoYanuo Stat-New >ékezethiba
+冷卻塔 冷却塔 [leng3 que4 ta3] /hűtőtorony/
+
 # ID-e23iE4L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 乖乖 乖乖 [guai1 guai5] /kedves; drága (gyerekre)/engedelmes; jól viselkedő/
@@ -18138,7 +18201,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-e24bo9f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-遙控 遥控 [yao2 kong4] /táv|irányító/
+# 遙控 遥控 [yao2 kong4] /táv|irányító/
+# Ver 2019-07-01T16:47:26Z GaoYanuo Stat-Verif >szokásos szótárak (CC-CEDICT, Youdao, Yandex, Pleco, stb) megerősítik.
+遙控 遥控 [yao2 kong4] /táv|irányító/távirányítás, távműködtetés/
 
 # ID-e24dc1f
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -22415,6 +22480,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 戰役 战役 [zhan4 yi4] /hadjárat/csata/
 
+# ID-f27aZ1g
+# Ver 2019-07-01T16:09:07Z GaoYanuo Stat-New >http://translation-dictionary.net/chinese-english/%E9%87%8D%E7%BB%93%E6%99%B6
+重結晶 重结晶 [chong2 jie2 jing1] /átkristályosítás (tisztítási művelet)/
+
 # ID-f27fY2i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 自從 自从 [zi4 cong2] /óta/azóta, hogy/
@@ -24038,6 +24107,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 養雞場 养鸡场 [yang3 ji1 chang3] /csirke|farm/
 
+# ID-f63gV8I
+# Ver 2019-07-01T15:37:51Z GaoYanuo Stat-New >https://www.xyzdict.com/en/chinese-english/%E5%8F%98%E9%87%8F
+變量 变量 [bian4 liang4] /változó (műsz. és tud. ért.)/
+
 # ID-f63if8C
 # Ver 2017-06-07T10:48:02Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
 華為 华为 [hua2 wei2] /Huawei (cégnév)/
@@ -24393,6 +24466,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # ID-f72nX5k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 旋律 旋律 [xuan2 lü4] /dallam; melódia/ritmus/
+
+# ID-f72oo7N
+# Ver 2019-07-01T23:33:42Z GaoYanuo Stat-New >munkahely, képtalálatok
+界位 界位 [jie4 wei4] /fázishatár (kémia)/
 
 # ID-f72oM6U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -25739,7 +25816,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 朝鮮 朝鲜 [chao2 xian3] /(földrajzi név) Észak-Korea/
 # Ver 2017-05-26T17:38:35Z Adam Stat-Verif >pontosítás a kínai nyelvű szócikk alapján
-朝鮮 朝鲜 [chao2 xian3] /(földrajzi név) Észak-Korea (a szárazföldi Kínában használatos nevén)/
+# 朝鮮 朝鲜 [chao2 xian3] /(földrajzi név) Észak-Korea (a szárazföldi Kínában használatos nevén)/
+# Ver 2019-07-01T14:21:26Z GaoYanuo Stat-Verif >forrás: tanár
+朝鮮 朝鲜 [chao2 xian3] /(földrajzi név) Észak-Korea (a szárazföldi Kínában használatos nevén)/koreai nemzetiség, etnikum/
 
 # ID-g02wn7W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -25752,6 +25831,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # ID-g02OT4p
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 全球性 全球性 [quan2 qiu2 xing4] /globális/az egész világra kiterjedő/
+
+# ID-g03fO1U
+# Ver 2019-07-01T14:26:15Z GaoYanuo Stat-New >szokásos szótárak megerősítik\nhttps://www.xyzdict.com/en/chinese-english/%E5%85%A5%E5%AD%A6%E8%80%83%E8%AF%95
+入學考試 入学考试 [ru4 xue2 kao3 shi4] /felvételi vizsga/
 
 # ID-g03re8a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -26321,6 +26404,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 火力 火力 [huo3 li4] /tűz|erő/
 
+# ID-g14HM4S
+# Ver 2019-07-01T16:31:35Z GaoYanuo Stat-New >http://translation-dictionary.net/chinese-english/%E5%89%AF%E4%BA%A7%E7%89%A9
+副產物 副产物 [fu4 chan3 wu4] /melléktermék/
+
 # ID-g14IU6I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 盛開 盛开 [sheng4 kai1] /virágzó/virágban pompázó/
@@ -26464,6 +26551,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # ID-g18Au5N
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 咬痕 咬痕 [yao3 hen2] /harapás|nyom/
+
+# ID-g18Ay2K
+# Ver 2019-07-01T16:12:06Z GaoYanuo Stat-New >http://translation-dictionary.net/chinese-english/%E7%85%AE%E6%B5%93
+煮濃 煮浓 [zhu3 nong2] /bepárlás (oldat töményítése az oldószer elpárologtatásával)/
 
 # ID-g18ES7w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -26617,6 +26708,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 父老 父老 [fu4 lao3] /vének (pl. egy törzsben)/
 
+# ID-g22rO5m
+# Ver 2019-07-01T16:42:14Z GaoYanuo Stat-New >munkahely, képtalálatok
+反應器 反应器 [fan3 ying1 qi4] /reaktor (vegyi, nukleáris)/
+
 # ID-g22wU8w
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 呼叫器 呼叫器 [hu1 jiao4 qi4] /személy|hívó; csipogó/
@@ -26729,7 +26824,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-g25Vz8M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-加 加 [jia1] /hozzá|ad/plusz/
+# 加 加 [jia1] /hozzá|ad/plusz/
+# Ver 2019-07-01T16:19:48Z GaoYanuo Stat-Verif >forrás: munkahely
+加 加 [jia1] /hozzá|ad/plusz/fölösleg (kémiában, vegyiparban)/
 
 # ID-g26cV8V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -28029,6 +28126,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # ID-g55fr5R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 大車 大车 [da4 che1] /szekér; kordé/nagy jármű/
+
+# ID-g55iF1A
+# Ver 2019-07-01T16:52:31Z GaoYanuo Stat-New >http://translation-dictionary.net/chinese-english/%E7%BB%88%E4%BA%A7%E7%89%A9
+終產物 终产物 [zhong1 chan3 wu4] /végtermék/
 
 # ID-g55pF2V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -29664,7 +29765,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-g93IS6O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-古代 古代 [gu3 dai4] /ókor/rég|múlt/
+# 古代 古代 [gu3 dai4] /ókor/rég|múlt/
+# Ver 2019-07-01T14:20:27Z GaoYanuo Stat-Verif >forrás: anyanyelvi tanár
+古代 古代 [gu3 dai4] /ókor/rég|múlt/ősi/
 
 # ID-g93ON9d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -31280,6 +31383,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 排水管 排水管 [pai2 shui3 guan3] /lefolyó/eresz|csatorna/
 
+# ID-h33Us4y
+# Ver 2019-07-01T16:14:37Z GaoYanuo Stat-New >http://translation-dictionary.net/chinese-english/%E6%B5%AE%E7%8E%AF%E5%AF%86%E5%B0%81
+浮環密封 浮环密封 [fu2 huan2 mi4 feng1] /csúszógyűrűs tömítés/
+
 # ID-h33VJ1o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 對應 对应 [dui4 ying4] /meg|felel (vmi másnak)/megfelelő (vmi másnak)/
@@ -32064,6 +32171,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 過人 过人 [guo4 ren2] /kitűnik/rendkívüli/kiemelkedő/
 
+# ID-h53Xf8z
+# Ver 2019-07-01T16:24:06Z GaoYanuo Stat-New >http://translation-dictionary.net/chinese-english/%E6%8D%A2%E7%83%AD%E5%99%A8
+換熱器 换热器 [huan4 re4 qi4] /hőcserélő/
+
 # ID-h54bW8n
 # Ver 2017-12-08T18:55:26Z GaoYanuo Stat-New >forrás: személyes\nref.:http://www.archchinese.com/chinese_english_dictionary.html?find=%E8%82%89%E5%86%BB\nés http://www.youdao.com/w/%E8%82%89%E5%86%BB/#keyfrom=dict2.top
 # 肉凍 肉冻 [rou4 dong4] /aszpik; kocsonya/
@@ -32593,6 +32704,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # ID-h66Rf9c
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 空擋 空挡 [kong1 dang3] /üres (sebesség, autóban)/
+
+# ID-h66Rm0S
+# Ver 2019-07-01T16:07:19Z GaoYanuo Stat-New >http://translation-dictionary.net/chinese-english/%E5%81%8F%E4%BD%8E
+偏低 偏低 [pian1 di1] /alacsony (vminek az értéke, helyzete)/
 
 # ID-h66Wm1M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -33931,6 +34046,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 慰問 慰问 [wei4 wen4] /részvétet nyilvánít/ki|fejezi jó|kívánságait/együtt|érzéséről biztosítja/vigasztal/
 
+# ID-h96wH5o
+# Ver 2019-07-01T22:34:16Z GaoYanuo Stat-New >https://www.xyzdict.com/en/chinese-english/%E6%B7%B7%E5%90%88%E5%99%A8
+混合器 混合器 [hun4 he2 qi4] /keverő, mixer, blender (gép)/
+
 # ID-h96zf2P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 下雨 下雨 [xia4 yu3] /esik (eső)/
@@ -34005,6 +34124,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 請客 请客 [qing3 ke4] /meg|hív (vacsorára)/vacsorát ad/vendégeket fogad/
 
+# ID-h98dU3E
+# Ver 2019-07-01T14:35:53Z GaoYanuo Stat-New >https://www.xyzdict.com/en/chinese-english/%E4%B9%B1%E6%89%94%E5%9E%83%E5%9C%BE
+亂扔垃圾 乱扔垃圾 [luan4 reng1 la1 ji1] /szemetel/
+
 # ID-h98jh9L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 表彰 表彰 [biao3 zhang1] /elismerőleg említ/dicsér; ki|tüntet/
@@ -34042,6 +34165,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # ID-h98XI6p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 摔交 摔交 [shuai1 jiao1] /birkózik/el|esik/
+
+# ID-h99zk7l
+# Ver 2019-07-01T15:40:59Z GaoYanuo Stat-New >forrás: munkahelyi szakzsargon. ref.:\nhttps://www.xyzdict.com/en/chinese-english/%E6%93%8D%E4%BD%9C%E5%8F%98%E9%87%8F
+操作變量 操作变量 [cao1 zuo4 bian4 liang4] /manipulált változó/végrehajtójel, beavatkozó jel/számított változó/
 
 # ID-h99HA1e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -34836,7 +34963,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-i16XR3T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-循環 循环 [xun2 huan2] /kering/köröz/keringés/ciklus/
+# 循環 循环 [xun2 huan2] /kering/köröz/keringés/ciklus/
+# Ver 2019-07-01T22:23:01Z GaoYanuo Stat-Verif >az iparban inkább a cirkulációt használják
+循環 循环 [xun2 huan2] /kering/köröz/keringés, cirkuláció/ciklus/
 
 # ID-i16YE6I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -35072,6 +35201,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # ID-i23JY4m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 模式 模式 [mo2 shi4] /modell/minta/
+
+# ID-i23PC5v
+# Ver 2019-07-01T22:29:16Z GaoYanuo Stat-New >https://www.xyzdict.com/en/chinese-english/%E5%82%A8%E5%AD%98%E7%BD%90
+儲存罐 储存罐 [chu3 cun2 guan4] /tároló tartály/
 
 # ID-i23Rm6K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -36264,6 +36397,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 迫不及待 迫不及待 [po4 bu4 ji2 dai4] /(kifejezés) türelmetlen; alig várja, hogy; sürgős; a legnagyobb sietséggel/
 
+# ID-i52KU2w
+# Ver 2019-07-01T23:41:04Z GaoYanuo Stat-New >https://www.xyzdict.com/en/chinese-english/%E4%BC%B4%E7%83%AD
+伴熱 伴热 [ban4 re4] /kísérő fűtés (csővezetékek külső fűtése)/
+
 # ID-i52Np7Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 分裂 分裂 [fen1 lie4] /hasad/osztódik/külön|válik/
@@ -37452,7 +37589,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-i79dj0b
 # Ver 2018-01-24T06:36:35Z GaoYanuo Stat-New >http://www.youdao.com/w/%E8%B4%9F%E8%8D%B7/#keyfrom=dict2.top
-負荷 负荷 [fu4 he4] /teher (fizikai)/terhelés (fizikai)/
+# 負荷 负荷 [fu4 he4] /teher (fizikai)/terhelés (fizikai)/
+# Ver 2019-07-01T22:20:48Z GaoYanuo Stat-New >https://www.xyzdict.com/en/chinese-english/%E8%B4%9F%E8%8D%B7\n
+負荷 负荷 [fu4 he4] /teher (fizikai)/terhelés (fizikai)/üzemi terhelés/
 
 # ID-i79nm6R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -37465,6 +37604,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # ID-i79qy2Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 刻薄 刻薄 [ke4 bo2] /nyers; csípős; durva; barátságtalan/
+
+# ID-i79tc2R
+# Ver 2019-07-01T16:16:18Z GaoYanuo Stat-New >http://translation-dictionary.net/chinese-english/%E9%99%8D%E8%86%9C%E8%92%B8%E5%8F%91%E5%99%A8
+降膜蒸發器 降膜蒸发器 [jiang4 mo2 zheng1 fa1 qi4] /esőfilmes filmbepárló/
 
 # ID-i79Ia8C
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -38730,6 +38873,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 兵力 兵力 [bing1 li4] /katonai erő/csapatok; sereg/
 
+# ID-j10eU1H
+# Ver 2019-07-01T23:25:01Z GaoYanuo Stat-New >排出
+排出 排出 [pai2 chu1] /kibocsájtás/kiválasztás(anyagé pl. mirigy)/kiadás (anyagot valahonnan)/ürítés/
+
 # ID-j10zv1V
 # Ver 2017-10-09T20:45:13Z gabor Stat-New >CEDICT; korpusz
 松果 松果 [song1 guo3] /fenyő|toboz/
@@ -39111,7 +39258,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-j19jI3O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-只好 只好 [zhi3 hao3] /más lehetőség híján/kell/muszáj/kényszerűen/
+# 只好 只好 [zhi3 hao3] /más lehetőség híján/kell/muszáj/kényszerűen/
+# Ver 2019-07-01T14:37:45Z GaoYanuo Stat-Verif >Ha valaki erre keresne rá, meglegyen.
+只好 只好 [zhi3 hao3] /más lehetőség híján/kell/muszáj/kényszerűen/kénytelen (megtenni vmit)/
 
 # ID-j19zZ9n
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -39570,6 +39719,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # ID-j30ef0R
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 啦啦隊長 啦啦队长 [la1 la1 dui4 zhang3] /pompom|lány/
+
+# ID-j30jF1M
+# Ver 2019-07-01T23:16:05Z GaoYanuo Stat-New >https://www.xyzdict.com/en/chinese-english/%E5%BE%85%E5%91%BD
+待命 待命 [dai4 ming4] /készenlét, stand-by/
 
 # ID-j30nj4A
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -40162,6 +40315,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # ID-j44em4e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 問好 问好 [wen4 hao3] /üzdvözöl/üdvözlet/köszöntés/
+
+# ID-j44fP3F
+# Ver 2019-07-01T23:36:48Z GaoYanuo Stat-New >https://www.xyzdict.com/en/chinese-english/%E7%B2%98%E5%BA%A6
+粘度 粘度 [nian2 du4] /viszkozitás (anyag belső súrlódása)/
 
 # ID-j44fV5D
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -40941,7 +41098,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-j62AT0R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-回收 回收 [hui2 shou1] /újra|hasznosít/vissza|szerez/vissza|állít/
+# 回收 回收 [hui2 shou1] /újra|hasznosít/vissza|szerez/vissza|állít/
+# Ver 2019-07-01T16:49:20Z GaoYanuo Stat-Verif >szokásos szótárak (CC-CEDICT, Youdao, Yandex, Pleco, stb) megerősítik.
+# 回收 回收 [hui2 shou1] /újra|hasznosít/vissza|szerez/vissza|állít/visszanyerés/regenerálsás/
+# Ver 2019-07-01T16:49:43Z GaoYanuo Stat-Verif >elgépelés javítás
+回收 回收 [hui2 shou1] /újra|hasznosít/vissza|szerez/vissza|állít/visszanyerés/regenerálás/
 
 # ID-j62Fy1x
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -41331,7 +41492,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-j72pf1N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-遍 遍 [bian4] /mindenhol/(számlálószó: tevékenység\cselekvés egyszeri lefolyása; -szer)/
+# 遍 遍 [bian4] /mindenhol/(számlálószó: tevékenység\cselekvés egyszeri lefolyása; -szer)/
+# Ver 2019-07-01T15:13:38Z GaoYanuo Stat-Verif >Zárójelből kivéve, mert a 次, 倍 és 乘 esetében is önálló szó a "-szor"
+遍 遍 [bian4] /mindenhol/-szor, -szer (számlálószó: tevékenység\cselekvés egyszeri, teljes lefolyása)/
 
 # ID-j72zt9A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -41670,6 +41833,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # ID-j81if6I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 腥 腥 [xing1] /hal|szagú/nyers hús/
+
+# ID-j81iJ0U
+# Ver 2019-07-01T14:43:21Z GaoYanuo Stat-New >Sokat hezitáltam, felvegyem -e, de a tanár szerint meglehetősen megszilárdult kifejezés, gyakran használják. Ref.:\nhttps://www.xyzdict.com/en/chinese-english/%E4%B8%80%E5%AE%9A%E4%BB%A5%E6%9C%80%E5%BF%AB%E7%9A%84%E9%80%9F%E5%BA%A6
+一定以最快的速度 一定以最快的速度 [yi1 ding4 yi3 zui4 kuai4 de5 su4 du4] /(kifejezés) A lehető leggyorsabban/amint csak lehetséges/
 
 # ID-j81nh1V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -42248,6 +42415,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 民間 民间 [min2 jian1] /az emberek között/népszerű/népi/nem hivatalos/
 
+# ID-j93Jf8K
+# Ver 2019-07-01T23:57:32Z GaoYanuo Stat-New >https://www.xyzdict.com/en/chinese-english/%E6%9C%BA%E6%A2%B0%E5%AF%86%E5%B0%81
+機械密封 机械密封 [ji1 xie4 mi4 feng1] /tömszelence, tengelytömítés/
+
 # ID-j93Lx6v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 分量 分量 [fen4 liang5] /mennyiség/súly/
@@ -42324,6 +42495,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # ID-j95PY6p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 橢圓 椭圆 [tuo3 yuan2] /ellipszis/elliptikus/ovális/
+
+# ID-j95Rl1a
+# Ver 2019-07-01T14:29:09Z GaoYanuo Stat-New >https://www.xyzdict.com/en/chinese-english/%E5%85%A5%E5%A2%83%E7%AD%BE%E8%AF%81
+入境簽證 入境签证 [ru4 jing4 qian1 zheng4] /belépő vízum/
 
 # ID-j95Ul2y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -43334,6 +43509,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # ID-k18XP7s
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 皇太子 皇太子 [huang2 tai4 zi3] /trón|örökös/
+
+# ID-k19gD1U
+# Ver 2019-07-01T16:03:21Z GaoYanuo Stat-New >http://translation-dictionary.net/chinese-english/%E6%B5%81%E9%87%8F%E8%AE%A1
+流量計 流量计 [liu2 liang4 ji4] /áramlásmérő, /mennyiségmérő/
 
 # ID-k19hv4b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -45445,6 +45624,14 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 刺傷 刺伤 [ci4 shang1] /le|szúr (késsel megsebesít)/
 
+# ID-k67LW6f
+# Ver 2019-07-01T15:31:59Z GaoYanuo Stat-New >https://www.xyzdict.com/en/chinese-english/%E8%AE%BE%E5%AE%9A%E5%80%BC
+設定值 设定值 [she4 ding4 zhi2] /beállítási érték/alapjel/
+
+# ID-k67Re6T
+# Ver 2019-07-01T22:17:42Z GaoYanuo Stat-New >https://www.xyzdict.com/en/chinese-english/%E4%BC%A0%E7%83%AD%E4%BB%8B%E8%B4%A8
+傳熱介質 传热介质 [chuan2 re4 jie4 zhi4] /hőátadó, hőközlő közeg/
+
 # ID-k68aJ4T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 當 当 [dang4] /tekint (vminek)/kezel (vmiként)/gondol; vél/fel|ér (vmivel)/meg|felel (vminek)/meg|felelő/helyes/zálogba ad/
@@ -46543,7 +46730,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-11-28T16:10:30Z GaoYanuo Stat-Verif >http://www.dictall.com/dictall/result_sentence.jsp?cd=UTF-8&keyword=%E5%B0%8A%E6%95%AC\n
 # 尊敬 尊敬 [zun1 jing4] /tisztel/(megszólítás) tisztelt (pl. ~ Igazgató úr)/becsül/
 # Ver 2017-11-28T21:34:41Z gabor Stat-Verif >inkább magyarázat, mint címke
-尊敬 尊敬 [zun1 jing4] /tisztel; becsül/tisztelt (megszólításként: "Tisztelt XY")/
+# 尊敬 尊敬 [zun1 jing4] /tisztel; becsül/tisztelt (megszólításként: "Tisztelt XY")/
+# Ver 2019-07-01T14:19:06Z GaoYanuo Stat-Verif >.
+尊敬 尊敬 [zun1 jing4] /tisztel; becsül/tisztelt (megszólításként: "Tisztelt XY=尊敬的XY")/
 
 # ID-k94Bf4n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -46644,6 +46833,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # ID-k96uU7m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 壓縮 压缩 [ya1 suo1] /tömörít/össze|sürít/le|rövidít/tömörítés/
+
+# ID-k96HQ9b
+# Ver 2019-07-01T14:50:31Z GaoYanuo Stat-New >ref.:\nhttps://www.echineselearning.com/blog/nuan-nan-the-new-popular-type-of-boyfriend
+暖男 暖男 [nuan3 nan2] /melegszívű/megértő/önzetlen/család centrikus/
 
 # ID-k96Mk6X
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -46943,7 +47136,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-l02CY2w
 # Ver 2019-05-07T23:13:25Z GaoYanuo Stat-New >tanár\nhttps://www.xyzdict.com/en/chinese-english/%E9%97%A8%E7%94%9F
-門生 门生 [men2 sheng1] /tanítvány/
+# 門生 门生 [men2 sheng1] /tanítvány/
+# Ver 2019-07-01T14:56:20Z GaoYanuo Stat-New >Yandex alapján, ahol a "protege" találatot adja. Továbbá:\nhttps://www.xyzdict.com/en/chinese-english/%E9%97%A8%E7%94%9F
+門生 门生 [men2 sheng1] /tanítvány/pártfogolt, védenc/
 
 # ID-l02JF3p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -50114,6 +50309,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 壁爐 壁炉 [bi4 lu2] /kandalló/
 
+# ID-l74LL0I
+# Ver 2019-07-01T21:57:47Z GaoYanuo Stat-New >https://www.xyzdict.com/en/chinese-english/%E8%96%84%E8%86%9C
+薄膜 薄膜 [bo2 mo2] /hártya/membrán/film, vékony réteg/
+
 # ID-l74Mm0f
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 時區 时区 [shi2 qu1] /idő|zóna/
@@ -51235,6 +51434,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 壯觀 壮观 [zhuang4 guan1] /csodálatos/látványos/le|nyűgöző/
 
+# ID-m03oK0W
+# Ver 2019-07-01T15:43:02Z GaoYanuo Stat-New >https://www.xyzdict.com/en/chinese-english/%E7%95%8C%E9%9D%A2
+界面 界面 [jie4 mian4] /kezelőfelület/interfész/
+
 # ID-m03oO3y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 改編 改编 [gai3 bian1] /alkalmaz (pl. regényt filmre)/felül|vizsgál; át|rendez; át|ír/
@@ -51412,6 +51615,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # ID-m07py9z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 摩擦 摩擦 [mo2 ca1] /dörzsöl/súrlódik/súrlódás/konfliktus/
+
+# ID-m07rT6a
+# Ver 2019-07-01T22:32:30Z GaoYanuo Stat-New >https://www.xyzdict.com/en/chinese-english/%E7%BD%97%E8%8C%A8%E9%BC%93%E9%A3%8E%E6%9C%BA
+羅茨鼓風機 罗茨鼓风机 [luo1 ci2 gu3 feng1 ji1] /Roots fúvó/
 
 # ID-m07tI5J
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -52276,7 +52483,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-m26cO4M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-實驗 实验 [shi2 yan4] /kísérlet/SZ:個|个[ge4],次[ci4]/kísérleti/
+# 實驗 实验 [shi2 yan4] /kísérlet/SZ:個|个[ge4],次[ci4]/kísérleti/
+# Ver 2019-07-01T16:29:20Z GaoYanuo Stat-Verif >munkahely
+實驗 实验 [shi2 yan4] /kísérlet/SZ:個|个[ge4],次[ci4]/kísérleti/teszt-(szó-összetételekben)/
 
 # ID-m26dr4I
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -52637,6 +52846,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # ID-m35aU2A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 戰場 战场 [zhan4 chang3] /csatatér/SZ:個|个[ge4]/
+
+# ID-m35eh2x
+# Ver 2019-07-01T15:20:20Z GaoYanuo Stat-New >szokásos szótárak (CC-CEDICT, Youdao, Yandex, Pleco, stb) megerősítik.
+公用工程 公用工程 [gong1 yong4 gong1 cheng2] /közüzemi szolgáltatások (pl. ivóvíz, áram)/
 
 # ID-m35im2z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -54896,6 +55109,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 老闆 老板 [lao3 ban3] /főnök/SZ:個|个[ge4]/
 
+# ID-m84YR1V
+# Ver 2019-07-01T15:54:00Z GaoYanuo Stat-New >https://fanyi.baidu.com/#zh/en/%E8%87%AA%E7%94%B1%E5%8F%98%E9%87%8F
+自由變量 自由变量 [zi4 you2 bian4 liang4] /független változó/zavarójel (irányítástechnikában)/
+
 # ID-m84Zf5K
 # Ver 2017-11-20T17:08:27Z gabor Stat-New >MDBG; korpusz
 飛碟 飞碟 [fei1 die2] /repülő csésze|alj; ufó/frizbi/
@@ -54993,6 +55210,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # ID-m86JR8P
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 發電廠 发电厂 [fa1 dian4 chang3] /erőmű/
+
+# ID-m86Lo6t
+# Ver 2019-07-01T16:12:56Z GaoYanuo Stat-New >http://translation-dictionary.net/chinese-english/%E6%91%84%E6%B0%8F%E6%B8%A9%E5%BA%A6
+攝氏溫度 摄氏温度 [she4 shi4 wen1 du4] /Celsius fok/
 
 # ID-m86NE9U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -56311,6 +56532,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # ID-n19FU6z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 全力 全力 [quan2 li4] /minden erejével/teljes erő|bedobással/
+
+# ID-n19GJ6m
+# Ver 2019-07-02T00:04:28Z GaoYanuo Stat-New >munkahely, képtalálatok
+罐區 罐区 [guan4 qu1] /tartálypark/
 
 # ID-n19Ik4E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -58122,6 +58347,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 真怪 真怪 [zhen1 guai4] /fura; furcsa; különös/
 
+# ID-n61oE0E
+# Ver 2019-07-01T15:46:33Z GaoYanuo Stat-New >http://translation-dictionary.net/chinese-english/%E6%89%B0%E5%8A%A8
+擾動 扰动 [rao3 dong4] /zavaró hatás/fluktuáció/instabilitás/turbulencia/
+
 # ID-n61zx3a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 抗拒 抗拒 [kang4 ju4] /ellen|áll/szembe|szegül/
@@ -59196,6 +59425,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 胎記 胎记 [tai1 ji4] /anyajegy/
 
+# ID-n87NC7a
+# Ver 2019-07-01T14:34:25Z GaoYanuo Stat-New >kínai kollégák\nhttps://www.xyzdict.com/en/chinese-english/%E6%80%8E%E4%B9%88%E5%9B%9E%E4%BA%8B
+怎麼回事 怎么回事 [zen3 me5 hui2 shi4] /Mi a helyzet?/Mi a gond?/Mi történt?/
+
 # ID-n87Qr0s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 藝術家 艺术家 [yi4 shu4 jia1] /művész/SZ:個|个[ge4],位[wei4],名[ming2]/
@@ -59844,6 +60077,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2018-12-15T17:25:48Z GaoYanuo Stat-New >http://www.youdao.com/example/%E7%98%A6%E4%B8%8B%E6%9D%A5/#keyfrom=dict.basic.ce
 瘦下來 瘦下来 [shou4 xia4 lai2] /lefogy/
 
+# ID-o04Ft1B
+# Ver 2019-07-01T22:02:54Z GaoYanuo Stat-New >https://www.xyzdict.com/en/chinese-english/%E5%9B%9E%E6%B5%81
+回流 回流 [hui2 liu2] /reflux/visszaáramlás/
+
 # ID-o04KM9r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 專用 专用 [zhuan1 yong4] /speciális/egyedi/adott célra szolgáló/
@@ -60267,6 +60504,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # ID-o14Hh1F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 海里 海里 [hai3 li3] /tengeri mérföld/
+
+# ID-o14Hw2E
+# Ver 2019-07-01T16:41:23Z GaoYanuo Stat-New >munkahely, képtalálatok
+反應物 反应物 [fan3 ying1 wu4] /reaktáns (a kémiai reakcióban résztvevő anyagok)/
 
 # ID-o14NL2a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -60939,6 +61180,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 惹火 惹火 [re3 huo3] /fel|kavar/provokál/fel|izgat (szexuálisan)/
 
+# ID-o30lj0x
+# Ver 2019-07-01T15:33:45Z GaoYanuo Stat-New >https://www.xyzdict.com/en/chinese-english/%E5%BF%AB%E5%8A%A8%E9%98%80
+快動閥 快动阀 [kuai4 dong4 fa2] /gyors-zár, pillanatzár (pl.mágnesszelep)/
+
 # ID-o30oO0J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 錢包 钱包 [qian2 bao1] /pénz|tárca/
@@ -60998,6 +61243,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # ID-o31rq2R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 溫柔 温柔 [wen1 rou2] /puha/lágy/
+
+# ID-o31Dj1y
+# Ver 2019-07-01T16:44:16Z GaoYanuo Stat-New >munkahely, képtalálatok
+不銹鋼 不锈钢 [bu4 xiu4 gang1] /rozsdamentes, v. saválló acél/
 
 # ID-o31FC7Q
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -61388,7 +61637,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 測試 测试 [ce4 shi4] /ellen|őriz (gépet, berendezést)/fel|mér (diák tudását)/teszt/vizsga/
 # Ver 2018-04-18T20:37:41Z GaoYanuo Stat-Verif >CCEDICT
-測試 测试 [ce4 shi4] /ellen|őriz (gépet, berendezést)/fel|mér (diák tudását)/teszt/vizsga/béta (tesztelés alatti szoftver)/
+# 測試 测试 [ce4 shi4] /ellen|őriz (gépet, berendezést)/fel|mér (diák tudását)/teszt/vizsga/béta (tesztelés alatti szoftver)/
+# Ver 2019-07-01T16:30:22Z GaoYanuo Stat-Verif >forrás: tanár
+測試 测试 [ce4 shi4] /ellen|őriz, kipróbál (gépet, berendezést)/fel|mér (diák tudását)/teszt/vizsga/béta (tesztelés alatti szoftver)/
 
 # ID-o40MQ6q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -62076,6 +62327,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 槍手 枪手 [qiang1 shou3] /fegyveres (ember)/mester|lövész/más helyett vizsgázó ember/
 
+# ID-o57lP0a
+# Ver 2019-07-01T16:23:19Z GaoYanuo Stat-New >munkahely, képtalálatok
+空氣呼吸器 空气呼吸器 [kong1 qi4 hu1 xi1 qi4] /légzőkészülék (palackos)/
+
 # ID-o57qw6k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 延伸 延伸 [yan2 shen1] /nyúlik/terjed/vezet (út, vhová)/
@@ -62293,6 +62548,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # ID-o62Tm5D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 消化 消化 [xiao1 hua4] /meg|emészt/emésztés/
+
+# ID-o62TS7y
+# Ver 2019-07-01T22:30:26Z GaoYanuo Stat-New >https://www.xyzdict.com/en/chinese-english/%E6%B6%B2%E7%8E%AF%E7%9C%9F%E7%A9%BA%E6%B3%B5
+液環真空泵 液环真空泵 [ye4 huan2 zhen1 kong1 beng4] /folyadékgyűrűs vákuumszivattyú/
 
 # ID-o63bj0o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -62675,6 +62934,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 嘆氣 叹气 [tan4 qi4] /sóhajt/sóhaj/
 
+# ID-o73la3j
+# Ver 2019-07-01T15:17:55Z GaoYanuo Stat-New >forrás: munkahely\nszokásos szótárak (CC-CEDICT, Youdao, Yandex, Pleco, stb) megerősítik.
+控製中心 控制中心 [kong4 zhi4 zhong1 xin1] /vezérlő központ/iránytó terem/műszerszoba/
+
 # ID-o73mM8s
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 佑護 佑护 [you4 hu4] /áldás/
@@ -62703,7 +62966,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-o74uD4G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-證件 证件 [zheng4 jian4] /igazolvány/igazolás/papírok/
+# 證件 证件 [zheng4 jian4] /igazolvány/igazolás/papírok/
+# Ver 2019-07-01T14:27:51Z GaoYanuo Stat-Verif >Pontosítás.
+證件 证件 [zheng4 jian4] /igazolvány/igazolás/papírok, személyi okmányok/
 
 # ID-o74xh0O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -63329,7 +63594,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-o87mC6m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-階段 阶段 [jie1 duan4] /fázis/szakasz/SZ:個|个[ge4]/
+# 階段 阶段 [jie1 duan4] /fázis/szakasz/SZ:個|个[ge4]/
+# Ver 2019-07-01T22:14:22Z GaoYanuo Stat-Verif >https://www.xyzdict.com/en/chinese-english/%E9%98%B6%E6%AE%B5
+階段 阶段 [jie1 duan4] /fázis (elektronika, kémia, matematika)/szakasz, lépcső (eljárásban)/szint/periódus/SZ:個|个[ge4]/
 
 # ID-o87ts5w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -64772,6 +65039,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # 介質 介质 [jie4 zhi4] /közeg/közvetítő/dielektromos/neurogén/
 # Ver 2018-01-29T20:15:13Z GaoYanuo Stat-New >pontosítás
 介質 介质 [jie4 zhi4] /közeg/közvetítő; átvivő/dielektromos/neurogén/
+
+# ID-p18sa4d
+# Ver 2019-07-01T23:17:16Z GaoYanuo Stat-New >https://www.xyzdict.com/en/chinese-english/%E6%B6%B2%E4%BD%8D
+液位 液位 [ye4 wei4] /folyadékszint/
 
 # ID-p18wn3A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
