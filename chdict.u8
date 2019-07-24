@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2019-07-04T02:00:01Z
+# Datenstand: 2019-07-24T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -1668,6 +1668,10 @@
 # ID-a36WX2u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 名 名 [ming2] /név/kereszt|név/hírnév/főnév/híres/(számlálószó: személyekre)/
+
+# ID-a37cT3R
+# Ver 2019-07-23T21:41:27Z GaoYanuo Stat-New >Forrás: Miskolci Konfuciusz Intétzet. A Zrínyi Ilona Gimnáziumot hívják az itteni kínaiak 兹瑞尼中学-nek.
+茲瑞尼 兹瑞尼 [zi1 rui4 ni2] /(tulajdonnév) Zrínyi/
 
 # ID-a37ij6R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -21038,6 +21042,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # ID-e91kq9Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 屁話 屁话 [pi4 hua4] /szar/hülyeség/nonszensz/
+
+# ID-e91nT3m
+# Ver 2019-07-23T22:02:25Z GaoYanuo Stat-New >forrás: wechat\nreferencia: CC-CEDICT és Baidu\nhttps://zhidao.baidu.com/question/35649752
+三思而後行 三思而后行 [san1 si1 er2 hou4 xing2] /(kifejezés) Jobb félni, mint megijedni/gondolkodj, mielőtt cselekszel/
 
 # ID-e91zn3I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -41243,6 +41251,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # ID-j66hQ8L
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 船體 船体 [chuan2 ti3] /hajótest/
+
+# ID-j66ix5A
+# Ver 2019-07-23T21:55:07Z GaoYanuo Stat-New >korpusz (tulajdonképpen a 蒋 karakter jelentését kerestem, egy barátom neve, így találtam meg a korpuszban:-)
+蔣介石 蒋介石 [jiang3 jie4 shi2] /(tulajdonnév) Csang Kai-sek/
 
 # ID-j66mi3g
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
