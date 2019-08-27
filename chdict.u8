@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2019-08-26T02:00:01Z
+# Datenstand: 2019-08-27T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -5056,6 +5056,10 @@
 # ID-b14Dj2s
 # Ver 2017-05-26T10:21:37Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
 京東商城 京东商城 [jing1 dong1 shang1 cheng2] /JD.com (Jingdong; kínai online kereskedelmi honlap)/
+
+# ID-b14SL9M
+# Ver 2019-08-26T23:18:29Z GaoYanuo Stat-New >CC-CEDICT,\nhttp://www.trainchinese.com/v2/search.php?searchWord=%E7%81%8C&rAp=0&height=0&width=0&tcLanguage=en\nNem szokásom címszavakat csak úgy másolgatni más szótárakból, de itt nem bírtam ellenállni a kísértésnek:-)
+灌醉 灌醉 [guan4 zui4] /berúg (lerészegedik)/leitat (vkit)/
 
 # ID-b14VZ6e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -10720,7 +10724,9 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 灌 灌 [guan4] /öntöz/önt; tölt/telepít (szoftvert)/
 # Ver 2019-07-02T23:13:50Z GaoYanuo Stat-Verif >kínai kollégák, CC_CEDICT
-灌 灌 [guan4] /öntöz/önt; tölt/telepít (szoftvert)/át|öblít, át|mos/
+# 灌 灌 [guan4] /öntöz/önt; tölt/telepít (szoftvert)/át|öblít, át|mos/
+# Ver 2019-08-26T22:50:26Z GaoYanuo Stat-Verif >a "tölt" és "önt" kettéválasztva
+灌 灌 [guan4] /öntöz/ki|önt; (formát, hézagot folyadékkal)/tölt (folyadékot vmibe)/telepít (szoftvert)/át|öblít, át|mos/
 
 # ID-c52ze5l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -29060,6 +29066,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # ID-g76ud5u
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 乳汁 乳汁 [ru3 zhi1] /anya|tej/
+
+# ID-g76Jm5J
+# Ver 2019-08-27T00:17:19Z GaoYanuo Stat-New >forrás HSK4 tananyag, szokásos szótárak megerősítik.
+頭一 头一 [tou2 yi1] /első/
 
 # ID-g76Wu0k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
