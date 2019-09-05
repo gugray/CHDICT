@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2019-08-27T02:00:01Z
+# Datenstand: 2019-09-05T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -3397,6 +3397,10 @@
 # ID-a76MM6X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 臉蛋 脸蛋 [lian3 dan4] /orca/arc/
+
+# ID-a76Ng2z
+# Ver 2019-09-04T16:30:35Z gabor Stat-New >személyes közlés; CEDICT
+蝶泳 蝶泳 [die2 yong3] /pillangó|úszás/
 
 # ID-a76Yu2X
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -16811,6 +16815,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # ID-d90kA0C
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 恆速率 恒速率 [heng2 su4 lü4] /állandó sebesség/
+
+# ID-d90lt3P
+# Ver 2019-09-04T16:25:20Z gabor Stat-New >személyes közlés; CEDICT
+自由泳 自由泳 [zi4 you2 yong3] /gyors|úszás/
 
 # ID-d90sC3Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -36640,6 +36648,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 訪客 访客 [fang3 ke4] /látogató/
 
+# ID-i56Rn1e
+# Ver 2019-09-04T16:23:08Z gabor Stat-New >személyes közlés; korpusz megerősíti
+跑路 跑路 [pao3 lu4] /el|menekül; el|szökik/
+
 # ID-i57aF1G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 外面 外面 [wai4 mian5] /kívül/külső (külseje vminek)/
@@ -41897,6 +41909,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # ID-j81qn2l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 一生 一生 [yi1 sheng1] /élet/egész életében/
+
+# ID-j81up3T
+# Ver 2019-09-04T16:33:39Z gabor Stat-New >személyes közlés; CEDICT
+仰泳 仰泳 [yang3 yong3] /hát|úszás/
 
 # ID-j81xw5A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
