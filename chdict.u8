@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2019-09-13T02:00:01Z
+# Datenstand: 2019-09-19T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -18531,6 +18531,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # ID-e30Kx9Z
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 臭氧層 臭氧层 [chou4 yang3 ceng2] /ózon|réteg/
+
+# ID-e30XA4d
+# Ver 2019-09-18T17:37:34Z GaoYanuo Stat-New >szokásos szótárak. \nHogyan kéne jelezni, hogy 马来 és 马国 néven is emlegetik, továbbá hogy a 大马 szócikkünk a CC-CEDICT szerint ennek a rövidítése? 
+馬來西亞 马来西亚 [ma3 lai2 xi1 ya4] /(földrajzi név) Malajzia/
 
 # ID-e30Zw3f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
