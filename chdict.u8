@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2019-09-29T02:00:01Z
+# Datenstand: 2019-09-30T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -3812,6 +3812,7 @@
 # Ver 2019-09-28T17:40:17Z gabor Stat-New >végül a lopásra, kalózkodásra redukáltam... a hamisítás tk. ennek egy speciális esete, ahogy nézem, nem műkincshamisításról van szó, hanem illegálisan készített másolat árusításáról, ami tk. hamisítvány
 # 盜圖 盗图 [dao4 tu2] /lop; kalóz|másolatot készít (szellemi terméket engedély nélkül másol vagy felhasznál)/
 # Ver 2019-09-28T17:40:25Z gabor Stat-Verif >mesés fogás!
+# Ver 2019-09-29T12:52:34Z GaoYanuo Stat-Verif >Mondtam én, hogy aranybánya a wechat:-)
 盜圖 盗图 [dao4 tu2] /lop; kalóz|másolatot készít (szellemi terméket engedély nélkül másol vagy felhasznál)/
 
 # ID-a85ww3y
@@ -3819,6 +3820,10 @@
 # 者 者 [zhe3] /-ó; -ő; -ista; -iszta (főnevesítő utótag igen után: az, aki valamit csinál)/
 # Ver 2017-05-23T21:28:25Z Adam Stat-Verif >elírás javítása + rövidíteni szoktuk a vala- előtagú szavakat
 者 者 [zhe3] /-ó; -ő; -ista; -iszta (főnevesítő utótag ige után: az, aki vmit csinál)/
+
+# ID-a85MN3D
+# Ver 2019-09-29T16:56:57Z GaoYanuo Stat-New >HSK5 tankönyv, szokásos szótárak
+雙肩包 双肩包 [shuang1 jian1 bao1] /hátizsák/
 
 # ID-a85WS7G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -4036,7 +4041,9 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 與否 与否 [yu3 fou3] /függetlenül attól, hogy (vmi fennál-e vagy sem; tagmondat végén)/
 # Ver 2019-03-09T15:04:10Z GaoYanuo Stat-Verif >a jelentések nagyon hasonlóak, de a magyar nyelvű rákeresések miatt  jónak láttam bővíteni.\n无论/不管你成功与否你试试努力过。Példamondat a tanártól.  Mindhárom változattal fordítható. Függetlenül attól, sikeres vagy -e, (vagy sem)/Akár sikeres vagy, akár nem , legalább megpróbáltad.
-與否 与否 [yu3 fou3] /függetlenül attól, hogy (vmi fennál-e vagy sem; tagmondat végén)/akár igen, akár nem/vagy sem (pl. jössz-e, vagy sem.)/
+# 與否 与否 [yu3 fou3] /függetlenül attól, hogy (vmi fennál-e vagy sem; tagmondat végén)/akár igen, akár nem/vagy sem (pl. jössz-e, vagy sem.)/
+# Ver 2019-09-29T15:50:54Z gabor Stat-Verif >.
+與否 与否 [yu3 fou3] /függetlenül attól, hogy (vmi fennál-e vagy sem; tagmondat végén)/akár igen, akár nem/vagy sem (pozitív lehetőség után)/
 
 # ID-a91LH3R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -4610,7 +4617,12 @@
 # Ver 2018-12-15T18:36:13Z GaoYanuo Stat-New >forrás: tanár, CC-CEDICT megerősíti.
 # 魚與熊掌不可以兼得 鱼与熊掌不可以兼得 [yu2 yu3 xiong2 zhang3 bu4 ke3 yi3 jian1 de2] /(kifejezés) Egy fenékkel nem lehet két lovat megülni. /
 # Ver 2019-01-10T08:56:56Z GaoYanuo Stat-New >Túl nagy az eltérés a szóhasználatban, csak a komplett közmondás értelme egyezik.
-魚與熊掌不可以兼得 鱼与熊掌不可以兼得 [yu2 yu3 xiong2 zhang3 bu4 ke3 yi3 jian1 de2] /(kifejezés) Egy fenékkel nem lehet két lovat megülni. (Szó szerint: nem szerezhetsz egyszerre halat és medvetalpat.)/
+# 魚與熊掌不可以兼得 鱼与熊掌不可以兼得 [yu2 yu3 xiong2 zhang3 bu4 ke3 yi3 jian1 de2] /(kifejezés) Egy fenékkel nem lehet két lovat megülni. (Szó szerint: nem szerezhetsz egyszerre halat és medvetalpat.)/
+# Ver 2019-09-29T16:05:41Z gabor Stat-New >az ilyeneknél inkább arra hajlok, hogy nem írom ki a szó szerinti megfejtést, hadd legyen meg az olvasónak a saját öröme, amikor megfejti a részeket magának :)
+# 魚與熊掌不可以兼得 鱼与熊掌不可以兼得 [yu2 yu3 xiong2 zhang3 bu4 ke3 yi3 jian1 de2] /(kifejezés) egy fenékkel nem lehet két lovat megülni; nem lehet, hogy a kecske is jóllakjon és a káposzta is megmaradjon/
+# Ver 2019-09-29T16:05:48Z gabor Stat-Verif >.
+# Ver 2019-09-29T16:07:41Z gabor Stat-Verif >kieg, menciusz
+魚與熊掌不可以兼得 鱼与熊掌不可以兼得 [yu2 yu3 xiong2 zhang3 bu4 ke3 yi3 jian1 de2] /(kifejezés) egy fenékkel nem lehet két lovat megülni; nem lehet, hogy a kecske is jóllakjon és a káposzta is megmaradjon (Menciusztól származó mondás)/
 
 # ID-b04rG7X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -13858,6 +13870,8 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 洗澡 洗澡 [xi3 zao3] /fürdik/meg|fürdik/
 # Ver 2019-01-14T12:14:10Z GaoYanuo Stat-Verif >Nem dagályoskodni akarok, csak mivel vonzatos ige, gyakran kerül a 洗 és a 澡 közé akár komplett kifejezés is. Pl. 洗个热水澡. Ezért vettem fel harmadik jelentésbe a hasonló tárgy-ige jellegű kifejezést.
+# 洗澡 洗澡 [xi3 zao3] /fürdik/meg|fürdik/fürdőt vesz/
+# Ver 2019-09-29T16:00:54Z gabor Stat-Verif >ok!
 洗澡 洗澡 [xi3 zao3] /fürdik/meg|fürdik/fürdőt vesz/
 
 # ID-d20SA5N
@@ -14212,7 +14226,11 @@
 
 # ID-d28Jx5J
 # Ver 2019-03-09T18:41:38Z GaoYanuo Stat-New >tanár, CC-CEDICT
-黑話 黑话 [hei1 hua4] /tolvajnyelv; argó/
+# 黑話 黑话 [hei1 hua4] /tolvajnyelv; argó/
+# Ver 2019-09-29T15:00:06Z gabor Stat-New >elhat
+# 黑話 黑话 [hei1 hua4] /tolvaj|nyelv; argó/
+# Ver 2019-09-29T15:00:09Z gabor Stat-Verif >.
+黑話 黑话 [hei1 hua4] /tolvaj|nyelv; argó/
 
 # ID-d28ZP0M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -15686,7 +15704,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-d63fi7l
 # Ver 2019-03-09T16:48:37Z GaoYanuo Stat-New >forrás tanár, referencia CC-CEDICT,\nhttps://www.purpleculture.net/sample-sentences/?word=%E7%82%B9%E4%BA%AE
-點亮 点亮 [dian3 liang4] /meg|világít/kigyullad (lámpa)/gyújt (világosságot)/
+# 點亮 点亮 [dian3 liang4] /meg|világít/kigyullad (lámpa)/gyújt (világosságot)/
+# Ver 2019-09-29T15:49:43Z gabor Stat-New >plusz elhat
+# 點亮 点亮 [dian3 liang4] /meg|világít/ki|gyullad (lámpa)/gyújt (világosságot)/
+# Ver 2019-09-29T15:49:45Z gabor Stat-Verif >.
+點亮 点亮 [dian3 liang4] /meg|világít/ki|gyullad (lámpa)/gyújt (világosságot)/
 
 # ID-d63fJ1h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -18234,6 +18256,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 詢問 询问 [xun2 wen4] /érdeklődik (formálisan utánajár, kérdez)/
 
+# ID-e23cs1f
+# Ver 2019-09-29T17:18:52Z GaoYanuo Stat-New >HSK5 tankönyv, szokásos szótárak
+數量詞 数量词 [shu4 liang4 ci2] /számlálószó (nyelvtan)/
+
 # ID-e23dM7g
 # Ver 2019-07-01T16:25:30Z GaoYanuo Stat-New >munkahely, képtalálatok
 # 冷卻塔 冷却塔 [leng3 que4 ta3] /hűtötorony/
@@ -20070,6 +20096,8 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 用心 用心 [yong4 xin1] /indíték/szándék/figyelmes/
 # Ver 2019-03-09T18:29:19Z GaoYanuo Stat-Verif >Egyértelműsítés miatt vettem fel szinoniát. A figyelmes "udvarias" értelemben is használatos.
+# 用心 用心 [yong4 xin1] /indíték/szándék/figyelmes; gondos/
+# Ver 2019-09-29T15:38:26Z gabor Stat-Verif >ok!
 用心 用心 [yong4 xin1] /indíték/szándék/figyelmes; gondos/
 
 # ID-e64xX6Y
@@ -23127,6 +23155,8 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-f38YP2q
 # Ver 2019-03-09T17:09:43Z GaoYanuo Stat-New >tanár, CC-CEDICT\nhttps://www.purpleculture.net/sample-sentences/?word=%E6%87%A6%E5%BC%B1
+# 懦弱 懦弱 [nuo4 ruo4] /gyáva/gyenge/
+# Ver 2019-09-29T15:48:43Z gabor Stat-Verif >.
 懦弱 懦弱 [nuo4 ruo4] /gyáva/gyenge/
 
 # ID-f39cs6T
@@ -27551,7 +27581,8 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2019-02-11T23:48:09Z LevA Stat-Verif >Én személy szerint még nem találtam olyan példát, ahol ez a szó "ért" jelentésben szerepel, de "hall" jelentésben többször találkoztam vele.
 # 聽見 听见 [ting1 jian4] /hall/hallgat/ért (akusztikusan, hallás után)/
 # Ver 2019-02-15T22:45:12Z GaoYanuo Stat-Verif >Én sem találtam olyan szöveget, ahol hallás utáni szövegértésre utalna. Környezetemben erre a célra inkább a 听出来-t használják. Szóval a harmadik jelentéshez tényleg elkélne valamilyen referencia.
-聽見 听见 [ting1 jian4] /hall/hallgat/ért (akusztikusan, hallás után)/
+# Ver 2019-09-29T15:53:51Z gabor Stat-Verif >.
+聽見 听见 [ting1 jian4] /hall; meg|hall/
 
 # ID-g39oR9S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -30446,6 +30477,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 構造運動 构造运动 [gou4 zao4 yun4 dong4] /tektonikus mozgás/
 
+# ID-h03PB0j
+# Ver 2019-09-29T17:12:31Z GaoYanuo Stat-New >HSK tankönyv, CCEDICT
+中心語 中心语 [zhong1 xin1 yu3] /jelzett szó (nyelvtan)/
+
 # ID-h03Rt3o
 # Ver 2018-01-24T05:38:32Z GaoYanuo Stat-New >http://www.youdao.com/w/%E6%8A%80%E6%9C%AF%E5%8F%82%E6%95%B0/#keyfrom=dict2.top\nkészülék dokumentum
 # 技術參數 技术参数 [ji4 shu4 can1 shu4] /Műszaki adatok/technikai paraméterek/
@@ -30766,6 +30801,8 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-h11Fh2O
 # Ver 2019-03-09T17:33:00Z GaoYanuo Stat-New >tanár, CC-CEDICT
+# 班主任 班主任 [ban1 zhu3 ren4] /osztályfőnök/
+# Ver 2019-09-29T15:45:36Z gabor Stat-Verif >.
 班主任 班主任 [ban1 zhu3 ren4] /osztályfőnök/
 
 # ID-h11Gr6W
@@ -32447,7 +32484,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 演講 演讲 [yan3 jiang3] /elő|ad/beszédet mond/
 # Ver 2019-03-09T17:21:08Z GaoYanuo Stat-Verif >CC-CEDICT,\nhttps://www.purpleculture.net/sample-sentences/?word=%E6%BC%94%E8%AE%B2
-演講 演讲 [yan3 jiang3] /elő|ad/beszédet mond/előadás (szöveges); beszéd (szónoki)/
+# 演講 演讲 [yan3 jiang3] /elő|ad/beszédet mond/előadás (szöveges); beszéd (szónoki)/
+# Ver 2019-09-29T15:46:58Z gabor Stat-Verif >annyi minden lehet főnév is és ige is, ezzel nem foglalkozok nagyon kényszeresen. de ha már felvitted, legyen, de akkor inkább szimplán beírom az igei megfelelők mellé.
+演講 演讲 [yan3 jiang3] /elő|ad; előadás/beszédet mond; beszéd/
 
 # ID-h55Si7X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -36579,6 +36618,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 人工 人工 [ren2 gong1] /mesterséges/művi/
 
+# ID-i51xo2n
+# Ver 2019-09-29T16:59:40Z GaoYanuo Stat-New >https://www.xyzdict.com/en/chinese-english/%E6%89%A9%E5%B1%95
+擴展 扩展 [kuo4 zhan3] /kiterjed; kiterjeszt/
+
 # ID-i51ZA4Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 把柄 把柄 [ba3 bing3] /fogantyú/
@@ -36791,6 +36834,8 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-i56kY0C
 # Ver 2019-03-09T18:20:59Z GaoYanuo Stat-New >tanár, CC-CEDICT
+# 再好 再好 [zai4 hao3] /még jobb/
+# Ver 2019-09-29T15:42:27Z gabor Stat-Verif >.
 再好 再好 [zai4 hao3] /még jobb/
 
 # ID-i56pc0I
@@ -38328,7 +38373,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-i90Vc7X
 # Ver 2019-01-10T19:56:59Z GaoYanuo Stat-New >CC-CEDICT\nhttps://www.hujiang.com/ciku/5954_39053432/
-變得 变得 [bian4 de5] /válik, változik (vmilyenné)/
+# 變得 变得 [bian4 de5] /válik, változik (vmilyenné)/
+# Ver 2019-09-29T16:01:19Z gabor Stat-New >.
+# 變得 变得 [bian4 de5] /válik; változik (vmivé, vmilyenné)/
+# Ver 2019-09-29T16:01:21Z gabor Stat-Verif >.
+變得 变得 [bian4 de5] /válik; változik (vmivé, vmilyenné)/
 
 # ID-i90Ww4E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -43348,6 +43397,8 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-k09aD4i
 # Ver 2019-02-05T16:53:45Z Adam Stat-New >Pleco-szótárak, Wiktionary
+# 牆紙 墙纸 [qiang2 zhi3] /tapéta/
+# Ver 2019-09-29T15:54:04Z gabor Stat-Verif >.
 牆紙 墙纸 [qiang2 zhi3] /tapéta/
 
 # ID-k09co1E
@@ -46621,6 +46672,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 打蛋器 打蛋器 [da3 dan4 qi4] /habverő/
 
+# ID-k84QK8p
+# Ver 2019-09-29T17:06:27Z GaoYanuo Stat-New >HSK5 tankönyv, CCEDICT
+出乎意料 出乎意料 [chu1 hu1 yi4 liao4] /(kifejezés) várakozáson felül|i/
+
 # ID-k85fj8m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 特徵 特征 [te4 zheng1] /jellemző; jellegzetesség/vonás/meg|különböztető jegy/
@@ -46655,7 +46710,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-k86Ao8I
 # Ver 2019-03-09T18:01:27Z GaoYanuo Stat-New >tanár, tankönyv, CC-CEDICT megerősíti
-上有老下有小 上有老下有小 [shang4 you3 lao3 xia4 you3 xiao3] /(kifejezés) egyszerre gondoskodik szülőről és gyerekről/szendvics nemzedék/
+# 上有老下有小 上有老下有小 [shang4 you3 lao3 xia4 you3 xiao3] /(kifejezés) egyszerre gondoskodik szülőről és gyerekről/szendvics nemzedék/
+# Ver 2019-09-29T15:44:58Z gabor Stat-New >rákerestem, úgy tűnik, a "szendvics-generáció" magyarul is elterjedt, de nem mint "nemzedék"
+# 上有老下有小 上有老下有小 [shang4 you3 lao3 xia4 you3 xiao3] /(kifejezés) szendvics-generáció (egyszerre gondoskodik szülőről és gyerekről)/
+# Ver 2019-09-29T15:45:00Z gabor Stat-Verif >.
+上有老下有小 上有老下有小 [shang4 you3 lao3 xia4 you3 xiao3] /(kifejezés) szendvics-generáció (egyszerre gondoskodik szülőről és gyerekről)/
 
 # ID-k86Cu2z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -46853,6 +46912,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # ID-k91jA3Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 寸 寸 [cun4] /hüvelyk (hosszmérték, kb. 3,5 cm)/
+
+# ID-k91mO3I
+# Ver 2019-09-29T17:09:45Z GaoYanuo Stat-New >CCEDICT, tankönyv
+公物 公物 [gong1 wu4] /köztulajdon/
 
 # ID-k91sV6F
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -48501,7 +48564,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-l26cw4I
 # Ver 2019-01-20T17:19:19Z GaoYanuo Stat-New >Forrás: céges dokumentum, szótárak megerősítik.
-副本 副本 [fu4 ben3] /másolat/utánzat/kópia/átírás, áttétel (feljegyzéseké)/
+# 副本 副本 [fu4 ben3] /másolat/utánzat/kópia/átírás, áttétel (feljegyzéseké)/
+# Ver 2019-09-29T15:55:44Z gabor Stat-New >.
+# 副本 副本 [fu4 ben3] /másolat; másod|példány/átirat; leirat/
+# Ver 2019-09-29T15:55:50Z gabor Stat-Verif >.
+副本 副本 [fu4 ben3] /másolat; másod|példány/átirat; leirat/
 
 # ID-l26fr7z
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -50652,10 +50719,13 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2018-11-18T23:24:18Z GaoYanuo Stat-New >https://eng.ichacha.net/zaoju/%E6%B2%A1%E6%9C%89%E8%80%90%E5%BF%83.html
 # 沒有耐心 没有耐心 [mei2 you3 nai4 xin1] /türelmetlen/
 # Ver 2019-09-28T17:43:09Z gabor Stat-Flagged >ezt törlésre előjegyzem, mert szerintem teljesen kompozicionális, a 没有 + 耐心 részekből extra jelentéstartalom nélkül következik az értelme; 耐心 már a szótárban.
+# Ver 2019-09-29T12:51:03Z GaoYanuo Stat-Flagged >Jogos az észrevétel. Magam is csodálkoztam, hogy a tankönyvben külön szóként szerepel, csak úgy, mint a 不耐烦.
 沒有耐心 没有耐心 [mei2 you3 nai4 xin1] /türelmetlen/
 
 # ID-l75xb7p
 # Ver 2019-02-05T16:52:54Z Adam Stat-New >Pleco-szótárak, Wiktionary stb.
+# 壁紙 壁纸 [bi4 zhi3] /tapéta/
+# Ver 2019-09-29T15:54:10Z gabor Stat-Verif >.
 壁紙 壁纸 [bi4 zhi3] /tapéta/
 
 # ID-l75zC9V
@@ -51726,7 +51796,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-m02AH4v
 # Ver 2019-01-10T19:26:36Z GaoYanuo Stat-New >tankönyv, CC-CEDICT\na pinyin egyezik a CC-CEDICT-ével, a tankönyvben (HSK4上) ke3bu2shi5 szerepel.
-可不是 可不是 [ke3 bu5 shi4] /bizony/pontosan (így gondolom én is)/úgy van/
+# 可不是 可不是 [ke3 bu5 shi4] /bizony/pontosan (így gondolom én is)/úgy van/
+# Ver 2019-09-29T16:02:16Z gabor Stat-New >átfog, összevon
+# 可不是 可不是 [ke3 bu5 shi4] /bizony; pontosan; úgy van (beszélő egyetértését fejezi ki)/
+# Ver 2019-09-29T16:02:18Z gabor Stat-Verif >.
+可不是 可不是 [ke3 bu5 shi4] /bizony; pontosan; úgy van (beszélő egyetértését fejezi ki)/
 
 # ID-m02FX0A
 # Ver 2017-11-20T22:19:02Z gabor Stat-New >CEDICT
@@ -52242,7 +52316,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 紅 红 [hong2] /piros/vörös/forradalmi/(családnév) Hong/
 # Ver 2019-03-09T18:47:33Z GaoYanuo Stat-Verif >tanár, Pleco
-紅 红 [hong2] /piros/vörös/forradalmi/népszerű, sikeres/(családnév) Hong/
+# 紅 红 [hong2] /piros/vörös/forradalmi/népszerű, sikeres/(családnév) Hong/
+# Ver 2019-09-29T14:59:28Z gabor Stat-Verif >pvessz
+紅 红 [hong2] /piros/vörös/forradalmi/népszerű; sikeres/(családnév) Hong/
 
 # ID-m15lS3d
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -55341,7 +55417,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 生產 生产 [sheng1 chan3] /termel/gyárt/szül/
 # Ver 2019-03-09T14:48:05Z GaoYanuo Stat-Verif >Bartos-Hamar és anyanyelvi beszélő alapján kiegészítve.
-生產 生产 [sheng1 chan3] /termel/gyárt/termelés, gyártás/szül/
+# 生產 生产 [sheng1 chan3] /termel/gyárt/termelés, gyártás/szül/
+# Ver 2019-09-29T15:51:49Z gabor Stat-Verif >ez is olyan, mint annyi másnál: lehet ige is, főnév is, nem precízkedek sokat rajta.\nha már itt van, inkább összevontam.
+生產 生产 [sheng1 chan3] /termel; gyárt/termelés; gyártás/szül/
 
 # ID-m82Cf2v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -59014,6 +59092,8 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-n69zk9z
 # Ver 2019-03-09T18:39:48Z GaoYanuo Stat-New >CC-CEDICT
+# 結婚證 结婚证 [jie2 hun1 zheng4] /házassági anyakönyvi kivonat/
+# Ver 2019-09-29T15:01:22Z gabor Stat-Verif >.
 結婚證 结婚证 [jie2 hun1 zheng4] /házassági anyakönyvi kivonat/
 
 # ID-n69CD0l
@@ -60390,7 +60470,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-o04cX2o
 # Ver 2019-03-09T17:55:39Z GaoYanuo Stat-New >tanár, CC-EDICT
-紅糖 红糖 [hong2 tang2] /barnacukor/
+# 紅糖 红糖 [hong2 tang2] /barnacukor/
+# Ver 2019-09-29T15:45:26Z gabor Stat-New >elhat
+# 紅糖 红糖 [hong2 tang2] /barna|cukor/
+# Ver 2019-09-29T15:45:28Z gabor Stat-Verif >.
+紅糖 红糖 [hong2 tang2] /barna|cukor/
 
 # ID-o04fL0v
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -62776,7 +62860,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 僅 仅 [jin3] /alig/csak/épp/
 # Ver 2019-01-14T12:38:42Z GaoYanuo Stat-Verif >Jelentés egyértelműsítés. A "csak"-nak túl sok egyéb értelme van, ráadásul a kínaiban rengeteg szó van, amit magyarra "csak"-kal lehet fordítani. (Elég, ha csak a saját portánkon szétnézünk:-)
-僅 仅 [jin3] /alig/csak, csupán, pusztán/épp/
+# 僅 仅 [jin3] /alig/csak, csupán, pusztán/épp/
+# Ver 2019-09-29T15:57:05Z gabor Stat-Verif >pvessz
+僅 仅 [jin3] /alig/csak; csupán; pusztán/épp/
 
 # ID-o59OR9j
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -64215,6 +64301,7 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2019-09-28T17:56:46Z gabor Stat-New >.
 # 禁止吸煙 禁止吸烟 [jin4 zhi3 xi1 yan1] /tilos a dohányzás; dohányozni tilos/
 # Ver 2019-09-28T17:57:11Z gabor Stat-Verif >ezen haboztam, nem vagyok teljesen meggyőződve, hogy szótárba való, de enni nem kér, maradjon! :)
+# Ver 2019-09-29T12:48:32Z GaoYanuo Stat-Verif >Eléggé sok helyen ki van téve.:-)
 禁止吸煙 禁止吸烟 [jin4 zhi3 xi1 yan1] /tilos a dohányzás; dohányozni tilos/
 
 # ID-o92iu6a
@@ -65077,6 +65164,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 哀悼 哀悼 [ai1 dao4] /gyászol/gyász/részvét/
 
+# ID-p11rd0G
+# Ver 2019-09-29T17:31:04Z GaoYanuo Stat-New >HSK5 tankönyv, szokásos szótárak
+不同點 不同点 [bu4 tong2 dian3] /különböző; amiben két dolog nem közös/
+
 # ID-p11uH6q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 工人 工人 [gong1 ren2] /munkás/
@@ -65203,7 +65294,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-p13Ju1A
 # Ver 2019-03-09T18:38:10Z GaoYanuo Stat-New >tanár, CC_CEDICT\nhttps://www.purpleculture.net/sample-sentences/?word=%E9%BB%91%E6%88%B7
-黑戶 黑户 [hei1 hu4] /illegálisan tartózkodó egyén/iratok nélküli személy/nem anyakönyvezett élettársi kapcsolat/
+# 黑戶 黑户 [hei1 hu4] /illegálisan tartózkodó egyén/iratok nélküli személy/nem anyakönyvezett élettársi kapcsolat/
+# Ver 2019-09-29T15:41:27Z gabor Stat-New >nehéz ezt tömören és helyesen megfogalmazni; én erre jutottam.
+# 黑戶 黑户 [hei1 hu4] /illegális; iratok nélküli; nem regisztrált (lakos, cég, élettársi kapcsolat stb.)/
+# Ver 2019-09-29T15:41:30Z gabor Stat-Verif >.
+黑戶 黑户 [hei1 hu4] /illegális; iratok nélküli; nem regisztrált (lakos, cég, élettársi kapcsolat stb.)/
 
 # ID-p14rq0v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -65593,7 +65688,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 新聞 新闻 [xin1 wen2] /hír/hírek/SZ:條|条[tiao2],個|个[ge4]/
 # Ver 2019-01-14T12:27:12Z GaoYanuo Stat-Verif >tanszöveg (HSK4A) : 我本来想当律师，但是后来我发现自己对新闻更兴趣。\nYoudao megerősíti.
-新聞 新闻 [xin1 wen2] /hír/hírek/újságírás, zsurnalisztika/SZ:條|条[tiao2],個|个[ge4]/
+# 新聞 新闻 [xin1 wen2] /hír/hírek/újságírás, zsurnalisztika/SZ:條|条[tiao2],個|个[ge4]/
+# Ver 2019-09-29T16:00:16Z gabor Stat-Verif >én inkább úgy érzem, ez nem direkt jelentés, csak átvitt használat: "hírek" mint olyan, vagyis újságírás. no meg ott van a新闻学.
+新聞 新闻 [xin1 wen2] /hír/hírek/SZ:條|条[tiao2],個|个[ge4]/
 
 # ID-p21RJ4C
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
