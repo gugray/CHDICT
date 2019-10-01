@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2019-09-30T02:00:01Z
+# Datenstand: 2019-10-01T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -3823,6 +3823,8 @@
 
 # ID-a85MN3D
 # Ver 2019-09-29T16:56:57Z GaoYanuo Stat-New >HSK5 tankönyv, szokásos szótárak
+# 雙肩包 双肩包 [shuang1 jian1 bao1] /hátizsák/
+# Ver 2019-09-30T08:11:46Z gabor Stat-Verif >.
 雙肩包 双肩包 [shuang1 jian1 bao1] /hátizsák/
 
 # ID-a85WS7G
@@ -18258,7 +18260,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-e23cs1f
 # Ver 2019-09-29T17:18:52Z GaoYanuo Stat-New >HSK5 tankönyv, szokásos szótárak
-數量詞 数量词 [shu4 liang4 ci2] /számlálószó (nyelvtan)/
+# 數量詞 数量词 [shu4 liang4 ci2] /számlálószó (nyelvtan)/
+# Ver 2019-09-30T08:47:49Z gabor Stat-New >ha ez prioritás lenne, a szakterületeket a bevezető, kategorizáló címkében kellene jelölni, annak viszont csak úgy van értelme, ha van előre rögzített, kigondolt címkehalmaz, kategorizáció stb. szerintem ennek minimális lenne a hozzáadott értéke. szócikk végén akkor teszek ilyen kiegészítést, ha arra az egyértelműsítés, tisztaság miatt szükség van. ez itt viszont teljesen egyértelmű eset.
+# 數量詞 数量词 [shu4 liang4 ci2] /számláló|szó/
+# Ver 2019-09-30T08:48:07Z gabor Stat-Verif >.
+數量詞 数量词 [shu4 liang4 ci2] /számláló|szó/
 
 # ID-e23dM7g
 # Ver 2019-07-01T16:25:30Z GaoYanuo Stat-New >munkahely, képtalálatok
@@ -30479,7 +30485,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-h03PB0j
 # Ver 2019-09-29T17:12:31Z GaoYanuo Stat-New >HSK tankönyv, CCEDICT
-中心語 中心语 [zhong1 xin1 yu3] /jelzett szó (nyelvtan)/
+# 中心語 中心语 [zhong1 xin1 yu3] /jelzett szó (nyelvtan)/
+# Ver 2019-09-30T08:42:56Z gabor Stat-New >pontosítás, modern nyelvtani szóhasználattal
+# 中心語 中心语 [zhong1 xin1 yu3] /fej (nyelvtani értelemben: szerkezet feje, amely a szerkezet mondattani tulajdonságait meghatározza; az iskolai nyelvtanból "jelzett szó" néven ismert)/
+# Ver 2019-09-30T08:43:02Z gabor Stat-Verif >.
+中心語 中心语 [zhong1 xin1 yu3] /fej (nyelvtani értelemben: szerkezet feje, amely a szerkezet mondattani tulajdonságait meghatározza; az iskolai nyelvtanból "jelzett szó" néven ismert)/
 
 # ID-h03Rt3o
 # Ver 2018-01-24T05:38:32Z GaoYanuo Stat-New >http://www.youdao.com/w/%E6%8A%80%E6%9C%AF%E5%8F%82%E6%95%B0/#keyfrom=dict2.top\nkészülék dokumentum
@@ -36620,7 +36630,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-i51xo2n
 # Ver 2019-09-29T16:59:40Z GaoYanuo Stat-New >https://www.xyzdict.com/en/chinese-english/%E6%89%A9%E5%B1%95
-擴展 扩展 [kuo4 zhan3] /kiterjed; kiterjeszt/
+# 擴展 扩展 [kuo4 zhan3] /kiterjed; kiterjeszt/
+# Ver 2019-09-30T08:14:07Z gabor Stat-New >.
+# 擴展 扩展 [kuo4 zhan3] /ki|terjed; el|terjed/ki|terjeszt/terjezkedik/
+# Ver 2019-09-30T08:14:09Z gabor Stat-Verif >.
+擴展 扩展 [kuo4 zhan3] /ki|terjed; el|terjed/ki|terjeszt/terjezkedik/
 
 # ID-i51ZA4Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -46674,6 +46688,8 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-k84QK8p
 # Ver 2019-09-29T17:06:27Z GaoYanuo Stat-New >HSK5 tankönyv, CCEDICT
+# 出乎意料 出乎意料 [chu1 hu1 yi4 liao4] /(kifejezés) várakozáson felül|i/
+# Ver 2019-09-30T08:15:29Z gabor Stat-Verif >.
 出乎意料 出乎意料 [chu1 hu1 yi4 liao4] /(kifejezés) várakozáson felül|i/
 
 # ID-k85fj8m
@@ -46915,7 +46931,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-k91mO3I
 # Ver 2019-09-29T17:09:45Z GaoYanuo Stat-New >CCEDICT, tankönyv
-公物 公物 [gong1 wu4] /köztulajdon/
+# 公物 公物 [gong1 wu4] /köztulajdon/
+# Ver 2019-09-30T08:17:55Z gabor Stat-New >elhat
+# 公物 公物 [gong1 wu4] /köz|tulajdon/
+# Ver 2019-09-30T08:17:58Z gabor Stat-Verif >.
+公物 公物 [gong1 wu4] /köz|tulajdon/
 
 # ID-k91sV6F
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -54199,6 +54219,12 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # ID-m56td7T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 液 液 [ye4] /folyékony/folyadék/
+
+# ID-m56wj5Q
+# Ver 2019-09-30T08:16:30Z gabor Stat-New >ha már van 出乎意料
+# 出乎 出乎 [chu1 hu1] /túl|szárnyal; felül|múl (várakozásokat)/
+# Ver 2019-09-30T08:50:42Z gabor Stat-Verif >.
+出乎 出乎 [chu1 hu1] /túl|szárnyal; felül|múl (várakozásokat)/
 
 # ID-m56wP2l
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -65166,7 +65192,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-p11rd0G
 # Ver 2019-09-29T17:31:04Z GaoYanuo Stat-New >HSK5 tankönyv, szokásos szótárak
-不同點 不同点 [bu4 tong2 dian3] /különböző; amiben két dolog nem közös/
+# 不同點 不同点 [bu4 tong2 dian3] /különböző; amiben két dolog nem közös/
+# Ver 2019-09-30T08:50:05Z gabor Stat-New >szerintem ez ilyen egyszerű :)
+# 不同點 不同点 [bu4 tong2 dian3] /eltérés; különbség (jellemzően vélemények között)/
+# Ver 2019-09-30T08:50:11Z gabor Stat-Verif >.
+不同點 不同点 [bu4 tong2 dian3] /eltérés; különbség (jellemzően vélemények között)/
 
 # ID-p11uH6q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
