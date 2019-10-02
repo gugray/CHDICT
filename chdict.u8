@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2019-10-01T02:00:01Z
+# Datenstand: 2019-10-02T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -10909,6 +10909,10 @@
 # ID-c54kN2s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 木 木 [mu4] /fa/fa|anyag/fából készült/zsibbadt; érzéketlen/(családnév) Mu/
+
+# ID-c54np8v
+# Ver 2019-10-01T20:27:13Z GaoYanuo Stat-New >tanár, korpusz, CCEDICT
+快遞 快递 [kuai4 di4] /expressz (vonat, küldemény, stb.)/
 
 # ID-c54pE5V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -44439,6 +44443,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 得力 得力 [de2 li4] /képes/kompetens/hatékony/(tulajdonnév) Deli (irodaszerek)/
 
+# ID-k31uR0M
+# Ver 2019-10-01T20:22:48Z GaoYanuo Stat-New >tanár, CCEDICT, képtalálatok
+單肩包 单肩包 [dan1 jian1 bao1] /válltáska/
+
 # ID-k31Bh6r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 保密 保密 [bao3 mi4] /titokban tart/titok|tartás/
@@ -57787,6 +57795,8 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-n38Wv2C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
+# 護理 护理 [hu4 li3] /gondoz/ápol/
+# Ver 2019-10-01T20:33:55Z GaoYanuo Stat-Verif >a tanár szerint olyan szakápolót is így neveznek, akit súlyosabb betegek, vagy komolyabb ellátást igénylő rokkantak, öregek mellé vannak beosztva.
 護理 护理 [hu4 li3] /gondoz/ápol/
 
 # ID-n38XU2M
@@ -60915,6 +60925,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # ID-o13DE4q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 羅 罗 [luo2] /géz/madarat fog (hálóval)/össze|gyűjt/el|kap/szitál/(családnév) Luo/
+
+# ID-o13Ec2v
+# Ver 2019-10-01T20:30:14Z GaoYanuo Stat-New >tanár, korpusz
+快遞員 快递员 [kuai4 di4 yuan2] /futár (alkalmazott, aki [többnyire online]rendelést teljesít)/
 
 # ID-o13Mu7T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
