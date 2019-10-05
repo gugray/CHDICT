@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2019-10-03T02:00:01Z
+# Datenstand: 2019-10-05T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -397,7 +397,9 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 包裝 包装 [bao1 zhuang1] /be|csomagol/csomagolás/
 # Ver 2019-03-20T10:44:55Z GaoYanuo Stat-Verif >tanár,\nhttps://www.xyzdict.com/en/chinese-english/%E5%8C%85%E8%A3%85
-包裝 包装 [bao1 zhuang1] /be|csomagol/csomagolás/külcsín; külső megjelenés/
+# 包裝 包装 [bao1 zhuang1] /be|csomagol/csomagolás/külcsín; külső megjelenés/
+# Ver 2019-10-04T15:04:27Z gabor Stat-Verif >ez nem különálló jelentés, hanem a csomagolás  átvitt használata, pont úgy, ahogy magyarban is :)
+包裝 包装 [bao1 zhuang1] /be|csomagol/csomagolás/
 
 # ID-a07Mf4X
 # Ver 2017-05-21T23:18:47Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
@@ -1596,7 +1598,13 @@
 
 # ID-a34zr4M
 # Ver 2019-03-22T17:49:42Z GaoYanuo Stat-New >tanár, CC-CEDICT
-筆順 笔顺 [bi3 shun4] /vonás sorrend (kínai karakterek írásakor)/
+# 筆順 笔顺 [bi3 shun4] /vonás sorrend (kínai karakterek írásakor)/
+# Ver 2019-10-04T15:11:47Z gabor Stat-New >.
+# 筆順 笔顺 [bi3 shun4] /vonás|sorrend (kínai írásban)/
+# Ver 2019-10-04T15:12:04Z gabor Stat-New >,
+# 筆順 笔顺 [bi3 shun4] /vonás|sorrend (írásjegyeké)/
+# Ver 2019-10-04T15:12:11Z gabor Stat-Verif >.
+筆順 笔顺 [bi3 shun4] /vonás|sorrend (írásjegyeké)/
 
 # ID-a34HN4F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -4736,7 +4744,9 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 蒼蠅 苍蝇 [cang1 ying5] /légy/házi|légy/SZ:隻|只[zhi1]/
 # Ver 2019-03-30T06:49:57Z GaoYanuo Stat-Verif >Azonos alakú szavak megkülönböztetése.
-蒼蠅 苍蝇 [cang1 ying5] /légy (rovar)/házi|légy/SZ:隻|只[zhi1]/
+# 蒼蠅 苍蝇 [cang1 ying5] /légy (rovar)/házi|légy/SZ:隻|只[zhi1]/
+# Ver 2019-10-04T15:21:35Z gabor Stat-Verif >ha csak a légy állna itt, én is egyértelműsítenék, de így, hogy a házilégy a másik, szerintem nagyon kell akarni, hogy valaki félreértse :)
+蒼蠅 苍蝇 [cang1 ying5] /légy/házi|légy/SZ:隻|只[zhi1]/
 
 # ID-b06wk3N
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -7135,7 +7145,9 @@
 # Ver 2019-03-09T19:40:22Z GaoYanuo Stat-Verif >Pontosítás. Hongkong és Makaó is a Kínai Népköztársaság része.
 # 大陸 大陆 [da4 lu4] /kontinens/szárazföld/Kína (a Kínai Népköztársaság Hongkong és Makaó nélkül)/SZ:個|个[ge4],塊|块[kuai4]/
 # Ver 2019-03-18T07:18:32Z GaoYanuo Stat-Verif >Forrás: anyanyelvi tanár.
-大陸 大陆 [da4 lu4] /kontinens/szárazföld/A kontinentális Kína (a Kínai Népköztársaság Hongkong, Makaó és Tajvan nélkül)/SZ:個|个[ge4],塊|块[kuai4]/
+# 大陸 大陆 [da4 lu4] /kontinens/szárazföld/A kontinentális Kína (a Kínai Népköztársaság Hongkong, Makaó és Tajvan nélkül)/SZ:個|个[ge4],塊|块[kuai4]/
+# Ver 2019-10-04T14:16:48Z gabor Stat-Verif >stimmt
+大陸 大陆 [da4 lu4] /kontinens/szárazföld/kontinentális Kína (a Kínai Népköztársaság Hongkong, Makaó és Tajvan nélkül)/SZ:個|个[ge4],塊|块[kuai4]/
 
 # ID-b63Ua4M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -8058,7 +8070,11 @@
 
 # ID-b86cs4J
 # Ver 2019-03-09T19:08:26Z GaoYanuo Stat-New >http://www.youdao.com/w/%E7%89%A9%E4%B8%9A%E8%B4%B9/#keyfrom=dict2.top
-物業費 物业费 [wu4 ye4 fei4] /lakbér; lakhatási költség/
+# 物業費 物业费 [wu4 ye4 fei4] /lakbér; lakhatási költség/
+# Ver 2019-10-04T13:58:19Z gabor Stat-New >ez minden jel szerint property _management_ fee, más válatozatában 物业管理费\nszóval inkább valami közösköltség-féle
+# 物業費 物业费 [wu4 ye4 fei4] /ingatlan üzemeltetési díj/
+# Ver 2019-10-04T13:58:22Z gabor Stat-Verif >.
+物業費 物业费 [wu4 ye4 fei4] /ingatlan üzemeltetési díj/
 
 # ID-b86lY3j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -8998,6 +9014,8 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 葉子 叶子 [ye4 zi5] /levél/SZ:片[pian4]/lomb; lombozat/
 # Ver 2019-03-29T12:09:27Z GaoYanuo Stat-Verif >.
+# 葉子 叶子 [ye4 zi5] /levél (növényé)/SZ:片[pian4]/lomb; lombozat/
+# Ver 2019-10-04T15:20:48Z gabor Stat-Verif >ok
 葉子 叶子 [ye4 zi5] /levél (növényé)/SZ:片[pian4]/lomb; lombozat/
 
 # ID-c08bC4D
@@ -9578,7 +9596,11 @@
 
 # ID-c23MJ5X
 # Ver 2019-03-29T09:27:25Z GaoYanuo Stat-New >tanár, CC-CEDICT, Pleco, stb.
-死心眼兒 死心眼儿 [si3 xin1 yan3 r5] /makacs/fafej (nem meggyőzhető)/vaskalapos (szabályokhoz mereven ragaszkodó)/
+# 死心眼兒 死心眼儿 [si3 xin1 yan3 r5] /makacs/fafej (nem meggyőzhető)/vaskalapos (szabályokhoz mereven ragaszkodó)/
+# Ver 2019-10-04T15:20:19Z gabor Stat-New >.
+# 死心眼兒 死心眼儿 [si3 xin1 yan3 r5] /makacs/állhatatos/szűk látókörű/
+# Ver 2019-10-04T15:20:22Z gabor Stat-Verif >.
+死心眼兒 死心眼儿 [si3 xin1 yan3 r5] /makacs/állhatatos/szűk látókörű/
 
 # ID-c24au4C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -9959,7 +9981,11 @@
 
 # ID-c33rC2B
 # Ver 2019-03-09T18:53:07Z GaoYanuo Stat-New >tanár,\nhttp://www.youdao.com/w/%E6%9C%89%E5%9E%8B/#keyfrom=dict2.top
-有型 有型 [you3 xing2] /stílusos/divatos/menő/jóképű/
+# 有型 有型 [you3 xing2] /stílusos/divatos/menő/jóképű/
+# Ver 2019-10-04T13:54:13Z gabor Stat-New >és akkor már a 型-et is átszerveztem picit :)
+# 有型 有型 [you3 xing2] /stílusos/
+# Ver 2019-10-04T13:54:16Z gabor Stat-Verif >.
+有型 有型 [you3 xing2] /stílusos/
 
 # ID-c33yx7J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -14872,7 +14898,9 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2019-03-09T19:32:14Z GaoYanuo Stat-Verif >http://www.youdao.com/w/%E7%90%86%E7%94%B1/#keyfrom=dict2.top
 # 理由 理由 [li3 you2] /indok/indoklás/ok/mentség/kifogás/SZ:個|个[ge4]/
 # Ver 2019-03-09T19:35:15Z GaoYanuo Stat-Verif >.
-理由 理由 [li3 you2] /indok/indoklás/ok/mentség/kifogás; ürügy/SZ:個|个[ge4]/
+# 理由 理由 [li3 you2] /indok/indoklás/ok/mentség/kifogás; ürügy/SZ:個|个[ge4]/
+# Ver 2019-10-04T14:16:20Z gabor Stat-Verif >ezeket a plusz árnyalatokat egyik szótárban sem lelem (CEDICT, PLC, ABC), és a korpuszban is csak nagyon elvétve. szerintem nem része a szónak, csak épp így is lehet használni adott kontextusban, ahogy az "indok"-ot is, ha úgy veszed. pláne a többi jelentés mellett ilyen nagy számban nem tetszenek itt, úgyhogy ezt visszacsinálom.
+理由 理由 [li3 you2] /ok/indok; indoklás/SZ:個|个[ge4]/
 
 # ID-d44lG8h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -18714,7 +18742,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-e32On7c
 # Ver 2019-03-09T19:11:51Z GaoYanuo Stat-New >http://www.youdao.com/w/%E6%A5%BC%E6%88%BF/#keyfrom=dict2.top\nCC_CEDICT
-樓房 楼房 [lou2 fang2] /bérház, blokkház, több emeletes ház/
+# 樓房 楼房 [lou2 fang2] /bérház, blokkház, több emeletes ház/
+# Ver 2019-10-04T13:59:12Z gabor Stat-New >.
+# 樓房 楼房 [lou2 fang2] /emeletes ház/
+# Ver 2019-10-04T13:59:15Z gabor Stat-Verif >.
+樓房 楼房 [lou2 fang2] /emeletes ház/
 
 # ID-e32Sj1l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -23099,6 +23131,12 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-27T15:46:21Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
 胡錦濤 胡锦涛 [hu2 jin3 tao1] /(személynév) Hu Csin-tao (1942–)/
 
+# ID-f37ml7s
+# Ver 2019-10-04T14:29:18Z gabor Stat-New >ha már van 小葱拌豆腐一清二白\nCEDICT, ABC etc
+# 一清二白 一清二白 [yi1 qing1 er4 bai2] /(kifejezés) teljesen tiszta; makulátlan; feddhetetlen/
+# Ver 2019-10-04T14:32:09Z gabor Stat-Verif >.
+一清二白 一清二白 [yi1 qing1 er4 bai2] /(kifejezés) teljesen tiszta; makulátlan; feddhetetlen/
+
 # ID-f37nJ3h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 大伙 大伙 [da4 huo3] /mindenki/mi mindannyian/
@@ -25572,7 +25610,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2019-03-20T10:48:57Z GaoYanuo Stat-New >tanár, CC_EDICT
 # 先後順序 先后顺序 [xian1 hou4 shun4 xu4] /fontossági sorrend/
 # Ver 2019-03-20T10:50:42Z GaoYanuo Stat-New >lemaradt az előbb...
-先後順序 先后顺序 [xian1 hou4 shun4 xu4] /fontossági sorrend/megfelelő sorrend/
+# 先後順序 先后顺序 [xian1 hou4 shun4 xu4] /fontossági sorrend/megfelelő sorrend/
+# Ver 2019-10-04T15:08:21Z gabor Stat-New >ez kemény dió, mert 顺序 az már maga az, hogy sorrend, és akkor ez itt az elő-utánisági sorrend... gyanús, hogy ha valaki ezt írja, kicsit mellébeszél :)
+# 先後順序 先后顺序 [xian1 hou4 shun4 xu4] /sorrend (fontossági, időrendi, érkezési: valamiféle természetes egymásutániságnak megfelelő)/
+# Ver 2019-10-04T15:08:24Z gabor Stat-Verif >.
+先後順序 先后顺序 [xian1 hou4 shun4 xu4] /sorrend (fontossági, időrendi, érkezési: valamiféle természetes egymásutániságnak megfelelő)/
 
 # ID-f92xj1O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -35103,7 +35145,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 平 平 [ping2] /lapos/sima/egyenlő (egy szintben van vmivel)/döntetlen/békés/
 # Ver 2019-03-09T19:24:48Z GaoYanuo Stat-Verif >forrás: anyanyelvi tanár
-平 平 [ping2] /lapos/sima/egyenlő (egy szintben van vmivel)/döntetlen/békés/négyzetméter (a 平方米 rövidítése) /
+# 平 平 [ping2] /lapos/sima/egyenlő (egy szintben van vmivel)/döntetlen/békés/négyzetméter (a 平方米 rövidítése) /
+# Ver 2019-10-04T14:06:49Z gabor Stat-Verif >saját megfigyelés :) illetve:\nhttps://onlineconversion.vbulletin.net/forum/main-forums/convert-and-calculate/411-taiwan-pings
+平 平 [ping2] /lapos/sima/egyenlő (egy szintben van vmivel)/döntetlen/békés/(alapterület mértékegysége, helyenként eltérő jelentéssel: a 平方米 rövidítéseként négyzetméter; Tajvanban kb. 3,3 négyzetméter, egy tatami mérete) /
 
 # ID-i14sX6O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -35898,7 +35942,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 張開 张开 [zhang1 kai1] /ki|terít/ki|nyit/ki|terjed/
 # Ver 2019-03-24T02:16:27Z GaoYanuo Stat-Verif >tanár, HSK4 standard course textbook, Pleco
-張開 张开 [zhang1 kai1] /ki|terít/ki|nyit/ki|terjed/ki|tát (szájat, pofát)/
+# 張開 张开 [zhang1 kai1] /ki|terít/ki|nyit/ki|terjed/ki|tát (szájat, pofát)/
+# Ver 2019-10-04T15:16:50Z gabor Stat-Verif >ez szerintem ugyanaz, mint a kinyit, csak a magyar sajátsága, hogy ha szájat nyitunk, akkor arra inkább a tátot használjuk :) ilyen erővel jöhetne a tár is (kezet) stb.
+張開 张开 [zhang1 kai1] /ki|terít/ki|nyit/ki|terjed/
 
 # ID-i33uR3Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -36572,7 +36618,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-i50hN4S
 # Ver 2019-03-09T19:27:40Z GaoYanuo Stat-New >http://www.youdao.com/w/%E6%8D%90%E9%92%B1/#keyfrom=dict2.top
-捐錢 捐钱 [juan1 qian2] /adomány/pénz gyűjtés adományozáshoz/
+# 捐錢 捐钱 [juan1 qian2] /adomány/pénz gyűjtés adományozáshoz/
+# Ver 2019-10-04T14:10:59Z gabor Stat-New >teljesen transzparens, a részei összege; külön szócikként nem is nagyon veszik fel, csak az ABC-ben találtam.
+# 捐錢 捐钱 [juan1 qian2] /pénzt adományoz/
+# Ver 2019-10-04T14:11:01Z gabor Stat-Verif >.
+捐錢 捐钱 [juan1 qian2] /pénzt adományoz/
 
 # ID-i50vZ9J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -38371,7 +38421,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-i90ID8z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-型 型 [xing2] /modell/minta/típus/
+# 型 型 [xing2] /modell/minta/típus/
+# Ver 2019-10-04T13:53:53Z gabor Stat-Verif >有型 ürügyén
+型 型 [xing2] /modell; típus/minta/stílus/
 
 # ID-i90Ls5Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -39543,7 +39595,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 丟 丢 [diu1] /el|veszít/el|veszik/el|dob/
 # Ver 2019-03-23T02:08:53Z GaoYanuo Stat-Verif >Bartos-Hamar és Youdao alapján kiegészítve.\nhttp://www.youdao.com/w/%E4%B8%A2/#keyfrom=dict2.top
-丟 丢 [diu1] /el|veszít/el|veszik/el|dob/elvet (ötletet pl.)/
+# 丟 丢 [diu1] /el|veszít/el|veszik/el|dob/elvet (ötletet pl.)/
+# Ver 2019-10-04T15:14:48Z gabor Stat-Verif >ok
+丟 丢 [diu1] /el|veszít/el|veszik/el|dob/félre|tesz/elvet (pl. ötletet)/
 
 # ID-j18Lp2W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -43357,7 +43411,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2019-03-18T07:35:48Z GaoYanuo Stat-Verif >tanár, \nhttps://www.purpleculture.net/sample-sentences/?word=%E9%9A%8F%E4%BE%BF
 # 隨便 随便 [sui2 bian4] /ahogy tetszik/találomra/lezser/könnyelmű/önkényes/csak nyugodtan (invitáláskor, kínáláskor)/
 # Ver 2019-03-18T07:38:10Z GaoYanuo Stat-Verif >előző bejegyzés szerint
-隨便 随便 [sui2 bian4] /ahogy tetszik/találomra/lezser/könnyelmű/önkényes; féktelen/csak nyugodtan (invitáláskor, kínáláskor)/
+# 隨便 随便 [sui2 bian4] /ahogy tetszik/találomra/lezser/könnyelmű/önkényes; féktelen/csak nyugodtan (invitáláskor, kínáláskor)/
+# Ver 2019-10-04T14:18:57Z gabor Stat-Verif >ok
+隨便 随便 [sui2 bian4] /ahogy tetszik/találomra/lezser/könnyelmű/önkényes; féktelen/csak nyugodtan (kínáláskor)/
 
 # ID-k07ru5W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -45085,7 +45141,12 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-k46Zt2k
 # Ver 2019-03-18T07:56:08Z GaoYanuo Stat-New >Forrás: tanár, Pleco megerősíti.\nhttp://www.ichacha.net/%E5%B0%8F%E8%91%B1%E6%8B%8C%E8%B1%86%E8%85%90,%E4%B8%80%E6%B8%85%E4%BA%8C%E7%99%BD.html
-小蔥拌豆腐一清二白 小葱拌豆腐一清二白 [xiao3 cong1 ban4 dou4 fu3 yi1 qing1 er4 bai2] /(kifejezés) Egyszerű,mint a faék. (Szó szerint: egyszerű, mint egy tál tofu hagymával.)/
+# 小蔥拌豆腐一清二白 小葱拌豆腐一清二白 [xiao3 cong1 ban4 dou4 fu3 yi1 qing1 er4 bai2] /(kifejezés) Egyszerű,mint a faék. (Szó szerint: egyszerű, mint egy tál tofu hagymával.)/
+# Ver 2019-10-04T14:20:22Z gabor Stat-New >szép!
+# 小蔥拌豆腐一清二白 小葱拌豆腐一清二白 [xiao3 cong1 ban4 dou4 fu3 yi1 qing1 er4 bai2] /(kifejezés) egyszerű, mint a faék/
+# Ver 2019-10-04T14:20:25Z gabor Stat-Verif >.
+# Ver 2019-10-04T14:31:44Z gabor Stat-Flagged >egyelőre inkább megjelölöm, mert az 一清二白 jelentése nem az egyszerűségre, hanem a tisztaságra, feddehetetlenségre utal... egyáltalán egy kifejezés ez, vagy kettő? nyomozunk.
+小蔥拌豆腐一清二白 小葱拌豆腐一清二白 [xiao3 cong1 ban4 dou4 fu3 yi1 qing1 er4 bai2] /(kifejezés) egyszerű, mint a faék/
 
 # ID-k47dm1a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -49304,7 +49365,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2019-03-20T09:46:28Z GaoYanuo Stat-Verif >https://language.chinaabout.net/ba-er-translation-meaning-pronunciation-examples/
 # 把兒 把儿 [ba4 r5] /fogantyú/nyél/kilincs/
 # Ver 2019-03-20T09:48:05Z GaoYanuo Stat-Verif >tanár, képtalálatok a google-on.
-把兒 把儿 [ba4 r5] /fogantyú/nyél/kilincs/fül (edényeké)/
+# 把兒 把儿 [ba4 r5] /fogantyú/nyél/kilincs/fül (edényeké)/
+# Ver 2019-10-04T14:39:52Z gabor Stat-Verif >ez mind ugyanaz :)
+把兒 把儿 [ba4 r5] /fogantyú; nyél; kilincs; fül (bármi kézzel megfogható, fogantyúféle)/
 
 # ID-l42BE5p
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -49362,7 +49425,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 增加 增加 [zeng1 jia1] /növel/emel/meg|nő (több lesz)/
 # Ver 2019-03-18T15:22:03Z GaoYanuo Stat-Verif >forrás: tanár
-增加 增加 [zeng1 jia1] /növel/emel/meg|nő (több lesz)/gyarapít (tudást, stb.)/
+# 增加 增加 [zeng1 jia1] /növel/emel/meg|nő (több lesz)/gyarapít (tudást, stb.)/
+# Ver 2019-10-04T14:37:34Z gabor Stat-Verif >igaz, nem csak tárgyas igeként működik. a növel/emel/gyarapít viszont kb. mind variáció ugyanarra, összevontam őket.
+增加 增加 [zeng1 jia1] /növel; emel; gyarapít/meg|nő (több lesz)/
 
 # ID-l44dp6I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -51042,7 +51107,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2019-03-18T15:46:13Z GaoYanuo Stat-Verif >https://www.purpleculture.net/sample-sentences/?word=%E5%85%BB%E6%88%90
 # 養成 养成 [yang3 cheng2] /művel (rendszeresen csinál vmit)/szokásává tesz; rászokik, szoktat/meg|szerez/
 # Ver 2019-03-21T10:43:56Z GaoYanuo Stat-Verif >pontosvessző
-養成 养成 [yang3 cheng2] /művel (rendszeresen csinál vmit)/szokásává tesz; rászokik; szoktat/meg|szerez/
+# 養成 养成 [yang3 cheng2] /művel (rendszeresen csinál vmit)/szokásává tesz; rászokik; szoktat/meg|szerez/
+# Ver 2019-10-04T15:11:10Z gabor Stat-Verif >a szoktat jelentést én nem lelem szótárakban, példákban; rászokik jogos, jó kis megfelelő
+養成 养成 [yang3 cheng2] /művel (rendszeresen csinál vmit)/szokásává tesz; rá|szokik/meg|szerez/
 
 # ID-l82Cx0N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -54338,7 +54405,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 猜 猜 [cai1] /ki|talál/
 # Ver 2019-03-18T15:07:01Z GaoYanuo Stat-Verif >tanár, Bartos-Hamar megerősíti
-猜 猜 [cai1] /ki|talál; találgat/saccol/gyanakszik; gyanít/
+# 猜 猜 [cai1] /ki|talál; találgat/saccol/gyanakszik; gyanít/
+# Ver 2019-10-04T14:35:51Z gabor Stat-Verif >a gyanít valóban felbukkan a szótárakban\negyszótagos szó lévén nem cifráznám, az összetételeiben elég szépen előjön mind a két értelem, szerintem elég nagy vonalakban utalni rájuk
+猜 猜 [cai1] /ki|talál/gyanít/
 
 # ID-m57Rq9S
 # Ver 2017-05-31T18:22:18Z 小川好友 Stat-New >A fogalomról kínai nyelven lehet olvasni itt/关于这个表现可以读汉语的这里: https://zh.wikipedia.org/wiki/菩提心\nA fogalomról magyar nyelven lehet olvasni a következő könyvben/关于这个表现可以读匈牙利语的这本书: Andrew Skilton: A buddhizmus rövid története, Damaru Könyvkiadó, 2013 (96-97. oldalon/从九十六页，到九十七页)
@@ -54543,7 +54612,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-m62iJ8n
 # Ver 2019-03-20T10:03:33Z GaoYanuo Stat-New >tanár,\nhttps://eng.ichacha.net/%E9%A2%98%E5%9E%8B.html
-題型 题型 [ti2 xing2] /vizsgakérdés, tesztkérdés/
+# 題型 题型 [ti2 xing2] /vizsgakérdés, tesztkérdés/
+# Ver 2019-10-04T14:54:44Z gabor Stat-New >.
+# 題型 题型 [ti2 xing2] /kérdés|típus (tesztben, vizsgán)/
+# Ver 2019-10-04T14:54:55Z gabor Stat-Verif >.
+題型 题型 [ti2 xing2] /kérdés|típus (tesztben, vizsgán)/
 
 # ID-m62rn4z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -63207,7 +63280,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-o66Si4v
 # Ver 2019-03-09T19:15:13Z GaoYanuo Stat-New >CC-CEDICT
-物價 物价 [wu4 jia4] /fogyasztói ár/
+# 物價 物价 [wu4 jia4] /fogyasztói ár/
+# Ver 2019-10-04T14:03:09Z gabor Stat-New >nem kimondottan fogyasztói ár ez, hanem általában "árak" - minden együtt, amin pl. az infláció alapul.
+# 物價 物价 [wu4 jia4] /árak (fogyasztói cikkek, nyersanyagok árai)/
+# Ver 2019-10-04T14:03:13Z gabor Stat-Verif >.
+物價 物价 [wu4 jia4] /árak (fogyasztói cikkek, nyersanyagok árai)/
 
 # ID-o67ir6B
 # Ver 2017-12-29T19:31:35Z gabor Stat-New >korpusz; 家室 jellemző előfordulása
@@ -63838,7 +63915,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-o81IJ8X
 # Ver 2019-03-20T10:10:00Z GaoYanuo Stat-New >tanár\nhttps://eng.ichacha.net/%E5%88%A4%E6%96%AD%E9%A2%98.html
-判斷題 判断题 [pan4 duan4 ti2] /eldöntendő kérdés/igen-nem kérdés (tesztlapon)/
+# 判斷題 判断题 [pan4 duan4 ti2] /eldöntendő kérdés/igen-nem kérdés (tesztlapon)/
+# Ver 2019-10-04T14:57:49Z gabor Stat-New >az eldöntendő kérdést kiveszem, az egyfajta nyelvtani kategória, nem tesztkérdésre vonatkozik
+# 判斷題 判断题 [pan4 duan4 ti2] /igen-nem kérdés (tesztlapon)/
+# Ver 2019-10-04T14:57:52Z gabor Stat-Verif >.
+判斷題 判断题 [pan4 duan4 ti2] /igen-nem kérdés (tesztlapon)/
 
 # ID-o81Lo8v
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -64123,6 +64204,12 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # ID-o87HG5b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 戈 戈 [ge1] /alabárd (kínai fegyver a régmúltból)/(családnév) Ge/
+
+# ID-o87KH1W
+# Ver 2019-10-04T14:22:15Z gabor Stat-New >ha már van 小葱拌豆腐一清二白\nCEDICT, ABC
+# 拌 拌 [ban4] /össze|kever/
+# Ver 2019-10-04T14:32:12Z gabor Stat-Verif >.
+拌 拌 [ban4] /össze|kever/
 
 # ID-o87MN3T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -64597,7 +64684,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-o97sT3R
 # Ver 2019-03-24T02:30:29Z GaoYanuo Stat-New >tankönyv, CC-CEDICT, Pleco
-受歡迎 受欢迎 [shou4 huan1 ying2] /népszerű/üdvözölt; üdvös/
+# 受歡迎 受欢迎 [shou4 huan1 ying2] /népszerű/üdvözölt; üdvös/
+# Ver 2019-10-04T15:18:13Z gabor Stat-New >ez a huanying/welcome az nem az üdvözlés, hanem a fogadtatás szerintem
+# 受歡迎 受欢迎 [shou4 huan1 ying2] /népszerű/pozitív fogadtatásban részesül/
+# Ver 2019-10-04T15:18:15Z gabor Stat-Verif >.
+受歡迎 受欢迎 [shou4 huan1 ying2] /népszerű/pozitív fogadtatásban részesül/
 
 # ID-o97ud4x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
