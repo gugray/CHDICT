@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2019-10-05T02:00:01Z
+# Datenstand: 2019-10-06T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -19996,7 +19996,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-e61rd3n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-裝修 装修 [zhuang1 xiu1] /fel|újít/renovál/dekorál/
+# 裝修 装修 [zhuang1 xiu1] /fel|újít/renovál/dekorál/
+# Ver 2019-10-05T15:36:19Z GaoYanuo Stat-Verif >Bartos-Hamar alapján kiegészítve.
+裝修 装修 [zhuang1 xiu1] /fel|újít/renovál/dekorál/felszerel/
 
 # ID-e61KE8k
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -30052,7 +30054,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 串 串 [chuan4] /össze|fűz; fel|fűz/össze|játszik; össze|esküszik/össze|kever (nem összatartozó dolgokat)/egyik helyről a másikra megy/karakter|lánc; string (számítástechnika)/szerepet játszik (színdarabban)/(számlálószó) sorozat; lánc; fürt/
 # Ver 2017-05-21T18:14:08Z Adam Stat-Verif >elírás javítása
-串 串 [chuan4] /össze|fűz; fel|fűz/össze|játszik; össze|esküszik/össze|kever (nem összetartozó dolgokat)/egyik helyről a másikra megy/karakter|lánc; string (számítástechnika)/szerepet játszik (színdarabban)/(számlálószó) sorozat; lánc; fürt/
+# 串 串 [chuan4] /össze|fűz; fel|fűz/össze|játszik; össze|esküszik/össze|kever (nem összetartozó dolgokat)/egyik helyről a másikra megy/karakter|lánc; string (számítástechnika)/szerepet játszik (színdarabban)/(számlálószó) sorozat; lánc; fürt/
+# Ver 2019-10-05T15:16:55Z GaoYanuo Stat-Verif >ha már fűz...
+串 串 [chuan4] /össze|fűz; fel|fűz/össze|játszik; össze|esküszik/össze|kever (nem összetartozó dolgokat)/egyik helyről a másikra megy/karakter|lánc; string (számítástechnika)/szerepet játszik (színdarabban)/(számlálószó) sorozat; lánc; fürt; füzér/
 
 # ID-g94uH0z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -43027,7 +43031,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-j99at3O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-灰塵 灰尘 [hui1 chen2] /por/
+# 灰塵 灰尘 [hui1 chen2] /por/
+# Ver 2019-10-05T15:56:11Z GaoYanuo Stat-Verif >Barto-Hamar alapján kieg.
+灰塵 灰尘 [hui1 chen2] /por/piszok/
 
 # ID-j99by0L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -45146,7 +45152,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # 小蔥拌豆腐一清二白 小葱拌豆腐一清二白 [xiao3 cong1 ban4 dou4 fu3 yi1 qing1 er4 bai2] /(kifejezés) egyszerű, mint a faék/
 # Ver 2019-10-04T14:20:25Z gabor Stat-Verif >.
 # Ver 2019-10-04T14:31:44Z gabor Stat-Flagged >egyelőre inkább megjelölöm, mert az 一清二白 jelentése nem az egyszerűségre, hanem a tisztaságra, feddehetetlenségre utal... egyáltalán egy kifejezés ez, vagy kettő? nyomozunk.
-小蔥拌豆腐一清二白 小葱拌豆腐一清二白 [xiao3 cong1 ban4 dou4 fu3 yi1 qing1 er4 bai2] /(kifejezés) egyszerű, mint a faék/
+# Ver 2019-10-05T15:06:50Z GaoYanuo Stat-Flagged >http://www.china.org.cn/learning_chinese/allegories/2008-07/01/content_15917240.htm\nutánanéztem több helyen, gondolom, elég, ha csak egyet linkelek ide. Valóban nem az egyszerűségre utal, hanem arra, hogy valami nyilvánvaló, egyből látható. (Végül is a bonyolult dolgok nem tartoznak ebbe a körbe...) 
+# 小蔥拌豆腐一清二白 小葱拌豆腐一清二白 [xiao3 cong1 ban4 dou4 fu3 yi1 qing1 er4 bai2] /(kifejezés) világos, mint a nap/
+# Ver 2019-10-05T15:09:35Z GaoYanuo Stat-Flagged >az 二白 meg a 明明白白-ból eredhet.\nhttps://eng.ichacha.net/%E4%B8%80%E6%B8%85%E4%BA%8C%E6%A5%9A%EF%BC%9B%E6%98%8E%E6%98%8E%E7%99%BD%E7%99%BD.html
+小蔥拌豆腐一清二白 小葱拌豆腐一清二白 [xiao3 cong1 ban4 dou4 fu3 yi1 qing1 er4 bai2] /(kifejezés) világos, mint a nap/
 
 # ID-k47dm1a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
