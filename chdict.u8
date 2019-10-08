@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2019-10-06T02:00:01Z
+# Datenstand: 2019-10-08T21:16:11Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -412,6 +412,10 @@
 # ID-a07Ym8j
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 老爺 老爷 [lao3 ye5] /uraság; úr; lord/
+
+# ID-a07Zx0d
+# Ver 2019-10-08T18:45:33Z GaoYanuo Stat-New >Tanár, CEDICT, korpusz
+霧霾 雾霾 [wu4 mai2] /köd/szmog/
 
 # ID-a08ph6c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -52576,7 +52580,13 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-m17MH8O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-臨 临 [lin2] /nyílik; néz (vmire)/közel van (vmihez)/mindjárt; épp; a határán van (hogy vmi megtörténjen)/
+# 臨 临 [lin2] /nyílik; néz (vmire)/közel van (vmihez)/mindjárt; épp; a határán van (hogy vmi megtörténjen)/
+# Ver 2019-10-08T18:38:05Z GaoYanuo Stat-Verif >Anyanyelvi tanár, HSK5 tankönyv
+# 臨 临 [lin2] /nyílik; néz (vmire)/közel van (vmihez)/mindjárt; épp; a határán van (hogy vmi megtörténjen)/mentén (út, folyó, stb.)/
+# Ver 2019-10-08T18:41:16Z GaoYanuo Stat-Verif >Belegondoltam, mintha ugyanazt jelentené: Ház a folyó mentén, vagy folyóra néző ház.\nAzért vettenm bele, hogy ha valaki a "mentén"-re keresne rá, ez is a találatok közt legyen.
+# 臨 临 [lin2] /nyílik; néz (vmire); (vmi) mentén (út, folyó, stb.)/közel van (vmihez)/mindjárt; épp; a határán van (hogy vmi megtörténjen)//
+# Ver 2019-10-08T18:42:11Z GaoYanuo Stat-Verif >.
+臨 临 [lin2] /nyílik; néz (vmire); (vmi) mentén (út, folyó, stb.)/közel van (vmihez térben, időben egyaránt)/mindjárt; épp; a határán van (hogy vmi megtörténjen)/
 
 # ID-m17XU9X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -54790,6 +54800,10 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # ID-m66aR7j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 酒後 酒后 [jiu3 hou4] /ivás után/alkoholos befolyásoltság alatt/
+
+# ID-m66kC5x
+# Ver 2019-10-08T18:36:35Z GaoYanuo Stat-New >Tanár, CEDICT
+改革開放 改革开放 [gai3 ge2 kai1 fang4] /(kifejezés) A reform és nyitás politikája (Teng Hsziaoping 80-as évekbeli politikája)/
 
 # ID-m66mc1v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
