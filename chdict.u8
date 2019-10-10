@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2019-10-08T21:16:11Z
+# Datenstand: 2019-10-10T04:00:02Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -415,6 +415,8 @@
 
 # ID-a07Zx0d
 # Ver 2019-10-08T18:45:33Z GaoYanuo Stat-New >Tanár, CEDICT, korpusz
+# 霧霾 雾霾 [wu4 mai2] /köd/szmog/
+# Ver 2019-10-09T15:22:36Z gabor Stat-Verif >.
 霧霾 雾霾 [wu4 mai2] /köd/szmog/
 
 # ID-a08ph6c
@@ -1254,7 +1256,9 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 聽取 听取 [ting1 qu3] /hall (hírt)/értesül (vmiről)/hallgat (vmit)/
 # Ver 2019-04-12T18:17:16Z GaoYanuo Stat-Verif >tanár,\nhttps://www.purpleculture.net/sample-sentences/?word=%E5%90%AC%E5%8F%96\nNehéz eldönteni, hogy a "hallgat" (vmit) mellé zárójelbe kéne-e írni, hogy "vkire", vagy új sorba, mivel teljesen más jelentés...
-聽取 听取 [ting1 qu3] /hall (hírt)/értesül (vmiről)/hallgat (vmit)/hallgat rá; megfogadja a tanácsát vkinek /
+# 聽取 听取 [ting1 qu3] /hall (hírt)/értesül (vmiről)/hallgat (vmit)/hallgat rá; megfogadja a tanácsát vkinek /
+# Ver 2019-10-09T16:05:27Z gabor Stat-Verif >nagy kísértés volt külön sorba írni, de mégis inkább összevontam így. tömörebb, ill. pont ugyanúgy átvitt az értelem, mint a kínaiban, ez így szép!
+聽取 听取 [ting1 qu3] /hall (hírt)/értesül (vmiről)/hallgat (vmit; vkire)/
 
 # ID-a28fo4b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -3825,7 +3829,8 @@
 # 盜圖 盗图 [dao4 tu2] /lop; kalóz|másolatot készít (szellemi terméket engedély nélkül másol vagy felhasznál)/
 # Ver 2019-09-28T17:40:25Z gabor Stat-Verif >mesés fogás!
 # Ver 2019-09-29T12:52:34Z GaoYanuo Stat-Verif >Mondtam én, hogy aranybánya a wechat:-)
-盜圖 盗图 [dao4 tu2] /lop; kalóz|másolatot készít (szellemi terméket engedély nélkül másol vagy felhasznál)/
+# Ver 2019-10-09T16:00:04Z gabor Stat-Verif >neki elhiszem: https://cc-cedict.org/editor/editor.php?log_id=68382&return=ListChanges&handler=ViewLogEntry\n\n:)
+盜圖 盗图 [dao4 tu2] /képet el|lop (engedély nélkül másol vagy felhasznál)/
 
 # ID-a85ww3y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -6105,7 +6110,9 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 達到 达到 [da2 dao4] /el|ér/
 # Ver 2019-03-30T07:52:28Z GaoYanuo Stat-Verif >Jelentésbővítés az angol fordításokban megadott "attain" alapján.
-達到 达到 [da2 dao4] /el|ér (rangot, szintet, célt)/el|jut (vmilyen szintre, hatalomra)/megvalósít (elképzelést, tervet)/
+# 達到 达到 [da2 dao4] /el|ér (rangot, szintet, célt)/el|jut (vmilyen szintre, hatalomra)/megvalósít (elképzelést, tervet)/
+# Ver 2019-10-09T15:54:06Z gabor Stat-Verif >tisztán emlékszem, hogy ezen sokat morfondíroztam, és szándékosan maradtam a nagyon tömör magyar megfejtésnél. annyira sokféleképpen lehet használni, ami mind ugyanezt jelenti, csak picit más-más szót használunk rá magyarban, ha mást érünk el, hogy akkor már kisregényt lehetne írni... szerintem ez elég a megértéshez, és tömörsége miatt hasznosabb.
+達到 达到 [da2 dao4] /el|ér/
 
 # ID-b39va2f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -6807,6 +6814,8 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 想法 想法 [xiang3 fa3] /ötlet/megfontolás/elképzelés/gondolatmenet/SZ:個|个[ge4]/
 # Ver 2019-04-03T10:13:03Z GaoYanuo Stat-Verif >tanár, CC-CEDICT megerősíti ("way of thinking")
+# 想法 想法 [xiang3 fa3] /ötlet/megfontolás/elképzelés/gondolatmenet/gondolkodásmód/SZ:個|个[ge4]/
+# Ver 2019-10-09T15:56:10Z gabor Stat-Verif >ok!
 想法 想法 [xiang3 fa3] /ötlet/megfontolás/elképzelés/gondolatmenet/gondolkodásmód/SZ:個|个[ge4]/
 
 # ID-b56go1z
@@ -11200,7 +11209,9 @@
 # Ver 2019-03-30T07:17:36Z GaoYanuo Stat-Verif >Zárójeles pontosítás a Bartos-Hamar és a HSK4 tankönyv alapján.
 # 力氣 力气 [li4 qi5] /erő (fizikai)/erőfeszítés/SZ:把[ba3]/
 # Ver 2019-04-03T10:14:40Z GaoYanuo Stat-Verif >pontosítás: anyanyelvi tanár
-力氣 力气 [li4 qi5] /erő (fizikai, csak élőlényeké)/erőfeszítés/SZ:把[ba3]/
+# 力氣 力气 [li4 qi5] /erő (fizikai, csak élőlényeké)/erőfeszítés/SZ:把[ba3]/
+# Ver 2019-10-09T16:00:40Z gabor Stat-Verif >ok!
+力氣 力气 [li4 qi5] /erő (fizikai, élőlényeké)/erőfeszítés/SZ:把[ba3]/
 
 # ID-c59ky9d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -20002,6 +20013,8 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 裝修 装修 [zhuang1 xiu1] /fel|újít/renovál/dekorál/
 # Ver 2019-10-05T15:36:19Z GaoYanuo Stat-Verif >Bartos-Hamar alapján kiegészítve.
+# 裝修 装修 [zhuang1 xiu1] /fel|újít/renovál/dekorál/felszerel/
+# Ver 2019-10-09T15:32:21Z gabor Stat-Verif >ok!
 裝修 装修 [zhuang1 xiu1] /fel|újít/renovál/dekorál/felszerel/
 
 # ID-e61KE8k
@@ -23629,7 +23642,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 破 破 [po4] /törött/le|robbant/sérült/rossz minőségű/el|tör/fel|hasít/tönkre|tesz/meg|szabadul (vkitől, vmitől)/le|győz (ellenséget)/el|foglal (várost, területet)/fel|fed (igazságot)/
 # Ver 2019-04-05T14:02:57Z GaoYanuo Stat-Verif >forrás: tanár, példamondat: "我们这个星期全部工作破了。"
-破 破 [po4] /törött/le|robbant/sérült/rossz minőségű/el|tör/fel|hasít/tönkre|tesz; tönkremegy/meg|szabadul (vkitől, vmitől)/le|győz (ellenséget)/el|foglal (várost, területet)/fel|fed (igazságot)/
+# 破 破 [po4] /törött/le|robbant/sérült/rossz minőségű/el|tör/fel|hasít/tönkre|tesz; tönkremegy/meg|szabadul (vkitől, vmitől)/le|győz (ellenséget)/el|foglal (várost, területet)/fel|fed (igazságot)/
+# Ver 2019-10-09T16:01:35Z gabor Stat-Verif >ok!
+破 破 [po4] /törött/le|robbant/sérült/rossz minőségű/el|tör/fel|hasít/tönkretesz; tönkremegy/meg|szabadul (vkitől, vmitől)/le|győz (ellenséget)/el|foglal (várost, területet)/fel|fed (igazságot)/
 
 # ID-f47je5j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -28154,7 +28169,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-g50XL4J
 # Ver 2019-03-30T06:54:33Z GaoYanuo Stat-New >HSK4 tankönyv, CC-CEDICT
-事半功倍 事半功倍 [shi4 ban4 gong1 bei4] /(kifejezés) Két legyet egy csapásra. (többszörös haszna egy dolognak)//
+# 事半功倍 事半功倍 [shi4 ban4 gong1 bei4] /(kifejezés) Két legyet egy csapásra. (többszörös haszna egy dolognak)//
+# Ver 2019-10-09T15:46:31Z gabor Stat-New >.
+# 事半功倍 事半功倍 [shi4 ban4 gong1 bei4] /(kifejezés) két legyet egy csapásra; dupla haszon; hatékony/
+# Ver 2019-10-09T15:46:33Z gabor Stat-Verif >.
+事半功倍 事半功倍 [shi4 ban4 gong1 bei4] /(kifejezés) két legyet egy csapásra; dupla haszon; hatékony/
 
 # ID-g50YI8L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -30060,6 +30079,8 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-21T18:14:08Z Adam Stat-Verif >elírás javítása
 # 串 串 [chuan4] /össze|fűz; fel|fűz/össze|játszik; össze|esküszik/össze|kever (nem összetartozó dolgokat)/egyik helyről a másikra megy/karakter|lánc; string (számítástechnika)/szerepet játszik (színdarabban)/(számlálószó) sorozat; lánc; fürt/
 # Ver 2019-10-05T15:16:55Z GaoYanuo Stat-Verif >ha már fűz...
+# 串 串 [chuan4] /össze|fűz; fel|fűz/össze|játszik; össze|esküszik/össze|kever (nem összetartozó dolgokat)/egyik helyről a másikra megy/karakter|lánc; string (számítástechnika)/szerepet játszik (színdarabban)/(számlálószó) sorozat; lánc; fürt; füzér/
+# Ver 2019-10-09T15:32:11Z gabor Stat-Verif >ok!
 串 串 [chuan4] /össze|fűz; fel|fűz/össze|játszik; össze|esküszik/össze|kever (nem összetartozó dolgokat)/egyik helyről a másikra megy/karakter|lánc; string (számítástechnika)/szerepet játszik (színdarabban)/(számlálószó) sorozat; lánc; fürt; füzér/
 
 # ID-g94uH0z
@@ -30995,7 +31016,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 鹽 盐 [yan2] /só/SZ:粒[li4]/
 # Ver 2019-03-30T08:03:20Z GaoYanuo Stat-Verif >https://eng.ichacha.net/zaoju/%E7%9B%90.html
-鹽 盐 [yan2] /só (étkezési és kémiai értelemben is)/SZ:粒[li4]/
+# 鹽 盐 [yan2] /só (étkezési és kémiai értelemben is)/SZ:粒[li4]/
+# Ver 2019-10-09T15:55:34Z gabor Stat-Verif >szerintem ez már too much information :) az egyszerűség is érték!
+鹽 盐 [yan2] /só/SZ:粒[li4]/
 
 # ID-h15ia4h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -38783,7 +38806,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-i99xP6c
 # Ver 2019-04-21T01:44:20Z GaoYanuo Stat-New >HSK4 tk., \nhttps://www.xyzdict.com/en/chinese-english/%E6%B7%B1%E5%8E%9A
-深厚 深厚 [shen1 hou4] /mély (érzelem, álom, stb)/
+# 深厚 深厚 [shen1 hou4] /mély (érzelem, álom, stb)/
+# Ver 2019-10-09T16:07:45Z gabor Stat-New >.
+# 深厚 深厚 [shen1 hou4] /mély (érzelem, kötelék)/szilárd; mélyen gyökerező/
+# Ver 2019-10-09T16:07:47Z gabor Stat-Verif >.
+深厚 深厚 [shen1 hou4] /mély (érzelem, kötelék)/szilárd; mélyen gyökerező/
 
 # ID-i99Db3E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -43037,7 +43064,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 灰塵 灰尘 [hui1 chen2] /por/
 # Ver 2019-10-05T15:56:11Z GaoYanuo Stat-Verif >Barto-Hamar alapján kieg.
-灰塵 灰尘 [hui1 chen2] /por/piszok/
+# 灰塵 灰尘 [hui1 chen2] /por/piszok/
+# Ver 2019-10-09T15:35:50Z gabor Stat-Verif >kieg, mert pont ráleltem
+灰塵 灰尘 [hui1 chen2] /por/piszok/SZ:粒[li4]/
 
 # ID-j99by0L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -45488,6 +45517,12 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # ID-k54pi1N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 風景 风景 [feng1 jing3] /táj/SZ:個|个[ge4]/
+
+# ID-k54qH9F
+# Ver 2019-10-09T16:10:42Z gabor Stat-New >ha már van 白吃白住 :)
+# 白吃白喝 白吃白喝 [bai2 chi1 bai2 he1] /(kifejezés) ingyenélő; más nyakán él/
+# Ver 2019-10-09T16:10:51Z gabor Stat-Verif >.
+白吃白喝 白吃白喝 [bai2 chi1 bai2 he1] /(kifejezés) ingyenélő; más nyakán él/
 
 # ID-k54wI5n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -52516,7 +52551,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 節約 节约 [jie2 yue1] /takarékoskodik/spórol/
 # Ver 2019-03-30T07:04:36Z GaoYanuo Stat-Verif >a "takarékoskodik", "spórol" szinonimák. A "beoszt", "megóv" az angol fordításokban megadott "to economize", "to conserve" alapján hozzáadva. (HSK4 tankönyv, CC_CEDICT)
-節約 节约 [jie2 yue1] /megtakarít (energiát, időt, stb.)/takarékoskodik; spórol/beoszt (erőforrást, jövedelmet, stb.)/megóv (állagát, állapotát vminek)/
+# 節約 节约 [jie2 yue1] /megtakarít (energiát, időt, stb.)/takarékoskodik; spórol/beoszt (erőforrást, jövedelmet, stb.)/megóv (állagát, állapotát vminek)/
+# Ver 2019-10-09T15:49:47Z gabor Stat-Verif >ok, a megtakarít, beoszt jogos. a "conserve" itt nem az állagmegóvás értelemben van, hanem a "conserve energy" = "save energy" jelentésben.
+節約 节约 [jie2 yue1] /takarékoskodik; spórol/megtakarít; beoszt (erőforrást)/
 
 # ID-m16Il1G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -52586,7 +52623,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2019-10-08T18:41:16Z GaoYanuo Stat-Verif >Belegondoltam, mintha ugyanazt jelentené: Ház a folyó mentén, vagy folyóra néző ház.\nAzért vettenm bele, hogy ha valaki a "mentén"-re keresne rá, ez is a találatok közt legyen.
 # 臨 临 [lin2] /nyílik; néz (vmire); (vmi) mentén (út, folyó, stb.)/közel van (vmihez)/mindjárt; épp; a határán van (hogy vmi megtörténjen)//
 # Ver 2019-10-08T18:42:11Z GaoYanuo Stat-Verif >.
-臨 临 [lin2] /nyílik; néz (vmire); (vmi) mentén (út, folyó, stb.)/közel van (vmihez térben, időben egyaránt)/mindjárt; épp; a határán van (hogy vmi megtörténjen)/
+# 臨 临 [lin2] /nyílik; néz (vmire); (vmi) mentén (út, folyó, stb.)/közel van (vmihez térben, időben egyaránt)/mindjárt; épp; a határán van (hogy vmi megtörténjen)/
+# Ver 2019-10-09T15:44:24Z gabor Stat-Verif >a mentén szétszedtem, csak a jelentés végére tudjuk rakni a "vmi"-féléket, akkor is, ha utoljárószóról van szó
+臨 临 [lin2] /nyílik; néz (vmire)/mentén (vminek)/közel van (vmihez; térben vagy időben)/mindjárt; épp; a határán van (hogy vmi megtörténjen)/
 
 # ID-m17XU9X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -54745,7 +54784,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 定 定 [ding4] /rögzít/el|dönt/meg|határoz/
 # Ver 2019-04-12T16:17:01Z GaoYanuo Stat-Verif >tanár, PLECO
-定 定 [ding4] /rögzít/el|dönt/meg|határoz/előfizet (újságot,stb.)/
+# 定 定 [ding4] /rögzít/el|dönt/meg|határoz/előfizet (újságot,stb.)/
+# Ver 2019-10-09T16:03:35Z gabor Stat-Verif >ok! akkor már "rendel" is
+定 定 [ding4] /rögzít/el|dönt/meg|határoz/előfizet (szolgáltatásra, újságra)/rendel (árut, ételt stb.)/
 
 # ID-m65jC6r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -54803,7 +54844,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-m66kC5x
 # Ver 2019-10-08T18:36:35Z GaoYanuo Stat-New >Tanár, CEDICT
-改革開放 改革开放 [gai3 ge2 kai1 fang4] /(kifejezés) A reform és nyitás politikája (Teng Hsziaoping 80-as évekbeli politikája)/
+# 改革開放 改革开放 [gai3 ge2 kai1 fang4] /(kifejezés) A reform és nyitás politikája (Teng Hsziaoping 80-as évekbeli politikája)/
+# Ver 2019-10-09T15:41:46Z gabor Stat-New >megítélésem szerint ez csak egy bevett elnevezés (még csak nem is nagybetűsen használatos a jelek szerint), nem kifejezés. ill. Deng Xiaoping: nagyon kevés, régről bevett tulajdonnévtől eltekintve (pl. Peking) mindenhol inkább pinyint használ a CHDICT. az ő esetében haboztam, mert picit "bevett" név, de végül a pinyin mellett döntöttem.
+# 改革開放 改革开放 [gai3 ge2 kai1 fang4] /a reform és nyitás politikája (a Deng Xiaoping által 1978-ben elindított gazdasági reformprogram)/
+# Ver 2019-10-09T15:41:52Z gabor Stat-Verif >.
+改革開放 改革开放 [gai3 ge2 kai1 fang4] /a reform és nyitás politikája (a Deng Xiaoping által 1978-ben elindított gazdasági reformprogram)/
 
 # ID-m66mc1v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -57545,6 +57590,8 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 商量 商量 [shang1 liang5] /meg|vitat/át|beszél/konzultál/
 # Ver 2019-03-30T07:59:41Z GaoYanuo Stat-Verif >Csak a magyarosabb változat kedvéért.
+# 商量 商量 [shang1 liang5] /meg|vitat/át|beszél/tanácskozik; konzultál/
+# Ver 2019-10-09T15:54:45Z gabor Stat-Verif >ok!
 商量 商量 [shang1 liang5] /meg|vitat/át|beszél/tanácskozik; konzultál/
 
 # ID-n30XM0F
@@ -58875,7 +58922,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 仔細 仔细 [zi3 xi4] /óvatos/körül|tekintő/figyelmes/
 # Ver 2019-03-30T07:35:11Z GaoYanuo Stat-Verif >A 4. jelentés a HSK4 "meticulous" fordítása alapján hozzáadva.
-仔細 仔细 [zi3 xi4] /óvatos/körül|tekintő/figyelmes/aprólékos, pedáns/
+# 仔細 仔细 [zi3 xi4] /óvatos/körül|tekintő/figyelmes/aprólékos, pedáns/
+# Ver 2019-10-09T15:51:52Z gabor Stat-Verif >az "alapos"-t bele tudom látni a példákba, az picit fedi az "aprólékos"-t. a pedánst nem igazán. átrendeztem eszerint.
+仔細 仔细 [zi3 xi4] /óvatos/körültekintő, alapos/figyelmes/
 
 # ID-n60Ql1T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -64995,7 +65044,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2019-03-09T18:58:03Z GaoYanuo Stat-New >tanár,\nhttp://www.youdao.com/w/eng/%E7%99%BD%E5%90%83%E7%99%BD%E4%BD%8F/?spc=%E7%99%BD%E5%90%83%E7%99%BD%E4%BD%8F#keyfrom=dict.typo
 # 百吃百住 百吃百住 [bai3 chi1 bai3 zhu4] /ingyenélő/élősködés/
 # Ver 2019-04-23T18:39:27Z GaoYanuo Stat-New >sajtóhiba, a百 cseréje 白-ra. (Roppant röstellem, hogy az első bevitelkor nem vettem észre.)
-白吃白住 白吃白住 [bai2 chi1 bai2 zhu4] /ingyenélő/élősködés/más nyakán él/
+# 白吃白住 白吃白住 [bai2 chi1 bai2 zhu4] /ingyenélő/élősködés/más nyakán él/
+# Ver 2019-10-09T16:09:46Z gabor Stat-New >.
+# 白吃白住 白吃白住 [bai2 chi1 bai2 zhu4] /(kifejezés) ingyenélő; más nyakán él/
+# Ver 2019-10-09T16:09:50Z gabor Stat-Verif >/
+白吃白住 白吃白住 [bai2 chi1 bai2 zhu4] /(kifejezés) ingyenélő; más nyakán él/
 
 # ID-p03Cm3W
 # Ver 2019-05-05T20:35:34Z GaoYanuo Stat-New >tanár\nhttps://www.xyzdict.com/en/chinese-english/%E9%AB%98%E9%93%81
