@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2019-10-11T04:00:01Z
+# Datenstand: 2019-10-13T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -879,7 +879,11 @@
 
 # ID-a19wK3u
 # Ver 2017-05-23T14:59:42Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
-約翰馮諾伊曼 约翰冯诺伊曼 [yue1 han4 feng2 nuo4 yi1 man4] /(átirat) Neumann János (matematikus)/
+# 約翰馮諾伊曼 约翰冯诺伊曼 [yue1 han4 feng2 nuo4 yi1 man4] /(átirat) Neumann János (matematikus)/
+# Ver 2019-10-12T14:24:17Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven\n
+# 約翰馮諾伊曼 约翰冯诺伊曼 [yue1 han4 feng2 nuo4 yi1 man4] /(tulajdonnév) Neumann János (matematikus)/
+# Ver 2019-10-12T14:24:21Z gabor Stat-Verif >.
+約翰馮諾伊曼 约翰冯诺伊曼 [yue1 han4 feng2 nuo4 yi1 man4] /(tulajdonnév) Neumann János (matematikus)/
 
 # ID-a19zv8y
 # Ver 2017-05-27T18:28:36Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
@@ -932,7 +936,9 @@
 # 戴伯納 戴伯纳 [dai4 bo2 na4] /(átirat) Tálas Barna (1928–)/
 # Ver 2017-09-05T08:53:20Z gabor Stat-Verif >.
 # Ver 2019-09-12T13:37:27Z Adam Stat-Verif >https://www.facebook.com/710080362438136/photos/a.738909089555263/2362233823889440/ és magyar Wikipédia
-戴伯納 戴伯纳 [dai4 bo2 na4] /(átirat) Tálas Barna (1928–2019)/
+# 戴伯納 戴伯纳 [dai4 bo2 na4] /(átirat) Tálas Barna (1928–2019)/
+# Ver 2019-10-12T14:24:55Z gabor Stat-Verif >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven\n
+戴伯納 戴伯纳 [dai4 bo2 na4] /(tulajdonnév) Tálas Barna (1928–2019)/
 
 # ID-a21ma0c
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -1752,7 +1758,9 @@
 
 # ID-a38bE8s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-拿破崙 拿破仑 [na2 po4 lun2] /(átirat) Napóleon/
+# 拿破崙 拿破仑 [na2 po4 lun2] /(átirat) Napóleon/
+# Ver 2019-10-12T14:27:00Z gabor Stat-Verif >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven\n
+拿破崙 拿破仑 [na2 po4 lun2] /(tulajdonnév) Napóleon (francia hadvezér és politikus, 1769-1821)/
 
 # ID-a38of0S
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -2060,7 +2068,11 @@
 
 # ID-a45pq3q
 # Ver 2017-05-21T21:51:50Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
-納吉伊姆雷 纳吉伊姆雷 [na4 ji2 yi1 mu3 lei2] /(átirat) Nagy Imre (politikus)/
+# 納吉伊姆雷 纳吉伊姆雷 [na4 ji2 yi1 mu3 lei2] /(átirat) Nagy Imre (politikus)/
+# Ver 2019-10-12T14:27:41Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven\n
+# 納吉伊姆雷 纳吉伊姆雷 [na4 ji2 yi1 mu3 lei2] /(tulajdonnév) Nagy Imre (politikus)/
+# Ver 2019-10-12T14:27:43Z gabor Stat-Verif >.
+納吉伊姆雷 纳吉伊姆雷 [na4 ji2 yi1 mu3 lei2] /(tulajdonnév) Nagy Imre (politikus)/
 
 # ID-a45sh1Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -2092,7 +2104,11 @@
 
 # ID-a45LC6t
 # Ver 2017-05-21T21:55:06Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek (a pinjin-átírás ellenőrizendő)
-魯比剋艾爾諾 鲁比克艾尔诺 [lu3 bi3 ke4 ai4 er3 nuo4] /(átirat) Rubik Ernő (játéktervező, a Rubik-kocka feltalálója)/
+# 魯比剋艾爾諾 鲁比克艾尔诺 [lu3 bi3 ke4 ai4 er3 nuo4] /(átirat) Rubik Ernő (játéktervező, a Rubik-kocka feltalálója)/
+# Ver 2019-10-12T14:28:24Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven\n
+# 魯比剋艾爾諾 鲁比克艾尔诺 [lu3 bi3 ke4 ai4 er3 nuo4] /(tulajdonnév) Rubik Ernő (játéktervező, a Rubik-kocka feltalálója)/
+# Ver 2019-10-12T14:28:27Z gabor Stat-Verif >.
+魯比剋艾爾諾 鲁比克艾尔诺 [lu3 bi3 ke4 ai4 er3 nuo4] /(tulajdonnév) Rubik Ernő (játéktervező, a Rubik-kocka feltalálója)/
 
 # ID-a45LN5F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -3102,6 +3118,12 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 壞人 坏人 [huai4 ren2] /gazember/rossz ember/
 
+# ID-a70dF2y
+# Ver 2019-10-12T14:14:46Z gabor Stat-New >ha már van 良药苦口利于病
+# 良藥苦口 良药苦口 [liang2 yao4 ku3 kou3] /(kifejezés) keserű pirula (az igazság, kritika néha kellemetlen, de ettől hasznos)/
+# Ver 2019-10-12T14:14:54Z gabor Stat-Verif >.
+良藥苦口 良药苦口 [liang2 yao4 ku3 kou3] /(kifejezés) keserű pirula (az igazság, kritika néha kellemetlen, de ettől hasznos)/
+
 # ID-a70es2E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 規劃 规划 [gui1 hua4] /program/terv/tervezés/
@@ -4094,7 +4116,9 @@
 
 # ID-a92sC4b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-底特律 底特律 [di3 te4 lü4] /(átirat) Detroit/
+# 底特律 底特律 [di3 te4 lü4] /(átirat) Detroit/
+# Ver 2019-10-12T14:29:48Z gabor Stat-Verif >címke korr
+底特律 底特律 [di3 te4 lü4] /(földrajzi név) Detroit/
 
 # ID-a92vr8d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -5206,7 +5230,11 @@
 
 # ID-b16BU8R
 # Ver 2017-05-26T10:56:14Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
-李斯特費倫茨 李斯特费伦茨 [li3 si1 te4 fei4 lun2 ci2] /(átirat) Liszt Ferenc (1811–1886)/
+# 李斯特費倫茨 李斯特费伦茨 [li3 si1 te4 fei4 lun2 ci2] /(átirat) Liszt Ferenc (1811–1886)/
+# Ver 2019-10-12T14:30:14Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+# 李斯特費倫茨 李斯特费伦茨 [li3 si1 te4 fei4 lun2 ci2] /(tulajdonnév) Liszt Ferenc (1811–1886)/
+# Ver 2019-10-12T14:30:16Z gabor Stat-Verif >.
+李斯特費倫茨 李斯特费伦茨 [li3 si1 te4 fei4 lun2 ci2] /(tulajdonnév) Liszt Ferenc (1811–1886)/
 
 # ID-b16DC2q
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -5550,7 +5578,11 @@
 
 # ID-b23YS7i
 # Ver 2019-05-05T19:23:45Z GaoYanuo Stat-New >HSK4 tankönyv, CC-CEDICT
-解渴 解渴 [jie3 ke3] /szomjat olt/
+# 解渴 解渴 [jie3 ke3] /szomjat olt/
+# Ver 2019-10-12T14:04:18Z gabor Stat-New >ok, ez már abszolút kukacoskodás, valamiért jobban tetszik úgy, hogy a saját szomját oltja :)
+# 解渴 解渴 [jie3 ke3] /szomját oltja/
+# Ver 2019-10-12T14:04:28Z gabor Stat-Verif >.
+解渴 解渴 [jie3 ke3] /szomját oltja/
 
 # ID-b24fD6G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -5606,7 +5638,11 @@
 
 # ID-b26Ax5G
 # Ver 2017-05-21T20:03:16Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
-霍爾洛剋 霍尔洛克 [huo4 er3 luo4 ke4] /(átirat) Hollókő/
+# 霍爾洛剋 霍尔洛克 [huo4 er3 luo4 ke4] /(átirat) Hollókő/
+# Ver 2019-10-12T14:30:45Z gabor Stat-New >címke
+# 霍爾洛剋 霍尔洛克 [huo4 er3 luo4 ke4] /(földrajzi név) Hollókő/
+# Ver 2019-10-12T14:30:48Z gabor Stat-Verif >.
+霍爾洛剋 霍尔洛克 [huo4 er3 luo4 ke4] /(földrajzi név) Hollókő/
 
 # ID-b26Bg5D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -6184,7 +6220,11 @@
 
 # ID-b41hJ9r
 # Ver 2017-05-21T21:34:55Z Adam Stat-New >http://www.taodabai.com/51081691.html és más források alapján, keleti (kínai/magyar) névsorrendre módosítva
-厄岱翁德雷 厄岱翁德雷 [e4 dai4 weng1 de2 lei2] /(átirat) Ady Endre/
+# 厄岱翁德雷 厄岱翁德雷 [e4 dai4 weng1 de2 lei2] /(átirat) Ady Endre/
+# Ver 2019-10-12T14:31:13Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+# 厄岱翁德雷 厄岱翁德雷 [e4 dai4 weng1 de2 lei2] /(tulajdonnév) Ady Endre/
+# Ver 2019-10-12T14:31:16Z gabor Stat-Verif >.
+厄岱翁德雷 厄岱翁德雷 [e4 dai4 weng1 de2 lei2] /(tulajdonnév) Ady Endre/
 
 # ID-b41ux4K
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -6416,7 +6456,11 @@
 
 # ID-b47ee2E
 # Ver 2017-05-29T12:32:14Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
-沙皇 沙皇 [sha1 huang2] /(átirat) cár/
+# 沙皇 沙皇 [sha1 huang2] /(átirat) cár/
+# Ver 2019-10-12T14:33:36Z gabor Stat-New >ez konkrétan az, ami :)\nazt, hogy átvett szó / jövevényszó, nem jelöli a CHDICT: teljesen önkényes a határ, hogy mennyire kell réginek lennie, hogy már ne számítson átvett szónak, és a szókincs tetemes része minden nyelvben _valamikori_ átvétel valahonnan.
+# 沙皇 沙皇 [sha1 huang2] /cár/
+# Ver 2019-10-12T14:33:39Z gabor Stat-Verif >.
+沙皇 沙皇 [sha1 huang2] /cár/
 
 # ID-b47jL2m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -7496,6 +7540,8 @@
 
 # ID-b72Lv3E
 # Ver 2019-05-07T23:31:25Z GaoYanuo Stat-New >tanár, CC-CEDICT
+# 鉛筆盒 铅笔盒 [qian1 bi3 he2] /tolltartó/
+# Ver 2019-10-12T14:16:29Z gabor Stat-Verif >.
 鉛筆盒 铅笔盒 [qian1 bi3 he2] /tolltartó/
 
 # ID-b72Ly9o
@@ -8445,7 +8491,9 @@
 
 # ID-b94pz5L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-比利 比利 [bi3 li4] /(átirat) Pelé (Brazil focista)/
+# 比利 比利 [bi3 li4] /(átirat) Pelé (Brazil focista)/
+# Ver 2019-10-12T14:34:35Z gabor Stat-Verif >brazil kisbetűs\ncímke fix
+比利 比利 [bi3 li4] /(tulajdonnév) Pelé (brazil focista)/
 
 # ID-b94ye7J
 # Ver 2018-05-03T19:44:47Z GaoYanuo Stat-New >HSK3 official textbook\nhttp://www.youdao.com/w/eng/%E8%AF%95%E7%9D%80%E5%81%9A%E5%81%9A/#keyfrom=dict2.index\n
@@ -8917,7 +8965,11 @@
 
 # ID-c05Wl1c
 # Ver 2017-05-21T21:50:17Z Adam Stat-New >www.academia.edu és más források alapján (a Wikipédia ehhez fonetikailag távolabbi alakot ad meg)
-毛達奇伊姆雷 毛达奇伊姆雷 [mao2 da2 qi2 yi1 mu3 lei2] /(átirat) Madách Imre/
+# 毛達奇伊姆雷 毛达奇伊姆雷 [mao2 da2 qi2 yi1 mu3 lei2] /(átirat) Madách Imre/
+# Ver 2019-10-12T14:35:04Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+# 毛達奇伊姆雷 毛达奇伊姆雷 [mao2 da2 qi2 yi1 mu3 lei2] /(tulajdonnév) Madách Imre/
+# Ver 2019-10-12T14:35:08Z gabor Stat-Verif >.
+毛達奇伊姆雷 毛达奇伊姆雷 [mao2 da2 qi2 yi1 mu3 lei2] /(tulajdonnév) Madách Imre/
 
 # ID-c06cK3l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -9743,7 +9795,11 @@
 
 # ID-c27jb5c
 # Ver 2017-05-23T14:40:04Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
-比羅拉斯洛 比罗拉斯洛 [bi3 luo2 la1 si1 luo4] /(átirat) Bíró László (a golyóstoll feltalálója)/
+# 比羅拉斯洛 比罗拉斯洛 [bi3 luo2 la1 si1 luo4] /(átirat) Bíró László (a golyóstoll feltalálója)/
+# Ver 2019-10-12T14:35:37Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+# 比羅拉斯洛 比罗拉斯洛 [bi3 luo2 la1 si1 luo4] /(tulajdonnév) Bíró László (a golyóstoll feltalálója)/
+# Ver 2019-10-12T14:35:39Z gabor Stat-Verif >.
+比羅拉斯洛 比罗拉斯洛 [bi3 luo2 la1 si1 luo4] /(tulajdonnév) Bíró László (a golyóstoll feltalálója)/
 
 # ID-c27jF4m
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -10258,7 +10314,9 @@
 
 # ID-c38Yr4z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-洛克 洛克 [luo4 ke4] /(átirat) John Locke/
+# 洛克 洛克 [luo4 ke4] /(átirat) John Locke/
+# Ver 2019-10-12T14:36:44Z gabor Stat-Verif >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+洛克 洛克 [luo4 ke4] /(tulajdonnnév) John Locke (angol filozófus, 1632-1704)/
 
 # ID-c39dP8k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -10793,7 +10851,11 @@
 
 # ID-c51yJ0U
 # Ver 2017-05-23T23:02:07Z Adam Stat-New >匈牙利文学 szócikk, www.baike.com
-尤哈斯久拉 尤哈斯久拉 [you2 ha1 si1 jiu3 la1] /(átirat) Juhász Gyula/
+# 尤哈斯久拉 尤哈斯久拉 [you2 ha1 si1 jiu3 la1] /(átirat) Juhász Gyula/
+# Ver 2019-10-12T14:39:28Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+# 尤哈斯久拉 尤哈斯久拉 [you2 ha1 si1 jiu3 la1] /(tulajdonnév) Juhász Gyula/
+# Ver 2019-10-12T14:39:41Z gabor Stat-Verif >.
+尤哈斯久拉 尤哈斯久拉 [you2 ha1 si1 jiu3 la1] /(tulajdonnév) Juhász Gyula/
 
 # ID-c51yK2X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -11804,7 +11866,11 @@
 
 # ID-c73nr2l
 # Ver 2017-05-21T20:52:10Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
-馬勞伊山多爾 马劳伊山多尔 [ma3 lao2 yi1 shan1 duo1 er3] /(átirat) Márai Sándor/
+# 馬勞伊山多爾 马劳伊山多尔 [ma3 lao2 yi1 shan1 duo1 er3] /(átirat) Márai Sándor/
+# Ver 2019-10-12T14:40:33Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+# 馬勞伊山多爾 马劳伊山多尔 [ma3 lao2 yi1 shan1 duo1 er3] /(tulajdonnév) Márai Sándor/
+# Ver 2019-10-12T14:40:35Z gabor Stat-Verif >.
+馬勞伊山多爾 马劳伊山多尔 [ma3 lao2 yi1 shan1 duo1 er3] /(tulajdonnév) Márai Sándor/
 
 # ID-c73rs3R
 # Ver 2017-06-04T23:37:11Z Adam Stat-New >Baike Baidu, Amazon.cn és más források
@@ -11812,7 +11878,8 @@
 # Ver 2017-09-04T16:47:21Z gabor Stat-New >kínai nyelven önmagában nem használatos
 # 莫爾納費倫茨 莫尔纳费伦茨 [mo4 er3 na4 fei4 lun2 ci2] /(átirat) Molnár Ferenc (1878–1952)/
 # Ver 2017-09-04T16:47:24Z gabor Stat-Verif >.
-莫爾納費倫茨 莫尔纳费伦茨 [mo4 er3 na4 fei4 lun2 ci2] /(átirat) Molnár Ferenc (1878–1952)/
+# Ver 2019-10-12T14:41:11Z gabor Stat-Verif >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+莫爾納費倫茨 莫尔纳费伦茨 [mo4 er3 na4 fei4 lun2 ci2] /(tulajdonnév) Molnár Ferenc (1878–1952)/
 
 # ID-c73sZ3f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -12755,7 +12822,9 @@
 
 # ID-c94qq3M
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
-唐璜 唐璜 [tang2 huang2] /(átirat) Don Juan/
+# 唐璜 唐璜 [tang2 huang2] /(átirat) Don Juan/
+# Ver 2019-10-12T14:43:52Z gabor Stat-Verif >címke; kieg
+唐璜 唐璜 [tang2 huang2] /(tulajdonnév) Don Juan (irodalmi alak)/(átvitten) szívtipró; piperkőc/
 
 # ID-c94rV4K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -13561,7 +13630,8 @@
 # Ver 2017-09-04T16:49:12Z gabor Stat-New >kínai nyelven önmagában nem használatos
 # 宋妮雅 宋妮雅 [song4 ni1 ya3] /(átirat) Buslig Szonja Andrea (1974–)/
 # Ver 2017-09-04T16:49:15Z gabor Stat-Verif >.
-宋妮雅 宋妮雅 [song4 ni1 ya3] /(átirat) Buslig Szonja Andrea (1974–)/
+# Ver 2019-10-12T14:47:22Z gabor Stat-Verif >címke
+宋妮雅 宋妮雅 [song4 ni1 ya3] /(tulajdonnév) Buslig Szonja Andrea (sinológus és régész, 1974–)/
 
 # ID-d12eo0G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -13639,7 +13709,11 @@
 
 # ID-d13BQ5N
 # Ver 2017-05-21T20:41:40Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
-納達斯彼得 纳达斯彼得 [na4 da2 si1 bi3 de2] /(átirat) Nádas Péter/
+# 納達斯彼得 纳达斯彼得 [na4 da2 si1 bi3 de2] /(átirat) Nádas Péter/
+# Ver 2019-10-12T14:48:09Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+# 納達斯彼得 纳达斯彼得 [na4 da2 si1 bi3 de2] /(tulajdonnév) Nádas Péter/
+# Ver 2019-10-12T14:48:13Z gabor Stat-Verif >.
+納達斯彼得 纳达斯彼得 [na4 da2 si1 bi3 de2] /(tulajdonnév) Nádas Péter/
 
 # ID-d13BZ7d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -13883,7 +13957,10 @@
 # Ver 2019-05-05T18:48:48Z GaoYanuo Stat-New >tanár, CC-CEDICT,\nhttps://www.lingq.com/en/learn-chinese-online/translate/zh/7303334/%E8%89%AF%E8%8D%AF%E8%8B%A6%E5%8F%A3%E5%88%A9%E4%BA%8E%E7%97%85-%E5%BF%A0%E8%A8%80%E9%80%86%E8%80%B3%E5%88%A9%E4%BA%8E%E8%A1%8C/
 # 良藥苦口利於病 良药苦口利于病 [liang2 yao4 ku3 kou3 li4 yu2 bing4] /(kifejezés)keserű pirula; hasznos, de kellemetlen//
 # Ver 2019-05-05T18:56:16Z GaoYanuo Stat-New >rossz vágólap kezelés miatt lemaradt a kifejezés második fele:\n忠言逆耳利於行 és nem tudom javítani.
-良藥苦口利於病 良药苦口利于病 [liang2 yao4 ku3 kou3 li4 yu2 bing4] /(kifejezés)keserű pirula; hasznos, de kellemetlen//
+# Ver 2019-10-12T14:13:27Z gabor Stat-New >ebbe kimondottan beleveszem azt, hogy jó orvosság; viszont mindjárt jön önmagában a 良药苦口
+# 良藥苦口利於病 良药苦口利于病 [liang2 yao4 ku3 kou3 li4 yu2 bing4] /(kifejezés) a jó orvosság keserű; az igazság néha fájdalmas/
+# Ver 2019-10-12T14:13:37Z gabor Stat-Verif >.
+良藥苦口利於病 良药苦口利于病 [liang2 yao4 ku3 kou3 li4 yu2 bing4] /(kifejezés) a jó orvosság keserű; az igazság néha fájdalmas/
 
 # ID-d19tU4r
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -15363,7 +15440,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-d53Wr2Z
 # Ver 2019-05-07T23:16:17Z GaoYanuo Stat-New >tanár, CC-CEDICT
-C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
+# C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
+# Ver 2019-10-12T14:37:12Z gabor Stat-New >címke
+# C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 1985-)/
+# Ver 2019-10-12T14:38:54Z gabor Stat-Verif >.
+C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 1985-)/
 
 # ID-d54cm6r
 # Ver 2019-07-01T16:28:02Z GaoYanuo Stat-New >munkahely, képtalálatok
@@ -16688,7 +16769,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-d83kP2v
 # Ver 2017-05-21T20:13:08Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek (a pinjin-átírás ellenőrizendő)
-塞切尼鏈橋 塞切尼链桥 [sai1 qie1 ni2 lian4 qiao2] /(átirat+fordítás) Széchenyi lánchíd/
+# 塞切尼鏈橋 塞切尼链桥 [sai1 qie1 ni2 lian4 qiao2] /(átirat+fordítás) Széchenyi lánchíd/
+# Ver 2019-10-12T14:49:16Z gabor Stat-New >címke
+# 塞切尼鏈橋 塞切尼链桥 [sai1 qie1 ni2 lian4 qiao2] /(tulajdonnév) Széchenyi lánchíd/
+# Ver 2019-10-12T14:49:18Z gabor Stat-Verif >.
+塞切尼鏈橋 塞切尼链桥 [sai1 qie1 ni2 lian4 qiao2] /(tulajdonnév) Széchenyi lánchíd/
 
 # ID-d83lF6f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -16732,7 +16817,8 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-09-05T08:54:06Z gabor Stat-New >kínai nyelven önmagában nem használatos
 # 杜剋義 杜克义 [du4 ke4 yi4] /(átirat) Tőkei Ferenc (1930–2000)/
 # Ver 2017-09-05T08:54:08Z gabor Stat-Verif >.
-杜剋義 杜克义 [du4 ke4 yi4] /(átirat) Tőkei Ferenc (1930–2000)/
+# Ver 2019-10-12T14:49:44Z gabor Stat-Verif >címke
+杜剋義 杜克义 [du4 ke4 yi4] /(tulajdonnév) Tőkei Ferenc (1930–2000)/
 
 # ID-d84fW4C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -17260,7 +17346,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-d97vL5u
 # Ver 2017-05-21T21:28:32Z Adam Stat-New >Baidu és más keresők alapján
-巴爾提斯阿蒂拉 巴尔提斯阿蒂拉 [ba1 er3 ti2 si1 a1 di4 la1] /(átirat) Bartis Attila (író, fotográfus)/
+# 巴爾提斯阿蒂拉 巴尔提斯阿蒂拉 [ba1 er3 ti2 si1 a1 di4 la1] /(átirat) Bartis Attila (író, fotográfus)/
+# Ver 2019-10-12T14:50:13Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+# 巴爾提斯阿蒂拉 巴尔提斯阿蒂拉 [ba1 er3 ti2 si1 a1 di4 la1] /(tulajdonnév) Bartis Attila (író, fotográfus)/
+# Ver 2019-10-12T14:50:16Z gabor Stat-Verif >.
+巴爾提斯阿蒂拉 巴尔提斯阿蒂拉 [ba1 er3 ti2 si1 a1 di4 la1] /(tulajdonnév) Bartis Attila (író, fotográfus)/
 
 # ID-d97yU6W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -17403,7 +17493,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-e01kK9C
 # Ver 2017-05-21T22:56:02Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek; a névsorrendet keletire módosítva (kínai/magyar)
-厄特佛斯約瑟夫 厄特佛斯约瑟夫 [e4 te4 fo2 si1 yue1 se4 fu1] /(átirat) Eötvös József (író)/
+# 厄特佛斯約瑟夫 厄特佛斯约瑟夫 [e4 te4 fo2 si1 yue1 se4 fu1] /(átirat) Eötvös József (író)/
+# Ver 2019-10-12T14:51:27Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+# 厄特佛斯約瑟夫 厄特佛斯约瑟夫 [e4 te4 fo2 si1 yue1 se4 fu1] /(tulajdonnév) Eötvös József (író, politikus, 1813-1871)/
+# Ver 2019-10-12T14:51:29Z gabor Stat-Verif >.
+厄特佛斯約瑟夫 厄特佛斯约瑟夫 [e4 te4 fo2 si1 yue1 se4 fu1] /(tulajdonnév) Eötvös József (író, politikus, 1813-1871)/
 
 # ID-e01lY8a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -17561,7 +17655,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-e04yk0I
 # Ver 2019-05-05T20:21:06Z GaoYanuo Stat-New >tanár, CC-CEDICT
-空間站 空间站 [kong1 jian1 zhan4] /űrállomás/
+# 空間站 空间站 [kong1 jian1 zhan4] /űrállomás/
+# Ver 2019-10-12T14:46:00Z gabor Stat-New >elhat
+# 空間站 空间站 [kong1 jian1 zhan4] /űr|állomás/
+# Ver 2019-10-12T14:46:03Z gabor Stat-Verif >.
+空間站 空间站 [kong1 jian1 zhan4] /űr|állomás/
 
 # ID-e04yL3a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -18423,7 +18521,8 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-09-11T19:11:52Z gabor Stat-New >.
 # 貝拉剋奧巴馬 贝拉克奥巴马 [bei4 la1 ke4 ao4 ba1 ma3] /(átirat) Barack Obama (1961–)/
 # Ver 2017-09-11T19:11:54Z gabor Stat-Verif >.
-貝拉剋奧巴馬 贝拉克奥巴马 [bei4 la1 ke4 ao4 ba1 ma3] /(átirat) Barack Obama (1961–)/
+# Ver 2019-10-12T14:51:59Z gabor Stat-Verif >címke
+貝拉剋奧巴馬 贝拉克奥巴马 [bei4 la1 ke4 ao4 ba1 ma3] /(tulajdonnév) Barack Obama (1961–)/
 
 # ID-e24Kd1O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -20355,7 +20454,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-e68Gd7N
 # Ver 2017-05-25T15:41:09Z Adam Stat-New >Wikipédia és baike.baidu.com
-根茨阿爾帕德 根茨阿尔帕德 [gen1 ci2 a1 er3 pa4 de2] /(átirat) Göncz Árpád (1922–2015)/
+# 根茨阿爾帕德 根茨阿尔帕德 [gen1 ci2 a1 er3 pa4 de2] /(átirat) Göncz Árpád (1922–2015)/
+# Ver 2019-10-12T14:53:20Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+# 根茨阿爾帕德 根茨阿尔帕德 [gen1 ci2 a1 er3 pa4 de2] /(tulajdonnév) Göncz Árpád (író, műfordító, a Magyar Köztársaság rendszerváltás utáni első elnöke, 1922–2015)/
+# Ver 2019-10-12T14:53:49Z gabor Stat-Verif >nyugodjon békében.
+根茨阿爾帕德 根茨阿尔帕德 [gen1 ci2 a1 er3 pa4 de2] /(tulajdonnév) Göncz Árpád (író, műfordító, a Magyar Köztársaság rendszerváltás utáni első elnöke, 1922–2015)/
 
 # ID-e68GE7u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -20955,7 +21058,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-e84dN2Y
 # Ver 2017-05-26T11:00:51Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
-柯達伊佐爾丹 柯达伊佐尔丹 [ke1 da2 yi1 zuo3 er3 dan1] /(átirat) Kodály Zoltán (1882–1967)/
+# 柯達伊佐爾丹 柯达伊佐尔丹 [ke1 da2 yi1 zuo3 er3 dan1] /(átirat) Kodály Zoltán (1882–1967)/
+# Ver 2019-10-12T14:54:13Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+# 柯達伊佐爾丹 柯达伊佐尔丹 [ke1 da2 yi1 zuo3 er3 dan1] /(tulajdonnév) Kodály Zoltán (1882–1967)/
+# Ver 2019-10-12T14:54:15Z gabor Stat-Verif >.
+柯達伊佐爾丹 柯达伊佐尔丹 [ke1 da2 yi1 zuo3 er3 dan1] /(tulajdonnév) Kodály Zoltán (1882–1967)/
 
 # ID-e84rK3w
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -21662,7 +21769,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-f00VN0I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-比薩 比萨 [bi3 sa4] /pizza (átvett szó)/(átirat) Pisa (toszkánai város)/
+# 比薩 比萨 [bi3 sa4] /pizza (átvett szó)/(átirat) Pisa (toszkánai város)/
+# Ver 2019-10-12T14:55:04Z gabor Stat-Verif >címke
+比薩 比萨 [bi3 sa4] /pizza/(földrajzi név) Pisa (toszkánai város)/
 
 # ID-f00Zi1O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -22731,7 +22840,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-f27iO5g
 # Ver 2017-05-21T20:32:11Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
-布達佩斯考文紐斯大學 布达佩斯考文纽斯大学 [bu4 da2 pei4 si1 kao3 wen2 niu3 si1 da4 xue2] /(átirat+fordítás) Budapesti Corvinus Egyetem (BCE)/
+# 布達佩斯考文紐斯大學 布达佩斯考文纽斯大学 [bu4 da2 pei4 si1 kao3 wen2 niu3 si1 da4 xue2] /(átirat+fordítás) Budapesti Corvinus Egyetem (BCE)/
+# Ver 2019-10-12T14:55:35Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+# 布達佩斯考文紐斯大學 布达佩斯考文纽斯大学 [bu4 da2 pei4 si1 kao3 wen2 niu3 si1 da4 xue2] /(tulajdonnév) Budapesti Corvinus Egyetem/
+# Ver 2019-10-12T14:55:37Z gabor Stat-Verif >.
+布達佩斯考文紐斯大學 布达佩斯考文纽斯大学 [bu4 da2 pei4 si1 kao3 wen2 niu3 si1 da4 xue2] /(tulajdonnév) Budapesti Corvinus Egyetem/
 
 # ID-f27lR1h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -22984,7 +23097,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-f32HI7g
 # Ver 2017-05-23T14:55:59Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek (keleti névsorrenddel)
-西拉德利奧 西拉德利奥 [xi1 la1 de2 li4 ao4] /(átirat) Szilárd Leó (fizikus)/
+# 西拉德利奧 西拉德利奥 [xi1 la1 de2 li4 ao4] /(átirat) Szilárd Leó (fizikus)/
+# Ver 2019-10-12T14:56:05Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+# 西拉德利奧 西拉德利奥 [xi1 la1 de2 li4 ao4] /(tulajdonnév) Szilárd Leó (fizikus)/
+# Ver 2019-10-12T14:56:07Z gabor Stat-Verif >.
+西拉德利奧 西拉德利奥 [xi1 la1 de2 li4 ao4] /(tulajdonnév) Szilárd Leó (fizikus)/
 
 # ID-f32NW2O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -23061,6 +23178,12 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # ID-f34Sc9F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 原則 原则 [yuan2 ze2] /elv/
+
+# ID-f34Wg2J
+# Ver 2019-10-12T14:38:37Z gabor Stat-New >ha már van C罗\nhttps://baike.baidu.com/item/%E5%85%8B%E9%87%8C%E6%96%AF%E8%92%82%E4%BA%9A%E8%AF%BA%C2%B7%E7%BD%97%E7%BA%B3%E5%B0%94%E5%A4%9A/4510104?fromtitle=C%E7%BD%97&fromid=5955303
+# 剋裡斯蒂亞諾羅納爾多 克里斯蒂亚诺罗纳尔多 [ke4 li3 si1 di4 ya4 nuo4 luo1 na4 er3 duo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 1985-)/
+# Ver 2019-10-12T14:38:47Z gabor Stat-Verif >.
+剋裡斯蒂亞諾羅納爾多 克里斯蒂亚诺罗纳尔多 [ke4 li3 si1 di4 ya4 nuo4 luo1 na4 er3 duo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 1985-)/
 
 # ID-f35aR6b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -24257,7 +24380,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-f60xQ3F
 # Ver 2019-05-05T19:32:52Z GaoYanuo Stat-New >tanár, CC-CEDICT
-不可缺少 不可缺少 [bu4 ke3 que1 shao3] /nélkülözhetetlen/elengedhetetlen/kihagyhatatlan/
+# 不可缺少 不可缺少 [bu4 ke3 que1 shao3] /nélkülözhetetlen/elengedhetetlen/kihagyhatatlan/
+# Ver 2019-10-12T14:01:26Z gabor Stat-New >kevesebb is elég, sztem ez uaz a jelentés. szép szó! :)
+不可缺少 不可缺少 [bu4 ke3 que1 shao3] /nélkülözhetetlen; elengedhetetlen/
 
 # ID-f60CO6I
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -25324,7 +25449,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-f84ue3G
 # Ver 2017-05-21T21:21:49Z Adam Stat-New >kínaira fordított művei címlapképe nyomán
-德拉古曼喬爾吉 德拉古曼乔尔吉 [de2 la1 gu3 man4 qiao2 er3 ji2] /(átirat) Dragomán György (író, műfordító)/
+# 德拉古曼喬爾吉 德拉古曼乔尔吉 [de2 la1 gu3 man4 qiao2 er3 ji2] /(átirat) Dragomán György (író, műfordító)/
+# Ver 2019-10-12T14:56:38Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+# 德拉古曼喬爾吉 德拉古曼乔尔吉 [de2 la1 gu3 man4 qiao2 er3 ji2] /(tulajdonnév) Dragomán György (író, műfordító)/
+# Ver 2019-10-12T14:56:40Z gabor Stat-Verif >.
+德拉古曼喬爾吉 德拉古曼乔尔吉 [de2 la1 gu3 man4 qiao2 er3 ji2] /(tulajdonnév) Dragomán György (író, műfordító)/
 
 # ID-f84Ar2o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -25598,7 +25727,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-f91DQ8o
 # Ver 2017-05-26T10:59:19Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
-艾凱爾費倫茨 艾凯尔费伦茨 [ai4 kai3 er3 fei4 lun2 ci2] /(átirat) Erkel Ferenc (1810–1893)/
+# 艾凱爾費倫茨 艾凯尔费伦茨 [ai4 kai3 er3 fei4 lun2 ci2] /(átirat) Erkel Ferenc (1810–1893)/
+# Ver 2019-10-12T14:57:03Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+# 艾凱爾費倫茨 艾凯尔费伦茨 [ai4 kai3 er3 fei4 lun2 ci2] /(tulajdonnév) Erkel Ferenc (1810–1893)/
+# Ver 2019-10-12T14:57:05Z gabor Stat-Verif >.
+艾凱爾費倫茨 艾凯尔费伦茨 [ai4 kai3 er3 fei4 lun2 ci2] /(tulajdonnév) Erkel Ferenc (1810–1893)/
 
 # ID-f91Fw3D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -25626,7 +25759,12 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-f92ga0U
 # Ver 2017-05-24T14:58:48Z Adam Stat-New >http://baike.baidu.com/item/%E4%BD%99%E6%B3%BD%E6%B0%91
-繆勒彼得 缪勒彼得 [miao4 le4 bi3 de2] /(átirat) Müller Péter (író, dramaturg)/
+# 繆勒彼得 缪勒彼得 [miao4 le4 bi3 de2] /(átirat) Müller Péter (író, dramaturg)/
+# Ver 2019-10-12T14:57:25Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+# 繆勒彼得 缪勒彼得 [miao4 le4 bi3 de2] /(tulajdonnnév) Müller Péter (író, dramaturg)/
+# Ver 2019-10-12T14:57:27Z gabor Stat-Verif >.
+# Ver 2019-10-12T14:57:33Z gabor Stat-Verif >elírás
+繆勒彼得 缪勒彼得 [miao4 le4 bi3 de2] /(tulajdonnév) Müller Péter (író, dramaturg)/
 
 # ID-f92nX5X
 # Ver 2019-03-20T10:48:57Z GaoYanuo Stat-New >tanár, CC_EDICT
@@ -27441,7 +27579,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 證 证 [zheng4] /igazolás/tanúsítvány/bizonyíték/igazol/bizonyít/
 # Ver 2019-05-27T13:44:12Z Adam Stat-Verif >összefüggő jelentések egy helyre
-證 证 [zheng4] /igazolás, tanúsítvány, bizonyíték/igazol, bizonyít/
+# 證 证 [zheng4] /igazolás, tanúsítvány, bizonyíték/igazol, bizonyít/
+# Ver 2019-10-12T15:49:40Z gabor Stat-Verif >jogos :) viszont pontosvessző.
+證 证 [zheng4] /igazolás; tanúsítvány; bizonyíték/igazol; bizonyít/
 
 # ID-g34VD4H
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -28489,7 +28629,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-g56To6u
 # Ver 2017-05-24T14:15:49Z Adam Stat-New >http://culture.china.com/art/11159887/20170427/30466039_all.html és sok más forrás
-德拉古曼久爾吉 德拉古曼久尔吉 [de2 la1 gu3 man4 jiu3 er3 ji2] /(átirat) Dragomán György (író, műfordító)/
+# 德拉古曼久爾吉 德拉古曼久尔吉 [de2 la1 gu3 man4 jiu3 er3 ji2] /(átirat) Dragomán György (író, műfordító)/
+# Ver 2019-10-12T14:58:09Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+# 德拉古曼久爾吉 德拉古曼久尔吉 [de2 la1 gu3 man4 jiu3 er3 ji2] /(tulajdonnév) Dragomán György (író, műfordító)/
+# Ver 2019-10-12T14:58:11Z gabor Stat-Verif >.
+德拉古曼久爾吉 德拉古曼久尔吉 [de2 la1 gu3 man4 jiu3 er3 ji2] /(tulajdonnév) Dragomán György (író, műfordító)/
 
 # ID-g56XE9v
 # Ver 2017-12-12T21:17:42Z gabor Stat-New >CEDICT, korpusz
@@ -28696,7 +28840,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-g61gt9B
 # Ver 2019-05-05T20:30:54Z GaoYanuo Stat-New >tanár\nhttps://www.xyzdict.com/en/chinese-english/%E7%BA%B8%E5%9B%A2
-紙團 纸团 [zhi3 tuan2] /papírgalacsin/
+# 紙團 纸团 [zhi3 tuan2] /papírgalacsin/
+# Ver 2019-10-12T14:45:38Z gabor Stat-New >elhat
+# 紙團 纸团 [zhi3 tuan2] /papír|galacsin/
+# Ver 2019-10-12T14:45:40Z gabor Stat-Verif >.
+紙團 纸团 [zhi3 tuan2] /papír|galacsin/
 
 # ID-g61ks5b
 # Ver 2019-01-10T07:33:24Z GaoYanuo Stat-New >tankönyv\nhttps://m.hujiang.com/en/p665991/
@@ -29066,7 +29214,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-g70Og6p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-希特勒 希特勒 [xi1 te4 le4] /(átirat) Hitler/
+# 希特勒 希特勒 [xi1 te4 le4] /(átirat) Hitler/
+# Ver 2019-10-12T14:58:42Z gabor Stat-Verif >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+希特勒 希特勒 [xi1 te4 le4] /(tulajdonnév) Hitler/
 
 # ID-g70Oh1J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -31095,7 +31245,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-h17rr4w
 # Ver 2017-05-21T20:18:58Z Adam Stat-New >kínai Wikipédiából
-拉科齊費倫茨 拉科齐费伦茨 [la1 ke1 qi2 fei4 lun2 ci2] /(átirat) Rákóczi Ferenc/
+# 拉科齊費倫茨 拉科齐费伦茨 [la1 ke1 qi2 fei4 lun2 ci2] /(átirat) Rákóczi Ferenc/
+# Ver 2019-10-12T14:59:21Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+# 拉科齊費倫茨 拉科齐费伦茨 [la1 ke1 qi2 fei4 lun2 ci2] /(tulajdonnév) Rákóczi Ferenc/
+# Ver 2019-10-12T14:59:24Z gabor Stat-Verif >.
+拉科齊費倫茨 拉科齐费伦茨 [la1 ke1 qi2 fei4 lun2 ci2] /(tulajdonnév) Rákóczi Ferenc/
 
 # ID-h17sh8I
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -32656,7 +32810,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-h57Ng6X
 # Ver 2017-05-21T20:57:29Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek, keleti (kínai/magyar) névsorrendre módosítva (a pinjin-átírás ellenőrizendő)
-卡撒茲納霍凱拉斯洛 卡撒兹纳霍凯拉斯洛 [ka3 sa1 zi1 na4 huo4 kai3 la1 si1 luo4] /(átirat) Krasznahorkai László/
+# 卡撒茲納霍凱拉斯洛 卡撒兹纳霍凯拉斯洛 [ka3 sa1 zi1 na4 huo4 kai3 la1 si1 luo4] /(átirat) Krasznahorkai László/
+# Ver 2019-10-12T15:00:00Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+# 卡撒茲納霍凱拉斯洛 卡撒兹纳霍凯拉斯洛 [ka3 sa1 zi1 na4 huo4 kai3 la1 si1 luo4] /(tulajdonnév) Krasznahorkai László/
+# Ver 2019-10-12T15:00:02Z gabor Stat-Verif >.
+卡撒茲納霍凱拉斯洛 卡撒兹纳霍凯拉斯洛 [ka3 sa1 zi1 na4 huo4 kai3 la1 si1 luo4] /(tulajdonnév) Krasznahorkai László/
 
 # ID-h57PN8d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -32827,7 +32985,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-h61Fw3Q
 # Ver 2017-05-23T22:59:10Z Adam Stat-New >匈牙利文学 szócikk, www.baike.com
-尤若夫阿蒂拉 尤若夫阿蒂拉 [you2 ruo4 fu1 a1 di4 la1] /(átirat) József Attila/
+# 尤若夫阿蒂拉 尤若夫阿蒂拉 [you2 ruo4 fu1 a1 di4 la1] /(átirat) József Attila/
+# Ver 2019-10-12T15:00:25Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+# 尤若夫阿蒂拉 尤若夫阿蒂拉 [you2 ruo4 fu1 a1 di4 la1] /(tulajdonnév) József Attila/
+# Ver 2019-10-12T15:00:27Z gabor Stat-Verif >.
+尤若夫阿蒂拉 尤若夫阿蒂拉 [you2 ruo4 fu1 a1 di4 la1] /(tulajdonnév) József Attila/
 
 # ID-h61Md3E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -33045,6 +33207,8 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-h67kC2U
 # Ver 2019-05-05T18:18:56Z GaoYanuo Stat-New >tanár,\nhttps://www.xyzdict.com/en/chinese-english/%E8%AE%B0%E5%BF%86%E5%8A%9B
+# 記憶力 记忆力 [ji4 yi4 li4] /emlékezőtehetség; memória/
+# Ver 2019-10-12T14:15:30Z gabor Stat-Verif >ilyen ez 力, sok minden végére oda lehet csapni.
 記憶力 记忆力 [ji4 yi4 li4] /emlékezőtehetség; memória/
 
 # ID-h67ul5B
@@ -33273,7 +33437,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-h72kd9w
 # Ver 2017-05-21T20:21:47Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
-凱爾泰斯伊姆雷 凯尔泰斯伊姆雷 [kai3 er3 tai4 si1 yi1 mu3 lei2] /(átirat) Kertész Imre/
+# 凱爾泰斯伊姆雷 凯尔泰斯伊姆雷 [kai3 er3 tai4 si1 yi1 mu3 lei2] /(átirat) Kertész Imre/
+# Ver 2019-10-12T15:00:47Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+# 凱爾泰斯伊姆雷 凯尔泰斯伊姆雷 [kai3 er3 tai4 si1 yi1 mu3 lei2] /(tulajdonnév) Kertész Imre/
+# Ver 2019-10-12T15:00:50Z gabor Stat-Verif >.
+凱爾泰斯伊姆雷 凯尔泰斯伊姆雷 [kai3 er3 tai4 si1 yi1 mu3 lei2] /(tulajdonnév) Kertész Imre/
 
 # ID-h72la8N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -33637,7 +33805,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-h79TW2d
 # Ver 2017-05-26T10:57:42Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
-巴托剋貝拉 巴托克贝拉 [ba1 tuo1 ke4 bei4 la1] /(átirat) Bartók Béla (1881–1945)/
+# 巴托剋貝拉 巴托克贝拉 [ba1 tuo1 ke4 bei4 la1] /(átirat) Bartók Béla (1881–1945)/
+# Ver 2019-10-12T14:22:22Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+# 巴托剋貝拉 巴托克贝拉 [ba1 tuo1 ke4 bei4 la1] /(tulajdonnév) Bartók Béla (1881–1945)/
+# Ver 2019-10-12T15:01:30Z gabor Stat-Verif >.
+巴托剋貝拉 巴托克贝拉 [ba1 tuo1 ke4 bei4 la1] /(tulajdonnév) Bartók Béla (1881–1945)/
 
 # ID-h79Us9i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -34160,7 +34332,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-h92bH2t
 # Ver 2017-05-23T22:42:59Z Adam Stat-New >匈牙利文学 szócikk, www.baike.com
-巴比契米哈伊 巴比契米哈伊 [ba1 bi3 qi4 mi3 ha1 yi1] /(átirat) Babits Mihály/
+# 巴比契米哈伊 巴比契米哈伊 [ba1 bi3 qi4 mi3 ha1 yi1] /(átirat) Babits Mihály/
+# Ver 2019-10-12T15:01:49Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+# 巴比契米哈伊 巴比契米哈伊 [ba1 bi3 qi4 mi3 ha1 yi1] /(tulajdonnév) Babits Mihály/
+# Ver 2019-10-12T15:01:52Z gabor Stat-Verif >.
+巴比契米哈伊 巴比契米哈伊 [ba1 bi3 qi4 mi3 ha1 yi1] /(tulajdonnév) Babits Mihály/
 
 # ID-h92de4u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -34416,7 +34592,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-h97rm1Z
 # Ver 2017-05-22T02:34:45Z Adam Stat-New >CEDICT
-微軟 微软 [wei1 ruan3] /Microsoft/
+# 微軟 微软 [wei1 ruan3] /Microsoft/
+# Ver 2019-10-12T15:13:01Z gabor Stat-New >címke
+# 微軟 微软 [wei1 ruan3] /(tulajdonnév) Microsoft (informatikai cég)/
+# Ver 2019-10-12T15:13:11Z gabor Stat-Verif >.
+微軟 微软 [wei1 ruan3] /(tulajdonnév) Microsoft (informatikai cég)/
 
 # ID-h97AZ6K
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -35360,7 +35540,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-i19qz9l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-吉普 吉普 [ji2 pu3] /Jeep (autómárka)/
+# 吉普 吉普 [ji2 pu3] /Jeep (autómárka)/
+# Ver 2019-10-12T15:12:44Z gabor Stat-Verif >címke
+吉普 吉普 [ji2 pu3] /(tulajdonnév) Jeep (autómárka)/
 
 # ID-i19yZ7c
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -35380,7 +35562,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-i19Xb7G
 # Ver 2019-05-05T19:50:46Z GaoYanuo Stat-New >tanár\nhttps://www.xyzdict.com/en/chinese-english/%E5%8F%96%E6%9A%96
-取暖 取暖 [qu3 nuan3] /melegszik (valaki fázás után)/fűtés (szolgáltatás)/
+# 取暖 取暖 [qu3 nuan3] /melegszik (valaki fázás után)/fűtés (szolgáltatás)/
+# Ver 2019-10-12T13:53:57Z gabor Stat-New >pici átszerk
+# 取暖 取暖 [qu3 nuan3] /melegszik (vki, pl. tűz mellett)/fűtés (szolgáltatás)/
+# Ver 2019-10-12T13:54:00Z gabor Stat-Verif >.
+取暖 取暖 [qu3 nuan3] /melegszik (vki, pl. tűz mellett)/fűtés (szolgáltatás)/
 
 # ID-i20el9U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -35396,6 +35582,8 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-i20nt2g
 # Ver 2019-05-27T13:45:47Z Adam Stat-New >min. 4 különböző Pleco-szótár alapján
+# 居留證 居留证 [ju1 liu2 zheng4] /tartózkodási engedély/
+# Ver 2019-10-12T15:49:11Z gabor Stat-Verif >.
 居留證 居留证 [ju1 liu2 zheng4] /tartózkodási engedély/
 
 # ID-i20rG4x
@@ -35722,7 +35910,8 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-11-28T22:06:58Z gabor Stat-New >.
 # 李小龍 李小龙 [li3 xiao3 long2] /Bruce Lee (李振藩|李小龙[li3 zhen4 fan1] hongkongi származású amerikai színész \1940-1973\ beceneve, szó szerint Kis Sárkány)/
 # Ver 2017-11-28T22:08:44Z gabor Stat-Verif >inkább nagy? :) a bonyi kínai beágyazást majd elmesélem.\nmilyen filmeket nézel te kedd este? :)
-李小龍 李小龙 [li3 xiao3 long2] /Bruce Lee (李振藩|李小龙[li3 zhen4 fan1] hongkongi származású amerikai színész \1940-1973\ beceneve, szó szerint Kis Sárkány)/
+# Ver 2019-10-12T15:03:11Z gabor Stat-Verif >címke
+李小龍 李小龙 [li3 xiao3 long2] /(tulajdonnév) Bruce Lee (李振藩|李小龙[li3 zhen4 fan1] hongkongi származású amerikai színész \1940-1973\ beceneve, szó szerint Kis Sárkány)/
 
 # ID-i27Dp3B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -36556,7 +36745,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-i48lg9S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-賈斯汀 贾斯汀 [gu3 si1 ting1] /(átirat) Justin Timberlake/
+# 賈斯汀 贾斯汀 [gu3 si1 ting1] /(átirat) Justin Timberlake/
+# Ver 2019-10-12T15:03:31Z gabor Stat-Verif >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+賈斯汀 贾斯汀 [gu3 si1 ting1] /(tulajdonnév) Justin Timberlake/
 
 # ID-i48qf8g
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -36958,13 +37149,19 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-i56Jk9l
 # Ver 2017-05-26T10:53:46Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
-洛瓦斯拉斯洛 洛瓦斯拉斯洛 [luo4 wa3 si1 la1 si1 luo4] /(átirat) Lovász László (1948–)/
+# 洛瓦斯拉斯洛 洛瓦斯拉斯洛 [luo4 wa3 si1 la1 si1 luo4] /(átirat) Lovász László (1948–)/
+# Ver 2019-10-12T15:04:02Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+# 洛瓦斯拉斯洛 洛瓦斯拉斯洛 [luo4 wa3 si1 la1 si1 luo4] /(tulajdonnév) Lovász László (matematikus, 1948–)/
+# Ver 2019-10-12T15:04:04Z gabor Stat-Verif >.
+洛瓦斯拉斯洛 洛瓦斯拉斯洛 [luo4 wa3 si1 la1 si1 luo4] /(tulajdonnév) Lovász László (matematikus, 1948–)/
 
 # ID-i56NT4c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 愛爾蘭 爱尔兰 [ai4 er3 lan2] /(átirat) Írország/
 # Ver 2017-05-29T12:27:08Z Adam Stat-Verif >címke, elválasztójel
-愛爾蘭 爱尔兰 [ai4 er3 lan2] /(földrajzi név; átirat) Ír|ország/
+# 愛爾蘭 爱尔兰 [ai4 er3 lan2] /(földrajzi név; átirat) Ír|ország/
+# Ver 2019-10-12T15:05:28Z gabor Stat-Verif >- elég a földrajzi név, hiszen ezek gyakorlatilag mind átiratok, a dolog természeténél fogva\n- inkább ne legyen elválasztójel: az "ország"-ra keresve szerintem nem akarom Írországot kapni
+愛爾蘭 爱尔兰 [ai4 er3 lan2] /(földrajzi név) Írország/
 
 # ID-i56QA8v
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -39755,7 +39952,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2019-05-05T20:01:02Z GaoYanuo Stat-New >tanár, CC-CEDICT
 # 浴巾 浴巾 [yu4 jin1] /fürdőtörölköző/
 # Ver 2019-05-27T20:32:25Z Adam Stat-New >kereshetőség végett | jel a második elem elé
-浴巾 浴巾 [yu4 jin1] /fürdő|törölköző/
+# 浴巾 浴巾 [yu4 jin1] /fürdő|törölköző/
+# Ver 2019-10-12T15:48:40Z gabor Stat-New >nekem a törötlköző önmagában is pont ezt mondja; "fürdő"-vel együtt nekem erőltetettnek tűnik\nplus számlálószó
+# 浴巾 浴巾 [yu4 jin1] /törölköző/SZ:條|条[tiao2]; 块[kuai4]/
+# Ver 2019-10-12T15:48:43Z gabor Stat-Verif >.
+浴巾 浴巾 [yu4 jin1] /törölköző/SZ:條|条[tiao2]; 块[kuai4]/
 
 # ID-j21dj2C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -40255,7 +40456,8 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-09-05T08:53:42Z gabor Stat-New >kínai nyelven önmagában nem használatos
 # 康高寶 康高宝 [kang1 gao1 bao3] /(átirat) Kósa Gábor (1971–)/
 # Ver 2017-09-05T08:53:46Z gabor Stat-Verif >.
-康高寶 康高宝 [kang1 gao1 bao3] /(átirat) Kósa Gábor (1971–)/
+# Ver 2019-10-12T15:06:23Z gabor Stat-Verif >címke
+康高寶 康高宝 [kang1 gao1 bao3] /(tulajdonnév) Kósa Gábor (1971–)/
 
 # ID-j33fZ1X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -40677,7 +40879,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-j42Xr5x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-馬歇爾 马歇尔 [ma3 xie1 er3] /(átirat) Marshall (amerikai tábornok, a Marshall-terv névadója)/
+# 馬歇爾 马歇尔 [ma3 xie1 er3] /(átirat) Marshall (amerikai tábornok, a Marshall-terv névadója)/
+# Ver 2019-10-12T15:06:47Z gabor Stat-Verif >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+馬歇爾 马歇尔 [ma3 xie1 er3] /(tulajdonnév) Marshall (amerikai tábornok, a Marshall-terv névadója)/
 
 # ID-j43gt5I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -41137,7 +41341,8 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-21T20:11:22Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek (a pinjin-átírás ellenőrizendő)
 # 伊斯特凡塞切尼 伊斯特凡塞切尼 [yi1 si1 te4 fan2 sai1 qie1 ni2] /(átirat) Széchenyi István/
 # Ver 2017-05-26T17:12:26Z Adam Stat-Flagged >ez törlendő: legfeljebb a külföldön élt/élő, ott ismertté vált, nevüket jórészt idegen alakban használó magyarok nevénél merülhet fel az utónév+családnév sorrend (a magyarral egyező sorrend szerepel pl. a magyar irodalomról szóló kínai cikkekben, magyar művek kínai fordításának címlapján stb.); családnév+utónév sorrenddel már létezik ez a címszó
-伊斯特凡塞切尼 伊斯特凡塞切尼 [yi1 si1 te4 fan2 sai1 qie1 ni2] /(átirat) Széchenyi István/
+# Ver 2019-10-12T15:07:57Z gabor Stat-Flagged >megmarad az előjegyzés törlésre, de a címke azért stimmeljen holtában is :)
+伊斯特凡塞切尼 伊斯特凡塞切尼 [yi1 si1 te4 fan2 sai1 qie1 ni2] /(tulajdonnév) Széchenyi István/
 
 # ID-j53MF0k
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -41343,7 +41548,8 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-09-05T08:53:31Z gabor Stat-New >kínai nyelven önmagában nem használatos
 # 姑蘭 姑兰 [gu1 lan2] /(átirat) Kalmár Éva (1938–)/
 # Ver 2017-09-05T08:53:34Z gabor Stat-Verif >.
-姑蘭 姑兰 [gu1 lan2] /(átirat) Kalmár Éva (1938–)/
+# Ver 2019-10-12T15:08:27Z gabor Stat-Verif >mégis így
+姑蘭 姑兰 [gu1 lan2] /(tulajdonnév) Kalmár Éva (1938–)/
 
 # ID-j58mg7y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -41375,7 +41581,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-j58Ss2x
 # Ver 2017-05-24T14:22:37Z Adam Stat-New >http://culture.china.com/art/11159887/20170427/30466039_all.html
-凱爾泰斯伊姆萊 凯尔泰斯伊姆莱 [kai3 er3 tai4 si1 yi1 mu3 lai2] /(átirat) Kertész Imre/
+# 凱爾泰斯伊姆萊 凯尔泰斯伊姆莱 [kai3 er3 tai4 si1 yi1 mu3 lai2] /(átirat) Kertész Imre/
+# Ver 2019-10-12T15:08:45Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+凱爾泰斯伊姆萊 凯尔泰斯伊姆莱 [kai3 er3 tai4 si1 yi1 mu3 lai2] /(tulajdonnév) Kertész Imre/
 
 # ID-j58ZG1V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -41605,7 +41813,8 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-09-04T16:49:24Z gabor Stat-New >kínai nyelven önmagában nem használatos
 # 阿保磯 阿保矶 [a1 bao3 ji1] /(átirat) Apatóczky Ákos Bertalan (1974–)/
 # Ver 2017-09-04T16:49:46Z gabor Stat-Verif >.
-阿保磯 阿保矶 [a1 bao3 ji1] /(átirat) Apatóczky Ákos Bertalan (1974–)/
+# Ver 2019-10-12T15:09:05Z gabor Stat-Verif >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+阿保磯 阿保矶 [a1 bao3 ji1] /(tulajdonnév) Apatóczky Ákos Bertalan (1974–)/
 
 # ID-j65EZ1h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -41783,7 +41992,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-j69xV1l
 # Ver 2017-05-21T20:30:24Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
-羅蘭大學 罗兰大学 [luo2 lan2 da4 xue2] /(átirat+fordítás) Eötvös Loránd Tudományegyetem; ELTE (szó szerint: „Loránd Egyetem”)/
+# 羅蘭大學 罗兰大学 [luo2 lan2 da4 xue2] /(átirat+fordítás) Eötvös Loránd Tudományegyetem; ELTE (szó szerint: „Loránd Egyetem”)/
+# Ver 2019-10-12T15:10:03Z gabor Stat-New >címke; sztem nem szükséges a szó szerinti magyarázat, chengyu-knél sem tesszük jobbára
+# 羅蘭大學 罗兰大学 [luo2 lan2 da4 xue2] /(tulajdonnév) Eötvös Loránd Tudományegyetem; ELTE/
+# Ver 2019-10-12T15:10:13Z gabor Stat-Verif >.
+羅蘭大學 罗兰大学 [luo2 lan2 da4 xue2] /(tulajdonnév) Eötvös Loránd Tudományegyetem; ELTE/
 
 # ID-j69FJ0n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -42163,7 +42376,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-j79mx7e
 # Ver 2017-05-23T19:37:15Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
-托考伊葡萄酒 托考伊葡萄酒 [tuo1 kao3 yi1 pu2 tao2 jiu3] /(átirat+fordítás) tokaji aszú/
+# 托考伊葡萄酒 托考伊葡萄酒 [tuo1 kao3 yi1 pu2 tao2 jiu3] /(átirat+fordítás) tokaji aszú/
+# Ver 2019-10-12T15:15:55Z gabor Stat-New >az átiratnál több, a tulajdonnévnél kevesebb, különös kevert szerzet. inkább kevesebb metainfó legyen, mint több, a címkét elvetettem :)
+# 托考伊葡萄酒 托考伊葡萄酒 [tuo1 kao3 yi1 pu2 tao2 jiu3] /tokaji aszú (a tokaji borvidéken előállított desszertbor)/
+# Ver 2019-10-12T15:15:58Z gabor Stat-Verif >.
+托考伊葡萄酒 托考伊葡萄酒 [tuo1 kao3 yi1 pu2 tao2 jiu3] /tokaji aszú (a tokaji borvidéken előállított desszertbor)/
 
 # ID-j79tk5Q
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -42955,7 +43172,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-j96AJ4x
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
-奧丁 奥丁 [ao4 ding1] /(átirat) Odin (isten a norvég mitológiában)/
+# 奧丁 奥丁 [ao4 ding1] /(átirat) Odin (isten a norvég mitológiában)/
+# Ver 2019-10-12T15:16:20Z gabor Stat-Verif >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+奧丁 奥丁 [ao4 ding1] /(tulajdonnév) Odin (isten a norvég mitológiában)/
 
 # ID-j96GP2S
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -43155,7 +43374,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 蘋果 苹果 [ping2 guo3] /alma/SZ:顆|颗[ke1]/
 # Ver 2017-06-07T10:37:22Z Adam Stat-Verif >összekapcsolt Wikipédia-szócikkek alapján
-蘋果 苹果 [ping2 guo3] /alma/SZ:顆|颗[ke1]/Apple (technológiai cég)/
+# 蘋果 苹果 [ping2 guo3] /alma/SZ:顆|颗[ke1]/Apple (technológiai cég)/
+# Ver 2019-10-12T15:13:31Z gabor Stat-Verif >címke
+蘋果 苹果 [ping2 guo3] /alma/SZ:顆|颗[ke1]/(tulajdonnév) Apple (technológiai cég)/
 
 # ID-k00VP7P
 # Ver 2017-11-29T12:13:15Z GaoYanuo Stat-New >CC-CEDICT
@@ -43739,7 +43960,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-k13QU4p
 # Ver 2019-05-08T01:28:59Z GaoYanuo Stat-New >HSK4 tankönyv példamondat: 请大家节约使用塑料袋，或者购物时自卑购物袋。\nhttps://www.xyzdict.com/en/chinese-english/%E8%87%AA%E5%A4%87
-自備 自备 [zi4 bei4] /gondoskodik saját magának vmiről/hoz magával saját vmit/önerőből képes vmire/
+# 自備 自备 [zi4 bei4] /gondoskodik saját magának vmiről/hoz magával saját vmit/önerőből képes vmire/
+# Ver 2019-10-12T15:52:44Z gabor Stat-New >a "képes" jelentést én nem lelem, a többi príma! kicsit pakolgattam a zárójeleket.
+# 自備 自备 [zi4 bei4] /gondoskodik saját magának (vmiről)/hoz magával (saját vmit)/
+# Ver 2019-10-12T15:52:47Z gabor Stat-Verif >.
+自備 自备 [zi4 bei4] /gondoskodik saját magának (vmiről)/hoz magával (saját vmit)/
 
 # ID-k13WB6D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -43871,7 +44096,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-k17lE6F
 # Ver 2017-05-29T11:50:42Z Adam Stat-New >CC-CEDICT és más szótárak
-咖啡因 咖啡因 [ka1 fei1 yin1] /(átirat) koffein/
+# 咖啡因 咖啡因 [ka1 fei1 yin1] /(átirat) koffein/
+# Ver 2019-10-12T15:17:12Z gabor Stat-New >nem átirat az, hanem átvett szó, de azokat meg nem szeretjük jelölni :)
+# 咖啡因 咖啡因 [ka1 fei1 yin1] /koffein/
+# Ver 2019-10-12T15:17:15Z gabor Stat-Verif >.
+咖啡因 咖啡因 [ka1 fei1 yin1] /koffein/
 
 # ID-k17md8A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -44101,7 +44330,8 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-09-04T16:49:00Z gabor Stat-New >kínai nyelven önmagában nem használatos
 # 霍普費倫茨 霍普费伦茨 [huo4 pu3 fei4 lun2 ci2] /(átirat) Hopp Ferenc (1833–1919)/
 # Ver 2017-09-04T16:49:03Z gabor Stat-Verif >.
-霍普費倫茨 霍普费伦茨 [huo4 pu3 fei4 lun2 ci2] /(átirat) Hopp Ferenc (1833–1919)/
+# Ver 2019-10-12T15:17:36Z gabor Stat-Verif >mégis így
+霍普費倫茨 霍普费伦茨 [huo4 pu3 fei4 lun2 ci2] /(tulajdonnév) Hopp Ferenc (1833–1919)/
 
 # ID-k22uc6L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -44139,7 +44369,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 接收 接收 [jie1 shou1] /kap; el|fogad/fog (adást)/át|vesz (tulajdont)/ki|sajátít/
 # Ver 2019-05-31T14:24:58Z Adam Stat-Verif >kínai és angol Wiktionary szócikke ["reception (of transmitted signal)"]; reception szócikkének kapcsolódó jelentése utóbbiban; Plecóban New Century English–Chinese Dict. ("reception") és CCDICT; dict.leo.org: Empfang elektronikai jelentése (信号​接收 stb.)
-接收 接收 [jie1 shou1] /kap; el|fogad/fog (adást)/át|vesz (tulajdont)/ki|sajátít/(telekommunikáció; elektronika) vétel; térerő/
+# 接收 接收 [jie1 shou1] /kap; el|fogad/fog (adást)/át|vesz (tulajdont)/ki|sajátít/(telekommunikáció; elektronika) vétel; térerő/
+# Ver 2019-10-12T15:45:07Z gabor Stat-Verif >ezeket én beleértem a "fog"-ba; kiegészítettem azt, hogy explicitebb legyen ott
+接收 接收 [jie1 shou1] /kap; el|fogad/vétel; fog (adást, jelet)/át|vesz (tulajdont)/ki|sajátít/
 
 # ID-k23je2q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -44741,7 +44973,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-k35gw3Z
 # Ver 2019-05-05T20:32:51Z GaoYanuo Stat-New >tanár\nhttps://www.xyzdict.com/en/chinese-english/%E5%81%9A%E8%B5%B7
-做起 做起 [zuo4 qi3] /elkezd/
+# 做起 做起 [zuo4 qi3] /elkezd/
+# Ver 2019-10-12T14:45:03Z gabor Stat-New >elhat
+# 做起 做起 [zuo4 qi3] /el|kezd/
+# Ver 2019-10-12T14:45:06Z gabor Stat-Verif >.
+做起 做起 [zuo4 qi3] /el|kezd/
 
 # ID-k35sT5r
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -46933,7 +47169,13 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-k88hk6H
 # Ver 2019-05-07T23:27:30Z GaoYanuo Stat-New >tanár, CC-CEDICT
-一次性 一次性 [yi1 ci4 xing4] /egyszer használatos/eldobható/
+# 一次性 一次性 [yi1 ci4 xing4] /egyszer használatos/eldobható/
+# Ver 2019-10-12T14:16:59Z gabor Stat-New >.
+# 一次性 一次性 [yi1 ci4 xing4] /egyeri (pl. ajánlat)/egyszer használatos/eldobható/
+# Ver 2019-10-12T14:17:06Z gabor Stat-New >elírás
+# 一次性 一次性 [yi1 ci4 xing4] /egyszeri (pl. ajánlat)/egyszer használatos/eldobható/
+# Ver 2019-10-12T14:17:08Z gabor Stat-Verif >.
+一次性 一次性 [yi1 ci4 xing4] /egyszeri (pl. ajánlat)/egyszer használatos/eldobható/
 
 # ID-k88kL1C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -47123,6 +47365,12 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # ID-k92qI8P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 資本 资本 [zi1 ben3] /tőke/
+
+# ID-k92yR7f
+# Ver 2019-10-12T13:59:54Z gabor Stat-New >ha már van 塑料，塑形 stb.\nszokásos szótárak.
+# 塑 塑 [su4] /meg|formál; formába önt/
+# Ver 2019-10-12T14:00:07Z gabor Stat-Verif >.
+塑 塑 [su4] /meg|formál; formába önt/
 
 # ID-k92Ev2p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -47602,7 +47850,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 降低 降低 [jiang4 di1] /csökkent/le|szállít/
 # Ver 2019-05-08T00:00:14Z GaoYanuo Stat-Verif >a "leszállít" érthető úgy is, hogy gyártó/eladó a megrendelő részére eljuttat.
-降低 降低 [jiang4 di1] /csökkent/le|szállít(árat)/
+# 降低 降低 [jiang4 di1] /csökkent/le|szállít(árat)/
+# Ver 2019-10-12T15:50:46Z gabor Stat-Verif >igen, igen, de azért a "csökkent" jelentés mellet ugye csak nem? :)\nde ha már errer járunk, ez a kettő annyira hasonló, összevontam őket.
+降低 降低 [jiang4 di1] /csökkent; le|szállít/
 
 # ID-l02io4J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -47999,7 +48249,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-l10KG6i
 # Ver 2017-05-24T13:40:13Z Adam Stat-New >https://www.douban.com/group/topic/54431972/  (匈牙利文学)
-托特阿爾巴德 托特阿尔巴德 [tuo1 te4 a1 er3 ba1 de2] /(átirat) Tóth Árpád/
+# 托特阿爾巴德 托特阿尔巴德 [tuo1 te4 a1 er3 ba1 de2] /(átirat) Tóth Árpád/
+# Ver 2019-10-12T15:18:27Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+# 托特阿爾巴德 托特阿尔巴德 [tuo1 te4 a1 er3 ba1 de2] /(tulajdonnév) Tóth Árpád/
+# Ver 2019-10-12T15:18:29Z gabor Stat-Verif >.
+托特阿爾巴德 托特阿尔巴德 [tuo1 te4 a1 er3 ba1 de2] /(tulajdonnév) Tóth Árpád/
 
 # ID-l10MV5r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -48037,7 +48291,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 辛普森 辛普森 [xin1 pu3 sen1] /(átirat) Simpson (rajzfilm-család)/
 # Ver 2017-05-21T19:49:02Z Adam Stat-Verif >egyértelműbb megfogalmazás
-辛普森 辛普森 [xin1 pu3 sen1] /(átirat) Simpson (rajzfilmbeli család)/
+# 辛普森 辛普森 [xin1 pu3 sen1] /(átirat) Simpson (rajzfilmbeli család)/
+# Ver 2019-10-12T15:18:50Z gabor Stat-Verif >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+辛普森 辛普森 [xin1 pu3 sen1] /(tulajdonnév) Simpson (rajzfilmbeli család)/
 
 # ID-l11Rk7Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -48283,7 +48539,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-l17SL7B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-韋德 韦德 [wei2 de2] /(átirat) Wade/(átirat) Sir Thomas Francis Wade (sinológus, 1818-1895)/
+# 韋德 韦德 [wei2 de2] /(átirat) Wade/(átirat) Sir Thomas Francis Wade (sinológus, 1818-1895)/
+# Ver 2019-10-12T15:19:16Z gabor Stat-Verif >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+韋德 韦德 [wei2 de2] /(átirat) Wade/(tulajdonnév) Sir Thomas Francis Wade (sinológus, 1818-1895)/
 
 # ID-l18ho5G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -49099,7 +49357,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-l34Nl5x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-費城 费城 [fei4 cheng2] /(átirat) Philadelphia/
+# 費城 费城 [fei4 cheng2] /(átirat) Philadelphia/
+# Ver 2019-10-12T15:19:52Z gabor Stat-Verif >címke
+費城 费城 [fei4 cheng2] /(földrajzi név) Philadelphia/
 
 # ID-l34PJ1O
 # Ver 2017-12-12T11:42:05Z GaoYanuo Stat-New >tanár, CC-CEDICT
@@ -49127,7 +49387,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-11-27T17:18:14Z GaoYanuo Stat-New >.
 # 穀歌 谷歌 [gu3 ge1] /(átirat)Google/
 # Ver 2017-11-27T18:01:58Z gabor Stat-New >egyelőre az az elvem, hogy ha egy "átiratnak" konkrét referense van: egy létező cég, márkanév, földrajzi hely, konkrét személy stb., akkor nem használom a címkét. leginkább a nyugati keresztnevek átiratok - azzal a logikával, ahogy "Jinping" sem lesz magyar keresztnév.\n\negyelőre csak a (földrajzi név) címkét használom igazán konzekvensen, időnként előjön a (tulajdonnév). ezen egy pár napot el kéne töprengeni, hogy hányfélét van értelme megkülönböztetni, ha egyáltalán: pl. személynév, márkanév stb.\n\nleginkább azért nem foglalkoztam vele, mert a tulajdonneveket egy nagy nekifutásra, félig automatikusan bele lehet önteni a szótárba, és igazából ráérünk akkor, amikor ez sorra kerül.
-穀歌 谷歌 [gu3 ge1] /Google/
+# 穀歌 谷歌 [gu3 ge1] /Google/
+# Ver 2019-10-12T15:21:34Z gabor Stat-New >arra hajlok most, cégek, márkák elé mégiscsak rakjuk ki, hogy tulajdonnév; zárójelben lehet magyarázkodni, ha olyan a hangulatunk
+# 穀歌 谷歌 [gu3 ge1] /(tulajdonnév) Google (szoftvercég)/
+# Ver 2019-10-12T15:21:39Z gabor Stat-Verif >.
+穀歌 谷歌 [gu3 ge1] /(tulajdonnév) Google (szoftvercég)/
 
 # ID-l35SR0S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -49219,7 +49483,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-l37Sd1d
 # Ver 2017-05-21T22:29:22Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
-菲利普萊納德 菲利普莱纳德 [fei1 li4 pu3 lai2 na4 de2] /(átirat) Lénárd Fülöp; Philipp Eduard Anton (von) Lenard (fizikus, az első magyar származású Nobel-díjas)/
+# 菲利普萊納德 菲利普莱纳德 [fei1 li4 pu3 lai2 na4 de2] /(átirat) Lénárd Fülöp; Philipp Eduard Anton (von) Lenard (fizikus, az első magyar származású Nobel-díjas)/
+# Ver 2019-10-12T15:22:57Z gabor Stat-New >címke
+# 菲利普萊納德 菲利普莱纳德 [fei1 li4 pu3 lai2 na4 de2] /(átirat) Lénárd Fülöp/(tulajdonnév) Philipp Eduard Anton von Lenard; Lénárd Fülöp (fizikus, az első magyar származású Nobel-díjas, 1862-1942)/
+# Ver 2019-10-12T15:23:00Z gabor Stat-Verif >.
+菲利普萊納德 菲利普莱纳德 [fei1 li4 pu3 lai2 na4 de2] /(átirat) Lénárd Fülöp/(tulajdonnév) Philipp Eduard Anton von Lenard; Lénárd Fülöp (fizikus, az első magyar származású Nobel-díjas, 1862-1942)/
 
 # ID-l38fm1W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -51149,7 +51417,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-l82of5C
 # Ver 2017-05-23T23:20:24Z Adam Stat-New >learning.sohu.com és más források (a vezetéknév kínai alakjáról egyetértés van, úgy tűnik)
-卡林蒂弗裡吉斯 卡林蒂弗里吉斯 [ka3 lin2 di4 fu2 li3 ji2 si1] /(átirat) Karinthy Frigyes/
+# 卡林蒂弗裡吉斯 卡林蒂弗里吉斯 [ka3 lin2 di4 fu2 li3 ji2 si1] /(átirat) Karinthy Frigyes/
+# Ver 2019-10-12T15:23:36Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+# 卡林蒂弗裡吉斯 卡林蒂弗里吉斯 [ka3 lin2 di4 fu2 li3 ji2 si1] /(tulajdonnév) Karinthy Frigyes/
+# Ver 2019-10-12T15:23:39Z gabor Stat-Verif >.
+卡林蒂弗裡吉斯 卡林蒂弗里吉斯 [ka3 lin2 di4 fu2 li3 ji2 si1] /(tulajdonnév) Karinthy Frigyes/
 
 # ID-l82qY1r
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -51248,7 +51520,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # 陳國 陈国 [chen2 guo2] /(átirat) Csongor Barnabás (1923–)/
 # Ver 2017-09-06T19:04:18Z gabor Stat-Verif >.
 # Ver 2019-08-25T13:12:38Z Adam Stat-Verif >elhunyt: https://www.facebook.com/KinaiMuveszetiKozpont/photos/a.939720566068743/2109213135786141/ https://terebess.hu/keletkultinfo/lexikon/csongor.html és https://hu.wikipedia.org/wiki/Csongor_Barnab%C3%A1s
-陳國 陈国 [chen2 guo2] /(átirat) Csongor Barnabás (1923–2018)/
+# 陳國 陈国 [chen2 guo2] /(átirat) Csongor Barnabás (1923–2018)/
+# Ver 2019-10-12T15:24:08Z gabor Stat-Verif >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+陳國 陈国 [chen2 guo2] /(tulajdonnév) Csongor Barnabás (1923–2018)/
 
 # ID-l84xh1G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -52459,7 +52733,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-m14RO9n
 # Ver 2017-05-24T14:30:53Z Adam Stat-New >http://culture.china.com/art/11159887/20170427/30466039_all.html
-蘇契蓋佐 苏契盖佐 [su1 qi4 ge3 zuo3] /(átirat) Szőcs Géza (költő)/
+# 蘇契蓋佐 苏契盖佐 [su1 qi4 ge3 zuo3] /(átirat) Szőcs Géza (költő)/
+# Ver 2019-10-12T15:24:30Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+# 蘇契蓋佐 苏契盖佐 [su1 qi4 ge3 zuo3] /(tulajdonnév) Szőcs Géza (költő)/
+# Ver 2019-10-12T15:24:34Z gabor Stat-Verif >.
+蘇契蓋佐 苏契盖佐 [su1 qi4 ge3 zuo3] /(tulajdonnév) Szőcs Géza (költő)/
 
 # ID-m14WD2Z
 # Ver 2017-05-21T22:31:39Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
@@ -52770,7 +53048,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-m20LT4Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-好萊塢 好莱坞 [hao3 lai2 wu4] /(átirat) Hollywood/
+# 好萊塢 好莱坞 [hao3 lai2 wu4] /(átirat) Hollywood/
+# Ver 2019-10-12T15:24:58Z gabor Stat-Verif >címke
+好萊塢 好莱坞 [hao3 lai2 wu4] /(földrajzi név) Hollywood/
 
 # ID-m20Pn7U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -53839,7 +54119,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-m44qh9C
 # Ver 2017-05-21T20:27:34Z Adam Stat-New >Baidu alapján (a kínai Wikipédiában is így szerepel, csak nyugati névsorrenddel)
-艾斯特哈茲彼得 艾斯特哈兹彼得 [ai4 si1 te4 ha1 zi1 bi3 de2] /(átirat) Esterházy Péter/
+# 艾斯特哈茲彼得 艾斯特哈兹彼得 [ai4 si1 te4 ha1 zi1 bi3 de2] /(átirat) Esterházy Péter/
+# Ver 2019-10-12T15:26:12Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+# 艾斯特哈茲彼得 艾斯特哈兹彼得 [ai4 si1 te4 ha1 zi1 bi3 de2] /(tulajdonnév) Esterházy Péter (1950-2016)/
+# Ver 2019-10-12T15:26:59Z gabor Stat-Verif >az alanyt pediglen egyeztetni kell az állítmánnyal és a népnemzeti gerinccel.
+艾斯特哈茲彼得 艾斯特哈兹彼得 [ai4 si1 te4 ha1 zi1 bi3 de2] /(tulajdonnév) Esterházy Péter (1950-2016)/
 
 # ID-m44rQ6m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -54838,7 +55122,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-m65TM5f
 # Ver 2017-05-24T14:25:49Z Adam Stat-New >http://culture.china.com/art/11159887/20170427/30466039_all.html
-剋拉斯諾霍爾卡伊拉斯洛 克拉斯诺霍尔卡伊拉斯洛 [ke4 la1 si1 nuo4 huo4 er3 ka3 yi1 la1 si1 luo4] /(átirat) Krasznahorkai László/
+# 剋拉斯諾霍爾卡伊拉斯洛 克拉斯诺霍尔卡伊拉斯洛 [ke4 la1 si1 nuo4 huo4 er3 ka3 yi1 la1 si1 luo4] /(átirat) Krasznahorkai László/
+# Ver 2019-10-12T15:27:39Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+# 剋拉斯諾霍爾卡伊拉斯洛 克拉斯诺霍尔卡伊拉斯洛 [ke4 la1 si1 nuo4 huo4 er3 ka3 yi1 la1 si1 luo4] /(tulajdonnév) Krasznahorkai László/
+# Ver 2019-10-12T15:27:43Z gabor Stat-Verif >.
+剋拉斯諾霍爾卡伊拉斯洛 克拉斯诺霍尔卡伊拉斯洛 [ke4 la1 si1 nuo4 huo4 er3 ka3 yi1 la1 si1 luo4] /(tulajdonnév) Krasznahorkai László/
 
 # ID-m65VB8l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -54948,7 +55236,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-m67KK5b
 # Ver 2019-05-05T19:44:54Z GaoYanuo Stat-New >tanár\nhttps://www.xyzdict.com/en/chinese-english/%E5%A1%91%E5%BD%A2
-塑形 塑形 [su4 xing2] /formál, alakít/
+# 塑形 塑形 [su4 xing2] /formál, alakít/
+# Ver 2019-10-12T13:56:05Z gabor Stat-New >.
+# 塑形 塑形 [su4 xing2] /formáz; alakít/
+# Ver 2019-10-12T13:56:10Z gabor Stat-Verif >.
+塑形 塑形 [su4 xing2] /formáz; alakít/
 
 # ID-m67KV6l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -55284,7 +55576,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-m75pL9t
 # Ver 2017-05-21T23:53:19Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek (a pinjin-átírás ellenőrizendő), keleti (kínai/magyar) névsorrendre módosítva
-塞切尼伊斯特凡 塞切尼伊斯特凡 [sai1 qie1 ni2 yi1 si1 te4 fan2] /(átirat) Széchenyi István/
+# 塞切尼伊斯特凡 塞切尼伊斯特凡 [sai1 qie1 ni2 yi1 si1 te4 fan2] /(átirat) Széchenyi István/
+# Ver 2019-10-12T15:31:33Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+# 塞切尼伊斯特凡 塞切尼伊斯特凡 [sai1 qie1 ni2 yi1 si1 te4 fan2] /(tulajdonnév) Széchenyi István/
+# Ver 2019-10-12T15:31:36Z gabor Stat-Verif >.
+塞切尼伊斯特凡 塞切尼伊斯特凡 [sai1 qie1 ni2 yi1 si1 te4 fan2] /(tulajdonnév) Széchenyi István/
 
 # ID-m75qU9B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -55652,7 +55948,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-m83gv2O
 # Ver 2019-05-07T23:14:29Z GaoYanuo Stat-New >tanár, CC-CEDICT
-梅西 梅西 [mei2 xi1] /Lionel Messi argentin labdarúgó/
+# 梅西 梅西 [mei2 xi1] /Lionel Messi argentin labdarúgó/
+# Ver 2019-10-12T14:44:23Z gabor Stat-New >címke, zárójel
+# 梅西 梅西 [mei2 xi1] /(tulajdonnév) Lionel Messi (argentin labdarúgó)/
+# Ver 2019-10-12T14:44:25Z gabor Stat-Verif >.
+梅西 梅西 [mei2 xi1] /(tulajdonnév) Lionel Messi (argentin labdarúgó)/
 
 # ID-m83rd0F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -55692,7 +55992,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-m84hY7u
 # Ver 2017-05-23T23:01:17Z Adam Stat-New >匈牙利文学 szócikk, www.baike.com
-科斯托拉尼德熱 科斯托拉尼德热 [ke1 si1 tuo1 la1 ni2 de2 re4] /(átirat) Kosztolányi Dezső/
+# 科斯托拉尼德熱 科斯托拉尼德热 [ke1 si1 tuo1 la1 ni2 de2 re4] /(átirat) Kosztolányi Dezső/
+# Ver 2019-10-12T15:31:55Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+# 科斯托拉尼德熱 科斯托拉尼德热 [ke1 si1 tuo1 la1 ni2 de2 re4] /(tulajdonnév) Kosztolányi Dezső/
+# Ver 2019-10-12T15:31:57Z gabor Stat-Verif >.
+科斯托拉尼德熱 科斯托拉尼德热 [ke1 si1 tuo1 la1 ni2 de2 re4] /(tulajdonnév) Kosztolányi Dezső/
 
 # ID-m84oX3M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -56767,7 +57071,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-n09ML9s
 # Ver 2019-05-05T19:01:18Z GaoYanuo Stat-New >tanár, képtalálatok megerősítik\nhttps://www.lingq.com/en/learn-chinese-online/translate/zh/%E7%82%95/
-匟 炕 [kang4] /hagyományos (kemenceszerű) fűthető ágy/
+# 匟 炕 [kang4] /hagyományos (kemenceszerű) fűthető ágy/
+# Ver 2019-10-12T14:09:26Z gabor Stat-New >ez egy igen sajátos, kultúra-specifikus dolog; ahogy én látom, semmilyen nyelvre nem fordítják le, mindenhol "kang", némi magyarázattal, ahogy a dzsunka is dzsunka pl. szerintem ez magyarul pediglen kang mostantól :)
+# 匟 炕 [kang4] /kang (kína zord klímájú északi területein elterjedt, kemenceszerűen fűthető nagy ágy)/
+# Ver 2019-10-12T14:09:30Z gabor Stat-Verif >.
+匟 炕 [kang4] /kang (kína zord klímájú északi területein elterjedt, kemenceszerűen fűthető nagy ágy)/
 
 # ID-n09Zn4f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -57184,7 +57492,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-n20zP8p
 # Ver 2019-05-27T13:24:03Z Adam Stat-New >5 különböző Pleco-szótár
-居留 居留 [ju1 liu2] /tartózkodik, él, lakik (vhol)/tartózkodás/
+# 居留 居留 [ju1 liu2] /tartózkodik, él, lakik (vhol)/tartózkodás/
+# Ver 2019-10-12T15:50:00Z gabor Stat-New >pontosvessző
+# 居留 居留 [ju1 liu2] /tartózkodik; él; lakik (vhol)/tartózkodás/
+# Ver 2019-10-12T15:50:03Z gabor Stat-Verif >.
+居留 居留 [ju1 liu2] /tartózkodik; él; lakik (vhol)/tartózkodás/
 
 # ID-n20Pp0m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -57632,7 +57944,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 沙發 沙发 [sha1 fa1] /kanapé/szófa/SZ:條|条[tiao2],張|张[zhang1]/
 # Ver 2017-05-29T12:32:40Z Adam Stat-Verif >"átirat" beszúrása
-沙發 沙发 [sha1 fa1] /(átirat) kanapé; szófa/SZ:條|条[tiao2],張|张[zhang1]/
+# 沙發 沙发 [sha1 fa1] /(átirat) kanapé; szófa/SZ:條|条[tiao2],張|张[zhang1]/
+# Ver 2019-10-12T15:32:37Z gabor Stat-Verif >nem átirat az, hanem átvett szó, amit pediglen nem szeretünk jelölni.
+沙發 沙发 [sha1 fa1] /kanapé; szófa/SZ:條|条[tiao2],張|张[zhang1]/
 
 # ID-n31zb0n
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -59874,7 +60188,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-n83WZ9Y
 # Ver 2017-05-23T14:29:50Z Adam Stat-New >baike.baidu.com
-馬洛伊山多爾 马洛伊山多尔 [ma3 luo4 yi1 shan1 duo1 er3] /(átirat) Márai Sándor/
+# 馬洛伊山多爾 马洛伊山多尔 [ma3 luo4 yi1 shan1 duo1 er3] /(átirat) Márai Sándor/
+# Ver 2019-10-12T15:33:12Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+# 馬洛伊山多爾 马洛伊山多尔 [ma3 luo4 yi1 shan1 duo1 er3] /(tulajdonnév) Márai Sándor/
+# Ver 2019-10-12T15:33:14Z gabor Stat-Verif >.
+馬洛伊山多爾 马洛伊山多尔 [ma3 luo4 yi1 shan1 duo1 er3] /(tulajdonnév) Márai Sándor/
 
 # ID-n84el5E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -60886,7 +61204,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-o08jV3m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-戴爾 戴尔 [dai4 er3] /(átirat) Dell (cég)/
+# 戴爾 戴尔 [dai4 er3] /(átirat) Dell (cég)/
+# Ver 2019-10-12T15:33:44Z gabor Stat-Verif >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+# 戴爾 戴尔 [dai4 er3] /(tulajdonnév) Dell (cég)/
+# Ver 2019-10-12T15:34:13Z gabor Stat-Verif >.
+戴爾 戴尔 [dai4 er3] /(tulajdonnév) Dell (cég; számítógépmárka)/
 
 # ID-o08mg2t
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -61797,7 +62119,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-o29EZ1f
 # Ver 2017-05-23T22:38:26Z Adam Stat-New >www.konfuciuszintezet.u-szeged.hu (a két külön név sok más helyen is ezzel az átírással fordul elő)
-約瑟夫阿提拉 约瑟夫阿提拉 [yue1 se4 fu1 a1 ti2 la1] /(átirat) József Attila/
+# 約瑟夫阿提拉 约瑟夫阿提拉 [yue1 se4 fu1 a1 ti2 la1] /(átirat) József Attila/
+# Ver 2019-10-12T15:34:35Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+# 約瑟夫阿提拉 约瑟夫阿提拉 [yue1 se4 fu1 a1 ti2 la1] /(tulajdonnév) József Attila/
+# Ver 2019-10-12T15:34:37Z gabor Stat-Verif >,
+約瑟夫阿提拉 约瑟夫阿提拉 [yue1 se4 fu1 a1 ti2 la1] /(tulajdonnév) József Attila/
 
 # ID-o29Fc4w
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -62045,7 +62371,8 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-09-05T08:53:54Z gabor Stat-New >kínai nyelven önmagában nem használatos
 # 米白 米白 [mi3 bai2] /(átirat) Miklós Pál (1927–2002)/
 # Ver 2017-09-05T08:53:57Z gabor Stat-Verif >.
-米白 米白 [mi3 bai2] /(átirat) Miklós Pál (1927–2002)/
+# Ver 2019-10-12T15:35:23Z gabor Stat-Verif >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+米白 米白 [mi3 bai2] /(tulajdonnév) Miklós Pál (sinológus, műfordító, 1927–2002)/
 
 # ID-o34sT1w
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -62454,7 +62781,9 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-o43IK7K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-奔馳 奔驰 [ben1 chi2] /(átirat) Benz; Mercedes-Benz/gyorsan fut/száguld/
+# 奔馳 奔驰 [ben1 chi2] /(átirat) Benz; Mercedes-Benz/gyorsan fut/száguld/
+# Ver 2019-10-12T15:12:30Z gabor Stat-Verif >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+奔馳 奔驰 [ben1 chi2] /(tulajdonnév) Benz; Mercedes-Benz (autómárka)/gyorsan fut/száguld/
 
 # ID-o43Ty9P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -62500,7 +62829,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-o45pF8G
 # Ver 2017-05-24T00:19:00Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek (a pinjin-átírás ellenőrizendő), keleti (kínai/magyar) névsorrendre módosítva
-塞麥爾維斯伊格納茲 塞麦尔维斯伊格纳兹 [sai1 mai4 er3 wei2 si1 yi1 ge2 na4 zi1] /(átirat) Semmelweis Ignác/
+# 塞麥爾維斯伊格納茲 塞麦尔维斯伊格纳兹 [sai1 mai4 er3 wei2 si1 yi1 ge2 na4 zi1] /(átirat) Semmelweis Ignác/
+# Ver 2019-10-12T15:35:53Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+# 塞麥爾維斯伊格納茲 塞麦尔维斯伊格纳兹 [sai1 mai4 er3 wei2 si1 yi1 ge2 na4 zi1] /(tulajdonnév) Semmelweis Ignác/
+# Ver 2019-10-12T15:35:55Z gabor Stat-Verif >.
+塞麥爾維斯伊格納茲 塞麦尔维斯伊格纳兹 [sai1 mai4 er3 wei2 si1 yi1 ge2 na4 zi1] /(tulajdonnév) Semmelweis Ignác/
 
 # ID-o45Jp9F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -62610,6 +62943,8 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-o48nu3I
 # Ver 2019-05-07T23:17:34Z GaoYanuo Stat-New >tanár, CC-CEDICT
+# 進球 进球 [jin4 qiu2] /gól/gólt lő/
+# Ver 2019-10-12T14:17:17Z gabor Stat-Verif >.
 進球 进球 [jin4 qiu2] /gól/gólt lő/
 
 # ID-o48wv4Q
@@ -65068,7 +65403,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-p03Cm3W
 # Ver 2019-05-05T20:35:34Z GaoYanuo Stat-New >tanár\nhttps://www.xyzdict.com/en/chinese-english/%E9%AB%98%E9%93%81
-高鐵 高铁 [gao1 tie3] /gyorsvasút/
+# 高鐵 高铁 [gao1 tie3] /gyorsvasút/
+# Ver 2019-10-12T14:44:36Z gabor Stat-New >elhat
+# 高鐵 高铁 [gao1 tie3] /gyors|vasút/
+# Ver 2019-10-12T14:44:39Z gabor Stat-Verif >.
+高鐵 高铁 [gao1 tie3] /gyors|vasút/
 
 # ID-p03Gk8d
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -65754,7 +66093,11 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 
 # ID-p18lj2T
 # Ver 2017-05-21T21:38:53Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek (a pinjin-átírás ellenőrizendő)
-剋爾切伊費倫茨 克尔切伊费伦茨 [ke4 er3 qie1 yi1 fei4 lun2 ci2] /(átirat) Kölcsey Ferenc/
+# 剋爾切伊費倫茨 克尔切伊费伦茨 [ke4 er3 qie1 yi1 fei4 lun2 ci2] /(átirat) Kölcsey Ferenc/
+# Ver 2019-10-12T15:36:28Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+# 剋爾切伊費倫茨 克尔切伊费伦茨 [ke4 er3 qie1 yi1 fei4 lun2 ci2] /(tulajdonnév) Kölcsey Ferenc/
+# Ver 2019-10-12T15:36:31Z gabor Stat-Verif >.
+剋爾切伊費倫茨 克尔切伊费伦茨 [ke4 er3 qie1 yi1 fei4 lun2 ci2] /(tulajdonnév) Kölcsey Ferenc/
 
 # ID-p18pI4v
 # Ver 2018-01-29T20:03:26Z GaoYanuo Stat-New >http://www.youdao.com/w/%E4%BB%8B%E8%B4%A8/#keyfrom=dict2.top\nhttp://www.dictall.com/dictall/result.jsp?cd=UTF-8&keyword=%E4%BB%8B%E8%B4%A8
@@ -65978,7 +66321,8 @@ C羅 C罗 [C luo1] /Cristiano Ronaldo portugál labdarúgó/
 # Ver 2017-09-06T19:04:27Z gabor Stat-New >.
 # 包甫博 包甫博 [bao1 fu3 bo2] /(átirat) Bartos Huba (1966–)/
 # Ver 2017-09-06T19:04:31Z gabor Stat-Verif >.
-包甫博 包甫博 [bao1 fu3 bo2] /(átirat) Bartos Huba (1966–)/
+# Ver 2019-10-12T14:21:57Z gabor Stat-Verif >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
+包甫博 包甫博 [bao1 fu3 bo2] /(tulajdonnév) Bartos Huba (1966–)/
 
 # ID-p22Ld2t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
