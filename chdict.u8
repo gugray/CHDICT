@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2019-10-15T02:00:01Z
+# Datenstand: 2019-10-16T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -11494,6 +11494,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 大約 大约 [da4 yue1] /körülbelül/valószínűleg/
 
+# ID-c63PK1R
+# Ver 2019-10-15T18:31:34Z GaoYanuo Stat-New >Tanár, CC-cedict
+平淡 平淡 [ping2 dan4] /sima, lapos, sík/szokásos/jellegtelen//
+
 # ID-c63SZ6s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 就要 就要 [jiu4 yao4] /fog (tenni készül vmit; épp be fog következni vmi)/
@@ -19031,6 +19035,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e37dy5z
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 校友 校友 [xiao4 you3] /öreg|diák/
+
+# ID-e37dC7e
+# Ver 2019-10-15T18:27:43Z GaoYanuo Stat-New >HSK5 tankönyv, CC-CEDICT
+陽曆 阳历 [yang2 li4] /Nyugati, v. Gergely naptár/
 
 # ID-e37eU0N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -28182,6 +28190,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 佐羅 佐罗 [zuo3 luo2] /(átirat) Zorro/
 
+# ID-g48pE6K
+# Ver 2019-10-15T18:12:59Z GaoYanuo Stat-New >Tanár, CC-EDICT. A tanár megjegyzése, nem vihar (storm,) hanem gyorsan jövő, gyorsan menő villámlással járó rövid esőzés. 
+雷陣雨 雷阵雨 [lei2 zhen4 yu3] /zivatar/
+
 # ID-g48rH8v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 河流 河流 [he2 liu2] /folyó/SZ:條|条[tiao2]/
@@ -32390,6 +32402,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-h47ky5H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
+# 待遇 待遇 [dai4 yu4] /kezelés/bánásmód/fizetés/
+# Ver 2019-10-15T18:21:35Z GaoYanuo Stat-Verif >A tanárom szerint minden javadalmazás egy munkáltató részéről, nem csak a fizetés (salary, weges), hanem minden természetbeni juttatás és kedvezmény is ide értendő, mint pl. vasutasoknak a szabadjegy. Átvitt értelemben is használatos, a tett elnyeri jutalmát, jóért rosszal fizet, stb. értelemben. A CC-CEDICT-nél "treatment " fordítása is van. Ezek miatt inkább "fizetség"-re javítanám.
 待遇 待遇 [dai4 yu4] /kezelés/bánásmód/fizetés/
 
 # ID-h47Av2N
@@ -32624,6 +32638,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-h53hd4e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 雪 雪 [xue3] /hó/
+
+# ID-h53uv6R
+# Ver 2019-10-15T18:44:58Z GaoYanuo Stat-New >Tanár, CC-CEDICT. A tanár szerint Kínában a lehetetlennel határos kikérni magántanulónak egy gyereket az iskolából, nagyon alapos indok kell hozzá. (Külföldi munka, betegség, stb.)
+休學 休学 [xiu1 xue2] /halaszt (iskolában)//
 
 # ID-h53xI2k
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -39047,6 +39065,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-j00zD8M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 倚門倚閭 倚门倚闾 [yi3 men2 yi3 lü2] /(kifejezés) várja gyermeke hazatértét/
+
+# ID-j00AO8M
+# Ver 2019-10-15T18:38:27Z GaoYanuo Stat-New >Tanár, és a korpusznak is irtó aranyos találatai vannak:-)
+撞門 撞门 [zhuang4 men2] /betör; kivág; heves mozdulattal kinyit ajtót, kaput, stb./
 
 # ID-j00DE6J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -51586,7 +51608,11 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-l85Ao4w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-大方 大方 [da4 fang5] /természetes/mesterkéletlen/
+# 大方 大方 [da4 fang5] /természetes/mesterkéletlen/
+# Ver 2019-10-15T17:55:12Z GaoYanuo Stat-Verif >anyanyelvi tanár, CC-EDICT "magnanimous" és "generous" fordítása alapján
+# 大方 大方 [da4 fang5] /természetes/mesterkéletlen/nagylelkű/
+# Ver 2019-10-15T17:58:27Z GaoYanuo Stat-Verif >A CC-EDICT-ben találtam "大方 - dà fāng -->expert, scholar, mother earth, a type of green tea szócikket. Gondolom itt is (és hasonló esetben, mikor ugyanaz a hanzi más kiejtéssel és jelentéssel bír) az lenne az eljárás, hogy külön szócikkben vesszük fel.
+大方 大方 [da4 fang5] /természetes/mesterkéletlen/nagylelkű/
 
 # ID-l85LZ6l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -63883,6 +63909,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-o70KI6v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 想睡 想睡 [xiang3 shui4] /álmosság/kába/
+
+# ID-o70XR9I
+# Ver 2019-10-15T18:25:38Z GaoYanuo Stat-New >HSK 5 tankönyv, CC-CEDICT
+迷上 迷上 [mi2 shang4] /elbűvöl; felcsigáz; felizgat (vmi vkit)/
 
 # ID-o71cC9W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
