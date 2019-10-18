@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2019-10-16T02:00:01Z
+# Datenstand: 2019-10-18T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -9725,6 +9725,12 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 宅 宅 [zhai2] /lakó|hely/lakás/
 
+# ID-c25aT7j
+# Ver 2019-10-17T10:57:45Z GaoYanuo Stat-New >HSK5 tk, CC-CEDICT
+# 無邊無際 无边无际 [wu2 bian1 wu2 ji4] /végtelen/határtalan/
+# Ver 2019-10-17T16:30:28Z gabor Stat-Verif >.
+無邊無際 无边无际 [wu2 bian1 wu2 ji4] /végtelen/határtalan/
+
 # ID-c25lL1Q
 # Ver 2017-10-16T16:36:48Z gabor Stat-New >CEDICT; korpusz
 像素 像素 [xiang4 su4] /pixel/
@@ -10029,6 +10035,12 @@
 # Ver 2018-06-05T20:03:21Z gabor Stat-Verif >te... az "együtt érez" tök komoly? nekem az azt jelenti, hogy nem külön érzünk, hanem együtt, ami, nos, egy picit fura elképzelés, de nem lehetetlen. az "együttérez" viszont a részvét, compassion, Mitgefühl stb. jelentése magyarul.\n\npersze lehet, hogy ezt is átvariálta az új helyesírás, mert végülis miért ne, de akkor én lassan hivatalosan is kiszállok a helyesen író bizniszből (mert, szintén: miért ne).
 # Ver 2018-06-05T20:23:43Z Adam Stat-Verif >Bocsánat! Utánanéztem: pont a legújabb, 2015-ös szabályzat döntött az egybeírt alakról ebben a jelentésben, hogy ’átéli más örömét/bánatát’ (azelőtt csak a különírt forma volt lehetséges)
 同情 同情 [tong2 qing2] /együttérez/együttérzés; részvét/
+
+# ID-c33cU6H
+# Ver 2019-10-17T11:47:00Z GaoYanuo Stat-New >tankönyv, szokásos szótárak
+# 安全性 安全性 [an1 quan2 xing4] /biztonság/
+# Ver 2019-10-17T16:30:07Z gabor Stat-Verif >.
+安全性 安全性 [an1 quan2 xing4] /biztonság/
 
 # ID-c33eL8j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -11496,7 +11508,11 @@
 
 # ID-c63PK1R
 # Ver 2019-10-15T18:31:34Z GaoYanuo Stat-New >Tanár, CC-cedict
-平淡 平淡 [ping2 dan4] /sima, lapos, sík/szokásos/jellegtelen//
+# 平淡 平淡 [ping2 dan4] /sima, lapos, sík/szokásos/jellegtelen//
+# Ver 2019-10-17T16:25:31Z gabor Stat-New >.
+# 平淡 平淡 [ping2 dan4] /lapos; jellegtelen; közönséges/
+# Ver 2019-10-17T16:25:34Z gabor Stat-Verif >.
+平淡 平淡 [ping2 dan4] /lapos; jellegtelen; közönséges/
 
 # ID-c63SZ6s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -19038,7 +19054,11 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-e37dC7e
 # Ver 2019-10-15T18:27:43Z GaoYanuo Stat-New >HSK5 tankönyv, CC-CEDICT
-陽曆 阳历 [yang2 li4] /Nyugati, v. Gergely naptár/
+# 陽曆 阳历 [yang2 li4] /Nyugati, v. Gergely naptár/
+# Ver 2019-10-17T16:20:10Z gabor Stat-New >kettészedtem a vagy mentén
+# 陽曆 阳历 [yang2 li4] /Gergely-naptár; nyugati naptár (a holdnaptárral szemben)/
+# Ver 2019-10-17T16:20:17Z gabor Stat-Verif >.
+陽曆 阳历 [yang2 li4] /Gergely-naptár; nyugati naptár (a holdnaptárral szemben)/
 
 # ID-e37eU0N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -27193,6 +27213,14 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 劇情 剧情 [ju4 qing2] /cselekmény/
 
+# ID-g25fY0T
+# Ver 2019-10-17T10:06:32Z GaoYanuo Stat-New >Tanár, CC-CEDICT\nhttps://www.purpleculture.net/sample_sentences/?word=%E4%B8%80%E4%B8%AA%E4%B8%AA&page=2
+# 一個個 一个个 [yi1 ge4 ge4] /egymás után; egyenként/egyre-másra/egytől egyig/mindennek tetejébe/
+# Ver 2019-10-17T16:31:45Z gabor Stat-New >.
+# 一個個 一个个 [yi1 ge4 ge4] /mindegyik; minden egyes/egyenként; egymás után/
+# Ver 2019-10-17T16:31:48Z gabor Stat-Verif >.
+一個個 一个个 [yi1 ge4 ge4] /mindegyik; minden egyes/egyenként; egymás után/
+
 # ID-g25md1y
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 生命力 生命力 [sheng1 ming4 li4] /élet|erő/
@@ -28192,7 +28220,11 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-g48pE6K
 # Ver 2019-10-15T18:12:59Z GaoYanuo Stat-New >Tanár, CC-EDICT. A tanár megjegyzése, nem vihar (storm,) hanem gyorsan jövő, gyorsan menő villámlással járó rövid esőzés. 
-雷陣雨 雷阵雨 [lei2 zhen4 yu3] /zivatar/
+# 雷陣雨 雷阵雨 [lei2 zhen4 yu3] /zivatar/
+# Ver 2019-10-17T16:08:38Z gabor Stat-New >beleírtam kifejtésbe :)
+# 雷陣雨 雷阵雨 [lei2 zhen4 yu3] /zivatar (rövid, villámlással járó esőzés, gyorsan elmúló vihar)/
+# Ver 2019-10-17T16:08:41Z gabor Stat-Verif >.
+雷陣雨 雷阵雨 [lei2 zhen4 yu3] /zivatar (rövid, villámlással járó esőzés, gyorsan elmúló vihar)/
 
 # ID-g48rH8v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -30450,6 +30482,14 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 不久 不久 [bu4 jiu3] /nemsokára/hamarosan/nem sokkal később/
 
+# ID-g98qu1c
+# Ver 2019-10-17T11:52:19Z GaoYanuo Stat-New >tankönyv, CC-CEDICT
+# 受騙 受骗 [shou4 pian4] /becsap/becsapott; megtévesztett (személy)/
+# Ver 2019-10-17T16:29:49Z gabor Stat-New >akárcsak a 上当, 叫做 esetén: T/3
+# 受騙 受骗 [shou4 pian4] /átverik; becsapják/
+# Ver 2019-10-17T16:29:52Z gabor Stat-Verif >.
+受騙 受骗 [shou4 pian4] /átverik; becsapják/
+
 # ID-g98rH0k
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 人口普查 人口普查 [ren2 kou3 pu3 cha2] /nép|számlálás/
@@ -32404,7 +32444,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 待遇 待遇 [dai4 yu4] /kezelés/bánásmód/fizetés/
 # Ver 2019-10-15T18:21:35Z GaoYanuo Stat-Verif >A tanárom szerint minden javadalmazás egy munkáltató részéről, nem csak a fizetés (salary, weges), hanem minden természetbeni juttatás és kedvezmény is ide értendő, mint pl. vasutasoknak a szabadjegy. Átvitt értelemben is használatos, a tett elnyeri jutalmát, jóért rosszal fizet, stb. értelemben. A CC-CEDICT-nél "treatment " fordítása is van. Ezek miatt inkább "fizetség"-re javítanám.
-待遇 待遇 [dai4 yu4] /kezelés/bánásmód/fizetés/
+# Ver 2019-10-17T16:11:46Z gabor Stat-Verif >felvettem a fizetséget, javadalmazást. a "treatment" benne van a kezelés, bánásmódban, amiket összevontam.
+待遇 待遇 [dai4 yu4] /kezelés; bánásmód/fizetés; fizetség; javadalmazás/
 
 # ID-h47Av2N
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -32641,6 +32682,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-h53uv6R
 # Ver 2019-10-15T18:44:58Z GaoYanuo Stat-New >Tanár, CC-CEDICT. A tanár szerint Kínában a lehetetlennel határos kikérni magántanulónak egy gyereket az iskolából, nagyon alapos indok kell hozzá. (Külföldi munka, betegség, stb.)
+# 休學 休学 [xiu1 xue2] /halaszt (iskolában)//
+# Ver 2019-10-17T16:21:44Z gabor Stat-Verif >.
 休學 休学 [xiu1 xue2] /halaszt (iskolában)//
 
 # ID-h53xI2k
@@ -39068,7 +39111,11 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-j00AO8M
 # Ver 2019-10-15T18:38:27Z GaoYanuo Stat-New >Tanár, és a korpusznak is irtó aranyos találatai vannak:-)
-撞門 撞门 [zhuang4 men2] /betör; kivág; heves mozdulattal kinyit ajtót, kaput, stb./
+# 撞門 撞门 [zhuang4 men2] /betör; kivág; heves mozdulattal kinyit ajtót, kaput, stb./
+# Ver 2019-10-17T16:24:25Z gabor Stat-New >.
+# 撞門 撞门 [zhuang4 men2] /be|ront; be|töri az ajtót/
+# Ver 2019-10-17T16:24:27Z gabor Stat-Verif >.
+撞門 撞门 [zhuang4 men2] /be|ront; be|töri az ajtót/
 
 # ID-j00DE6J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -51612,6 +51659,7 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2019-10-15T17:55:12Z GaoYanuo Stat-Verif >anyanyelvi tanár, CC-EDICT "magnanimous" és "generous" fordítása alapján
 # 大方 大方 [da4 fang5] /természetes/mesterkéletlen/nagylelkű/
 # Ver 2019-10-15T17:58:27Z GaoYanuo Stat-Verif >A CC-EDICT-ben találtam "大方 - dà fāng -->expert, scholar, mother earth, a type of green tea szócikket. Gondolom itt is (és hasonló esetben, mikor ugyanaz a hanzi más kiejtéssel és jelentéssel bír) az lenne az eljárás, hogy külön szócikkben vesszük fel.
+# Ver 2019-10-17T16:06:26Z gabor Stat-Verif >Igen, ha más kiejtés, akkor külön szócikk. Viszont én tartok attól, hogy minden szónak minden lehetséges olvasatát felvegyük. Ezernyi dolognak van egy más kiejtésű, cserébe irtó ritkán (csak szuperválasztékos nyelven, régi szövegekben, nyelvjárásilag stb.) használt változata. Amíg a CHDICT inkább kisebbfajta szótár, szerintem ezek többet ártanak, mint használnak.
 大方 大方 [da4 fang5] /természetes/mesterkéletlen/nagylelkű/
 
 # ID-l85LZ6l
@@ -58737,6 +58785,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-n47Ls5I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
+# 上當 上当 [shang4 dang4] /átverik/félre|vezetik/meg|tévesztik/
+# Ver 2019-10-17T12:04:04Z GaoYanuo Stat-Verif >Nem szoktunk egyes szám harmadik személyben... Most vagy átver, vagy átvert, megtévesztett, stb. A korpuszban az utóbbi a gyakoribb. A Pleco igének jelöli, de "be fooled"-et párosít hozzá, nem to fool-t. A CC-CEDICT-nél is "be fooled". Több példát nem volt időm és idegzetem keresni.
+# Ver 2019-10-17T16:28:11Z gabor Stat-Verif >pont azért T/3, amiért az angol megfelelők passzívban vannak. az az alany, ő veretik ugye át, tehát átverik.\n\nszoktunk ilyet, csak ritkán, amikor nincs más megoldás: 叫做, 称作 "hívják (vminek)". a 上当 ilyen.
 上當 上当 [shang4 dang4] /átverik/félre|vezetik/meg|tévesztik/
 
 # ID-n47Rf9c
@@ -63912,7 +63963,11 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-o70XR9I
 # Ver 2019-10-15T18:25:38Z GaoYanuo Stat-New >HSK 5 tankönyv, CC-CEDICT
-迷上 迷上 [mi2 shang4] /elbűvöl; felcsigáz; felizgat (vmi vkit)/
+# 迷上 迷上 [mi2 shang4] /elbűvöl; felcsigáz; felizgat (vmi vkit)/
+# Ver 2019-10-17T16:18:10Z gabor Stat-New >átfogalmaztam, mert nagyon egyértelműen az angol szenvedő a 迷上 megfelelője, amit leginkább így tudok kifejezni. az alany az, aki/ami elbűvölődik, és a tárgy az, amire szegény rácuppan. ez az! belebolondul!
+# 迷上 迷上 [mi2 shang4] /el|bűvöli; fel|csigázza (vmi\vki)/bele|bolondul (vkibe)/
+# Ver 2019-10-17T16:18:21Z gabor Stat-Verif >.
+迷上 迷上 [mi2 shang4] /el|bűvöli; fel|csigázza (vmi\vki)/bele|bolondul (vkibe)/
 
 # ID-o71cC9W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -64542,7 +64597,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-o85ll4X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-重疊 重叠 [chong2 die2] /át|fed/át|lapol/egymásra rakódik/
+# 重疊 重叠 [chong2 die2] /át|fed/át|lapol/egymásra rakódik/
+# Ver 2019-10-17T20:56:46Z GaoYanuo Stat-Verif >HSK5 tk., CC-CEDICT
+重疊 重叠 [chong2 die2] /át|fed/át|lapol/egymásra rakódik/dupláz (nyelvtan; kínai igét, melléknevet)/
 
 # ID-o85lQ3Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
