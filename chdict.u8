@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2019-10-19T02:00:01Z
+# Datenstand: 2019-10-21T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -26889,6 +26889,12 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 息 息 [xi1] /lehelet/hírek/kamat/pihen/abba|hagy/
 
+# ID-g17ns5A
+# Ver 2019-10-20T16:42:08Z gabor Stat-New >CEDICT; ha már van 地窖
+# 窖 窖 [jiao4] /pince/
+# Ver 2019-10-20T17:07:54Z gabor Stat-Verif >.
+窖 窖 [jiao4] /pince/
+
 # ID-g17pw9U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 接觸 接触 [jie1 chu4] /érintkezés/kapcsolat/érintkezésbe lép (vmivel)/
@@ -33722,7 +33728,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-h77iL2w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-閣樓 阁楼 [ge2 lou2] /tető|tér/padlás|tér; padlás|szoba/
+# 閣樓 阁楼 [ge2 lou2] /tető|tér/padlás|tér; padlás|szoba/
+# Ver 2019-10-20T16:43:28Z gabor Stat-Verif >kieg: számlálószó
+閣樓 阁楼 [ge2 lou2] /tető|tér/padlás|tér; padlás|szoba/SZ:間|间[jian1]/
 
 # ID-h77iV7Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -50054,7 +50062,11 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-l48Rt8u
 # Ver 2019-10-18T08:19:05Z GaoYanuo Stat-New >HSK5 tk, \nhttps://www.xyzdict.com/en/chinese-english/%E5%8A%9D%E9%98%BB
-勸阻 劝阻 [quan4 zu3] /nem javasol/lebeszél (vkit vmiről)/ellenjavall/
+# 勸阻 劝阻 [quan4 zu3] /nem javasol/lebeszél (vkit vmiről)/ellenjavall/
+# Ver 2019-10-20T17:10:52Z gabor Stat-New >.
+# 勸阻 劝阻 [quan4 zu3] /lebeszél (vkit vmiről)/nem tanácsol (vkinek vmit)/
+# Ver 2019-10-20T17:11:03Z gabor Stat-Verif >.
+勸阻 劝阻 [quan4 zu3] /lebeszél (vkit vmiről)/nem tanácsol (vkinek vmit)/
 
 # ID-l48VU3h
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -52918,6 +52930,12 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-m16tn0X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 飢餓 饥饿 [ji1 e4] /éhezés/éhezik/éhínség/
+
+# ID-m16vs6Y
+# Ver 2019-10-20T16:41:35Z gabor Stat-New >CEDICT, előfordulás
+# 地窖 地窖 [di4 jiao4] /pince/SZ:間|间[jian1]/
+# Ver 2019-10-20T17:07:57Z gabor Stat-Verif >.
+地窖 地窖 [di4 jiao4] /pince/SZ:間|间[jian1]/
 
 # ID-m16BQ9y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -57828,7 +57846,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-n26AZ5y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-用來 用来 [yong4 lai2] /használ (vmire)/
+# 用來 用来 [yong4 lai2] /használ (vmire)/
+# Ver 2019-10-20T16:26:55Z gabor Stat-Verif >CEDICT; előfordulások
+用來 用来 [yong4 lai2] /használják, használatos (vmire)/
 
 # ID-n26Ha4c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -64603,7 +64623,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 重疊 重叠 [chong2 die2] /át|fed/át|lapol/egymásra rakódik/
 # Ver 2019-10-17T20:56:46Z GaoYanuo Stat-Verif >HSK5 tk., CC-CEDICT
-重疊 重叠 [chong2 die2] /át|fed/át|lapol/egymásra rakódik/dupláz (nyelvtan; kínai igét, melléknevet)/
+# 重疊 重叠 [chong2 die2] /át|fed/át|lapol/egymásra rakódik/dupláz (nyelvtan; kínai igét, melléknevet)/
+# Ver 2019-10-20T17:12:45Z gabor Stat-Verif >egész precízen duplikálásnak nevezik ezt a nyelvtanban
+重疊 重叠 [chong2 die2] /át|fed/át|lapol/egymásra rakódik/duplikál (szót; a kínaiban gyakori jelenség)/
 
 # ID-o85lQ3Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
