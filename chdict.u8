@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2019-10-21T02:00:01Z
+# Datenstand: 2019-10-22T02:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -56189,6 +56189,12 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-m86gt4Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 齒 齿 [chi3] /fog (rágószerv)/SZ:顆|颗[ke1]/
+
+# ID-m86vd1M
+# Ver 2019-10-21T19:17:24Z gabor Stat-New >CEDICT; 故事FM 235. epizód
+# 金盆洗手 金盆洗手 [jin1 pen2 xi3 shou3] /(kifejezés) felhagy a bűnöző élettel/
+# Ver 2019-10-21T19:17:39Z gabor Stat-Verif >.
+金盆洗手 金盆洗手 [jin1 pen2 xi3 shou3] /(kifejezés) felhagy a bűnöző élettel/
 
 # ID-m86xa8f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
