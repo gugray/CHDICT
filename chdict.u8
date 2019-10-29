@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2019-10-28T03:00:01Z
+# Datenstand: 2019-10-29T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -12542,7 +12542,9 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 團圓 团圆 [tuan2 yuan2] /találkozó/össze|jövetel/
 # Ver 2019-10-27T21:16:34Z GaoYanuo Stat-Verif >A HSK5A tankönyv "to be reunited" fordítást ad meg. A Pleco "reunite"-et. Meg érdekes módon "round"-ot példamondattal: 这男孩儿团圆脸。\n 
-團圓 团圆 [tuan2 yuan2] /találkozó/össze|jövetel/újraegyesít (családot, stb.)/kerek/
+# 團圓 团圆 [tuan2 yuan2] /találkozó/össze|jövetel/újraegyesít (családot, stb.)/kerek/
+# Ver 2019-10-28T18:46:23Z gabor Stat-Verif >és tényleg! úgy tűnik, "stb." nélkül ez az újraegyesítés konkrétan családra vonatkozik.
+團圓 团圆 [tuan2 yuan2] /találkozó; össze|jövetel/újraegyesít (családot)/kerek/
 
 # ID-c87Gk4G
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -50987,6 +50989,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-l69Do1F
 # Ver 2019-10-27T21:26:02Z GaoYanuo Stat-New >a szokásos szótárak a "monarch" találatot adják, sövegfordításokban volt még "king", "prince", stb. Találkoztam "Emperor"-ral is, de nehéz eset. A tankönyvi szövegkörnyezet tartományi elöljáróra, helytartóra utal. Nem volt időm bővebben beleásni magam.
+# 國君 国君 [guo2 jun1] /uralkodó/fejedelem/
+# Ver 2019-10-28T18:43:33Z gabor Stat-Verif >.
 國君 国君 [guo2 jun1] /uralkodó/fejedelem/
 
 # ID-l69MA3Y
@@ -57123,7 +57127,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 誠懇 诚恳 [cheng2 ken3] /őszinte/szívélyes/
 # Ver 2019-10-27T21:45:45Z GaoYanuo Stat-Verif >Forrás: HSK5A tankönyv. A szövegkörnyezetben panaszkodásra, sóhajtozásra utal: "反而常常诚恳地说: ”多么希望父母能和我一起过好日子!" Ehelyett gyakran így panaszkodott (szívéből mondá): annyira szeretném, hogy a szüleim velem legyenek a jóban! (jólétben)
-誠懇 诚恳 [cheng2 ken3] /őszinte/szívélyes/szívből jövő/
+# 誠懇 诚恳 [cheng2 ken3] /őszinte/szívélyes/szívből jövő/
+# Ver 2019-10-28T18:41:52Z gabor Stat-Verif >jó árnyalat! összevontam az őszintével, érzetre nagyon közel vannak.
+誠懇 诚恳 [cheng2 ken3] /őszinte; szívből jövő/szívélyes/
 
 # ID-n07KT6U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -65814,7 +65820,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 不行 不行 [bu4 xing2] /nem megy/nem működik/lehetetlen/szó sem lehet róla/
 # Ver 2019-10-27T21:06:26Z GaoYanuo Stat-Verif >A HSK5 上 tankönyvben "(indicating degree, intensity, etc.) terribly,extremely" fordítás van rá adva, a neten nem találtam rá megerősítést. Mivel hivatalos, HANBAN által kiadott tankönyvről van szó, bátorkodtam felvenni megerősítés nélkül ezt a jelentést.
-不行 不行 [bu4 xing2] /nem megy/nem működik/lehetetlen/szó sem lehet róla/borzasztóan; rettentően (különösen nagy mértékben)/
+# 不行 不行 [bu4 xing2] /nem megy/nem működik/lehetetlen/szó sem lehet róla/borzasztóan; rettentően (különösen nagy mértékben)/
+# Ver 2019-10-28T18:48:22Z gabor Stat-Verif >belevettem a nyelvtani helyet, ahol ebben az értelemben szerepelhet
+不行 不行 [bu4 xing2] /nem megy/nem működik/lehetetlen/szó sem lehet róla/rettentően (eredménykiegészítőként, 得 partikula után)/
 
 # ID-p09Sr6J
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
