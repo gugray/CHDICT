@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2019-10-29T03:00:01Z
+# Datenstand: 2019-11-01T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -41976,6 +41976,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-j66YF2v
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 許可證 许可证 [xu3 ke3 zheng4] /engedély/
+
+# ID-j67sg5v
+# Ver 2019-10-31T10:41:56Z gabor Stat-New >恶童日记, CEDICT, korpusz
+差事 差事 [chai1 shi5] /feledat; megbízatás/SZ:件[jian4],份[fen4]/
 
 # ID-j67sk0j
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
