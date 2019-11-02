@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2019-11-01T03:00:01Z
+# Datenstand: 2019-11-02T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -5494,6 +5494,10 @@
 # Ver 2017-12-18T20:12:25Z gabor Stat-Verif >.
 頭髮鬍子一把抓 头发胡子一把抓 [tou2 fa5 hu2 zi5 yi1 ba3 zhua1] /(kifejezés) több legyet üt egy csapásra; egy füst alatt/
 
+# ID-b21Vp1j
+# Ver 2019-11-01T14:10:53Z GaoYanuo Stat-New >Tankönyv, CC-CEDICT, Pleco
+生火 生火 [sheng1 huo3] /tüzet gyújt; tüzet rak/
+
 # ID-b22ad7M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 布魯克林 布鲁克林 [bu4 lu3 ke4 lin2] /(földrajzi név) Brooklyn/
@@ -7150,7 +7154,9 @@
 
 # ID-b63kv8T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-善 善 [shan4] /jó/jóságos/jó|indulatú/tökéletesít/
+# 善 善 [shan4] /jó/jóságos/jó|indulatú/tökéletesít/
+# Ver 2019-11-01T15:08:58Z GaoYanuo Stat-Verif >CC-CEDICT, Pleco és HSK5 tankönyv alapján kiegészítve.\n"百善孝为先" Minden erények közt az idősek tisztelete az első. (Kínai mondás)
+善 善 [shan4] /jóságos; erényes/jó (vmilyen tevékenységben)/jóság; erény/jó|indulatú/tökéletesít/
 
 # ID-b63mt5O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -17646,6 +17652,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e03wr7E
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 多大 多大 [duo1 da4] /mekkora/mennyi/milyen idős/
+
+# ID-e03xA4A
+# Ver 2019-11-01T15:00:08Z GaoYanuo Stat-New >CC-CEDICT, Pleco, HSK5 tk.
+孝敬 孝敬 [xiao4 jing4] /tiszteletet mutat (felmenők iránt)/megajándékoz  (idősebb rokont)/támogat (idősebb felmenőt)/
 
 # ID-e03AA9n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -39273,6 +39283,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 夾 夹 [jia1] /kétfelől nyom/közé|tesz; be|ékel/hóna alatt visz/össze|kever/csipesz/mappa/
 
+# ID-j04qu6b
+# Ver 2019-11-01T14:22:19Z GaoYanuo Stat-New >HSK5 tankönyv, Pleco, CC-CEDICT
+優厚 优厚 [you1 hou4] /bőkezű; nagylelkű (fizetség, jutalom)/
+
 # ID-j04sP3h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 傳遞 传递 [chuan2 di4] /továbbít/át|ad/
@@ -43660,6 +43674,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-k04rG9U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 勾 勾 [gou1] /ki|húz; le|vesz; le|mond/fel|vázol; körvonalaz/vonz; fel|kelt; fel|korbácsol/(családnév) Gou/
+
+# ID-k04vz6e
+# Ver 2019-11-01T15:14:55Z GaoYanuo Stat-New >HSK5 th, CC-CEDICT, Pleco
+較好 较好 [jiao4 hao3] /jobb (minőségű)/
 
 # ID-k04wl6z
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -55069,6 +55087,12 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-m61Ph3O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 舒適 舒适 [shu1 shi4] /kényelmes/kellemes/
+
+# ID-m61SG6S
+# Ver 2019-11-01T14:05:03Z GaoYanuo Stat-New >Nagyon kevés referencia, de hátha más talál többet:\n1. HSK5 tankönyv: ...下把给他们的东西及乘下的工钱都交给了他们。Mindazt, amit vett nekik, meg a maradék pénzét odaadta. \n2. https://www.xyzdict.com/chinese-english/%E4%B9%98%E4%B8%8B\n树上还乘下几朵花 Még maradt néhány virág a fán.
+# 乘下 乘下 [cheng2 xia4] /következő (járat)/maradék; megmaradt/
+# Ver 2019-11-01T14:06:54Z GaoYanuo Stat-New >elírás javítása
+乘下 乘下 [cheng2 xia4] /következő (járat)/maradék; megmarad/
 
 # ID-m62hb5I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
