@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2019-11-02T03:00:01Z
+# Datenstand: 2019-11-03T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -5496,6 +5496,8 @@
 
 # ID-b21Vp1j
 # Ver 2019-11-01T14:10:53Z GaoYanuo Stat-New >Tankönyv, CC-CEDICT, Pleco
+# 生火 生火 [sheng1 huo3] /tüzet gyújt; tüzet rak/
+# Ver 2019-11-02T16:17:31Z gabor Stat-Verif >.
 生火 生火 [sheng1 huo3] /tüzet gyújt; tüzet rak/
 
 # ID-b22ad7M
@@ -7156,7 +7158,9 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 善 善 [shan4] /jó/jóságos/jó|indulatú/tökéletesít/
 # Ver 2019-11-01T15:08:58Z GaoYanuo Stat-Verif >CC-CEDICT, Pleco és HSK5 tankönyv alapján kiegészítve.\n"百善孝为先" Minden erények közt az idősek tisztelete az első. (Kínai mondás)
-善 善 [shan4] /jóságos; erényes/jó (vmilyen tevékenységben)/jóság; erény/jó|indulatú/tökéletesít/
+# 善 善 [shan4] /jóságos; erényes/jó (vmilyen tevékenységben)/jóság; erény/jó|indulatú/tökéletesít/
+# Ver 2019-11-02T16:22:18Z gabor Stat-Verif >kompaktabb
+善 善 [shan4] /jóságos; jóság/erényes; erény/jó (vmilyen tevékenységben)/tökéletesít/
 
 # ID-b63mt5O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -17655,7 +17659,11 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-e03xA4A
 # Ver 2019-11-01T15:00:08Z GaoYanuo Stat-New >CC-CEDICT, Pleco, HSK5 tk.
-孝敬 孝敬 [xiao4 jing4] /tiszteletet mutat (felmenők iránt)/megajándékoz  (idősebb rokont)/támogat (idősebb felmenőt)/
+# 孝敬 孝敬 [xiao4 jing4] /tiszteletet mutat (felmenők iránt)/megajándékoz  (idősebb rokont)/támogat (idősebb felmenőt)/
+# Ver 2019-11-02T16:19:54Z gabor Stat-New >picit kompaktabb
+# 孝敬 孝敬 [xiao4 jing4] /tiszteletet mutat (felmenők iránt)/meg|ajándékoz; támogat  (idősebb rokont, felmenőt)/
+# Ver 2019-11-02T16:19:58Z gabor Stat-Verif >.
+孝敬 孝敬 [xiao4 jing4] /tiszteletet mutat (felmenők iránt)/meg|ajándékoz; támogat  (idősebb rokont, felmenőt)/
 
 # ID-e03AA9n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -20477,6 +20485,12 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e67Ky4n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 誣陷 诬陷 [wu1 xian4] /meg|rágalmaz/tőrbe csal; át|ejt (hamis bizonyítékkal)/
+
+# ID-e67OE4C
+# Ver 2019-11-02T15:52:54Z gabor Stat-New >恶童日记, CEDICT, korpusz
+# 碎石 碎石 [sui4 shi2] /kő|törmelék; kavics/
+# Ver 2019-11-02T16:24:30Z gabor Stat-Verif >.
+碎石 碎石 [sui4 shi2] /kő|törmelék; kavics/
 
 # ID-e67Uc5A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -39285,6 +39299,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-j04qu6b
 # Ver 2019-11-01T14:22:19Z GaoYanuo Stat-New >HSK5 tankönyv, Pleco, CC-CEDICT
+# 優厚 优厚 [you1 hou4] /bőkezű; nagylelkű (fizetség, jutalom)/
+# Ver 2019-11-02T16:18:33Z gabor Stat-Verif >.
 優厚 优厚 [you1 hou4] /bőkezű; nagylelkű (fizetség, jutalom)/
 
 # ID-j04sP3h
@@ -41993,6 +42009,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-j67sg5v
 # Ver 2019-10-31T10:41:56Z gabor Stat-New >恶童日记, CEDICT, korpusz
+# 差事 差事 [chai1 shi5] /feledat; megbízatás/SZ:件[jian4],份[fen4]/
+# Ver 2019-11-02T16:05:55Z gabor Stat-Verif >.
 差事 差事 [chai1 shi5] /feledat; megbízatás/SZ:件[jian4],份[fen4]/
 
 # ID-j67sk0j
@@ -43677,7 +43695,13 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-k04vz6e
 # Ver 2019-11-01T15:14:55Z GaoYanuo Stat-New >HSK5 th, CC-CEDICT, Pleco
-較好 较好 [jiao4 hao3] /jobb (minőségű)/
+# 較好 较好 [jiao4 hao3] /jobb (minőségű)/
+# Ver 2019-11-02T16:23:36Z gabor Stat-New >.
+# 較好 较好 [jiao4 hao3] /jobb ("jó" középfoka)/
+# Ver 2019-11-02T16:23:55Z gabor Stat-New >.
+# 較好 较好 [jiao4 hao3] /jobb ("jó" fokozva)/
+# Ver 2019-11-02T16:23:58Z gabor Stat-Verif >.
+較好 较好 [jiao4 hao3] /jobb ("jó" fokozva)/
 
 # ID-k04wl6z
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -55092,7 +55116,15 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2019-11-01T14:05:03Z GaoYanuo Stat-New >Nagyon kevés referencia, de hátha más talál többet:\n1. HSK5 tankönyv: ...下把给他们的东西及乘下的工钱都交给了他们。Mindazt, amit vett nekik, meg a maradék pénzét odaadta. \n2. https://www.xyzdict.com/chinese-english/%E4%B9%98%E4%B8%8B\n树上还乘下几朵花 Még maradt néhány virág a fán.
 # 乘下 乘下 [cheng2 xia4] /következő (járat)/maradék; megmaradt/
 # Ver 2019-11-01T14:06:54Z GaoYanuo Stat-New >elírás javítása
-乘下 乘下 [cheng2 xia4] /következő (járat)/maradék; megmarad/
+# 乘下 乘下 [cheng2 xia4] /következő (járat)/maradék; megmarad/
+# Ver 2019-11-02T16:11:48Z gabor Stat-New >megmarad értelemben sheng4 a szó.
+# 乘下 乘下 [sheng4 xia5] /megmarad; maradék/
+# Ver 2019-11-02T16:12:16Z gabor Stat-Verif >cheng2 kiejtéssel, ahonnan a következő járatok jönnek, új szócikket csinálok.
+# Ver 2019-11-02T16:16:12Z gabor Stat-Verif >sztornó. nincs 乘下. azok mind 乘 cheng "utazni: + 下一 xi4yi1... "következő" részekől állnak, amik külön-külön mind megvannak már.
+# X一 X一 [x yi1] /x/
+# Ver 2019-11-02T16:16:21Z gabor Stat-Flagged >törlendő
+# Ver 2019-11-02T16:25:16Z gabor Stat-Flagged >.
+XX XX [x x] /x/
 
 # ID-m62hb5I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
