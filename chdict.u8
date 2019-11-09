@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2019-11-03T03:00:01Z
+# Datenstand: 2019-11-09T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -723,7 +723,9 @@
 
 # ID-a15Zc4i
 # Ver 2019-07-01T15:24:45Z GaoYanuo Stat-New >http://translation-dictionary.net/chinese-english/%E6%B6%88%E8%80%97%E9%87%8F
-消耗量 消耗量 [xiao1 hao4 liang4] /fogyasztás (pl. autóé)/fajlagos fogyasztás (egységnyi termék rezsiköltsége)/fogyasztási ráta/felhasznált mennyiség/
+# 消耗量 消耗量 [xiao1 hao4 liang4] /fogyasztás (pl. autóé)/fajlagos fogyasztás (egységnyi termék rezsiköltsége)/fogyasztási ráta/felhasznált mennyiség/
+# Ver 2019-11-08T19:22:02Z gabor Stat-New >ennyi elég hozzá :)
+消耗量 消耗量 [xiao1 hao4 liang4] /fogyasztási ráta; fogyasztás (pl. gépkocsié)/
 
 # ID-a16eJ5S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -8939,7 +8941,11 @@
 
 # ID-c04Lz2N
 # Ver 2019-07-01T15:29:59Z GaoYanuo Stat-New >https://www.xyzdict.com/en/chinese-english/%E4%BD%8D%E5%8F%B7
-位號 位号 [wei4 hao4] /tételszám/pozíciószám/
+# 位號 位号 [wei4 hao4] /tételszám/pozíciószám/
+# Ver 2019-11-08T19:25:29Z gabor Stat-New >.
+# 位號 位号 [wei4 hao4] /tétel|szám; pozíció|szám; cikk|szám/
+# Ver 2019-11-08T19:25:32Z gabor Stat-Verif >.
+位號 位号 [wei4 hao4] /tétel|szám; pozíció|szám; cikk|szám/
 
 # ID-c04VX4w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -11340,7 +11346,11 @@
 # 不得不 不得不 [bu4 de2 bu4] /nincs más választása, mint hogy.../muszáj/kell/
 # Ver 2018-10-06T01:31:23Z GaoYanuo Stat-Verif >a "nincs más választása, mint hogy..." helyett azt írnám, hogy kénytelen.
 # Ver 2019-07-01T14:40:01Z GaoYanuo Stat-Verif >Ha valaki konkrétan erre keresne rá. (mármint a "kénytelenre")
-不得不 不得不 [bu4 de2 bu4] /nincs más választása, mint hogy.../muszáj/kell/kénytelen (megteni vmit)/
+# 不得不 不得不 [bu4 de2 bu4] /nincs más választása, mint hogy.../muszáj/kell/kénytelen (megteni vmit)/
+# Ver 2019-11-08T18:54:16Z gabor Stat-Verif >kompaktáltam
+# 不得不 不得不 [bu4 de2 bu4] /nincs más választása, mint hogy.../muszáj; kell/kénytelen/
+# Ver 2019-11-08T18:54:41Z gabor Stat-Verif >... nélkül
+不得不 不得不 [bu4 de2 bu4] /nincs más választása, mint hogy/muszáj; kell/kénytelen/
 
 # ID-c59Vd7o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -19926,7 +19936,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 消耗 消耗 [xiao1 hao4] /el|használ/ki|merít/
 # Ver 2018-01-24T06:09:30Z GaoYanuo Stat-Verif >http://www.youdao.com/w/%E6%B6%88%E8%80%97/#keyfrom=dict2.top\nNem tudom, hogy kéne egy bejegyzésbe tömöríteni az el/fel/használ szavakat. A használ a szótő, de ugye teljesen más a jelentés az igekötőtől függően.
-消耗 消耗 [xiao1 hao4] /el|használ/ki|merít/fogyaszt|ás /felhasznál|ás /
+# 消耗 消耗 [xiao1 hao4] /el|használ/ki|merít/fogyaszt|ás /felhasznál|ás /
+# Ver 2019-11-08T19:23:23Z gabor Stat-Verif >összevon; 消耗量 által inspirálva
+消耗 消耗 [xiao1 hao4] /el|használ; kimerít/fogyasztás; felhasználás /
 
 # ID-e57dp9g
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -26262,7 +26274,11 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-26T17:38:35Z Adam Stat-Verif >pontosítás a kínai nyelvű szócikk alapján
 # 朝鮮 朝鲜 [chao2 xian3] /(földrajzi név) Észak-Korea (a szárazföldi Kínában használatos nevén)/
 # Ver 2019-07-01T14:21:26Z GaoYanuo Stat-Verif >forrás: tanár
-朝鮮 朝鲜 [chao2 xian3] /(földrajzi név) Észak-Korea (a szárazföldi Kínában használatos nevén)/koreai nemzetiség, etnikum/
+# 朝鮮 朝鲜 [chao2 xian3] /(földrajzi név) Észak-Korea (a szárazföldi Kínában használatos nevén)/koreai nemzetiség, etnikum/
+# Ver 2019-11-08T19:10:33Z gabor Stat-Verif >én nem látom nyomát, hogy ez a szárazföldi kínára korlátozódna; pl. bármi megjegyzés nélkül szerepel a tajvani szótárban is: https://www.moedict.tw/%E6%9C%9D%E9%AE%AE\n\na nemzetiség, etnikum használatot sem lelem, cserébe van 朝鲜人, ami ellentmond neki. \n\nez inkább vissza az eredetire. 
+# 朝鮮 朝鲜 [chao2 xian3] /(földrajzi név) Észak-Korea/
+# Ver 2019-11-08T19:12:30Z gabor Stat-Verif >na jó, a használat valóban árnyaltabb
+朝鮮 朝鲜 [chao2 xian3] /(földrajzi név) Észak-Korea (a KNK-ban)/(földrajzi név) Korea (Tajvanban)/
 
 # ID-g02wn7W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -26278,6 +26294,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-g03fO1U
 # Ver 2019-07-01T14:26:15Z GaoYanuo Stat-New >szokásos szótárak megerősítik\nhttps://www.xyzdict.com/en/chinese-english/%E5%85%A5%E5%AD%A6%E8%80%83%E8%AF%95
+# 入學考試 入学考试 [ru4 xue2 kao3 shi4] /felvételi vizsga/
+# Ver 2019-11-08T18:48:33Z gabor Stat-Verif >.
 入學考試 入学考试 [ru4 xue2 kao3 shi4] /felvételi vizsga/
 
 # ID-g03re8a
@@ -34731,7 +34749,11 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-h98dU3E
 # Ver 2019-07-01T14:35:53Z GaoYanuo Stat-New >https://www.xyzdict.com/en/chinese-english/%E4%B9%B1%E6%89%94%E5%9E%83%E5%9C%BE
-亂扔垃圾 乱扔垃圾 [luan4 reng1 la1 ji1] /szemetel/
+# 亂扔垃圾 乱扔垃圾 [luan4 reng1 la1 ji1] /szemetel/
+# Ver 2019-11-08T18:52:16Z gabor Stat-New >kieg, mert ez valójában egy szókapcsolat, nem is tudom, szótárba való-e együtt
+# 亂扔垃圾 乱扔垃圾 [luan4 reng1 la1 ji1] /szemetel; el|szórja a szemetet/
+# Ver 2019-11-08T18:52:20Z gabor Stat-Verif >.
+亂扔垃圾 乱扔垃圾 [luan4 reng1 la1 ji1] /szemetel; el|szórja a szemetet/
 
 # ID-h98jh9L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -39969,7 +39991,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 只好 只好 [zhi3 hao3] /más lehetőség híján/kell/muszáj/kényszerűen/
 # Ver 2019-07-01T14:37:45Z GaoYanuo Stat-Verif >Ha valaki erre keresne rá, meglegyen.
-只好 只好 [zhi3 hao3] /más lehetőség híján/kell/muszáj/kényszerűen/kénytelen (megtenni vmit)/
+# 只好 只好 [zhi3 hao3] /más lehetőség híján/kell/muszáj/kényszerűen/kénytelen (megtenni vmit)/
+# Ver 2019-11-08T18:53:40Z gabor Stat-Verif >kompaktáltam őket
+只好 只好 [zhi3 hao3] /kényszerűen; más lehetőség híján/kell; muszáj/kénytelen/
 
 # ID-j19zZ9n
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -42231,7 +42255,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 遍 遍 [bian4] /mindenhol/(számlálószó: tevékenység\cselekvés egyszeri lefolyása; -szer)/
 # Ver 2019-07-01T15:13:38Z GaoYanuo Stat-Verif >Zárójelből kivéve, mert a 次, 倍 és 乘 esetében is önálló szó a "-szor"
-遍 遍 [bian4] /mindenhol/-szor, -szer (számlálószó: tevékenység\cselekvés egyszeri, teljes lefolyása)/
+# 遍 遍 [bian4] /mindenhol/-szor, -szer (számlálószó: tevékenység\cselekvés egyszeri, teljes lefolyása)/
+# Ver 2019-11-08T19:02:34Z gabor Stat-Verif >a teljesség kedvéért
+遍 遍 [bian4] /mindenhol/-szor; -szer; -ször (számlálószó: tevékenység\cselekvés egyszeri, teljes lefolyása)/
 
 # ID-j72zt9A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -42577,7 +42603,11 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-j81iJ0U
 # Ver 2019-07-01T14:43:21Z GaoYanuo Stat-New >Sokat hezitáltam, felvegyem -e, de a tanár szerint meglehetősen megszilárdult kifejezés, gyakran használják. Ref.:\nhttps://www.xyzdict.com/en/chinese-english/%E4%B8%80%E5%AE%9A%E4%BB%A5%E6%9C%80%E5%BF%AB%E7%9A%84%E9%80%9F%E5%BA%A6
-一定以最快的速度 一定以最快的速度 [yi1 ding4 yi3 zui4 kuai4 de5 su4 du4] /(kifejezés) A lehető leggyorsabban/amint csak lehetséges/
+# 一定以最快的速度 一定以最快的速度 [yi1 ding4 yi3 zui4 kuai4 de5 su4 du4] /(kifejezés) A lehető leggyorsabban/amint csak lehetséges/
+# Ver 2019-11-08T18:55:34Z gabor Stat-New >összevontam. maradjon, ha már itt van.
+# 一定以最快的速度 一定以最快的速度 [yi1 ding4 yi3 zui4 kuai4 de5 su4 du4] /(kifejezés) a lehető leggyorsabban; amint csak lehetséges/
+# Ver 2019-11-08T18:55:39Z gabor Stat-Verif >.
+一定以最快的速度 一定以最快的速度 [yi1 ding4 yi3 zui4 kuai4 de5 su4 du4] /(kifejezés) a lehető leggyorsabban; amint csak lehetséges/
 
 # ID-j81nh1V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -43259,6 +43289,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-j95Rl1a
 # Ver 2019-07-01T14:29:09Z GaoYanuo Stat-New >https://www.xyzdict.com/en/chinese-english/%E5%85%A5%E5%A2%83%E7%AD%BE%E8%AF%81
+# 入境簽證 入境签证 [ru4 jing4 qian1 zheng4] /belépő vízum/
+# Ver 2019-11-08T18:49:50Z gabor Stat-Verif >.
 入境簽證 入境签证 [ru4 jing4 qian1 zheng4] /belépő vízum/
 
 # ID-j95Ul2y
@@ -45248,7 +45280,11 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-k38Ic6D
 # Ver 2017-05-26T17:41:09Z Adam Stat-New >pontosítás a kínai Wikipédia-szócikk alapján
-北韓 北韩 [bei3 han2] /(földrajzi név) Észak-Korea (Hongkongban, Makaóban és részben Tajvanon is használatos nevén)/
+# 北韓 北韩 [bei3 han2] /(földrajzi név) Észak-Korea (Hongkongban, Makaóban és részben Tajvanon is használatos nevén)/
+# Ver 2019-11-08T19:13:48Z gabor Stat-New >.
+# 北韓 北韩 [bei3 han2] /(földrajzi név) Észak-Korea (Hongkongban, Makaóban és részben Tajvanban is használatos megnevezés)/
+# Ver 2019-11-08T19:13:50Z gabor Stat-Verif >.
+北韓 北韩 [bei3 han2] /(földrajzi név) Észak-Korea (Hongkongban, Makaóban és részben Tajvanban is használatos megnevezés)/
 
 # ID-k38IO4w
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -47607,7 +47643,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-11-28T21:34:41Z gabor Stat-Verif >inkább magyarázat, mint címke
 # 尊敬 尊敬 [zun1 jing4] /tisztel; becsül/tisztelt (megszólításként: "Tisztelt XY")/
 # Ver 2019-07-01T14:19:06Z GaoYanuo Stat-Verif >.
-尊敬 尊敬 [zun1 jing4] /tisztel; becsül/tisztelt (megszólításként: "Tisztelt XY=尊敬的XY")/
+# 尊敬 尊敬 [zun1 jing4] /tisztel; becsül/tisztelt (megszólításként: "Tisztelt XY=尊敬的XY")/
+# Ver 2019-11-08T19:06:29Z gabor Stat-Verif >szerintem elég ennyi kifejtés
+尊敬 尊敬 [zun1 jing4] /tisztel; becsül/tisztelt (megszólítás részeként)/
 
 # ID-k94Bf4n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -47711,7 +47749,11 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-k96HQ9b
 # Ver 2019-07-01T14:50:31Z GaoYanuo Stat-New >ref.:\nhttps://www.echineselearning.com/blog/nuan-nan-the-new-popular-type-of-boyfriend
-暖男 暖男 [nuan3 nan2] /melegszívű/megértő/önzetlen/család centrikus/
+# 暖男 暖男 [nuan3 nan2] /melegszívű/megértő/önzetlen/család centrikus/
+# Ver 2019-11-08T18:58:15Z gabor Stat-New >inkább parafrazeálható
+# 暖男 暖男 [nuan3 nan2] /(gondoskodó, családcentrikus, melegszívű férfi)/
+# Ver 2019-11-08T18:58:17Z gabor Stat-Verif >.
+暖男 暖男 [nuan3 nan2] /(gondoskodó, családcentrikus, melegszívű férfi)/
 
 # ID-k96Mk6X
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -47863,7 +47905,11 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-k99Nk5e
 # Ver 2017-05-26T17:44:10Z Adam Stat-New >a kínai Wikipédia-szócikk alapján
-北朝鮮 北朝鲜 [bei3 chao2 xian3] /(földrajzi név) Észak-Korea (Tajvanon használatos nevén)/
+# 北朝鮮 北朝鲜 [bei3 chao2 xian3] /(földrajzi név) Észak-Korea (Tajvanon használatos nevén)/
+# Ver 2019-11-08T19:13:15Z gabor Stat-New >.
+# 北朝鮮 北朝鲜 [bei3 chao2 xian3] /(földrajzi név) Észak-Korea (Tajvanban használatos megnevezés)/
+# Ver 2019-11-08T19:13:18Z gabor Stat-Verif >.
+北朝鮮 北朝鲜 [bei3 chao2 xian3] /(földrajzi név) Észak-Korea (Tajvanban használatos megnevezés)/
 
 # ID-k99RC9A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -48019,7 +48065,11 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2019-05-07T23:13:25Z GaoYanuo Stat-New >tanár\nhttps://www.xyzdict.com/en/chinese-english/%E9%97%A8%E7%94%9F
 # 門生 门生 [men2 sheng1] /tanítvány/
 # Ver 2019-07-01T14:56:20Z GaoYanuo Stat-New >Yandex alapján, ahol a "protege" találatot adja. Továbbá:\nhttps://www.xyzdict.com/en/chinese-english/%E9%97%A8%E7%94%9F
-門生 门生 [men2 sheng1] /tanítvány/pártfogolt, védenc/
+# 門生 门生 [men2 sheng1] /tanítvány/pártfogolt, védenc/
+# Ver 2019-11-08T19:01:40Z gabor Stat-New >nem hiszek annak a fordított mondatnak a protezsével... elég egyértelműen arra mutatnak a források, hogy ez a mester-tanítvány összefüggésben vett "tanítvány", esetleg követő
+# 門生 门生 [men2 sheng1] /követő; tanítvány (híres mesteré)/
+# Ver 2019-11-08T19:01:43Z gabor Stat-Verif >.
+門生 门生 [men2 sheng1] /követő; tanítvány (híres mesteré)/
 
 # ID-l02JF3p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -53856,7 +53906,13 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-m35eh2x
 # Ver 2019-07-01T15:20:20Z GaoYanuo Stat-New >szokásos szótárak (CC-CEDICT, Youdao, Yandex, Pleco, stb) megerősítik.
-公用工程 公用工程 [gong1 yong4 gong1 cheng2] /közüzemi szolgáltatások (pl. ivóvíz, áram)/
+# 公用工程 公用工程 [gong1 yong4 gong1 cheng2] /közüzemi szolgáltatások (pl. ivóvíz, áram)/
+# Ver 2019-11-08T19:19:55Z gabor Stat-New >a 工程 megvan már önállóan, a 公用 nincs, legyen ez a cikk az övé. együtt nem látom, hogy ez külön szó lenne.
+# 公用 工程 [gong1 yong4] /nyilvános (pl. telefon)/
+# Ver 2019-11-08T19:20:13Z gabor Stat-New >upsz
+# 公用 公用 [gong1 yong4] /nyilvános (pl. telefon)/
+# Ver 2019-11-08T19:20:18Z gabor Stat-Verif >.
+公用 公用 [gong1 yong4] /nyilvános (pl. telefon)/
 
 # ID-m35im2z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -60565,6 +60621,8 @@ XX XX [x x] /x/
 
 # ID-n87NC7a
 # Ver 2019-07-01T14:34:25Z GaoYanuo Stat-New >kínai kollégák\nhttps://www.xyzdict.com/en/chinese-english/%E6%80%8E%E4%B9%88%E5%9B%9E%E4%BA%8B
+# 怎麼回事 怎么回事 [zen3 me5 hui2 shi4] /Mi a helyzet?/Mi a gond?/Mi történt?/
+# Ver 2019-11-08T18:50:47Z gabor Stat-Verif >.
 怎麼回事 怎么回事 [zen3 me5 hui2 shi4] /Mi a helyzet?/Mi a gond?/Mi történt?/
 
 # ID-n87Qr0s
@@ -64131,7 +64189,11 @@ XX XX [x x] /x/
 
 # ID-o73la3j
 # Ver 2019-07-01T15:17:55Z GaoYanuo Stat-New >forrás: munkahely\nszokásos szótárak (CC-CEDICT, Youdao, Yandex, Pleco, stb) megerősítik.
-控製中心 控制中心 [kong4 zhi4 zhong1 xin1] /vezérlő központ/iránytó terem/műszerszoba/
+# 控製中心 控制中心 [kong4 zhi4 zhong1 xin1] /vezérlő központ/iránytó terem/műszerszoba/
+# Ver 2019-11-08T19:04:29Z gabor Stat-New >összevon, egybeír
+# 控製中心 控制中心 [kong4 zhi4 zhong1 xin1] /vezérlő|központ; irányító|terem/műszer|szoba/
+# Ver 2019-11-08T19:04:36Z gabor Stat-Verif >.
+控製中心 控制中心 [kong4 zhi4 zhong1 xin1] /vezérlő|központ; irányító|terem/műszer|szoba/
 
 # ID-o73mM8s
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -64163,7 +64225,9 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 證件 证件 [zheng4 jian4] /igazolvány/igazolás/papírok/
 # Ver 2019-07-01T14:27:51Z GaoYanuo Stat-Verif >Pontosítás.
-證件 证件 [zheng4 jian4] /igazolvány/igazolás/papírok, személyi okmányok/
+# 證件 证件 [zheng4 jian4] /igazolvány/igazolás/papírok, személyi okmányok/
+# Ver 2019-11-08T18:49:03Z gabor Stat-Verif >.
+證件 证件 [zheng4 jian4] /igazolvány/igazolás/papírok; okmányok/
 
 # ID-o74xh0O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
