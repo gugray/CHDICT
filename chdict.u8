@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2019-11-10T03:00:02Z
+# Datenstand: 2019-11-11T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -58508,7 +58508,9 @@ XX XX [x x] /x/
 
 # ID-n35ZS9d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-害 害 [hai4] /árt/kárt okoz/kár/csapás/
+# 害 害 [hai4] /árt/kárt okoz/kár/csapás/
+# Ver 2019-11-10T16:09:07Z gabor Stat-Verif >kieg ideillőbb megfelelővel: bánt
+害 害 [hai4] /árt/bánt/kárt okoz; kár/csapás/
 
 # ID-n36ei1x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
