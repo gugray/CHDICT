@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2019-11-11T03:00:01Z
+# Datenstand: 2019-11-14T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -22267,6 +22267,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f11qd9e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
+# 戶 户 [hu4] /ajtó/ház|tartás/család/
+# Ver 2019-11-13T16:18:25Z GaoYanuo Stat-Verif >A tankönyvben találkoztam ilyennel, hogy "...一户人家...". Ebből gondolom, hogy a család, háztartás számlálószava lehet. A szokásos szótárak csak úgy erősítik meg, hogy rákeresek a 家, 家庭 szavakra, ahol számlálószóként jelzik a 户-t is.
 戶 户 [hu4] /ajtó/ház|tartás/család/
 
 # ID-f11qN7o
@@ -47933,6 +47935,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 鳴叫 鸣叫 [ming2 jiao4] /hangot ad/(madár, rovar hangja)/sípol; csipog (elektromos berendezés)/
 
+# ID-k97Xf4G
+# Ver 2019-11-13T20:41:24Z GaoYanuo Stat-New >Tankönyv, szokásos szótárak megerősítik.
+外逃 外逃 [wai4 tao2] /elmenekül/megszökik/dezertál/disszidál/
+
 # ID-k98cK9V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 飲食 饮食 [yin3 shi2] /étel és ital/ét|rend/
@@ -60280,6 +60286,10 @@ XX XX [x x] /x/
 # 緞帶 缎带 [duan4 dai4] /szalag (dekorációs)/masni/
 # Ver 2017-12-28T21:05:46Z gabor Stat-Verif >.
 緞帶 缎带 [duan4 dai4] /szalag (dekorációs)/masni/
+
+# ID-n76iS1s
+# Ver 2019-11-13T16:30:58Z GaoYanuo Stat-New >HSK5 tanköny, \nhttps://www.xyzdict.com/en/chinese-english/%E6%95%B2%E5%93%8D
+敲響 敲响 [qiao1 xiang3] /csenget/megkongatja a harangot/riadóztat; riadót fúj/zajt csap vmivel/
 
 # ID-n76tC7E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
