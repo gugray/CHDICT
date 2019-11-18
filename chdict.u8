@@ -1,7 +1,7 @@
 ﻿# HanDeDict
 # Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
 # Veröffentlicht von Gábor L Ugray
-# Datenstand: 2019-11-14T03:00:01Z
+# Datenstand: 2019-11-18T03:00:01Z
 #
 # Lizenz: CC-BY-SA 3.0
 # https://creativecommons.org/licenses/by-sa/3.0/deed.de
@@ -22269,7 +22269,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 戶 户 [hu4] /ajtó/ház|tartás/család/
 # Ver 2019-11-13T16:18:25Z GaoYanuo Stat-Verif >A tankönyvben találkoztam ilyennel, hogy "...一户人家...". Ebből gondolom, hogy a család, háztartás számlálószava lehet. A szokásos szótárak csak úgy erősítik meg, hogy rákeresek a 家, 家庭 szavakra, ahol számlálószóként jelzik a 户-t is.
-戶 户 [hu4] /ajtó/ház|tartás/család/
+# Ver 2019-11-17T18:23:34Z gabor Stat-Verif >teljesen igaz; az ABC fel is tünteti explicit.
+戶 户 [hu4] /ajtó/háztartás; család/(számlálószó: háztartások, családok)/
 
 # ID-f11qN7o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -30014,7 +30015,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 家 家 [jia1] /otthon/család/SZ:個|个[ge4]/(számlálószó: családok, cégek, intézmények, szállodák)/(főnévképző: foglalkozás, valaminek a szakértője)/(családnév) Jia/
 # Ver 2017-05-23T20:31:07Z Adam Stat-Verif >megfelelő magyar végződés beszúrása (geológus, pszichológus, matematikus stb.)
-家 家 [jia1] /otthon/család/SZ:個|个[ge4]/(számlálószó: családok, cégek, intézmények, szállodák)/-us (főnévképző: foglalkozás, vminek a szakértője, tudósa)/(családnév) Jia/
+# 家 家 [jia1] /otthon/család/SZ:個|个[ge4]/(számlálószó: családok, cégek, intézmények, szállodák)/-us (főnévképző: foglalkozás, vminek a szakértője, tudósa)/(családnév) Jia/
+# Ver 2019-11-17T18:25:21Z gabor Stat-Verif >kiszedem inkább az "-us"-t, mert a helyzet nem ilyen egyszerű, nincs egy egyértelműen megfeleltethető magyar főnévképző. tk. nem is tudom, hogy az "-us" egyáltalán produktív képző-e a magyarban. kínai felől érkezve a zárójelezett meta-leírás megfelelően leírja a címszó jelentését, arra pedig nem számítok, hogy valaki az "us"-ra keresne magyar felől.
+家 家 [jia1] /otthon/család/SZ:個|个[ge4]/(számlálószó: családok, cégek, intézmények, szállodák)/(főnévképző: foglalkozás, vminek a szakértője, tudósa)/(családnév) Jia/
 
 # ID-g86wy7E
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -47937,7 +47940,13 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-k97Xf4G
 # Ver 2019-11-13T20:41:24Z GaoYanuo Stat-New >Tankönyv, szokásos szótárak megerősítik.
-外逃 外逃 [wai4 tao2] /elmenekül/megszökik/dezertál/disszidál/
+# 外逃 外逃 [wai4 tao2] /elmenekül/megszökik/dezertál/disszidál/
+# Ver 2019-11-17T18:28:07Z gabor Stat-New >a disszidál nekem picit túl K-európai kultúrspecifikus :) a többi stimmel!
+# 外逃 外逃 [wai4 tao2] /elmenekül/megszökik/dezertál/
+# Ver 2019-11-17T18:29:01Z gabor Stat-New >...viszont benne van a jelek szerint a _külföldre_ menekülés
+# 外逃 外逃 [wai4 tao2] /el|menekül; külföldre menekül/el|szökik/dezertál/
+# Ver 2019-11-17T18:29:05Z gabor Stat-Verif >.
+外逃 外逃 [wai4 tao2] /el|menekül; külföldre menekül/el|szökik/dezertál/
 
 # ID-k98cK9V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -60289,7 +60298,11 @@ XX XX [x x] /x/
 
 # ID-n76iS1s
 # Ver 2019-11-13T16:30:58Z GaoYanuo Stat-New >HSK5 tanköny, \nhttps://www.xyzdict.com/en/chinese-english/%E6%95%B2%E5%93%8D
-敲響 敲响 [qiao1 xiang3] /csenget/megkongatja a harangot/riadóztat; riadót fúj/zajt csap vmivel/
+# 敲響 敲响 [qiao1 xiang3] /csenget/megkongatja a harangot/riadóztat; riadót fúj/zajt csap vmivel/
+# Ver 2019-11-17T18:27:00Z gabor Stat-New >kicsit kompaktáltam
+# 敲響 敲响 [qiao1 xiang3] /csönget; csöng/riadót fúj/
+# Ver 2019-11-17T18:27:03Z gabor Stat-Verif >.
+敲響 敲响 [qiao1 xiang3] /csönget; csöng/riadót fúj/
 
 # ID-n76tC7E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
