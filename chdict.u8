@@ -1,23 +1,23 @@
-﻿# HanDeDict
-# Kollaborativ entwickeltes, freies chinesisch-deutsches Wörterbuch
-# Veröffentlicht von Gábor L Ugray
-# Datenstand: 2019-11-18T03:00:01Z
+﻿# CHDICT
+# Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
+# Open-source, community-edited Chinese-Hungarian dictionary
+# Időbélyeg / Timestamp: 2019-11-21T15:30:54Z
 #
-# Lizenz: CC-BY-SA 3.0
-# https://creativecommons.org/licenses/by-sa/3.0/deed.de
+# (c) Gábor L Ugray
+# Licenc / License: CC-BY-SA 4.0
+# https://creativecommons.org/licenses/by-sa/4.0/deed.hu
 #
-# Online-Suche und Redaktionsoberfläche:
-# https://handedict.zydeo.net/
+# A szótár interaktív kereső- és szerkesztőfelülete az alábbi címen érhető el:
+# To search and edit the dictionary online, visit the URL below:
+# https://chdict.zydeo.net/
 #
-# Ursprünglich erstellt mit der Unterstützung der Chinesisch-Deutschen Gesellschaft e.V. Hamburg,
-# unter der Leitung von Dr. Michael Klaus Engel und Jan Hefti
-# https://web.archive.org/web/20150325185952/http://www.handedict.de/chinesisch_deutsch.php?mode=dl
-# https://web.archive.org/web/20150325174145/http://www.handedict.de/chinesisch_deutsch.php?mode=about
-#
-# Format: Diese Datei ist kompatibel mit dem ursprünglichen CEDICT-Format.
-# Als Erweiterung enthält die Datei die gesamte Änderungsgeschichte jedes Eintrags.
-# Die Benutzernamen deuten die Urheber der Änderungen/Beiträge an.
-# Siehe https://handedict.zydeo.net/de/read/details oder https://github.com/gugray/HanDeDict
+# Az adatfájl az eredeti CEDICT-formátum visszafelé kompatibilis kiterjesztése.
+# Kiegészítésként, megjegyzésnek jelölt sorokban, minden szócikkről további metainformációkat
+# tartalmaz, valamint feltünteti az egyes szócikkek teljes változástörténetét.
+# 
+# This data file is a backward compatible extension of the original CEDICT format.
+# Additionally, in commented rows, CHDICT includes further metainformation about each
+# entry, as well as the entry's full change history.
 
 
 # ID-a00dZ9Q
@@ -36171,6 +36171,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-i29hm9n
 # Ver 2019-09-26T19:10:48Z gabor Stat-New >ha már van 痴呆症...
+# 痴 痴 [chi1] /buta; ostoba; gyenge|elméjű/
+# Ver 2019-11-21T15:29:35Z gabor Stat-Verif >.
 痴 痴 [chi1] /buta; ostoba; gyenge|elméjű/
 
 # ID-i29jO0V
