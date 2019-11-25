@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2019-11-21T15:30:54Z
+# Időbélyeg / Timestamp: 2019-11-25T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -16775,6 +16775,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 難忘 难忘 [nan2 wang4] /felejthetetlen/
 
+# ID-d82lY7W
+# Ver 2019-11-24T19:32:46Z GaoYanuo Stat-New >HSK5A tankönyv\nhttp://translation-dictionary.net/chinese-english/%E7%AE%AD%E8%A2%8B
+箭袋 箭袋 [jian4 dai4] /tegez (nyílvessző tartó)/
+
 # ID-d82oi9W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 旁氏 旁氏 [pang2 shi4] /(tulajdonnév) Pond's (kozmetikai márkanév)/
@@ -24152,6 +24156,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f53ym2t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 句 句 [ju4] /mondat/(számlálószó: mondat, verssor)/
+
+# ID-f53zv1E
+# Ver 2019-11-24T20:29:13Z GaoYanuo Stat-New >https://www.xyzdict.com/en/chinese-english/%E7%94%B1%E6%AD%A4
+由此 由此 [you2 ci3] /ezáltal/így, ily módon/ezúton/ebből (is látható)/innen/
 
 # ID-f53zK8q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -57088,6 +57096,10 @@ XX XX [x x] /x/
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 收割 收割 [shou1 ge1] /arat; be|takarít/
 
+# ID-n00Ff2N
+# Ver 2019-11-24T12:43:54Z gabor Stat-New >gushi fm, PLC
+早慧 早慧 [zao3 hui4] /koraérett/
+
 # ID-n00FA8q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 辭職 辞职 [ci2 zhi2] /le|mond (pozícióról, állásról)/
@@ -57757,6 +57769,10 @@ XX XX [x x] /x/
 # ID-n17tw5f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 織 织 [zhi1] /sző/köt/
+
+# ID-n17tI0q
+# Ver 2019-11-24T20:11:59Z GaoYanuo Stat-New >Tankönyvi szöveg: 人们对这件事情感到很不解,... \nCC-CEDICT, Yandex
+不解 不解 [bu4 jie3] /Nem érti, értetlenül áll a dolog fölött/
 
 # ID-n17tJ0j
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
