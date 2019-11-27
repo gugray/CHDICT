@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2019-11-25T03:00:01Z
+# Időbélyeg / Timestamp: 2019-11-27T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -4799,6 +4799,12 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 碗 碗 [wan3] /tál/SZ:隻|只[zhi1]/
 
+# ID-b06Hg8n
+# Ver 2019-11-26T12:49:17Z gabor Stat-New >személyes közlés; cedict
+# 三級片 三级片 [san1 ji2 pian4] /pornó|film; erotikus film/
+# Ver 2019-11-26T12:53:22Z gabor Stat-Verif >.
+三級片 三级片 [san1 ji2 pian4] /pornó|film; erotikus film/
+
 # ID-b06Ra3C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 行蹤 行踪 [xing2 zong1] /hollét/
@@ -5311,6 +5317,12 @@
 # ID-b17MB3G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 問世 问世 [wen4 shi4] /meg|jelenik (könyv)/napvilágot lát/
+
+# ID-b17NO5Y
+# Ver 2019-11-26T12:35:32Z gabor Stat-New >story fm; cedict
+# 高材生 高材生 [gao1 cai2 sheng1] /kiemelkedően tehetséges diák/
+# Ver 2019-11-26T12:51:47Z gabor Stat-Verif >.
+高材生 高材生 [gao1 cai2 sheng1] /kiemelkedően tehetséges diák/
 
 # ID-b17Of6t
 # Ver 2019-01-08T13:43:07Z GaoYanuo Stat-New >tankönyv,\nhttp://www.youdao.com/w/eng/%E9%80%81%E8%B4%A7%E4%B8%8A%E9%97%A8/#keyfrom=dict2.index
@@ -16777,7 +16789,11 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-d82lY7W
 # Ver 2019-11-24T19:32:46Z GaoYanuo Stat-New >HSK5A tankönyv\nhttp://translation-dictionary.net/chinese-english/%E7%AE%AD%E8%A2%8B
-箭袋 箭袋 [jian4 dai4] /tegez (nyílvessző tartó)/
+# 箭袋 箭袋 [jian4 dai4] /tegez (nyílvessző tartó)/
+# Ver 2019-11-26T12:24:31Z gabor Stat-New >.
+# 箭袋 箭袋 [jian4 dai4] /tegez (nyílvesszőket tartó tok)/
+# Ver 2019-11-26T12:24:33Z gabor Stat-Verif >.
+箭袋 箭袋 [jian4 dai4] /tegez (nyílvesszőket tartó tok)/
 
 # ID-d82oi9W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -18811,6 +18827,12 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e29iA1R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 名字 名字 [ming2 zi5] /név (dologé vagy emberé)/kereszt|név/SZ:個|个[ge4]/
+
+# ID-e29jq8y
+# Ver 2019-11-26T12:51:16Z gabor Stat-New >gushi fm; cedict, korpusz
+# 色狼 色狼 [se4 lang2] /perverz ember/
+# Ver 2019-11-26T12:53:29Z gabor Stat-Verif >.
+色狼 色狼 [se4 lang2] /perverz ember/
 
 # ID-e29sl1M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -24159,7 +24181,11 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f53zv1E
 # Ver 2019-11-24T20:29:13Z GaoYanuo Stat-New >https://www.xyzdict.com/en/chinese-english/%E7%94%B1%E6%AD%A4
-由此 由此 [you2 ci3] /ezáltal/így, ily módon/ezúton/ebből (is látható)/innen/
+# 由此 由此 [you2 ci3] /ezáltal/így, ily módon/ezúton/ebből (is látható)/innen/
+# Ver 2019-11-26T12:28:45Z gabor Stat-New >.
+# 由此 由此 [you2 ci3] /ennélfogva; ebből eredően/
+# Ver 2019-11-26T12:28:47Z gabor Stat-Verif >.
+由此 由此 [you2 ci3] /ennélfogva; ebből eredően/
 
 # ID-f53zK8q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -24372,6 +24398,12 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f57ny4d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 法子 法子 [fa3 zi5] /mód/módszer/
+
+# ID-f57ov4w
+# Ver 2019-11-26T12:46:29Z gabor Stat-New >gushi fm; cedict
+# 高壓鍋 高压锅 [gao1 ya1 guo1] /kukta (nagynyomású főzőedény)/
+# Ver 2019-11-26T12:53:09Z gabor Stat-Verif >.
+高壓鍋 高压锅 [gao1 ya1 guo1] /kukta (nagynyomású főzőedény)/
 
 # ID-f57pA5c
 # Ver 2018-02-22T09:12:11Z gabor Stat-New >ABC
@@ -25979,6 +26011,12 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 起伏 起伏 [qi3 fu2] /fel-le/esik és emelkedik/hullámzik/
 
+# ID-f94gD3e
+# Ver 2019-11-26T12:37:19Z gabor Stat-New >ha már van 高材生\ncedict, abc
+# 材 材 [cai2] /anyag/fa|anyag; fűrészáru/tehetség/
+# Ver 2019-11-26T12:51:56Z gabor Stat-Verif >.
+材 材 [cai2] /anyag/fa|anyag; fűrészáru/tehetség/
+
 # ID-f94hK8i
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 典獄長 典狱长 [dian3 yu4 zhang3] /börtön|igazgató/
@@ -27287,6 +27325,14 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-g23qi1X
 # Ver 2017-05-21T22:08:22Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
 變壓器 变压器 [bian4 ya1 qi4] /transzformátor/
+
+# ID-g23qI8e
+# Ver 2019-11-26T12:39:33Z gabor Stat-New >gushi fm; cedict
+# 度日 度日 [du4 ri4] /éli életét; le|éli napjait/épp hogy meg|él/
+# Ver 2019-11-26T12:52:16Z gabor Stat-New >.
+# 度日 度日 [du4 ri4] /éli életét; tölti napjait/épp hogy meg|él/
+# Ver 2019-11-26T12:52:21Z gabor Stat-Verif >.
+度日 度日 [du4 ri4] /éli életét; tölti napjait/épp hogy meg|él/
 
 # ID-g23Lx5f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -32949,6 +32995,12 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-h56kB2f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 偏離 偏离 [pian1 li2] /el|tér/le|tér/
+
+# ID-h56lf9l
+# Ver 2019-11-26T12:43:55Z gabor Stat-New >gushi fm; cedict
+# 產房 产房 [chan3 fang2] /szülészet; szülő|szoba/
+# Ver 2019-11-26T12:52:49Z gabor Stat-Verif >.
+產房 产房 [chan3 fang2] /szülészet; szülő|szoba/
 
 # ID-h56sJ6y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -49501,6 +49553,12 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 友情 友情 [you3 qing2] /barátság/baráti érzések/
 
+# ID-l30uc2l
+# Ver 2019-11-26T12:22:48Z gabor Stat-New >ha már van 早慧; CEDICT etc.
+# 慧 慧 [hui4] /okos; intelligens/
+# Ver 2019-11-26T12:28:58Z gabor Stat-Verif >.
+慧 慧 [hui4] /okos; intelligens/
+
 # ID-l30yE9o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 黑板 黑板 [hei1 ban3] /tábla (iskolában)/SZ:塊|块[kuai4],個|个[ge4]/
@@ -50316,6 +50374,12 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # 勸阻 劝阻 [quan4 zu3] /lebeszél (vkit vmiről)/nem tanácsol (vkinek vmit)/
 # Ver 2019-10-20T17:11:03Z gabor Stat-Verif >.
 勸阻 劝阻 [quan4 zu3] /lebeszél (vkit vmiről)/nem tanácsol (vkinek vmit)/
+
+# ID-l48TS3J
+# Ver 2019-11-26T12:41:49Z gabor Stat-New >ha már van 高等; cedict
+# 中等 中等 [zhong1 deng3] /közepes; átlagos/
+# Ver 2019-11-26T12:52:41Z gabor Stat-Verif >.
+中等 中等 [zhong1 deng3] /közepes; átlagos/
 
 # ID-l48VU3h
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -53460,6 +53524,12 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # 責任感 责任感 [ze2 ren4 gan3] /kötelességtudat/felelősségérzet/
 # Ver 2017-06-01T05:41:15Z gabor Stat-Verif >.
 責任感 责任感 [ze2 ren4 gan3] /kötelességtudat/felelősségérzet/
+
+# ID-m21GE7T
+# Ver 2019-11-26T12:40:57Z gabor Stat-New >gushi fm; cedict
+# 高等 高等 [gao1 deng3] /magas szintű; magas rangú/felső|fokú/
+# Ver 2019-11-26T12:52:33Z gabor Stat-Verif >.
+高等 高等 [gao1 deng3] /magas szintű; magas rangú/felső|fokú/
 
 # ID-m21WG1s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -56627,6 +56697,12 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 也就是說 也就是说 [ye3 jiu4 shi4 shuo1] /más szóval/másként fogalmazva/azaz/
 
+# ID-m89Do2z
+# Ver 2019-11-26T12:47:45Z gabor Stat-New >személyes közlés; cedict
+# 小強 小强 [xiao3 qiang2] /(szleng) csótány/
+# Ver 2019-11-26T12:53:16Z gabor Stat-Verif >.
+小強 小强 [xiao3 qiang2] /(szleng) csótány/
+
 # ID-m89IF8n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 準則 准则 [zhun3 ze2] /norma/szabvány/sztenderd/kritérium/előírás/
@@ -57098,6 +57174,8 @@ XX XX [x x] /x/
 
 # ID-n00Ff2N
 # Ver 2019-11-24T12:43:54Z gabor Stat-New >gushi fm, PLC
+# 早慧 早慧 [zao3 hui4] /koraérett/
+# Ver 2019-11-26T12:20:10Z gabor Stat-Verif >.
 早慧 早慧 [zao3 hui4] /koraérett/
 
 # ID-n00FA8q
@@ -57772,7 +57850,11 @@ XX XX [x x] /x/
 
 # ID-n17tI0q
 # Ver 2019-11-24T20:11:59Z GaoYanuo Stat-New >Tankönyvi szöveg: 人们对这件事情感到很不解,... \nCC-CEDICT, Yandex
-不解 不解 [bu4 jie3] /Nem érti, értetlenül áll a dolog fölött/
+# 不解 不解 [bu4 jie3] /Nem érti, értetlenül áll a dolog fölött/
+# Ver 2019-11-26T12:27:28Z gabor Stat-New >.
+# 不解 不解 [bu4 jie3] /nem ért; értetlenül áll/oldhatatlan; felbonthatatlan/
+# Ver 2019-11-26T12:27:31Z gabor Stat-Verif >.
+不解 不解 [bu4 jie3] /nem ért; értetlenül áll/oldhatatlan; felbonthatatlan/
 
 # ID-n17tJ0j
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
