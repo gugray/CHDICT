@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2019-11-27T03:00:01Z
+# Időbélyeg / Timestamp: 2019-12-05T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -27104,6 +27104,12 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 性別 性别 [xing4 bie2] /nem (biológiai)/
 
+# ID-g18uD0t
+# Ver 2019-12-04T18:10:26Z gabor Stat-New >平 javítása kapcsán; CEDICT etc.
+# 坪 坪 [ping2] /ping (alapterület mértékegysége, kb. 3,3 négyzetméter, egy tatami mérete; Tajvanban és Japánban használatos) /
+# Ver 2019-12-04T18:10:38Z gabor Stat-Verif >.
+坪 坪 [ping2] /ping (alapterület mértékegysége, kb. 3,3 négyzetméter, egy tatami mérete; Tajvanban és Japánban használatos) /
+
 # ID-g18uP8f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 毛筆 毛笔 [mao2 bi3] /író|ecset/SZ:枝[zhi1]/
@@ -27332,7 +27338,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2019-11-26T12:52:16Z gabor Stat-New >.
 # 度日 度日 [du4 ri4] /éli életét; tölti napjait/épp hogy meg|él/
 # Ver 2019-11-26T12:52:21Z gabor Stat-Verif >.
-度日 度日 [du4 ri4] /éli életét; tölti napjait/épp hogy meg|él/
+# Ver 2019-12-04T12:37:05Z gabor Stat-Verif >ez az igazi!
+度日 度日 [du4 ri4] /tengeti napjait/épp hogy meg|él/
 
 # ID-g23Lx5f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -35617,7 +35624,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2019-03-09T19:24:48Z GaoYanuo Stat-Verif >forrás: anyanyelvi tanár
 # 平 平 [ping2] /lapos/sima/egyenlő (egy szintben van vmivel)/döntetlen/békés/négyzetméter (a 平方米 rövidítése) /
 # Ver 2019-10-04T14:06:49Z gabor Stat-Verif >saját megfigyelés :) illetve:\nhttps://onlineconversion.vbulletin.net/forum/main-forums/convert-and-calculate/411-taiwan-pings
-平 平 [ping2] /lapos/sima/egyenlő (egy szintben van vmivel)/döntetlen/békés/(alapterület mértékegysége, helyenként eltérő jelentéssel: a 平方米 rövidítéseként négyzetméter; Tajvanban kb. 3,3 négyzetméter, egy tatami mérete) /
+# 平 平 [ping2] /lapos/sima/egyenlő (egy szintben van vmivel)/döntetlen/békés/(alapterület mértékegysége, helyenként eltérő jelentéssel: a 平方米 rövidítéseként négyzetméter; Tajvanban kb. 3,3 négyzetméter, egy tatami mérete) /
+# Ver 2019-12-04T18:08:43Z gabor Stat-Verif >ezt benéztem, az a másik ping az 坪
+平 平 [ping2] /lapos/sima/egyenlő (egy szintben van vmivel)/döntetlen/békés/négyzetméter (a 平方米 rövidítéseként) /
 
 # ID-i14sX6O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -37225,6 +37234,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-i52Np7Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 分裂 分裂 [fen1 lie4] /hasad/osztódik/külön|válik/
+
+# ID-i52Pw8h
+# Ver 2019-12-04T12:39:47Z gabor Stat-New >https://twitter.com/yun_aus/status/1201971514251198464?s=11\nCEDICT
+多此一舉 多此一举 [duo1 ci3 yi1 ju3] /(kifejezés) túlzásba viszi; többet csinál a kelleténél; felesleges/
 
 # ID-i52Sx4d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -49473,6 +49486,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 偏頭痛 偏头痛 [pian1 tou2 tong4] /migrén/
 
+# ID-l28oc4i
+# Ver 2019-12-04T12:38:39Z gabor Stat-New >https://twitter.com/yun_aus/status/1201971514251198464?s=11\nCEDICT
+脫褲子放屁 脱裤子放屁 [tuo1 ku4 zi5 fang4 pi4] /(kifejezés) túlkomplikálja a dolgot; teljesen felesleges/
+
 # ID-l28pz3t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 憲法 宪法 [xian4 fa3] /alkotmány/SZ:部[bu4]/
@@ -50442,6 +50459,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-l50eG3M
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 版權 版权 [ban3 quan2] /szerzői jog/
+
+# ID-l50eX2r
+# Ver 2019-12-04T12:44:36Z gabor Stat-New >https://twitter.com/withoutdoing/status/1201967804963942401\nCEDICT
+司馬昭之心路人皆知 司马昭之心路人皆知 [si1 ma3 zhao1 zhi1 xin1 lu4 ren2 jie1 zhi1] /(kifejezés) nyílt titok/
 
 # ID-l50iL9A
 # Ver 2017-11-25T16:03:26Z GaoYanuo Stat-New >CC-CEDICT\nhttp://dict.youdao.com/w/%E5%A4%84%E5%A5%B3%E8%86%9C/#keyfrom=dict2.top\nhttps://dict.hjenglish.com/w/%E8%80%81%E5%A4%84%E5%A5%B3
@@ -58566,6 +58587,10 @@ XX XX [x x] /x/
 # ID-n35ap1P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 自找 自找 [zi4 zhao3] /magának okozza a bajt/magának köszönhetően szenved/
+
+# ID-n35bu0Y
+# Ver 2019-12-04T12:43:31Z gabor Stat-New >https://twitter.com/withoutdoing/status/1201967804963942401\nCEDICT
+千裡送鵝毛禮輕情意重 千里送鹅毛礼轻情意重 [qian1 li3 song4 e2 mao2 li3 qing1 qing2 yi4 zhong4] /(kifejezés) nem az ajándék a fontos, hanem a szándék; szívből jövő apró ajándék/
 
 # ID-n35fA6m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
