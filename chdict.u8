@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2019-12-06T03:00:01Z
+# Időbélyeg / Timestamp: 2019-12-14T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -2043,6 +2043,14 @@
 # ID-a44QL7C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 體諒 体谅 [ti3 liang4] /meg|értést tanúsít/együtt|érez/
+
+# ID-a44TB6q
+# Ver 2019-12-13T09:13:34Z gabor Stat-New >story fm 285; cedict, abc
+# 原著 原着 [yuan2 zhao2] /eredeti mű (nem fordítás, rövidített változat stb.)/
+# Ver 2019-12-13T09:14:37Z gabor Stat-New >(új szócikk szerkesztő nem fogadja el 著-t egyszerűsített írásjegynek; körmönfont bevitel javítással)
+# 原著 原著 [yuan2 zhu4] /eredeti mű (nem fordítás, rövidített változat stb.)/
+# Ver 2019-12-13T09:14:43Z gabor Stat-Verif >.
+原著 原著 [yuan2 zhu4] /eredeti mű (nem fordítás, rövidített változat stb.)/
 
 # ID-a44UG9v
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -8142,6 +8150,12 @@
 # ID-b85HO7G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 移 移 [yi2] /el|távolít/odébb tol/változtat/
+
+# ID-b85Mo5b
+# Ver 2019-12-13T09:38:09Z gabor Stat-New >abc, cedict; eredeti szöveg; ha már van 啜泣
+# 泣 泣 [qi4] /könnyek/sír/
+# Ver 2019-12-13T09:38:40Z gabor Stat-Verif >.
+泣 泣 [qi4] /könnyek/sír/
 
 # ID-b85Nu3O
 # Ver 2017-09-04T09:01:13Z gabor Stat-New >ABC; 花粉过敏 része
@@ -15262,6 +15276,12 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 洗衣 洗衣 [xi3 yi1] /ruhát mos/
 
+# ID-d48uB5T
+# Ver 2019-12-13T09:17:29Z gabor Stat-New >story fm 285; cedict
+# 木材 木材 [mu4 cai2] /fa|anyag/
+# Ver 2019-12-13T09:17:46Z gabor Stat-Verif >.
+木材 木材 [mu4 cai2] /fa|anyag/
+
 # ID-d48uR8q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 妞 妞 [niu1] /lány/
@@ -15599,6 +15619,12 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-d56da6o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 十萬 十万 [shi2 wan4] /százezer/100000/
+
+# ID-d56hO1o
+# Ver 2019-12-13T09:36:11Z gabor Stat-New >abc, cedict; eredeti szöveg
+# 啜泣 啜泣 [chuo4 qi4] /sír; zokog/
+# Ver 2019-12-13T09:38:25Z gabor Stat-Verif >.
+啜泣 啜泣 [chuo4 qi4] /sír; zokog/
 
 # ID-d56hW3P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -19487,6 +19513,12 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e44rW2m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 星期六 星期六 [xing1 qi1 liu4] /szombat/
+
+# ID-e44yO5P
+# Ver 2019-12-13T09:34:58Z gabor Stat-New >abc; eredeti szöveg
+# 東搖西晃 东摇西晃 [dong1 yao2 xi1 huang4] /(kifejezés) egyik oldaláról a másikra dülöngél/
+# Ver 2019-12-13T09:38:16Z gabor Stat-Verif >.
+東搖西晃 东摇西晃 [dong1 yao2 xi1 huang4] /(kifejezés) egyik oldaláról a másikra dülöngél/
 
 # ID-e44BE8z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -30576,7 +30608,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-g96UD4g
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
-搖晃 摇晃 [yao2 huang4] /billeg/rázkódik/inog/
+# 搖晃 摇晃 [yao2 huang4] /billeg/rázkódik/inog/
+# Ver 2019-12-13T09:33:14Z gabor Stat-Verif >kieg (támolyog); többi összevon\neredeti szöveg
+搖晃 摇晃 [yao2 huang4] /támolyog/billeg; inog/rázkódik/
 
 # ID-g96WT4S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -33093,6 +33127,12 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-h58wE5J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 消除 消除 [xiao1 chu2] /el|oszlat/ki|küszöböl/meg|szüntet/
+
+# ID-h58AP9c
+# Ver 2019-12-13T09:16:22Z gabor Stat-New >story fm; cedict, abc
+# 風雅 风雅 [feng1 ya3] /művelt; kifinomult; elegáns/
+# Ver 2019-12-13T09:17:38Z gabor Stat-Verif >.
+風雅 风雅 [feng1 ya3] /művelt; kifinomult; elegáns/
 
 # ID-h58IT2n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -64830,6 +64870,12 @@ XX XX [x x] /x/
 # 精神科醫生 精神科医生 [jing1 shen2 ke1 yi1 sheng1] /pszichiáter/
 # Ver 2017-09-04T08:55:32Z gabor Stat-Verif >.
 精神科醫生 精神科医生 [jing1 shen2 ke1 yi1 sheng1] /pszichiáter/
+
+# ID-o80qj0g
+# Ver 2019-12-13T09:37:07Z gabor Stat-New >abc, cedict; eredeti szöveg
+# 啜 啜 [chuo4] /szürcsöl; iszik/sír/
+# Ver 2019-12-13T09:38:32Z gabor Stat-Verif >.
+啜 啜 [chuo4] /szürcsöl; iszik/sír/
 
 # ID-o80ty1G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
