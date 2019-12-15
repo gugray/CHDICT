@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2019-12-14T03:00:01Z
+# Időbélyeg / Timestamp: 2019-12-15T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -36989,6 +36989,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-i46Pk7R
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 洗刷 洗刷 [xi3 shua1] /ki|mos/tisztázza magát/
+
+# ID-i46Qq3C
+# Ver 2019-12-14T15:45:51Z gabor Stat-New >storyfm e285\nplc, abc
+窮酸 穷酸 [qiong2 suan1] /szegény és tudálékos (írástudók gúnyolására használt jelző)/
 
 # ID-i46Ru5Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
