@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2019-12-15T03:00:01Z
+# Időbélyeg / Timestamp: 2019-12-19T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -22311,6 +22311,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 攝影師 摄影师 [she4 ying3 shi1] /fotós/fényképész/operatőr/
 
+# ID-f11kK4B
+# Ver 2019-12-18T11:34:35Z gabor Stat-New >ha már van 浴缸 yu4gang1
+缸 缸 [gang1] /bödön; tartály/
+
 # ID-f11oN2A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 提案 提案 [ti2 an4] /javaslat/előterjesztés/
@@ -25819,6 +25823,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f89sk6D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 北部 北部 [bei3 bu4] /északi rész/
+
+# ID-f89xg6g
+# Ver 2019-12-18T11:37:35Z gabor Stat-New >eredeti szöveg
+鹹菜 咸菜 [xian2 cai4] /savanyúság/sós lében eltett zöldségek/
 
 # ID-f89zR0X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -45766,7 +45774,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-k45bI8G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-捱 挨 [ai1] /el|szenved; el|visel/el|húz; el|nyújt; késleltet/
+# 捱 挨 [ai1] /el|szenved; el|visel/el|húz; el|nyújt; késleltet/
+# Ver 2019-12-18T11:40:09Z gabor Stat-Verif >téves hangsúly; téves hagyományos
+挨 挨 [ai2] /el|szenved; el|visel/el|húz; el|nyújt; késleltet/
 
 # ID-k45dL2k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -58043,6 +58053,10 @@ XX XX [x x] /x/
 # ID-n19Te3u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 文 文 [wen2] /írás/nyelv/kultúra/formális/irodalmi/(családnév) Wen/
+
+# ID-n19YX1g
+# Ver 2019-12-18T11:35:13Z gabor Stat-New >ha már van 缸, 浴缸
+煙灰缸 烟灰缸 [yan1 hui1 gang1] /hamu|tartó/
 
 # ID-n20kV1Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
