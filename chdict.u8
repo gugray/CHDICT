@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2019-12-19T03:00:01Z
+# Időbélyeg / Timestamp: 2020-01-19T03:00:02Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -19918,6 +19918,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 懶人沙發 懒人沙发 [lan3 ren2 sha1 fa1] /babzsák (ülőalkalmatosság)/
 
+# ID-e53Wp3x
+# Ver 2020-01-18T15:28:11Z gabor Stat-New >CEDICT etc; gushifm 307
+死角 死角 [si3 jiao3] /holt|tér/elmaradt terület/
+
 # ID-e54bT5g
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 喇 喇 [la3] /(fonetikus szótag)/
@@ -32488,6 +32492,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 拼圖 拼图 [pin1 tu2] /puzzle/kirakós játék/
 
+# ID-h41Nw8c
+# Ver 2020-01-18T14:58:07Z gabor Stat-New >CEDICT, gushifm 307
+霸王龍 霸王龙 [ba4 wang2 long2] /Tyrannosaurus/
+
 # ID-h41ZW2T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 餅乾 饼干 [bing3 gan1] /keksz/süti/SZ:片[pian4],塊|块[kuai4]/
@@ -32557,6 +32565,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-h44aK7N
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 白旗 白旗 [bai2 qi2] /fehér zászló/
+
+# ID-h44no3b
+# Ver 2020-01-18T15:45:39Z gabor Stat-New >internet :) gushifm 307
+爆炸頭 爆炸头 [bao4 zha4 tou2] /afro frizura/
 
 # ID-h44nN1U
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -42024,6 +42036,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 步 步 [bu4] /lépés/járás/állapot (egy folyamatban)/
 
+# ID-j61AU2h
+# Ver 2020-01-18T15:23:04Z gabor Stat-New >CEDICT etc., gushifm 307
+小日子 小日子 [xiao3 ri4 zi5] /egyszerű élet (kis család hétköznapjai)/
+
 # ID-j61El0U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 沒完 没完 [mei2 wan2] /véget nem érő; vég nélküli (pl. beszéd)/nem adja fel (pl. vitában)/
@@ -49612,6 +49628,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 鄉 乡 [xiang1] /város/vidék/szülő|falu/
 
+# ID-l29Iy6q
+# Ver 2020-01-18T15:20:27Z gabor Stat-New >CEDICT etc.; gushifm 307
+破敗 破败 [po4 bai4] /düledező; lerobbant/tönkre|megy/le|győz/
+
 # ID-l29Tf0z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 顫抖 颤抖 [chan4 dou3] /meg|remeg/rázkódik/
@@ -52955,6 +52975,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 地球 地球 [di4 qiu2] /föld|golyó/Föld (bolygó)/SZ:個|个[ge4]/
 
+# ID-m07GV6A
+# Ver 2020-01-18T15:56:09Z gabor Stat-New >cedict; gushifm 307
+憨 憨 [han1] /ostoba; bugyuta/
+
 # ID-m07Ll3U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 保護區 保护区 [bao3 hu4 qu1] /védett terület/természet|védelmi terület/SZ:個|个[ge4],片[pian4]/
@@ -55957,6 +55981,10 @@ XX XX [x x] /x/
 # ID-m72hP0z
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 雨量 雨量 [yu3 liang4] /csapadék (eső mennyisége)/
+
+# ID-m72qa9q
+# Ver 2020-01-18T14:58:39Z gabor Stat-New >CEDICT; gushifm 307
+霸王 霸王 [ba4 wang2] /zsarnok; despota/
 
 # ID-m72we7J
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -65919,6 +65947,10 @@ XX XX [x x] /x/
 # ID-p00XO4z
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 夢想家 梦想家 [meng4 xiang3 jia1] /álmodozó; ábrándos/
+
+# ID-p01hB1Z
+# Ver 2020-01-18T15:48:51Z gabor Stat-New >cedict; gushifm 307
+羞澀 羞涩 [xiu1 se4] /szégyenlős; bátortalan/
 
 # ID-p01iU3j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
