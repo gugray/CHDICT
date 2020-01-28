@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2020-01-19T03:00:02Z
+# Időbélyeg / Timestamp: 2020-01-28T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -32033,6 +32033,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 滅亡 灭亡 [mie4 wang2] /meg|semmisít/el|pusztít/ki|hal/ki|pusztul/
 
+# ID-h30XS4h
+# Ver 2020-01-27T15:59:46Z gabor Stat-New >https://www.youtube.com/watch?v=fvAjHXuPkQs\n(封城日记); szokásos szótárak
+疫情 疫情 [yi4 qing2] /járvány (járványügyi helyzet)/
+
 # ID-h31pG1F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 目擊 目击 [mu4 ji1] /saját szemével lát/
@@ -54315,6 +54319,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-m36qy4i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 季軍 季军 [ji4 jun1] /harmadik helyezett/bronz|érmes/
+
+# ID-m36rk9F
+# Ver 2020-01-27T16:01:05Z gabor Stat-New >ha már van 疫情 és egyéb összetételek\nCEDICT etc.
+疫 疫 [yi4] /ragály; fertőző betegség/
 
 # ID-m36wb8U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
