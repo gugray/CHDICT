@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2020-01-28T03:00:01Z
+# Időbélyeg / Timestamp: 2020-01-29T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -15558,6 +15558,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 劍 剑 [jian4] /kard/SZ:把[ba3]/
 
+# ID-d54Ct5J
+# Ver 2020-01-28T18:14:10Z GaoYanuo Stat-New >tanönyv, CCEDICT
+古今 古今 [gu3 jin1] /akkor és most/régen és ma/
+
 # ID-d54DM7L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 各種 各种 [ge4 zhong3] /minden|féle/minden|fajta/külön|féle/
@@ -17820,6 +17824,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e05CG9R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 事務 事务 [shi4 wu4] /ügyek (politikai, gazdasági stb.)/munka/tranzakció/
+
+# ID-e05CM9e
+# Ver 2020-01-28T18:27:03Z GaoYanuo Stat-New >Tankönyv, CCEDICT
+財力 财力 [cai2 li4] /erőforrás/anyagi lehetőség/
 
 # ID-e05CS8u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -26014,6 +26022,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f93qe4g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 美麗 美丽 [mei3 li4] /gyönyörű/
+
+# ID-f93zh8Y
+# Ver 2020-01-28T18:22:47Z GaoYanuo Stat-New >Tankönyv, CCEDICT
+瓜果 瓜果 [gua1 guo3] /gyümölcs (gyűjtőfogalomként)/
 
 # ID-f93El7C
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -64700,6 +64712,10 @@ XX XX [x x] /x/
 # 發 发 [fa1] /küld/ki|mutat/ki|ad/(számlálószó: lőfegyverek esetén: sorozat)/
 # Ver 2018-02-05T17:10:23Z gabor Stat-Verif >https://twitter.com/withoutdoing/status/959128541311877120
 發 发 [fa1] /küld/ki|mutat/ki|ad/posztol (online)/(számlálószó: lőfegyverek esetén: sorozat)/
+
+# ID-o75As7m
+# Ver 2020-01-28T18:41:35Z GaoYanuo Stat-New >Tankönyv, CCEDICT
+弄懂 弄懂 [nong4 dong3] /felfog; megért/
 
 # ID-o75GP6e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
