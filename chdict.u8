@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2020-01-29T03:00:01Z
+# Időbélyeg / Timestamp: 2020-02-02T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -36479,6 +36479,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-i32Cf1E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 身體 身体 [shen1 ti3] /test (emberi)/egészség/SZ:具[ju4],個|个[ge4]/
+
+# ID-i32FR8w
+# Ver 2020-02-02T02:27:33Z GaoYanuo Stat-New >Tankönyv, CCEDICT, korpusz.\nA "most akkor"-t mint meglepődés az elvárás ellenkezőjén hogy kéne belevenni?
+反倒 反倒 [fan3 dao4] /inkább/ehelyett/ellenkezőleg; fordítva/
 
 # ID-i32Lc6p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
