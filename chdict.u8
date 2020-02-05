@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2020-02-02T03:00:01Z
+# Időbélyeg / Timestamp: 2020-02-05T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -15560,7 +15560,11 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-d54Ct5J
 # Ver 2020-01-28T18:14:10Z GaoYanuo Stat-New >tanönyv, CCEDICT
-古今 古今 [gu3 jin1] /akkor és most/régen és ma/
+# 古今 古今 [gu3 jin1] /akkor és most/régen és ma/
+# Ver 2020-02-04T16:30:04Z gabor Stat-New >kieg: van a régi vs >modern< értelme is
+# 古今 古今 [gu3 jin1] /akkor és most; régen és ma/régi és modern/
+# Ver 2020-02-04T16:30:07Z gabor Stat-Verif >.
+古今 古今 [gu3 jin1] /akkor és most; régen és ma/régi és modern/
 
 # ID-d54DM7L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -17827,7 +17831,11 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-e05CM9e
 # Ver 2020-01-28T18:27:03Z GaoYanuo Stat-New >Tankönyv, CCEDICT
-財力 财力 [cai2 li4] /erőforrás/anyagi lehetőség/
+# 財力 财力 [cai2 li4] /erőforrás/anyagi lehetőség/
+# Ver 2020-02-04T16:34:05Z gabor Stat-New >kimondottan pénzbeli, vagyonbeli dolog ez a 财; az általános "erőforrást" kiszedtem
+# 財力 财力 [cai2 li4] /anyagi lehetőségek; pénzügyi források/
+# Ver 2020-02-04T16:34:12Z gabor Stat-Verif >.
+財力 财力 [cai2 li4] /anyagi lehetőségek; pénzügyi források/
 
 # ID-e05CS8u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -19928,6 +19936,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-e53Wp3x
 # Ver 2020-01-18T15:28:11Z gabor Stat-New >CEDICT etc; gushifm 307
+# 死角 死角 [si3 jiao3] /holt|tér/elmaradt terület/
+# Ver 2020-02-04T16:26:21Z gabor Stat-Verif >.
 死角 死角 [si3 jiao3] /holt|tér/elmaradt terület/
 
 # ID-e54bT5g
@@ -22325,6 +22335,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f11kK4B
 # Ver 2019-12-18T11:34:35Z gabor Stat-New >ha már van 浴缸 yu4gang1
+# 缸 缸 [gang1] /bödön; tartály/
+# Ver 2020-02-04T16:23:55Z gabor Stat-Verif >.
 缸 缸 [gang1] /bödön; tartály/
 
 # ID-f11oN2A
@@ -24215,6 +24227,12 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 閉幕 闭幕 [bi4 mu4] /le|hull a függöny/le|húzzák a rolót (befejeződik, véget ér)/
 
+# ID-f53cr8o
+# Ver 2020-02-04T16:35:35Z gabor Stat-New >ha már vagy tucatnyi összetételben megvan...
+# 財 财 [cai2] /vagyon; gazdagság; pénz/
+# Ver 2020-02-04T16:38:27Z gabor Stat-Verif >.
+財 财 [cai2] /vagyon; gazdagság; pénz/
+
 # ID-f53ry7F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 姐妹 姐妹 [jie3 mei4] /nővérek/lány|testvérek/
@@ -25838,6 +25856,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f89xg6g
 # Ver 2019-12-18T11:37:35Z gabor Stat-New >eredeti szöveg
+# 鹹菜 咸菜 [xian2 cai4] /savanyúság/sós lében eltett zöldségek/
+# Ver 2020-02-04T16:25:12Z gabor Stat-Verif >.
 鹹菜 咸菜 [xian2 cai4] /savanyúság/sós lében eltett zöldségek/
 
 # ID-f89zR0X
@@ -26025,7 +26045,11 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f93zh8Y
 # Ver 2020-01-28T18:22:47Z GaoYanuo Stat-New >Tankönyv, CCEDICT
-瓜果 瓜果 [gua1 guo3] /gyümölcs (gyűjtőfogalomként)/
+# 瓜果 瓜果 [gua1 guo3] /gyümölcs (gyűjtőfogalomként)/
+# Ver 2020-02-04T16:32:04Z gabor Stat-New >azért benne van a tök is...
+# 瓜果 瓜果 [gua1 guo3] /gyümölcsök (gyűjtőfogalomként: tökfélék és más gyümölcsök)/
+# Ver 2020-02-04T16:32:09Z gabor Stat-Verif >.
+瓜果 瓜果 [gua1 guo3] /gyümölcsök (gyűjtőfogalomként: tökfélék és más gyümölcsök)/
 
 # ID-f93El7C
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -32047,6 +32071,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-h30XS4h
 # Ver 2020-01-27T15:59:46Z gabor Stat-New >https://www.youtube.com/watch?v=fvAjHXuPkQs\n(封城日记); szokásos szótárak
+# 疫情 疫情 [yi4 qing2] /járvány (járványügyi helyzet)/
+# Ver 2020-02-04T16:27:15Z gabor Stat-Verif >.
 疫情 疫情 [yi4 qing2] /járvány (járványügyi helyzet)/
 
 # ID-h31pG1F
@@ -32510,6 +32536,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-h41Nw8c
 # Ver 2020-01-18T14:58:07Z gabor Stat-New >CEDICT, gushifm 307
+# 霸王龍 霸王龙 [ba4 wang2 long2] /Tyrannosaurus/
+# Ver 2020-02-04T16:24:48Z gabor Stat-Verif >.
 霸王龍 霸王龙 [ba4 wang2 long2] /Tyrannosaurus/
 
 # ID-h41ZW2T
@@ -32584,6 +32612,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-h44no3b
 # Ver 2020-01-18T15:45:39Z gabor Stat-New >internet :) gushifm 307
+# 爆炸頭 爆炸头 [bao4 zha4 tou2] /afro frizura/
+# Ver 2020-02-04T16:26:31Z gabor Stat-Verif >.
 爆炸頭 爆炸头 [bao4 zha4 tou2] /afro frizura/
 
 # ID-h44nN1U
@@ -36482,6 +36512,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-i32FR8w
 # Ver 2020-02-02T02:27:33Z GaoYanuo Stat-New >Tankönyv, CCEDICT, korpusz.\nA "most akkor"-t mint meglepődés az elvárás ellenkezőjén hogy kéne belevenni?
+# 反倒 反倒 [fan3 dao4] /inkább/ehelyett/ellenkezőleg; fordítva/
+# Ver 2020-02-04T16:38:12Z gabor Stat-Verif >szerintem ezek kifejezik, amit kell
 反倒 反倒 [fan3 dao4] /inkább/ehelyett/ellenkezőleg; fordítva/
 
 # ID-i32Lc6p
@@ -37032,6 +37064,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-i46Qq3C
 # Ver 2019-12-14T15:45:51Z gabor Stat-New >storyfm e285\nplc, abc
+# 窮酸 穷酸 [qiong2 suan1] /szegény és tudálékos (írástudók gúnyolására használt jelző)/
+# Ver 2020-02-04T16:23:41Z gabor Stat-Verif >.
 窮酸 穷酸 [qiong2 suan1] /szegény és tudálékos (írástudók gúnyolására használt jelző)/
 
 # ID-i46Ru5Y
@@ -42058,6 +42092,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-j61AU2h
 # Ver 2020-01-18T15:23:04Z gabor Stat-New >CEDICT etc., gushifm 307
+# 小日子 小日子 [xiao3 ri4 zi5] /egyszerű élet (kis család hétköznapjai)/
+# Ver 2020-02-04T16:25:57Z gabor Stat-Verif >.
 小日子 小日子 [xiao3 ri4 zi5] /egyszerű élet (kis család hétköznapjai)/
 
 # ID-j61El0U
@@ -49650,6 +49686,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-l29Iy6q
 # Ver 2020-01-18T15:20:27Z gabor Stat-New >CEDICT etc.; gushifm 307
+# 破敗 破败 [po4 bai4] /düledező; lerobbant/tönkre|megy/le|győz/
+# Ver 2020-02-04T16:25:42Z gabor Stat-Verif >.
 破敗 破败 [po4 bai4] /düledező; lerobbant/tönkre|megy/le|győz/
 
 # ID-l29Tf0z
@@ -52997,6 +53035,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-m07GV6A
 # Ver 2020-01-18T15:56:09Z gabor Stat-New >cedict; gushifm 307
+# 憨 憨 [han1] /ostoba; bugyuta/
+# Ver 2020-02-04T16:27:02Z gabor Stat-Verif >.
 憨 憨 [han1] /ostoba; bugyuta/
 
 # ID-m07Ll3U
@@ -54338,6 +54378,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-m36rk9F
 # Ver 2020-01-27T16:01:05Z gabor Stat-New >ha már van 疫情 és egyéb összetételek\nCEDICT etc.
+# 疫 疫 [yi4] /ragály; fertőző betegség/
+# Ver 2020-02-04T16:27:26Z gabor Stat-Verif >.
 疫 疫 [yi4] /ragály; fertőző betegség/
 
 # ID-m36wb8U
@@ -56008,6 +56050,8 @@ XX XX [x x] /x/
 
 # ID-m72qa9q
 # Ver 2020-01-18T14:58:39Z gabor Stat-New >CEDICT; gushifm 307
+# 霸王 霸王 [ba4 wang2] /zsarnok; despota/
+# Ver 2020-02-04T16:25:28Z gabor Stat-Verif >.
 霸王 霸王 [ba4 wang2] /zsarnok; despota/
 
 # ID-m72we7J
@@ -58108,6 +58152,8 @@ XX XX [x x] /x/
 
 # ID-n19YX1g
 # Ver 2019-12-18T11:35:13Z gabor Stat-New >ha már van 缸, 浴缸
+# 煙灰缸 烟灰缸 [yan1 hui1 gang1] /hamu|tartó/
+# Ver 2020-02-04T16:24:08Z gabor Stat-Verif >.
 煙灰缸 烟灰缸 [yan1 hui1 gang1] /hamu|tartó/
 
 # ID-n20kV1Q
@@ -64719,7 +64765,11 @@ XX XX [x x] /x/
 
 # ID-o75As7m
 # Ver 2020-01-28T18:41:35Z GaoYanuo Stat-New >Tankönyv, CCEDICT
-弄懂 弄懂 [nong4 dong3] /felfog; megért/
+# 弄懂 弄懂 [nong4 dong3] /felfog; megért/
+# Ver 2020-02-04T16:37:14Z gabor Stat-New >kis kieg
+# 弄懂 弄懂 [nong4 dong3] /felfog; meg|ért; rá|jön/
+# Ver 2020-02-04T16:37:16Z gabor Stat-Verif >.
+弄懂 弄懂 [nong4 dong3] /felfog; meg|ért; rá|jön/
 
 # ID-o75GP6e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -65978,6 +66028,8 @@ XX XX [x x] /x/
 
 # ID-p01hB1Z
 # Ver 2020-01-18T15:48:51Z gabor Stat-New >cedict; gushifm 307
+# 羞澀 羞涩 [xiu1 se4] /szégyenlős; bátortalan/
+# Ver 2020-02-04T16:26:43Z gabor Stat-Verif >.
 羞澀 羞涩 [xiu1 se4] /szégyenlős; bátortalan/
 
 # ID-p01iU3j
