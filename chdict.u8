@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2020-02-07T03:00:01Z
+# Időbélyeg / Timestamp: 2020-02-19T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -1987,6 +1987,10 @@
 # ID-a43Ih1G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 靴子 靴子 [xue1 zi5] /csizma/
+
+# ID-a43KF8A
+# Ver 2020-02-18T18:51:23Z gabor Stat-New >https://www.youtube.com/watch?v=CrO8MROMhpQ\nCEDICT
+瞧不起 瞧不起 [qiao2 bu4 qi3] /lenéz; megvet/
 
 # ID-a44bN9d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -12469,6 +12473,10 @@
 # ID-c84nm4y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 拿手 拿手 [na2 shou3] /szakértő/jó (vmiben; ért hozzá)/
+
+# ID-c84wP6I
+# Ver 2020-02-18T18:59:46Z gabor Stat-New >CEDICT etc.
+房貸 房贷 [fang2 dai4] /jelzálog; lakás|hitel/
 
 # ID-c84yw4r
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -23607,7 +23615,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f40uQ3I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-最初 最初 [zui4 chu1] /első/eredeti/
+# 最初 最初 [zui4 chu1] /első/eredeti/
+# Ver 2020-02-18T19:05:22Z gabor Stat-Verif >kieg
+最初 最初 [zui4 chu1] /első/eredeti/kezdetben; először; eredetileg/
 
 # ID-f40vv7i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -25748,6 +25758,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 苛捐雜稅 苛捐杂税 [ke1 juan1 za2 shui4] /(kifejezés) adó|prés; elviselhetetlen adók; sokféle magas adó/
 
+# ID-f87jE9N
+# Ver 2020-02-18T19:02:10Z gabor Stat-New >CEDICT etc.
+環島 环岛 [huan2 dao3] /körforgalon; járda|sziget/szigetet körbe|hajóz/
+
 # ID-f87mu9H
 # Ver 2018-06-04T13:38:32Z Adam Stat-New >kínai Wikipédia szócikke
 # 換檔鍵 换档键 [huan4 dang4 jian4] /Shift gomb (számítógépen)/
@@ -27082,6 +27096,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 停頓 停顿 [ting2 dun4] /szünet/szünetet tart/meg|akad (beszédben)/
 
+# ID-g16aj5R
+# Ver 2020-02-18T18:55:26Z gabor Stat-New >https://www.youtube.com/watch?v=CrO8MROMhpQ\nCEDICT etc.
+新石器 新石器 [xin1 shi2 qi4] /új|kőkor; neolitikum/
+
 # ID-g16in7F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 狀況 状况 [zhuang4 kuang4] /állapot/helyzet/szituáció/SZ:個|个[ge4]/
@@ -27109,6 +27127,14 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-g16ZS9N
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 息 息 [xi1] /lehelet/hírek/kamat/pihen/abba|hagy/
+
+# ID-g17bw3V
+# Ver 2020-02-18T18:52:30Z gabor Stat-New >CEDICT etc.
+文筆 文笔 [wen2 bi3] /stílus (írói)/írói véna/
+
+# ID-g17eZ0Q
+# Ver 2020-02-18T19:06:48Z gabor Stat-New >GushiFM E285\nCEDICT etc.
+玩家 玩家 [wan2 jia1] /játékos (játékban résztvevő ember)/
 
 # ID-g17ns5A
 # Ver 2019-10-20T16:42:08Z gabor Stat-New >CEDICT; ha már van 地窖
@@ -28651,6 +28677,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-g51Mc4Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 缺點 缺点 [que1 dian3] /gyengeség/hiányosság/hátrány/
+
+# ID-g51Nh1Q
+# Ver 2020-02-18T19:09:00Z gabor Stat-New >GushiFM E285\nCEDICT etc.
+飄盪 飘荡 [piao1 dang4] /bolyong; sodródik/
 
 # ID-g51Zw2K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -30399,6 +30429,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-g91bZ2U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 現狀 现状 [xian4 zhuang4] /status quo/jelen helyzet/
+
+# ID-g91fW5Z
+# Ver 2020-02-18T19:06:06Z gabor Stat-New >GushiFM E285\nCEDICT etc.
+周遊 周游 [zhou1 you2] /körbe|utaz; körutazást teszt/
 
 # ID-g91iM3H
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -33806,6 +33840,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 雄厚 雄厚 [xiong2 hou4] /bőséges/erős/szilárd/
 
+# ID-h72rz0n
+# Ver 2020-02-18T20:09:12Z gabor Stat-New >személyes közlés, CEDICT, MOEDICT
+迷思 迷思 [mi2 si1] /mítosz (fantasztikus, nem tudományos állítás, meggyőződés)/
+
 # ID-h72tB1r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 瑪麗 玛丽 [ma3 li4] /(átirat) Mali; Marie; Mary; Mari; Mária/
@@ -36201,6 +36239,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-29T11:30:13Z Adam Stat-New >淋巴系統 és CC-CEDICT alapján
 淋巴 淋巴 [lin2 ba1] /nyirok (folyadék)/
 
+# ID-i25sU8e
+# Ver 2020-02-18T19:07:47Z gabor Stat-New >GushiFM E285\nCEDICT etc.
+虛無 虚无 [xu1 wu2] /semmi (fogalom)/
+
 # ID-i25Hg7v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 勾結 勾结 [gou1 jie2] /össze|játszik (vkivel)/
@@ -37510,7 +37552,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-i55BF4g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-公眾 公众 [gong1 zhong4] /nyilvános/
+# 公眾 公众 [gong1 zhong4] /nyilvános/
+# Ver 2020-02-18T19:04:24Z gabor Stat-Verif >kieg
+公眾 公众 [gong1 zhong4] /nyilvános/nyilvánosság/
 
 # ID-i55Da9w
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -44360,6 +44404,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-k12ve9d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 圈 圈 [quan1] /kör/gyűrű/hurok/körbe|vesz/be|karikáz/
+
+# ID-k12yC8T
+# Ver 2020-02-18T18:53:29Z gabor Stat-New >CEDICT, korpusz
+特性 特性 [te4 xing4] /jellemző; tulajdonság; jellegzetesség/
 
 # ID-k12Kf3P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -51790,6 +51838,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2018-01-03T13:16:58Z gabor Stat-Verif >.
 漢學 汉学 [han4 xue2] /sinológia (Kína-kutatás)/
 
+# ID-l77qE5Z
+# Ver 2020-02-18T19:03:43Z gabor Stat-New >GushiFM E285\nCEDICT etc.
+坐班 坐班 [zuo4 ban1] /irodai munkát végez/szolgálatban van/
+
 # ID-l77rD3z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 奧斯卡 奥斯卡 [ao4 si1 ka3] /(átirat) Oscar; Oszkár/(tulajdonnév) Oscar-díj/SZ:屆|届[jie4]/
@@ -57223,6 +57275,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 唱 唱 [chang4] /énekel/
 
+# ID-m97bx8R
+# Ver 2020-02-18T19:08:23Z gabor Stat-New >GushiFM E285\nCEDICT etc.
+多方 多方 [duo1 fang1] /sok szempontból/
+
 # ID-m97lo5p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 發作 发作 [fa1 zuo4] /ki|tör (pl. betegség, roham)/fel|lángol/
@@ -62167,6 +62223,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 注意力 注意力 [zhu4 yi4 li4] /figyelem/oda|figyelés/
 
+# ID-o14lp8M
+# Ver 2020-02-18T18:57:27Z gabor Stat-New >CEDICT, korpusz
+懷裡 怀里 [huai2 li3] /ölelés/karjaiban (vkinek)/
+
 # ID-o14lN4b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 醒來 醒来 [xing3 lai2] /fel|ébred/
@@ -64821,6 +64881,10 @@ XX XX [x x] /x/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 攜帶者 携带者 [xie2 dai4 zhe3] /hordozó (pl. kórokozóé, géné)/
 
+# ID-o77av1X
+# Ver 2020-02-18T18:54:05Z gabor Stat-New >CEDICT etc.
+機率 机率 [ji1 lü4] /esély; valószínűség/
+
 # ID-o77ho4e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 一律 一律 [yi1 lü4] /minden egyes/egységesen/
@@ -65615,6 +65679,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 刻意 刻意 [ke4 yi4] /alaposan/aprólékosan/nagy gonddal/
 
+# ID-o91Ns8R
+# Ver 2020-02-18T18:59:08Z gabor Stat-New >CEDICT
+驚醒 惊醒 [jing1 xing3] /fel|riad (álmából)/
+
 # ID-o91SF2r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 勃 勃 [bo2] /virágzó/prosperáló/
@@ -66377,6 +66445,10 @@ XX XX [x x] /x/
 # ID-p08qL8t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 量變 量变 [liang4 bian4] /mennyiségi változás/
+
+# ID-p08Cl3p
+# Ver 2020-02-18T18:58:32Z gabor Stat-New >CEDICT
+學科 学科 [xue2 ke1] /szakirány; tudományág/
 
 # ID-p08ED9y
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
