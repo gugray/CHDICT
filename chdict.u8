@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2020-02-19T03:00:01Z
+# Időbélyeg / Timestamp: 2020-02-24T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -3086,7 +3086,9 @@
 
 # ID-a69cF1K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-形象 形象 [xing2 xiang4] /kép/alak/SZ:個|个[ge4]/meg|jelenítés/
+# 形象 形象 [xing2 xiang4] /kép/alak/SZ:個|个[ge4]/meg|jelenítés/
+# Ver 2020-02-23T11:50:18Z GaoYanuo Stat-Verif >Tankönyv: "...描写十分形象。" Sajnos más forrásban nem találtam ilyen jelzői szerepben.\nA tankönyvben (HSH5 上) "adj. vivid" van megadva angol fordítás ként.
+形象 形象 [xing2 xiang4] /kép/alak/SZ:個|个[ge4]/meg|jelenítés/eleven, élethű (ábrázolás)/
 
 # ID-a69cO4e
 # Ver 2017-05-21T19:43:11Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
@@ -11153,6 +11155,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 匯率 汇率 [hui4 lü4] /át|váltási árfolyam/
 
+# ID-c55zJ4I
+# Ver 2020-02-23T11:42:27Z GaoYanuo Stat-New >tankönyv,\nhttps://www.xyzdict.com/en/chinese-english/%E7%83%9F%E4%B8%8D%E7%A6%BB%E6%89%8B?form_submit=1
+煙不離手 烟不离手 [yan1 bu4 li2 shou3] /(kifejezés) láncdohányos; nem esik ki a cigaretta a kezéből/
+
 # ID-c55Cd1Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 底下 底下 [di3 xia5] /alul/később/
@@ -11899,6 +11905,10 @@
 # ID-c71Ge4b
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 權勢 权势 [quan2 shi4] /hatalom és befolyás/
+
+# ID-c72hL7k
+# Ver 2020-02-23T10:49:47Z GaoYanuo Stat-New >tankönyv, korpusz, CC-CEDICT
+親自動手 亲自动手 [qin1 zi4 dong4 shou3] /saját kezűleg/
 
 # ID-c72kf5N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -53659,7 +53669,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-m20cn4I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-斜 斜 [xie2] /ferde/
+# 斜 斜 [xie2] /ferde/
+# Ver 2020-02-23T11:06:32Z GaoYanuo Stat-Verif >tankönyv és CC-CEDICT alapján bővítve.\n"...大门就在...胡同的斜对面。"
+斜 斜 [xie2] /ferde/rézsút (nem pontosan szemben)/dőlt/hajlik vmerre//
 
 # ID-m20sh0i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -55293,7 +55305,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 作為 作为 [zuo4 wei2] /tett/érdem/elér (valami említésre méltót)/tekint (valaminek)/
 # Ver 2017-05-23T21:19:12Z Adam Stat-Verif >rövidíteni szoktuk a vala- előtagú szavakat
-作為 作为 [zuo4 wei2] /tett/érdem/elér (vmi említésre méltót)/tekint (vminek)/
+# 作為 作为 [zuo4 wei2] /tett/érdem/elér (vmi említésre méltót)/tekint (vminek)/
+# Ver 2020-02-23T10:57:51Z GaoYanuo Stat-Verif >Példamondat tankönyvből:\n"作为大作家，大学问家，鲁讯对吃很讲究, 吃的内容在他的日记里占了很大一部分。"\nCC-CEDICT megerősíti. "as, to act as"
+作為 作为 [zuo4 wei2] /tett/érdem/elér (vmi említésre méltót)/tekint (vminek)/mint vmi; vmi ként/
 
 # ID-m55TM7Y
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -60882,6 +60896,10 @@ XX XX [x x] /x/
 # ID-n81OM7O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 可惡 可恶 [ke3 wu4] /utálatos/taszító/undorító/
+
+# ID-n81Rd9g
+# Ver 2020-02-23T11:28:26Z GaoYanuo Stat-New >tankönyv, \nhttps://www.xyzdict.com/en/chinese-english/%E6%97%A2%E6%9C%89%E9%81%93%E8%B7%AF
+既有 既有 [ji4 you3] /létezik /meglévő/vmi vmilyen volt, lesz/
 
 # ID-n81Sr4B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
