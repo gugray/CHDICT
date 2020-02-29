@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2020-02-24T03:00:01Z
+# Időbélyeg / Timestamp: 2020-02-29T03:00:02Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -3088,7 +3088,9 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 形象 形象 [xing2 xiang4] /kép/alak/SZ:個|个[ge4]/meg|jelenítés/
 # Ver 2020-02-23T11:50:18Z GaoYanuo Stat-Verif >Tankönyv: "...描写十分形象。" Sajnos más forrásban nem találtam ilyen jelzői szerepben.\nA tankönyvben (HSH5 上) "adj. vivid" van megadva angol fordítás ként.
-形象 形象 [xing2 xiang4] /kép/alak/SZ:個|个[ge4]/meg|jelenítés/eleven, élethű (ábrázolás)/
+# 形象 形象 [xing2 xiang4] /kép/alak/SZ:個|个[ge4]/meg|jelenítés/eleven, élethű (ábrázolás)/
+# Ver 2020-02-28T10:02:44Z gabor Stat-Verif >átrend; sztem a megjelenítés az inkább ábrázolás, és oda tartozik a kép mellé
+形象 形象 [xing2 xiang4] /kép; ábrázolás/alak/SZ:個|个[ge4]/eleven (ábrázolás)/
 
 # ID-a69cO4e
 # Ver 2017-05-21T19:43:11Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
@@ -5691,6 +5693,10 @@
 # ID-b26If8g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 創造力 创造力 [chuang4 zao4 li4] /találékonyság/kreativitás/teremtő|erő/
+
+# ID-b26Jw2m
+# Ver 2020-02-28T19:57:57Z GaoYanuo Stat-New >HSK5a tankönyv, CC-CEDICT, korpusz
+飛奔 飞奔 [fei1 ben1] /száguld; robog/suhan/vágtázik/
 
 # ID-b26Ss3g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -9843,6 +9849,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 遭受 遭受 [zao1 shou4] /szenved (veszteséget, kárt)/
 
+# ID-c26Gg0b
+# Ver 2020-02-28T19:54:38Z GaoYanuo Stat-New >HSK5a tankönyv, CC-CEDICT, korpusz
+適時 适时 [shi4 shi2] /jókor; épp a megfelelő időben/
+
 # ID-c26Pn3J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 感性 感性 [gan3 xing4] /érzékelés/érzékenység/érzékiség/
@@ -11157,7 +11167,11 @@
 
 # ID-c55zJ4I
 # Ver 2020-02-23T11:42:27Z GaoYanuo Stat-New >tankönyv,\nhttps://www.xyzdict.com/en/chinese-english/%E7%83%9F%E4%B8%8D%E7%A6%BB%E6%89%8B?form_submit=1
-煙不離手 烟不离手 [yan1 bu4 li2 shou3] /(kifejezés) láncdohányos; nem esik ki a cigaretta a kezéből/
+# 煙不離手 烟不离手 [yan1 bu4 li2 shou3] /(kifejezés) láncdohányos; nem esik ki a cigaretta a kezéből/
+# Ver 2020-02-28T10:08:23Z gabor Stat-New >elhat
+# 煙不離手 烟不离手 [yan1 bu4 li2 shou3] /(kifejezés) lánc|dohányos; nem esik ki a cigaretta a kezéből/
+# Ver 2020-02-28T10:08:39Z gabor Stat-Verif >.
+煙不離手 烟不离手 [yan1 bu4 li2 shou3] /(kifejezés) lánc|dohányos; nem esik ki a cigaretta a kezéből/
 
 # ID-c55Cd1Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -13633,6 +13647,10 @@
 # ID-d09wD9H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 一流 一流 [yi1 liu2] /első|rangú/kiváló/
+
+# ID-d09xq1k
+# Ver 2020-02-28T19:30:56Z GaoYanuo Stat-New >HSK5a tankönyv, \nhttps://www.xyzdict.com/en/chinese-english/%E6%92%9E%E6%96%AD?form_submit=1
+撞斷 撞断 [zhuang4 duan4] /kettészel; átvág/kettétör/szétszakít//
 
 # ID-d09yQ0X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -19492,6 +19510,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 小鬼 小鬼 [xiao3 gui3] /manó (kedveskedő kifejezés gyerekekre)/kisördög/
 
+# ID-e43uB2w
+# Ver 2020-02-28T19:14:42Z GaoYanuo Stat-New >HSK5a tankönyv, CC-CEDICT\n(Bakker,  zhuó dì-nek is ejtik CC-CEDICT és tanár szerint is)
+著地 着地 [zhao2 di4] /földet ér/éri a földet/
+
 # ID-e43yF3F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 回來 回来 [hui2 lai5] /vissza|tér/vissza|jön/
@@ -21588,7 +21610,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-e92kQ6j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-差距 差距 [cha1 ju4] /eltérés/egyenlőtlenség/
+# 差距 差距 [cha1 ju4] /eltérés/egyenlőtlenség/
+# Ver 2020-02-28T19:35:11Z GaoYanuo Stat-Verif >Kiegészítés HSK5 tankönyv és korpusz alapján. Az első jelentés mellé a szinonima csak a keresők miatt. Ha valaki a "különbség"-re keres rá, ez is a találatok közt legyen. A "Nincs sok különbség köztük." típusú mondatokban szívesen használják.
+差距 差距 [cha1 ju4] /eltérés; különbség/egyenlőtlenség/hézag; rés/
 
 # ID-e92qh4H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -34518,6 +34542,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 古老 古老 [gu3 lao3] /ősi/régi/
 
+# ID-h87vx4Q
+# Ver 2020-02-28T19:17:37Z GaoYanuo Stat-New >HSK5a tankönyv, CC-CEDICT
+各執一詞 各执一词 [ge4 zhi2 yi1 ci2] /(kifejezés) egyik fél sem enged az igazából/süketek párbeszéde/
+
 # ID-h87LC2u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 傳 传 [chuan2] /továbbít/tovább|ad/vezet (hőt, elektromosságot)/
@@ -36777,6 +36805,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-i36cK5E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 反面 反面 [fan3 mian4] /hát|oldal/fonákja (vminek)/negatív oldal/
+
+# ID-i36eO7f
+# Ver 2020-02-28T19:50:45Z GaoYanuo Stat-New >HSK5a tankönyv, CC-CEDICT, korpusz
+留心 留心 [liu2 xin1] /odafigyel/vigyáz; óvakodik/figyelemmel kísér/szem előtt tart/
 
 # ID-i36Ip0U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -48405,6 +48437,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 功能 功能 [gong1 neng2] /funkció/működés/képesség/
 
+# ID-l01ej4c
+# Ver 2020-02-28T19:44:19Z GaoYanuo Stat-New >HSK5a tankönyv, CC-CEDICT
+靜止 静止 [jing4 zhi3] /álló; mozdulatlan/állandó; statikus/
+
 # ID-l01gT0O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 脆 脆 [cui4] /törékeny/ropogós/
@@ -60011,6 +60047,10 @@ XX XX [x x] /x/
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 赤裸 赤裸 [chi4 luo3] /meztelen/pucér/
 
+# ID-n60pl6l
+# Ver 2020-02-28T19:23:25Z GaoYanuo Stat-New >HSK5a tankönyv, CC-CEDICT\nA tanár szlengnek tartja, a netes szótárakban nem találtam "slang" jelzést sehol...
+臉紅脖子粗 脸红脖子粗 [lian3 hong2 bo2 zi5 cu1] /"dagad a feje"; nagyon mérges/
+
 # ID-n60Hq0j
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 乳牛 乳牛 [ru3 niu2] /tejelő tehén/
@@ -65807,6 +65847,10 @@ XX XX [x x] /x/
 # ID-o94tR1u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 搜索 搜索 [sou1 suo3] /keres/át|kutat/rá|keres (interneten)/
+
+# ID-o94um3u
+# Ver 2020-02-28T19:38:02Z GaoYanuo Stat-New >HSK5a tankönyv, CC-CEDICT
+相鄰 相邻 [xiang1 lin2] /szomszédos; egymás melletti/határos (vmivel)//
 
 # ID-o94yz8Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
