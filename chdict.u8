@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2020-02-29T03:00:02Z
+# Időbélyeg / Timestamp: 2020-03-05T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -3925,6 +3925,10 @@
 # ID-a86GT0g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 西雅圖 西雅图 [xi1 ya3 tu2] /(földrajzi név) Seattle/
+
+# ID-a86Mp3t
+# Ver 2020-03-04T16:56:30Z GaoYanuo Stat-New >HSK5 tk, \nhttps://ja.ichacha.net/%E9%A2%98%E4%B8%BA.html
+題為 题为 [ti2 wei4] /cím; című/
 
 # ID-a86PP8R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -10028,6 +10032,10 @@
 # ID-c31Lk9D
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 社群 社群 [she4 qun2] /közösség/társaság/
+
+# ID-c31LH5O
+# Ver 2020-03-04T17:48:28Z GaoYanuo Stat-New >HSK 5 tk.\nhttps://www.91mitang.com/pages/19060082
+生物鬧鍾 生物闹钟 [sheng1 wu4 nao4 zhong1] /belső óra; biológiai óra/
 
 # ID-c31Pk9t
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -56527,6 +56535,10 @@ XX XX [x x] /x/
 # ID-m79EY0E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 泰 泰 [tai4] /biztonságos; békés/(földrajzi név) Thai|föld (泰國|泰国[tai4 guo2] rövidítése)/
+
+# ID-m79Hb3K
+# Ver 2020-03-04T17:32:53Z GaoYanuo Stat-New >TK. + CC-CEDICT
+耳環 耳环 [er3 huan2] /fülbevaló/
 
 # ID-m79Oe2f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
