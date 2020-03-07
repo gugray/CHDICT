@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2020-03-05T03:00:01Z
+# Időbélyeg / Timestamp: 2020-03-07T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -3090,6 +3090,8 @@
 # Ver 2020-02-23T11:50:18Z GaoYanuo Stat-Verif >Tankönyv: "...描写十分形象。" Sajnos más forrásban nem találtam ilyen jelzői szerepben.\nA tankönyvben (HSH5 上) "adj. vivid" van megadva angol fordítás ként.
 # 形象 形象 [xing2 xiang4] /kép/alak/SZ:個|个[ge4]/meg|jelenítés/eleven, élethű (ábrázolás)/
 # Ver 2020-02-28T10:02:44Z gabor Stat-Verif >átrend; sztem a megjelenítés az inkább ábrázolás, és oda tartozik a kép mellé
+# 形象 形象 [xing2 xiang4] /kép; ábrázolás/alak/SZ:個|个[ge4]/eleven (ábrázolás)/
+# Ver 2020-03-07T00:24:27Z GaoYanuo Stat-Verif >Egyetértek, de az "élethűt" nem vettem volna ki annak ellenére, hogy "vivid" nem egyenlő "élethű". Ugyanolyan ez, hogy az angolban "Drink, like a fish" magyarul "Iszik, mint a kefekötő", bár "Fish" nem egyenlő "kefekötő".
 形象 形象 [xing2 xiang4] /kép; ábrázolás/alak/SZ:個|个[ge4]/eleven (ábrázolás)/
 
 # ID-a69cO4e
@@ -27965,6 +27967,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 還原 还原 [huan2 yuan2] /eredeti állapotába vissza|állít/redukció (kémia)/
 
+# ID-g35uK7F
+# Ver 2020-03-06T23:27:34Z GaoYanuo Stat-New >Forrás Wechat, korpusz, képtalálatok
+口罩 口罩 [kou3 zhao4] /maszk (egészségügyi, munkavédelmi)/
+
 # ID-g35vh4W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 拋棄 抛弃 [pao1 qi4] /el|vet/el|utasít/el|hagy (vkit)/félre|dob/
@@ -41750,7 +41756,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-j50EY8Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-趕上 赶上 [gan3 shang4] /el|ér (időben odaér)/le|előz/bele|szalad (helyzetbe, véletlenül)/
+# 趕上 赶上 [gan3 shang4] /el|ér (időben odaér)/le|előz/bele|szalad (helyzetbe, véletlenül)/
+# Ver 2020-03-06T23:53:34Z GaoYanuo Stat-Verif >Az első jelentés Wechat poszt és Pleco alapján kiegészítve. Kicsit érdekes a kishavernőm mondata: "还能赶上北京今年的樱花吗这次我一定不会把手机掉潭里。" Ezt én úgy értelmeztem, hogy "Ugyan idén is időben kivirágzik Pekingben a Japán cseresznye? Mert akkor a telómat biztos nem ejtem depresszióba.":-)))\n4. jelentés Pleco alapján felvéve.
+趕上 赶上 [gan3 shang4] /el|ér (időben odaér); időben megtörténik vmi/le|előz/bele|szalad (helyzetbe, véletlenül)/lépést tart vkivel, vmivel/
 
 # ID-j50Ki3W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -47464,6 +47472,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-k80dG7J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 翻過 翻过 [fan1 guo4] /át|alakít/meg|változtat/át|lapoz/
+
+# ID-k80iI3r
+# Ver 2020-03-07T00:02:42Z GaoYanuo Stat-New >Wechat, magyar Wikipédia, CC_CEDICT, korpusz és Pleco által megerősítve.
+櫻花 樱花 [ying1 hua1] /Japán cseresznye (Prunus serrulata vagy Cerasus serrulata)/
 
 # ID-k80mm4S
 # Ver 2017-06-29T16:32:01Z gabor Stat-New >http://languagelog.ldc.upenn.edu/nll/?p=33446\nhttps://hu.wikipedia.org/wiki/Rilakkuma
@@ -60061,7 +60073,9 @@ XX XX [x x] /x/
 
 # ID-n60pl6l
 # Ver 2020-02-28T19:23:25Z GaoYanuo Stat-New >HSK5a tankönyv, CC-CEDICT\nA tanár szlengnek tartja, a netes szótárakban nem találtam "slang" jelzést sehol...
-臉紅脖子粗 脸红脖子粗 [lian3 hong2 bo2 zi5 cu1] /"dagad a feje"; nagyon mérges/
+# 臉紅脖子粗 脸红脖子粗 [lian3 hong2 bo2 zi5 cu1] /"dagad a feje"; nagyon mérges/
+# Ver 2020-03-07T00:09:17Z GaoYanuo Stat-New >címke pótolva
+臉紅脖子粗 脸红脖子粗 [lian3 hong2 bo2 zi5 cu1] /(kifejezés) "dagad a feje"; nagyon mérges/
 
 # ID-n60Hq0j
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -65862,6 +65876,8 @@ XX XX [x x] /x/
 
 # ID-o94um3u
 # Ver 2020-02-28T19:38:02Z GaoYanuo Stat-New >HSK5a tankönyv, CC-CEDICT
+# 相鄰 相邻 [xiang1 lin2] /szomszédos; egymás melletti/határos (vmivel)//
+# Ver 2020-03-07T00:05:14Z GaoYanuo Stat-New >A harmadik, üres bekezdést próbáltam kigyomlálni, de nem sikerült.
 相鄰 相邻 [xiang1 lin2] /szomszédos; egymás melletti/határos (vmivel)//
 
 # ID-o94yz8Z
