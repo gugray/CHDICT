@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2020-03-07T03:00:01Z
+# Időbélyeg / Timestamp: 2020-03-09T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -3092,6 +3092,7 @@
 # Ver 2020-02-28T10:02:44Z gabor Stat-Verif >átrend; sztem a megjelenítés az inkább ábrázolás, és oda tartozik a kép mellé
 # 形象 形象 [xing2 xiang4] /kép; ábrázolás/alak/SZ:個|个[ge4]/eleven (ábrázolás)/
 # Ver 2020-03-07T00:24:27Z GaoYanuo Stat-Verif >Egyetértek, de az "élethűt" nem vettem volna ki annak ellenére, hogy "vivid" nem egyenlő "élethű". Ugyanolyan ez, hogy az angolban "Drink, like a fish" magyarul "Iszik, mint a kefekötő", bár "Fish" nem egyenlő "kefekötő".
+# Ver 2020-03-08T17:00:56Z GaoYanuo Stat-Verif >Előző megjegyzés visszaszívva. "Szótárkészítés" sem egyenlő "szövegfordítás".\nElnézést mindenkitől a felesleges szómenésért.
 形象 形象 [xing2 xiang4] /kép; ábrázolás/alak/SZ:個|个[ge4]/eleven (ábrázolás)/
 
 # ID-a69cO4e
@@ -4734,6 +4735,10 @@
 # ID-b04ML7k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 嘈雜聲 嘈杂声 [cao2 za2 sheng1] /zaj; lárma; moraj/
+
+# ID-b04QM8R
+# Ver 2020-03-08T17:07:14Z GaoYanuo Stat-New >Wechat, CC-CEDICT
+潭 潭 [tan2] /tó, tócsa/medence/gödör/depresszió/
 
 # ID-b04XK2e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
