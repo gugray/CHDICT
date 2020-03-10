@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2020-03-09T03:00:01Z
+# Időbélyeg / Timestamp: 2020-03-10T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -1990,6 +1990,8 @@
 
 # ID-a43KF8A
 # Ver 2020-02-18T18:51:23Z gabor Stat-New >https://www.youtube.com/watch?v=CrO8MROMhpQ\nCEDICT
+# 瞧不起 瞧不起 [qiao2 bu4 qi3] /lenéz; megvet/
+# Ver 2020-03-09T09:05:22Z gabor Stat-Verif >.
 瞧不起 瞧不起 [qiao2 bu4 qi3] /lenéz; megvet/
 
 # ID-a44bN9d
@@ -11937,7 +11939,11 @@
 
 # ID-c72hL7k
 # Ver 2020-02-23T10:49:47Z GaoYanuo Stat-New >tankönyv, korpusz, CC-CEDICT
-親自動手 亲自动手 [qin1 zi4 dong4 shou3] /saját kezűleg/
+# 親自動手 亲自动手 [qin1 zi4 dong4 shou3] /saját kezűleg/
+# Ver 2020-03-09T09:12:43Z gabor Stat-New >pici átfog: benne van a munkavégzés maga is a 动手 révén
+# 親自動手 亲自动手 [qin1 zi4 dong4 shou3] /saját maga végzi el (vmilyen feladatot, munkát)/
+# Ver 2020-03-09T09:13:02Z gabor Stat-Verif >.
+親自動手 亲自动手 [qin1 zi4 dong4 shou3] /saját maga végzi el (vmilyen feladatot, munkát)/
 
 # ID-c72kf5N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -12515,6 +12521,8 @@
 
 # ID-c84wP6I
 # Ver 2020-02-18T18:59:46Z gabor Stat-New >CEDICT etc.
+# 房貸 房贷 [fang2 dai4] /jelzálog; lakás|hitel/
+# Ver 2020-03-09T09:09:32Z gabor Stat-Verif >.
 房貸 房贷 [fang2 dai4] /jelzálog; lakás|hitel/
 
 # ID-c84yw4r
@@ -17755,6 +17763,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e02JJ3s
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 強加 强加 [qiang2 jia1] /rá|erőltet/
+
+# ID-e02Ku0g
+# Ver 2020-03-09T17:54:33Z GaoYanuo Stat-New >https://www.hjenglish.com/new/p469017/
+無可辯駁 无可辩驳 [wu2 ke3 bian4 bo2] /vitathatatlan; kétségbe vonhatatlan/cáfolhatatlan//
 
 # ID-e02KE0Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -25809,6 +25821,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f87jE9N
 # Ver 2020-02-18T19:02:10Z gabor Stat-New >CEDICT etc.
+# 環島 环岛 [huan2 dao3] /körforgalon; járda|sziget/szigetet körbe|hajóz/
+# Ver 2020-03-09T09:09:43Z gabor Stat-Verif >.
 環島 环岛 [huan2 dao3] /körforgalon; járda|sziget/szigetet körbe|hajóz/
 
 # ID-f87mu9H
@@ -27147,6 +27161,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-g16aj5R
 # Ver 2020-02-18T18:55:26Z gabor Stat-New >https://www.youtube.com/watch?v=CrO8MROMhpQ\nCEDICT etc.
+# 新石器 新石器 [xin1 shi2 qi4] /új|kőkor; neolitikum/
+# Ver 2020-03-09T09:08:52Z gabor Stat-Verif >.
 新石器 新石器 [xin1 shi2 qi4] /új|kőkor; neolitikum/
 
 # ID-g16in7F
@@ -27179,10 +27195,14 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-g17bw3V
 # Ver 2020-02-18T18:52:30Z gabor Stat-New >CEDICT etc.
+# 文筆 文笔 [wen2 bi3] /stílus (írói)/írói véna/
+# Ver 2020-03-09T09:05:32Z gabor Stat-Verif >.
 文筆 文笔 [wen2 bi3] /stílus (írói)/írói véna/
 
 # ID-g17eZ0Q
 # Ver 2020-02-18T19:06:48Z gabor Stat-New >GushiFM E285\nCEDICT etc.
+# 玩家 玩家 [wan2 jia1] /játékos (játékban résztvevő ember)/
+# Ver 2020-03-09T09:10:25Z gabor Stat-Verif >.
 玩家 玩家 [wan2 jia1] /játékos (játékban résztvevő ember)/
 
 # ID-g17ns5A
@@ -28733,6 +28753,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-g51Nh1Q
 # Ver 2020-02-18T19:09:00Z gabor Stat-New >GushiFM E285\nCEDICT etc.
+# 飄盪 飘荡 [piao1 dang4] /bolyong; sodródik/
+# Ver 2020-03-09T09:10:50Z gabor Stat-Verif >.
 飄盪 飘荡 [piao1 dang4] /bolyong; sodródik/
 
 # ID-g51Zw2K
@@ -30485,6 +30507,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-g91fW5Z
 # Ver 2020-02-18T19:06:06Z gabor Stat-New >GushiFM E285\nCEDICT etc.
+# 周遊 周游 [zhou1 you2] /körbe|utaz; körutazást teszt/
+# Ver 2020-03-09T09:10:15Z gabor Stat-Verif >.
 周遊 周游 [zhou1 you2] /körbe|utaz; körutazást teszt/
 
 # ID-g91iM3H
@@ -33895,6 +33919,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-h72rz0n
 # Ver 2020-02-18T20:09:12Z gabor Stat-New >személyes közlés, CEDICT, MOEDICT
+# 迷思 迷思 [mi2 si1] /mítosz (fantasztikus, nem tudományos állítás, meggyőződés)/
+# Ver 2020-03-09T09:10:59Z gabor Stat-Verif >.
 迷思 迷思 [mi2 si1] /mítosz (fantasztikus, nem tudományos állítás, meggyőződés)/
 
 # ID-h72tB1r
@@ -36298,6 +36324,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-i25sU8e
 # Ver 2020-02-18T19:07:47Z gabor Stat-New >GushiFM E285\nCEDICT etc.
+# 虛無 虚无 [xu1 wu2] /semmi (fogalom)/
+# Ver 2020-03-09T09:10:34Z gabor Stat-Verif >.
 虛無 虚无 [xu1 wu2] /semmi (fogalom)/
 
 # ID-i25Hg7v
@@ -44470,6 +44498,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-k12yC8T
 # Ver 2020-02-18T18:53:29Z gabor Stat-New >CEDICT, korpusz
+# 特性 特性 [te4 xing4] /jellemző; tulajdonság; jellegzetesség/
+# Ver 2020-03-09T09:05:46Z gabor Stat-Verif >.
 特性 特性 [te4 xing4] /jellemző; tulajdonság; jellegzetesség/
 
 # ID-k12Kf3P
@@ -47437,6 +47467,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-k78Bu8T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 任用 任用 [ren4 yong4] /ki|nevez/
+
+# ID-k78Ku8C
+# Ver 2020-03-09T09:08:03Z gabor Stat-New >https://languagelog.ldc.upenn.edu/nll/?p=46321\nCEDICT
+打飛機 打飞机 [da3 fei1 ji1] /(szleng) maszturbál/
 
 # ID-k79fM9g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -51911,6 +51945,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-l77qE5Z
 # Ver 2020-02-18T19:03:43Z gabor Stat-New >GushiFM E285\nCEDICT etc.
+# 坐班 坐班 [zuo4 ban1] /irodai munkát végez/szolgálatban van/
+# Ver 2020-03-09T09:09:53Z gabor Stat-Verif >.
 坐班 坐班 [zuo4 ban1] /irodai munkát végez/szolgálatban van/
 
 # ID-l77rD3z
@@ -53732,7 +53768,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 斜 斜 [xie2] /ferde/
 # Ver 2020-02-23T11:06:32Z GaoYanuo Stat-Verif >tankönyv és CC-CEDICT alapján bővítve.\n"...大门就在...胡同的斜对面。"
-斜 斜 [xie2] /ferde/rézsút (nem pontosan szemben)/dőlt/hajlik vmerre//
+# 斜 斜 [xie2] /ferde/rézsút (nem pontosan szemben)/dőlt/hajlik vmerre//
+# Ver 2020-03-09T09:16:51Z gabor Stat-Verif >kicsit összevontam
+斜 斜 [xie2] /ferde; dőlt/hajlik; dől; dönt/rézsút (nem pontosan szemben)/
 
 # ID-m20sh0i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -55368,7 +55406,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-23T21:19:12Z Adam Stat-Verif >rövidíteni szoktuk a vala- előtagú szavakat
 # 作為 作为 [zuo4 wei2] /tett/érdem/elér (vmi említésre méltót)/tekint (vminek)/
 # Ver 2020-02-23T10:57:51Z GaoYanuo Stat-Verif >Példamondat tankönyvből:\n"作为大作家，大学问家，鲁讯对吃很讲究, 吃的内容在他的日记里占了很大一部分。"\nCC-CEDICT megerősíti. "as, to act as"
-作為 作为 [zuo4 wei2] /tett/érdem/elér (vmi említésre méltót)/tekint (vminek)/mint vmi; vmi ként/
+# 作為 作为 [zuo4 wei2] /tett/érdem/elér (vmi említésre méltót)/tekint (vminek)/mint vmi; vmi ként/
+# Ver 2020-03-09T09:15:31Z gabor Stat-Verif >én is pont nemrég találtam rá erre a jelentésére!
+作為 作为 [zuo4 wei2] /tett/érdem/elér (vmi említésre méltót)/tekint (vminek)/-ként; mint (vmi\vki)/
 
 # ID-m55TM7Y
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -57356,6 +57396,8 @@ XX XX [x x] /x/
 
 # ID-m97bx8R
 # Ver 2020-02-18T19:08:23Z gabor Stat-New >GushiFM E285\nCEDICT etc.
+# 多方 多方 [duo1 fang1] /sok szempontból/
+# Ver 2020-03-09T09:10:42Z gabor Stat-Verif >.
 多方 多方 [duo1 fang1] /sok szempontból/
 
 # ID-m97lo5p
@@ -60970,7 +61012,11 @@ XX XX [x x] /x/
 
 # ID-n81Rd9g
 # Ver 2020-02-23T11:28:26Z GaoYanuo Stat-New >tankönyv, \nhttps://www.xyzdict.com/en/chinese-english/%E6%97%A2%E6%9C%89%E9%81%93%E8%B7%AF
-既有 既有 [ji4 you3] /létezik /meglévő/vmi vmilyen volt, lesz/
+# 既有 既有 [ji4 you3] /létezik /meglévő/vmi vmilyen volt, lesz/
+# Ver 2020-03-09T09:18:36Z gabor Stat-New >sztem ez az egy összefoglalja pontosan
+# 既有 既有 [ji4 you3] /létező/
+# Ver 2020-03-09T09:18:39Z gabor Stat-Verif >.
+既有 既有 [ji4 you3] /létező/
 
 # ID-n81Sr4B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -62314,6 +62360,8 @@ XX XX [x x] /x/
 
 # ID-o14lp8M
 # Ver 2020-02-18T18:57:27Z gabor Stat-New >CEDICT, korpusz
+# 懷裡 怀里 [huai2 li3] /ölelés/karjaiban (vkinek)/
+# Ver 2020-03-09T09:09:01Z gabor Stat-Verif >.
 懷裡 怀里 [huai2 li3] /ölelés/karjaiban (vkinek)/
 
 # ID-o14lN4b
@@ -63959,6 +64007,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 禮尚往來 礼尚往来 [li3 shang4 wang3 lai2] /(kifejezés) az illem a kölcsönösségen alapul/
 
+# ID-o51wp5L
+# Ver 2020-03-09T17:59:10Z GaoYanuo Stat-New >CC-CEDICT,\nhttps://www.hjenglish.com/new/p469017/
+歷史學家 历史学家 [li4 shi3 xue2 jia1] /történetíró/történész; történelem tudós/
+
 # ID-o51wA5a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 可卡因 可卡因 [ke3 ka3 yin1] /kokain/
@@ -64972,6 +65024,8 @@ XX XX [x x] /x/
 
 # ID-o77av1X
 # Ver 2020-02-18T18:54:05Z gabor Stat-New >CEDICT etc.
+# 機率 机率 [ji1 lü4] /esély; valószínűség/
+# Ver 2020-03-09T09:08:40Z gabor Stat-Verif >.
 機率 机率 [ji1 lü4] /esély; valószínűség/
 
 # ID-o77ho4e
@@ -65770,6 +65824,8 @@ XX XX [x x] /x/
 
 # ID-o91Ns8R
 # Ver 2020-02-18T18:59:08Z gabor Stat-New >CEDICT
+# 驚醒 惊醒 [jing1 xing3] /fel|riad (álmából)/
+# Ver 2020-03-09T09:09:22Z gabor Stat-Verif >.
 驚醒 惊醒 [jing1 xing3] /fel|riad (álmából)/
 
 # ID-o91SF2r
@@ -66543,6 +66599,8 @@ XX XX [x x] /x/
 
 # ID-p08Cl3p
 # Ver 2020-02-18T18:58:32Z gabor Stat-New >CEDICT
+# 學科 学科 [xue2 ke1] /szakirány; tudományág/
+# Ver 2020-03-09T09:09:11Z gabor Stat-Verif >.
 學科 学科 [xue2 ke1] /szakirány; tudományág/
 
 # ID-p08ED9y
