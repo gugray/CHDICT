@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2020-03-10T03:00:01Z
+# Időbélyeg / Timestamp: 2020-03-12T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -6443,7 +6443,9 @@
 
 # ID-b44Tm6M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-充滿 充满 [chong1 man3] /teli van (vmivel)/át van itatva (vmivel)/
+# 充滿 充满 [chong1 man3] /teli van (vmivel)/át van itatva (vmivel)/
+# Ver 2020-03-11T18:09:18Z GaoYanuo Stat-Verif >Átvitt értelemben is használatos, pl. tele van hittel, lelkesedéssel, stb. \n"有两件事我最憎恶：没有信仰的博才多学和充满信仰的愚昧无知。"\nJó kis példamondat innen:\nhttps://m.mingyantong.com/album/3361659
+充滿 充满 [chong1 man3] /teli van (vmivel, átv is)/át van itatva (vmivel)/
 
 # ID-b44Us0K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -29073,6 +29075,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-g57Kq9T
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 日光浴 日光浴 [ri4 guang1 yu4] /nap|fürdő/
+
+# ID-g57ND9U
+# Ver 2020-03-11T18:14:52Z GaoYanuo Stat-New >https://m.mingyantong.com/album/3361659\n"打了半小时牌，仍然不知道谁是菜鸟，那么你就是。"
+菜鳥 菜鸟 [cai4 niao3] /(szleng) kezdő/újonc, "kopasz"/balek, "farok"/
 
 # ID-g57VJ3U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
