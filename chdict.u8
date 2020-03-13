@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2020-03-12T03:00:01Z
+# Időbélyeg / Timestamp: 2020-03-13T03:00:02Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -6445,7 +6445,9 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 充滿 充满 [chong1 man3] /teli van (vmivel)/át van itatva (vmivel)/
 # Ver 2020-03-11T18:09:18Z GaoYanuo Stat-Verif >Átvitt értelemben is használatos, pl. tele van hittel, lelkesedéssel, stb. \n"有两件事我最憎恶：没有信仰的博才多学和充满信仰的愚昧无知。"\nJó kis példamondat innen:\nhttps://m.mingyantong.com/album/3361659
-充滿 充满 [chong1 man3] /teli van (vmivel, átv is)/át van itatva (vmivel)/
+# 充滿 充满 [chong1 man3] /teli van (vmivel, átv is)/át van itatva (vmivel)/
+# Ver 2020-03-12T22:39:02Z gabor Stat-Verif >átfog
+充滿 充满 [chong1 man3] /teli van (vmivel; átvitten is)/át van itatva (vmivel)/
 
 # ID-b44Us0K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -17768,7 +17770,11 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-e02Ku0g
 # Ver 2020-03-09T17:54:33Z GaoYanuo Stat-New >https://www.hjenglish.com/new/p469017/
-無可辯駁 无可辩驳 [wu2 ke3 bian4 bo2] /vitathatatlan; kétségbe vonhatatlan/cáfolhatatlan//
+# 無可辯駁 无可辩驳 [wu2 ke3 bian4 bo2] /vitathatatlan; kétségbe vonhatatlan/cáfolhatatlan//
+# Ver 2020-03-12T22:43:49Z gabor Stat-New >.
+# 無可辯駁 无可辩驳 [wu2 ke3 bian4 bo2] /(kifejezés) vitathatatlan; cáfolhatatlan/
+# Ver 2020-03-12T22:43:52Z gabor Stat-Verif >.
+無可辯駁 无可辩驳 [wu2 ke3 bian4 bo2] /(kifejezés) vitathatatlan; cáfolhatatlan/
 
 # ID-e02KE0Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -29078,7 +29084,11 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-g57ND9U
 # Ver 2020-03-11T18:14:52Z GaoYanuo Stat-New >https://m.mingyantong.com/album/3361659\n"打了半小时牌，仍然不知道谁是菜鸟，那么你就是。"
-菜鳥 菜鸟 [cai4 niao3] /(szleng) kezdő/újonc, "kopasz"/balek, "farok"/
+# 菜鳥 菜鸟 [cai4 niao3] /(szleng) kezdő/újonc, "kopasz"/balek, "farok"/
+# Ver 2020-03-12T22:42:21Z gabor Stat-New >.
+# 菜鳥 菜鸟 [cai4 niao3] /(szleng) kezdő; újonc; zöldfülű/
+# Ver 2020-03-12T22:42:23Z gabor Stat-Verif >.
+菜鳥 菜鸟 [cai4 niao3] /(szleng) kezdő; újonc; zöldfülű/
 
 # ID-g57VJ3U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -43308,6 +43318,12 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-j86fy6h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 出神 出神 [chu1 shen2] /transz/révület/
+
+# ID-j86fI1m
+# Ver 2020-03-12T12:33:49Z gabor Stat-New >https://www.youtube.com/watch?v=aQwvp0Dm0hk\n孜然牛肉 只要四味调料 就能做出西安美味\nCEDICT, Wikipedia
+# 孜然 孜然 [zi1 ran2] /római kömény (Cuminum cyminum)/
+# Ver 2020-03-12T22:40:23Z gabor Stat-Verif >.
+孜然 孜然 [zi1 ran2] /római kömény (Cuminum cyminum)/
 
 # ID-j86hG1A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -64015,7 +64031,11 @@ XX XX [x x] /x/
 
 # ID-o51wp5L
 # Ver 2020-03-09T17:59:10Z GaoYanuo Stat-New >CC-CEDICT,\nhttps://www.hjenglish.com/new/p469017/
-歷史學家 历史学家 [li4 shi3 xue2 jia1] /történetíró/történész; történelem tudós/
+# 歷史學家 历史学家 [li4 shi3 xue2 jia1] /történetíró/történész; történelem tudós/
+# Ver 2020-03-12T22:39:44Z gabor Stat-New >ezek ugyanazok :)
+# 歷史學家 历史学家 [li4 shi3 xue2 jia1] /történetíró; történész/
+# Ver 2020-03-12T22:39:49Z gabor Stat-Verif >.
+歷史學家 历史学家 [li4 shi3 xue2 jia1] /történetíró; történész/
 
 # ID-o51wA5a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
