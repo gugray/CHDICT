@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2020-03-13T03:00:02Z
+# Időbélyeg / Timestamp: 2020-03-15T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -14000,6 +14000,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 賤貨 贱货 [jian4 huo4] /feslett nő/kurva/kacat; olcsó dolgok/
 
+# ID-d16At0J
+# Ver 2020-03-14T23:10:56Z GaoYanuo Stat-New >新导报 Új Szemle kínai nyelvű, Magyarországon megjelenő újság. Szokásos szótárak + korpusz.
+確診 确诊 [que4 zhen3] /kórismét állapít meg; diagnózis|t állít fel; diagnosztizál/
+
 # ID-d16ED3D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 市民 市民 [shi4 min2] /város|lakó/
@@ -14593,6 +14597,8 @@
 
 # ID-d31ox0z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
+# 華僑 华侨 [hua2 qiao2] /tengerentúli kínai (ember)/
+# Ver 2020-03-14T23:19:08Z GaoYanuo Stat-Verif >CC-CEDICT: (in a restricted sense) Chinese emigrant who still retains Chinese nationality\nKétnyelvű adománygyűjtő weboldal wechaten osztva (nem tudok linket másolni):\n 旅居匈牙利的华侨、华人同胞们 Kedves Magyarországon élő kínaiak, honfitársaim!
 華僑 华侨 [hua2 qiao2] /tengerentúli kínai (ember)/
 
 # ID-d31pG0j
@@ -18820,6 +18826,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e26oi6c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 霍 霍 [huo4] /hirtelen/(családnév) Huo/
+
+# ID-e26uI0Z
+# Ver 2020-03-14T23:57:21Z GaoYanuo Stat-New >http://www.eyeshenzhen.com/node_216464.htm
+薛定諤 薛定谔 [xue1 ding4 e4] /(tulajdonnév) Erwin Schrödinger osztrák fizikus/
 
 # ID-e26BC0R
 # Ver 2017-12-09T21:03:30Z gabor Stat-New >korpusz, CEDICT
@@ -28211,6 +28221,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 善意 善意 [shan4 yi4] /jó|szándék/jó|hiszem/
 
+# ID-g39LU7G
+# Ver 2020-03-15T00:06:20Z GaoYanuo Stat-New >http://www.eyeshenzhen.com/content/2020-03/03/content_22920216.htm
+逆行者 逆行者 [ni4 hang2 zhe3] /szemben úszik az árral (nem úgy viselkedik, mint a többség)/önfeláldozó/
+
 # ID-g39YN9P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 學期 学期 [xue2 qi1] /szemeszter/fél|év/
@@ -29852,6 +29866,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-g75os5i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 心愛 心爱 [xin1 ai4] /szeretett/
+
+# ID-g75pv6N
+# Ver 2020-03-14T23:01:03Z GaoYanuo Stat-New >http://www.eyeshenzhen.com/content/2020-02/05/content_22830250.htm
+新冠 新冠 [xin1 guan1] /koronavírus (a 新型冠状病毒 = új típusú koronavírus rövidítése)/
 
 # ID-g75rl6O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -62141,6 +62159,10 @@ XX XX [x x] /x/
 # ID-o08mg2t
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 叭 叭 [ba1] /(éles hangot leíró szó)/
+
+# ID-o08qK1P
+# Ver 2020-03-14T23:32:20Z GaoYanuo Stat-New >Új Szemle\nhttps://www.linguee.com/english-chinese/search?source=chinese&query=%E9%98%B2%E6%8E%A7%E6%8E%AA%E6%96%BD
+防控措施 防控措施 [fang2 kong4 cuo4 shi1] /megelőző intézkedés/
 
 # ID-o08sb4q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
