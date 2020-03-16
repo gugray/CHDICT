@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2020-03-15T03:00:01Z
+# Időbélyeg / Timestamp: 2020-03-16T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -28223,7 +28223,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-g39LU7G
 # Ver 2020-03-15T00:06:20Z GaoYanuo Stat-New >http://www.eyeshenzhen.com/content/2020-03/03/content_22920216.htm
-逆行者 逆行者 [ni4 hang2 zhe3] /szemben úszik az árral (nem úgy viselkedik, mint a többség)/önfeláldozó/
+# 逆行者 逆行者 [ni4 hang2 zhe3] /szemben úszik az árral (nem úgy viselkedik, mint a többség)/önfeláldozó/
+# Ver 2020-03-15T22:00:24Z GaoYanuo Stat-New >címke pótlás
+逆行者 逆行者 [ni4 hang2 zhe3] /(kifejezés) szemben úszik az árral (nem úgy viselkedik, mint a többség)/önfeláldozó/
 
 # ID-g39YN9P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -29869,7 +29871,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-g75pv6N
 # Ver 2020-03-14T23:01:03Z GaoYanuo Stat-New >http://www.eyeshenzhen.com/content/2020-02/05/content_22830250.htm
-新冠 新冠 [xin1 guan1] /koronavírus (a 新型冠状病毒 = új típusú koronavírus rövidítése)/
+# 新冠 新冠 [xin1 guan1] /koronavírus (a 新型冠状病毒 = új típusú koronavírus rövidítése)/
+# Ver 2020-03-15T22:02:17Z GaoYanuo Stat-New >pontosítás
+新冠 新冠 [xin1 guan1] /új típusú koronavírus (COVID19, a 新型冠状病毒 rövidítése)/
 
 # ID-g75rl6O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
