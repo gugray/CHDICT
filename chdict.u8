@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2020-03-19T03:00:01Z
+# Időbélyeg / Timestamp: 2020-03-21T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -1943,6 +1943,10 @@
 # ID-a42hU9a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 物美價廉 物美价廉 [wu4 mei3 jia4 lian2] /olcsó és jó/
+
+# ID-a42mU7C
+# Ver 2020-03-20T18:55:27Z gabor Stat-New >CEDICT; ha már van 博弈
+弈 弈 [yi4] /go (táblajáték régies neve)/
 
 # ID-a42uf7J
 # Ver 2018-04-23T11:13:08Z jojo-chan Stat-New >http://ce.linedict.com/dict.html#/cnen/entry/3c36d59577564a138d807b62fc1e4fff
@@ -14463,7 +14467,9 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 結束 结束 [jie2 shu4] /vég/vége van/befejez/
 # Ver 2017-12-22T22:48:36Z GaoYanuo Stat-Verif >egyértelműsíteni szerettem volna az igei használatot. Vége a botnak, útnak, stb. is van.
-結束 结束 [jie2 shu4] /vég/véget ér(színdarab, háború, stb.)/befejez/
+# 結束 结束 [jie2 shu4] /vég/véget ér(színdarab, háború, stb.)/befejez/
+# Ver 2020-03-20T18:51:07Z gabor Stat-Verif >vége van is helyes; szóköz hiányzott
+結束 结束 [jie2 shu4] /vége van; véget ér/befejez/vég/
 
 # ID-d27rS5L
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -45097,6 +45103,10 @@ X X [X] /X/
 # ID-k23Jw7x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 親眼 亲眼 [qin1 yan3] /saját szemével/személyesen/
+
+# ID-k23VD5O
+# Ver 2020-03-20T18:53:54Z gabor Stat-New >https://www.youtube.com/watch?v=CrO8MROMhpQ\nCEDICT
+博弈 博弈 [bo2 yi4] /játék; játszma/szerencse|játék/
 
 # ID-k24ce6E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
