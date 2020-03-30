@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2020-03-21T03:00:01Z
+# Időbélyeg / Timestamp: 2020-03-30T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -4287,6 +4287,10 @@
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 小牛 小牛 [xiao3 niu2] /borjú/
 
+# ID-a94NZ4v
+# Ver 2020-03-29T19:59:17Z GaoYanuo Stat-New >HSK3 tk. Szokásos szótárak
+同屋 同屋 [tong2 wu1] /szobatárs/
+
 # ID-a94Tl8B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 破爛 破烂 [po4 lan4] /hulladék/szemét/szakadt/rongyos/ütött-kopott/
@@ -6528,6 +6532,10 @@
 # ID-b47jL2m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 右邊 右边 [you4 bian5] /jobbra/jobb|oldalt/
+
+# ID-b47pz5Y
+# Ver 2020-03-29T19:16:39Z GaoYanuo Stat-New >szokásos szótárak
+取錢 取钱 [qu3 qian2] /pénzfelvétel; pénzkivétel/
 
 # ID-b47qR7b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -20467,6 +20475,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e62KI3o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 擋 挡 [dang3] /sebesség (autóban: első, második stb.)/el|hárít/ki|véd/akadályoz; gátol/útjába áll/
+
+# ID-e62Pc4k
+# Ver 2020-03-29T19:46:27Z GaoYanuo Stat-New >http://translation-dictionary.net/chinese-english/%E7%9C%9F%E5%BF%83%E8%AF%9D
+真心話 真心话 [zhen1 xin1 hua4] /igazság/megmondja az igazat/komolyan mondja/
 
 # ID-e62Pw7Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -36020,6 +36032,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 爆米花 爆米花 [bao4 mi3 hua1] /pattogatott kukorica/puffasztott rizs/
 
+# ID-i16wT7U
+# Ver 2020-03-29T20:00:31Z GaoYanuo Stat-New >HSK3 tk
+同桌 同桌 [tong2 zhuo1] /padtárs (iskolában)/
+
 # ID-i16CH9J
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 粘液 粘液 [nian2 ye4] /nyálka/
@@ -51099,6 +51115,10 @@ X X [X] /X/
 # ID-l54DF9j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 為何 为何 [wei4 he2] /miért/
+
+# ID-l54Ep2v
+# Ver 2020-03-29T19:43:59Z GaoYanuo Stat-New >https://www.quora.com/How-do-you-say-presentation-slide-in-Chinese-Ive-just-heard-people-say-ppt
+演示文稿 演示文稿 [yan3 shi4 wen2 gao3] /bemutató; prezentáció (powerpoint, v.  hasonló)/
 
 # ID-l54EH3R
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
