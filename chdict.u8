@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2020-03-30T02:00:01Z
+# Időbélyeg / Timestamp: 2020-03-31T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -12567,7 +12567,9 @@
 
 # ID-c85ef8U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-注意 注意 [zhu4 yi4] /oda|figyel (vmire)/figyelmet fordít/figyelem/
+# 注意 注意 [zhu4 yi4] /oda|figyel (vmire)/figyelmet fordít/figyelem/
+# Ver 2020-03-30T18:28:37Z GaoYanuo Stat-Verif >HSK3 tk, Pleco és CC-CEDICT alapján kiegészítve.
+注意 注意 [zhu4 yi4] /oda|figyel (vmire)/figyelmet fordít/figyelem/megjegyez; megjegyzést fűz vmihez/
 
 # ID-c85eQ0I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -59684,7 +59686,9 @@ XX XX [x x] /x/
 
 # ID-n47Rf9c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-恰當 恰当 [qia4 dang4] /meg|felelő/alkalmas/
+# 恰當 恰当 [qia4 dang4] /meg|felelő/alkalmas/
+# Ver 2020-03-30T18:38:29Z GaoYanuo Stat-Verif >Bartos-Hamar alapján kiegészítve.
+恰當 恰当 [qia4 dang4] /meg|felelő/alkalmas/oda|illő/
 
 # ID-n47Vq7X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -62459,7 +62463,11 @@ XX XX [x x] /x/
 
 # ID-o14ix7K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-注意力 注意力 [zhu4 yi4 li4] /figyelem/oda|figyelés/
+# 注意力 注意力 [zhu4 yi4 li4] /figyelem/oda|figyelés/
+# Ver 2020-03-30T18:24:42Z GaoYanuo Stat-Verif >HSK3 tk és CC-CEDICT alapján kiegészítve.
+# 注意力 注意力 [zhu4 yi4 li4] /figyelem/oda|figyelés/megjegyez; megjegyzést fűz vmihez/
+# Ver 2020-03-30T18:26:33Z GaoYanuo Stat-Verif >Melléklattyintottam.   Nem a "注意力"-t, hanem a "注意"-t akartam szerkeszteni. Bocsesz.
+注意力 注意力 [zhu4 yi4 li4] /figyelem/oda|figyelés//
 
 # ID-o14lp8M
 # Ver 2020-02-18T18:57:27Z gabor Stat-New >CEDICT, korpusz
