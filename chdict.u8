@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2020-04-01T02:00:01Z
+# Időbélyeg / Timestamp: 2020-04-06T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -3939,6 +3939,8 @@
 
 # ID-a86Mp3t
 # Ver 2020-03-04T16:56:30Z GaoYanuo Stat-New >HSK5 tk, \nhttps://ja.ichacha.net/%E9%A2%98%E4%B8%BA.html
+# 題為 题为 [ti2 wei4] /cím; című/
+# Ver 2020-04-05T17:52:01Z gabor Stat-Flagged >ezt én egyik szótárban sem találom, a lenti link sem erősíti meg... elírás?
 題為 题为 [ti2 wei4] /cím; című/
 
 # ID-a86PP8R
@@ -5723,7 +5725,11 @@
 
 # ID-b26Jw2m
 # Ver 2020-02-28T19:57:57Z GaoYanuo Stat-New >HSK5a tankönyv, CC-CEDICT, korpusz
-飛奔 飞奔 [fei1 ben1] /száguld; robog/suhan/vágtázik/
+# 飛奔 飞奔 [fei1 ben1] /száguld; robog/suhan/vágtázik/
+# Ver 2020-04-05T17:49:40Z gabor Stat-New >.
+# 飛奔 飞奔 [fei1 ben1] /száguld; rohan/
+# Ver 2020-04-05T17:49:45Z gabor Stat-Verif >.
+飛奔 飞奔 [fei1 ben1] /száguld; rohan/
 
 # ID-b26Ss3g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -9890,7 +9896,11 @@
 
 # ID-c26Gg0b
 # Ver 2020-02-28T19:54:38Z GaoYanuo Stat-New >HSK5a tankönyv, CC-CEDICT, korpusz
-適時 适时 [shi4 shi2] /jókor; épp a megfelelő időben/
+# 適時 适时 [shi4 shi2] /jókor; épp a megfelelő időben/
+# Ver 2020-04-05T17:48:14Z gabor Stat-New >.
+# 適時 适时 [shi4 shi2] /jókor; a megfelelő időben/
+# Ver 2020-04-05T17:48:20Z gabor Stat-Verif >.
+適時 适时 [shi4 shi2] /jókor; a megfelelő időben/
 
 # ID-c26Pn3J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -10070,7 +10080,12 @@
 
 # ID-c31LH5O
 # Ver 2020-03-04T17:48:28Z GaoYanuo Stat-New >HSK 5 tk.\nhttps://www.91mitang.com/pages/19060082
-生物鬧鍾 生物闹钟 [sheng1 wu4 nao4 zhong1] /belső óra; biológiai óra/
+# 生物鬧鍾 生物闹钟 [sheng1 wu4 nao4 zhong1] /belső óra; biológiai óra/
+# Ver 2020-04-05T17:54:18Z gabor Stat-New >.
+# 生物鬧鍾 生物闹钟 [sheng1 wu4 nao4 zhong1] /belső ébresztő|óra; biológiai óra/
+# Ver 2020-04-05T17:54:20Z gabor Stat-Verif >.
+# Ver 2020-04-05T17:54:51Z gabor Stat-Verif >bár nem vagyok biztos benne, hogy ez tényleg egy szó, nem csak a 生物 és a 闹钟 sorsszerű találkozás néhány szövegben...
+生物鬧鍾 生物闹钟 [sheng1 wu4 nao4 zhong1] /belső ébresztő|óra; biológiai óra/
 
 # ID-c31Pk9t
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -10264,6 +10279,12 @@
 # ID-c34Un6O
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 難以忍受 难以忍受 [nan2 yi3 ren3 shou4] /(kifejezés) elviselhetetlen/
+
+# ID-c34Vx0c
+# Ver 2020-04-05T17:37:10Z gabor Stat-New >alternatív kiejtés zhao2di4 mellett
+# 著地 着地 [zhuo2 di4] /földet ér; leér a földre/éri a földet/
+# Ver 2020-04-05T17:37:21Z gabor Stat-Verif >.
+著地 着地 [zhuo2 di4] /földet ér; leér a földre/éri a földet/
 
 # ID-c34XM4I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -13703,7 +13724,11 @@
 
 # ID-d09xq1k
 # Ver 2020-02-28T19:30:56Z GaoYanuo Stat-New >HSK5a tankönyv, \nhttps://www.xyzdict.com/en/chinese-english/%E6%92%9E%E6%96%AD?form_submit=1
-撞斷 撞断 [zhuang4 duan4] /kettészel; átvág/kettétör/szétszakít//
+# 撞斷 撞断 [zhuang4 duan4] /kettészel; átvág/kettétör/szétszakít//
+# Ver 2020-04-05T17:42:25Z gabor Stat-New >a linken sok zaj is van a példamondatok között, jellemző szótárak így egyben nem tüntetik fel. korpusz alapján, meg a részek összegéből, sztem ez szimplán "eltör(ik)".
+# 撞斷 撞断 [zhuang4 duan4] /el|tör/el|törik/
+# Ver 2020-04-05T17:42:28Z gabor Stat-Verif >.
+撞斷 撞断 [zhuang4 duan4] /el|tör/el|törik/
 
 # ID-d09yQ0X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -19596,7 +19621,11 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-e43uB2w
 # Ver 2020-02-28T19:14:42Z GaoYanuo Stat-New >HSK5a tankönyv, CC-CEDICT\n(Bakker,  zhuó dì-nek is ejtik CC-CEDICT és tanár szerint is)
-著地 着地 [zhao2 di4] /földet ér/éri a földet/
+# 著地 着地 [zhao2 di4] /földet ér/éri a földet/
+# Ver 2020-04-05T17:36:21Z gabor Stat-New >.
+# 著地 着地 [zhao2 di4] /földet ér; leér a földre/éri a földet/
+# Ver 2020-04-05T17:36:25Z gabor Stat-Verif >.
+著地 着地 [zhao2 di4] /földet ér; leér a földre/éri a földet/
 
 # ID-e43yF3F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -21704,7 +21733,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 差距 差距 [cha1 ju4] /eltérés/egyenlőtlenség/
 # Ver 2020-02-28T19:35:11Z GaoYanuo Stat-Verif >Kiegészítés HSK5 tankönyv és korpusz alapján. Az első jelentés mellé a szinonima csak a keresők miatt. Ha valaki a "különbség"-re keres rá, ez is a találatok közt legyen. A "Nincs sok különbség köztük." típusú mondatokban szívesen használják.
-差距 差距 [cha1 ju4] /eltérés; különbség/egyenlőtlenség/hézag; rés/
+# 差距 差距 [cha1 ju4] /eltérés; különbség/egyenlőtlenség/hézag; rés/
+# Ver 2020-04-05T17:44:29Z gabor Stat-Verif >kiveszem inkább a "hézag, rés"-t, mert nem konkrét értelemben jönnek elő (angol "gap"), hanem tk. az eltérés/különbség szinonimájaként.
+差距 差距 [cha1 ju4] /eltérés; különbség/egyenlőtlenség/
 
 # ID-e92qh4H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -28059,6 +28090,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-g35uK7F
 # Ver 2020-03-06T23:27:34Z GaoYanuo Stat-New >Forrás Wechat, korpusz, képtalálatok
+# 口罩 口罩 [kou3 zhao4] /maszk (egészségügyi, munkavédelmi)/
+# Ver 2020-04-05T17:55:55Z gabor Stat-Verif >.
 口罩 口罩 [kou3 zhao4] /maszk (egészségügyi, munkavédelmi)/
 
 # ID-g35vh4W
@@ -34682,7 +34715,11 @@ X X [X] /X/
 
 # ID-h87vx4Q
 # Ver 2020-02-28T19:17:37Z GaoYanuo Stat-New >HSK5a tankönyv, CC-CEDICT
-各執一詞 各执一词 [ge4 zhi2 yi1 ci2] /(kifejezés) egyik fél sem enged az igazából/süketek párbeszéde/
+# 各執一詞 各执一词 [ge4 zhi2 yi1 ci2] /(kifejezés) egyik fél sem enged az igazából/süketek párbeszéde/
+# Ver 2020-04-05T17:38:48Z gabor Stat-New >összevontam, h mindkét fordítás a "kifejezés" címke alatt legyen
+# 各執一詞 各执一词 [ge4 zhi2 yi1 ci2] /(kifejezés) egyik fél sem enged az igazából; süketek párbeszéde/
+# Ver 2020-04-05T17:38:50Z gabor Stat-Verif >.
+各執一詞 各执一词 [ge4 zhi2 yi1 ci2] /(kifejezés) egyik fél sem enged az igazából; süketek párbeszéde/
 
 # ID-h87LC2u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -36956,7 +36993,11 @@ X X [X] /X/
 
 # ID-i36eO7f
 # Ver 2020-02-28T19:50:45Z GaoYanuo Stat-New >HSK5a tankönyv, CC-CEDICT, korpusz
-留心 留心 [liu2 xin1] /odafigyel/vigyáz; óvakodik/figyelemmel kísér/szem előtt tart/
+# 留心 留心 [liu2 xin1] /odafigyel/vigyáz; óvakodik/figyelemmel kísér/szem előtt tart/
+# Ver 2020-04-05T17:47:37Z gabor Stat-New >ez a kettő elég jól lefedi
+# 留心 留心 [liu2 xin1] /oda|figyel/vigyáz/
+# Ver 2020-04-05T17:47:39Z gabor Stat-Verif >.
+留心 留心 [liu2 xin1] /oda|figyel/vigyáz/
 
 # ID-i36Ip0U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -41892,7 +41933,9 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 趕上 赶上 [gan3 shang4] /el|ér (időben odaér)/le|előz/bele|szalad (helyzetbe, véletlenül)/
 # Ver 2020-03-06T23:53:34Z GaoYanuo Stat-Verif >Az első jelentés Wechat poszt és Pleco alapján kiegészítve. Kicsit érdekes a kishavernőm mondata: "还能赶上北京今年的樱花吗这次我一定不会把手机掉潭里。" Ezt én úgy értelmeztem, hogy "Ugyan idén is időben kivirágzik Pekingben a Japán cseresznye? Mert akkor a telómat biztos nem ejtem depresszióba.":-)))\n4. jelentés Pleco alapján felvéve.
-趕上 赶上 [gan3 shang4] /el|ér (időben odaér); időben megtörténik vmi/le|előz/bele|szalad (helyzetbe, véletlenül)/lépést tart vkivel, vmivel/
+# 趕上 赶上 [gan3 shang4] /el|ér (időben odaér); időben megtörténik vmi/le|előz/bele|szalad (helyzetbe, véletlenül)/lépést tart vkivel, vmivel/
+# Ver 2020-04-05T17:58:50Z gabor Stat-Verif >sztem a példamondat is az, hogy "eléri, elcsípi" a virágzást, nem az, hogy a virágzás időben megtörténik... ill. így a végére nem jöhet a kiegészítés, mert akkor a zárójeles rész bekerül a jelentés gyomrába, ahová nem való.
+趕上 赶上 [gan3 shang4] /el|ér (időben odaér)/le|előz/bele|szalad (helyzetbe, véletlenül)/lépést tart vkivel, vmivel/
 
 # ID-j50Ki3W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -47629,7 +47672,11 @@ X X [X] /X/
 
 # ID-k80iI3r
 # Ver 2020-03-07T00:02:42Z GaoYanuo Stat-New >Wechat, magyar Wikipédia, CC_CEDICT, korpusz és Pleco által megerősítve.
-櫻花 樱花 [ying1 hua1] /Japán cseresznye (Prunus serrulata vagy Cerasus serrulata)/
+# 櫻花 樱花 [ying1 hua1] /Japán cseresznye (Prunus serrulata vagy Cerasus serrulata)/
+# Ver 2020-04-05T17:59:45Z gabor Stat-New >egybe
+# 櫻花 樱花 [ying1 hua1] /japán|cseresznye (Prunus serrulata, Cerasus serrulata)/
+# Ver 2020-04-05T17:59:50Z gabor Stat-Verif >.
+櫻花 樱花 [ying1 hua1] /japán|cseresznye (Prunus serrulata, Cerasus serrulata)/
 
 # ID-k80mm4S
 # Ver 2017-06-29T16:32:01Z gabor Stat-New >http://languagelog.ldc.upenn.edu/nll/?p=33446\nhttps://hu.wikipedia.org/wiki/Rilakkuma
@@ -47987,6 +48034,10 @@ X X [X] /X/
 # ID-k89xk5K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 醬 酱 [jiang4] /sűrű szósz/szója|szósz/szója|szószban marinált/
+
+# ID-k89xm3E
+# Ver 2020-04-05T20:39:48Z GaoYanuo Stat-New >céges dokumentum\nhttps://www.purpleculture.net/sample-sentences/?word=%E8%A7%86%E5%AF%9F
+視察 视察 [shi4 cha2] /szemügyre vesz/szemlét tart/ellenőriz (pl. szakfelügyelő iskolát)///
 
 # ID-k89zk7r
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -48613,7 +48664,11 @@ X X [X] /X/
 
 # ID-l01ej4c
 # Ver 2020-02-28T19:44:19Z GaoYanuo Stat-New >HSK5a tankönyv, CC-CEDICT
-靜止 静止 [jing4 zhi3] /álló; mozdulatlan/állandó; statikus/
+# 靜止 静止 [jing4 zhi3] /álló; mozdulatlan/állandó; statikus/
+# Ver 2020-04-05T17:46:09Z gabor Stat-New >.
+# 靜止 静止 [jing4 zhi3] /álló; mozdulatlan; statikus/
+# Ver 2020-04-05T17:46:31Z gabor Stat-Verif >.
+靜止 静止 [jing4 zhi3] /álló; mozdulatlan; statikus/
 
 # ID-l01gT0O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -56718,6 +56773,8 @@ XX XX [x x] /x/
 
 # ID-m79Hb3K
 # Ver 2020-03-04T17:32:53Z GaoYanuo Stat-New >TK. + CC-CEDICT
+# 耳環 耳环 [er3 huan2] /fülbevaló/
+# Ver 2020-04-05T17:52:33Z gabor Stat-Verif >.
 耳環 耳环 [er3 huan2] /fülbevaló/
 
 # ID-m79Oe2f
