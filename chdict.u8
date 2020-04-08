@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2020-04-06T02:00:01Z
+# Időbélyeg / Timestamp: 2020-04-08T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -3135,6 +3135,10 @@
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 凳 凳 [deng4] /pad/szék/zsámoly/
 
+# ID-a69MZ9N
+# Ver 2020-04-07T18:54:24Z gabor Stat-New >GushiFM 340. kalandos, alig találom szótárakban. 1db korpusz-találat van, illetve indirekt találat: Googel translate:\n我心里咯噔一下 > My heart thumped
+咯噔 咯噔 [ge1 deng1] /(hangutánzó) kattanás; koppanás; dobbanás/
+
 # ID-a69Pl9c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 無論如何 无论如何 [wu2 lun4 ru2 he2] /akárhogyan is/mindenképpen/mindazonáltal/
@@ -3941,6 +3945,7 @@
 # Ver 2020-03-04T16:56:30Z GaoYanuo Stat-New >HSK5 tk, \nhttps://ja.ichacha.net/%E9%A2%98%E4%B8%BA.html
 # 題為 题为 [ti2 wei4] /cím; című/
 # Ver 2020-04-05T17:52:01Z gabor Stat-Flagged >ezt én egyik szótárban sem találom, a lenti link sem erősíti meg... elírás?
+# Ver 2020-04-07T18:12:12Z GaoYanuo Stat-Flagged >Az úgy volt, hogy az egyik feladat szövegét nem értettem, pont azért, mert nem találtam a szótárban. Külön-külön a "题"-t és a "为"-t nem tudtam értelmezni. Megkérdeztem a tanarat és azt mondta, hogy ebben a szövegkörnyezetben "cím"-et jelent. Akarom mondani angolul mondta, hogy "title". Az a baj, hogy nem digitális formában van meg a szöveg, hanem papíron, babrás visszakeresni. (Mindenesetre megpróbálom megtalálni.) Ha egyik szótárban sincs meg, akkor biztos nem a kínai szótárkészítők  hibásak. A linken szereplő példamondatok is érdekesek, mert az egyiket "című"-nek lehet értelmezni, a másikat "témájú"-nak. \n她读了一首题为《苹果树》的诗 = She read a poem entitled the apple tree '. 她写了一篇题为《我的家庭》的文章。She wrote an essay on my family.\nAlaposabbnak kell lennem. Az idelinkelt oldalt nem lehet szótárnak tekinteni. Ezek szerint a tanárt se, bakker...
 題為 题为 [ti2 wei4] /cím; című/
 
 # ID-a86PP8R
@@ -10085,6 +10090,8 @@
 # 生物鬧鍾 生物闹钟 [sheng1 wu4 nao4 zhong1] /belső ébresztő|óra; biológiai óra/
 # Ver 2020-04-05T17:54:20Z gabor Stat-Verif >.
 # Ver 2020-04-05T17:54:51Z gabor Stat-Verif >bár nem vagyok biztos benne, hogy ez tényleg egy szó, nem csak a 生物 és a 闹钟 sorsszerű találkozás néhány szövegben...
+# Ver 2020-04-07T17:30:52Z GaoYanuo Stat-Verif >Már megint pontatlan voltam. A tanár szóban mondta így, a tankönyvi szószedetben: 科学名词: 1. 生物钟 = biological clock szerepel. Az idelinkelt weblapon ezt a 生物闹钟 rövidítése ként emlegetik.
+# Ver 2020-04-07T17:31:14Z GaoYanuo Stat-Verif >Ja, a link:\nhttps://www.91mitang.com/pages/19060082
 生物鬧鍾 生物闹钟 [sheng1 wu4 nao4 zhong1] /belső ébresztő|óra; biológiai óra/
 
 # ID-c31Pk9t
@@ -41935,6 +41942,8 @@ X X [X] /X/
 # Ver 2020-03-06T23:53:34Z GaoYanuo Stat-Verif >Az első jelentés Wechat poszt és Pleco alapján kiegészítve. Kicsit érdekes a kishavernőm mondata: "还能赶上北京今年的樱花吗这次我一定不会把手机掉潭里。" Ezt én úgy értelmeztem, hogy "Ugyan idén is időben kivirágzik Pekingben a Japán cseresznye? Mert akkor a telómat biztos nem ejtem depresszióba.":-)))\n4. jelentés Pleco alapján felvéve.
 # 趕上 赶上 [gan3 shang4] /el|ér (időben odaér); időben megtörténik vmi/le|előz/bele|szalad (helyzetbe, véletlenül)/lépést tart vkivel, vmivel/
 # Ver 2020-04-05T17:58:50Z gabor Stat-Verif >sztem a példamondat is az, hogy "eléri, elcsípi" a virágzást, nem az, hogy a virágzás időben megtörténik... ill. így a végére nem jöhet a kiegészítés, mert akkor a zárójeles rész bekerül a jelentés gyomrába, ahová nem való.
+# 趕上 赶上 [gan3 shang4] /el|ér (időben odaér)/le|előz/bele|szalad (helyzetbe, véletlenül)/lépést tart vkivel, vmivel/
+# Ver 2020-04-07T17:10:16Z GaoYanuo Stat-Verif >Valóban, mert nem pekingi a lyány...:-)
 趕上 赶上 [gan3 shang4] /el|ér (időben odaér)/le|előz/bele|szalad (helyzetbe, véletlenül)/lépést tart vkivel, vmivel/
 
 # ID-j50Ki3W
@@ -48037,7 +48046,11 @@ X X [X] /X/
 
 # ID-k89xm3E
 # Ver 2020-04-05T20:39:48Z GaoYanuo Stat-New >céges dokumentum\nhttps://www.purpleculture.net/sample-sentences/?word=%E8%A7%86%E5%AF%9F
-視察 视察 [shi4 cha2] /szemügyre vesz/szemlét tart/ellenőriz (pl. szakfelügyelő iskolát)///
+# 視察 视察 [shi4 cha2] /szemügyre vesz/szemlét tart/ellenőriz (pl. szakfelügyelő iskolát)///
+# Ver 2020-04-07T10:36:14Z gabor Stat-New >.
+# 視察 视察 [shi4 cha2] /szemügyre vesz; szemlét tart; fel|mér/meg|vizsgál; ellenőriz/
+# Ver 2020-04-07T10:36:17Z gabor Stat-Verif >.
+視察 视察 [shi4 cha2] /szemügyre vesz; szemlét tart; fel|mér/meg|vizsgál; ellenőriz/
 
 # ID-k89zk7r
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
