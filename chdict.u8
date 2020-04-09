@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2020-04-08T02:00:01Z
+# Időbélyeg / Timestamp: 2020-04-09T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -3946,7 +3946,10 @@
 # 題為 题为 [ti2 wei4] /cím; című/
 # Ver 2020-04-05T17:52:01Z gabor Stat-Flagged >ezt én egyik szótárban sem találom, a lenti link sem erősíti meg... elírás?
 # Ver 2020-04-07T18:12:12Z GaoYanuo Stat-Flagged >Az úgy volt, hogy az egyik feladat szövegét nem értettem, pont azért, mert nem találtam a szótárban. Külön-külön a "题"-t és a "为"-t nem tudtam értelmezni. Megkérdeztem a tanarat és azt mondta, hogy ebben a szövegkörnyezetben "cím"-et jelent. Akarom mondani angolul mondta, hogy "title". Az a baj, hogy nem digitális formában van meg a szöveg, hanem papíron, babrás visszakeresni. (Mindenesetre megpróbálom megtalálni.) Ha egyik szótárban sincs meg, akkor biztos nem a kínai szótárkészítők  hibásak. A linken szereplő példamondatok is érdekesek, mert az egyiket "című"-nek lehet értelmezni, a másikat "témájú"-nak. \n她读了一首题为《苹果树》的诗 = She read a poem entitled the apple tree '. 她写了一篇题为《我的家庭》的文章。She wrote an essay on my family.\nAlaposabbnak kell lennem. Az idelinkelt oldalt nem lehet szótárnak tekinteni. Ezek szerint a tanárt se, bakker...
-題為 题为 [ti2 wei4] /cím; című/
+# Ver 2020-04-08T08:39:38Z gabor Stat-Flagged >utánakerestem egy másfajta korpuszban (majd elmesélem, miről van szó - a www.taiwan-panorama.com cikkei és fordításaik) és tényleg, valóban, egy csomószor előjön pont úgy, ahogy te is írtad: 题为《某某某》的文章. nagyon ritkán nem időzjeles cím-féle, hanem a téma megnevezése. szóval én azt veszem ki belőle, amire módosítottam a jelentéseket :)
+# 題為 题为 [ti2 wei4] /című; témájú; tárgyú/
+# Ver 2020-04-08T08:40:16Z gabor Stat-Verif >.
+題為 题为 [ti2 wei4] /című; témájú; tárgyú/
 
 # ID-a86PP8R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
