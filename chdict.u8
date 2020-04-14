@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2020-04-09T02:00:01Z
+# Időbélyeg / Timestamp: 2020-04-14T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -3949,6 +3949,7 @@
 # Ver 2020-04-08T08:39:38Z gabor Stat-Flagged >utánakerestem egy másfajta korpuszban (majd elmesélem, miről van szó - a www.taiwan-panorama.com cikkei és fordításaik) és tényleg, valóban, egy csomószor előjön pont úgy, ahogy te is írtad: 题为《某某某》的文章. nagyon ritkán nem időzjeles cím-féle, hanem a téma megnevezése. szóval én azt veszem ki belőle, amire módosítottam a jelentéseket :)
 # 題為 题为 [ti2 wei4] /című; témájú; tárgyú/
 # Ver 2020-04-08T08:40:16Z gabor Stat-Verif >.
+# Ver 2020-04-13T04:38:13Z GaoYanuo Stat-Verif >Csak a rend kedvéért, teljesen véletlenül, lomtalanítás közben megtaláltam a papírt, amin a példamondat volt:-)) Íme:\n"著名的文学家， 语言学家刘半农1920年写了一首题为《教我如何不想她 》的小诗，流传至今。
 題為 题为 [ti2 wei4] /című; témájú; tárgyú/
 
 # ID-a86PP8R
@@ -55550,7 +55551,9 @@ X X [X] /X/
 
 # ID-m54It0V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-講究 讲究 [jiang3 jiu5] /különös figyelmet fordít (vmire)/ízléses/választékos/
+# 講究 讲究 [jiang3 jiu5] /különös figyelmet fordít (vmire)/ízléses/választékos/
+# Ver 2020-04-13T04:24:51Z GaoYanuo Stat-Verif >Tankönyvi (HSK5 A) példamondattal kínlódván a laoshi  felvilágosított, hogy ebben a szövegkörnyezetben főnév. Íme:\n"筷子是中餐最主要的讲餐用具，在使用上也有很多讲究。' Itt ugye a 有 alanya.\nellenőrizve itt:\nhttps://educalingo.com/en/dic-zh/jiang-jiu-3
+講究 讲究 [jiang3 jiu5] /különös figyelmet fordít (vmire)/ízléses/választékos/gondos/odafigyelés, műgond/
 
 # ID-m54VR1M
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
