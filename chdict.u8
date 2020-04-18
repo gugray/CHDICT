@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2020-04-15T02:00:01Z
+# Időbélyeg / Timestamp: 2020-04-18T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -3137,7 +3137,11 @@
 
 # ID-a69MZ9N
 # Ver 2020-04-07T18:54:24Z gabor Stat-New >GushiFM 340. kalandos, alig találom szótárakban. 1db korpusz-találat van, illetve indirekt találat: Googel translate:\n我心里咯噔一下 > My heart thumped
-咯噔 咯噔 [ge1 deng1] /(hangutánzó) kattanás; koppanás; dobbanás/
+# 咯噔 咯噔 [ge1 deng1] /(hangutánzó) kattanás; koppanás; dobbanás/
+# Ver 2020-04-17T11:54:12Z gabor Stat-New >pontosítás
+# 咯噔 咯噔 [ge1 deng1] /(hangutánzó) koppanás; dobbanás (mint amikor leesik vmi)/
+# Ver 2020-04-17T11:54:16Z gabor Stat-Verif >.
+咯噔 咯噔 [ge1 deng1] /(hangutánzó) koppanás; dobbanás (mint amikor leesik vmi)/
 
 # ID-a69Pl9c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -32770,6 +32774,8 @@ X X [X] /X/
 
 # ID-h41EP3U
 # Ver 2020-04-14T09:32:33Z GaoYanuo Stat-New >https://www.xyzdict.com/en/chinese-english/%E7%9D%A1%E8%BF%87%E4%BA%86%E5%A4%B4
+# 睡頭 睡头 [shui4 tou2] /elalszik (tovább alszik, mint kéne)/
+# Ver 2020-04-17T12:05:38Z gabor Stat-Flagged >törlendő\n\núgy tűnik, ez csak a 过-val együtt ér így ebben a formában :) a linkelt oldal 睡过了头, de az a 了 csak a befejezettséghez kell. nélküle már megvan a CEDICT-ben is.\n\n...sőt, a 睡过头 már megvan itt is, ez a szócikk így duplikátum :)
 睡頭 睡头 [shui4 tou2] /elalszik (tovább alszik, mint kéne)/
 
 # ID-h41Gf7R
@@ -55557,7 +55563,9 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 講究 讲究 [jiang3 jiu5] /különös figyelmet fordít (vmire)/ízléses/választékos/
 # Ver 2020-04-13T04:24:51Z GaoYanuo Stat-Verif >Tankönyvi (HSK5 A) példamondattal kínlódván a laoshi  felvilágosított, hogy ebben a szövegkörnyezetben főnév. Íme:\n"筷子是中餐最主要的讲餐用具，在使用上也有很多讲究。' Itt ugye a 有 alanya.\nellenőrizve itt:\nhttps://educalingo.com/en/dic-zh/jiang-jiu-3
-講究 讲究 [jiang3 jiu5] /különös figyelmet fordít (vmire)/ízléses/választékos/gondos/odafigyelés, műgond/
+# 講究 讲究 [jiang3 jiu5] /különös figyelmet fordít (vmire)/ízléses/választékos/gondos/odafigyelés, műgond/
+# Ver 2020-04-17T11:56:24Z gabor Stat-Verif >kozmetika
+講究 讲究 [jiang3 jiu5] /különös figyelmet fordít (vmire)/ízléses; választékos/gondos oda|figyelés; műgond/
 
 # ID-m54VR1M
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
