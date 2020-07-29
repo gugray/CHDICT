@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2020-06-19T02:00:02Z
+# Időbélyeg / Timestamp: 2020-07-29T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -42294,6 +42294,10 @@ X X [X] /X/
 # Ver 2019-10-12T15:08:27Z gabor Stat-Verif >mégis így
 姑蘭 姑兰 [gu1 lan2] /(tulajdonnév) Kalmár Éva (1938–)/
 
+# ID-j58kr9j
+# Ver 2020-07-28T13:06:51Z gabor Stat-New >CEDICT, korpusz; GushiFM E388
+截肢 截肢 [jie2 zhi1] /amputál; amputáció/
+
 # ID-j58mg7y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 嫌 嫌 [xian2] /nem szeret (vmit)/ellenére van/zavarja (vmi)/gyanú/
@@ -60995,6 +60999,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 武裝 武装 [wu3 zhuang1] /fegyver/fegyveres erők/fel|fegyverez/
 
+# ID-n75Ze8S
+# Ver 2020-07-28T13:08:03Z gabor Stat-New >CEDICT, korpusz, GushiFM E388
+肢 肢 [zhi1] /vég|tag/
+
 # ID-n76cV5f
 # Ver 2019-10-10T18:07:22Z gabor Stat-New >CEDICT; https://chinese.stackexchange.com/questions/35287/idiom-chengyu-meaning-%e5%b0%8f%e8%91%b1%e6%8b%8c%e8%b1%86%e8%85%90%e4%b8%80%e6%b8%85%e4%ba%8c%e7%99%bd
 # 一清二楚 一清二楚 [yi1 qing1 er4 chu3] /(kifejezés) teljesen tiszta; teljesen egyértelmű/
@@ -66985,6 +66993,10 @@ XX XX [x x] /x/
 # ID-p10Sz2N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 錄 录 [lu4] /rögzít/le|ír/fel|vesz/alkalmaz (embert, állásban)/(családnév) Lu/
+
+# ID-p10Wc2c
+# Ver 2020-07-28T13:33:59Z gabor Stat-New >CEDICT, korpusz, GushiFM E388
+尾隨 尾随 [wei3 sui2] /követ (vkit)/
 
 # ID-p10Xc2g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
