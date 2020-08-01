@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2020-07-29T02:00:01Z
+# Időbélyeg / Timestamp: 2020-08-01T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -42296,6 +42296,8 @@ X X [X] /X/
 
 # ID-j58kr9j
 # Ver 2020-07-28T13:06:51Z gabor Stat-New >CEDICT, korpusz; GushiFM E388
+# 截肢 截肢 [jie2 zhi1] /amputál; amputáció/
+# Ver 2020-07-31T14:11:19Z gabor Stat-Verif >.
 截肢 截肢 [jie2 zhi1] /amputál; amputáció/
 
 # ID-j58mg7y
@@ -45226,6 +45228,8 @@ X X [X] /X/
 
 # ID-k24aO5D
 # Ver 2020-06-18T16:03:26Z gabor Stat-New >https://www.youtube.com/watch?v=eg8kOIvI330\n小洋楼 ~ 小型西洋式楼房
+# 西洋 西洋 [xi1 yang2] /nyugat (mint fogalom: a nyugati világ)/
+# Ver 2020-07-31T14:11:07Z gabor Stat-Verif >.
 西洋 西洋 [xi1 yang2] /nyugat (mint fogalom: a nyugati világ)/
 
 # ID-k24ce6E
@@ -45780,7 +45784,9 @@ X X [X] /X/
 
 # ID-k34Xg3g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-搭訕 搭讪 [da1 shan4] /meg|szólít/beszélgetésbe kezd/
+# 搭訕 搭讪 [da1 shan4] /meg|szólít/beszélgetésbe kezd/
+# Ver 2020-07-31T14:10:52Z gabor Stat-Verif >GushiFM E388
+搭訕 搭讪 [da1 shan4] /meg|szólít; le|szólít/beszélgetésbe kezd/fel|szed (vkit)//
 
 # ID-k35bl6J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -52245,6 +52251,10 @@ X X [X] /X/
 # ID-l79mL7J
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 飛盤 飞盘 [fei1 pan2] /frizbi/
+
+# ID-l79om5d
+# Ver 2020-07-31T14:15:55Z gabor Stat-New >ha már van 丈夫 etc.
+丈 丈 [zhang4] /férj/földet mér/(idősebb férfi illedelmes megszólítása)/(hosszmérték, kb. 3,3 méter)/
 
 # ID-l79sZ4C
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -61001,6 +61011,8 @@ XX XX [x x] /x/
 
 # ID-n75Ze8S
 # Ver 2020-07-28T13:08:03Z gabor Stat-New >CEDICT, korpusz, GushiFM E388
+# 肢 肢 [zhi1] /vég|tag/
+# Ver 2020-07-31T14:11:27Z gabor Stat-Verif >.
 肢 肢 [zhi1] /vég|tag/
 
 # ID-n76cV5f
@@ -66996,7 +67008,11 @@ XX XX [x x] /x/
 
 # ID-p10Wc2c
 # Ver 2020-07-28T13:33:59Z gabor Stat-New >CEDICT, korpusz, GushiFM E388
-尾隨 尾随 [wei3 sui2] /követ (vkit)/
+# 尾隨 尾随 [wei3 sui2] /követ (vkit)/
+# Ver 2020-07-31T14:12:11Z gabor Stat-New >(hasonló metafora)
+# 尾隨 尾随 [wei3 sui2] /követ (vkit)/sarkában van/
+# Ver 2020-07-31T14:12:15Z gabor Stat-Verif >.
+尾隨 尾随 [wei3 sui2] /követ (vkit)/sarkában van/
 
 # ID-p10Xc2g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
