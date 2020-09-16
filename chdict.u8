@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2020-08-04T02:00:01Z
+# Időbélyeg / Timestamp: 2020-09-16T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -3512,6 +3512,10 @@
 # ID-a77df0D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 聯合國 联合国 [lian2 he2 guo2] /Egyesült Nemzetek Szervezete/ENSZ/
+
+# ID-a77eb7B
+# Ver 2020-09-15T16:12:14Z gabor Stat-New >Podcast
+子孫 子孙 [zi3 sun1] /gyerekek; utódok; leszármazottak/
 
 # ID-a77ee4g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -33570,6 +33574,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 節日 节日 [jie2 ri4] /ünnep/fesztivál/
 
+# ID-h61aG3k
+# Ver 2020-09-15T16:02:18Z gabor Stat-New >Podcast; CEDICT, korpusz
+神童 神童 [shen2 tong2] /csoda|gyerek/
+
 # ID-h61fg8Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 境地 境地 [jing4 di4] /körülmények/helyzet/
@@ -37331,6 +37339,10 @@ X X [X] /X/
 # ID-i45TI8y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 為什麼 为什么 [wei4 shen2 me5] /miért/mi okból/
+
+# ID-i45Zw3E
+# Ver 2020-09-15T16:15:33Z gabor Stat-New >Podcast
+命題 命题 [ming4 ti2] /állítás; kijelentés (pl. logikában)/
 
 # ID-i46gn2G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -42353,6 +42365,10 @@ X X [X] /X/
 # ID-j59tf5K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 通緝 通缉 [tong1 ji1] /köröz (bűnözőt)/
+
+# ID-j59Cd5s
+# Ver 2020-09-15T16:09:39Z gabor Stat-New >Podcast; 相投 nyomán
+臭味相投 臭味相投 [chou4 wei4 xiang1 tou2] /össze|illik; egy húron pendül/
 
 # ID-j59IO6B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -48044,6 +48060,10 @@ X X [X] /X/
 # Ver 2017-05-23T21:21:41Z Adam Stat-Verif >rövidíteni szoktuk a vala- előtagú szavakat
 為期 为期 [wei2 qi1] /-ig (egy adott időpontig)/-ig (egy adott időn át)/tart (vmennyi ideig)/idő|tartam/
 
+# ID-k88ow5M
+# Ver 2020-09-15T16:08:19Z gabor Stat-New >相投 nyomán
+興趣相投 兴趣相投 [xing4 qu4 xiang1 tou2] /hasonló érdeklődés/
+
 # ID-k88oY1n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 繼 继 [ji4] /folytatódik/folytat/sikerül/örököl/azután/
@@ -48762,6 +48782,10 @@ X X [X] /X/
 # ID-l02mN6U
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 製片 制片 [zhi4 pian4] /film|gyártás/producer/
+
+# ID-l02mR9c
+# Ver 2020-09-15T16:07:49Z gabor Stat-New >Podcast
+相投 相投 [xiang1 tou2] /össze|illő; hasonló; rokon/
 
 # ID-l02oe0U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -59020,6 +59044,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 心疼 心疼 [xin1 teng2] /sajnál (vkit)/meg|hatódott/bánatos/szerelmi bánat/
 
+# ID-n30Eh4W
+# Ver 2020-09-15T16:12:57Z gabor Stat-New >Podcast
+不孝 不孝 [bu4 xiao4] /nem szülő|tisztelő (gyerek)/
+
 # ID-n30Gm3M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 商量 商量 [shang1 liang5] /meg|vitat/át|beszél/konzultál/
@@ -59580,6 +59608,10 @@ XX XX [x x] /x/
 # ID-n42OZ0S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 以色列 以色列 [yi3 se4 lie4] /(földrajzi név) Izrael/
+
+# ID-n42SJ8D
+# Ver 2020-09-15T16:21:24Z gabor Stat-New >Podcast
+極致 极致 [ji2 zhi4] /csúcs; véglet/
 
 # ID-n42UF9G
 # Ver 2018-03-18T17:42:52Z jojo-chan Stat-New >http://ce.linedict.com/dict.html#/cnen/entry/d50c3efb5ae64ccb8a554dfdf177914a
@@ -65044,6 +65076,10 @@ XX XX [x x] /x/
 # ID-o70ez4a
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 立下 立下 [li4 xia4] /létre|hoz/meg|alapít/
+
+# ID-o70jG6e
+# Ver 2020-09-15T16:01:36Z gabor Stat-New >Podcast; CEDICT, ABC
+資質 资质 [zi1 zhi4] /adottságok; intelligencia; tehetség/
 
 # ID-o70mK2z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
