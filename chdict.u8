@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2020-09-16T02:00:01Z
+# Időbélyeg / Timestamp: 2020-09-19T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -12492,6 +12492,10 @@
 # ID-c82qp1i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 陰曆 阴历 [yin1 li4] /hold|naptár/
+
+# ID-c82rS2W
+# Ver 2020-09-18T18:42:41Z GaoYanuo Stat-New >tanár, szokásos szótárak
+囤積 囤积 [tun2 ji1] /felhalmoz; készletez/felvásárol (spekulációs célzattal); feketézik/
 
 # ID-c82ts2U
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -27258,7 +27262,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-g14YC4s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-肯定 肯定 [ken3 ding4] /biztosan/kétségkívül/mindenképpen/bizonyos/meg|erősít/jóvá|hagy/jóvá|hagyás/
+# 肯定 肯定 [ken3 ding4] /biztosan/kétségkívül/mindenképpen/bizonyos/meg|erősít/jóvá|hagy/jóvá|hagyás/
+# Ver 2020-09-18T17:46:46Z GaoYanuo Stat-Verif >Forrás: anyanyelvi tanár
+肯定 肯定 [ken3 ding4] /biztosan/kétségkívül/mindenképpen/bizonyos/meg|erősít/jóvá|hagy/jóvá|hagyás/igenlő; állító (nyelvtani ért. a 否定 ellentéte)/
 
 # ID-g15rj4c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -43219,6 +43225,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 電壓 电压 [dian4 ya1] /feszültség (elektromos)/
 
+# ID-j80Ns7n
+# Ver 2020-09-18T18:00:27Z GaoYanuo Stat-New >Tanár, szokásos szótárak, korpusz
+講臺 讲台 [jiang3 tai2] /emelvény; pódium/szószék; pulpitus/katedra/
+
 # ID-j80RL2O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 衣服 衣服 [yi1 fu5] /ruha/ruhadarab/SZ:件[jian4],套[tao4]/
@@ -47904,7 +47914,9 @@ X X [X] /X/
 
 # ID-k84oY4p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-搭配 搭配 [da1 pei4] /párosít/össze|állít/össze|válogat (megfelelő, egymáshoz illő dolgokat)/
+# 搭配 搭配 [da1 pei4] /párosít/össze|állít/össze|válogat (megfelelő, egymáshoz illő dolgokat)/
+# Ver 2020-09-18T18:27:53Z GaoYanuo Stat-Verif >Forrás: anyanyelvi tanár\nref.: https://www.xyzdict.com/en/chinese-english/%E6%90%AD%E9%85%8D?form_submit=1
+搭配 搭配 [da1 pei4] /párosít/össze|állít/össze|válogat (megfelelő, egymáshoz illő dolgokat)/össze|illik (pl. cipő a ruhához, nő férfihez, stb.)/
 
 # ID-k84yc3P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -61028,6 +61040,10 @@ XX XX [x x] /x/
 # ID-n74Uh1T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 理想 理想 [li3 xiang3] /ideál/ideális/álom (ú.m. tökéletes)/
+
+# ID-n74UF4h
+# Ver 2020-09-18T18:22:35Z GaoYanuo Stat-New >tanár, CC-CEDICT, Pleco
+包容 包容 [bao1 rong2] /tartalmaz; magában foglal; beleszámít/megbocsát/elfogadó; megértő/
 
 # ID-n75em7A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
