@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2020-09-26T02:00:01Z
+# Időbélyeg / Timestamp: 2020-10-02T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -19929,6 +19929,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e50nJ2j
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 里程表 里程表 [li3 cheng2 biao3] /kilométer|óra/
+
+# ID-e50sZ1H
+# Ver 2020-10-01T16:49:03Z gabor Stat-New >GushiFM E179
+芽 芽 [ya2] /csíra; hajtás; rügy/
 
 # ID-e50wm4d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -40322,6 +40326,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 抗生素 抗生素 [kang4 sheng1 su4] /antibiotikum/
 
+# ID-j12zT2Q
+# Ver 2020-10-01T16:07:58Z gabor Stat-New >GushiFM E179
+紅燒肉 红烧肉 [hong2 shao1 rou4] /vörös párolt sertéshús (jellegzetes kínai étel)/
+
 # ID-j12BJ7q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 高檔 高档 [gao1 dang4] /csúcs|minőségű/első|osztályú/prémium/
@@ -42535,6 +42543,10 @@ X X [X] /X/
 # ID-j63tP5g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 弄清 弄清 [nong4 qing1] /tisztáz/teljesen meg|ért/
+
+# ID-j63EB3C
+# Ver 2020-10-01T16:04:40Z gabor Stat-New >GushiFM E179
+飯菜 饭菜 [fan4 cai4] /étel/
 
 # ID-j63Gx1z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -46990,6 +47002,10 @@ X X [X] /X/
 # ID-k61Kz4p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 隱瞞 隐瞒 [yin3 man2] /el|titkol/el|rejt/el|fed/el|hallgat/
+
+# ID-k61LB1t
+# Ver 2020-10-01T16:17:43Z gabor Stat-New >GushiFM  E179
+水餃 水饺 [shui3 jiao3] /főtt húsos táska (jellegzetes kínai étel, holdújév előestéjén fogyasztják előszeretettel)/
 
 # ID-k61Me4j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -53363,6 +53379,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 強度 强度 [qiang2 du4] /erősség/intenzitás/
 
+# ID-m05xC1n
+# Ver 2020-10-01T15:43:28Z gabor Stat-New >ha már van 地域
+域 域 [yu4] /térség; terület (átvitten is)/
+
 # ID-m05BH9z
 # Ver 2018-02-22T09:08:14Z gabor Stat-New >http://languagelog.ldc.upenn.edu/nll/?p=36821\nkorpusz
 肉麻 肉麻 [rou4 ma2] /émelyítő; érzelgős; giccses/
@@ -56613,6 +56633,10 @@ XX XX [x x] /x/
 # ID-m74bc2N
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 厭食 厌食 [yan4 shi2] /anorexia; étvágytalanság/
+
+# ID-m74br5E
+# Ver 2020-10-01T15:39:37Z gabor Stat-New >GushiFM E179
+地域 地域 [di4 yu4] /terület; régió/
 
 # ID-m74fh0f
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
