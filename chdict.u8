@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2020-10-02T02:00:01Z
+# Időbélyeg / Timestamp: 2020-10-11T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -50109,6 +50109,10 @@ X X [X] /X/
 # ID-l29sQ8l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 互聯網 互联网 [hu4 lian2 wang3] /internet/
+
+# ID-l29tW1O
+# Ver 2020-10-10T19:19:58Z gabor Stat-New >GushiFM E179
+疲 疲 [pi2] /fáradt; kimerült/
 
 # ID-l29yU6J
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
