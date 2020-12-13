@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2020-10-21T02:00:01Z
+# Időbélyeg / Timestamp: 2020-12-13T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -12325,6 +12325,10 @@
 # Ver 2017-05-22T02:59:14Z Adam Stat-Verif >kereshetőség végett másik írásmód is; szorosabban összetartozó jelentések egy helyre
 廁所 厕所 [ce4 suo3] /WC; vécé (helyiség)/mosdó; toalett/SZ:間|间[jian1],處|处[chu4]/
 
+# ID-c78KU8j
+# Ver 2020-12-12T16:01:52Z GaoYanuo Stat-New >HSK4A tk, Bartos-Hamar, szokásos szótárak
+儘早 尽早 [jin3 zao3] /mielőbb (amilyen hamar csak lehetséges)/mielőtt nem késő/
+
 # ID-c78Na0e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 抽煙 抽烟 [chou1 yan1] /dohányzik/szív (cigarettát, dohányt)/
@@ -14614,6 +14618,10 @@
 # ID-d29df2T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 走運 走运 [zou3 yun4] /szerencsés/szerencséje van/
+
+# ID-d29jr8r
+# Ver 2020-12-12T15:55:49Z GaoYanuo Stat-New >HSK4A tk, Bartos-Hamar\nhttps://fanyi.baidu.com/?aldtype=85#zh/en/%E5%BC%95%E8%BF%9B
+引進 引进 [yin3 jin4] /be|ajánl, javasol vkit vhova/importál/bevisz, bevezet (új dolgot máshonnan)/
 
 # ID-d29th2L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -32247,7 +32255,9 @@ X X [X] /X/
 
 # ID-h27MR5P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-打針 打针 [da3 zhen1] /injekciót ad/injekciót kap/
+# 打針 打针 [da3 zhen1] /injekciót ad/injekciót kap/
+# Ver 2020-12-12T15:42:11Z GaoYanuo Stat-Verif >Az "injekció" keresésre nem adott erre a kifejezésre is találatot.
+打針 打针 [da3 zhen1] /injekció|t ad/injekció|t kap/
 
 # ID-h27NY8X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -45862,6 +45872,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 排名 排名 [pai2 ming2] /rang|sor/
 
+# ID-k35Ef5i
+# Ver 2020-12-12T15:35:00Z GaoYanuo Stat-New >HSK4A tk, korpusz, \nhttps://fanyi.baidu.com/?aldtype=85#zh/en/%E8%82%9A%E5%AD%90%E5%8F%AB
+肚子叫 肚子叫 [du3 zi5 jiao4] /korog a gyomra/
+
 # ID-k35Ji3k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 颶風 飓风 [ju4 feng1] /hurrikán/
@@ -52372,7 +52386,9 @@ X X [X] /X/
 
 # ID-l80nW9V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-思想 思想 [si1 xiang3] /gondolat/gondolkodás/ideológia/
+# 思想 思想 [si1 xiang3] /gondolat/gondolkodás/ideológia/
+# Ver 2020-12-12T16:04:32Z GaoYanuo Stat-Verif >Bartos-Hamar alapján kiegészítve
+思想 思想 [si1 xiang3] /gondolat/gondolkodás/ideológia/lelkileg, mentálisan/
 
 # ID-l80oR0n
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -61672,6 +61688,10 @@ XX XX [x x] /x/
 # ID-n89og4p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 槍支 枪支 [qiang1 zhi1] /fegyver/lő|fegyver/
+
+# ID-n89pb8P
+# Ver 2020-12-12T16:11:27Z GaoYanuo Stat-New >HSK4A tk, Bartos-Hamar, szokásos szótárak
+處所 处所 [chu4 suo3] /hely/
 
 # ID-n89pU6v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
