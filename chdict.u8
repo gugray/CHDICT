@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2020-12-13T03:00:01Z
+# Időbélyeg / Timestamp: 2021-01-07T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -21530,7 +21530,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-e86Nr2M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-原先 原先 [yuan2 xian1] /korábbi/eredeti/korábban/eredetileg/
+# 原先 原先 [yuan2 xian1] /korábbi/eredeti/korábban/eredetileg/
+# Ver 2021-01-06T07:43:03Z GaoYanuo Stat-Verif >Kiegészítve, hogy az "előző"-re való rákeresés ezt is kiadja eredményül. (Referencia: Bartos-Hamar)
+原先 原先 [yuan2 xian1] /korábbi, előző/eredeti/korábban/eredetileg/
 
 # ID-e86Oy9G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -26997,7 +26999,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-g09Jv3v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-答應 答应 [da1 ying5] /válaszol/meg|ígér/
+# 答應 答应 [da1 ying5] /válaszol/meg|ígér/
+# Ver 2021-01-06T07:39:55Z GaoYanuo Stat-Verif >Bartos-Hamar és CC-CEDICT alapján kiegészítve.
+答應 答应 [da1 ying5] /válaszol/meg|ígér/teljesíti az ígéretét/beleegyezik, egyetért/
 
 # ID-g09Pi1k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
