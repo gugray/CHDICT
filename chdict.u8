@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-01-07T03:00:01Z
+# Időbélyeg / Timestamp: 2021-01-12T03:00:02Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -17847,6 +17847,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 邁克 迈克 [mai4 ke4] /(átirat) Mike; Mihael; Miklós/
 
+# ID-e02rK3u
+# Ver 2021-01-11T18:04:56Z GaoYanuo Stat-New >HSK4A tk., Bartos-Hamar Pleco és CCEDICT megerősíti.
+複句 复句 [fu4 ju4] /(nyelvtan) összetett mondat/
+
 # ID-e02vZ9t
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 臭錢 臭钱 [chou4 qian2] /mocskos pénz/
@@ -30736,6 +30740,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 卡 卡 [qia3] /be|ékel/be|akad/össze|kapcsol (kapoccsal)/
 
+# ID-g91XV3q
+# Ver 2021-01-11T17:47:35Z GaoYanuo Stat-New >HSK4A tk., Bartos-Hamar, Pleco és CCEDICT megerősíti.
+插入語 插入语 [cha1 ru4 yu3] /közbevetett megjegyzés/közbeszólás/
+
 # ID-g92cG1q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 舞伴 舞伴 [wu3 ban4] /tánc|partner/
@@ -36145,6 +36153,12 @@ X X [X] /X/
 # 舉杯 举杯 [ju3 bei1] /emeli poharát/pohárköszöntőt mond/
 # Ver 2018-06-26T20:39:46Z gabor Stat-Verif >.
 舉杯 举杯 [ju3 bei1] /emeli poharát/pohárköszöntőt mond/
+
+# ID-i16uM4l
+# Ver 2021-01-11T17:17:09Z GaoYanuo Stat-New >HSK4A tk., szokásos szótárak megerősítik
+# 委婉 委婉 [wei3 wan3] /szelíd/tapintatos, diszkrét/diplomatikus/enyhítő, eufemisztikus/
+# Ver 2021-01-11T17:29:27Z GaoYanuo Stat-New >Szelíd viselkedés leírására nem alkalmas.
+委婉 委婉 [wei3 wan3] /szelíd (hangnem)/tapintatos, diszkrét/diplomatikus/enyhítő, eufemisztikus/
 
 # ID-i16wo5i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
