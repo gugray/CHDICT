@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-01-12T03:00:02Z
+# Időbélyeg / Timestamp: 2021-03-05T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -13181,7 +13181,9 @@
 
 # ID-c96vx1F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-東方 东方 [dong1 fang1] /kelet/
+# 東方 东方 [dong1 fang1] /kelet/
+# Ver 2021-03-04T19:54:22Z Adam Stat-Verif >"a keleti országok" jelentésben a Magyar helyesírási szótár (Akadémiai, Bp. 2017) alapján nagybetűs
+東方 东方 [dong1 fang1] /Kelet; keleti világ; keleti országok/
 
 # ID-c96zU2v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -45304,7 +45306,10 @@ X X [X] /X/
 # Ver 2020-06-18T16:03:26Z gabor Stat-New >https://www.youtube.com/watch?v=eg8kOIvI330\n小洋楼 ~ 小型西洋式楼房
 # 西洋 西洋 [xi1 yang2] /nyugat (mint fogalom: a nyugati világ)/
 # Ver 2020-07-31T14:11:07Z gabor Stat-Verif >.
-西洋 西洋 [xi1 yang2] /nyugat (mint fogalom: a nyugati világ)/
+# Ver 2021-03-04T19:50:21Z Adam Stat-Verif >"a nyugati országok" jelentésben a Magyar helyesírási szótár (Akadémiai, Bp. 2017) alapján nagybetűs
+# 西洋 西洋 [xi1 yang2] /Nyugat (mint fogalom: a nyugati világ)/
+# Ver 2021-03-04T19:57:44Z Adam Stat-Verif >a 西方 alatti definícióval konzisztens elrendezés
+西洋 西洋 [xi1 yang2] /Nyugat; nyugati világ; nyugati országok/
 
 # ID-k24ce6E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -54650,6 +54655,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 招標 招标 [zhao1 biao1] /kiír (pályázatot)/pályázat|kiírás/
 
+# ID-m31ua0M
+# Ver 2021-03-04T19:44:07Z Adam Stat-New >https://dict.leo.org/chinesisch-deutsch/%E8%AF%99 http://hskhsk.pythonanywhere.com/cidian?q=%E8%AF%99 https://en.wiktionary.org/wiki/%E8%A9%BC#Translingual https://www.szotar.net/kinai/%E8%AF%99/
+詼 诙 [hui1] /ugrat, tréfál, viccel/tréfás/
+
 # ID-m31Be1l
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 彼得羅維奇 彼得罗维奇 [bi3 de2 luo2 wei2 qi2] /(átirat) Petrovics/
@@ -57430,7 +57439,9 @@ XX XX [x x] /x/
 
 # ID-m90bF9t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-西方 西方 [xi1 fang1] /a nyugat/nyugati országok/
+# 西方 西方 [xi1 fang1] /a nyugat/nyugati országok/
+# Ver 2021-03-04T19:53:18Z Adam Stat-Verif >"a nyugati országok" jelentésben a Magyar helyesírási szótár (Akadémiai, Bp. 2017) alapján nagybetűs
+西方 西方 [xi1 fang1] /Nyugat; nyugati világ; nyugati országok/
 
 # ID-m90lG7R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
