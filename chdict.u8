@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-03-05T03:00:01Z
+# Időbélyeg / Timestamp: 2021-03-07T03:00:02Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -26479,6 +26479,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 貪污 贪污 [tan1 wu1] /korrupció; vesztegetés/korrupt; meg|vesztegethető/
 
+# ID-f98lu6L
+# Ver 2021-03-06T16:19:39Z gabor Stat-New >Loud Murmurs podcast S4E1\nkorpusz, képkeresés
+窨井蓋 窨井盖 [yin4 jing3 gai4] /csatorna|fedél/
+
 # ID-f98nC9e
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 不可告人 不可告人 [bu4 ke3 gao4 ren2] /féltett; titkos/
@@ -35042,6 +35046,10 @@ X X [X] /X/
 # ID-h92ri9r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 屍體 尸体 [shi1 ti3] /hulla/hult|test/tetem/SZ:具[ju4]/
+
+# ID-h92zl1v
+# Ver 2021-03-06T16:09:31Z gabor Stat-New >Forrás: Loud Murmurs podcast S4E1\nkorpusz, képkeresés
+井蓋 井盖 [jing3 gai4] /csatorna|fedél/
 
 # ID-h92Ce0C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
