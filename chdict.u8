@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-03-07T03:00:02Z
+# Időbélyeg / Timestamp: 2021-03-08T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -2853,6 +2853,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 可以 可以 [ke3 yi3] /lehet/tud/képes/nem rossz; el|megy/elég jó/
 
+# ID-a62WX3G
+# Ver 2021-03-07T11:59:37Z gabor Stat-New >loud murmurs podcast S4E1
+短評 短评 [duan3 ping2] /rövid hozzászólás (pl. online fórumon)/
+
 # ID-a63dj6g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 喬 乔 [qiao2] /magas/(családnév) Qiao/
@@ -4034,7 +4038,9 @@
 
 # ID-a88nX5M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-衡量 衡量 [heng2 liang2] /mérlegel/meg|fontol/
+# 衡量 衡量 [heng2 liang2] /mérlegel/meg|fontol/
+# Ver 2021-03-07T17:43:26Z gabor Stat-Verif >pontosítás
+衡量 衡量 [heng2 liang2] /le|mér; meg|mér/mérlegel; meg|fontol/
 
 # ID-a88rr5n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -14255,6 +14261,12 @@
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 排尿 排尿 [pai2 niao4] /vizel/
 
+# ID-d21ip7a
+# Ver 2021-03-07T13:40:54Z gabor Stat-New >https://en.wiktionary.org/wiki/%E6%9C%9D%E4%B9%9D%E6%99%9A%E4%BA%94
+# 朝九晚五 朝九晚五 [zhao1 jiu3 wan3 wu3] /9-től 5-ig; rendes munkaidő/
+# Ver 2021-03-07T13:42:00Z gabor Stat-New >címke
+朝九晚五 朝九晚五 [zhao1 jiu3 wan3 wu3] /(kifejezés) 9-től 5-ig; rendes munkaidő/
+
 # ID-d21jy8p
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 和平主義 和平主义 [he2 ping2 zhu3 yi4] /pacifizmus/
@@ -21796,6 +21808,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 干擾 干扰 [gan1 rao3] /zavar/be|avatkozik/interferencia/
 
+# ID-e92yP1W
+# Ver 2021-03-07T15:21:07Z gabor Stat-New >loud murmurs padcast S4E1
+獲獎感言 获奖感言 [huo4 jiang3 gan3 yan2] /díjelfogadó beszéd/
+
 # ID-e92FR8A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 出獄 出狱 [chu1 yu4] /szabadul (kiengedik a börtönből)/
@@ -22093,7 +22109,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-e99Ln5j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-延續 延续 [yan2 xu4] /folytatódik/ki|tart/
+# 延續 延续 [yan2 xu4] /folytatódik/ki|tart/
+# Ver 2021-03-07T17:28:20Z gabor Stat-Verif >kieg: 延续生命
+延續 延续 [yan2 xu4] /folytatódik/ki|tart/meg|hosszabbít (pl. életet)/
 
 # ID-e99Uv8j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -22248,6 +22266,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f03Rn1r
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 黑手黨 黑手党 [hei1 shou3 dang3] /maffia/
+
+# ID-f03Vb7N
+# Ver 2021-03-07T14:37:38Z gabor Stat-New >https://en.wiktionary.org/wiki/%E7%A9%8D%E5%88%86
+積分 积分 [ji1 fen1] /integrál/pontokat gyűjt/összegyűlt pontszám/
 
 # ID-f04dY8L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -24428,6 +24450,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f52Eq8s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 購 购 [gou4] /vásárol/
+
+# ID-f52ME2c
+# Ver 2021-03-07T15:17:39Z gabor Stat-New >https://en.wiktionary.org/wiki/%E5%BD%B1%E5%B0%84
+影射 影射 [ying3 she4] /céloz; utal (vmire)/
 
 # ID-f52Or5F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -29648,6 +29674,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 候車室 候车室 [hou4 che1 shi4] /váró|terem (állomáson, pályaudvaron)/
 
+# ID-g66rP3O
+# Ver 2021-03-07T15:12:16Z gabor Stat-New >https://en.wiktionary.org/wiki/%E8%AC%9B%E6%B3%95#Chinese
+講法 讲法 [jiang3 fa3] /kifejezés|mód; meg|fogalmazás/magyarázat; nézet; vélemény/
+
 # ID-g66GJ2Q
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 白蠟 白蜡 [bai2 la4] /kínai viasz (egyes rovarok váladékából készül)/
@@ -31043,6 +31073,10 @@ X X [X] /X/
 # ID-g98hm0W
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 富足 富足 [fu4 zu2] /bőséges; gazdag/
+
+# ID-g98hB8k
+# Ver 2021-03-07T12:06:44Z gabor Stat-New >szokásos szótárak
+瓣 瓣 [ban4] /szirom/gerezd/darab; töredék/lemez; billentyű/(számlálószó: a felsorolt értelmekben)//
 
 # ID-g98hP8d
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -33417,7 +33451,9 @@ X X [X] /X/
 
 # ID-h56kB2f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-偏離 偏离 [pian1 li2] /el|tér/le|tér/
+# 偏離 偏离 [pian1 li2] /el|tér/le|tér/
+# Ver 2021-03-07T17:48:39Z gabor Stat-Verif >pontosítás
+偏離 偏离 [pian1 li2] /el|tér (vmitől: pl. út, téma, norma, hit)/
 
 # ID-h56lf9l
 # Ver 2019-11-26T12:43:55Z gabor Stat-New >gushi fm; cedict
@@ -34270,6 +34306,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 出走 出走 [chu1 zou3] /el|megy otthonról/el|szökik/világgá megy/
 
+# ID-h75te8g
+# Ver 2021-03-07T12:29:16Z gabor Stat-New >https://en.wiktionary.org/wiki/%E6%9A%96%E5%BF%83
+暖心 暖心 [nuan3 xin1] /szívmelengető/
+
 # ID-h75uc0B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 針 针 [zhen1] /tű/injekció/SZ:根[gen1],支[zhi1]/
@@ -34526,7 +34566,9 @@ X X [X] /X/
 
 # ID-h80yW8I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-前 前 [qian2] /elöl/előre/első/előtt (térben is és időben is, pl. N évvel ezelőtt)/időszámításunk előtt/korábbi/korábban/
+# 前 前 [qian2] /elöl/előre/első/előtt (térben is és időben is, pl. N évvel ezelőtt)/időszámításunk előtt/korábbi/korábban/
+# Ver 2021-03-07T17:50:24Z gabor Stat-Verif >kieg
+前 前 [qian2] /elöl/előre/első/előtt (térben is és időben is, pl. N évvel ezelőtt)/időszámításunk előtt/korábbi; volt/korábban/
 
 # ID-h80zL8x
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -38909,6 +38951,10 @@ X X [X] /X/
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 複印件 复印件 [fu4 yin4 jian4] /fény|másolat/
 
+# ID-i78yp1K
+# Ver 2021-03-07T18:10:13Z gabor Stat-New >loud murmurs podcast S4E1\nhttps://en.wiktionary.org/wiki/%E8%BA%AB%E8%99%95#Chinese
+身處 身处 [shen1 chu3] /van; találja magát (vhol, vmilyen helyzetben)/
+
 # ID-i78FQ7s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 鴿房 鸽房 [ge1 fang2] /galamb|dúc/
@@ -40740,6 +40786,10 @@ X X [X] /X/
 # ID-j20Kf1M
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 代數 代数 [dai4 shu4] /algebra/
+
+# ID-j20Kg5B
+# Ver 2021-03-07T12:10:49Z gabor Stat-New >https://en.wikipedia.org/wiki/Pinduoduo
+拼多多 拼多多 [pin1 duo1 duo1] /(tulajdonnév) Pinduoduo (kínai online kereskedelmi platform, amelye elsősorban a mezőgazdasági termelőket köti össze a vásárlókkal)/
 
 # ID-j20Oj7T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -47474,6 +47524,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 思維 思维 [si1 wei2] /gondolkodás/gondolkodás|mód/
 
+# ID-k72nA3c
+# Ver 2021-03-07T17:12:55Z gabor Stat-New >korpusz; vö: 不同之处\nloud murmurs podcast S4E1
+相似之處 相似之处 [xiang1 si4 zhi1 chu4] /hasonlóság/
+
 # ID-k72nX9q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 屬於 属于 [shu3 yu2] /tartozik (vhová\vmihez)/része (vminek)/
@@ -50957,7 +51011,9 @@ X X [X] /X/
 
 # ID-l47qM3g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-所在 所在 [suo3 zai4] /hely/lak|hely/tartozik (vmilyen szervezethez stb.)/
+# 所在 所在 [suo3 zai4] /hely/lak|hely/tartozik (vmilyen szervezethez stb.)/
+# Ver 2021-03-07T16:55:58Z gabor Stat-Verif >pontosítás
+所在 所在 [suo3 zai4] /hely/lak|hely/tartozik (pl. vmilyen szervezethez)/hollét; mibenlét (pl. egy kérdés mibenléte)/
 
 # ID-l47rR3P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -52783,6 +52839,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 警告 警告 [jing3 gao4] /figyelmeztet/figyelmeztetés (fegyelmi)/
 
+# ID-l89dt5P
+# Ver 2021-03-07T13:56:11Z gabor Stat-New >CEDICT etc.
+每時每刻 每时每刻 [mei3 shi2 mei3 ke4] /(kifejezés) folyton; minden pillanatban/
+
 # ID-l89mi2L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 查 查 [zha1] /(családnév) Zha/
@@ -53591,6 +53651,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 被子 被子 [bei4 zi5] /paplan/SZ:床[chuang2]/
 
+# ID-m08dF5p
+# Ver 2021-03-07T15:21:51Z gabor Stat-New >loud murmurs podcast S4E1
+得獎感言 得奖感言 [de2 jiang3 gan3 yan2] /díj|elfogadó beszéd/
+
 # ID-m08gX9L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 光度 光度 [guang1 du4] /luminozitás (égitest fényessége, csillagászatban)/
@@ -53941,6 +54005,10 @@ X X [X] /X/
 # 地窖 地窖 [di4 jiao4] /pince/SZ:間|间[jian1]/
 # Ver 2019-10-20T17:07:57Z gabor Stat-Verif >.
 地窖 地窖 [di4 jiao4] /pince/SZ:間|间[jian1]/
+
+# ID-m16xB2r
+# Ver 2021-03-07T12:04:25Z gabor Stat-New >https://en.wikipedia.org/wiki/Douban
+豆瓣 豆瓣 [dou4 ban4] /Douban (kínai közösségi háló, elsősorban filmekkel, zenével és kulturális eseményekkel kapcsolatos tartalmak közzétérelére)/
 
 # ID-m16BQ9y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -58100,6 +58168,10 @@ XX XX [x x] /x/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 公升 公升 [gong1 sheng1] /liter/
 
+# ID-n04wJ5Y
+# Ver 2021-03-07T14:07:03Z gabor Stat-New >https://en.wiktionary.org/wiki/%E8%87%AA%E7%9F%A5
+自知 自知 [zi4 zhi1] /ismeri önmagát/tudja; tudatában van (vminek)/
+
 # ID-n04Ic6j
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 戰亂 战乱 [zhan4 luan4] /háborús káosz/
@@ -59163,6 +59235,10 @@ XX XX [x x] /x/
 # Ver 2019-11-09T17:22:33Z gabor Stat-Verif >.
 張嘴 张嘴 [zhang1 zui3] /ki|tátja száját/
 
+# ID-n30XI6c
+# Ver 2021-03-07T17:12:06Z gabor Stat-New >korpusz; vö: 相似之处\nloud murmurs podcast S4E1
+不同之處 不同之处 [bu4 tong2 zhi1 chu4] /különbség/
+
 # ID-n30XM0F
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 報章 报章 [bao4 zhang1] /újságok; a lapok/
@@ -59830,6 +59906,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 久等 久等 [jiu3 deng3] /hosszan vár/
 
+# ID-n45al0N
+# Ver 2021-03-07T17:31:09Z gabor Stat-New >loud murmurs podcast S4E1\nhttps://en.wiktionary.org/wiki/%E6%A5%B5%E9%80%9F#Chinese
+极速 极速 [ji2 su4] /extrém gyorsan/
+
 # ID-n45as8h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 景氣 景气 [jing3 qi4] /virágzik (gazdaság, cég stb.)/táj|kép/
@@ -60349,6 +60429,12 @@ XX XX [x x] /x/
 # ID-n55QV3a
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 偏執狂 偏执狂 [pian1 zhi2 kuang2] /paranoia/paranoiás (ember)/
+
+# ID-n55VD8O
+# Ver 2021-03-07T18:05:38Z gabor Stat-New >loud murmurs podcast S4E1\nszokásos szótárak
+# 執迷 执迷 [zhi2 mi2] /megszállott; rögeszmés/megszállottság; rögeszme/
+# Ver 2021-03-07T18:06:38Z gabor Stat-New >pontosítás
+執迷 执迷 [zhi2 mi2] /megszállott; rögeszmés; ragaszkodik (vmihez)/megszállottság; rögeszme/
 
 # ID-n55Ys4S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -61089,6 +61175,10 @@ XX XX [x x] /x/
 # ID-n74sB9w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 擱 搁 [ge2] /el|visel/ki|bír/
+
+# ID-n74sC9C
+# Ver 2021-03-07T15:23:08Z gabor Stat-New >CEDICT etc
+得獎 得奖 [de2 jiang3] /díjat nyer/
 
 # ID-n74Be7G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -63730,6 +63820,10 @@ XX XX [x x] /x/
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 胃繞道 胃绕道 [wei4 rao4 dao4] /gyomor-bypass (műtét)/
 
+# ID-o34zd5D
+# Ver 2021-03-07T11:58:37Z gabor Stat-New >ABC; sok többszótagos szó része
+評 评 [ping2] /kritizál; megjegyzést fűz (vmihez)/meg|ítél; értékel/
+
 # ID-o34DO8e
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 乘船 乘船 [cheng2 chuan2] /hajózik/hajóval utazik/ki|hajóz/
@@ -64414,6 +64508,10 @@ XX XX [x x] /x/
 # ID-o50Ut3t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 多少 多少 [duo1 shao3] /mennyi/hány/
+
+# ID-o50YD4D
+# Ver 2021-03-07T15:22:41Z gabor Stat-New >CEDICT etc
+獲獎 获奖 [huo4 jiang3] /díjat nyer/
 
 # ID-o51ch0R
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
