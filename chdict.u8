@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-03-08T03:00:01Z
+# Időbélyeg / Timestamp: 2021-03-20T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -1342,7 +1342,9 @@
 
 # ID-a29Ih4X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-小伙子 小伙子 [xiao3 huo3 zi5] /fiatal|ember/ifjonc/legény/SZ:個|个[ge4]/
+# 小伙子 小伙子 [xiao3 huo3 zi5] /fiatal|ember/ifjonc/legény/SZ:個|个[ge4]/
+# Ver 2021-03-19T22:02:32Z Adam Stat-Verif >ugyanazon fogalom szinonimái inkább egyazon jelentés alá, + még egy szinonima
+小伙子 小伙子 [xiao3 huo3 zi5] /fiatal|ember, fickó, ifjonc, legény/SZ:個|个[ge4]/
 
 # ID-a29Jh5f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -12586,6 +12588,10 @@
 # ID-c83WU8l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 老爹 老爹 [lao3 die1] /apa (nyelvjárási)/öreg|ember/
+
+# ID-c84cn5z
+# Ver 2021-03-19T17:52:54Z Adam Stat-New >Pleco-szótárak, itteni korpusz
+劇終 剧终 [ju4 zhong1] /vége (felirat)/
 
 # ID-c84cu6T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -27386,7 +27392,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2020-02-18T19:06:48Z gabor Stat-New >GushiFM E285\nCEDICT etc.
 # 玩家 玩家 [wan2 jia1] /játékos (játékban résztvevő ember)/
 # Ver 2020-03-09T09:10:25Z gabor Stat-Verif >.
-玩家 玩家 [wan2 jia1] /játékos (játékban résztvevő ember)/
+# Ver 2021-03-19T19:10:56Z Adam Stat-Verif >a "részt vevő" jelzőként különíródik; csak főnevesülve van egyben
+玩家 玩家 [wan2 jia1] /játékos (játékban részt vevő ember)/
 
 # ID-g17ns5A
 # Ver 2019-10-20T16:42:08Z gabor Stat-New >CEDICT; ha már van 地窖
@@ -29854,7 +29861,8 @@ X X [X] /X/
 # Ver 2019-11-09T17:07:40Z gabor Stat-New >CEDICT, forrásszöveg
 # 漱 漱 [shu4] /gargalizál; öblöget/
 # Ver 2019-11-09T17:26:24Z gabor Stat-Verif >.
-漱 漱 [shu4] /gargalizál; öblöget/
+# Ver 2021-03-19T20:25:27Z Adam Stat-Verif >https://helyesiras.szotar.org/ alapján a végén is r-rel
+漱 漱 [shu4] /gargarizál; öblöget/
 
 # ID-g71ve5H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -41516,6 +41524,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 自殺 自杀 [zi4 sha1] /ön|gyilkosságot követ el/meg|öli magát/
 
+# ID-j37Zh2p
+# Ver 2021-03-19T17:48:07Z Adam Stat-New >Wiktionary, Pleco-szótárak
+緩存 缓存 [huan3 cun2] /(számítástechnika) gyorsító|tár, cache/
+
 # ID-j38aA9A
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 花邊 花边 [hua1 bian1] /csipke/
@@ -48476,7 +48488,9 @@ X X [X] /X/
 
 # ID-k94jb0o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-可愛 可爱 [ke3 ai4] /csinos/helyes/szeretnivaló/
+# 可愛 可爱 [ke3 ai4] /csinos/helyes/szeretnivaló/
+# Ver 2021-03-19T14:13:16Z Adam Stat-Verif >a "való" származékai melléknévi szerepben, szó szerinti jelentésben különíródnak (Magyar helyesírási szótár, Akadémiai, 2017: "imádni való", "csiszolni való gyémánt", de "van még rajta csiszolnivaló"; "elvégezni való dolog", de "sok az elvégeznivalója" stb.) + pár gyakori szinonima hozzáadása
+可愛 可爱 [ke3 ai4] /szeretni való, aranyos, helyes, édes/csinos/
 
 # ID-k94lS1D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -50956,6 +50970,10 @@ X X [X] /X/
 # ID-l46rp6r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 窗戶 窗户 [chuang1 hu5] /ablak/SZ:扇[shan4]/
+
+# ID-l46wV8p
+# Ver 2021-03-19T18:53:53Z Adam Stat-New >Pleco-szótárak
+複合詞 复合词 [fu4 he2 ci2] /(nyelvészet) szó|összetétel, összetett szó/
 
 # ID-l46Ah2o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -60170,6 +60188,10 @@ XX XX [x x] /x/
 # ID-n50pS2b
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 視訊 视讯 [shi4 xun4] /video|hívás; kép|átvitel/
+
+# ID-n50tp7z
+# Ver 2021-03-19T17:41:27Z Adam Stat-New >Pleco: PLC (Pleco CE), CC-CEDICT, TCE (Tuttle), ABC (Chinese--English), NEC (New Century English--Chinese)
+短語 短语 [duan3 yu3] /(nyelvészet) kifejezés, szó|kapcsolat, szó|szerkezet/
 
 # ID-n50Eq5y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
