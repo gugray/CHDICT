@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-03-20T03:00:01Z
+# Időbélyeg / Timestamp: 2021-03-21T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -20410,7 +20410,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-e59KI4s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-小時 小时 [xiao3 shi2] /óra (időegység)/SZ:個|个[ge4]/
+# 小時 小时 [xiao3 shi2] /óra (időegység)/SZ:個|个[ge4]/
+# Ver 2021-03-20T17:50:20Z Adam Stat-Verif >az egyértelműség kedvéért, illetve összhangban a 钟头 szócikkében szereplő megjelöléssel
+小時 小时 [xiao3 shi2] /óra (időtartam)/SZ:個|个[ge4]/
 
 # ID-e59NN0W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -42772,6 +42774,10 @@ X X [X] /X/
 # ID-j66GJ4V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 戰士 战士 [zhan4 shi4] /katona/harcos/SZ:個|个[ge4]/
+
+# ID-j66Hk1C
+# Ver 2021-03-20T17:49:05Z Adam Stat-New >Bartos–Hamar, CC-DICT, Wiktionary (az „órakor” azért van külön kitéve, hogy jelezze, nem kell más elöljáróféle a kifejezéséhez, ill. hogy jobban szembeállítsa az időtartammal, amire más szavak vannak: 小时, 钟头)
+點鐘 点钟 [dian3 zhong1] /óra, órakor (időpont)/
 
 # ID-j66Jt4k
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
