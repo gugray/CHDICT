@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-03-21T03:00:01Z
+# Időbélyeg / Timestamp: 2021-03-23T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -4288,6 +4288,10 @@
 # Ver 2017-12-09T22:12:56Z gabor Stat-New >CEDICT, korpusz
 低語 低语 [di1 yu3] /suttog/
 
+# ID-a93WJ6O
+# Ver 2021-03-22T17:55:39Z Adam Stat-New >https://en.wikipedia.org/wiki/Zhangjiajie + https://en.wiktionary.org/wiki/%E5%BC%B5%E5%AE%B6%E7%95%8C
+張家界市 张家界市 [zhang1 jia1 jie4 shi4] /(földrajzi név) Csangcsiacsie; Zhangjiajie (világörökségi nemzeti parkjáról ismert város Hunan tartományban)/
+
 # ID-a93ZH4O
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 槍枝 枪枝 [qiang1 zhi1] /lő|fegyver/fegyverek/
@@ -5867,6 +5871,10 @@
 # ID-b29rx3E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 畢 毕 [bi4] /be|fejez/el|ér/el|végez/teljes egész/(családnév) Bi/
+
+# ID-b29wN3z
+# Ver 2021-03-22T18:09:46Z Adam Stat-New >Bartos–Hamar-nagyszótár, https://en.wiktionary.org/wiki/%E5%B3%AA#Chinese
+峪 峪 [yu4] /völgy; szurdok; hegy|szoros (földrajzi nevekben)/
 
 # ID-b29xT4B
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -13241,6 +13249,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 置于 置于 [zhi4 yu2] /tesz; helyez (vmit vhová)/van (vhol)/
 
+# ID-c97Aq0m
+# Ver 2021-03-22T16:20:19Z Adam Stat-New >Wiktionary, Wikipedia, Pleco-szótárak
+法輪功 法轮功 [fa3 lun2 gong1] /Falun Kung; Falun Gong; Falun Dafa (a KNK-ban betiltott eszmei irányzat és vallási közösség)/
+
 # ID-c97DH5J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 輕視 轻视 [qing1 shi4] /meg|vet/le|néz/le|kicsinyel/
@@ -14955,6 +14967,12 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-d36Sy6O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 片段 片段 [pian4 duan4] /töredék/kivonat (szövegből)/jelenet/
+
+# ID-d36Un9c
+# Ver 2021-03-22T17:41:35Z Adam Stat-New >Wikipedia, Wiktionary
+# 雲南 云南 [yun2 nan2] /Jünnan; Yunnan (dél-kínai tartomány)/
+# Ver 2021-03-22T17:43:01Z Adam Stat-New >"földrajzi név" beszúrása
+雲南 云南 [yun2 nan2] /(földrajzi név) Jünnan; Yunnan (dél-kínai tartomány)/
 
 # ID-d36Vq7y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -25011,6 +25029,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 犯法 犯法 [fan4 fa3] /törvényt szeg/törvényt sért/
 
+# ID-f63VR8w
+# Ver 2021-03-22T18:30:03Z Adam Stat-New >Bartos–Hamar-nagyszótár + https://en.wiktionary.org/wiki/%E4%BF%91#Chinese + http://hskhsk.pythonanywhere.com/cidian?q=%E4%BF%91
+俑 俑 [yong3] /halottal együtt eltemetett szobrocska, fa- vagy agyag|figura/
+
 # ID-f64gv5R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 沖 冲 [chong1] /forró vízzel le|önt/ki|öblít/elő|hív (fotót)/
@@ -30428,6 +30450,12 @@ X X [X] /X/
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 安生 安生 [an1 sheng1] /békés/csendes/nyugalmas/
 
+# ID-g85sm1L
+# Ver 2021-03-22T17:31:49Z Adam Stat-New >https://hu.wikipedia.org/wiki/Nyugati-t%C3%B3
+# 西湖 西湖 [xi1 hu2] /Nyugati-tó (Kína egyik leghíresebb tava Hangcsou városában, a világörökség része)/
+# Ver 2021-03-22T17:46:52Z Adam Stat-New >"földrajzi név" beszúrása elejére
+西湖 西湖 [xi1 hu2] /(földrajzi név) Nyugati-tó (Kína egyik leghíresebb tava Hangcsou városában, a világörökség része)/
+
 # ID-g85tv2o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 優勝劣汰 优胜劣汰 [you1 sheng4 lie4 tai4] /(kifejezés) a legalkalmasabbak fennmaradása; az erősebb nyer/
@@ -30885,6 +30913,10 @@ X X [X] /X/
 # 串 串 [chuan4] /össze|fűz; fel|fűz/össze|játszik; össze|esküszik/össze|kever (nem összetartozó dolgokat)/egyik helyről a másikra megy/karakter|lánc; string (számítástechnika)/szerepet játszik (színdarabban)/(számlálószó) sorozat; lánc; fürt; füzér/
 # Ver 2019-10-09T15:32:11Z gabor Stat-Verif >ok!
 串 串 [chuan4] /össze|fűz; fel|fűz/össze|játszik; össze|esküszik/össze|kever (nem összetartozó dolgokat)/egyik helyről a másikra megy/karakter|lánc; string (számítástechnika)/szerepet játszik (színdarabban)/(számlálószó) sorozat; lánc; fürt; füzér/
+
+# ID-g94uh4x
+# Ver 2021-03-22T16:02:06Z Adam Stat-New >Wiktionary, CC-CEDICT, HanDeDict
+正念 正念 [zheng4 nian4] /(buddhizmus, pszichológia) éber tudatosság; tudatos jelenlét; éber figyelem/
 
 # ID-g94uH0z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -34992,6 +35024,14 @@ X X [X] /X/
 # ID-h90tK1n
 # Ver 2017-12-09T21:19:55Z gabor Stat-New >ABC, korpusz
 造紙廠 造纸厂 [zao4 zhi3 chang3] /papír|gyár/
+
+# ID-h90AY8r
+# Ver 2021-03-22T18:00:39Z Adam Stat-New >https://en.wikipedia.org/wiki/Badaling https://en.wiktionary.org/wiki/%E5%85%AB%E9%81%94%E5%B6%BA
+# 八達嶺 八达岭 [ba1 da2 ling3] /(földrajzi név) Pataling; Badaling (a kínai nagy fal leglátogatottabb része Peking közelében)/
+# Ver 2021-03-22T18:01:37Z Adam Stat-New >+ világörökség
+# 八達嶺 八达岭 [ba1 da2 ling3] /(földrajzi név) Pataling; Badaling (a kínai nagy fal leglátogatottabb része Peking közelében, a világörökség része)/
+# Ver 2021-03-22T18:05:08Z Adam Stat-New >szóismétlés elkerülése
+八達嶺 八达岭 [ba1 da2 ling3] /(földrajzi név) Pataling; Badaling (a kínai nagy fal leglátogatottabb szakasza Peking közelében, a világörökség része)/
 
 # ID-h90DP2R
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -40573,6 +40613,10 @@ X X [X] /X/
 # Ver 2018-05-04T11:03:58Z gabor Stat-Verif >.
 扶梯 扶梯 [fu2 ti1] /lépcső (korlátos)/mozgó|lépcső/
 
+# ID-j16bq7Z
+# Ver 2021-03-22T16:26:37Z Adam Stat-New >Wiktionary, Wikipedia, CC-CEDICT
+法輪大法 法轮大法 [fa3 lun2 da4 fa3] /Falun Kung; Falun Gong; Falun Dafa (a KNK-ban betiltott eszmei irányzat és vallási közösség)/
+
 # ID-j16eD4S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 橡皮擦 橡皮擦 [xiang4 pi2 ca1] /radír|gumi/SZ:塊|块[kuai4]/
@@ -44635,6 +44679,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 鍥而不捨 锲而不舍 [qie4 er2 bu4 she3] /(kifejezés) kitart; lankadatlanul/
 
+# ID-k07xC2j
+# Ver 2021-03-22T16:32:02Z Adam Stat-New >Pleco-szótárak, Wiktionary, Bartos–Hamar-nagyszótár
+瑜伽 瑜伽 [yu2 jia1] /jóga/
+
 # ID-k07zh3Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 預防 预防 [yu4 fang2] /meg|előz/óv|intézkedéseket tesz (vmi ellen)/prevenció/
@@ -48029,6 +48077,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 俯身 俯身 [fu3 shen1] /le|hajol/előre|hajol/meg|hajol/
 
+# ID-k83EM4Q
+# Ver 2021-03-22T18:04:35Z Adam Stat-New >https://en.wikipedia.org/wiki/Mutianyu
+慕田峪 慕田峪 [mu4 tian2 yu4] /(földrajzi név) Mutienjü; Mutianyu (a kínai nagy fal egy szakasza Peking közelében, a világörökség része)/
+
 # ID-k83Lq7B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 奶酪 奶酪 [nai3 lao4] /sajt/SZ:塊|块[kuai4],盒[he2],片[pian4]/
@@ -49450,6 +49502,10 @@ X X [X] /X/
 # ID-l13Mc2r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 舉止 举止 [ju3 zhi3] /viselkedés/magatartás/
+
+# ID-l13Qx2s
+# Ver 2021-03-22T18:14:25Z Adam Stat-New >https://en.wiktionary.org/wiki/%E5%B6%BA#Chinese és Bartos–Hamar-nagyszótár
+嶺 岭 [ling3] /hegy|lánc; hegy|vonulat; hegység/hegy|hát; hegy|gerinc/
 
 # ID-l13QH5S
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -51528,6 +51584,10 @@ X X [X] /X/
 # ID-l56Wf6p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 折 折 [zhe2] /el|tör/hajlít/hajt (pl. papírlapot)/hátra|fordul/ár|engedmény; kedvezmény/át|vált; át|számol/
+
+# ID-l57bt9Q
+# Ver 2021-03-22T18:26:11Z Adam Stat-New >https://hu.wikipedia.org/wiki/Agyaghadsereg + Bartos–Hamar-nagyszótár + https://en.wiktionary.org/wiki/%E5%85%B5%E9%A6%AC%E4%BF%91#Chinese
+兵馬俑 兵马俑 [bing1 ma3 yong3] /agyag|hadsereg; cserép|hadsereg; agyag|katonák és agyag|lovak (az első kínai császár, Csin Si Huang-ti síremlékénél, a mai Hszian\Xi'an város közelében; a világörökség része)/
 
 # ID-l57gU0l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -58544,7 +58604,9 @@ XX XX [x x] /x/
 
 # ID-n14fU7N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-瑜 瑜 [yu2] /jade/jóga/
+# 瑜 瑜 [yu2] /jade/jóga/
+# Ver 2021-03-22T16:33:41Z Adam Stat-Verif >Magyar helyesírási szótár (Akadémiai, 2017)
+瑜 瑜 [yu2] /jáde/jóga/
 
 # ID-n14rb4P
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -61267,6 +61329,10 @@ XX XX [x x] /x/
 # ID-n75mQ0k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 武裝 武装 [wu3 zhuang1] /fegyver/fegyveres erők/fel|fegyverez/
+
+# ID-n75Qc6v
+# Ver 2021-03-22T17:40:15Z Adam Stat-New >Wikipedia, Wiktionary
+昆明市 昆明市 [kun1 ming2 shi4] /Kunming (a dél-kínai Jünnan tartomány székhelye)/
 
 # ID-n75Ze8S
 # Ver 2020-07-28T13:08:03Z gabor Stat-New >CEDICT, korpusz, GushiFM E388
