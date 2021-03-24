@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-03-23T03:00:01Z
+# Időbélyeg / Timestamp: 2021-03-24T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -1222,6 +1222,10 @@
 # Ver 2017-12-08T19:54:36Z GaoYanuo Stat-Verif >CC-CEDICT
 星星 星星 [xing1 xing5] /csillag (az égen)/
 
+# ID-a26YN9K
+# Ver 2021-03-23T13:40:43Z Adam Stat-New >Wikipedia, Wiktionary
+遼寧 辽宁 [liao2 ning2] /Liaoning (Kína egyik északkeleti tartománya, hivatalosan 省 utótaggal)/
+
 # ID-a26Zv0q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 提綱 提纲 [ti2 gang1] /vázlat; skicc/körvonal/
@@ -1706,7 +1710,9 @@
 
 # ID-a36WX2u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-名 名 [ming2] /név/kereszt|név/hírnév/főnév/híres/(számlálószó: személyekre)/
+# 名 名 [ming2] /név/kereszt|név/hírnév/főnév/híres/(számlálószó: személyekre)/
+# Ver 2021-03-23T11:30:09Z Adam Stat-Verif >+ szinonima
+名 名 [ming2] /név/kereszt|név; utó|név/hírnév/főnév/híres/(számlálószó: személyekre)/
 
 # ID-a37cT3R
 # Ver 2019-07-23T21:41:27Z GaoYanuo Stat-New >Forrás: Miskolci Konfuciusz Intétzet. A Zrínyi Ilona Gimnáziumot hívják az itteni kínaiak 兹瑞尼中学-nek.
@@ -11420,7 +11426,9 @@
 
 # ID-c58Hh7m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-姓 姓 [xing4] /család|név/vezeték|név/
+# 姓 姓 [xing4] /család|név/vezeték|név/
+# Ver 2021-03-23T11:29:05Z Adam Stat-Verif >azonos jelentés egyazon jelentés alá
+姓 姓 [xing4] /család|név; vezeték|név/
 
 # ID-c58HD0H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -13935,6 +13943,10 @@
 # 鏡子 镜子 [jing4 zi5] /tükör/szemüveg/SZ:面[mian4],個|个[ge4]/
 # Ver 2019-09-28T16:59:43Z gabor Stat-Verif >kutakodtam mindenfelé, én a lenti linken kívül nem találok arra mutató jelet, hogy szemüveg jelentésben is használnák
 鏡子 镜子 [jing4 zi5] /tükör/SZ:面[mian4],個|个[ge4]/
+
+# ID-d12Wk3E
+# Ver 2021-03-23T11:20:47Z Adam Stat-New >Wikipedia, Wiktionary
+重慶 重庆 [chong2 qing4] /(földrajzi név) Csungking; Chongqing (nagyváros Kína központi-délnyugati részén, a KNK négy tartományi jogú városának egyike; 1997-ig Szecsuan tartomány része)/
 
 # ID-d12Xw0T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -16673,6 +16685,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 設想 设想 [she4 xiang3] /el|képzel/feltételez/feltételes terv/tekintettel van (vkire)/
 
+# ID-d74aD3z
+# Ver 2021-03-23T13:54:18Z Adam Stat-New >Wiktionary
+語料庫 语料库 [yu3 liao4 ku4] /(nyelvészet) korpusz, szöveg|tár/
+
 # ID-d74le4t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 轉動 转动 [zhuan3 dong4] /meg|fordít/
@@ -19092,7 +19108,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-e29iA1R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-名字 名字 [ming2 zi5] /név (dologé vagy emberé)/kereszt|név/SZ:個|个[ge4]/
+# 名字 名字 [ming2 zi5] /név (dologé vagy emberé)/kereszt|név/SZ:個|个[ge4]/
+# Ver 2021-03-23T11:29:53Z Adam Stat-Verif >szinonima
+名字 名字 [ming2 zi5] /név (dologé vagy emberé)/kereszt|név; utó|név/SZ:個|个[ge4]/
 
 # ID-e29jq8y
 # Ver 2019-11-26T12:51:16Z gabor Stat-New >gushi fm; cedict, korpusz
@@ -19902,7 +19920,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-e48Cj2Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-北京 北京 [bei3 jing1] /(földrajzi név) Peking/
+# 北京 北京 [bei3 jing1] /(földrajzi név) Peking/
+# Ver 2021-03-23T11:25:28Z Adam Stat-Verif >tartományi jogú város említése
+北京 北京 [bei3 jing1] /(földrajzi név) Peking (a KNK fővárosa és négy tartományi jogú városának egyike)/
 
 # ID-e48HY1w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -22686,7 +22706,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f13hZ6p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-活生生 活生生 [huo2 sheng1 sheng1] /élő (igazi - emberekre)/elevenen (miközben még életben van)/
+# 活生生 活生生 [huo2 sheng1 sheng1] /élő (igazi - emberekre)/elevenen (miközben még életben van)/
+# Ver 2021-03-23T17:04:04Z Adam Stat-Verif >jelentések pontosítása, bővítése a Bartos–Hamar-nagyszótár alapján
+活生生 活生生 [huo2 sheng1 sheng1] /élő, eleven, valós, igazi (emberekre)/élve, elevenen (miközben még életben van)/
 
 # ID-f13qC6e
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -28673,6 +28695,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 經常 经常 [jing1 chang2] /gyakran/állandóan/nap mint nap/
 
+# ID-g45vn8d
+# Ver 2021-03-23T11:23:17Z Adam Stat-New >https://en.wiktionary.org/wiki/%E6%85%B6#Chinese + Bartos–Hamar-nagyszótár
+慶 庆 [qing4] /ünnepel; gratulál; köszönt/ünnep; ünneplés/
+
 # ID-g45xY8D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 健 健 [jian4] /egészséges/erős/meg|erősít (erőssé tesz)/jó (vmiben)/
@@ -30124,7 +30150,9 @@ X X [X] /X/
 
 # ID-g76Wu0k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-上海 上海 [shang4 hai3] /Sanghaj/
+# 上海 上海 [shang4 hai3] /Sanghaj/
+# Ver 2021-03-23T11:27:05Z Adam Stat-Verif >népesség és négy tartományi jogú város egyikének említése
+上海 上海 [shang4 hai3] /Sanghaj (a KNK legnépesebb városa, négy tartományi jogú városának egyike)/
 
 # ID-g77qr4c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -36048,7 +36076,9 @@ X X [X] /X/
 
 # ID-i12gk7x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-同樣 同样 [tong2 yang4] /ugyanaz/azonos/ekvivalens/
+# 同樣 同样 [tong2 yang4] /ugyanaz/azonos/ekvivalens/
+# Ver 2021-03-23T09:54:55Z Adam Stat-Verif >szinonimák egy jelentés alá
+同樣 同样 [tong2 yang4] /azonos; ugyanaz; egyező; megegyező/ekvivalens/
 
 # ID-i12iL4I
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -39065,7 +39095,9 @@ X X [X] /X/
 
 # ID-i79Qj6v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-汶川 汶川 [wen4 chuan1] /(földrajzi név) Wenchuan (megye Szecsuán tartományban; a 2008-as pusztító földrengés központja)/
+# 汶川 汶川 [wen4 chuan1] /(földrajzi név) Wenchuan (megye Szecsuán tartományban; a 2008-as pusztító földrengés központja)/
+# Ver 2021-03-23T13:48:28Z Adam Stat-Verif >"Szecsuan" Magyar helyesírási szótár (Akadémiai, 2017) alapján (is) rövid a-val, előtte magyaros átírás beszúrva (vö. https://atiro.toolforge.org/kinaiatiras.cgi )
+汶川 汶川 [wen4 chuan1] /(földrajzi név) Vencsuan; Wenchuan (megye Szecsuan tartományban; a 2008-as pusztító földrengés központja)/
 
 # ID-i80bE0n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -40699,7 +40731,9 @@ X X [X] /X/
 
 # ID-j17lm7i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-相同 相同 [xiang1 tong2] /azonos/azonosság/homo-/
+# 相同 相同 [xiang1 tong2] /azonos/azonosság/homo-/
+# Ver 2021-03-23T09:21:22Z Adam Stat-Verif >+ szinonimák
+相同 相同 [xiang1 tong2] /azonos; ugyanaz; egyező; megegyező/azonosság; egyezés/homo-/
 
 # ID-j17tU3t
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -47355,6 +47389,10 @@ X X [X] /X/
 # ID-k66Gl8I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 解決 解决 [jie3 jue2] /el|dönt (vitát)/meg|old/
+
+# ID-k66Io7V
+# Ver 2021-03-23T10:55:29Z Adam Stat-New >https://en.wiktionary.org/wiki/%E5%A4%A9%E6%B4%A5 + https://zh.wiktionary.org/wiki/%E5%A4%A9%E6%B4%A5 + https://hu.wikipedia.org/wiki/Tiencsin
+天津 天津 [tian1 jin1] /(földrajzi név) Tiencsin; Tianjin (tengerparti város Peking közelében, a KNK négy tartományi jogú városának egyike)/
 
 # ID-k67cC1P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -56771,7 +56809,9 @@ XX XX [x x] /x/
 
 # ID-m72Yn7f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-酒店 酒店 [jiu3 dian4] /szálloda/hotel/vendéglő/bor|kereskedés/
+# 酒店 酒店 [jiu3 dian4] /szálloda/hotel/vendéglő/bor|kereskedés/
+# Ver 2021-03-23T11:31:02Z Adam Stat-Verif >a szálloda és a hotel ugyanannak tűnik: egy jelentés alá téve
+酒店 酒店 [jiu3 dian4] /szálloda; hotel/vendéglő/bor|kereskedés/
 
 # ID-m72Zp7c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -61538,7 +61578,9 @@ XX XX [x x] /x/
 
 # ID-n80fY5G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-節省 节省 [jie2 sheng3] /spórol/takarékoskodik/takarékos/
+# 節省 节省 [jie2 sheng3] /spórol/takarékoskodik/takarékos/
+# Ver 2021-03-23T13:42:10Z Adam Stat-Verif >azonos jelentések együvé
+節省 节省 [jie2 sheng3] /spórol; takarékoskodik/takarékos/
 
 # ID-n80iD8L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
