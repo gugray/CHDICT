@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-03-25T03:00:01Z
+# Időbélyeg / Timestamp: 2021-03-26T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -4519,6 +4519,10 @@
 # ID-a98wR2C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 一向 一向 [yi1 xiang4] /mindig (a múltban)/
+
+# ID-a98Ot1f
+# Ver 2021-03-25T11:07:13Z Adam Stat-New >kínai Wikipedia-cikk címe és a benne végig használt terminus; a magyarításhoz l. turnstile alatt a szotar.net-en lévő angol--magyar szótárakban
+閘機 闸机 [zha2 ji1] /forgó|kereszt; forgó|korlát; forgó|sorompó; beléptető|kapu/
 
 # ID-a99hY5n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -17229,6 +17233,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-d84MY8S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 戰爭 战争 [zhan4 zheng1] /háború/SZ:場|场[chang2],次[ci4]/
+
+# ID-d85fQ3d
+# Ver 2021-03-25T10:50:28Z Adam Stat-New >Pleco-szótárak, Wikipedia, Wiktionary
+通風機 通风机 [tong1 feng1 ji1] /ventilátor; szellőztető|készülék/
 
 # ID-d85mW8i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -39155,6 +39163,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 薑汁 姜汁 [jiang1 zhi1] /gyömbér (ital)/gyömbér|sör/
 
+# ID-i78Mz3N
+# Ver 2021-03-25T10:47:28Z Adam Stat-New >Pleco-szótárak
+通風 通风 [tong1 feng1] /szellőztet; ventilál/szellőzés; szellőztetés; ventiláció/szellős/kiszivárogtat (információt)/
+
 # ID-i78Pb9Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 一邊 一边 [yi1 bian1] /egyik oldal/egyrészt/másrészt/ugyanakkor/egyszerre/
@@ -45775,7 +45787,11 @@ X X [X] /X/
 
 # ID-k26XA1h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-滅絕 灭绝 [mie4 jue2] /ki|hal/ki|pusztít/
+# 滅絕 灭绝 [mie4 jue2] /ki|hal/ki|pusztít/
+# Ver 2021-03-25T15:04:17Z Adam Stat-Verif >+ szinonima
+# 滅絕 灭绝 [mie4 jue2] /ki|hal/ki|pusztít; ki|irt/
+# Ver 2021-03-25T15:05:28Z Adam Stat-Verif >+ szinonimák
+滅絕 灭绝 [mie4 jue2] /ki|hal; ki|pusztul/ki|pusztít; el|pusztít; ki|irt/
 
 # ID-k27en8K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -49623,6 +49639,10 @@ X X [X] /X/
 # ID-l12gq7m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 機組 机组 [ji1 zu3] /személyzet (repülőn)/egység (gép, berendezés része)/
+
+# ID-l12gP1K
+# Ver 2021-03-25T09:44:56Z Adam Stat-New >angol ventilator szócikk kínai megfelelője Wikipédiában és Wiktionaryben
+呼吸機 呼吸机 [hu1 xi1 ji1] /lélegeztető|gép/
 
 # ID-l12jB2H
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -61818,6 +61838,10 @@ XX XX [x x] /x/
 # ID-n82Jd1y
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 犯錯 犯错 [fan4 cuo4] /hibázik/
+
+# ID-n82QE6A
+# Ver 2021-03-25T10:55:44Z Adam Stat-New >Wiktionary, Bartos--Hamar-nagyszótár
+風扇 风扇 [feng1 shan4] /ventilátor; szellőztető|készülék/
 
 # ID-n83cf3g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
