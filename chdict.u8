@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-03-26T03:00:01Z
+# Időbélyeg / Timestamp: 2021-03-28T02:00:02Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -7712,6 +7712,10 @@
 # Ver 2018-05-03T19:02:02Z GaoYanuo Stat-Verif >tanár
 優 优 [you1] /kiváló/bőséges/előnyben részesít/kitűnő (érdemjegy)/
 
+# ID-b72Nv8p
+# Ver 2021-03-27T15:22:25Z Adam Stat-New >https://zh.wikipedia.org/wiki/%E5%A4%8F%E6%97%B6%E5%88%B6 és Wiktionary
+夏令時 夏令时 [xia4 ling4 shi2] /nyári idő|számítás/
+
 # ID-b72NE7o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 冰球 冰球 [bing1 qiu2] /jég|hoki/jég|korong/
@@ -7849,6 +7853,10 @@
 # ID-b76cS3i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 挑起 挑起 [tiao3 qi3] /provokál/szít/ösztönöz/
+
+# ID-b76kD3j
+# Ver 2021-03-27T19:31:01Z Adam Stat-New >Wiktionary, dict.leo.org
+孕婦 孕妇 [yun4 fu4] /kis|mama; várandós nő; állapotos nő; terhes nő/
 
 # ID-b76nF0u
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -13766,6 +13774,12 @@
 # ID-d08hl7m
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 監牢 监牢 [jian1 lao2] /börtön/
+
+# ID-d08mU5B
+# Ver 2021-03-27T15:14:11Z Adam Stat-New >CC-CEDICT, kínai címszó a Wiktionaryben és a Wikipédiában
+# 瀏覽器 浏览器 [liu2 lan3 qi4] /web|böngésző; internet|böngésző/
+# Ver 2021-03-27T15:16:55Z Adam Stat-New >+ "(számítástechnika)" + szinonima
+瀏覽器 浏览器 [liu2 lan3 qi4] /(számítástechnika) web|böngésző; internet|böngésző; böngésző|program/
 
 # ID-d08nU7n
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -39085,6 +39099,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 漢堡王 汉堡王 [han4 bao3 wang2] /(tulajdonnév) Burger King (étteremlánc)/
 
+# ID-i76NF9a
+# Ver 2021-03-27T12:59:19Z Adam Stat-New >Bartos–Hamar-nagyszótár alapján
+廠址 厂址 [chang3 zhi3] /telep|hely (gyáré)/
+
 # ID-i76Rv4F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 涌現 涌现 [yong3 xian4] /nagy számban meg|jelenik/
@@ -56534,7 +56552,9 @@ XX XX [x x] /x/
 
 # ID-m63me7b
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
-醉漢 醉汉 [zui4 han4] /részeg ember/piás/
+# 醉漢 醉汉 [zui4 han4] /részeg ember/piás/
+# Ver 2021-03-27T22:26:06Z Adam Stat-Verif >+ egy szalonképes szinonima
+醉漢 醉汉 [zui4 han4] /részeg ember/iszákos; piás/
 
 # ID-m63mT9g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -61011,6 +61031,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 集 集 [ji2] /gyűjt/gyűjtemény/
 
+# ID-n63xv8p
+# Ver 2021-03-27T15:21:33Z Adam Stat-New >https://zh.wikipedia.org/wiki/%E5%A4%8F%E6%97%B6%E5%88%B6 és Wiktionary
+夏時制 夏时制 [xia4 shi2 zhi4] /nyári idő|számítás/
+
 # ID-n63Ah0Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 盛行 盛行 [sheng4 xing2] /divatos; divatja van/el|terjedt; be|vett/
@@ -61876,6 +61900,10 @@ XX XX [x x] /x/
 # ID-n83Lf5D
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 亮度 亮度 [liang4 du4] /fény|erősség; fény|erő/
+
+# ID-n83Nm1h
+# Ver 2021-03-27T19:21:39Z Adam Stat-New >Pleco-szótárak (főleg NEC), Wiktionary, Bartos–Hamar-nagyszótár
+同化 同化 [tong2 hua4] /asszimilálódik; hasonlóvá válik; hasonul; beolvad/asszimilál; hasonlóvá tesz; hasonít/(szociológia) asszimiláció/(nyelvészet) hasonulás/
 
 # ID-n83ND0C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
