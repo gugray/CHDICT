@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-03-29T02:00:02Z
+# Időbélyeg / Timestamp: 2021-03-30T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -1383,6 +1383,10 @@
 # ID-a30bl1j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 日記 日记 [ri4 ji4] /napló/SZ:則|则[ze2],本[ben3],篇[pian1]/
+
+# ID-a30kb7n
+# Ver 2021-03-29T14:28:37Z Adam Stat-New >összekapcsolt Wikipedia-szócikkek
+牙齦 牙龈 [ya2 yin2] /fog|íny/
 
 # ID-a30lx4m
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -2892,6 +2896,10 @@
 # ID-a63fi3R
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 鐵道 铁道 [tie3 dao4] /vas|út/
+
+# ID-a63lR2y
+# Ver 2021-03-29T10:33:12Z Adam Stat-New >Wiktionary és itteni korpusz
+理論上 理论上 [li3 lun4 shang4] /elméletileg; elméletben; elvileg; elvben/
 
 # ID-a63GH4S
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -17047,6 +17055,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 指數 指数 [zhi3 shu4] /index (matematika)/kitevő (matematika)/
 
+# ID-d79wm7n
+# Ver 2021-03-29T10:57:01Z Adam Stat-New >dict.leo.org ("in der Praxis"), ellenőrzött fordítás a Google Fordítóban az "in practice"-re, HanDeDict és NEC szótárak a Plecóban
+在實踐中 在实践中 [zai4 shi2 jian4 zhong1] /gyakorlatilag; a gyakorlatban; valójában; a valóságban/
+
 # ID-d79Lp2c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 中心 中心 [zhong1 xin1] /központ/centrum/SZ:個|个[ge4]/
@@ -21322,7 +21334,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-e74Bz6L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-實際上 实际上 [shi2 ji4 shang4] /a valóságban/a gyakorlatban/ténylegesen/
+# 實際上 实际上 [shi2 ji4 shang4] /a valóságban/a gyakorlatban/ténylegesen/
+# Ver 2021-03-29T10:50:24Z Adam Stat-Verif >+ "gyakorlatilag" (az itteni korpuszban sokszor ez a magyar megfelelője), összetartozó jelentések együvé
+實際上 实际上 [shi2 ji4 shang4] /a valóságban; ténylegesen/a gyakorlatban; gyakorlatilag/
 
 # ID-e74Fu2D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -24312,6 +24326,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f45gg8F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 還是 还是 [hai2 shi5] /vagy/még/ennek ellenére/jobb lenne, ha/
+
+# ID-f45jL0a
+# Ver 2021-03-29T10:34:28Z Adam Stat-New >Wiktionary és itteni korpusz
+原則上 原则上 [yuan2 ze2 shang4] /elvileg; elvben; elviekben; elméletileg; elméletben/
 
 # ID-f45kw7q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -45055,7 +45073,9 @@ X X [X] /X/
 
 # ID-k08LD7q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-癖 癖 [pi3] /szokás/hobby; kedvtelés/
+# 癖 癖 [pi3] /szokás/hobby; kedvtelés/
+# Ver 2021-03-29T13:41:02Z Adam Stat-Verif >magyaros írásmódú alak első helyre (a kereshetőség végett meghagytam az angolos formát is)
+癖 癖 [pi3] /szokás/hobbi; hobby; kedvtelés/
 
 # ID-k08Tm0v
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -45244,6 +45264,10 @@ X X [X] /X/
 # 灰姑娘 灰姑娘 [hui1 gu1 niang5] /Hamupipőke/
 # Ver 2017-12-12T22:13:46Z gabor Stat-Verif >.
 灰姑娘 灰姑娘 [hui1 gu1 niang5] /Hamupipőke/
+
+# ID-k12YS7b
+# Ver 2021-03-29T22:40:45Z Adam Stat-New >CC-CEDICT, Wikipedia
+䥑 鿏 [mai4] /meitnérium (kémiai elem)/
 
 # ID-k13jR9H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -45806,6 +45830,10 @@ X X [X] /X/
 # ID-k24SV3a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 不屑一顧 不屑一顾 [bu4 xie4 yi1 gu4] /(kifejezés) figyelemre sem méltó; meg|vetendő/
+
+# ID-k24TY0B
+# Ver 2021-03-29T22:36:55Z Adam Stat-New >CC-CEDICT, Wikipedia, Wiktionary
+鏌 镆 [mo4] /kard/moszkóvium (kémiai elem)/
 
 # ID-k24US0J
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -47195,6 +47223,12 @@ X X [X] /X/
 # ID-k55Of6A
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 科林 科林 [ke1 lin2] /(átirat) Colin/
+
+# ID-k55Pp7T
+# Ver 2021-03-29T09:51:50Z Adam Stat-New >Pleco-szótárak
+# 順風 顺风 [shun4 feng1] /hátszél; kedvező szél/jó szerencse/
+# Ver 2021-03-29T09:54:20Z Adam Stat-New >|
+順風 顺风 [shun4 feng1] /hát|szél; kedvező szél/jó szerencse/
 
 # ID-k55Sz3o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -49639,6 +49673,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 多半 多半 [duo1 ban4] /a legtöbb/túlnyomórészt/minden valószínűség szerint/
 
+# ID-l07Xg9x
+# Ver 2021-03-29T09:55:56Z Adam Stat-New >Pleco-szótárak
+逆風 逆风 [ni4 feng1] /ellen|szél; szembe|szél/
+
 # ID-l08aa8Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 普通 普通 [pu3 tong1] /általános/átlagos/szokásos/hétköznapi/
@@ -51497,7 +51535,8 @@ X X [X] /X/
 # Ver 2019-09-28T17:28:08Z gabor Stat-New >kieg, OK
 # 史蒂芬霍金 史蒂芬霍金 [shi3 di4 fen1 huo4 jin1] /(személynév) Stephen Hawking (brit fizikus, 1942-2018)/
 # Ver 2019-09-28T17:28:10Z gabor Stat-Verif >.
-史蒂芬霍金 史蒂芬霍金 [shi3 di4 fen1 huo4 jin1] /(személynév) Stephen Hawking (brit fizikus, 1942-2018)/
+# Ver 2021-03-29T22:45:44Z Adam Stat-Verif >nagykötőjel: https://helyesiras.mta.hu/helyesiras/default/akh12#264c
+史蒂芬霍金 史蒂芬霍金 [shi3 di4 fen1 huo4 jin1] /(személynév) Stephen Hawking (brit fizikus, 1942–2018)/
 
 # ID-l48Fn0O
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -54279,6 +54318,10 @@ X X [X] /X/
 # ID-m12TQ9x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 稻穀 稻谷 [dao4 gu3] /rizs|ültetvény/rizs/
+
+# ID-m12WR4A
+# Ver 2021-03-29T22:38:19Z Adam Stat-New >CC-CEDICT, Wikipedia
+鉨 鉨 [ni3] /nihónium (kémiai elem)/
 
 # ID-m13bA8a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -59471,6 +59514,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 面前 面前 [mian4 qian2] /előtt/szemben/
 
+# ID-n24Iv7o
+# Ver 2021-03-29T22:47:45Z Adam Stat-New >CC-CEDICT és Wikipedia
+鈾 铀 [you2] /urán (kémiai elem)/
+
 # ID-n24Tk4p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 報答 报答 [bao4 da2] /vissza|fizet/viszonoz/
@@ -60419,6 +60466,10 @@ XX XX [x x] /x/
 # ID-n45zo2r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 坦率 坦率 [tan3 shuai4] /őszinte/egyenes/nyílt/
+
+# ID-n45BU7R
+# Ver 2021-03-29T22:39:36Z Adam Stat-New >CC-CEDICT, Wikipedia
+鎶 鿔 [ge1] /kopernícium (kémiai elem)/
 
 # ID-n45DW9k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -65375,7 +65426,11 @@ XX XX [x x] /x/
 
 # ID-o58XB2j
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
-那話兒 那话儿 [na4 hua4 r5] /pénisz; farok./
+# 那話兒 那话儿 [na4 hua4 r5] /pénisz; farok./
+# Ver 2021-03-29T10:11:27Z Adam Stat-Verif >Pleco-szótárak
+# 那話兒 那话儿 [na4 hua4 r5] /izé; bigyó; micsoda; hogyishívják; bizbasz; bizgentyű; ketyere/pénisz; farok/
+# Ver 2021-03-29T10:16:30Z Adam Stat-Verif >a ketyere inkább műszaki értelmű, túl szűk jelentésű ide
+那話兒 那话儿 [na4 hua4 r5] /izé; bigyó; micsoda; hogyishívják; bizbasz; bizgentyű/pénisz; farok/
 
 # ID-o58YV2M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -65907,6 +65962,10 @@ XX XX [x x] /x/
 # ID-o72pm5o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 比喻 比喻 [bi3 yu4] /hasonlít/metafora/hasonlat/analógia/
+
+# ID-o72Dv8m
+# Ver 2021-03-29T09:59:29Z Adam Stat-New >Pleco-szótárak
+一路平安 一路平安 [yi2 lu4 ping2 an1] /jó utat!/
 
 # ID-o72DV2U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
