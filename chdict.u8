@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-03-30T02:00:01Z
+# Időbélyeg / Timestamp: 2021-03-31T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -349,6 +349,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 統治 统治 [tong3 zhi4] /uralkodik (országban)/kormányoz/rezsim/
 
+# ID-a06qA9b
+# Ver 2021-03-30T14:37:10Z Adam Stat-New >CC-CEDICT, Wikipedia
+釓 钆 [ga2] /gadolínium (kémiai elem, Gd)/
+
 # ID-a06zJ0y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 式 式 [shi4] /modell/forma/stílus/ige|mód (nyelvtan)/
@@ -564,6 +568,10 @@
 # ID-a11EM9u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 走過 走过 [zou3 guo4] /el|megy (vmit mellett)/
+
+# ID-a11FV6o
+# Ver 2021-03-30T14:17:13Z Adam Stat-New >CC-CEDICT, Wikipedia
+鎿 镎 [na2] /neptúnium (kémiai elem, Np)/
 
 # ID-a11JH7N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -1244,6 +1252,10 @@
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 解毒劑 解毒剂 [jie3 du2 ji4] /ellen|szer; ellen|méreg/
 
+# ID-a27la0s
+# Ver 2021-03-30T14:49:08Z Adam Stat-New >CC-CEDICT, Wikipedia
+銠 铑 [lao3] /ródium (kémiai elem, Rh)/
+
 # ID-a27mB7v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 寄 寄 [ji4] /küld/postáz/rá|bíz/lakik (vhol)/
@@ -1796,6 +1808,10 @@
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 搬運工 搬运工 [ban1 yun4 gong1] /hordár; szállító; költöztető/
 
+# ID-a38qG7f
+# Ver 2021-03-30T14:36:39Z Adam Stat-New >CC-CEDICT, Wikipedia
+鋱 铽 [te4] /terbium (kémiai elem, Tb)/
+
 # ID-a38qP7r
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 戲劇化 戏剧化 [xi4 ju4 hua4] /drámai; teátrális; melodramatikus/
@@ -1842,7 +1858,9 @@
 
 # ID-a39vg2q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-鍆 钔 [men2] /Mendelévium (kémiai elem, Md)/
+# 鍆 钔 [men2] /Mendelévium (kémiai elem, Md)/
+# Ver 2021-03-30T12:58:41Z Adam Stat-Verif >kisbetűs, mint a többi elem neve
+鍆 钔 [men2] /mendelévium (kémiai elem, Md)/
 
 # ID-a39xp3p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -2373,6 +2391,10 @@
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 出亂子 出乱子 [chu1 luan4 zi5] /félre|sikerül/bajba kerül/
 
+# ID-a49QB0k
+# Ver 2021-03-30T14:29:27Z Adam Stat-New >CC-CEDICT, Wikipedia
+鎦 镏 [liu2] /lutécium (kémiai elem, Lu)/
+
 # ID-a49Rc7K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 不可 不可 [bu4 ke3] /nem tud/nem szabad/
@@ -2474,6 +2496,10 @@
 # ID-a51xp1w
 # Ver 2018-01-26T18:19:42Z GaoYanuo Stat-New >korpusz\nCC-CEDICT\nhttp://www.dictall.com/st/2/12/212211E3D8.htm
 殘渣 残渣 [can2 zha1] /maradék/üledék/törmelék/szemét, hulladék/
+
+# ID-a51EN2C
+# Ver 2021-03-30T14:28:41Z Adam Stat-New >CC-CEDICT, Wikipedia
+鉿 铪 [ha1] /hafnium (kémiai elem, Hf)/
 
 # ID-a51EZ3L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -3182,6 +3208,10 @@
 # ID-a69vT9h
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 凳 凳 [deng4] /pad/szék/zsámoly/
+
+# ID-a69yS0f
+# Ver 2021-03-30T14:52:46Z Adam Stat-New >CC-CEDICT, Wikipedia
+釔 钇 [yi3] /ittrium (kémiai elem, Y)/
 
 # ID-a69MZ9N
 # Ver 2020-04-07T18:54:24Z gabor Stat-New >GushiFM 340. kalandos, alig találom szótárakban. 1db korpusz-találat van, illetve indirekt találat: Googel translate:\n我心里咯噔一下 > My heart thumped
@@ -4184,6 +4214,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 妙 妙 [miao4] /csodálatos/kiváló/okos/
 
+# ID-a91vF2a
+# Ver 2021-03-30T14:27:04Z Adam Stat-New >CC-CEDICT, Wikipedia
+錸 铼 [lai2] /rénium (kémiai elem, Re)/
+
 # ID-a91zw4J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 覺悟 觉悟 [jue2 wu4] /tudatosság/meg|világosodás/meg|ért; fel|fog/
@@ -4721,6 +4755,10 @@
 # ID-b02Hb4x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 魔法 魔法 [mo2 fa3] /boszorkányság/mágia/
+
+# ID-b02JZ1s
+# Ver 2021-03-30T14:40:36Z Adam Stat-New >CC-CEDICT, Wikipedia
+釹 钕 [nü3] /neodímium (kémiai elem, Nd)/
 
 # ID-b02KO4u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -6079,6 +6117,10 @@
 # ID-b33BC7K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 美妙 美妙 [mei3 miao4] /gyönyörű/csodálatos/
+
+# ID-b33NL1N
+# Ver 2021-03-30T14:29:55Z Adam Stat-New >CC-CEDICT, Wikipedia
+鐿 镱 [yi4] /itterbium (kémiai elem, Yb)/
 
 # ID-b34dd4t
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -8903,6 +8945,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 指責 指责 [zhi3 ze2] /bírál/kritizál/vádol/szemére hány/
 
+# ID-b98UA0Q
+# Ver 2021-03-30T14:26:01Z Adam Stat-New >CC-CEDICT, Wikipedia
+銥 铱 [yi1] /irídium (kémiai elem, Ir)/
+
 # ID-b98UR4z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 開拍 开拍 [kai1 pai1] /el|kezdi a forgatást (filmét)/
@@ -9313,6 +9359,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 伍 五 [wu3] /(családnév) Wu/
 
+# ID-c08uz8y
+# Ver 2021-03-30T14:49:45Z Adam Stat-New >CC-CEDICT, Wikipedia
+釕 钌 [liao3] /ruténium (kémiai elem, Ru)/
+
 # ID-c08wS8A
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 試管 试管 [shi4 guan3] /kémcső/
@@ -9518,6 +9568,10 @@
 # ID-c12On7q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 邊界 边界 [bian1 jie4] /határ/
+
+# ID-c13ic4t
+# Ver 2021-03-30T14:15:54Z Adam Stat-New >CC-CEDICT, Wikipedia
+鎇 镅 [mei2] /amerícium (kémiai elem, Am)/
 
 # ID-c13kD0u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -13695,6 +13749,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 用不著 用不着 [yong4 bu5 zhao2] /nem kell/nem szükséges/nincs rá szükség/
 
+# ID-d05vd9z
+# Ver 2021-03-30T14:43:01Z Adam Stat-New >CC-CEDICT, Wikipedia
+銫 铯 [se4] /cézium (kémiai elem, Cs)/
+
 # ID-d05vq2L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 裂縫 裂缝 [lie4 feng4] /repedés/hasadék/SZ:道[dao4]/
@@ -13842,6 +13900,10 @@
 # ID-d08nU7n
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 爛泥 烂泥 [lan4 ni2] /sár; mocsár/
+
+# ID-d08yq0O
+# Ver 2021-03-30T14:53:42Z Adam Stat-New >CC-CEDICT, Wikipedia
+銣 铷 [ru2] /rubídium (kémiai elem, Rb)/
 
 # ID-d08Jc4J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -14944,6 +15006,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 沒空 没空 [mei2 kong1] /foglalt/nem szabad/
 
+# ID-d33uQ8Y
+# Ver 2021-03-30T14:18:19Z Adam Stat-New >CC-CEDICT, Wikipedia
+釷 钍 [tu3] /tórium (kémiai elem, Th)/
+
 # ID-d33yd7l
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 卡薩諾瓦 卡萨诺瓦 [ka3 sa4 nuo4 wa3] /Casanova (olasz kalandor és nőcsábász)/
@@ -15331,6 +15397,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-d41IU2C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 司機 司机 [si1 ji1] /sofőr/SZ:個|个[ge4]/
+
+# ID-d41Vd9A
+# Ver 2021-03-30T14:30:21Z Adam Stat-New >CC-CEDICT, Wikipedia
+銩 铥 [diu1] /túlium (kémiai elem, Tm)/
 
 # ID-d42ar0u
 # Ver 2019-07-02T00:10:22Z GaoYanuo Stat-New >https://www.xyzdict.com/en/chinese-english/%E6%8A%95%E7%94%A8
@@ -19538,6 +19608,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 靈巧 灵巧 [ling2 qiao3] /ügyes/fürge/
 
+# ID-e36lX5W
+# Ver 2021-03-30T14:52:24Z Adam Stat-New >CC-CEDICT, Wikipedia
+鋯 锆 [gao4] /cirkónium (kémiai elem, Zr)/
+
 # ID-e36pt6Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 彩色 彩色 [cai3 se4] /szín/színes/sok|színű/SZ:種|种[zhong3]/
@@ -20401,6 +20475,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # 水蛭 水蛭 [shui3 zhi4] /pióca/
 # Ver 2017-12-28T21:06:07Z gabor Stat-Verif >.
 水蛭 水蛭 [shui3 zhi4] /pióca/
+
+# ID-e54YA1l
+# Ver 2021-03-30T14:25:35Z Adam Stat-New >CC-CEDICT, Wikipedia
+鉑 铂 [bo2] /platina (kémiai elem, Pt)/
 
 # ID-e55hh8m
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -23151,6 +23229,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-09-11T19:12:50Z gabor Stat-Verif >.
 毛澤東 毛泽东 [mao2 ze2 dong1] /(személynév) Mao Ce-tung (1893–1976)/
 
+# ID-f19dj6X
+# Ver 2021-03-30T14:19:54Z Adam Stat-New >CC-CEDICT, Wikipedia
+鈁 钫 [fang1] /francium (kémiai elem, Fr)/
+
 # ID-f19fa5C
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 刑期 刑期 [xing2 qi1] /börtön|büntetés (idő)/
@@ -24301,6 +24383,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2019-11-09T16:39:54Z gabor Stat-Verif >összevon, köznyelvi jelentéssel kieg (forrásszöveg)
 爛 烂 [lan4] /meg|rohad; meg|romlik; el|bomlik/kásás/lágy; szétfőtt/(köznyelvi) vacak; rossz/
 
+# ID-f44KI6X
+# Ver 2021-03-30T14:26:31Z Adam Stat-New >CC-CEDICT, Wikipedia
+鋨 锇 [e2] /ozmium (kémiai elem, Os)/
+
 # ID-f44Se9n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 提前 提前 [ti2 qian2] /határidő előtt/előre/előre hoz (időben)/
@@ -24556,6 +24642,12 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 鬥雞眼 斗鸡眼 [dou4 ji1 yan3] /kancsal (ember)/
 
+# ID-f49dp0s
+# Ver 2021-03-30T13:14:20Z Adam Stat-New >CC-CEDICT, Wikipedia, Wiktionary, Bartos–Hamar-nagyszótár
+# 鋦 锔 [ju2] /(jú ejtéssel) kűrium (kémiai elem, Cm)/(jū ejtéssel) meg|javít, össze|illeszt, össze|kapcsol (pl. törött edényt)/
+# Ver 2021-03-30T13:16:40Z Adam Stat-New >a másik kiejtéshez tartozó jelentést felvettem különálló szócikkbe, innen törlöm
+鋦 锔 [ju2] /kűrium (kémiai elem, Cm)/
+
 # ID-f49pa2q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 癱瘓 瘫痪 [tan1 huan4] /bénulás/bénult/
@@ -24604,7 +24696,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f50Ip0X
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
-鈈 钚 [bu4] /plutónium/
+# 鈈 钚 [bu4] /plutónium/
+# Ver 2021-03-30T14:16:40Z Adam Stat-Verif >+ komment és vegyjel a végére
+鈈 钚 [bu4] /plutónium (kémiai elem, Pu)/
 
 # ID-f50Jn9o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -25511,6 +25605,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 體重 体重 [ti3 zhong4] /test|súly/
 
+# ID-f70Ja0c
+# Ver 2021-03-30T14:40:59Z Adam Stat-New >CC-CEDICT, Wikipedia
+鐠 镨 [pu3] /prazeodímium (kémiai elem, Pr)/
+
 # ID-f70Ts2U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 鑽 钻 [zuan1] /fúr/bele|ássa magát (vmibe)/
@@ -25898,6 +25996,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # 同 同 [tong2] /hasonló/egyforma/azonos/mint/együtt (vkivel)/
 # Ver 2018-06-05T18:49:31Z Adam Stat-Verif >"egyforma" és "azonos" egyazon jelentés alá
 同 同 [tong2] /hasonló/egyforma; azonos/mint/együtt (vkivel)/
+
+# ID-f78lE3P
+# Ver 2021-03-30T14:43:54Z Adam Stat-New >CC-CEDICT, Wikipedia
+碘 碘 [dian3] /jód (kémiai elem, I)/
 
 # ID-f78si0n
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -27720,6 +27822,12 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-g18mC9E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 意願 意愿 [yi4 yuan4] /vágy/kívánság/törekvés/
+
+# ID-g18mN3i
+# Ver 2021-03-30T12:59:13Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鐨 镄 [fei4] /fermium (kémiai elem)/
+# Ver 2021-03-30T13:02:18Z Adam Stat-New >vegyjel
+鐨 镄 [fei4] /fermium (kémiai elem, Fm)/
 
 # ID-g18pc5u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -31170,7 +31278,9 @@ X X [X] /X/
 
 # ID-g94uu8E
 # Ver 2021-03-28T23:15:47Z Adam Stat-New >CC-CEDICT és Wikipedia
-氟 氟 [fu2] /fluor/
+# 氟 氟 [fu2] /fluor/
+# Ver 2021-03-30T13:06:03Z Adam Stat-New >+ "(kémiai elem)"
+氟 氟 [fu2] /fluor (kémiai elem)/
 
 # ID-g94uH0z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -32615,6 +32725,10 @@ X X [X] /X/
 # Ver 2020-12-12T15:42:11Z GaoYanuo Stat-Verif >Az "injekció" keresésre nem adott erre a kifejezésre is találatot.
 打針 打针 [da3 zhen1] /injekció|t ad/injekció|t kap/
 
+# ID-h27NN6x
+# Ver 2021-03-30T14:28:22Z Adam Stat-New >CC-CEDICT, Wikipedia
+鉭 钽 [tan3] /tantál (kémiai elem, Ta)/
+
 # ID-h27NY8X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 萬歲 万岁 [wan4 sui4] /éljen! (a király, forradalom stb.)/őfelsége/
@@ -33895,6 +34009,10 @@ X X [X] /X/
 # ID-h59ju9O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 哄 哄 [hong3] /meg|vezet/át|ver; át|ejt/ugrat/
+
+# ID-h59yl3M
+# Ver 2021-03-30T14:36:01Z Adam Stat-New >CC-CEDICT, Wiktionary, Bartos–Hamar-nagyszótár
+鏑 镝 [di2] /(elavult) nyíl; nyíl|hegy/
 
 # ID-h59Dh3z
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -36280,6 +36398,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 她們 她们 [ta1 men5] /ők (nőnem)/
 
+# ID-i10tm4E
+# Ver 2021-03-30T14:19:24Z Adam Stat-New >CC-CEDICT, Wikipedia
+鐳 镭 [lei2] /rádium (kémiai elem, Ra)/
+
 # ID-i10tY6W
 # Ver 2017-05-29T11:58:34Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
 乳糖酶 乳糖酶 [ru3 tang2 mei2] /laktáz (a tejcukor, laktóz emésztéséhez szükséges enzim)/
@@ -38384,7 +38506,9 @@ X X [X] /X/
 
 # ID-i58iU5q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-銀 银 [yin2] /ezüst/ezüst|színű/(előtagként: pénzzel kapcsolatos)/
+# 銀 银 [yin2] /ezüst/ezüst|színű/(előtagként: pénzzel kapcsolatos)/
+# Ver 2021-03-30T14:47:08Z Adam Stat-Verif >+ megjegyzés, vegyjel
+銀 银 [yin2] /ezüst (kémiai elem, Ag)/ezüst|színű/(előtagként: pénzzel kapcsolatos)/
 
 # ID-i58ks2o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -39233,7 +39357,9 @@ X X [X] /X/
 
 # ID-i76Ct6N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-錒 锕 [a1] /Aktínium (kémiai elem, Ac)/
+# 錒 锕 [a1] /Aktínium (kémiai elem, Ac)/
+# Ver 2021-03-30T14:18:56Z Adam Stat-Verif >kisbetűs, a többi elem nevéhez hasonlóan
+錒 锕 [a1] /aktínium (kémiai elem, Ac)/
 
 # ID-i76JV9T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -40166,6 +40292,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 讓開 让开 [rang4 kai1] /félre|áll (az útból)/
 
+# ID-i99cT9p
+# Ver 2021-03-30T14:45:51Z Adam Stat-New >CC-CEDICT, Wikipedia
+錫 锡 [xi1] /ón (kémiai elem, Sn)/
+
 # ID-i99gc8U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 俄羅斯 俄罗斯 [e2 luo2 si1] /(földrajzi név) Orosz|ország/
@@ -40229,6 +40359,10 @@ X X [X] /X/
 # ID-j00gB4K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 支流 支流 [zhi1 liu2] /mellék|folyó/
+
+# ID-j00lD5f
+# Ver 2021-03-30T14:42:23Z Adam Stat-New >CC-CEDICT, Wikipedia
+鋇 钡 [bei4] /bárium (kémiai elem, Ba)/
 
 # ID-j00oZ8P
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -40443,6 +40577,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 夢想 梦想 [meng4 xiang3] /álmodik (vmiről; átvitten)/álom (vágy vmire)/
 
+# ID-j04SD0c
+# Ver 2021-03-30T14:53:17Z Adam Stat-New >CC-CEDICT, Wikipedia
+鍶 锶 [si1] /stroncium (kémiai elem, Sr)/
+
 # ID-j05af3h
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 白板 白板 [bai2 ban3] /tábla (fehér; filctollas írásra)/
@@ -40486,6 +40624,10 @@ X X [X] /X/
 # ID-j06uo8y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 烏鴉 乌鸦 [wu1 ya1] /varjú/holló/
+
+# ID-j06uF7N
+# Ver 2021-03-30T14:37:44Z Adam Stat-New >CC-CEDICT, Wikipedia
+銪 铕 [you3] /európium (kémiai elem, Eu)/
 
 # ID-j06vC1v
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -40694,6 +40836,10 @@ X X [X] /X/
 # Ver 2017-10-09T20:45:13Z gabor Stat-New >CEDICT; korpusz
 松果 松果 [song1 guo3] /fenyő|toboz/
 
+# ID-j10KR3y
+# Ver 2021-03-30T14:46:39Z Adam Stat-New >CC-CEDICT, Wikipedia
+鎘 镉 [ge2] /kadmium (kémiai elem, Cd)/
+
 # ID-j10Mw2i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 精簡 精简 [jing1 jian3] /egyszerűsít/csökkent/le|épít; racionalizál/
@@ -40775,6 +40921,10 @@ X X [X] /X/
 # ID-j12fw1x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 回報 回报 [hui2 bao4] /viszonzás/viszonzásként/viszonoz/kölcsönhatás/
+
+# ID-j12gi8h
+# Ver 2021-03-30T13:01:37Z Adam Stat-New >CC-CEDICT, Wikipedia
+鐦 锎 [kai1] /kalifornium (kémiai elem, Cf)/
 
 # ID-j12kq5l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -41031,6 +41181,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 球賽 球赛 [qiu2 sai4] /meccs/labda|játék/SZ:場|场[chang3]/
 
+# ID-j17Iw7o
+# Ver 2021-03-30T13:06:53Z Adam Stat-New >CC-CEDICT, Wikipedia
+錇 锫 [pei2] /berkélium (kémiai elem, Bk)/
+
 # ID-j17PP2R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 原諒 原谅 [yuan2 liang4] /meg|bocsát/
@@ -41122,6 +41276,10 @@ X X [X] /X/
 # ID-j19Wb5L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 肯 肯 [ken3] /hajlandó/bele|egyezik/kész (megtenni vmit)/készséges/
+
+# ID-j19WX9q
+# Ver 2021-03-30T14:39:29Z Adam Stat-New >CC-CEDICT, Wikipedia
+釤 钐 [shan1] /szamárium (kémiai elem, Sm)/
 
 # ID-j19Ys7Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -42789,7 +42947,9 @@ X X [X] /X/
 
 # ID-j57ZV1g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-金 金 [jin1] /arany/pénz/fém/(családnév) Jin/
+# 金 金 [jin1] /arany/pénz/fém/(családnév) Jin/
+# Ver 2021-03-30T14:25:02Z Adam Stat-Verif >+ megjegyzés, vegyjel
+金 金 [jin1] /arany (kémiai elem, Au)/pénz/fém/(családnév) Jin/
 
 # ID-j58aG2O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -42987,6 +43147,10 @@ X X [X] /X/
 # ID-j62Fy1x
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 曾祖父母 曾祖父母 [ceng2 zu3 fu4 mu3] /déd|szülők/
+
+# ID-j62KT9M
+# Ver 2021-03-30T14:48:33Z Adam Stat-New >CC-CEDICT, Wikipedia
+鈀 钯 [ba3] /palládium (kémiai elem, Pd)/
 
 # ID-j62MZ8v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -43423,6 +43587,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 雄性 雄性 [xiong2 xing4] /hím/hímnemű/
 
+# ID-j72JM6K
+# Ver 2021-03-30T14:44:51Z Adam Stat-New >CC-CEDICT, Wikipedia
+銻 锑 [ti1] /antimon (kémiai elem, Sb)/
+
 # ID-j72Xl5e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 母親 母亲 [mu3 qin1] /anya/SZ:個|个[ge4]/
@@ -43595,7 +43763,9 @@ X X [X] /X/
 
 # ID-j77lh7H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-鎄 锿 [ai1] /Einsteinium (kémiai elem, Es)/
+# 鎄 锿 [ai1] /Einsteinium (kémiai elem, Es)/
+# Ver 2021-03-30T12:59:57Z Adam Stat-Verif >kisbetűs, mint a többi elem neve
+鎄 锿 [ai1] /einsteinium (kémiai elem, Es)/
 
 # ID-j77lj1z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -45267,7 +45437,9 @@ X X [X] /X/
 
 # ID-k12YS7b
 # Ver 2021-03-29T22:40:45Z Adam Stat-New >CC-CEDICT, Wikipedia
-䥑 鿏 [mai4] /meitnérium (kémiai elem)/
+# 䥑 鿏 [mai4] /meitnérium (kémiai elem)/
+# Ver 2021-03-30T13:04:40Z Adam Stat-New >vegyjel
+䥑 鿏 [mai4] /meitnérium (kémiai elem, Mt)/
 
 # ID-k13jR9H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -45665,6 +45837,10 @@ X X [X] /X/
 # Ver 2017-05-25T15:33:23Z Adam Stat-New >a 西方狍 Wikipédia-szócikk utolsó karaktere (mint önálló szócikk is)
 狍 狍 [pao2] /őz/
 
+# ID-k21od5V
+# Ver 2021-03-30T14:23:02Z Adam Stat-New >CC-CEDICT, Wikipedia
+鉛 铅 [qian1] /ólom (kémiai elem, Pb)/
+
 # ID-k21Nt4d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 姑媽 姑妈 [gu1 ma1] /nagy|néni (apai ágon)/
@@ -45713,6 +45889,10 @@ X X [X] /X/
 # ID-k22Hg3V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 趟 趟 [tang4] /(igei számlálószó: alkalmak, utak)/alkalom/utazás/
+
+# ID-k22HH7J
+# Ver 2021-03-30T14:20:55Z Adam Stat-New >CC-CEDICT, Wikipedia
+砈 砈 [e3] /asztácium (kémiai elem, At)/
 
 # ID-k22Sq9n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -45833,7 +46013,9 @@ X X [X] /X/
 
 # ID-k24TY0B
 # Ver 2021-03-29T22:36:55Z Adam Stat-New >CC-CEDICT, Wikipedia, Wiktionary
-鏌 镆 [mo4] /kard/moszkóvium (kémiai elem)/
+# 鏌 镆 [mo4] /kard/moszkóvium (kémiai elem)/
+# Ver 2021-03-30T13:05:12Z Adam Stat-New >vegyjel
+鏌 镆 [mo4] /kard/moszkóvium (kémiai elem, Mc)/
 
 # ID-k24US0J
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -46942,6 +47124,10 @@ X X [X] /X/
 # Ver 2017-12-03T23:26:45Z GaoYanuo Stat-Verif >"ki-" sztornó, mert a kiküldetés az 出差.
 差 差 [chai1] /küld/meg|bíz/küldönc/küldetés/
 
+# ID-k49ja5I
+# Ver 2021-03-30T14:43:28Z Adam Stat-New >CC-CEDICT, Wikipedia
+氙 氙 [xian1] /xenon (kémiai elem, Xe)/
+
 # ID-k49mz6w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 精心 精心 [jing1 xin1] /nagy gonddal/gondosan/alaposan/
@@ -46991,6 +47177,10 @@ X X [X] /X/
 # ID-k50Jp9Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 往 往 [wang3] /megy (vmi irányába)/felé/múlt/előző/
+
+# ID-k50JZ3v
+# Ver 2021-03-30T14:20:18Z Adam Stat-New >CC-CEDICT, Wikipedia
+氡 氡 [dong1] /radon (kémiai elem, Rn)/
 
 # ID-k50PF5B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -48271,6 +48461,10 @@ X X [X] /X/
 # 打飛機 打飞机 [da3 fei1 ji1] /(szleng) maszturbál/
 # Ver 2020-03-18T15:45:25Z gabor Stat-Verif >.
 打飛機 打飞机 [da3 fei1 ji1] /(szleng) maszturbál/
+
+# ID-k78Nt9e
+# Ver 2021-03-30T13:15:52Z Adam Stat-New >CC-CEDICT, Wiktionary, Bartos–Hamar-nagyszótár
+鋦 锔 [ju1] /meg|javít, össze|illeszt, össze|kapcsol (pl. törött edényt)/
 
 # ID-k79fM9g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -49853,6 +50047,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 炊煙 炊烟 [chui1 yan1] /füst (konyhai kéményből felszálló)/foglalt ház/
 
+# ID-l12Gp8Z
+# Ver 2021-03-30T14:40:00Z Adam Stat-New >CC-CEDICT, Wikipedia
+鉕 钷 [po3] /prométium (kémiai elem, Pm)/
+
 # ID-l12Rn1q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 鮑 鲍 [bao4] /kaliforniai ehető kagyló (angol: abalone; latin: Haliotidae)/(családnév) Bao/
@@ -50292,6 +50490,10 @@ X X [X] /X/
 # ID-l21Bf9H
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 操作速率 操作速率 [cao1 zuo4 su4 lü4] /működési sebesség; üzemi sebesség/
+
+# ID-l21CW9q
+# Ver 2021-03-30T14:42:01Z Adam Stat-New >CC-CEDICT, Wikipedia
+鑭 镧 [lan2] /lantán (kémiai elem, La)/
 
 # ID-l21JN2N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -51243,6 +51445,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 出嫁 出嫁 [chu1 jia4] /férjhez megy/
 
+# ID-l41YX0l
+# Ver 2021-03-30T14:51:21Z Adam Stat-New >CC-CEDICT, Wikipedia
+鉬 钼 [mu4] /molibdén (kémiai elem, Mo)/
+
 # ID-l42gi1g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 鑒定 鉴定 [jian4 ding4] /értékel/ellenőrzi a hitelességét/
@@ -51406,6 +51612,10 @@ X X [X] /X/
 # 鄧小平 邓小平 [deng4 xiao3 ping2] /(személynév) Teng Hsziao-ping (1904–1997)/
 # Ver 2017-09-11T19:13:02Z gabor Stat-Verif >.
 鄧小平 邓小平 [deng4 xiao3 ping2] /(személynév) Teng Hsziao-ping (1904–1997)/
+
+# ID-l45xj1T
+# Ver 2021-03-30T14:46:16Z Adam Stat-New >CC-CEDICT, Wikipedia
+銦 铟 [yin1] /indium (kémiai elem, In)/
 
 # ID-l45Dw3C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -52659,6 +52869,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 派別 派别 [pai4 bie2] /csoport/iskola (gondolati irányzat)/frakció/felekezet/
 
+# ID-l73Gn1f
+# Ver 2021-03-30T14:30:43Z Adam Stat-New >CC-CEDICT, Wikipedia
+鉺 铒 [er3] /erbium (kémiai elem, Er)/
+
 # ID-l73Jw1k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 睏 困 [kun4] /álmos/fáradt/
@@ -52871,6 +53085,10 @@ X X [X] /X/
 # ID-l78bo8d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 資本家 资本家 [zi1 ben3 jia1] /kapitalista/tőkés/
+
+# ID-l78ko0s
+# Ver 2021-03-30T14:50:55Z Adam Stat-New >CC-CEDICT, Wikipedia
+鍀 锝 [de2] /technécium (kémiai elem, Tc)/
 
 # ID-l78sR7Y
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -54321,7 +54539,9 @@ X X [X] /X/
 
 # ID-m12WR4A
 # Ver 2021-03-29T22:38:19Z Adam Stat-New >CC-CEDICT, Wikipedia
-鉨 鉨 [ni3] /nihónium (kémiai elem)/
+# 鉨 鉨 [ni3] /nihónium (kémiai elem)/
+# Ver 2021-03-30T13:04:08Z Adam Stat-New >vegyjel
+鉨 鉨 [ni3] /nihónium (kémiai elem, Nh)/
 
 # ID-m13bA8a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -54777,6 +54997,10 @@ X X [X] /X/
 # ID-m21iM7D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 勇敢 勇敢 [yong3 gan3] /bátor/
+
+# ID-m21qM3t
+# Ver 2021-03-30T14:31:12Z Adam Stat-New >CC-CEDICT, Wikipedia
+鈥 钬 [huo3] /holmium (kémiai elem, Ho)/
 
 # ID-m21Ef4w
 # Ver 2017-05-28T11:08:43Z tlaura Stat-New >http://ce.linedict.com/dict.html#/cnen/entry/a1b2ae4d93344d11ae6cab8cde7fe206
@@ -56289,6 +56513,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 拱道 拱道 [gong3 dao4] /árkád|sor/
 
+# ID-m54Gq1E
+# Ver 2021-03-30T14:51:52Z Adam Stat-New >CC-CEDICT, Wikipedia
+鈮 铌 [ni2] /nióbium (kémiai elem, Nb)/
+
 # ID-m54It0V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 講究 讲究 [jiang3 jiu5] /különös figyelmet fordít (vmire)/ízléses/választékos/
@@ -56670,7 +56898,9 @@ X X [X] /X/
 
 # ID-m61Oi6A
 # Ver 2018-01-02T22:33:55Z gabor Stat-New >ABC, korpusz
-汞 汞 [gong3] /higany/
+# 汞 汞 [gong3] /higany/
+# Ver 2021-03-30T14:24:28Z Adam Stat-New >+ megjegyzés, vegyjel
+汞 汞 [gong3] /higany (kémiai elem, Hg)/
 
 # ID-m61Ph3O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -57996,6 +58226,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 驚訝 惊讶 [jing1 ya4] /meg|lepődik/el|képed/
 
+# ID-m89yo3N
+# Ver 2021-03-30T14:33:21Z Adam Stat-New >CC-CEDICT, Wikipedia
+鏑 镝 [di1] /diszprózium (kémiai elem, Dy)/
+
 # ID-m89BJ0n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 橄欖球 橄榄球 [gan3 lan3 qiu2] /rögbi/amerikai foci/
@@ -58717,6 +58951,10 @@ XX XX [x x] /x/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 電子學 电子学 [dian4 zi3 xue2] /elektronika/
 
+# ID-n05po0X
+# Ver 2021-03-30T14:44:28Z Adam Stat-New >CC-CEDICT, Wikipedia
+碲 碲 [di4] /tellúr (kémiai elem, Te)/
+
 # ID-n05pD0n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 儘可能 尽可能 [jin3 ke3 neng2] /amennyire csak lehetséges/tőle telhetően/
@@ -59314,6 +59552,10 @@ XX XX [x x] /x/
 # Ver 2020-02-04T16:24:08Z gabor Stat-Verif >.
 煙灰缸 烟灰缸 [yan1 hui1 gang1] /hamu|tartó/
 
+# ID-n20bE9Y
+# Ver 2021-03-30T14:41:32Z Adam Stat-New >CC-CEDICT, Wikipedia
+鈰 铈 [shi4] /cérium (kémiai elem, Ce)/
+
 # ID-n20kV1Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 劇場 剧场 [ju4 chang3] /szín|ház/
@@ -59516,7 +59758,9 @@ XX XX [x x] /x/
 
 # ID-n24Iv7o
 # Ver 2021-03-29T22:47:45Z Adam Stat-New >CC-CEDICT és Wikipedia
-鈾 铀 [you2] /urán (kémiai elem)/
+# 鈾 铀 [you2] /urán (kémiai elem)/
+# Ver 2021-03-30T13:02:39Z Adam Stat-New >vegyjel
+鈾 铀 [you2] /urán (kémiai elem, U)/
 
 # ID-n24Tk4p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -60469,7 +60713,9 @@ XX XX [x x] /x/
 
 # ID-n45BU7R
 # Ver 2021-03-29T22:39:36Z Adam Stat-New >CC-CEDICT, Wikipedia
-鎶 鿔 [ge1] /kopernícium (kémiai elem)/
+# 鎶 鿔 [ge1] /kopernícium (kémiai elem)/
+# Ver 2021-03-30T13:03:39Z Adam Stat-New >vegyjel
+鎶 鿔 [ge1] /kopernícium (kémiai elem, Cn)/
 
 # ID-n45DW9k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -61069,6 +61315,10 @@ XX XX [x x] /x/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 賣家 卖家 [mai4 jia1] /eladó (aki elad vmit)/
 
+# ID-n59cO1q
+# Ver 2021-03-30T14:23:36Z Adam Stat-New >CC-CEDICT, Wikipedia
+鉈 铊 [ta1] /tallium (kémiai elem, Tl)/
+
 # ID-n59dp1T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 歪曲 歪曲 [wai1 qu1] /torzít/el|ferdít/meg|hamisít/
@@ -61138,6 +61388,10 @@ XX XX [x x] /x/
 # 臉紅脖子粗 脸红脖子粗 [lian3 hong2 bo2 zi5 cu1] /"dagad a feje"; nagyon mérges/
 # Ver 2020-03-07T00:09:17Z GaoYanuo Stat-New >címke pótolva
 臉紅脖子粗 脸红脖子粗 [lian3 hong2 bo2 zi5 cu1] /(kifejezés) "dagad a feje"; nagyon mérges/
+
+# ID-n60pn6d
+# Ver 2021-03-30T14:17:54Z Adam Stat-New >CC-CEDICT, Wikipedia
+鏷 镤 [pu2] /protaktínium (kémiai elem, Pa)/
 
 # ID-n60Hq0j
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -62454,6 +62708,10 @@ XX XX [x x] /x/
 # ID-n91gG2a
 # Ver 2021-03-24T18:26:37Z Adam Stat-New >Wikipedia
 福建 福建 [fu2 jian4] /(földrajzi név) Fucsien; Fujian (Kína egyik keleti tartománya, hivatalosan 省 utótaggal)/
+
+# ID-n91hX7w
+# Ver 2021-03-30T14:27:53Z Adam Stat-New >CC-CEDICT, Wikipedia
+鎢 钨 [wu1] /volfrám (kémiai elem, W)/
 
 # ID-n91iX6C
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -65963,6 +66221,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 比喻 比喻 [bi3 yu4] /hasonlít/metafora/hasonlat/analógia/
 
+# ID-o72ve1G
+# Ver 2021-03-30T14:21:45Z Adam Stat-New >CC-CEDICT, Wikipedia
+鉍 铋 [bi4] /bizmut (kémiai elem, Bi)/
+
 # ID-o72Dv8m
 # Ver 2021-03-29T09:59:29Z Adam Stat-New >Pleco-szótárak
 一路平安 一路平安 [yi2 lu4 ping2 an1] /jó utat!/
@@ -68237,6 +68499,10 @@ XX XX [x x] /x/
 # 剋爾切伊費倫茨 克尔切伊费伦茨 [ke4 er3 qie1 yi1 fei4 lun2 ci2] /(tulajdonnév) Kölcsey Ferenc/
 # Ver 2019-10-12T15:36:31Z gabor Stat-Verif >.
 剋爾切伊費倫茨 克尔切伊费伦茨 [ke4 er3 qie1 yi1 fei4 lun2 ci2] /(tulajdonnév) Kölcsey Ferenc/
+
+# ID-p18pe4t
+# Ver 2021-03-30T14:21:19Z Adam Stat-New >CC-CEDICT, Wikipedia
+釙 钋 [po1] /polónium (kémiai elem, Po)/
 
 # ID-p18pI4v
 # Ver 2018-01-29T20:03:26Z GaoYanuo Stat-New >http://www.youdao.com/w/%E4%BB%8B%E8%B4%A8/#keyfrom=dict2.top\nhttp://www.dictall.com/dictall/result.jsp?cd=UTF-8&keyword=%E4%BB%8B%E8%B4%A8
