@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-03-31T02:00:01Z
+# Időbélyeg / Timestamp: 2021-04-01T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -31703,7 +31703,9 @@ X X [X] /X/
 
 # ID-h02qi6Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-情報 情报 [qing2 bao4] /hírszerzés/
+# 情報 情报 [qing2 bao4] /hírszerzés/
+# Ver 2021-03-31T11:47:03Z Adam Stat-Verif >különböző Pleco-szótárak példamondatai nyomán
+情報 情报 [qing2 bao4] /hírszerzés/információ/
 
 # ID-h02rg7F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -34674,7 +34676,9 @@ X X [X] /X/
 
 # ID-h74ch8X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-區 区 [qu1] /kerület/terület/zóna/meg|különböztet/
+# 區 区 [qu1] /kerület/terület/zóna/meg|különböztet/
+# Ver 2021-03-31T11:40:38Z Adam Stat-Verif >kerület jelentés egyértelműsítése
+區 区 [qu1] /kerület (városrész)/terület; zóna/meg|különböztet/
 
 # ID-h74nq3h
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
