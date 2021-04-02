@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-04-01T02:00:01Z
+# Időbélyeg / Timestamp: 2021-04-02T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -1264,7 +1264,8 @@
 # Ver 2017-11-24T19:29:56Z GaoYanuo Stat-New >http://dictionary.pinpinchinese.com/search/t/%E5%A4%8D%E6%B4%BB%E8%8A%82\nCC-CEDICT\nhttps://dict.hjenglish.com/w/%E5%A4%8D%E6%B4%BB%E8%8A%82
 # 復活節 复活节 [fu4 huo2 jie2] /Húsvét/
 # Ver 2017-11-24T19:50:04Z gabor Stat-Verif >.
-復活節 复活节 [fu4 huo2 jie2] /Húsvét/
+# Ver 2021-04-01T22:12:15Z Adam Stat-Verif >https://helyesiras.mta.hu/helyesiras/default/akh12#144
+復活節 复活节 [fu4 huo2 jie2] /húsvét/
 
 # ID-a27Ig1p
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -11366,7 +11367,9 @@
 
 # ID-c54qF8q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-之後 之后 [zhi1 hou4] /utána/később/
+# 之後 之后 [zhi1 hou4] /utána/később/
+# Ver 2021-04-01T21:24:23Z Adam Stat-Verif >Pleco-beli NEC szótárban "in" 8. jelentése ("after") alatti második példamondat
+之後 之后 [zhi1 hou4] /utána/múlva; múltán/később/
 
 # ID-c54sh7K
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -15576,7 +15579,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-d46nO1V
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
-變種 变种 [bian4 zhong3] /mutáció/mutáns/
+# 變種 变种 [bian4 zhong3] /mutáció/mutáns/
+# Ver 2021-04-01T11:49:58Z Adam Stat-Verif >Wiktionary, CC-CEDICT és Bartos–Hamar-nagyszótár alapján
+變種 变种 [bian4 zhong3] /(biológia) mutáció; mutáns; változat (ugrásszerű genetikai változáson átesett élőlény)/változat; válfaj; fajta; típus/
 
 # ID-d46os1l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -19630,7 +19635,13 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-e36Ed6E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-變異 变异 [bian4 yi4] /mutáció/
+# 變異 变异 [bian4 yi4] /mutáció/
+# Ver 2021-04-01T11:59:39Z Adam Stat-Verif >Wiktionary, CC-CEDICT, Bartos–Hamar-nagyszótár
+# 變異 变异 [bian4 yi4] /el|tér; el|hajlik (átvitt értelemben)/eltérés; elhajlás/(biológia) mutáció; változat; variáció/
+# Ver 2021-04-01T13:09:04Z Adam Stat-Verif >Pleco: kifejezések és példamondatok
+# 變異 变异 [bian4 yi4] /el|tér; el|hajlik (átvitt értelemben)/eltérés; elhajlás/(biológia) mutáció; változat; variáció/változik; módosul; differenciálódik/
+# Ver 2021-04-01T13:14:50Z Adam Stat-Verif >a NEC szótár szerint nem ez a biológiai szakszó, inkább science fictionben használatos ilyen jelentésben
+變異 变异 [bian4 yi4] /el|tér; el|hajlik (átvitt értelemben)/eltérés; elhajlás/mutáció; változat; variáció/változik; módosul; differenciálódik/
 
 # ID-e36KG1y
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -23884,6 +23895,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f33Sn4C
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 田納西 田纳西 [tian2 na4 xi1] /(földrajzi név) Tennessee/
+
+# ID-f33SS9z
+# Ver 2021-04-01T23:46:33Z Adam Stat-New >összekapcsolt Wikipedia-szócikkek
+混成詞 混成词 [hun4 cheng2 ci2] /(nyelvészet) szó|összerántás; portmanteau (eltérő jelentésű szavakból, pl. cső + orr > csőr, csatorna + alagút > csalagút)/(nyelvészet) szóalak|vegyülés; szó|vegyülés; szó|keveredés; kontamináció (hasonló jelentésű szavakból, pl. csokor + bokréta > csokréta)/
 
 # ID-f34at6k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -32584,6 +32599,10 @@ X X [X] /X/
 # ID-h24zK1w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 馬克 马克 [ma3 ke4] /(átirat) Mark/márka (pénznem)/
+
+# ID-h24Ib0J
+# Ver 2021-04-01T11:52:35Z Adam Stat-New >Wiktionary és Bartos–Hamar-nagyszótár
+突變體 突变体 [tu1 bian4 ti3] /(biológia) mutáns (ugrásszerű genetikai változáson átesett élőlény)/
 
 # ID-h24Oy4J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -52048,6 +52067,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 陶 陶 [tao2] /kerámia/fazekasság/(családnév) Tao/
 
+# ID-l53ne6M
+# Ver 2021-04-01T11:56:48Z Adam Stat-New >Wiktionary, Bartos–Hamar-nagyszótár, CC-CEDICT
+突變 突变 [tu1 bian4] /ugrásszerű változáson esik át; hirtelen megváltozik/ugrás (átvitt értelemben)/(biológia) mutálódik; módosul; átalakul/(biológia) mutáció; eltérés/
+
 # ID-l53vR9o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 名聲 名声 [ming2 sheng1] /híresség/hírnév/
@@ -58426,7 +58449,9 @@ XX XX [x x] /x/
 
 # ID-m93eo2w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-後 后 [hou4] /után/mögött/hátsó/később/
+# 後 后 [hou4] /után/mögött/hátsó/később/
+# Ver 2021-04-01T21:22:38Z Adam Stat-Verif >Pleco-beli NEC szótárban "in" 8. jelentése ("after") alatti első példamondat
+後 后 [hou4] /után/múlva/mögött/hátsó/később/
 
 # ID-m93jE7Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
