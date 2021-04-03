@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-04-02T02:00:01Z
+# Időbélyeg / Timestamp: 2021-04-03T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -5279,7 +5279,9 @@
 
 # ID-b13sk5T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-去世 去世 [qu4 shi4] /el|húny/meg|hal/
+# 去世 去世 [qu4 shi4] /el|húny/meg|hal/
+# Ver 2021-04-02T12:06:09Z Adam Stat-Verif >"elhuny" rövid "u"-val (l. Magyar helyesírási szótár vagy https://helyesiras.szotar.org/ )
+去世 去世 [qu4 shi4] /el|huny/meg|hal/
 
 # ID-b13Fg2a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -14205,7 +14207,9 @@
 
 # ID-d14IU8n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-在 在 [zai4] /jelen van/van (vhol; elöljárószó hely vagy időpont kifejezésére)/(folyamatban levő cselekvést\történést kifejező segédszó)/
+# 在 在 [zai4] /jelen van/van (vhol; elöljárószó hely vagy időpont kifejezésére)/(folyamatban levő cselekvést\történést kifejező segédszó)/
+# Ver 2021-04-02T16:27:35Z Adam Stat-Verif >https://resources.allsetlearning.com/chinese/grammar/Expressing_location_with_%22zai..._shang_/_xia_/_li%22#.E5.9C.A8_.28z.C3.A0i.29_with_Specific_Locations
+在 在 [zai4] /jelen van/(folyamatban levő cselekvést\történést kifejező segédszó)/van (vhol; elöljárószó hely vagy időpont kifejezésére)/(上-keretben) -on\-en\-ön\-n; rajta/(下-keretben) alatt/(里-keretben) -ban\-ben; benne/(旁边-keretben) mellett/
 
 # ID-d14JU6m
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -27451,7 +27455,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-g10Bh0T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-逝世 逝世 [shi4 shi4] /meg|hal/el|húny/
+# 逝世 逝世 [shi4 shi4] /meg|hal/el|húny/
+# Ver 2021-04-02T12:06:33Z Adam Stat-Verif >"elhuny" rövid "u"-val (l. Magyar helyesírási szótár vagy https://helyesiras.szotar.org/ )
+逝世 逝世 [shi4 shi4] /meg|hal/el|huny/
 
 # ID-g10Cn7g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -29272,7 +29278,9 @@ X X [X] /X/
 
 # ID-g50Nw0a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-過世 过世 [guo4 shi4] /el|húny/meg|hal/
+# 過世 过世 [guo4 shi4] /el|húny/meg|hal/
+# Ver 2021-04-02T12:06:20Z Adam Stat-Verif >"elhuny" rövid "u"-val (l. Magyar helyesírási szótár vagy https://helyesiras.szotar.org/ )
+過世 过世 [guo4 shi4] /el|huny/meg|hal/
 
 # ID-g50QC6J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -30299,7 +30307,9 @@ X X [X] /X/
 
 # ID-g72fR1H
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
-出版商 出版商 [chu1 ban3 shang1] /kiadó (könyveket megjelentőt cég)/
+# 出版商 出版商 [chu1 ban3 shang1] /kiadó (könyveket megjelentőt cég)/
+# Ver 2021-04-02T16:34:13Z Adam Stat-Verif >elírás jav.
+出版商 出版商 [chu1 ban3 shang1] /kiadó (könyveket megjelentető cég)/
 
 # ID-g72oM9F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -52193,7 +52203,13 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 對 对 [dui4] /szembe|fordul/szemközt (vmivel)/felé/össze|illeszt/össze|vet/igazít/válaszol/felel/megfelelő/egyezik/helyes/igaz/(számlálószó) pár (két összatartozó darab)/
 # Ver 2017-05-23T20:55:09Z Adam Stat-Verif >elírás jav.
-對 对 [dui4] /szembe|fordul/szemközt (vmivel)/felé/össze|illeszt/össze|vet/igazít/válaszol/felel/megfelelő/egyezik/helyes/igaz/(számlálószó) pár (két összetartozó darab)/
+# 對 对 [dui4] /szembe|fordul/szemközt (vmivel)/felé/össze|illeszt/össze|vet/igazít/válaszol/felel/megfelelő/egyezik/helyes/igaz/(számlálószó) pár (két összetartozó darab)/
+# Ver 2021-04-02T12:21:12Z Adam Stat-Verif >a 对……来说 szerkezet számtalan Pleco-példamondatban szerepel (a 对我来说-nak külön szócikke van a CC-CEDICT-ben, de távolról sem csak 我-val állhat)
+# 對 对 [dui4] /szembe|fordul/szemközt (vmivel)/felé/(főnév + 来说 előtt) számára; illetően; vonatkozólag; szempontjából/össze|illeszt/össze|vet/igazít/válaszol/felel/megfelelő/egyezik/helyes/igaz/(számlálószó) pár (két összetartozó darab)/
+# Ver 2021-04-02T12:21:54Z Adam Stat-Verif >.
+# 對 对 [dui4] /szembe|fordul/szemközt (vmivel)/felé/(főnév\névmás + 来说 előtt) számára; illetően; vonatkozólag; szempontjából/össze|illeszt/össze|vet/igazít/válaszol/felel/megfelelő/egyezik/helyes/igaz/(számlálószó) pár (két összetartozó darab)/
+# Ver 2021-04-02T16:28:14Z Adam Stat-Verif >tömörebb komment
+對 对 [dui4] /szembe|fordul/szemközt (vmivel)/felé/(来说-keretben) számára; illetően; vonatkozólag; szempontjából/össze|illeszt/össze|vet/igazít/válaszol/felel/megfelelő/egyezik/helyes/igaz/(számlálószó) pár (két összetartozó darab)/
 
 # ID-l55SI7W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -64018,7 +64034,8 @@ XX XX [x x] /x/
 # Ver 2019-09-28T17:49:36Z gabor Stat-New >szerintem ezek a magyar megfelelők kifejezik a kínai szó stílusrétegét
 # 去逝 去逝 [qu4 shi4] /el|húny; el|távozik/
 # Ver 2019-09-28T17:49:39Z gabor Stat-Verif >.
-去逝 去逝 [qu4 shi4] /el|húny; el|távozik/
+# Ver 2021-04-02T12:06:53Z Adam Stat-Verif >"elhuny" rövid "u"-val (l. Magyar helyesírási szótár vagy https://helyesiras.szotar.org/ )
+去逝 去逝 [qu4 shi4] /el|huny; el|távozik/
 
 # ID-o19Qa6B
 # Ver 2017-12-27T22:06:59Z gabor Stat-New >ABC, korpusz
@@ -65268,6 +65285,12 @@ XX XX [x x] /x/
 # ID-o48OL9L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 詞尾 词尾 [ci2 wei3] /végződés; toldalék/
+
+# ID-o48Qc8w
+# Ver 2021-04-02T12:29:44Z Adam Stat-New >Pleco-szótárak és -példamondatok
+# 在一起 在一起 [zai4 yi1 qi3] /össze-; egybe-/együtt/együtt van; össze|jön; össze|gyűlik/össze|kapcsolódik; össze|függ/
+# Ver 2021-04-02T12:31:15Z Adam Stat-New >az "össze-" jelentésre nem lehet keresni, ha a kötőjel után pontosvessző van, kénytelen vagyok külön jelentésbe tenni
+在一起 在一起 [zai4 yi1 qi3] /össze-/egybe-/együtt/együtt van; össze|jön; össze|gyűlik/össze|kapcsolódik; össze|függ/
 
 # ID-o48QV0J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
