@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-04-03T02:00:01Z
+# Időbélyeg / Timestamp: 2021-04-04T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -22924,7 +22924,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f11xf8n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-參與 参与 [can1 yu4] /részt|vesz (vmiben)/
+# 參與 参与 [can1 yu4] /részt|vesz (vmiben)/
+# Ver 2021-04-03T09:21:03Z Adam Stat-Verif >különírva (helyesírási szótár, illetve https://helyesiras.szotar.org/ alapján)
+參與 参与 [can1 yu4] /részt vesz (vmiben)/
 
 # ID-f11MM4M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -27665,7 +27667,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-g14eV5w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-投入 投入 [tou2 ru4] /be|dob/be|vet/részt|vesz/be|fektet/el|mélyült/
+# 投入 投入 [tou2 ru4] /be|dob/be|vet/részt|vesz/be|fektet/el|mélyült/
+# Ver 2021-04-03T09:22:47Z Adam Stat-Verif >"részt vesz" különírva (helyesírási szótár, illetve https://helyesiras.szotar.org/ alapján)
+投入 投入 [tou2 ru4] /be|dob/be|vet/részt vesz/be|fektet/el|mélyült/
 
 # ID-g14hV5Y
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -38507,7 +38511,9 @@ X X [X] /X/
 
 # ID-i57Fu8a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-參賽 参赛 [can1 sai4] /versenyez/versenyben részt|vesz/
+# 參賽 参赛 [can1 sai4] /versenyez/versenyben részt|vesz/
+# Ver 2021-04-03T09:24:22Z Adam Stat-Verif >"részt vesz" különírva (helyesírási szótár, illetve https://helyesiras.szotar.org/ alapján); azonosnak tűnő jelentések együvé
+參賽 参赛 [can1 sai4] /versenyez; versenyben részt vesz/
 
 # ID-i57IU9T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -39521,6 +39527,10 @@ X X [X] /X/
 # ID-i79tc2R
 # Ver 2019-07-01T16:16:18Z GaoYanuo Stat-New >http://translation-dictionary.net/chinese-english/%E9%99%8D%E8%86%9C%E8%92%B8%E5%8F%91%E5%99%A8
 降膜蒸發器 降膜蒸发器 [jiang4 mo2 zheng1 fa1 qi4] /esőfilmes filmbepárló/
+
+# ID-i79CS2p
+# Ver 2021-04-03T16:54:47Z Adam Stat-New >Wiktionary ("postposition")
+後置詞 后置词 [hou4 zhi4 ci2] /névutó/
 
 # ID-i79Ia8C
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -50514,7 +50524,9 @@ X X [X] /X/
 
 # ID-l21sQ5m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-參加 参加 [can1 jia1] /részt|vesz (vmiben)/
+# 參加 参加 [can1 jia1] /részt|vesz (vmiben)/
+# Ver 2021-04-03T09:22:03Z Adam Stat-Verif >+1különírva (helyesírási szótár, illetve https://helyesiras.szotar.org/ alapján)
+參加 参加 [can1 jia1] /részt vesz (vmiben)/
 
 # ID-l21wS4y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -57266,6 +57278,10 @@ XX XX [x x] /x/
 # ID-m67LM3l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 成為 成为 [cheng2 wei2] /válik (vmivé)/
+
+# ID-m67Ub0c
+# Ver 2021-04-03T16:57:57Z Adam Stat-New >https://zh.wikipedia.org/zh-cn/%E4%BB%8B%E8%A9%9E
+後置介詞 后置介词 [hou4 zhi4 jie4 ci2] /névutó/
 
 # ID-m68ao8R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
