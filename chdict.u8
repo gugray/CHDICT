@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-04-04T02:00:01Z
+# Időbélyeg / Timestamp: 2021-04-07T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -13030,6 +13030,12 @@
 # Ver 2017-12-08T21:21:30Z gabor Stat-Verif >.
 狗鏈 狗链 [gou3 lian4] /póráz/
 
+# ID-c89DU5t
+# Ver 2021-04-06T08:18:16Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+# 嚴重急性呼吸係統綜合徵冠狀病毒2 严重急性呼吸系统综合征冠状病毒2 [yan2 zhong4 ji2 xing4 hu1 xi1 xi4 tong3 zong1 he2 zheng1 guan1 zhuang4 bing4 du2 2] /súlyos akut légzőszervi szindróma koronavírus 2; SARS-CoV-2 (tajvani névváltozata: 嚴重急性呼吸道症候群冠狀病毒2型)/
+# Ver 2021-04-06T08:25:04Z Adam Stat-New >függőleges vonal szóelemeknél
+嚴重急性呼吸係統綜合徵冠狀病毒2 严重急性呼吸系统综合征冠状病毒2 [yan2 zhong4 ji2 xing4 hu1 xi1 xi4 tong3 zong1 he2 zheng1 guan1 zhuang4 bing4 du2 2] /súlyos akut légző|szervi szindróma korona|vírus 2; SARS-CoV-2 (tajvani névváltozata: 嚴重急性呼吸道症候群冠狀病毒2型)/
+
 # ID-c89Fo1b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 得 得 [de2] /meg|szerez/hozzá|jut/el|kap/kész van/rendben/
@@ -16797,6 +16803,14 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-d70SC3T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 自費 自费 [zi4 fei4] /saját költségén/
+
+# ID-d70Uj1h
+# Ver 2021-04-06T08:01:12Z Adam Stat-New >kínai nyelvű Wikipedia-szócikk címe
+# 新型冠狀病毒 新型冠状病毒 [xin1 xing2 guan1 zhuang4 bing4 du2] /új típusú koronavírus (beleértve: SARS-CoV-1, SARS-CoV-2, MERS-CoV, HCoV-HKU1)/
+# Ver 2021-04-06T08:19:09Z Adam Stat-New >+ rövid alak
+# 新型冠狀病毒 新型冠状病毒 [xin1 xing2 guan1 zhuang4 bing4 du2] /új típusú koronavírus (beleértve: SARS-CoV-1, SARS-CoV-2, MERS-CoV, HCoV-HKU1; rövid alakban: 新冠)/
+# Ver 2021-04-06T08:24:41Z Adam Stat-New >függőleges vonal szóelemeknél
+新型冠狀病毒 新型冠状病毒 [xin1 xing2 guan1 zhuang4 bing4 du2] /új típusú korona|vírus (beleértve: SARS-CoV-1, SARS-CoV-2, MERS-CoV, HCoV-HKU1; rövid alakban: 新冠)/
 
 # ID-d71fX1T
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -25161,6 +25175,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f58YH7S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 溝通 沟通 [gou1 tong1] /össze|köt/kommunikál/
+
+# ID-f59cO0w
+# Ver 2021-04-06T08:24:06Z Adam Stat-New >összekapcsolt Wikipedia-szócikkek
+冠狀病毒 冠状病毒 [guan1 zhuang4 bing4 du2] /korona|vírus (számos különböző vírusfajt magában foglaló, az 1960-as évek óta ismert alcsalád)/
 
 # ID-f59jv3w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -44363,7 +44381,9 @@ X X [X] /X/
 
 # ID-j88AU0F
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
-症候群 症候群 [zheng4 hou4 qun2] /szindróma/
+# 症候群 症候群 [zheng4 hou4 qun2] /szindróma/
+# Ver 2021-04-06T08:45:30Z Adam Stat-Verif >+ két szinonima
+症候群 症候群 [zheng4 hou4 qun2] /szindróma; tünet|együttes; tünet|csoport/
 
 # ID-j88Fx4n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -48316,6 +48336,10 @@ X X [X] /X/
 # ID-k74GC8I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 季度 季度 [ji4 du4] /negyed|év/
+
+# ID-k74Ls8n
+# Ver 2021-04-06T20:32:13Z Adam Stat-New >Pleco-szótárak "flock of sheep" alatt
+羊群 羊群 [yang2 qun2] /juh|nyáj; birka|nyáj/
 
 # ID-k74QN6R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
