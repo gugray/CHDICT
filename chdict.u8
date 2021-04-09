@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-04-07T02:00:01Z
+# Időbélyeg / Timestamp: 2021-04-09T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -6429,6 +6429,12 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 大多數 大多数 [da4 duo1 shu4] /többség/a legtöbb/
 
+# ID-b41eC6a
+# Ver 2021-04-08T22:50:09Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+# 丹麥 丹麦 [dan1 mai4] /(földrajzi név) Dánia/
+# Ver 2021-04-08T22:50:52Z Adam Stat-New >+ hivatalos forma
+丹麥 丹麦 [dan1 mai4] /(földrajzi név) Dánia (hivatalosan: 丹麦王国)/
+
 # ID-b41fc8a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 決賽 决赛 [jue2 sai4] /döntő (bajnokságban)/
@@ -7307,6 +7313,12 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 媒介 媒介 [mei2 jie4] /hordozó/közvetítő/
 
+# ID-b61uj7q
+# Ver 2021-04-08T21:33:18Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+# 安提瓜和巴布達 安提瓜和巴布达 [an1 ti2 gua1 he2 ba1 bu4 da2] /Antigua és Barbuda/
+# Ver 2021-04-08T21:33:54Z Adam Stat-New >"(földrajzi név)" beszúrása
+安提瓜和巴布達 安提瓜和巴布达 [an1 ti2 gua1 he2 ba1 bu4 da2] /(földrajzi név) Antigua és Barbuda/
+
 # ID-b61FJ6Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 商店 商店 [shang1 dian4] /üzlet/bolt/SZ:家[jia1],個|个[ge4]/
@@ -7931,6 +7943,12 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 糜費 糜费 [mi2 fei4] /pazarlóan költekezik/
 
+# ID-b75Cf9t
+# Ver 2021-04-08T22:59:19Z Adam Stat-New >összekapcsolt Wikipedia-szócikkek
+# 澳大利亞洲 澳大利亚洲 [ao4 da4 li4 ya4 zhou1] /(földrajzi név) Ausztrália (mint földrész, beleértve Új-Guinea, Tasmania és az ezeket összekötő kontinentális self területeit is)/
+# Ver 2021-04-08T23:00:18Z Adam Stat-New >rövid alak
+澳大利亞洲 澳大利亚洲 [ao4 da4 li4 ya4 zhou1] /(földrajzi név) Ausztrália (mint földrész, beleértve Új-Guinea, Tasmania és az ezeket összekötő kontinentális self területeit is; röviden 澳洲)/
+
 # ID-b76cS3i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 挑起 挑起 [tiao3 qi3] /provokál/szít/ösztönöz/
@@ -8407,6 +8425,10 @@
 # ID-b86zm7F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 甩 甩 [shuai3] /lóbál/hajít/dob/hátra|hagy/
+
+# ID-b86Az1n
+# Ver 2021-04-08T21:35:49Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+布基納法索 布基纳法索 [bu4 ji1 na4 fa3 suo3] /(földrajzi név) Burkina Faso/
 
 # ID-b86DZ1J
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -16823,6 +16845,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-d71Ag4Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 未必 未必 [wei4 bi4] /nem feltétlenül/lehet, hogy nem/
+
+# ID-d71BM0b
+# Ver 2021-04-08T21:37:56Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, két eleme CC-CEDICT által megerősítve
+剛果共和國 刚果共和国 [gang1 guo3 gong4 he2 guo2] /(földrajzi név) Kongói Köztársaság/
 
 # ID-d71NL0i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -28307,7 +28333,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-g28ns6C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-澳大利亞 澳大利亚 [ao4 da4 li4 ya4] /(földrajzi név) Ausztrália/
+# 澳大利亞 澳大利亚 [ao4 da4 li4 ya4] /(földrajzi név) Ausztrália/
+# Ver 2021-04-08T22:51:26Z Adam Stat-Verif >+ hivatalos forma
+澳大利亞 澳大利亚 [ao4 da4 li4 ya4] /(földrajzi név) Ausztrália (hivatalosan: 澳大利亚联邦)/
 
 # ID-g28pG7A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -29913,6 +29941,10 @@ X X [X] /X/
 # ID-g61LE2A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 面部 面部 [mian4 bu4] /arc (testrész)/
+
+# ID-g61LJ3C
+# Ver 2021-04-08T22:19:23Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+烏克蘭 乌克兰 [wu1 ke4 lan2] /(földrajzi név) Ukrajna/
 
 # ID-g61Ml6Q
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -31863,6 +31895,10 @@ X X [X] /X/
 # ID-h04sD6l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 出版者 出版者 [chu1 ban3 zhe3] /kiadó (könyveket megjelentető cég)/
+
+# ID-h04sV2E
+# Ver 2021-04-08T23:13:14Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+奧地利 奥地利 [ao4 di4 li4] /(földrajzi név) Ausztria (hivatalosan: 奥地利共和国)/
 
 # ID-h04un3o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -34221,7 +34257,9 @@ X X [X] /X/
 
 # ID-h63mg6u
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
-共和 共和 [gong4 he2] /köztársaság/
+# 共和 共和 [gong4 he2] /köztársaság/
+# Ver 2021-04-08T22:28:29Z Adam Stat-Verif >pontosítás CC-CEDICT és Wiktionary (főként a példái) alapján
+共和 共和 [gong4 he2] /köztársaság (elvont értelemben)/köztársaság-pártiság; republikanizmus/
 
 # ID-h63qN3T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -35648,7 +35686,9 @@ X X [X] /X/
 
 # ID-h93GM3m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-無 无 [wu2] /nincs (nem létezik; nem rendelkezik vmivel)/nélküli/nem (előtag értelmében, vmivel nem rendelkező)/
+# 無 无 [wu2] /nincs (nem létezik; nem rendelkezik vmivel)/nélküli/nem (előtag értelmében, vmivel nem rendelkező)/
+# Ver 2021-04-08T23:21:07Z Adam Stat-Verif >gyakran a fosztóképző felel meg neki magyarul leginkább
+無 无 [wu2] /nincs (nem létezik; nem rendelkezik vmivel)/nem (előtag értelmében, vmivel nem rendelkező)/nélküli/-talan\-telen; -tlan\-tlen; -atlan\-etlen/
 
 # ID-h93Io1h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -39367,6 +39407,10 @@ X X [X] /X/
 # ID-i75mP0e
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 好似 好似 [hao3 si4] /úgy néz ki, mint/olyan, mintha/
+
+# ID-i75ny0z
+# Ver 2021-04-08T21:40:18Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+格魯吉亞 格鲁吉亚 [ge2 lu3 ji2 ya4] /(földrajzi név) Grúzia/
 
 # ID-i75rI4L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -43696,6 +43740,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 颱風 台风 [tai2 feng1] /tájfun/
 
+# ID-j73Yh7t
+# Ver 2021-04-08T22:31:34Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+圖瓦盧 图瓦卢 [tu2 wa3 lu2] /(földrajzi név) Tuvalu/
+
 # ID-j74aY5Y
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 勒死 勒死 [lei1 si3] /meg|fojt (fojtogatva megöl)/
@@ -44975,6 +45023,10 @@ X X [X] /X/
 # ID-k01AS5T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 資源 资源 [zi1 yuan2] /természeti erőforrás/
+
+# ID-k01FZ7t
+# Ver 2021-04-08T22:21:17Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+新西蘭 新西兰 [xin1 xi1 lan2] /(földrajzi név) Új-Zéland/
 
 # ID-k01Mb3d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -48133,6 +48185,12 @@ X X [X] /X/
 # Ver 2018-05-03T19:53:50Z GaoYanuo Stat-Verif >forrás: tanár, korpusz megerősíti.\nHehe, a korpusz "falu bikája"  értelemben is említi, de azt nem mertem még bele venni.
 教父 教父 [jiao4 fu4] /keresztapa (maffiafőnök értelemben is)/
 
+# ID-k69Tj1l
+# Ver 2021-04-08T22:12:28Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve – KIVÉVE a második karaktert, amelynek hagyományos írásmóddal is 克-nek kéne lennie, de a szoftver nem teszi lehetővé (a 剋 az MDBG szerint csak négy összetételben fordul elő, mindenütt máshol 克, köztük számtalan átírásban)
+# 密剋羅尼西亞聯邦 密克罗尼西亚联邦 [mi4 ke4 luo2 ni2 xi1 ya4 lian2 bang1] /(földrajzi név) Mikronéziai Szövetségi Államok; Mikronézia (óceániai ország; négy szövetségi állam föderációja)/
+# Ver 2021-04-08T22:13:15Z Adam Stat-Flagged >a második karakternek hagyományos írásmóddal is 克-nek kéne lennie, de a szoftver nem teszi lehetővé (a 剋 az MDBG szerint csak négy összetételben fordul elő, mindenütt máshol 克, köztük számtalan átírásban)
+密剋羅尼西亞聯邦 密克罗尼西亚联邦 [mi4 ke4 luo2 ni2 xi1 ya4 lian2 bang1] /(földrajzi név) Mikronéziai Szövetségi Államok; Mikronézia (óceániai ország; négy szövetségi állam föderációja)/
+
 # ID-k70aA0h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 比如說 比如说 [bi3 ru2 shuo1] /például/
@@ -48743,6 +48801,10 @@ X X [X] /X/
 # ID-k84eV1a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 風寒 风寒 [feng1 han2] /szél és hideg/meg|fázás/
+
+# ID-k84fW6e
+# Ver 2021-04-08T22:32:44Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+土庫曼斯坦 土库曼斯坦 [tu3 ku4 man4 si1 tan3] /(földrajzi név) Türkmenisztán/
 
 # ID-k84le8Z
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -52661,6 +52723,10 @@ X X [X] /X/
 # ID-l66UR7x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 選民 选民 [xuan3 min2] /szavazó/választó; a választók/
+
+# ID-l66VN2p
+# Ver 2021-04-08T21:39:03Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+剛果民主共和國 刚果民主共和国 [gang1 guo3 min2 zhu3 gong4 he2 guo2] /(földrajzi név) Kongói Demokratikus Köztársaság/
 
 # ID-l67bW2h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -57969,6 +58035,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 青春 青春 [qing1 chun1] /ifjúság/fiatalság/
 
+# ID-m82cl5t
+# Ver 2021-04-08T22:22:02Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+羅馬尼亞 罗马尼亚 [luo2 ma3 ni2 ya4] /(földrajzi név) Románia/
+
 # ID-m82cA5I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 報復 报复 [bao4 fu4] /meg|torlás/bosszú/bosszút áll/
@@ -58040,6 +58110,10 @@ XX XX [x x] /x/
 # ID-m83Ew7T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 扇子 扇子 [shan4 zi5] /legyező/SZ:把[ba3]/
+
+# ID-m83GH1w
+# Ver 2021-04-08T23:17:12Z Adam Stat-New >CC-CEDICT
+奧匈帝國 奥匈帝国 [ao4 xiong1 di4 guo2] /(földrajzi név) Osztrák–Magyar Monarchia (1867–1918)/
 
 # ID-m83QX4V
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -66930,6 +67004,10 @@ XX XX [x x] /x/
 # ID-o84Tz5c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 俱 俱 [ju4] /teljesen/kivétel nélkül/
+
+# ID-o84VU5L
+# Ver 2021-04-08T21:41:59Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+格林納達 格林纳达 [ge2 lin2 na4 da2] /(földrajzi név) Grenada (közép-amerikai ország)/
 
 # ID-o84YE3Q
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
