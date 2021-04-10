@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-04-09T02:00:01Z
+# Időbélyeg / Timestamp: 2021-04-10T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -149,6 +149,10 @@
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 狗屋 狗屋 [gou3 wu1] /kutya|ház/
 
+# ID-a03ed5V
+# Ver 2021-04-09T20:06:21Z GaoYanuo Stat-New >HSK4 tankönyv és szokásos szótárak
+無處不在 无处不在 [wu2 chu4 bu4 zai4] /(kifejezés) mindenhol; mindenfele/
+
 # ID-a03le1N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 巡回 巡回 [xun2 hui2] /túrázik/körbe|jár/túra; turné/
@@ -270,6 +274,12 @@
 # ID-a04SS1i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 空調 空调 [kong1 tiao2] /lég|kondicionáló/lég|kondi; klíma/SZ:臺|台[tai2]/
+
+# ID-a04UU5n
+# Ver 2021-04-09T21:21:17Z GaoYanuo Stat-New >HSK4 tankönyv és szokásos szótárak
+# 際 际 [ji4] /közötti, inter-/
+# Ver 2021-04-09T21:24:40Z GaoYanuo Stat-New >Bartos-Hamar alapján kiegészítve
+際 际 [ji4] /közötti, inter-/köz/vminek a belseje/alkalom; alkalmából/sors, osztályrész, életkörülmények/
 
 # ID-a04Yb0y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -1397,6 +1407,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 日記 日记 [ri4 ji4] /napló/SZ:則|则[ze2],本[ben3],篇[pian1]/
 
+# ID-a30bY6u
+# Ver 2021-04-09T14:54:04Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+所羅門群島 所罗门群岛 [suo3 luo2 men2 qun2 dao3] /(földrajzi név) Salamon-szigetek (óceániai ország)/
+
 # ID-a30kb7n
 # Ver 2021-03-29T14:28:37Z Adam Stat-New >összekapcsolt Wikipedia-szócikkek
 牙齦 牙龈 [ya2 yin2] /fog|íny/
@@ -1732,6 +1746,10 @@
 # ID-a36rC9P
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 牲 牲 [sheng1] /házi|állat/áldozati állat/
+
+# ID-a36ss8I
+# Ver 2021-04-09T20:11:51Z GaoYanuo Stat-New >HSK4 tankönyv és szokásos szótárak
+不過如此 不过如此 [bu4 guo4 ru2 ci3] /(kifejezés) Éppen csak tűrhető/
 
 # ID-a36Bh3l
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -4145,6 +4163,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 無憂無慮 无忧无虑 [wu2 you1 wu2 lü4] /(kifejezés) gondtalan; semmi sem nyomasztja/
 
+# ID-a89ed7e
+# Ver 2021-04-09T20:00:44Z GaoYanuo Stat-New >anyanyelvi tanár
+七喜 七喜 [qi1 xi3] /(tulajdonnév) 7 UP ital/
+
 # ID-a89pS3u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 欣慰 欣慰 [xin1 wei4] /hálás/örül/elégedett/
@@ -5977,6 +5999,8 @@
 
 # ID-b29xT4B
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
+# 同義詞 同义词 [tong2 yi4 ci2] /szinonima/
+# Ver 2021-04-09T21:06:26Z GaoYanuo Stat-Verif >A tanár azonos jelentésű szavaknak mondta. Amit mi rokonértelmű szónak, szinonimának tartunk, arra ő a 近义词-t használta. Az angol nyelvű szótárk  is synonym-nek fordítják, de nem  vagyok biztos, hogy magyarul is azt jelenti. (mint pl. a szmoking angolul tuxedo, a smoking meg dohányzás)
 同義詞 同义词 [tong2 yi4 ci2] /szinonima/
 
 # ID-b29Bh3I
@@ -6742,6 +6766,10 @@
 # ID-b48th7s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 嚴 严 [yan2] /szigorú/
+
+# ID-b48tk8t
+# Ver 2021-04-09T20:07:47Z GaoYanuo Stat-New >HSK4 tankönyv és szokásos szótárak
+一概而論 一概而论 [yi1 gai4 er2 lun4] /(kifejezés) általánosít; egy kalap alá vesz/
 
 # ID-b48xG8x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -8231,6 +8259,10 @@
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 信道 信道 [xin4 dao4] /csatorna (hang- vagy adatátvitelben)/
 
+# ID-b83bl3V
+# Ver 2021-04-09T20:26:04Z GaoYanuo Stat-New >HSK4 tankönyv és szokásos szótárak
+考官 考官 [kao3 guan1] /vizsgáztató/
+
 # ID-b83di7Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 龍鬚菜 龙须菜 [long2 xu1 cai4] /spárga (növény)/
@@ -8751,6 +8783,10 @@
 # ID-b93VM9n
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 毒理學 毒理学 [du2 li3 xue2] /toxikológia/
+
+# ID-b93ZQ8F
+# Ver 2021-04-09T21:18:49Z GaoYanuo Stat-New >HSK4 tankönyv és szokásos szótárak
+口語 口语 [kou3 yu3] /beszélt nyelv/
 
 # ID-b94bZ3r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -12622,7 +12658,9 @@
 
 # ID-c79PO9a
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
-自治 自治 [zi4 zhi4] /autonómia; önkormányzat; függetlenség/
+# 自治 自治 [zi4 zhi4] /autonómia; önkormányzat; függetlenség/
+# Ver 2021-04-09T12:52:33Z Adam Stat-Verif >a "függetlenség" nem annyira vág ide
+自治 自治 [zi4 zhi4] /autonómia; önkormányzat/
 
 # ID-c80ez5d
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -13435,6 +13473,10 @@
 # ID-c96Yg9Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 左右 左右 [zuo3 you4] /körülbelül/a közelben/be|folyásol/akárhogyis/
+
+# ID-c97cV3f
+# Ver 2021-04-09T20:54:57Z GaoYanuo Stat-New >HSK4 tankönyv és szokásos szótárak
+單句 单句 [dan1 ju4] /(nyelvtan) egyszerű mondat/
 
 # ID-c97no5v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -18025,6 +18067,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 幻象 幻象 [huan4 xiang4] /fantom; vízió; látomás; illúzió/
 
+# ID-d99tj1m
+# Ver 2021-04-09T20:09:26Z GaoYanuo Stat-New >HSK4 tankönyv és szokásos szótárak
+精湛 精湛 [jing1 zhan4] /tökéletes/remek; pompás/
+
 # ID-d99CP1L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 設定 设定 [she4 ding4] /be|állít/be|állítások/
@@ -18256,7 +18302,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-e03CF3T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-舉手 举手 [ju3 shou3] /fel|emeli a kezét/fel|teszi a kezét/
+# 舉手 举手 [ju3 shou3] /fel|emeli a kezét/fel|teszi a kezét/
+# Ver 2021-04-09T20:04:25Z GaoYanuo Stat-Verif >Bartos-Hamar alapján kiegészítve azért, hogy ezekre a keresésekre is adjon találatot.
+舉手 举手 [ju3 shou3] /fel|emeli a kezét/fel|teszi a kezét/jelentkezik (iskolában)/kézfeltartással szavaz/
 
 # ID-e03TB7K
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -21253,7 +21301,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-e69DN6f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-疑問 疑问 [yi2 wen4] /kétség/kérdés/
+# 疑問 疑问 [yi2 wen4] /kétség/kérdés/
+# Ver 2021-04-09T21:16:08Z GaoYanuo Stat-Verif >HSK4 tankönyv és szokásos szótárak
+疑問 疑问 [yi2 wen4] /kétség/kérdés/(nyelvtan) kérdő/
 
 # ID-e69Hh4q
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -23443,7 +23493,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f22tJ1q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-發表 发表 [fa1 biao3] /ki|ad (művet)/közzé|tesz/
+# 發表 发表 [fa1 biao3] /ki|ad (művet)/közzé|tesz/
+# Ver 2021-04-09T20:36:51Z GaoYanuo Stat-Verif >Bartos-Hamar alapján kiegészítve
+發表 发表 [fa1 biao3] /ki|ad (művet)/közzé|tesz/kinyilvánít (véleményt)/
 
 # ID-f22GW2A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -26084,6 +26136,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 地上 地上 [di4 shang5] /a földön/föld feletti/
 
+# ID-f78Fw7H
+# Ver 2021-04-09T20:59:58Z GaoYanuo Stat-New >HSK4 tankönyv és szokásos szótárak
+語境 语境 [yu3 jing4] /(nyelvtan) szövegkörnyezet, kontextus/
+
 # ID-f78GN2L
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 探險家 探险家 [tan4 xian3 jia1] /felfedező (ember)/
@@ -26920,6 +26976,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 打招呼 打招呼 [da3 zhao1 hu5] /köszönt (vkit)/előre értesít/
 
+# ID-f98kG9P
+# Ver 2021-04-09T19:37:39Z GaoYanuo Stat-New >HSK4 tk, szokásos szótárak megerősítik.
+月底 月底 [yue4 di3] /hónap vége; hóvége/
+
 # ID-f98lg5m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 貪污 贪污 [tan1 wu1] /korrupció; vesztegetés/korrupt; meg|vesztegethető/
@@ -27244,7 +27304,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 再 再 [zai4] /újra/ismét/még egyszer/akkor (csak miután valami bekövetkezett, addig nem)/
 # Ver 2017-05-23T21:25:01Z Adam Stat-Verif >rövidíteni szoktuk a vala- előtagú szavakat
-再 再 [zai4] /újra/ismét/még egyszer/akkor (csak miután vmi bekövetkezett, addig nem)/
+# 再 再 [zai4] /újra/ismét/még egyszer/akkor (csak miután vmi bekövetkezett, addig nem)/
+# Ver 2021-04-09T19:53:12Z GaoYanuo Stat-Verif >HSK4 tankönyv és Bartos-Hamar alapján kiegészítve.
+再 再 [zai4] /újra/ismét/még egyszer/akkor (csak miután vmi bekövetkezett, addig nem)/még (melléknév fokozásra: még ...-bb)/
 
 # ID-g05uC4r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -28024,7 +28086,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-g20Hz7r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-獨立 独立 [du2 li4] /független/önálló/
+# 獨立 独立 [du2 li4] /független/önálló/
+# Ver 2021-04-09T12:55:43Z Adam Stat-Verif >főnévi jelentése is van a Pleco-szótárak szerint
+獨立 独立 [du2 li4] /független/önálló/függetlenség/
 
 # ID-g20Lq0D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -32344,7 +32408,9 @@ X X [X] /X/
 
 # ID-h16me8I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-格式 格式 [ge2 shi4] /forma/formátum/specifikáció/
+# 格式 格式 [ge2 shi4] /forma/formátum/specifikáció/
+# Ver 2021-04-09T20:33:56Z GaoYanuo Stat-Verif >Bartos-Hamar alapján kiegészítve
+格式 格式 [ge2 shi4] /forma/formátum/specifikáció/sablon/
 
 # ID-h16mO2G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -32421,6 +32487,12 @@ X X [X] /X/
 # ID-h17vL3t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 創始 创始 [chuang4 shi3] /kezdeményez/létre|hoz/meg|teremt/
+
+# ID-h17vO9l
+# Ver 2021-04-09T14:57:32Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+# 阿布哈茲 阿布哈兹 [a1 bu4 ha1 zi1] /(földrajzi név) Abházia (tisztázatlan státuszú terület a Kaukázusban; a legtöbb állam Grúzia részének tekinti)/
+# Ver 2021-04-09T14:58:07Z Adam Stat-New >+ hivatalos név a zárójeles részbe
+阿布哈茲 阿布哈兹 [a1 bu4 ha1 zi1] /(földrajzi név) Abházia (hivatalosan: 阿布哈兹共和国; tisztázatlan státuszú terület a Kaukázusban; a legtöbb állam Grúzia részének tekinti)/
 
 # ID-h17zX2u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -34140,6 +34212,10 @@ X X [X] /X/
 # ID-h59SO3G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 清潔 清洁 [qing1 jie2] /tiszta/
+
+# ID-h59Xp9o
+# Ver 2021-04-09T19:44:37Z GaoYanuo Stat-New >Anyanyelvi tanár, Baidu\nhttp://www.ichacha.net/%E8%AF%AD%E8%A8%80%E7%BB%84%E7%BB%87.html
+錶達能力 表达能力 [biao3 da2 neng2 li4] /nyelvérzék; nyelvhasználati képesség/
 
 # ID-h60xm7Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -37513,6 +37589,10 @@ X X [X] /X/
 # Ver 2019-10-04T15:16:50Z gabor Stat-Verif >ez szerintem ugyanaz, mint a kinyit, csak a magyar sajátsága, hogy ha szájat nyitunk, akkor arra inkább a tátot használjuk :) ilyen erővel jöhetne a tár is (kezet) stb.
 張開 张开 [zhang1 kai1] /ki|terít/ki|nyit/ki|terjed/
 
+# ID-i33oS6Y
+# Ver 2021-04-09T20:30:31Z GaoYanuo Stat-New >HSK4 tankönyv és szokásos szótárak
+憑借 凭借 [ping2 jie4] /támaszkodik; hagyatkozik (vmire)/alapszik; nyugszik (vmin)/
+
 # ID-i33uR3Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 第二 第二 [di4 er4] /második/
@@ -39105,7 +39185,9 @@ X X [X] /X/
 
 # ID-i68Dm5r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-排斥 排斥 [pai2 chi4] /el|utasít/ki|lök (test magából)/
+# 排斥 排斥 [pai2 chi4] /el|utasít/ki|lök (test magából)/
+# Ver 2021-04-09T20:31:41Z GaoYanuo Stat-Verif >Bartos-Hamar alapján kiegészítve
+排斥 排斥 [pai2 chi4] /el|utasít/ki|lök (test magából)/taszít/
 
 # ID-i68EH0k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -40592,6 +40674,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 男 男 [nan2] /férfi/SZ:個|个[ge4]/
 
+# ID-j02Ka0m
+# Ver 2021-04-09T20:51:40Z GaoYanuo Stat-New >HSK4 tankönyv és szokásos szótárak
+連用 连用 [lian2 yong4] /együtt használ vmivel/egyfolytában,  folyamatosan használ/egymás után használ/
+
 # ID-j02KW1Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 舉起 举起 [ju3 qi3] /fel|emel/
@@ -41534,6 +41620,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 混淆 混淆 [hun4 xiao2] /össze|zavar/el|homályosít/össze|kever; össze|téveszt/
 
+# ID-j22Ol4y
+# Ver 2021-04-09T21:14:18Z GaoYanuo Stat-New >HSK4 tankönyv és szokásos szótárak
+詞性 词性 [ci2 xing4] /szófaj/
+
 # ID-j22XN0I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 繪畫 绘画 [hui4 hua4] /festészet/rajzol; fest/
@@ -42142,6 +42232,10 @@ X X [X] /X/
 # ID-j37jI1e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 調料 调料 [tiao2 liao4] /ízesítés/fűszerezés/
+
+# ID-j37mF9W
+# Ver 2021-04-09T14:51:57Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+聖文森特和格林納丁斯 圣文森特和格林纳丁斯 [sheng4 wen2 sen1 te4 he2 ge2 lin2 na4 ding1 si1] /(földrajzi név) Saint Vincent és a Grenadine-szigetek (közép-amerikai ország)/
 
 # ID-j37pJ0u
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -42797,6 +42891,10 @@ X X [X] /X/
 # Ver 2018-01-29T20:52:50Z GaoYanuo Stat-New >http://www.youdao.com/w/%E8%92%B8%E6%B0%94/#keyfrom=dict2.top\nhttp://www.dictall.com/dictall/result.jsp?cd=UTF-8&keyword=%E8%92%B8%E6%B0%94
 蒸氣 蒸气 [zheng1 qi4] /gőz (összetételek előtagjaként is, mint gőzzel működő)/pára/gőzöl (gőzzel működtet, kezel vmit.)/
 
+# ID-j52ow1g
+# Ver 2021-04-09T20:40:34Z GaoYanuo Stat-New >HSK4 tankönyv és szokásos szótárak
+真實性 真实性 [zhen1 shi2 xing4] /szavahihetőség/hitelesség; valódiság/eredetiség/
+
 # ID-j52uA0E
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 書信 书信 [shu1 xin4] /levél (írott üzenet)/
@@ -43015,6 +43113,10 @@ X X [X] /X/
 # ID-j56NR8B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 自己 自己 [zi4 ji3] /önmaga/saját maga/
+
+# ID-j56Rr3h
+# Ver 2021-04-09T20:41:44Z GaoYanuo Stat-New >HSK4 tankönyv és szokásos szótárak
+語義學 语义学 [yu3 yi4 xue2] /szemantika; jelentéstan/
 
 # ID-j56Tl2q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -43373,6 +43475,10 @@ X X [X] /X/
 # ID-j65Iq6h
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 割禮 割礼 [ge1 li3] /körül|metélés/
+
+# ID-j65Ue1Y
+# Ver 2021-04-09T20:19:43Z GaoYanuo Stat-New >HSK4 tanköny,\nhttps://www.reverso.net/translationresults.aspx?lang=EN&direction=chinese-english
+是時候 是时候 [shi4 shi2 hou4] /ideje (tenni vmit)/épp jókor/
 
 # ID-j66ey8Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -43742,7 +43848,9 @@ X X [X] /X/
 
 # ID-j73Yh7t
 # Ver 2021-04-08T22:31:34Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
-圖瓦盧 图瓦卢 [tu2 wa3 lu2] /(földrajzi név) Tuvalu/
+# 圖瓦盧 图瓦卢 [tu2 wa3 lu2] /(földrajzi név) Tuvalu/
+# Ver 2021-04-09T14:54:57Z Adam Stat-New >zárójeles magyarázat
+圖瓦盧 图瓦卢 [tu2 wa3 lu2] /(földrajzi név) Tuvalu (óceániai ország)/
 
 # ID-j74aY5Y
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -44543,7 +44651,9 @@ X X [X] /X/
 
 # ID-j90MU9c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-列舉 列举 [lie4 ju3] /fel|sorol/
+# 列舉 列举 [lie4 ju3] /fel|sorol/
+# Ver 2021-04-09T20:53:16Z GaoYanuo Stat-Verif >Bartos-Hamar alapján kiegészítve
+列舉 列举 [lie4 ju3] /fel|sorol/listáz; számba vesz/
 
 # ID-j90SG8G
 # Ver 2021-03-24T18:59:46Z Adam Stat-New >Wikipedia
@@ -45583,6 +45693,10 @@ X X [X] /X/
 # 繁體字 繁体字 [fan2 ti3 zi4] /hagyományos írásjelek/
 # Ver 2017-05-22T02:46:17Z Adam Stat-Verif >nem központozás, hanem karakterek
 繁體字 繁体字 [fan2 ti3 zi4] /hagyományos írásjegyek (Tajvanon, Hongkongban stb.)/
+
+# ID-k13yo5C
+# Ver 2021-04-09T20:45:18Z GaoYanuo Stat-New >HSK4 tankönyv és szokásos szótárak
+為主 为主 [wei2 zhu3] /előtérbe helyez/elsődlegesnek tekint//
 
 # ID-k13BV8F
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -47124,6 +47238,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 陰暗面 阴暗面 [yin1 an4 mian4] /sötét oldal (dolgoké, társadalomé stb.)/
 
+# ID-k46XT1Y
+# Ver 2021-04-09T20:02:00Z GaoYanuo Stat-New >anyanyelvi tanár
+寫手 写手 [xie3 shou3] /hivatásos író/
+
 # ID-k46Zt2k
 # Ver 2019-03-18T07:56:08Z GaoYanuo Stat-New >Forrás: tanár, Pleco megerősíti.\nhttp://www.ichacha.net/%E5%B0%8F%E8%91%B1%E6%8B%8C%E8%B1%86%E8%85%90,%E4%B8%80%E6%B8%85%E4%BA%8C%E7%99%BD.html
 # 小蔥拌豆腐一清二白 小葱拌豆腐一清二白 [xiao3 cong1 ban4 dou4 fu3 yi1 qing1 er4 bai2] /(kifejezés) Egyszerű,mint a faék. (Szó szerint: egyszerű, mint egy tál tofu hagymával.)/
@@ -48315,6 +48433,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 除此之外 除此之外 [chu2 ci3 zhi1 wai4] /ezen kívül/továbbá/
 
+# ID-k72Wd4z
+# Ver 2021-04-09T20:33:01Z GaoYanuo Stat-New >HSK4 tankönyv és szokásos szótárak
+遞進 递进 [di4 jin4] /fokozatosan; lépésről lépésre/
+
 # ID-k73aR4e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 呻吟 呻吟 [shen1 yin2] /nyög/nyöszörög/nyíg; panaszkodik/
@@ -48532,6 +48654,10 @@ X X [X] /X/
 # ID-k76Rw5P
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 共犯 共犯 [gong4 fan4] /bűntárs; cinkos/
+
+# ID-k76Ti3V
+# Ver 2021-04-09T20:35:41Z GaoYanuo Stat-New >HSK4 tankönyv és szokásos szótárak
+引出 引出 [yin3 chu1] /vonz/vezet valamire/eredményez/
 
 # ID-k76WJ2K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -53771,6 +53897,10 @@ X X [X] /X/
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 懶鬼 懒鬼 [lan3 gui3] /lusta|zsák/
 
+# ID-l90VF6J
+# Ver 2021-04-09T21:19:45Z GaoYanuo Stat-New >HSK4 tankönyv és szokásos szótárak
+書面語 书面语 [shu1 mian4 yu3] /írott, irodalmi nyelv/
+
 # ID-l90XT3l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 藝術品 艺术品 [yi4 shu4 pin3] /mű|alkotás/mű|tárgy/SZ:件[jian4]/
@@ -54294,6 +54424,10 @@ X X [X] /X/
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 消防車 消防车 [xiao1 fang2 che1] /tűzoltó|autó/
 
+# ID-m04cS3b
+# Ver 2021-04-09T20:58:59Z GaoYanuo Stat-New >HSK4 tankönyv és szokásos szótárak
+詞語彙 词语汇 [ci2 yu3 hui4] /szókészlet/szószedet/
+
 # ID-m04eF3V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 毒素 毒素 [du2 su4] /méreg/toxin/
@@ -54540,6 +54674,10 @@ X X [X] /X/
 # ID-m08Di4y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 教師 教师 [jiao4 shi1] /tanár/SZ:個|个[ge4]/
+
+# ID-m08Oa3D
+# Ver 2021-04-09T20:49:31Z GaoYanuo Stat-New >HSK4 tankönyv és szokásos szótárak
+正反 正反 [zheng4 fan3] /állító-tagadó (kínaiban gyakori kérdőmód, az "ugye"-hoz hasonló)/pro és kontra; pozitív és negatív//
 
 # ID-m08Wy3P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -64006,6 +64144,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 乳頭 乳头 [ru3 tou2] /mell|bimbó/
 
+# ID-o17le4H
+# Ver 2021-04-09T20:56:05Z GaoYanuo Stat-New >HSK4 tankönyv és szokásos szótárak
+分句 分句 [fen1 ju4] /(nyelvtan) tagmondat/
+
 # ID-o17lr5f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 艾 艾 [ai4] /meg|állít; félbe|szakít/üröm (Artemisia argyi)/(családnév) Ai/(fonetikus átiratokban használt írásjegy)/
@@ -64277,7 +64419,9 @@ XX XX [x x] /x/
 
 # ID-o22Mu2M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-相反 相反 [xiang1 fan3] /ellentétes/fordított/
+# 相反 相反 [xiang1 fan3] /ellentétes/fordított/
+# Ver 2021-04-09T19:47:21Z GaoYanuo Stat-Verif >HSK4 tankönyv, szokásos szótarak alapján kiegészítve.
+相反 相反 [xiang1 fan3] /ellentétes/fordított/ellenkezőleg (ezzel ellentétben)/
 
 # ID-o23bb6w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -65148,6 +65292,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 放牧 放牧 [fang4 mu4] /legeltet/terel (nyájat, csordát)/
 
+# ID-o42ex8g
+# Ver 2021-04-09T19:59:24Z GaoYanuo Stat-New >Anyanyelvi tanár, \nhttps://context.reverso.net/translation/chinese-english/%E5%BE%AA%E7%8E%AF%E5%88%A9%E7%94%A8
+循環利用 循环利用 [xun2 huan2 li4 yong4] /visszanyer/újrahasznosítás/
+
 # ID-o42fV8y
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 養老金 养老金 [yang3 lao3 jin1] /nyugdíj/
@@ -65679,6 +65827,10 @@ XX XX [x x] /x/
 # ID-o55fb5T
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 太陽鏡 太阳镜 [tai4 yang2 jing4] /nap|szemüveg/
+
+# ID-o55gx2w
+# Ver 2021-04-09T14:50:26Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+聖盧西亞 圣卢西亚 [sheng4 lu2 xi1 ya4] /(földrajzi név)  Saint Lucia (közép-amerikai szigetország)/
 
 # ID-o55hY9s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -67254,6 +67406,10 @@ XX XX [x x] /x/
 # ID-o89kV8X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 出事 出事 [chu1 shi4] /balesetet szenved/történik vele (vmi rossz dolog)/
+
+# ID-o89pC2C
+# Ver 2021-04-09T21:08:23Z GaoYanuo Stat-New >HSK4 tankönyv és szokásos szótárak
+時態 时态 [shi2 tai4] /(nyelvtan) igeidő/
 
 # ID-o89sk7h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
