@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-04-10T02:00:01Z
+# Időbélyeg / Timestamp: 2021-04-11T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -546,6 +546,10 @@
 # ID-a10Qq8D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 首先 首先 [shou3 xian1] /először is/elsősorban/
+
+# ID-a10YT9F
+# Ver 2021-04-10T13:05:54Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+迦納 迦纳 [jia1 na4] /(földrajzi név, Tajvan) Ghána (hivatalosan: 迦納共和國; KNK-beli megfelelője: 加纳)/
 
 # ID-a11an0d
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -1226,6 +1230,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 戒備 戒备 [jie4 bei4] /óv|intézkedéseket tesz/védekezik/
 
+# ID-a26sz1o
+# Ver 2021-04-10T22:46:46Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+巴拉圭 巴拉圭 [ba1 la1 gui1] /(földrajzi név) Paraguay (hivatalosan: 巴拉圭共和国)/
+
 # ID-a26tU9u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 比如 比如 [bi3 ru2] /például/
@@ -1768,6 +1776,10 @@
 # ID-a37cT3R
 # Ver 2019-07-23T21:41:27Z GaoYanuo Stat-New >Forrás: Miskolci Konfuciusz Intétzet. A Zrínyi Ilona Gimnáziumot hívják az itteni kínaiak 兹瑞尼中学-nek.
 茲瑞尼 兹瑞尼 [zi1 rui4 ni2] /(tulajdonnév) Zrínyi/
+
+# ID-a37fd4U
+# Ver 2021-04-10T18:33:57Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+捷克 捷克 [jie2 ke4] /(földrajzi név) Cseh|ország (hivatalosan: 捷克共和国)/
 
 # ID-a37ij6R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -2548,6 +2560,12 @@
 # Ver 2018-04-18T20:19:15Z GaoYanuo Stat-Verif >Bartos-Hamar
 開心 开心 [kai1 xin1] /örül/boldog/jól érzi magát/kárörvendő/
 
+# ID-a52dW2k
+# Ver 2021-04-10T20:11:52Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+# 菲律賓 菲律宾 [fei1 lü4 bin1] /(földrajzi név) Fülöp-szigetek (hivatalosan: 菲律宾共和国)/
+# Ver 2021-04-10T20:22:07Z Adam Stat-New >+ rövidített forma zárójelben
+菲律賓 菲律宾 [fei1 lü4 bin1] /(földrajzi név) Fülöp-szigetek (rövidítve: 菲; hivatalosan: 菲律宾共和国)/
+
 # ID-a52hm8b
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 王位 王位 [wang2 wei4] /trón/
@@ -2778,7 +2796,9 @@
 
 # ID-a58nP9S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-荷蘭 荷兰 [he2 lan2] /(földrajzi név) Hollandia/
+# 荷蘭 荷兰 [he2 lan2] /(földrajzi név) Hollandia/
+# Ver 2021-04-10T21:50:34Z Adam Stat-Verif >+ hivatalos forma zárójelben
+荷蘭 荷兰 [he2 lan2] /(földrajzi név) Hollandia (hivatalosan: 荷兰王国)/
 
 # ID-a58vc8J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -3578,6 +3598,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 高大 高大 [gao1 da4] /magas/hatalmas/óriási/
 
+# ID-a76Cc9S
+# Ver 2021-04-10T22:34:36Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+馬耳他 马耳他 [ma3 er3 ta1] /(földrajzi név) Málta (hivatalosan: 马耳他共和国)/
+
 # ID-a76DU0S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 漫長 漫长 [man4 chang2] /végtelen/hosszadalmas/
@@ -4036,7 +4060,9 @@
 
 # ID-a86BS6E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-印度 印度 [yin4 du4] /(földrajzi név) India/
+# 印度 印度 [yin4 du4] /(földrajzi név) India/
+# Ver 2021-04-10T18:23:11Z Adam Stat-Verif >+ hivatalos forma zárójelben
+印度 印度 [yin4 du4] /(földrajzi név) India (hivatalosan: 印度共和国)/
 
 # ID-a86De6g
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -6201,7 +6227,8 @@
 # Ver 2018-04-14T20:07:01Z gabor Stat-New >címke; wikipedia is megerősíti :)
 # 塞爾維亞 塞尔维亚 [sai1 er3 wei2 ya4] /(földrajzi név) Szerbia/
 # Ver 2018-04-14T20:07:15Z gabor Stat-Verif >wikipedia is megerősíti :)
-塞爾維亞 塞尔维亚 [sai1 er3 wei2 ya4] /(földrajzi név) Szerbia/
+# Ver 2021-04-10T22:40:24Z Adam Stat-Verif >+ hivatalos forma zárójelben
+塞爾維亞 塞尔维亚 [sai1 er3 wei2 ya4] /(földrajzi név) Szerbia (hivatalosan: 塞尔维亚共和国)/
 
 # ID-b35bo2S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -6380,6 +6407,10 @@
 # ID-b39dw1O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 怎麼 怎么 [zen3 me5] /hogyan/miért/melyik; miféle/
+
+# ID-b39jZ3O
+# Ver 2021-04-10T22:18:33Z Adam Stat-New >angol Wiktionary és kínai Wikipedia
+克羅埃西亞 克罗埃西亚 [ke4 luo2 ai1 xi1 ya4] /(földrajzi név) Horvát|ország (tajvani nevén; hivatalosan: 克羅埃西亞共和國; a KNK-ban, Hongkongban és Makaóban 克罗地亚)/
 
 # ID-b39rG0w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -6683,6 +6714,10 @@
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 江湖 江湖 [jiang1 hu2] /folyók és tavak/országszerte; mindenütt/csavargó; vándor/
 
+# ID-b46df4v
+# Ver 2021-04-10T12:59:05Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+冰島 冰岛 [bing1 dao3] /(földrajzi név) Izland (hivatalosan: 冰岛共和国)/
+
 # ID-b46ds2n
 # Ver 2017-12-11T20:09:22Z gabor Stat-New >CEDICT, ABC
 射線 射线 [she4 xian4] /sugár (fizika, pl. gamma-sugarak)/
@@ -6782,6 +6817,10 @@
 # ID-b48FF7Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 本來 本来 [ben3 lai2] /eredeti/eredetileg/először/mondani sem kell, hogy/természetesen/
+
+# ID-b48Gd0G
+# Ver 2021-04-10T19:00:20Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+緬甸 缅甸 [mian3 dian4] /(földrajzi név) Mianmar; Burma (hivatalosan: 缅甸联邦共和国)/
 
 # ID-b48JL4v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -9106,6 +9145,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 敵視 敌视 [di2 shi4] /ellenséges/ellenségként tekint (vkire)/
 
+# ID-c01Xl5u
+# Ver 2021-04-10T12:56:57Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+乍得 乍得 [zha4 de2] /(földrajzi név) Csád (hivatalosan: 乍得共和国)/
+
 # ID-c01Xp0Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 救護車 救护车 [jiu4 hu4 che1] /mentő|autó/SZ:輛|辆[liang4]/
@@ -9876,6 +9919,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 借 借 [jie4] /kölcsön|ad/kölcsön|vesz/
 
+# ID-c19tK7M
+# Ver 2021-04-10T18:56:31Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+秘魯 秘鲁 [bi4 lu3] /(földrajzi név) Peru (hivatalosan: 秘鲁共和国)/
+
 # ID-c19yd3x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 蓄水池 蓄水池 [xu4 shui3 chi2] /víz|tartály/ciszterna/
@@ -10631,6 +10678,10 @@
 # ID-c37BG3M
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 炸魚 炸鱼 [zha2 yu2] /sült hal/
+
+# ID-c37TW2f
+# Ver 2021-04-10T21:25:19Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+南蘇丹 南苏丹 [nan2 su1 dan1] /(földrajzi név) Dél-Szudán (2011 óta önálló afrikai ország; hivatalosan: 南苏丹共和国)/
 
 # ID-c37UJ9m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -12858,6 +12909,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 蜜月 蜜月 [mi4 yue4] /mézes|hetek/nász|út/
 
+# ID-c84OV8Y
+# Ver 2021-04-10T22:09:36Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+新加坡 新加坡 [xin1 jia1 po1] /(földrajzi név) Szingapúr (hivatalosan: 新加坡共和国)/
+
 # ID-c84WD9N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 鳥兒 鸟儿 [niao3 r5] /madár/SZ:隻|只[zhi1],群[qun2]/
@@ -12981,6 +13036,10 @@
 # ID-c87yS7u
 # Ver 2017-05-26T22:04:03Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
 大杜鵑 大杜鹃 [da4 du4 juan1] /kakukk/
+
+# ID-c87An5G
+# Ver 2021-04-10T12:56:03Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve + CC-CEDICT és a kínai Wikipedia 中非 lapjáról kiegészítve
+中非 中非 [zhong1 fei1] /(földrajzi név) Közép-Afrika (régió; hivatalosan: 中部非洲)/(földrajzi név) Közép-afrikai Köztársaság; Közép-Afrika (hivatalosan: 中非共和国)/Kína–Afrika (viszonyukat jelölve; teljes alakban: 中国和非洲)/
 
 # ID-c87Fa1O
 # Ver 2017-05-13T15:08:11Z gabor Stat-New >MDBG
@@ -14636,7 +14695,9 @@
 
 # ID-d22TA5i
 # Ver 2017-05-24T14:17:52Z Adam Stat-New >http://culture.china.com/art/11159887/20170427/30466039_all.html
-納道詩彼得 纳道诗彼得 [na4 dao4 shi1 bi3 de2] /(átirat) Nádas Péter/
+# 納道詩彼得 纳道诗彼得 [na4 dao4 shi1 bi3 de2] /(átirat) Nádas Péter/
+# Ver 2021-04-10T13:37:39Z Adam Stat-New >zárójeles rész javítása
+納道詩彼得 纳道诗彼得 [na4 dao4 shi1 bi3 de2] /(tulajdonnév) Nádas Péter/
 
 # ID-d23aM0S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -17196,6 +17257,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-12-08T21:17:38Z gabor Stat-Verif >.
 化學反應 化学反应 [hua4 xue2 fan3 ying4] /kémiai reakció/vegyi folyamat/
 
+# ID-d78FV5D
+# Ver 2021-04-10T18:52:11Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+波黑 波黑 [bo1 hei1] /(földrajzi név) Bosznia-Hercegovina (hivatalosan: 波斯尼亚和黑塞哥维那)/
+
 # ID-d78Gg8G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 以防萬一 以防万一 [yi3 fang2 wan4 yi1] /(kifejezés) készülve minden eshetőségre/
@@ -17271,6 +17336,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-d80Vw0f
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 交易會 交易会 [jiao1 yi4 hui4] /kereskedelmi vásár/
+
+# ID-d80WS3V
+# Ver 2021-04-10T18:27:32Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+巴林 巴林 [ba1 lin2] /(földrajzi név) Bahrein (hivatalosan: 巴林王国)/
 
 # ID-d81fY1H
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -17435,6 +17504,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # 氯碱 氯碱 [lü4 jian3] /klór-alkáli (módosítóként, pl. klór-alkáli elektrolízis)/
 # Ver 2017-12-08T21:19:08Z gabor Stat-Verif >.
 氯碱 氯碱 [lü4 jian3] /klór-alkáli (módosítóként, pl. klór-alkáli elektrolízis)/
+
+# ID-d83zi0e
+# Ver 2021-04-10T18:55:13Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+瑙魯 瑙鲁 [nao3 lu3] /(földrajzi név) Nauru (óceániai ország; hivatalosan: 瑙鲁共和国)/
 
 # ID-d83NL6x
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -17857,7 +17930,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 波蘭 波兰 [bo1 lan2] /(földrajzi név) Lengyelország/
 # Ver 2017-05-29T12:20:27Z Adam Stat-Verif >függőleges elválasztójel
-波蘭 波兰 [bo1 lan2] /(földrajzi név) Lengyel|ország/
+# 波蘭 波兰 [bo1 lan2] /(földrajzi név) Lengyel|ország/
+# Ver 2021-04-10T18:50:49Z Adam Stat-Verif >+ hivatalos forma zárójelben
+波蘭 波兰 [bo1 lan2] /(földrajzi név) Lengyel|ország (hivatalosan: 波兰共和国)/
 
 # ID-d94wZ5W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -18022,6 +18097,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-d97Xb7q
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 祖宗 祖宗 [zu3 zong1] /ős; előd/
+
+# ID-d98mq1m
+# Ver 2021-04-10T22:12:14Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+保加利亞 保加利亚 [bao3 jia1 li4 ya4] /(földrajzi név) Bulgária (hivatalosan: 保加利亚共和国)/
 
 # ID-d98ng7z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -18520,6 +18599,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2018-01-03T20:20:44Z gabor Stat-New >ABC\nhttps://terebess.hu/keletkultinfo/lexikon/szukhavati.html
 極樂世界 极乐世界 [ji2 le4 shi4 jie4] /sukhavati; nyugati paradicsom; tiszta föld (a buddhizmusban Amitábha Buddha nyugati paradicsoma)/
 
+# ID-e08XP4j
+# Ver 2021-04-10T14:16:48Z Adam Stat-New >CC-CEDICT
+印度尼西亞 印度尼西亚 [yin4 du4 ni2 xi1 ya4] /(földrajzi név) Indonézia (rövid alakban: 印尼; hivatalosan: 印度尼西亚共和国)/
+
 # ID-e09aA2h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 出息 出息 [chu1 xi5] /ígéret (jövőbeli lehetőség, jó kilátások)/potenciál/
@@ -18555,6 +18638,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e09vW6M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 磁帶 磁带 [ci2 dai4] /mágnes|szalag/SZ:盤|盘[pan2],盒[he2]/
+
+# ID-e09Bf4P
+# Ver 2021-04-10T22:42:38Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+敘利亞 叙利亚 [xu4 li4 ya4] /(földrajzi név) Szíria (hivatalosan: 阿拉伯叙利亚共和国)/
 
 # ID-e09HZ3X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -19968,6 +20055,12 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # 科蘇特拉約什 科苏特拉约什 [ke1 su1 te4 la1 yue1 shi2] /(tulajdonnév) Kossuth Lajos/
 # Ver 2018-01-03T10:43:10Z gabor Stat-Verif >.
 科蘇特拉約什 科苏特拉约什 [ke1 su1 te4 la1 yue1 shi2] /(tulajdonnév) Kossuth Lajos/
+
+# ID-e41EH0i
+# Ver 2021-04-10T22:16:21Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve; Wiktionary
+# 克羅地亞 克罗地亚 [ke4 luo2 di4 ya4] /(földrajzi név) Horvátország (KNK-beli, hongkongi és makaói nevén; hivatalosan: 克罗地亚共和国; Tajvanban 克羅埃西亞)/
+# Ver 2021-04-10T22:18:52Z Adam Stat-New >tagolójel
+克羅地亞 克罗地亚 [ke4 luo2 di4 ya4] /(földrajzi név) Horvát|ország (KNK-beli, hongkongi és makaói nevén; hivatalosan: 克罗地亚共和国; Tajvanban 克羅埃西亞)/
 
 # ID-e41GA2N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -21605,6 +21698,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 祖 祖 [zu3] /ős; előd; nagy|szülő/(családnév) Zu/
 
+# ID-e76KY1m
+# Ver 2021-04-10T22:38:28Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+愛沙尼亞 爱沙尼亚 [ai4 sha1 ni2 ya4] /(földrajzi név) Észt|ország (hivatalosan: 爱沙尼亚共和国)/
+
 # ID-e77aB3k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 便條 便条 [bian4 tiao2] /jegyzet/SZ:張|张[zhang1],個|个[ge4]/
@@ -22011,7 +22108,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-e87Mb8v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-伊朗 伊朗 [yi1 lang3] /(földrajzi név) Irán/
+# 伊朗 伊朗 [yi1 lang3] /(földrajzi név) Irán/
+# Ver 2021-04-10T12:58:35Z Adam Stat-Verif >zárójeles kiegészítés hivatalos alakkal
+伊朗 伊朗 [yi1 lang3] /(földrajzi név) Irán (hivatalosan: 伊朗伊斯兰共和国)/
 
 # ID-e87Vm4R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -22261,6 +22360,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e93Cb3s
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 航道 航道 [hang2 dao4] /vízi út/út|vonal/
+
+# ID-e93Ee3w
+# Ver 2021-04-10T22:47:43Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+斯洛文尼亞 斯洛文尼亚 [si1 luo4 wen2 ni2 ya4] /(földrajzi név) Szlovénia (hivatalosan: 斯洛文尼亚共和国)/
 
 # ID-e93HA2G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -22582,6 +22685,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f00Sp3d
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 小行星 小行星 [xiao3 xing2 xing1] /aszteroida/kis|bolygó/
+
+# ID-f00Tg2H
+# Ver 2021-04-10T12:45:51Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+不丹 不丹 [bu4 dan1] /(földrajzi név) Bhután (hivatalosan: 不丹王国)/
 
 # ID-f00VN0I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -22905,7 +23012,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 美國 美国 [mei3 guo2] /USA/
 # Ver 2017-06-04T17:53:25Z Adam Stat-Verif >hivatalos név beszúrása (kereshetőség végett is)
-美國 美国 [mei3 guo2] /Amerikai Egyesült Államok; USA/
+# 美國 美国 [mei3 guo2] /Amerikai Egyesült Államok; USA/
+# Ver 2021-04-10T19:01:20Z Adam Stat-Verif >+ hivatalos név zárójelben
+美國 美国 [mei3 guo2] /Amerikai Egyesült Államok; USA (hivatalosan: 美利坚合众国)/
 
 # ID-f09dl6X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -24675,6 +24784,12 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 嘴巴 嘴巴 [zui3 ba5] /száj/SZ:張|张[zhang1]/
 
+# ID-f48iD9a
+# Ver 2021-04-10T22:21:02Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+# 盧森堡 卢森堡 [lu2 sen1 bao3] /(földrajzi név) Luxemburg (hivatalosan: 卢森堡大公国)/
+# Ver 2021-04-10T22:27:11Z Adam Stat-New >a (fő)várost is jelölheti
+盧森堡 卢森堡 [lu2 sen1 bao3] /(földrajzi név) Luxemburg (ország; hivatalosan: 卢森堡大公国)/(földrajzi név) Luxembourg (főváros; olykor 卢森堡城 vagy 卢森堡市 alakban)/
+
 # ID-f48kt0O
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 完結 完结 [wan2 jie2] /le|zárul; befejeződik/
@@ -25654,7 +25769,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-29T12:25:29Z Adam Stat-Verif >elválasztójel
 # 希臘 希腊 [xi1 la4] /(földrajzi név) Görög|ország/
 # Ver 2017-05-29T12:25:36Z Adam Stat-Verif >elválasztójel
-希臘 希腊 [xi1 la4] /(földrajzi név) Görög|ország/
+# Ver 2021-04-10T18:28:27Z Adam Stat-Verif >+ hivatalos forma zárójelben
+希臘 希腊 [xi1 la4] /(földrajzi név) Görög|ország (hivatalosan: 希腊共和国)/
 
 # ID-f68FL4u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -26138,7 +26254,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f78Fw7H
 # Ver 2021-04-09T20:59:58Z GaoYanuo Stat-New >HSK4 tankönyv és szokásos szótárak
-語境 语境 [yu3 jing4] /(nyelvtan) szövegkörnyezet, kontextus/
+# 語境 语境 [yu3 jing4] /(nyelvtan) szövegkörnyezet, kontextus/
+# Ver 2021-04-10T12:44:00Z Adam Stat-New >én úgy tudom, hogy itt pontosvesszővel szükséges elkülöníteni a megfelelőket
+語境 语境 [yu3 jing4] /(nyelvtan) szövegkörnyezet; kontextus/
 
 # ID-f78GN2L
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -26228,7 +26346,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f80we6I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-索馬里 索马里 [suo3 ma3 li3] /(földrajzi név) Szomália/
+# 索馬里 索马里 [suo3 ma3 li3] /(földrajzi név) Szomália/
+# Ver 2021-04-10T21:53:29Z Adam Stat-Verif >+ hivatalos forma zárójelben
+索馬里 索马里 [suo3 ma3 li3] /(földrajzi név) Szomália (hivatalosan: 索马里联邦共和国)/
 
 # ID-f80Dn8r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -27192,7 +27312,11 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2019-11-08T19:10:33Z gabor Stat-Verif >én nem látom nyomát, hogy ez a szárazföldi kínára korlátozódna; pl. bármi megjegyzés nélkül szerepel a tajvani szótárban is: https://www.moedict.tw/%E6%9C%9D%E9%AE%AE\n\na nemzetiség, etnikum használatot sem lelem, cserébe van 朝鲜人, ami ellentmond neki. \n\nez inkább vissza az eredetire. 
 # 朝鮮 朝鲜 [chao2 xian3] /(földrajzi név) Észak-Korea/
 # Ver 2019-11-08T19:12:30Z gabor Stat-Verif >na jó, a használat valóban árnyaltabb
-朝鮮 朝鲜 [chao2 xian3] /(földrajzi név) Észak-Korea (a KNK-ban)/(földrajzi név) Korea (Tajvanban)/
+# 朝鮮 朝鲜 [chao2 xian3] /(földrajzi név) Észak-Korea (a KNK-ban)/(földrajzi név) Korea (Tajvanban)/
+# Ver 2021-04-10T18:48:52Z Adam Stat-Verif >+ zárójelben hivatalos név és a 2. jelentéshez tajvani megfelelő
+# 朝鮮 朝鲜 [chao2 xian3] /(földrajzi név) Észak-Korea (a KNK-ban; hivatalosan: 朝鲜民主主义人民共和国)/(földrajzi név) Korea (Tajvanban; Észak-Korea neve itt 北朝鮮 vagy 北韓)/
+# Ver 2021-04-10T21:28:54Z Adam Stat-Verif >jobb megfogalmazás
+朝鮮 朝鲜 [chao2 xian3] /(földrajzi név) Észak-Korea (KNK-beli nevén; hivatalosan: 朝鲜民主主义人民共和国)/(földrajzi név) Korea (Tajvanban; Észak-Korea neve itt 北朝鮮 vagy 北韓)/
 
 # ID-g02wn7W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -27509,6 +27633,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-g09vq2f
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 有同情心 有同情心 [you3 tong2 qing2 xin1] /könyörületes; együttérző/
+
+# ID-g09Ag4Q
+# Ver 2021-04-10T22:39:05Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+立陶宛 立陶宛 [li4 tao2 wan3] /(földrajzi név) Litvánia (hivatalosan: 立陶宛共和国)/
 
 # ID-g09AE9Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -28026,7 +28154,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-g19Iy9i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-烏拉圭 乌拉圭 [wu1 la1 gui1] /(földrajzi név) Uruguay/
+# 烏拉圭 乌拉圭 [wu1 la1 gui1] /(földrajzi név) Uruguay/
+# Ver 2021-04-10T22:46:07Z Adam Stat-Verif >+ hivatalos forma zárójelben
+烏拉圭 乌拉圭 [wu1 la1 gui1] /(földrajzi név) Uruguay (hivatalosan: 乌拉圭东岸共和国)/
 
 # ID-g19Pi6D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -29070,6 +29200,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 例如 例如 [li4 ru2] /például/
 
+# ID-g43FQ3F
+# Ver 2021-04-10T22:06:55Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+比利時 比利时 [bi3 li4 shi2] /(földrajzi név) Belgium (hivatalosan: 比利时王国)/
+
 # ID-g43Ht3r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 堵 堵 [du3] /be|töm/fojtogató érzés/fal/(számlálószó: falak)/
@@ -29440,7 +29574,9 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 越南 越南 [yue4 nan2] /(földrajzi név) Vietnam/
 # Ver 2018-06-04T14:25:33Z Adam Stat-Verif >a szabályzat új, 12. kiadása alapján á-val
-越南 越南 [yue4 nan2] /(földrajzi név) Vietnám/
+# 越南 越南 [yue4 nan2] /(földrajzi név) Vietnám/
+# Ver 2021-04-10T21:05:33Z Adam Stat-Verif >+ hivatalos forma zárójelben
+越南 越南 [yue4 nan2] /(földrajzi név) Vietnám (hivatalosan: 越南社会主义共和国)/
 
 # ID-g51AQ4c
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -30218,6 +30354,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 國民 国民 [guo2 min2] /állam|polgár/polgárok/emberek/
 
+# ID-g66Xw0a
+# Ver 2021-04-10T21:58:27Z Adam Stat-New >kínai Wikipedia 馬利 szócikke
+馬利 马利 [ma3 li4] /(földrajzi név) Mali (tajvani nevén; hivatalosan: 馬利共和國; KNK-beli nevén: 马里)/
+
 # ID-g67ro1C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 弄 弄 [long4] /utca/
@@ -30284,7 +30424,9 @@ X X [X] /X/
 
 # ID-g69Af7S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-意大利 意大利 [yi4 da4 li4] /(földrajzi név) Olasz|ország/
+# 意大利 意大利 [yi4 da4 li4] /(földrajzi név) Olasz|ország/
+# Ver 2021-04-10T22:05:45Z Adam Stat-Verif >+ hivatalos forma zárójelben
+意大利 意大利 [yi4 da4 li4] /(földrajzi név) Olasz|ország (hivatalosan: 意大利共和国)/
 
 # ID-g69Bi0J
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -30649,7 +30791,9 @@ X X [X] /X/
 
 # ID-g77Fp4W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-南非 南非 [nan2 fei1] /(földrajzi név) Dél-Afrika/
+# 南非 南非 [nan2 fei1] /(földrajzi név) Dél-Afrika/
+# Ver 2021-04-10T14:13:18Z Adam Stat-Verif >kínai Wikipedia 南非 (消歧义) lapja nyomán, az itteni 中非 analógiájára
+南非 南非 [nan2 fei1] /(földrajzi név) Dél-Afrika (régió; hivatalosan: 南部非洲)/(földrajzi név) Dél-afrikai Köztársaság; Dél-Afrika (hivatalosan: 南非共和国)/
 
 # ID-g77IL7J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -31140,6 +31284,10 @@ X X [X] /X/
 # ID-g88uk1r
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 休戰 休战 [xiu1 zhan4] /fegyver|szünet/
+
+# ID-g88wx6z
+# Ver 2021-04-10T13:04:02Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+加納 加纳 [jia1 na4] /(földrajzi név, KNK) Ghána (hivatalosan: 加纳共和国; tajvani megfelelője: 迦納)/
 
 # ID-g88RD2q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -33485,6 +33633,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 情況 情况 [qing2 kuang4] /körülmények/helyzet/szituáció/SZ:個|个[ge4],種|种[zhong3]/
 
+# ID-h42tb4Z
+# Ver 2021-04-10T18:36:53Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+斐濟 斐济 [fei3 ji4] /(földrajzi név) Fidzsi-szigetek (hivatalosan: 斐济共和国)/
+
 # ID-h42zz6E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 監控 监控 [jian1 kong4] /fel|ügyel és irányít/
@@ -34096,7 +34248,8 @@ X X [X] /X/
 # Ver 2019-10-12T15:00:00Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
 # 卡撒茲納霍凱拉斯洛 卡撒兹纳霍凯拉斯洛 [ka3 sa1 zi1 na4 huo4 kai3 la1 si1 luo4] /(tulajdonnév) Krasznahorkai László/
 # Ver 2019-10-12T15:00:02Z gabor Stat-Verif >.
-卡撒茲納霍凱拉斯洛 卡撒兹纳霍凯拉斯洛 [ka3 sa1 zi1 na4 huo4 kai3 la1 si1 luo4] /(tulajdonnév) Krasznahorkai László/
+# Ver 2021-04-10T14:04:30Z Adam Stat-Verif >születés éve
+卡撒茲納霍凱拉斯洛 卡撒兹纳霍凯拉斯洛 [ka3 sa1 zi1 na4 huo4 kai3 la1 si1 luo4] /(tulajdonnév) Krasznahorkai László (1954–)/
 
 # ID-h57PN8d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -34749,7 +34902,8 @@ X X [X] /X/
 # Ver 2019-10-12T15:00:47Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
 # 凱爾泰斯伊姆雷 凯尔泰斯伊姆雷 [kai3 er3 tai4 si1 yi1 mu3 lei2] /(tulajdonnév) Kertész Imre/
 # Ver 2019-10-12T15:00:50Z gabor Stat-Verif >.
-凱爾泰斯伊姆雷 凯尔泰斯伊姆雷 [kai3 er3 tai4 si1 yi1 mu3 lei2] /(tulajdonnév) Kertész Imre/
+# Ver 2021-04-10T18:54:17Z Adam Stat-Verif >születés és halálozás éve zárójelben
+凱爾泰斯伊姆雷 凯尔泰斯伊姆雷 [kai3 er3 tai4 si1 yi1 mu3 lei2] /(tulajdonnév) Kertész Imre (1929–2016)/
 
 # ID-h72la8N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -34853,7 +35007,9 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 法國 法国 [fa3 guo2] /(földrajzi név) Franciaország/
 # Ver 2017-05-29T12:26:32Z Adam Stat-Verif >elválasztójel
-法國 法国 [fa3 guo2] /(földrajzi név) Francia|ország/
+# 法國 法国 [fa3 guo2] /(földrajzi név) Francia|ország/
+# Ver 2021-04-10T18:50:18Z Adam Stat-Verif >+ hivatalos forma zárójelben
+法國 法国 [fa3 guo2] /(földrajzi név) Francia|ország (hivatalosan: 法兰西共和国)/
 
 # ID-h74qv7z
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -35361,7 +35517,9 @@ X X [X] /X/
 
 # ID-h85mV5V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-泰國 泰国 [tai4 guo2] /(földrajzi név) Thai|föld/
+# 泰國 泰国 [tai4 guo2] /(földrajzi név) Thai|föld/
+# Ver 2021-04-10T18:52:39Z Adam Stat-Verif >+ hivatalos forma zárójelben
+泰國 泰国 [tai4 guo2] /(földrajzi név) Thai|föld (hivatalosan: 泰王国)/
 
 # ID-h85rF3E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -35780,7 +35938,9 @@ X X [X] /X/
 
 # ID-h93Vv2A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-韓國 韩国 [han2 guo2] /(földrajzi név) Korea/(földrajzi név) Dél-Korea/
+# 韓國 韩国 [han2 guo2] /(földrajzi név) Korea/(földrajzi név) Dél-Korea/
+# Ver 2021-04-10T21:20:43Z Adam Stat-Verif >+ hivatalos forma zárójelben
+韓國 韩国 [han2 guo2] /(földrajzi név) Korea/(földrajzi név) Dél-Korea (hivatalosan: 大韩民国)/
 
 # ID-h93Wx8z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -36103,6 +36263,10 @@ X X [X] /X/
 # ID-i01fc6D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 魅力 魅力 [mei4 li4] /vonz|erő/báj/sárm/
+
+# ID-i01ib5G
+# Ver 2021-04-10T21:51:08Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+芬蘭 芬兰 [fen1 lan2] /(földrajzi név) Finn|ország (hivatalosan: 芬兰共和国)/
 
 # ID-i01uO7t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -36690,6 +36854,10 @@ X X [X] /X/
 # ID-i13yO6w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 枚 枚 [mei2] /(számlálószó: érmék, gyűrűk, jelvények, rakéták, műholdak stb.)/(családnév) Mei/
+
+# ID-i13HW8e
+# Ver 2021-04-10T18:49:54Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+湯加 汤加 [tang1 jia1] /(földrajzi név) Tonga (óceániai ország; hivatalosan: 汤加王国)/
 
 # ID-i13Pn4O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -37597,6 +37765,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 第二 第二 [di4 er4] /második/
 
+# ID-i33xK3m
+# Ver 2021-04-10T18:54:43Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+海地 海地 [hai3 di4] /(földrajzi név) Haiti (hivatalosan: 海地共和国)/
+
 # ID-i33Dc7m
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 野蠻人 野蛮人 [ye3 man2 ren2] /barbár (ember)/
@@ -38104,6 +38276,10 @@ X X [X] /X/
 # ID-i46GH5T
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 不合法 不合法 [bu4 he2 fa3] /illegális; törvény|ellenes/
+
+# ID-i46Kp0f
+# Ver 2021-04-10T21:29:10Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+老撾 老挝 [lao3 wo1] /(földrajzi név) Laosz (KNK-beli nevén; hivatalosan: 老挝人民民主共和国; Tajvanban 寮國)/
 
 # ID-i46MQ0h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -38665,6 +38841,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 地質學家 地质学家 [di4 zhi4 xue2 jia1] /geológus/
 
+# ID-i57Uj7Y
+# Ver 2021-04-10T12:57:41Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+也門 也门 [ye3 men2] /(földrajzi név) Jemen (hivatalosan: 也门共和国)/
+
 # ID-i57Vd0K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 考試 考试 [kao3 shi4] /le|vizsgázik/vizsga/SZ:次[ci4]/
@@ -38691,7 +38871,9 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 德國 德国 [de2 guo2] /Németország/
 # Ver 2017-05-29T12:27:38Z Adam Stat-Verif >címke, elválasztójel
-德國 德国 [de2 guo2] /(földrajzi név) Német|ország/
+# 德國 德国 [de2 guo2] /(földrajzi név) Német|ország/
+# Ver 2021-04-10T18:30:55Z Adam Stat-Verif >+ hivatalos forma zárójelben
+德國 德国 [de2 guo2] /(földrajzi név) Német|ország (hivatalosan: 德意志联邦共和国)/
 
 # ID-i58qr5U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -39027,7 +39209,9 @@ X X [X] /X/
 
 # ID-i65Ds0H
 # Ver 2017-05-24T16:22:09Z Adam Stat-New >Wikipédia-szócikk
-斯洛伐克 斯洛伐克 [si1 luo4 fa2 ke4] /(földrajzi név) Szlovákia/
+# 斯洛伐克 斯洛伐克 [si1 luo4 fa2 ke4] /(földrajzi név) Szlovákia/
+# Ver 2021-04-10T22:37:25Z Adam Stat-New >+ hivatalos forma zárójelben
+斯洛伐克 斯洛伐克 [si1 luo4 fa2 ke4] /(földrajzi név) Szlovákia (hivatalosan: 斯洛伐克共和国)/
 
 # ID-i65KE2B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -39537,6 +39721,10 @@ X X [X] /X/
 # ID-i76qD7K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 收集 收集 [shou1 ji2] /gyűjt/
+
+# ID-i76zX3L
+# Ver 2021-04-10T14:15:34Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+印尼 印尼 [yin4 ni2] /(földrajzi név) Indonézia (hivatalosan: 印度尼西亚共和国)/
 
 # ID-i76Ct6N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -40485,7 +40673,9 @@ X X [X] /X/
 
 # ID-i99gc8U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-俄羅斯 俄罗斯 [e2 luo2 si1] /(földrajzi név) Orosz|ország/
+# 俄羅斯 俄罗斯 [e2 luo2 si1] /(földrajzi név) Orosz|ország/
+# Ver 2021-04-10T22:08:39Z Adam Stat-Verif >+ hivatalos forma zárójelben
+俄羅斯 俄罗斯 [e2 luo2 si1] /(földrajzi név) Orosz|ország (hivatalosan: 俄罗斯联邦)/
 
 # ID-i99oI8c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -40796,6 +40986,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 面目可憎 面目可憎 [mian4 mu4 ke3 zeng1] /(kifejezés) vissza|taszító külsejű/
 
+# ID-j06cC1g
+# Ver 2021-04-10T22:43:55Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+阿爾巴尼亞 阿尔巴尼亚 [a1 er3 ba1 ni2 ya4] /(földrajzi név) Albánia (hivatalosan: 阿尔巴尼亚共和国)/
+
 # ID-j06da8W
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 堂兄 堂兄 [tang2 xiong1] /unokatestvér (apai ágon; idősebb)/
@@ -41090,6 +41284,10 @@ X X [X] /X/
 # ID-j11Ym2i
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 到現在 到现在 [dao4 xian4 zai4] /mostanáig; idáig/
+
+# ID-j11ZX5L
+# Ver 2021-04-10T21:22:35Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve; Wiktionary
+蘇丹 苏丹 [su1 dan1] /(földrajzi név) Szudán (hivatalosan: 苏丹共和国)/szultán/
 
 # ID-j12ax4f
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -42153,7 +42351,9 @@ X X [X] /X/
 
 # ID-j35rP5a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-埃及 埃及 [ai1 ji2] /(földrajzi név) Egyiptom/
+# 埃及 埃及 [ai1 ji2] /(földrajzi név) Egyiptom/
+# Ver 2021-04-10T18:25:40Z Adam Stat-Verif >+ hivatalos alak zárójelben
+埃及 埃及 [ai1 ji2] /(földrajzi név) Egyiptom (hivatalosan: 阿拉伯埃及共和国)/
 
 # ID-j35yp5c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -42917,7 +43117,9 @@ X X [X] /X/
 
 # ID-j52OR3r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-中國 中国 [zhong1 guo2] /Kína/
+# 中國 中国 [zhong1 guo2] /Kína/
+# Ver 2021-04-10T12:46:59Z Adam Stat-Verif >a többi országnévvel konzisztens zárójeles részek előtte és utána
+中國 中国 [zhong1 guo2] /(földrajzi név) Kína (hivatalosan: 中华人民共和国)/
 
 # ID-j52QE8s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -43209,7 +43411,9 @@ X X [X] /X/
 # Ver 2017-05-24T14:22:37Z Adam Stat-New >http://culture.china.com/art/11159887/20170427/30466039_all.html
 # 凱爾泰斯伊姆萊 凯尔泰斯伊姆莱 [kai3 er3 tai4 si1 yi1 mu3 lai2] /(átirat) Kertész Imre/
 # Ver 2019-10-12T15:08:45Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
-凱爾泰斯伊姆萊 凯尔泰斯伊姆莱 [kai3 er3 tai4 si1 yi1 mu3 lai2] /(tulajdonnév) Kertész Imre/
+# 凱爾泰斯伊姆萊 凯尔泰斯伊姆莱 [kai3 er3 tai4 si1 yi1 mu3 lai2] /(tulajdonnév) Kertész Imre/
+# Ver 2021-04-10T18:53:59Z Adam Stat-New >+ születés és halálozás éve zárójelben
+凱爾泰斯伊姆萊 凯尔泰斯伊姆莱 [kai3 er3 tai4 si1 yi1 mu3 lai2] /(tulajdonnév) Kertész Imre (1929–2016)/
 
 # ID-j58ZG1V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -43994,7 +44198,9 @@ X X [X] /X/
 
 # ID-j77qb3C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-日本 日本 [ri4 ben3] /(földrajzi név) Japán/
+# 日本 日本 [ri4 ben3] /(földrajzi név) Japán/
+# Ver 2021-04-10T18:37:17Z Adam Stat-Verif >+ hivatalos forma zárójelben
+日本 日本 [ri4 ben3] /(földrajzi név) Japán (hivatalosan: 日本国)/
 
 # ID-j77sZ5D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -45400,6 +45606,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 聖彼得 圣彼得 [sheng4 bi3 de2] /(tulajdonnév) Szent Péter/
 
+# ID-k07gQ2q
+# Ver 2021-04-10T18:29:12Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+帕勞 帕劳 [pa4 lao2] /(földrajzi név) Palau (óceániai ország; hivatalosan: 帕劳共和国)/
+
 # ID-k07la4D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 攔截 拦截 [lan2 jie2] /fel|tartóztat/el|kap/
@@ -46497,7 +46707,9 @@ X X [X] /X/
 
 # ID-k29yX1k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-巴西 巴西 [ba1 xi1] /(földrajzi név) Brazília/
+# 巴西 巴西 [ba1 xi1] /(földrajzi név) Brazília/
+# Ver 2021-04-10T18:27:59Z Adam Stat-Verif >+ hivatalos forma zárójelben
+巴西 巴西 [ba1 xi1] /(földrajzi név) Brazília (hivatalosan: 巴西联邦共和国)/
 
 # ID-k29DI3P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -46671,6 +46883,10 @@ X X [X] /X/
 # ID-k33cv8E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 精益求精 精益求精 [jing1 yi4 qiu2 jing1] /(kifejezés) folyamatosan fejlődik; a kiválóságra törekszik/
+
+# ID-k33dp6M
+# Ver 2021-04-10T22:28:37Z Adam Stat-New >CC-CEDICT és Wiktionary
+大公國 大公国 [da4 gong1 guo2] /nagy|hercegség/
 
 # ID-k33lK7y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -46919,6 +47135,10 @@ X X [X] /X/
 # ID-k38ce7J
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 除臭劑 除臭剂 [chu2 chou4 ji4] /dezodor/
+
+# ID-k38et8A
+# Ver 2021-04-10T22:32:22Z Adam Stat-New >CC-CEDICT, Wiktionary, kínai Wikipedia, Bartos–Hamar-nagyszótár
+公國 公国 [gong1 guo2] /hercegség; hercegi uradalom/
 
 # ID-k38iR3k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -47437,7 +47657,9 @@ X X [X] /X/
 
 # ID-k51xh4e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-阿曼 阿曼 [a1 man4] /(földrajzi név) Omán/
+# 阿曼 阿曼 [a1 man4] /(földrajzi név) Omán/
+# Ver 2021-04-10T21:52:14Z Adam Stat-Verif >+ hivatalos forma zárójelben
+阿曼 阿曼 [a1 man4] /(földrajzi név) Omán (hivatalosan: 阿曼苏丹国)/
 
 # ID-k51xm7E
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -49387,7 +49609,9 @@ X X [X] /X/
 
 # ID-k94lS1D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-菲 菲 [fei1] /illatos/(földrajzi név, rövidítés) Fülöp-szigetek/
+# 菲 菲 [fei1] /illatos/(földrajzi név, rövidítés) Fülöp-szigetek/
+# Ver 2021-04-10T20:20:55Z Adam Stat-Verif >a rövidített alak kifejtett formája zárójelben
+菲 菲 [fei1] /illatos/(földrajzi név) Fülöp-szigetek (菲律賓|菲律宾[Fei1lü4bin1] rövidítése)/
 
 # ID-k94lX0q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -49481,7 +49705,9 @@ X X [X] /X/
 
 # ID-k95OQ9N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-巴基斯坦 巴基斯坦 [ba1 ji1 si1 tan3] /(földrajzi név) Pakisztán/
+# 巴基斯坦 巴基斯坦 [ba1 ji1 si1 tan3] /(földrajzi név) Pakisztán/
+# Ver 2021-04-10T22:35:04Z Adam Stat-Verif >+ hivatalos forma zárójelben
+巴基斯坦 巴基斯坦 [ba1 ji1 si1 tan3] /(földrajzi név) Pakisztán (hivatalosan: 巴基斯坦伊斯兰共和国)/
 
 # ID-k95Rh2L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -51496,7 +51722,9 @@ X X [X] /X/
 
 # ID-l37HH2v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-伊拉克 伊拉克 [yi1 la1 ke4] /(földrajzi név) Irak/
+# 伊拉克 伊拉克 [yi1 la1 ke4] /(földrajzi név) Irak/
+# Ver 2021-04-10T22:10:40Z Adam Stat-Verif >+ hivatalos forma zárójelben
+伊拉克 伊拉克 [yi1 la1 ke4] /(földrajzi név) Irak (hivatalosan: 伊拉克共和国)/
 
 # ID-l37HH5x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -51508,7 +51736,8 @@ X X [X] /X/
 # Ver 2019-10-12T15:22:57Z gabor Stat-New >címke
 # 菲利普萊納德 菲利普莱纳德 [fei1 li4 pu3 lai2 na4 de2] /(átirat) Lénárd Fülöp/(tulajdonnév) Philipp Eduard Anton von Lenard; Lénárd Fülöp (fizikus, az első magyar származású Nobel-díjas, 1862-1942)/
 # Ver 2019-10-12T15:23:00Z gabor Stat-Verif >.
-菲利普萊納德 菲利普莱纳德 [fei1 li4 pu3 lai2 na4 de2] /(átirat) Lénárd Fülöp/(tulajdonnév) Philipp Eduard Anton von Lenard; Lénárd Fülöp (fizikus, az első magyar származású Nobel-díjas, 1862-1942)/
+# Ver 2021-04-10T13:56:16Z Adam Stat-Verif >nagykötőjel a születés és halál dátuma közé
+菲利普萊納德 菲利普莱纳德 [fei1 li4 pu3 lai2 na4 de2] /(átirat) Lénárd Fülöp/(tulajdonnév) Philipp Eduard Anton von Lenard; Lénárd Fülöp (fizikus, az első magyar származású Nobel-díjas, 1862–1942)/
 
 # ID-l38fm1W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -51693,6 +51922,12 @@ X X [X] /X/
 # ID-l41CH8W
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 咯咯笑 咯咯笑 [ge1 ge1 xiao4] /kuncog/
+
+# ID-l41ET3S
+# Ver 2021-04-10T19:05:55Z Adam Stat-New >Wiktionary, CC-CEDICT, Bartos–Hamar-nagyszótár (összetételeket is figyelembe véve)
+# 堅 坚 [jian1] /szilárd; erős; kitartó; állhatatos; eltökélt; határozott/
+# Ver 2021-04-10T19:08:14Z Adam Stat-New >.
+堅 坚 [jian1] /szilárd; erős; kitartó; állhatatos; elszánt; eltökélt; határozott/
 
 # ID-l41KC9z
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -52487,7 +52722,9 @@ X X [X] /X/
 
 # ID-l58nk3a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-英國 英国 [ying1 guo2] /Egyesült Királyság/Nagy-Britannia/
+# 英國 英国 [ying1 guo2] /Egyesült Királyság/Nagy-Britannia/
+# Ver 2021-04-10T21:43:57Z Adam Stat-Verif >a pongyola használatot (az angol Wiktionaryben "proscribed") jelöljük lehetőleg
+英國 英国 [ying1 guo2] /Egyesült Királyság; Nagy-Britannia és Észak-Írország Egyesült Királysága (hivatalosan: 大不列颠及北爱尔兰联合王国 vagy rövidebben 联合王国)/(pongyola használatban) Nagy-Britannia; Anglia/
 
 # ID-l58rb7b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -52553,6 +52790,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 乒乓球 乒乓球 [ping1 pang1 qiu2] /pingpong/asztali|tenisz/pingpong|labda/SZ:個|个[ge4]/
 
+# ID-l59Oa5S
+# Ver 2021-04-10T22:36:53Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+拉脫維亞 拉脱维亚 [la1 tuo1 wei2 ya4] /(földrajzi név) Lett|ország (hivatalosan: 拉脱维亚共和国)/
+
 # ID-l59Ro3l
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 無時無刻 无时无刻 [wu2 shi2 wu2 ke4] /állandóan; folyton/
@@ -52585,6 +52826,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 條子 条子 [tiao2 zi5] /hossz (főnévként: szövet)/szál/szalag/cetli/
 
+# ID-l60wF7J
+# Ver 2021-04-10T18:31:30Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+挪威 挪威 [nuo2 wei1] /(földrajzi név) Norvégia (hivatalosan: 挪威王国)/
+
 # ID-l60zW4s
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 偉 伟 [wei3] /nagy; hatalmas/
@@ -52611,7 +52856,9 @@ X X [X] /X/
 
 # ID-l61fM0X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-瑞士 瑞士 [rui4 shi4] /(földrajzi név) Svájc/
+# 瑞士 瑞士 [rui4 shi4] /(földrajzi név) Svájc/
+# Ver 2021-04-10T18:56:03Z Adam Stat-Verif >+ hivatalos forma zárójelben
+瑞士 瑞士 [rui4 shi4] /(földrajzi név) Svájc (hivatalosan: 瑞士联邦)/
 
 # ID-l61xW2y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -52698,6 +52945,10 @@ X X [X] /X/
 # 陽光 阳光 [yang2 guang1] /nap|fény/nap|sugár/derűs (átv. is)/derűlátó; optimista/átlátható, nyilvánosság számára hozzáférhető/SZ:線|线[xian4]/
 # Ver 2019-09-26T19:14:52Z gabor Stat-Verif >átrendez
 陽光 阳光 [yang2 guang1] /nap|fény/nap|sugár/SZ:線|线[xian4]/derűlátó; optimista/átlátható; transzparens/
+
+# ID-l63CN4I
+# Ver 2021-04-10T18:27:08Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+多哥 多哥 [duo1 ge1] /(földrajzi név) Togo (hivatalosan: 多哥共和国)/
 
 # ID-l63MU8N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -53012,6 +53263,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 油畫 油画 [you2 hua4] /olaj|festmény/
 
+# ID-l70Ax6w
+# Ver 2021-04-10T20:10:11Z Adam Stat-New >HanDeDict és a kínai Wikipedia 腓力 szócikke (amire átirányít a 菲利普)
+菲利普 菲利普 [fei1 li4 pu3] /(átirat) Philip; Philipp; Fülöp/
+
 # ID-l70Ea3U
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 神社 神社 [shen2 she4] /templom; szentély/
@@ -53150,7 +53405,9 @@ X X [X] /X/
 
 # ID-l73Mk4Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-古巴 古巴 [gu3 ba1] /(földrajzi név) Kuba/
+# 古巴 古巴 [gu3 ba1] /(földrajzi név) Kuba/
+# Ver 2021-04-10T18:23:33Z Adam Stat-Verif >+ hivatalos alak zárójelben
+古巴 古巴 [gu3 ba1] /(földrajzi név) Kuba (hivatalosan: 古巴共和国)/
 
 # ID-l73RO1z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -53352,6 +53609,10 @@ X X [X] /X/
 # ID-l77Tw0R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 噓 嘘 [xu1] /lassan ki|lélegzik/sziszeg/csitt!/
+
+# ID-l77XQ7c
+# Ver 2021-04-10T22:11:36Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+亞美尼亞 亚美尼亚 [ya4 mei3 ni2 ya4] /(földrajzi név) Örmény|ország (hivatalosan: 亚美尼亚共和国)/
 
 # ID-l78bo8d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -53612,6 +53873,10 @@ X X [X] /X/
 # ID-l83Ky8n
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 相冊 相册 [xiang4 ce4] /fotó|album; fénykép|album/
+
+# ID-l83Mz7O
+# Ver 2021-04-10T22:05:20Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+梵蒂岡 梵蒂冈 [fan4 di4 gang1] /(földrajzi név) Vatikán; Vatikán|város (hivatalosan: 梵蒂冈城国)/
 
 # ID-l83Ok7M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -55313,7 +55578,9 @@ X X [X] /X/
 # Ver 2018-04-24T14:11:41Z GaoYanuo Stat-Verif >melléknévként is használatos\nhttps://www.purpleculture.net/sample-sentences/?word=%E8%A5%BF%E7%8F%AD%E7%89%99
 # 西班牙 西班牙 [xi1 ban1 ya2] /(földrajzi név) Spanyol|ország/(előtagként) spanyol (nép,nyelv, stb.)/
 # Ver 2018-05-04T11:12:52Z gabor Stat-Verif >ld. 苏格兰 - nem jelöljük külön a melléknévi fordítást
-西班牙 西班牙 [xi1 ban1 ya2] /(földrajzi név) Spanyol|ország/
+# 西班牙 西班牙 [xi1 ban1 ya2] /(földrajzi név) Spanyol|ország/
+# Ver 2021-04-10T22:03:00Z Adam Stat-Verif >+ hivatalos forma zárójelben
+西班牙 西班牙 [xi1 ban1 ya2] /(földrajzi név) Spanyol|ország (hivatalosan: 西班牙王国)/
 
 # ID-m21Yh5y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -55551,6 +55818,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 認得 认得 [ren4 de5] /fel|ismer/ismer/
 
+# ID-m26Cy7G
+# Ver 2021-04-10T22:41:24Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+塞浦路斯 塞浦路斯 [sai4 pu3 lu4 si1] /(földrajzi név) Ciprus (hivatalosan: 塞浦路斯共和国)/
+
 # ID-m26If7k
 # Ver 2017-12-04T16:01:22Z gabor Stat-New >CEDICT, ABC, korpusz
 # 差錯 差错 [cha1 cuo4] /hiba/tévedés/zökkenő/
@@ -55658,6 +55929,10 @@ X X [X] /X/
 # ID-m29es6F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 分泌 分泌 [fen1 mi4] /ki|választ (élőlény, nedvet\anyagot)/váladék/
+
+# ID-m29hI0Q
+# Ver 2021-04-10T22:33:50Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+尼泊爾 尼泊尔 [ni2 bo2 er3] /(földrajzi név) Nepál (hivatalosan: 尼泊尔联邦民主共和国)/
 
 # ID-m29tE6G
 # Ver 2018-11-24T17:40:44Z GaoYanuo Stat-New >CC-EDICT és egyebek
@@ -56342,7 +56617,8 @@ X X [X] /X/
 # Ver 2019-10-12T15:26:12Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
 # 艾斯特哈茲彼得 艾斯特哈兹彼得 [ai4 si1 te4 ha1 zi1 bi3 de2] /(tulajdonnév) Esterházy Péter (1950-2016)/
 # Ver 2019-10-12T15:26:59Z gabor Stat-Verif >az alanyt pediglen egyeztetni kell az állítmánnyal és a népnemzeti gerinccel.
-艾斯特哈茲彼得 艾斯特哈兹彼得 [ai4 si1 te4 ha1 zi1 bi3 de2] /(tulajdonnév) Esterházy Péter (1950-2016)/
+# Ver 2021-04-10T14:01:44Z Adam Stat-Verif >nagykötőjel születés és halálozás dátuma közé
+艾斯特哈茲彼得 艾斯特哈兹彼得 [ai4 si1 te4 ha1 zi1 bi3 de2] /(tulajdonnév) Esterházy Péter (1950–2016)/
 
 # ID-m44rQ6m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -56668,7 +56944,9 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 土耳其 土耳其 [tu3 er3 qi2] /(földrajzi név) Törökország/
 # Ver 2017-05-21T22:40:54Z Adam Stat-Verif >elválasztójel beszúrása
-土耳其 土耳其 [tu3 er3 qi2] /(földrajzi név) Török|ország/
+# 土耳其 土耳其 [tu3 er3 qi2] /(földrajzi név) Török|ország/
+# Ver 2021-04-10T22:07:37Z Adam Stat-Verif >+ hivatalos forma zárójelben
+土耳其 土耳其 [tu3 er3 qi2] /(földrajzi név) Török|ország (hivatalosan: 土耳其共和国)/
 
 # ID-m52jn7o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -56727,6 +57005,10 @@ X X [X] /X/
 # ID-m53pR9T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 有點 有点 [you3 dian3] /egy kis/egy kevés/
+
+# ID-m53rM5O
+# Ver 2021-04-10T22:03:42Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+葡萄牙 葡萄牙 [pu2 tao2 ya2] /(földrajzi név) Portugália (hivatalosan: 葡萄牙共和国)/
 
 # ID-m53sf8p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -57353,7 +57635,9 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 瑞典 瑞典 [rui4 dian3] /(földrajzi név) Svédország/
 # Ver 2017-05-29T12:28:36Z Adam Stat-Verif >elválasztójel
-瑞典 瑞典 [rui4 dian3] /(földrajzi név) Svéd|ország/
+# 瑞典 瑞典 [rui4 dian3] /(földrajzi név) Svéd|ország/
+# Ver 2021-04-10T18:55:38Z Adam Stat-Verif >+ hivatalos forma zárójelben
+瑞典 瑞典 [rui4 dian3] /(földrajzi név) Svéd|ország (hivatalosan: 瑞典王国)/
 
 # ID-m65Mi7B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -57377,7 +57661,8 @@ XX XX [x x] /x/
 # Ver 2019-10-12T15:27:39Z gabor Stat-New >átirat akkor, ha általános név, pl. egy keresztnév átirata; tulajdonnév, ha egy konkrét személy, cég stb. bevett megnvezése kínai nyelven
 # 剋拉斯諾霍爾卡伊拉斯洛 克拉斯诺霍尔卡伊拉斯洛 [ke4 la1 si1 nuo4 huo4 er3 ka3 yi1 la1 si1 luo4] /(tulajdonnév) Krasznahorkai László/
 # Ver 2019-10-12T15:27:43Z gabor Stat-Verif >.
-剋拉斯諾霍爾卡伊拉斯洛 克拉斯诺霍尔卡伊拉斯洛 [ke4 la1 si1 nuo4 huo4 er3 ka3 yi1 la1 si1 luo4] /(tulajdonnév) Krasznahorkai László/
+# Ver 2021-04-10T14:04:41Z Adam Stat-Verif >születés éve
+剋拉斯諾霍爾卡伊拉斯洛 克拉斯诺霍尔卡伊拉斯洛 [ke4 la1 si1 nuo4 huo4 er3 ka3 yi1 la1 si1 luo4] /(tulajdonnév) Krasznahorkai László (1954–)/
 
 # ID-m65VB8l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -57966,6 +58251,10 @@ XX XX [x x] /x/
 # ID-m77YY8f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 轟炸 轰炸 [hong1 zha4] /bombáz/le|bombáz/
+
+# ID-m78br3W
+# Ver 2021-04-10T21:32:57Z Adam Stat-New >Wiktionary és a kínai Wikipedia 寮國 szócikke
+寮國 寮国 [liao2 guo2] /(földrajzi név) Laosz (tajvani nevén; hivatalosan: 寮人民民主共和國; KNK-beli nevén: 老挝)/
 
 # ID-m78cl5t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -60349,6 +60638,10 @@ XX XX [x x] /x/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 牙科 牙科 [ya2 ke1] /fogászat/
 
+# ID-n31DZ7L
+# Ver 2021-04-10T21:51:43Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+貝寧 贝宁 [bei4 ning2] /(földrajzi név) Benin (hivatalosan: 贝宁共和国)/
+
 # ID-n31Ek8K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 入學 入学 [ru4 xue2] /el|kezdi az iskolát/iskolába megy/
@@ -60858,7 +61151,9 @@ XX XX [x x] /x/
 
 # ID-n42OZ0S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-以色列 以色列 [yi3 se4 lie4] /(földrajzi név) Izrael/
+# 以色列 以色列 [yi3 se4 lie4] /(földrajzi név) Izrael/
+# Ver 2021-04-10T22:08:13Z Adam Stat-Verif >+ hivatalos forma zárójelben
+以色列 以色列 [yi3 se4 lie4] /(földrajzi név) Izrael (hivatalosan: 以色列国)/
 
 # ID-n42SJ8D
 # Ver 2020-09-15T16:21:24Z gabor Stat-New >Podcast
@@ -61820,6 +62115,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 鳳凰 凤凰 [feng4 huang2] /főnix (a kínai hagyomány szerint szerencsét hozó madár)/
 
+# ID-n63Iy2s
+# Ver 2021-04-10T22:36:01Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+摩爾多瓦 摩尔多瓦 [mo2 er3 duo1 wa3] /(földrajzi név) Moldova (hivatalosan: 摩尔多瓦共和国)/
+
 # ID-n63Jc3i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 左 左 [zuo3] /bal/bal|oldali/furcsa/helytelen/hamis/(családnév) Zuo/
@@ -62478,6 +62777,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 燙 烫 [tang4] /éget/le|forráz/forral; főz/forró/vasal/
 
+# ID-n78Qj9Y
+# Ver 2021-04-10T22:51:56Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+白俄羅斯 白俄罗斯 [bai2 e2 luo2 si1] /(földrajzi név) Fehérorosz|ország; Belarusz; Belarusszia; Belorusz; Belorusszia (hivatalosan: 白俄罗斯共和国)/
+
 # ID-n78Xy0Q
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 泡泡糖 泡泡糖 [pao4 pao4 tang2] /rágó|gumi/
@@ -62872,6 +63175,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 維生素 维生素 [wei2 sheng1 su4] /vitamin/
 
+# ID-n87Ht9S
+# Ver 2021-04-10T18:35:59Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+文萊 文莱 [wen2 lai2] /(földrajzi név) Brunei (hivatalosan: 文莱达鲁萨兰国)/
+
 # ID-n87Mi7U
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 胎記 胎记 [tai1 ji4] /anyajegy/
@@ -63154,7 +63461,9 @@ XX XX [x x] /x/
 
 # ID-n94LV7r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-墨西哥 墨西哥 [mo4 xi1 ge1] /(földrajzi név) Mexikó/
+# 墨西哥 墨西哥 [mo4 xi1 ge1] /(földrajzi név) Mexikó/
+# Ver 2021-04-10T22:33:10Z Adam Stat-Verif >+ hivatalos forma zárójelben
+墨西哥 墨西哥 [mo4 xi1 ge1] /(földrajzi név) Mexikó (hivatalosan: 墨西哥合众国)/
 
 # ID-n94Nl9C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -63537,6 +63846,10 @@ XX XX [x x] /x/
 # ID-o04hQ6r
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 分會 分会 [fen1 hui4] /szekció; ág (szervezeté)/
+
+# ID-o04nD9R
+# Ver 2021-04-10T21:20:09Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+蒙古 蒙古 [meng3 gu3] /(földrajzi név) Mongólia (hivatalosan: 蒙古国)/
 
 # ID-o04re6z
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -63933,6 +64246,10 @@ XX XX [x x] /x/
 # ID-o12NR7f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 深情厚誼 深情厚谊 [shen1 qing2 hou4 yi4] /mély barátság/
+
+# ID-o12Ps4D
+# Ver 2021-04-10T22:48:34Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+利比亞 利比亚 [li4 bi3 ya4] /(földrajzi név) Líbia (hivatalosan: 利比亚国)/
 
 # ID-o12ZA1S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -65316,6 +65633,10 @@ XX XX [x x] /x/
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 眼見 眼见 [yan3 jian4] /azonnal; hamar/
 
+# ID-o42tc9s
+# Ver 2021-04-10T14:08:17Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+加蓬 加蓬 [jia1 peng2] /(földrajzi név) Gabon (hivatalosan: 加蓬共和国)/
+
 # ID-o42tk4O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 壯 壮 [zhuang4] /erős/robusztus/erősít/Zhuang (nemzeti kissebbség Kína Guangxi tartományában)/
@@ -66419,6 +66740,10 @@ XX XX [x x] /x/
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 陰暗 阴暗 [yin1 an4] /sötét/komor/nyomasztó/
 
+# ID-o69CK9X
+# Ver 2021-04-10T18:37:48Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+智利 智利 [zhi4 li4] /(földrajzi név) Chile (hivatalosan: 智利共和国)/
+
 # ID-o69Qa9Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 氧氣 氧气 [yang3 qi4] /oxigén/
@@ -66562,6 +66887,12 @@ XX XX [x x] /x/
 # ID-o73an6j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 各自 各自 [ge4 zi4] /mindegyik/minden egyes/ki-ki (kinek-kinek a sajátja)/
+
+# ID-o73di5T
+# Ver 2021-04-10T21:55:17Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+# 馬里 马里 [ma3 li3] /(földrajzi név) Mali (hivatalosan: 马里共和国; Tajvanban: 馬利)/
+# Ver 2021-04-10T21:58:46Z Adam Stat-New >.
+馬里 马里 [ma3 li3] /(földrajzi név) Mali (KNK-beli nevén; hivatalosan: 马里共和国; Tajvanban: 馬利)/
 
 # ID-o73ft7a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -68252,6 +68583,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 米 米 [mi3] /rizs/SZ:粒[li4]/méter/(családnév) Mi/
 
+# ID-p06Sl1D
+# Ver 2021-04-10T22:04:37Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+柬埔寨 柬埔寨 [jian3 pu3 zhai4] /(földrajzi név) Kambodzsa (hivatalosan: 柬埔寨王国)/
+
 # ID-p06TH1e
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 重武器 重武器 [zhong4 wu3 qi4] /nehéz|fegyver/
@@ -68321,6 +68656,10 @@ XX XX [x x] /x/
 # 學科 学科 [xue2 ke1] /szakirány; tudományág/
 # Ver 2020-03-09T09:09:11Z gabor Stat-Verif >.
 學科 学科 [xue2 ke1] /szakirány; tudományág/
+
+# ID-p08CI1o
+# Ver 2021-04-10T18:57:09Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+約旦 约旦 [yue1 dan4] /(földrajzi név) Jordánia (hivatalosan: 约旦哈希姆王国)/
 
 # ID-p08ED9y
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
