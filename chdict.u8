@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-04-11T02:00:01Z
+# Időbélyeg / Timestamp: 2021-04-12T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -22730,7 +22730,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f01JR6d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-發動機 发动机 [fa1 dong4 ji1] /motor/
+# 發動機 发动机 [fa1 dong4 ji1] /motor/
+# Ver 2021-04-11T20:54:46Z Adam Stat-Verif >másik jelentés egyértelműség végett
+發動機 发动机 [fa1 dong4 ji1] /motor; hajtómű/
 
 # ID-f02hV7h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -40844,6 +40846,10 @@ X X [X] /X/
 # Ver 2021-03-24T19:43:37Z Adam Stat-Verif >úgy tűnik, a második "|" utáni részt nem találja meg a kereső; a "fészek" elemet az 1. jelentés már elérhetővé teszi, úgyhogy a 2. jelentésben csak a "leves" elé teszek függőleges vonalat
 燕窩 燕窝 [yan4 wo1] /fecske|fészek/fecskefészek|leves/
 
+# ID-j02ex3A
+# Ver 2021-04-11T20:40:19Z Adam Stat-New >Wiktionary, "on sale" amerikai jelentése; Pleco-szótárak
+減價 减价 [jian3 jia4] /enged az árból; le|áraz/akció; ár|engedmény; kiárusítás/
+
 # ID-j02gx8v
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 巴爾幹 巴尔干 [ba1 er3 gan1] /(földrajzi név) Balkán/
@@ -41049,7 +41055,9 @@ X X [X] /X/
 
 # ID-j06PW1X
 # Ver 2017-05-27T16:48:51Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
-民進黨 民进党 [min2 jin4 dang3] /Demokratikus Progresszív Párt (Tajvan)/
+# 民進黨 民进党 [min2 jin4 dang3] /Demokratikus Progresszív Párt (Tajvan)/
+# Ver 2021-04-11T15:29:45Z Adam Stat-New >+ teljes alak zárójelben
+民進黨 民进党 [min2 jin4 dang3] /Demokratikus Progresszív Párt (Tajvan; teljes alakban: 民主進步黨)/
 
 # ID-j07cR9g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -58420,7 +58428,9 @@ XX XX [x x] /x/
 
 # ID-m80SF2w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-安息 安息 [an1 xi1] /pihen; nyugszik/nyugodjék békében/
+# 安息 安息 [an1 xi1] /pihen; nyugszik/nyugodjék békében/
+# Ver 2021-04-11T16:25:07Z Adam Stat-Verif >Pleco-szótárak
+安息 安息 [an1 xi1] /pihen; nyugszik/(főleg 吧 elemmel kiegészítve) nyugodj\nyugodjék békében/
 
 # ID-m80Ud3C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -63583,7 +63593,9 @@ XX XX [x x] /x/
 
 # ID-n97Ly0p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-摩托 摩托 [mo2 tuo1] /motor/motor|bicikli/
+# 摩托 摩托 [mo2 tuo1] /motor/motor|bicikli/
+# Ver 2021-04-11T20:52:31Z Adam Stat-Verif >a "motor"-t ne külön jelentésben vegyük fel, mert az az angol "engine" megfelelője elsősorban, ami nem tartozik ide
+摩托 摩托 [mo2 tuo1] /motor|bicikli; motor|kerékpár; motor/
 
 # ID-n97LN6S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -67991,7 +68003,9 @@ XX XX [x x] /x/
 
 # ID-o94CE3K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-摩托車 摩托车 [mo2 tuo1 che1] /motor|kerékpár/motor|bicikli/SZ:輛|辆[liang4],部[bu4]/
+# 摩托車 摩托车 [mo2 tuo1 che1] /motor|kerékpár/motor|bicikli/SZ:輛|辆[liang4],部[bu4]/
+# Ver 2021-04-11T20:53:28Z Adam Stat-Verif >azonos jelentések egy helyre
+摩托車 摩托车 [mo2 tuo1 che1] /motor|kerékpár; motor|bicikli; motor/SZ:輛|辆[liang4],部[bu4]/
 
 # ID-o94LC6J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
