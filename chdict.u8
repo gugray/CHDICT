@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-04-13T02:00:01Z
+# Időbélyeg / Timestamp: 2021-04-14T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -63,6 +63,10 @@
 # ID-a00WK0E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 圈 圈 [juan1] /be|zár/körül|zár/karámba zár/
+
+# ID-a01hi7G
+# Ver 2021-04-13T21:40:40Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+厄立特里亞 厄立特里亚 [e4 li4 te4 li3 ya4] /(földrajzi név) Eritrea (KNK-beli nevén, hivatalosan: 厄立特里亚国; Tajvanban 厄利垂亞)/
 
 # ID-a01oN4F
 # Ver 2017-09-25T20:09:35Z gabor Stat-New >CEDICT, filmfeliratok
@@ -346,6 +350,10 @@
 # 黃鼠 黄鼠 [huang2 shu3] /ürge (állat)/
 # Ver 2017-05-27T17:43:30Z Adam Stat-Verif >pontosítás Wiktionary alapján
 黃鼠 黄鼠 [huang2 shu3] /ürge (állat; közelebbről: dauri ürge, Spermophilus dauricus)/
+
+# ID-a06be3Q
+# Ver 2021-04-13T19:31:10Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+毛里塔尼亞 毛里塔尼亚 [mao2 li3 ta3 ni2 ya4] /(földrajzi név) Mauritánia (KNK-beli nevén, hivatalosan: 毛里塔尼亚伊斯兰共和国; Tajvanban 茅利塔尼亞)/
 
 # ID-a06bT0k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -2132,6 +2140,10 @@
 # ID-a44LJ1Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 覆蓋 覆盖 [fu4 gai4] /fed/takar/
+
+# ID-a44Mj5t
+# Ver 2021-04-13T19:18:33Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+列支敦士登 列支敦士登 [lie4 zhi1 dun1 shi4 deng1] /(földrajzi név) Liechtenstein (KNK-beli nevén, hivatalosan: 列支敦士登公国; Tajvanban: 列支敦斯登)/
 
 # ID-a44MD6P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -4639,6 +4651,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 一向 一向 [yi1 xiang4] /mindig (a múltban)/
 
+# ID-a98CF9C
+# Ver 2021-04-13T18:47:43Z Adam Stat-New >kínai Wikipedia, CC-CEDICT által megerősítve
+莫三比克 莫三比克 [mo4 san1 bi3 ke4] /(földrajzi név) Mozambik (tajvani nevén, hivatalosan: 莫三比克共和國; a KNK-ban 莫桑比克)/
+
 # ID-a98Ot1f
 # Ver 2021-03-25T11:07:13Z Adam Stat-New >kínai Wikipedia-cikk címe és a benne végig használt terminus; a magyarításhoz l. turnstile alatt a szotar.net-en lévő angol--magyar szótárakban
 閘機 闸机 [zha2 ji1] /forgó|kereszt; forgó|korlát; forgó|sorompó; beléptető|kapu/
@@ -5033,6 +5049,10 @@
 # ID-b06DN1I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 碗 碗 [wan3] /tál/SZ:隻|只[zhi1]/
+
+# ID-b06GS1r
+# Ver 2021-04-13T21:36:41Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+赤道幾內亞 赤道几内亚 [chi4 dao4 ji1 nei4 ya4] /(földrajzi név) Egyenlítői-Guinea (hivatalosan: 赤道几内亚共和国)/
 
 # ID-b06Hg8n
 # Ver 2019-11-26T12:49:17Z gabor Stat-New >személyes közlés; cedict
@@ -5947,6 +5967,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 收穫 收获 [shou1 huo4] /arat/be|takarít/aratás/nyereség/jutalom/
 
+# ID-b27dA1l
+# Ver 2021-04-13T21:31:32Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+馬紹爾群島 马绍尔群岛 [ma3 shao4 er3 qun2 dao3] /(földrajzi név) Marshall-szigetek (óceániai ország, hivatalosan: 马绍尔群岛共和国)/
+
 # ID-b27le2j
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 戰事 战事 [zhan4 shi4] /háború; ellenségeskedés/
@@ -6604,6 +6628,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 外頭 外头 [wai4 tou5] /kint/kívül/
 
+# ID-b43lQ5P
+# Ver 2021-04-14T00:01:14Z Adam Stat-New >Pleco-szótárak
+分母 分母 [fen1 mu3] /nevező (törtben)/
+
 # ID-b43sE8g
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 巴士站 巴士站 [ba1 shi4 zhan4] /busz|megálló/
@@ -6657,6 +6685,10 @@
 # ID-b44tg3n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 時代華納 时代华纳 [shi2 dai4 huan2 a4] /(tulajdonnév) Time Warner (szórakoztatóipari és médiacég)/
+
+# ID-b44uX5n
+# Ver 2021-04-13T21:27:13Z Adam Stat-New >kínai Wikipedia, CC-CEDICT által megerősítve
+哈薩克 哈萨克 [ha1 sa4 ke4] /(földrajzi név) Kazahsztán (tajvani nevén, hivatalosan: 哈薩克共和國; a KNK-ban 哈萨克斯坦)/
 
 # ID-b44vC7r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -8907,6 +8939,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 亞科 亚科 [ya4 ke1] /al|család (rendszertanban)/
 
+# ID-b94FL1O
+# Ver 2021-04-13T19:27:13Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+塔吉克斯坦 塔吉克斯坦 [ta3 ji2 ke4 si1 tan3] /(földrajzi név) Tádzsikisztán (KNK-beli nevén, hivatalosan: 塔吉克斯坦共和国; Tajvanban 塔吉克)/
+
 # ID-b94Of8q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 竈 灶 [zao4] /tűzhely; kemence (konyhában)/
@@ -8918,6 +8954,10 @@
 # ID-b94Th5y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 君 君 [jun1] /uralkodó/úr; úri|ember/
+
+# ID-b95ct2r
+# Ver 2021-04-13T18:09:46Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+北馬其頓 北马其顿 [bei3 ma3 qi2 dun4] /(földrajzi név) Észak-Macedónia (ország, 2019-ig Macedón Köztársaság, Macedónia, ill. Macedónia Volt Jugoszláv Köztársaság; hivatalosan: 北马其顿共和国)/
 
 # ID-b95cZ5t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -9919,6 +9959,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 俄語 俄语 [e2 yu3] /orosz (nyelv)/
 
+# ID-c18Oe4U
+# Ver 2021-04-13T22:38:37Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből és az ország saját szócikke alapján
+德涅斯特河沿岸 德涅斯特河沿岸 [de2 nie4 si1 te4 he2 yan2 an4] /(földrajzi név) Dnyeszter Menti Köztársaság; Transznisztria (hivatalosan: 德涅斯特河沿岸摩尔达维亚共和国)/
+
 # ID-c18UM8H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 白族 白族 [bai2 zu2] /Bai (etnikai kisebbség, nagyrészt Yunnan tartomány déli részén)/
@@ -9944,6 +9988,10 @@
 # ID-c19ek1N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 著 著 [zhuo2] /fel|vesz (ruhát)/küld/
+
+# ID-c19fJ9o
+# Ver 2021-04-13T18:42:45Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+洪都拉斯 洪都拉斯 [hong2 du1 la1 si1] /(földrajzi név) Honduras (hivatalosan: 洪都拉斯共和国)/
 
 # ID-c19gP0X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -11854,6 +11902,12 @@
 # ID-c60fS9V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 堡 堡 [bao3] /erődítmény/
+
+# ID-c60gI5f
+# Ver 2021-04-13T21:47:27Z Adam Stat-New >kínai Wikipedia, CC-CEDICT által megerősítve
+# 烏茲別克 乌兹别克 [wu1 zi1 bie2 ke4] /(földrajzi név) Üzbegisztán (tajvani nevén, hivatalosan: 烏茲別克共和國; a KNK-ban 乌兹别克斯坦)/
+# Ver 2021-04-13T22:06:15Z Adam Stat-New >+ másik jelentés (Wiktionary)
+烏茲別克 乌兹别克 [wu1 zi1 bie2 ke4] /(földrajzi név) Üzbegisztán (tajvani nevén, hivatalosan: 烏茲別克共和國; a KNK-ban 乌兹别克斯坦)/üzbég/
 
 # ID-c60oL4u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -15488,6 +15542,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 燈籠 灯笼 [deng1 long5] /lámpás/lampion/
 
+# ID-d39Jf6a
+# Ver 2021-04-13T22:30:21Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+特立尼達和多巴哥 特立尼达和多巴哥 [te4 li4 ni2 da2 he2 duo1 ba1 ge1] /(földrajzi név) Trinidad és Tobago (KNK-beli nevén, hivatalosan: 特立尼达和多巴哥共和国; Tajvanban 千里達及托巴哥)/
+
 # ID-d39Nz8n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 補 补 [bu3] /meg|javít/meg|foltoz/ki|egészít/
@@ -16539,6 +16597,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-d62Cx7A
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 限速 限速 [xian4 su4] /sebesség|határ/
+
+# ID-d62EO6A
+# Ver 2021-04-13T18:37:44Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+斯威士蘭 斯威士兰 [si1 wei1 shi4 lan2] /(földrajzi név) Szvázi|föld (hivatalosan: 斯威士兰王国)/
 
 # ID-d62OC0L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -18981,6 +19043,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 參賽者 参赛者 [can1 sai4 zhe3] /versenyző/
 
+# ID-e16Nf6a
+# Ver 2021-04-13T21:35:25Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+阿爾及利亞 阿尔及利亚 [a1 er3 ji2 li4 ya4] /(földrajzi név) Algéria (hivatalosan: 阿尔及利亚人民民主共和国)/
+
 # ID-e16Po4p
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 大陪審團 大陪审团 [da4 pei2 shen3 tuan2] /esküdtszék/
@@ -19322,6 +19388,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e23Sf7h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 憤恨 愤恨 [fen4 hen4] /gyűlöl/haragszik (vkire)/
+
+# ID-e23US3a
+# Ver 2021-04-13T19:12:44Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+馬爾代夫 马尔代夫 [ma3 er3 dai4 fu1] /(földrajzi név) Maldív-szigetek (hivatalosan: 马尔代夫共和国)/
 
 # ID-e24bo9f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -23018,6 +23088,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2019-08-25T12:59:19Z Adam Stat-New >https://hu.wikipedia.org/wiki/Pap_Melinda
 梅琳達 梅琳达 [mei2 lin2 da2] /(személynév) Pap Melinda (1981–)/
 
+# ID-f07Je6g
+# Ver 2021-04-13T18:36:46Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+尼加拉瓜 尼加拉瓜 [ni2 jia1 la1 gua1] /(földrajzi név) Nicaragua (hivatalosan: 尼加拉瓜共和国)/
+
 # ID-f07XQ2N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 有 有 [you3] /van (vmije)/birtokol (vmit)/létezik/van/
@@ -23163,6 +23237,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f10PN3T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 牢騷 牢骚 [lao2 sao1] /elégedetlen/panasz/panaszkodik/
+
+# ID-f10WU8C
+# Ver 2021-04-13T22:01:01Z Adam Stat-New >kínai Wikipedia, angol Wiktionary, CC-CEDICT által megerősítve
+巴布亞紐幾內亞 巴布亚纽几内亚 [ba1 bu4 ya4 niu3 ji1 nei4 ya4] /(földrajzi név) Pápua Új-Guinea (tajvani nevén, hivatalosan: 聖多美普林西比民主共和國; a KNK-ban 巴布亚新几内亚)/
 
 # ID-f11dS3K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -24313,6 +24391,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f36XE5j
 # Ver 2017-05-27T15:46:21Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
 胡錦濤 胡锦涛 [hu2 jin3 tao1] /(személynév) Hu Csin-tao (1942–)/
+
+# ID-f36XH9i
+# Ver 2021-04-13T19:21:01Z Adam Stat-New >kínai Wikipedia, CC-CEDICT által megerősítve
+列支敦斯登 列支敦斯登 [lie4 zhi1 dun1 si1 deng1] /(földrajzi név) Liechtenstein (tajvani nevén, hivatalosan: 列支敦斯登侯國; a KNK-ban 列支敦士登)/
 
 # ID-f37ml7s
 # Ver 2019-10-04T14:29:18Z gabor Stat-New >ha már van 小葱拌豆腐一清二白\nCEDICT, ABC etc
@@ -25785,6 +25867,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-12-08T21:17:20Z gabor Stat-Verif >.
 催化劑 催化剂 [cui1 hua4 ji4] /katalizátor/
 
+# ID-f66bT1Z
+# Ver 2021-04-13T21:38:14Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+哥斯達黎加 哥斯达黎加 [ge1 si1 da2 li2 jia1] /(földrajzi név) Costa Rica (közép-amerikai ország, hivatalosan: 哥斯达黎加共和国)/
+
 # ID-f66cg1D
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 音樂學院 音乐学院 [yin1 yue4 xue2 yuan4] /zene|akadémia/konzervatórium/
@@ -25975,6 +26061,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f72iv7e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 相似性 相似性 [xiang1 si4 xing4] /hasonlóság/
+
+# ID-f72jn2p
+# Ver 2021-04-13T19:33:21Z Adam Stat-New >kínai Wikipedia, CC-CEDICT által megerősítve
+茅利塔尼亞 茅利塔尼亚 [mao2 li4 ta3 ni2 ya4] /(földrajzi név) Mauritánia (tajvani nevén, hivatalosan: 茅利塔尼亞伊斯蘭共和國; a KNK-ban 毛里塔尼亚)/
 
 # ID-f72nX5k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -31633,6 +31723,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 流速 流速 [liu2 su4] /áramlási sebesség/
 
+# ID-g93rj4n
+# Ver 2021-04-13T18:29:03Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+塞拉利昂 塞拉利昂 [sai4 la1 li4 ang2] /(földrajzi név) Sierra Leone (hivatalosan: 塞拉利昂共和国)/
+
 # ID-g93wQ8W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 必需 必需 [bi4 xu1] /szükséges/nélkülözhetetlen/szüksége van (vmire)/
@@ -31758,6 +31852,10 @@ X X [X] /X/
 # ID-g96lI5X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 出口 出口 [chu1 kou3] /kijárat/export/SZ:個|个[ge4]/beszél/exportál/ki|hajózik/
+
+# ID-g96sp2B
+# Ver 2021-04-13T18:36:17Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+委內瑞拉 委内瑞拉 [wei3 nei4 rui4 la1] /(földrajzi név) Venezuela (hivatalosan: 委内瑞拉玻利瓦尔共和国)/
 
 # ID-g96vc6K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -33815,6 +33913,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 喀噠聲 喀哒声 [ka1 da5 sheng1] /(hangutánzó) katt; paff/
 
+# ID-h44BT0I
+# Ver 2021-04-13T18:32:45Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+多米尼加 多米尼加 [duo1 mi3 ni2 jia1] /(földrajzi név) Dominika; Dominikai Köztársaság (KNK-beli nevén, hivatalosan: 多米尼加共和国; Tajvanban 多明尼加)/
+
 # ID-h44Gq9W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 弟 弟 [di4] /öcs/fiatalabb férfi/
@@ -34582,6 +34684,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 生命 生命 [sheng1 ming4] /élet/élő/SZ:個|个[ge4]/
 
+# ID-h62Jk7j
+# Ver 2021-04-13T21:56:57Z Adam Stat-New >kínai Wikipedia, CC-CEDICT által megerősítve
+聖多美普林西比 圣多美普林西比 [sheng4 duo1 mei3 pu3 lin2 xi1 bi3] /(földrajzi név) São Tomé és Príncipe; Sao Tome és Principe (tajvani nevén, hivatalosan: 聖多美普林西比民主共和國; a KNK-ban 圣多美和普林西比)/
+
 # ID-h62XG7r
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 鹿角 鹿角 [lu4 jiao3] /agancs/
@@ -34640,7 +34746,9 @@ X X [X] /X/
 
 # ID-h63UI1f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-邀請 邀请 [yao1 qing3] /meg|hívás/SZ:個|个[ge4]/meg|hív/
+# 邀請 邀请 [yao1 qing3] /meg|hívás/SZ:個|个[ge4]/meg|hív/
+# Ver 2021-04-13T11:25:36Z GaoYanuo Stat-Verif >HSK4 tankönyv példamondat:\n舞会上最好不要直接拒绝别人的邀请，如果不得不拒绝，可以告诉他: 我有些累了，想休息一下。
+邀請 邀请 [yao1 qing3] /meg|hívás/SZ:個|个[ge4]/meg|hív/felkér (táncolni)/
 
 # ID-h64cK0y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -34685,6 +34793,10 @@ X X [X] /X/
 # ID-h65aG2I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 給予 给予 [ji3 yu3] /ad (engedélyt, felhatalmazást)/
+
+# ID-h65cI6B
+# Ver 2021-04-13T18:41:38Z Adam Stat-New >kínai Wikipedia, CC-CEDICT által megerősítve
+模里西斯 模里西斯 [mo2 li3 xi1 si1] /(földrajzi név) Mauritius (tajvani nevén, hivatalosan: 模里西斯共和國; a KNK-ban 毛里求斯)/
 
 # ID-h65pJ1N
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -35238,6 +35350,10 @@ X X [X] /X/
 # ID-h76tP2i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 緊緊 紧紧 [jin3 jin3] /szűken/szorosan/
+
+# ID-h76zz4d
+# Ver 2021-04-13T18:43:25Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+玻利維亞 玻利维亚 [bo1 li4 wei2 ya4] /(földrajzi név) Bolívia (hivatalosan: 多民族玻利维亚国)/
 
 # ID-h76DU6O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -36282,6 +36398,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 你們 你们 [ni3 men5] /ti/
 
+# ID-h98yq4K
+# Ver 2021-04-13T19:38:52Z Adam Stat-New >kínai Wikipedia, CC-CEDICT által megerősítve
+幾內亞比索 几内亚比索 [ji1 nei4 ya4 bi3 suo3] /(földrajzi név) Bissau-Guinea (tajvani nevén, hivatalosan: 幾內亞比索共和國; a KNK-ban 几内亚比绍)/
+
 # ID-h98BJ1o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 重心 重心 [zhong4 xin1] /közép|pont; mag; lényeg/tömeg|középpont/
@@ -36372,7 +36492,9 @@ X X [X] /X/
 
 # ID-i00XH2T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-分子 分子 [fen1 zi3] /nevező (törtben)/molekula/
+# 分子 分子 [fen1 zi3] /nevező (törtben)/molekula/
+# Ver 2021-04-14T00:07:15Z Adam Stat-Verif >magyar megfelelő javítása
+分子 分子 [fen1 zi3] /számláló (törtben)/molekula/
 
 # ID-i01aI8J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -37396,6 +37518,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 英鎊 英镑 [ying1 bang4] /angol font; font sterling (valuta)/
 
+# ID-i22Vb3v
+# Ver 2021-04-13T19:36:09Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+幾內亞比紹 几内亚比绍 [ji1 nei4 ya4 bi3 shao4] /(földrajzi név) Bissau-Guinea (KNK-beli nevén, hivatalosan: 几内亚比绍共和国; Tajvanban 幾內亞比索)/
+
 # ID-i23cn1o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 碰 碰 [peng4] /meg|érint/találkozik/koccan/ütközik/
@@ -38166,6 +38292,10 @@ X X [X] /X/
 # ID-i39vi3V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 俄國 俄国 [e2 guo2] /(földrajzi név) Orosz|ország/
+
+# ID-i39zX7n
+# Ver 2021-04-13T22:16:09Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+聖基茨和尼維斯 圣基茨和尼维斯 [sheng4 ji1 ci2 he2 ni2 wei2 si1] /(földrajzi név) Saint Kitts és Nevis (KNK-beli nevén, hivatalosan: 圣基茨和尼维斯联邦; Tajvanban 聖克里斯多福及尼維斯 vagy ritkábban 聖克里斯多福與尼維斯)/
 
 # ID-i39CX5M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -40194,6 +40324,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 縮短 缩短 [suo1 duan3] /le|rövidít/
 
+# ID-i84cq3y
+# Ver 2021-04-13T19:24:58Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+埃塞俄比亞 埃塞俄比亚 [ai1 sai4 e2 bi3 ya4] /(földrajzi név) Etiópia (hivatalosan: 埃塞俄比亚联邦民主共和国)/
+
 # ID-i84gR4g
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 蠻力 蛮力 [man2 li4] /nyers erő/
@@ -40581,6 +40715,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 谷 谷 [gu3] /völgy/szurdok/(családnév) Gu/
 
+# ID-i93qE4m
+# Ver 2021-04-13T21:42:16Z Adam Stat-New >kínai Wikipedia, CC-CEDICT által megerősítve
+厄利垂亞 厄利垂亚 [e4 li4 chui2 ya4] /(földrajzi név) Eritrea (tajvani nevén, hivatalosan: 厄利垂亞國; a KNK-ban 厄立特里亚)/
+
 # ID-i93Cm8m
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 雷雨 雷雨 [lei2 yu3] /vihar/felhőszakadás/
@@ -40683,7 +40821,9 @@ X X [X] /X/
 
 # ID-i95Gj9c
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
-叛逃 叛逃 [pan4 tao2] /disszidál/át|áll/
+# 叛逃 叛逃 [pan4 tao2] /disszidál/át|áll/
+# Ver 2021-04-13T23:55:43Z Adam Stat-Verif >Pleco-szótárak és példamondataik alapján (és a 逃 jelentését figyelembe véve)
+叛逃 叛逃 [pan4 tao2] /disszidál; ki|szökik; el|szökik külföldre/át|áll/
 
 # ID-i95Hp4J
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -41107,6 +41247,10 @@ X X [X] /X/
 # ID-j05bH7K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 公主 公主 [gong1 zhu3] /herceg|nő/
+
+# ID-j05fb4D
+# Ver 2021-04-13T21:29:40Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+馬達加斯加 马达加斯加 [ma3 da2 jia1 si1 jia1] /(földrajzi név) Madagaszkár (hivatalosan: 马达加斯加共和国)/
 
 # ID-j05iz4W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -41573,6 +41717,10 @@ X X [X] /X/
 # 色 色 [se4] /szín/arc|kifejezés/fajta/vágy/női vonz|erő/megjelenés; külső/minőség; minőségi/guszta (látványra vonzó étel)/
 # Ver 2017-11-27T18:07:22Z GaoYanuo Stat-Verif >Gusta la vista:)))
 色 色 [se4] /szín/arc|kifejezés/fajta/vágy/női vonz|erő/megjelenés; külső/minőség; minőségi/guszta (látványra vonzó étel)/
+
+# ID-j15ec4o
+# Ver 2021-04-13T18:46:33Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+莫桑比克 莫桑比克 [mo4 sang1 bi3 ke4] /(földrajzi név) Mozambik (KNK-beli nevén, hivatalosan: 莫桑比克共和国; Tajvanban 莫三比克)/
 
 # ID-j15eP1R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -43001,6 +43149,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 化驗 化验 [hua4 yan4] /teszt; vizsgálat (laboratóriumi)/
 
+# ID-j46py4p
+# Ver 2021-04-13T18:25:59Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+基里巴斯 基里巴斯 [ji1 li3 ba1 si1] /(földrajzi név) Kiribati (KNK-beli nevén, hivatalosan: 基里巴斯共和国; Tajvanban 吉里巴斯)/
+
 # ID-j46Et8u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 牽制 牵制 [qian1 zhi4] /korlátoz/akadályoz/le|köt/el|tereli a figyelmet/
@@ -43250,6 +43402,12 @@ X X [X] /X/
 # ID-j52vJ0F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 錘子 锤子 [chui2 zi5] /kalapács/SZ:把[ba3]/
+
+# ID-j52xh2f
+# Ver 2021-04-13T22:27:49Z Adam Stat-New >kínai Wikipedia, angol Wiktionary, CC-CEDICT által megerősítve; DE hibás a konverzió (a 2. és 3. karakter), nem engedi bevinni hagyományos írásmódú alakként ezt: 聖克里斯多福及尼維斯
+# 聖剋裡斯多福及尼維斯 圣克里斯多福及尼维斯 [sheng4 ke4 li3 si1 duo1 fu2 ji2 ni2 wei2 si1] /(földrajzi név) Saint Kitts és Nevis (tajvani nevén, hivatalosan: 聖克里斯多福及尼維斯聯邦; a KNK-ban 圣基茨和尼维斯)/
+# Ver 2021-04-13T22:28:14Z Adam Stat-Flagged >hibás a konverzió (a 2. és 3. karakter), nem engedi bevinni hagyományos írásmódú alakként ezt: 聖克里斯多福及尼維斯
+聖剋裡斯多福及尼維斯 圣克里斯多福及尼维斯 [sheng4 ke4 li3 si1 duo1 fu2 ji2 ni2 wei2 si1] /(földrajzi név) Saint Kitts és Nevis (tajvani nevén, hivatalosan: 聖克里斯多福及尼維斯聯邦; a KNK-ban 圣基茨和尼维斯)/
 
 # ID-j52Hr8o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -44917,7 +45075,8 @@ X X [X] /X/
 # Ver 2019-10-13T16:00:07Z gabor Stat-New >https://zh.wikipedia.org/zh/%E5%85%8B%E9%87%8C%E6%96%AF%E5%A4%9A%E5%A4%AB%C2%B7%E9%9B%85%E6%AD%8C%E5%A1%94
 # 剋裡斯多夫雅歌塔 克里斯多夫雅歌塔 [ke4 li3 si1 duo1 fu1 ya3 ge1 ta3] /(tulajdonnév) Kristóf Ágota (író, 1935-2011)/
 # Ver 2019-10-13T17:39:31Z gabor Stat-Verif >.
-剋裡斯多夫雅歌塔 克里斯多夫雅歌塔 [ke4 li3 si1 duo1 fu1 ya3 ge1 ta3] /(tulajdonnév) Kristóf Ágota (író, 1935-2011)/
+# Ver 2021-04-13T22:42:30Z Adam Stat-Verif >nagykötőjel születés és halál dátuma közé
+剋裡斯多夫雅歌塔 克里斯多夫雅歌塔 [ke4 li3 si1 duo1 fu1 ya3 ge1 ta3] /(tulajdonnév) Kristóf Ágota (író, 1935–2011)/
 
 # ID-j88Ns9R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -45652,6 +45811,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 勾 勾 [gou1] /ki|húz; le|vesz; le|mond/fel|vázol; körvonalaz/vonz; fel|kelt; fel|korbácsol/(családnév) Gou/
 
+# ID-k04tS3v
+# Ver 2021-04-13T18:30:26Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+多米尼克 多米尼克 [duo1 mi3 ni2 ke4] /(földrajzi név) Dominika; Dominikai Közösség (hivatalosan: 多米尼克国)/
+
 # ID-k04vz6e
 # Ver 2019-11-01T15:14:55Z GaoYanuo Stat-New >HSK5 th, CC-CEDICT, Pleco
 # 較好 较好 [jiao4 hao3] /jobb (minőségű)/
@@ -45729,6 +45892,10 @@ X X [X] /X/
 # ID-k05Ft4L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 亞特蘭大 亚特兰大 [ya4 te4 lan2 da4] /(földrajzi név) Atlanta/
+
+# ID-k05PB4F
+# Ver 2021-04-13T18:44:59Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+納米比亞 纳米比亚 [na4 mi3 bi3 ya4] /(földrajzi név) Namíbia (hivatalosan: 纳米比亚共和国)/
 
 # ID-k05Sv0s
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -46091,6 +46258,10 @@ X X [X] /X/
 # ID-k14dF3G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 懶惰 懒惰 [lan3 duo4] /lusta/tétlen/
+
+# ID-k14qz9t
+# Ver 2021-04-13T18:39:57Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+毛里求斯 毛里求斯 [mao2 li3 qiu2 si1] /(földrajzi név) Mauritius (KNK-beli nevén, hivatalosan: 毛里求斯共和国; Tajvanban 模里西斯)/
 
 # ID-k14wN5w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -49410,6 +49581,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 熟人 熟人 [shu2 ren2] /ismerős (nem túl közeli barát)/
 
+# ID-k87fd4o
+# Ver 2021-04-13T22:33:41Z Adam Stat-New >kínai Wikipedia, angol Wiktionary, CC-CEDICT által megerősítve
+千里達及托巴哥 千里达及托巴哥 [qian1 li3 da2 ji2 tuo1 ba1 ge1] /(földrajzi név) Trinidad és Tobago (tajvani nevén, hivatalosan: 千里達及托巴哥共和國; a KNK-ban 特立尼达和多巴哥)/
+
 # ID-k87fN6n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 關於 关于 [guan1 yu2] /kapcsolatosan (vmivel)/illetően/-ról; -ről/
@@ -50966,6 +51141,10 @@ X X [X] /X/
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 要暈 要晕 [yao1 yun1] /szédül/el|ájul/
 
+# ID-l19gc3z
+# Ver 2021-04-13T18:49:30Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+薩爾瓦多 萨尔瓦多 [sa4 er3 wa3 duo1] /(földrajzi név) Salvador; El Salvador (hivatalosan: 萨尔瓦多共和国)/
+
 # ID-l19jR4S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 說了算 说了算 [shuo1 le5 suan4] /övé az utolsó szó/
@@ -52083,6 +52262,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 浩 浩 [hao4] /nagy; hatalmas/
 
+# ID-l41yX0B
+# Ver 2021-04-13T21:44:58Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+烏茲別克斯坦 乌兹别克斯坦 [wu1 zi1 bie2 ke4 si1 tan3] /(földrajzi név) Üzbegisztán (KNK-beli nevén, hivatalosan: 乌兹别克斯坦共和国; Tajvanban 烏茲別克)/
+
 # ID-l41CH8W
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 咯咯笑 咯咯笑 [ge1 ge1 xiao4] /kuncog/
@@ -52206,6 +52389,10 @@ X X [X] /X/
 # ID-l44pt9Q
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 超級大國 超级大国 [chao1 ji2 da4 guo2] /szuper|hatalom; nagy|hatalom/
+
+# ID-l44sc0f
+# Ver 2021-04-13T18:27:33Z Adam Stat-New >kínai Wikipedia, CC-CEDICT által megerősítve
+吉里巴斯 吉里巴斯 [ji2 li3 ba1 si1] /(földrajzi név) Kiribati (tajvani nevén, hivatalosan: 吉里巴斯共和國; a KNK-ban 基里巴斯)/
 
 # ID-l44xr3C
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -54360,6 +54547,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 當務之急 当务之急 [dang1 wu4 zhi1 ji2] /életbevágó ügy/
 
+# ID-l91Sk7J
+# Ver 2021-04-13T19:28:32Z Adam Stat-New >kínai Wikipedia, CC-CEDICT által megerősítve
+塔吉克 塔吉克 [ta3 ji2 ke4] /(földrajzi név) Tádzsikisztán (tajvani nevén, hivatalosan: 塔吉克共和國; a KNK-ban 塔吉克斯坦)/
+
 # ID-l91UA1j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 更換 更换 [geng1 huan4] /lecserél (elhasználódott tárgyat\alkatrészt)/meg|változtat/
@@ -54665,6 +54856,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 一模一樣 一模一样 [yi1 mu2 yi1 yang4] /(kifejezés) úgy hasonlítanak, mint két tojás/pontosan azonos/másolat/
 
+# ID-l99do9l
+# Ver 2021-04-13T18:59:31Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+西撒哈拉 西撒哈拉 [xi1 sa1 ha1 la1] /(földrajzi név) Nyugat-Szahara; Szaharai Arab Demokratikus Köztársaság (hivatalosan: 阿拉伯撒哈拉民主共和国)/
+
 # ID-l99jf8t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 風氣 风气 [feng1 qi4] /hangulat/légkör (átvitten)/
@@ -54866,6 +55061,10 @@ X X [X] /X/
 # ID-m04eF3V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 毒素 毒素 [du2 su4] /méreg/toxin/
+
+# ID-m04vC5D
+# Ver 2021-04-13T18:12:11Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+南奧塞梯 南奥塞梯 [nan2 ao4 sai1 ti1] /(földrajzi név) Dél-Oszétia (de facto állam a Kaukázusban; hivatalosan: 南奥塞梯共和国)/
 
 # ID-m04BE6i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -55539,6 +55738,10 @@ X X [X] /X/
 # Ver 2019-10-09T15:44:24Z gabor Stat-Verif >a mentén szétszedtem, csak a jelentés végére tudjuk rakni a "vmi"-féléket, akkor is, ha utoljárószóról van szó
 臨 临 [lin2] /nyílik; néz (vmire)/mentén (vminek)/közel van (vmihez; térben vagy időben)/mindjárt; épp; a határán van (hogy vmi megtörténjen)/
 
+# ID-m17Nj7i
+# Ver 2021-04-13T21:53:24Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+聖多美和普林西比 圣多美和普林西比 [sheng4 duo1 mei3 he2 pu3 lin2 xi1 bi3] /(földrajzi név) São Tomé és Príncipe; Sao Tome és Principe (KNK-beli nevén, hivatalosan: 圣多美和普林西比民主共和国; Tajvanban 聖多美普林西比)/
+
 # ID-m17XU9X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 繼續 继续 [ji4 xu4] /folytat/
@@ -55735,6 +55938,10 @@ X X [X] /X/
 # 高等 高等 [gao1 deng3] /magas szintű; magas rangú/felső|fokú/
 # Ver 2019-11-26T12:52:33Z gabor Stat-Verif >.
 高等 高等 [gao1 deng3] /magas szintű; magas rangú/felső|fokú/
+
+# ID-m21Ns4T
+# Ver 2021-04-13T19:15:57Z Adam Stat-New >összekapcsolt Wikipedia-szócikkek (沙漠 ’sivatag’ nélkül), CC-CEDICT
+撒哈拉 撒哈拉 [sa1 ha1 la1] /(földrajzi név) Szahara/
 
 # ID-m21WG1s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -57748,6 +57955,10 @@ XX XX [x x] /x/
 # ID-m63rN9o
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 袋鼠 袋鼠 [dai4 shu3] /kenguru/
+
+# ID-m63zL0G
+# Ver 2021-04-13T22:02:56Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+吉爾吉斯斯坦 吉尔吉斯斯坦 [ji2 er3 ji2 si1 si1 tan3] /(földrajzi név) Kirgizisztán (KNK-beli nevén, hivatalosan: 吉尔吉斯共和国; Tajvanban 吉爾吉斯)/
 
 # ID-m63AP8O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -62193,6 +62404,10 @@ XX XX [x x] /x/
 # Ver 2019-10-09T15:51:52Z gabor Stat-Verif >az "alapos"-t bele tudom látni a példákba, az picit fedi az "aprólékos"-t. a pedánst nem igazán. átrendeztem eszerint.
 仔細 仔细 [zi3 xi4] /óvatos/körültekintő, alapos/figyelmes/
 
+# ID-n60Ny1C
+# Ver 2021-04-13T21:59:06Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+巴布亞新幾內亞 巴布亚新几内亚 [ba1 bu4 ya4 xin1 ji3 nei4 ya4] /(földrajzi név) Pápua Új-Guinea (KNK-beli nevén, hivatalosan: 巴布亚新几内亚独立国; Tajvanban 巴布亞紐幾內亞)/
+
 # ID-n60Ql1T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 覆亡 覆亡 [fu4 wang2] /bukás (birodalomé, országé)/
@@ -62616,6 +62831,10 @@ XX XX [x x] /x/
 # ID-n70NO1H
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 草皮 草皮 [cao3 pi2] /gyep/pázsit/
+
+# ID-n70UZ9a
+# Ver 2021-04-13T19:29:04Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+沙特阿拉伯 沙特阿拉伯 [sha1 te4 a1 la1 bo2] /(földrajzi név) Szaúd-Arábia (hivatalosan: 沙特阿拉伯王国)/
 
 # ID-n70VV6P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -63359,6 +63578,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 泥 泥 [ni2] /sár/iszap/agyag/paszta/
 
+# ID-n87tG2k
+# Ver 2021-04-13T18:44:31Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+瓦努阿圖 瓦努阿图 [wa3 nu3 a1 tu2] /(földrajzi név) Vanuatu (hivatalosan: 瓦努阿图共和国)/
+
 # ID-n87Bq9c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 直徑 直径 [zhi2 jing4] /átmérő/
@@ -63456,6 +63679,12 @@ XX XX [x x] /x/
 # ID-n89HN8O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 慘 惨 [can3] /nyomorult/tragikus/kegyetlen/embertelen/borzalmas/
+
+# ID-n89Pi9m
+# Ver 2021-04-13T22:04:18Z Adam Stat-New >kínai Wikipedia, angol Wiktionary, CC-CEDICT által megerősítve
+# 吉爾吉斯 吉尔吉斯 [ji2 er3 ji2 si1] /(földrajzi név) Kirgizisztán (tajvani nevén, hivatalosan: 吉爾吉斯共和國; a KNK-ban 吉尔吉斯斯坦)/
+# Ver 2021-04-13T22:05:11Z Adam Stat-New >+ másik jelentés (Wiktionary)
+吉爾吉斯 吉尔吉斯 [ji2 er3 ji2 si1] /(földrajzi név) Kirgizisztán (tajvani nevén, hivatalosan: 吉爾吉斯共和國; a KNK-ban 吉尔吉斯斯坦)/kirgiz/
 
 # ID-n89Pj9c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -67266,6 +67495,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 山洞 山洞 [shan1 dong4] /barlang/
 
+# ID-o76oC6c
+# Ver 2021-04-13T19:12:17Z Adam Stat-New >kínai Wikipedia 世界政區索引 és 阿尔察赫共和国 szócikkéből
+阿爾察赫 阿尔察赫 [a1 er3 cha2 he4] /(földrajzi név) Hegyi-Karabah Köztársaság; Arcah Köztársaság (de facto ország a Kaukázus déli részén; hivatalosan: 阿尔察赫共和国)/
+
 # ID-o76xg7D
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 可行性 可行性 [ke3 xing2 xing4] /megvalósíthatóság; kivitelezhetőség/
@@ -67639,6 +67872,10 @@ XX XX [x x] /x/
 # ID-o82Uh1P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 及早 及早 [ji2 zao3] /a lehető leghamarabb/amilyen hamar csak lehet/
+
+# ID-o82Zw8c
+# Ver 2021-04-13T21:25:17Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+哈薩克斯坦 哈萨克斯坦 [ha1 sa4 ke4 si1 tan3] /(földrajzi név) Kazahsztán (KNK-beli nevén, hivatalosan: 哈萨克斯坦共和国; Tajvanban: 哈薩克)/
 
 # ID-o83eY4Q
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -68637,6 +68874,10 @@ XX XX [x x] /x/
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 浩瀚 浩瀚 [hao4 han4] /hatalmas; végtelen (pl. óceán)/
 
+# ID-p03al4w
+# Ver 2021-04-13T18:34:03Z Adam Stat-New >kínai Wikipedia, CC-CEDICT által megerősítve
+多明尼加 多明尼加 [duo1 ming2 ni2 jia1] /(földrajzi név) Dominika; Dominikai Köztársaság (tajvani nevén, hivatalosan: 多明尼加共和國; a KNK-ban 多米尼加)/
+
 # ID-p03cT2P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 國內 国内 [guo2 nei4] /bel|földi/hazai/
@@ -68701,7 +68942,9 @@ XX XX [x x] /x/
 
 # ID-p04fs0t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-津巴布韋 津巴布韦 [jin1 ba1 bu4 wei2] /(földrajzi név) Zimbabwe/
+# 津巴布韋 津巴布韦 [jin1 ba1 bu4 wei2] /(földrajzi név) Zimbabwe/
+# Ver 2021-04-13T18:42:08Z Adam Stat-Verif >+ hivatalos forma zárójelben
+津巴布韋 津巴布韦 [jin1 ba1 bu4 wei2] /(földrajzi név) Zimbabwe (hivatalosan: 津巴布韦共和国)/
 
 # ID-p04Af0L
 # Ver 2017-05-21T22:05:57Z Adam Stat-New >CEDICT, összekapcsolt Wikipédia-szócikkek
