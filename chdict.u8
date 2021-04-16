@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-04-15T02:00:01Z
+# Időbélyeg / Timestamp: 2021-04-16T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -7254,6 +7254,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 與日俱增 与日俱增 [yu3 ri4 ju4 zeng1] /napról napra nő/
 
+# ID-b56Kc6S
+# Ver 2021-04-15T11:35:38Z GaoYanuo Stat-New >HSK4 tankönyv és szokásos szótárak
+抬起 抬起 [tai2 qi3] /felemel/
+
 # ID-b56Mx2S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 殘忍 残忍 [can2 ren3] /kegyetlen/
@@ -13120,6 +13124,10 @@
 # ID-c86Oz4M
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 海盜行為 海盗行为 [hai3 dao4 xing2 wei2] /kalózkodás/
+
+# ID-c86Wl5b
+# Ver 2021-04-16T00:25:36Z Adam Stat-New >Pleco-szótárak
+文言 文言 [wen2 yan2] /klasszikus kínai (a kínainak a 20. század elejéig írásban használt változata, szemben a beszélt nyelvvel: 白话)/
 
 # ID-c87gf7M
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -20988,7 +20996,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-e58LL6l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-實踐 实践 [shi2 jian4] /gyakorol/gyakorlat/
+# 實踐 实践 [shi2 jian4] /gyakorol/gyakorlat/
+# Ver 2021-04-15T11:29:19Z GaoYanuo Stat-Verif >Anyanyelvi tanár, Bartos-Hamar
+實踐 实践 [shi2 jian4] /gyakorol/gyakorlat/a gyakorlatba átültet; megvalósít (elképzelést)/tartja a szavát/
 
 # ID-e58XQ0P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -41194,7 +41204,9 @@ X X [X] /X/
 
 # ID-j02lw0H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-既然 既然 [ji4 ran2] /mivel (annál fogva, hogy)/
+# 既然 既然 [ji4 ran2] /mivel (annál fogva, hogy)/
+# Ver 2021-04-15T11:39:21Z GaoYanuo Stat-Verif >Finomítás. Anyanyelvi tanár, Bartos-Hamar referencia
+既然 既然 [ji4 ran2] /mivel; minthogy(annál fogva, hogy)/ha már így alakult/
 
 # ID-j02on3Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -42765,7 +42777,9 @@ X X [X] /X/
 # Ver 2021-04-14T17:40:00Z GaoYanuo Stat-New >Forrás: anyanyelvi tanár, Bartos-Hamar, CC-CEDICT megerősíti.\nGondban voltam, hogy kifejezésnek tekintsem -e, meg hogy a megadott szavak szinonímának tekinthetőek-e. Én nem éreztem annak,  tévedés joga fenntartva.
 # 耐人尋味 耐人寻味 [nai4 ren2 xun2 wei4] /elgondolkodtató/továbbgondolásra érdemes/gondolatébresztő/
 # Ver 2021-04-14T17:55:57Z GaoYanuo Stat-New >Zárójelesben találó magyar szólások.
-耐人尋味 耐人寻味 [nai4 ren2 xun2 wei4] /(kifejezés) elgondolkodtató (bogarat tesz a fülébe, szöget üt a fejébe)/továbbgondolásra érdemes/gondolatébresztő/
+# 耐人尋味 耐人寻味 [nai4 ren2 xun2 wei4] /(kifejezés) elgondolkodtató (bogarat tesz a fülébe, szöget üt a fejébe)/továbbgondolásra érdemes/gondolatébresztő/
+# Ver 2021-04-15T13:05:34Z GaoYanuo Stat-New >igei jelentés
+耐人尋味 耐人寻味 [nai4 ren2 xun2 wei4] /(kifejezés) elgondolkodtat (bogarat tesz a fülébe, szöget üt a fejébe)/továbbgondolásra érdemes/gondolatébresztő/
 
 # ID-j36Kn1d
 # Ver 2017-05-27T18:29:53Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
@@ -47973,6 +47987,10 @@ X X [X] /X/
 # ID-k48SL3F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 門票 门票 [men2 piao4] /jegy/belépő|jegy/
+
+# ID-k48UI0K
+# Ver 2021-04-16T00:01:13Z Adam Stat-New >Pleco-szótárak
+針頭 针头 [zhen1 tou2] /fecskendő|tű; injekciós tű/
 
 # ID-k49bu9l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -69229,6 +69247,10 @@ XX XX [x x] /x/
 # ID-p07XM0c
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 三角形 三角形 [san1 jiao3 xing2] /háromszög/
+
+# ID-p08ae6g
+# Ver 2021-04-15T23:56:26Z Adam Stat-New >Pleco-szótárak és Baidu
+殺毒 杀毒 [sha1 du2] /vírus|irtó; anti|vírus (számítástechnikai értelemben 软件 szóval kiegészítve is)/vírust ki|irt/fertőtlenít/
 
 # ID-p08gk3k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
