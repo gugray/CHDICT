@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-04-19T02:00:01Z
+# Időbélyeg / Timestamp: 2021-04-20T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -14081,7 +14081,9 @@
 
 # ID-d05Qm4a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-傳統 传统 [chuan2 tong3] /hagyomány/konvenció/SZ:個|个[ge4]/
+# 傳統 传统 [chuan2 tong3] /hagyomány/konvenció/SZ:個|个[ge4]/
+# Ver 2021-04-19T10:11:33Z GaoYanuo Stat-Verif >Bartos-Hamar alapján kiegészítve
+傳統 传统 [chuan2 tong3] /hagyomány/konvenció/hagyományos/konzervatív/SZ:個|个[ge4]/
 
 # ID-d05QF7z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -21710,6 +21712,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 弄死 弄死 [nong4 si3] /meg|öl/
 
+# ID-e71Hw2E
+# Ver 2021-04-19T09:51:17Z GaoYanuo Stat-New >HSK4 tankönyv és szokásos szótárak
+相當於 相当于 [xiang1 dang1 yu2] /egyenértékű (ugyanannyi, ugyanakkora, stb.)/megfelel (vmennyinek, vmekkorának)/
+
 # ID-e71NI2E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 星期三 星期三 [xing1 qi1 san1] /szerda/
@@ -24619,6 +24625,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 槍法 枪法 [qiang1 fa3] /lövészet; célzó|képesség/
 
+# ID-f40bc2y
+# Ver 2021-04-19T10:00:37Z GaoYanuo Stat-New >HSK4 tankönyv és szokásos szótárak
+四葉草 四叶草 [si4 ye4 cao3] /négylevelű lóhere/
+
 # ID-f40dG7U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 突發 突发 [tu1 fa1] /hirtelen ki|tör/hirtelen meg|történik/
@@ -27289,6 +27299,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f95jX1q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 磋商 磋商 [cuo1 shang1] /konzultál/eszmét cserél/
+
+# ID-f95kP7e
+# Ver 2021-04-19T10:23:19Z GaoYanuo Stat-New >HSK4 tankönyv\nhttp://www.translation-dictionary.net/chinese-english/%E7%94%B1%E6%AD%A4%E5%8F%AF%E7%9F%A5#\nhttps://www.omgchinese.com/dictionary/chinese/%E7%94%B1%E6%AD%A4%E5%8F%AF%E7%9F%A5
+由此可知 由此可知 [you2 ci3 ke3 zhi1] /(kifejezés) tehát/ebből is látható; ebből következik/ennek fényében; ami azt mutatja/
 
 # ID-f95kT3t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -35064,6 +35078,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 胡瓜 胡瓜 [hu2 gua1] /uborka/
 
+# ID-h67yV9g
+# Ver 2021-04-19T17:15:33Z Adam Stat-New >CC-CEDICT, Wikipedia
+新德里 新德里 [xin1 de2 li3] /(földrajzi név) Új|delhi (India fővárosa, Delhi metropolisz része)/
+
 # ID-h67Cn8W
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 平手 平手 [ping2 shou3] /döntetlen/
@@ -37531,6 +37549,10 @@ X X [X] /X/
 # ID-i18to7g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 著重 着重 [zhuo2 zhong4] /hangsúlyoz/összpontosít/
+
+# ID-i18Bb5o
+# Ver 2021-04-19T17:13:54Z Adam Stat-New >CC-CEDICT, Wikipedia
+德里 德里 [de2 li3] /(földrajzi név) Delhi (India második legnagyobb metropolisza; egyik kerülete a főváros, Újdelhi 新德里)/
 
 # ID-i18FW6i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -42541,6 +42563,10 @@ X X [X] /X/
 # ID-j28hq1A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 搏鬥 搏斗 [bo2 dou4] /birkózik/birkózás/küzdelem/
+
+# ID-j28kg6P
+# Ver 2021-04-19T17:19:52Z Adam Stat-New >CC-CEDICT, Wikipedia
+孟買 孟买 [meng4 mai3] /(földrajzi név) Mumbai (1995 előtt Bombay; India legnépesebb városa)/
 
 # ID-j28kl2o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -51895,6 +51921,10 @@ X X [X] /X/
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 冷戰 冷战 [leng3 zhan4] /hideg|háború/
 
+# ID-l27Al2k
+# Ver 2021-04-19T10:03:30Z GaoYanuo Stat-New >HSK4 tankönyv és szokásos szótárak
+修飾語 修饰语 [xiu1 shi4 yu3] /módosítószó/
+
 # ID-l27Dp7m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 出路 出路 [chu1 lu4] /kiút (nehézségből)/
@@ -52857,6 +52887,10 @@ X X [X] /X/
 # ID-l47LJ9L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 上來 上来 [shang4 lai2] /fel|jön/(cselekvés sikerét jelző igei kiegészítő)/
+
+# ID-l47NT5F
+# Ver 2021-04-19T17:23:42Z Adam Stat-New >CC-CEDICT, Wikipedia
+班加羅爾 班加罗尔 [ban1 jia1 luo2 er3] /(földrajzi név) Bengaluru (2006 előtt Bangalor; nagyváros Indiában)/
 
 # ID-l47QK4l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -55621,7 +55655,11 @@ X X [X] /X/
 
 # ID-m08XO4Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-專業 专业 [zhuan1 ye4] /szak|terület/szak (egyetemen)/SZ:門|门[men2],個|个[ge4]/
+# 專業 专业 [zhuan1 ye4] /szak|terület/szak (egyetemen)/SZ:門|门[men2],個|个[ge4]/
+# Ver 2021-04-19T10:07:44Z GaoYanuo Stat-Verif >HSK4 tankönyv és Bartos-Hamar alapján kiegészítve
+# 專業 专业 [zhuan1 ye4] /szak|terület/szak (egyetemen)/hivatásos; profi; szakképzett/SZ:門|门[men2],個|个[ge4]/
+# Ver 2021-04-19T10:08:34Z GaoYanuo Stat-Verif >Nem tudom, hogy előtagként hogy kell felvenni (szakember, szakirány, szakértő,stb.)
+專業 专业 [zhuan1 ye4] /szak|terület/szak (egyetemen)/hivatásos; profi; szakképzett/SZ:門|门[men2],個|个[ge4]/
 
 # ID-m08Yp5z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -56736,6 +56774,10 @@ X X [X] /X/
 # 電飯鍋 电饭锅 [dian4 fan4 guo1] /elektromos rizsfőző/
 # Ver 2017-11-27T17:31:19Z gabor Stat-Verif >.
 電飯鍋 电饭锅 [dian4 fan4 guo1] /elektromos rizsfőző/
+
+# ID-m32fa6z
+# Ver 2021-04-19T18:26:31Z Adam Stat-New >kínai Wikipedia, CC-CEDICT
+復旦大學 复旦大学 [fu4 dan4 da4 xue2] /(tulajdonnév) Futan Egyetem; Fudan Egyetem (Sanghaj)/
 
 # ID-m32ia7V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -62997,6 +63039,10 @@ XX XX [x x] /x/
 # ID-n66Bw7Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 糾正 纠正 [jiu1 zheng4] /helyesbít/ki|javít/
+
+# ID-n66Ci1l
+# Ver 2021-04-19T09:54:14Z GaoYanuo Stat-New >HSK4 tankönyv és szokásos szótárak
+屬性 属性 [shu3 xing4] /tulajdonság/jelleg, vonás/
 
 # ID-n66Td2H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
