@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-04-20T02:00:01Z
+# Időbélyeg / Timestamp: 2021-04-22T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -5541,7 +5541,9 @@
 
 # ID-b17pM0Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-教科書 教科书 [jiao4 ke1 shu1] /tan|köny/SZ:本[ben3]/
+# 教科書 教科书 [jiao4 ke1 shu1] /tan|köny/SZ:本[ben3]/
+# Ver 2021-04-21T16:48:16Z Adam Stat-Verif >elírás jav.
+教科書 教科书 [jiao4 ke1 shu1] /tan|könyv/SZ:本[ben3]/
 
 # ID-b17yb6C
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -5747,7 +5749,8 @@
 # Ver 2017-12-18T20:09:04Z gabor Stat-New >https://en.wikipedia.org/wiki/Catty
 # 斤 斤 [jin1] /jin (hagyományos kínai súlymérték, elsősorban élelmiszer mérésére; napjainkban a szárazföli Kínában 0,5 kg, másutt 0,6 kg)/
 # Ver 2017-12-18T20:09:07Z gabor Stat-Verif >.
-斤 斤 [jin1] /jin (hagyományos kínai súlymérték, elsősorban élelmiszer mérésére; napjainkban a szárazföli Kínában 0,5 kg, másutt 0,6 kg)/
+# Ver 2021-04-21T16:50:05Z Adam Stat-Verif >magyar írásmód (itt különösen célszerű, hiszen az angol "yin" megfelelőjeként a magyar "jin" is lehetséges lenne)
+斤 斤 [jin1] /csin; jin (hagyományos kínai súlymérték, elsősorban élelmiszer mérésére; napjainkban a szárazföldi Kínában 0,5 kg, másutt 0,6 kg)/
 
 # ID-b21DR4U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -10591,7 +10594,11 @@
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 # 旁路 旁路 [pang2 lu4] /el|kerülés; meg|kerülés/sönt (elektronika)/
 # Ver 2019-07-01T15:56:39Z GaoYanuo Stat-Verif >forrás: munkahely
-旁路 旁路 [pang2 lu4] /el|kerülés; meg|kerülés/sönt (elektronika)/by-pass (vegyipar) kerülő -szelep, -vezeték/
+# 旁路 旁路 [pang2 lu4] /el|kerülés; meg|kerülés/sönt (elektronika)/by-pass (vegyipar) kerülő -szelep, -vezeték/
+# Ver 2021-04-21T16:52:43Z Adam Stat-Verif >címke a jelentés elejére, aljelentések közé pontosvessző
+# 旁路 旁路 [pang2 lu4] /el|kerülés; meg|kerülés/sönt (elektronika)/(vegyipar) bypass; kerülő|szelep; -vezeték/
+# Ver 2021-04-21T16:53:15Z Adam Stat-Verif >címke a jelentés elejére a másiknál is
+旁路 旁路 [pang2 lu4] /el|kerülés; meg|kerülés/(elektronika) sönt/(vegyipar) bypass; kerülő|szelep; -vezeték/
 
 # ID-c33lG9Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -31283,7 +31290,9 @@ X X [X] /X/
 
 # ID-g81sA8G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-慷慨 慷慨 [kang1 kai3] /buzgó; heves/nagylelkű; bőkezűí/
+# 慷慨 慷慨 [kang1 kai3] /buzgó; heves/nagylelkű; bőkezűí/
+# Ver 2021-04-21T16:40:34Z Adam Stat-Verif >elírás jav.
+慷慨 慷慨 [kang1 kai3] /buzgó; heves/nagylelkű; bőkezű/
 
 # ID-g81up2Y
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -35887,7 +35896,9 @@ X X [X] /X/
 
 # ID-h83Wk7p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-巴庫 巴库 [ba1 ku4] /(földrajzi név) Baku/
+# 巴庫 巴库 [ba1 ku4] /(földrajzi név) Baku/
+# Ver 2021-04-21T16:33:15Z Adam Stat-Verif >+ azeri írásmód
+巴庫 巴库 [ba1 ku4] /(földrajzi név) Baku; Bakı (azeri írással)/
 
 # ID-h83XK7F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -39017,7 +39028,8 @@ X X [X] /X/
 # Ver 2019-09-30T08:14:07Z gabor Stat-New >.
 # 擴展 扩展 [kuo4 zhan3] /ki|terjed; el|terjed/ki|terjeszt/terjezkedik/
 # Ver 2019-09-30T08:14:09Z gabor Stat-Verif >.
-擴展 扩展 [kuo4 zhan3] /ki|terjed; el|terjed/ki|terjeszt/terjezkedik/
+# Ver 2021-04-21T16:44:59Z Adam Stat-Verif >elírás jav.
+擴展 扩展 [kuo4 zhan3] /ki|terjed; el|terjed/ki|terjeszt/terjeszkedik/
 
 # ID-i51IB7g
 # Ver 2021-04-12T16:45:52Z Adam Stat-New >kínai Wikipedia, CC-CEDICT által megerősítve
@@ -42664,7 +42676,9 @@ X X [X] /X/
 
 # ID-j30jF1M
 # Ver 2019-07-01T23:16:05Z GaoYanuo Stat-New >https://www.xyzdict.com/en/chinese-english/%E5%BE%85%E5%91%BD
-待命 待命 [dai4 ming4] /készenlét, stand-by/
+# 待命 待命 [dai4 ming4] /készenlét, stand-by/
+# Ver 2021-04-21T16:36:36Z Adam Stat-New >angolul főnévként inkább egybeíródik (jelzőként lehetne kötőjeles); pontosvessző a jelentések közé
+待命 待命 [dai4 ming4] /készenlét; standby/
 
 # ID-j30nj4A
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -43211,7 +43225,9 @@ X X [X] /X/
 
 # ID-j42kO6s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-從頭 从头 [cong2 tou2] /újra/előről/
+# 從頭 从头 [cong2 tou2] /újra/előről/
+# Ver 2021-04-21T16:37:43Z Adam Stat-Verif >elírás jav.
+從頭 从头 [cong2 tou2] /újra/elölről/
 
 # ID-j42mu3t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -60855,7 +60871,9 @@ XX XX [x x] /x/
 
 # ID-n18Hm1o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-拉拉 拉拉 [la1 la1] /lezbikus (szleng)/(átirat) Lara/
+# 拉拉 拉拉 [la1 la1] /lezbikus (szleng)/(átirat) Lara/
+# Ver 2021-04-21T16:42:59Z Adam Stat-Verif >elírás jav.
+拉拉 拉拉 [la1 la1] /leszbikus (szleng)/(átirat) Lara/
 
 # ID-n18Hr2S
 # Ver 2017-05-21T23:09:43Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
@@ -64794,7 +64812,9 @@ XX XX [x x] /x/
 
 # ID-o06wn5S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-攙 搀 [chan1] /karon fogva támogat/össze|kever/fel|higít/
+# 攙 搀 [chan1] /karon fogva támogat/össze|kever/fel|higít/
+# Ver 2021-04-21T16:45:38Z Adam Stat-Verif >hígít: az elején is hosszú í-vel íródik
+攙 搀 [chan1] /karon fogva támogat/össze|kever/fel|hígít/
 
 # ID-o06xL1l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
