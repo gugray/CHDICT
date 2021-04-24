@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-04-22T02:00:01Z
+# Időbélyeg / Timestamp: 2021-04-24T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -3961,6 +3961,10 @@
 # ID-a83QJ7L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 醫師 医师 [yi1 shi1] /orvos/doktor/
+
+# ID-a83ST9r
+# Ver 2021-04-23T23:22:17Z Adam Stat-New >kínai Wikipedia
+沃爾夫岡阿馬德烏斯莫扎特 沃尔夫冈阿马德乌斯莫扎特 [wo4 er3 fu1 gang1 a1 ma3 de2 wu1 si1 mo4 zha1 te4] /(tulajdonnév) Wolfgang Amadeus Mozart (zeneszerző, 1756–1791)/
 
 # ID-a83TT3V
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -13046,7 +13050,9 @@
 
 # ID-c84cu6T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-土豆 土豆 [tu3 dou4] /krumpli/burgonya/SZ:個|个[ge4]/földi|mogyoró (Tajvan)/SZ:顆|颗[ke1]/
+# 土豆 土豆 [tu3 dou4] /krumpli/burgonya/SZ:個|个[ge4]/földi|mogyoró (Tajvan)/SZ:顆|颗[ke1]/
+# Ver 2021-04-23T23:33:54Z Adam Stat-Verif >a krumpli és a burgonya szerintem ugyanazt jelölik: ne két külön jelentésben legyenek
+土豆 土豆 [tu3 dou4] /krumpli; burgonya/SZ:個|个[ge4]/földi|mogyoró (Tajvan)/SZ:顆|颗[ke1]/
 
 # ID-c84do8D
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -14312,6 +14318,14 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 位於 位于 [wei4 yu2] /el|helyezkedik (vhol; ott található)/fekszik (vhol; ott található)/található (vhol)/
 
+# ID-d10vJ7d
+# Ver 2021-04-23T23:16:31Z Adam Stat-New >kínai Wikipedia
+# 伊戈爾費奧多羅維奇斯特拉文斯 伊戈尔费奥多罗维奇斯特拉文斯 [yi1 ge1 er3 fei4 ao4 duo1 luo2 wei2 qi2 si1 te4 la1 wen2 si1] /Igor Stravinsky; Igor Fjodorovics Sztravinszkij (orosz zeneszerző, 1882–1971)/
+# Ver 2021-04-23T23:18:53Z Adam Stat-New >+ tulajdonnév címke
+# 伊戈爾費奧多羅維奇斯特拉文斯 伊戈尔费奥多罗维奇斯特拉文斯 [yi1 ge1 er3 fei4 ao4 duo1 luo2 wei2 qi2 si1 te4 la1 wen2 si1] /(tulajdonnév) Igor Stravinsky; Igor Fjodorovics Sztravinszkij (orosz zeneszerző, 1882–1971)/
+# Ver 2021-04-23T23:35:37Z Adam Stat-New >a nemzetiség máshol sincs kitéve
+伊戈爾費奧多羅維奇斯特拉文斯 伊戈尔费奥多罗维奇斯特拉文斯 [yi1 ge1 er3 fei4 ao4 duo1 luo2 wei2 qi2 si1 te4 la1 wen2 si1] /(tulajdonnév) Igor Stravinsky; Igor Fjodorovics Sztravinszkij (zeneszerző, 1882–1971)/
+
 # ID-d10Ek4o
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 最大速率 最大速率 [zui4 da4 su4 lü4] /maximális sebesség; vég|sebesség/
@@ -14899,6 +14913,10 @@
 # ID-d23oE4N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 茜 茜 [qian4] /festő|buzér (Rubia tinctorum; vörös festékanyagáért kedvelt növény)/
+
+# ID-d23pI1R
+# Ver 2021-04-23T23:26:51Z Adam Stat-New >kínai Wikipedia
+路德維希範貝多芬 路德维希范贝多芬 [lu4 de2 wei2 xi1 fan4 bei4 duo1 fen1] /(tulajdonnév) Ludwig van Beethoven (zeneszerző, 1770–1827)/
 
 # ID-d23qZ5T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -15722,6 +15740,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-d41Ai6k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 才華 才华 [cai2 hua2] /írás|tehetség/művészi tehetség/SZ:份[fen4]/
+
+# ID-d41HU5A
+# Ver 2021-04-23T23:32:59Z Adam Stat-New >Wikipedia-szócikkek
+土豆網 土豆网 [tu3 dou4 wang3] /Tudou (kínai videómegosztó honlap)/
 
 # ID-d41IU2C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -23208,6 +23230,12 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f08fY9P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 勝過 胜过 [sheng4 guo4] /túl|szárnyal/felül|múl/
+
+# ID-f08ir4e
+# Ver 2021-04-23T23:44:36Z Adam Stat-New >Bartos–Hamar-nagyszótár + legyen meg a „pang” magyar szóként is
+# 瘀滯 瘀滞 [yu1 zhi4] /lassul (vízfolyás, iszap miatt)/(orvostudomány) pang (pl. vér, vizelet)/
+# Ver 2021-04-23T23:47:40Z Adam Stat-New >a „pang’ magyar szót keresve nem lelhető fel ez a szócikk
+瘀滯 瘀滞 [yu1 zhi4] /lassul (vízfolyás, iszap miatt)/(orvostudomány) pang (pl. vér, vizelet)/
 
 # ID-f08mX5D
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -33331,7 +33359,11 @@ X X [X] /X/
 
 # ID-h25tT3H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-停滯 停滞 [ting2 zhi4] /stagnál/meg|torpan/
+# 停滯 停滞 [ting2 zhi4] /stagnál/meg|torpan/
+# Ver 2021-04-23T23:46:08Z Adam Stat-Verif >+ szinonimák
+# 停滯 停滞 [ting2 zhi4] /stagnál; pang; meg|reked/meg|torpan/
+# Ver 2021-04-23T23:47:27Z Adam Stat-Verif >a „pang’ magyar szót keresve nem lelhető fel ez a szócikk
+停滯 停滞 [ting2 zhi4] /stagnál; pang; meg|reked/meg|torpan/
 
 # ID-h25vY7W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -48066,6 +48098,10 @@ X X [X] /X/
 # ID-k45VJ9h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 而 而 [er2] /és/de/ezért/így aztán/(ok-okozati viszonyt kifejező kötőszó)/(állapotváltozást, egyik végletből a másikba való átmenetet fejez ki)/
+
+# ID-k46dO2U
+# Ver 2021-04-23T23:07:25Z Adam Stat-New >összekapcsolt Wikipedia-szócikkek; Youku (pl. https://v.youku.com/v_show/id_XMjYwMjU3NTgw.html )
+春之祭 春之祭 [chun1 zhi1 ji4] /Tavaszi áldozat (Igor Stravinsky 1913-ban bemutatott zenekari műve)/
 
 # ID-k46eu4J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -62981,6 +63017,10 @@ XX XX [x x] /x/
 # ID-n64yF7L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 娃娃 娃娃 [wa2 wa5] /baba (játék)/bébi/
+
+# ID-n64Oa3j
+# Ver 2021-04-23T23:24:40Z Adam Stat-New >kínai Wikipedia
+約翰塞巴斯蒂安巴赫 约翰塞巴斯蒂安巴赫 [yue1 han4 sai1 ba1 si1 di4 an1 ba1 he4] /(tulajdonnév) Johann Sebastian Bach (zeneszerző, 1685–1750)/
 
 # ID-n64PE2u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
