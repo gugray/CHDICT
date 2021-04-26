@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-04-25T02:00:01Z
+# Időbélyeg / Timestamp: 2021-04-26T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -9634,6 +9634,10 @@
 # Ver 2017-11-29T17:29:38Z gabor Stat-Verif >.
 戌狗 戌狗 [xu1 gou3] /a Kutya éve (a kínai naptár 12 éves ciklusából a tizenegyedik év)/
 
+# ID-c09CO0K
+# Ver 2021-04-25T12:48:53Z Adam Stat-New >Wikipedia, CC-CEDICT
+贊美歌 赞美歌 [zan4 mei3 ge1] /himnusz; dics|himnusz; zsoltár (vallásos dicsőítő ének)/
+
 # ID-c09Lq2l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 過獎 过奖 [guo4 jiang3] /hízeleg/magasztal/túldicsér/(udvarias válasz a dicséretre)/
@@ -14408,6 +14412,10 @@
 # ID-d12mw4B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 原 原 [yuan2] /eredeti/elsődleges/nyers/ok/forrás/
+
+# ID-d12of0e
+# Ver 2021-04-25T12:36:43Z Adam Stat-New >Wikipedia, CC-CEDICT
+克里姆林宮 克里姆林宫 [ke4 li3 mu3 lin2 gong1] /(tulajdonnév) Kreml (Moszkvában)/
 
 # ID-d12qA6o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -32597,7 +32605,9 @@ X X [X] /X/
 
 # ID-h06gF4Z
 # Ver 2017-09-27T21:12:36Z gabor Stat-New >CEDICT; korpusz; Wikipedia
-山毛櫸 山毛榉 [shan1 mao2 ju3] /bükk; Fagus sylvatica/
+# 山毛櫸 山毛榉 [shan1 mao2 ju3] /bükk; Fagus sylvatica/
+# Ver 2021-04-25T15:57:20Z Adam Stat-New >rendszertani név zárójelbe
+山毛櫸 山毛榉 [shan1 mao2 ju3] /bükk (Fagus sylvatica)/
 
 # ID-h06jg9q
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -58723,7 +58733,9 @@ XX XX [x x] /x/
 
 # ID-m70Ur7v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-哎呀 哎呀 [ai1 ya1] /(indulatszó: csodálkozás, megdöbbenés, csodálat)/
+# 哎呀 哎呀 [ai1 ya1] /(indulatszó: csodálkozás, megdöbbenés, csodálat)/
+# Ver 2021-04-25T15:50:13Z Adam Stat-Verif >részben a korpusz alapján kiegészítés pár lehetséges megfelelővel
+哎呀 哎呀 [ai1 ya1] /ó; jaj; aj-aj; ejha; hű; hűha; nicsak; nocsak; nahát; te jó ég; atya|ég; jesszus; a mindenit; a kutyafáját; a csudába (indulatszó: csodálkozás, megdöbbenés, csodálat)/
 
 # ID-m70WH5s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -60577,6 +60589,10 @@ XX XX [x x] /x/
 # ID-n11mL4e
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 神情 神情 [shen2 qing2] /nézés/arc|kifejezés/
+
+# ID-n11nk8T
+# Ver 2021-04-25T12:41:50Z Adam Stat-New >Wikipedia, CC-CEDICT
+弗拉基米爾普京 弗拉基米尔普京 [fu2 la1 ji1 mi3 er3 pu3 jing1] /(tulajdonnév) Vlagyimir Putyin/
 
 # ID-n11nV5o
 # Ver 2018-11-22T01:22:40Z GaoYanuo Stat-New >CC-EDICT, Pleco
