@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-04-26T02:00:01Z
+# Időbélyeg / Timestamp: 2021-04-27T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -66940,7 +66940,9 @@ XX XX [x x] /x/
 
 # ID-o51fD3U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-差不多 差不多 [cha4 bu5 duo1] /körülbelül/nagyjából/majdnem/
+# 差不多 差不多 [cha4 bu5 duo1] /körülbelül/nagyjából/majdnem/
+# Ver 2021-04-26T12:51:39Z Adam Stat-Verif >+ kifejezésként vett magyar megfelelője
+差不多 差不多 [cha4 bu5 duo1] /körülbelül; nagyjából; lényegében; majdnem/(kifejezés) jó lesz az úgy/
 
 # ID-o51hO5z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -68695,6 +68697,12 @@ XX XX [x x] /x/
 # 塞切尼伊什特萬 塞切尼伊什特万 [sai1 qie1 ni2 yi1 shi2 te4 wan4] /(tulajdonnév) Széchenyi István/
 # Ver 2018-01-03T10:44:01Z gabor Stat-Verif >.
 塞切尼伊什特萬 塞切尼伊什特万 [sai1 qie1 ni2 yi1 shi2 te4 wan4] /(tulajdonnév) Széchenyi István/
+
+# ID-o88Sc6l
+# Ver 2021-04-26T08:13:06Z Adam Stat-New >Wikipedia, CC-CEDICT
+# 切爾諾貝利事故 切尔诺贝利事故 [qie1 er3 nuo4 bei4 li4 shi4 gu4] /csernobili atomerőmű-baleset; csernobili atom|katasztrófa/
+# Ver 2021-04-26T08:19:35Z Adam Stat-New >dátum zárójelben
+切爾諾貝利事故 切尔诺贝利事故 [qie1 er3 nuo4 bei4 li4 shi4 gu4] /csernobili atomerőmű-baleset; csernobili atom|katasztrófa (1986. április 26.)/
 
 # ID-o88TD3M
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
