@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-04-29T02:00:01Z
+# Időbélyeg / Timestamp: 2021-04-30T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -10991,7 +10991,9 @@
 
 # ID-c40KR1x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-反饋 反馈 [fan3 kui4] /vissza|jelzés/vissza|csatolás/vissza|jelzést ad/
+# 反饋 反馈 [fan3 kui4] /vissza|jelzés/vissza|csatolás/vissza|jelzést ad/
+# Ver 2021-04-29T21:55:57Z Adam Stat-Verif >közeli szinonimák egyazon jelentés alá
+反饋 反馈 [fan3 kui4] /vissza|jelzés; vissza|csatolás/vissza|jelzést ad/
 
 # ID-c40Qg1C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -12380,6 +12382,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 任意 任意 [ren4 yi4] /önkényesen/kedve szerint/
 
+# ID-c69op2E
+# Ver 2021-04-29T16:21:09Z Adam Stat-New >https://en.wikipedia.org/wiki/Provinces_of_China + CC-CEDICT
+隴 陇 [long3] /(rövidítés, földrajzi név) Kanszu tartomány (nem hivatalos forma; teljes alakban 甘肃省 vagy 甘肃, hivatalosan 甘 rövidítéssel)/
+
 # ID-c69po1P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 聖誕樹 圣诞树 [sheng4 dan4 shu4] /karácsony|fa/
@@ -13560,7 +13566,9 @@
 
 # ID-c94uY3D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-黑 黑 [hei1] /sötét/fekete/baljós/titkos/
+# 黑 黑 [hei1] /sötét/fekete/baljós/titkos/
+# Ver 2021-04-29T16:39:51Z Adam Stat-Verif >tartomány rövid neve is https://en.wikipedia.org/wiki/Provinces_of_China és CC-CEDICT alapján
+黑 黑 [hei1] /sötét/fekete/baljós/titkos/(rövidítés, földrajzi név) Hejlungcsiang tartomány (teljes alakban 黑龙江省 vagy 黑龙江)/
 
 # ID-c94xW6S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -13665,6 +13673,10 @@
 # ID-c95Mf4h
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 低等 低等 [di1 deng3] /alsóbb|rendű/
+
+# ID-c95Xf2h
+# Ver 2021-04-29T16:30:42Z Adam Stat-New >https://en.wikipedia.org/wiki/Provinces_of_China + CC-CEDICT
+鄂 鄂 [e4] /(rövidítés, földrajzi név) Hupej tartomány (teljes alakban 湖北省 vagy 湖北)/
 
 # ID-c96br7h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -17004,6 +17016,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 哈 哈 [ha1] /ki|lélegzik/aha!/nevetés/
 
+# ID-d67Uo4j
+# Ver 2021-04-29T15:36:24Z Adam Stat-New >Wikipedia-szócikkek, https://omniglot.com/chinese/hakka.htm
+客家話 客家话 [ke4 jia1 hua4] /hakka nyelvjárás|csoport (a kínai nyelv Dél-Kínában és Tajvanon 43 millió ember által beszélt változata, a hét nagyobb nyelvjáráscsoport egyike)/
+
 # ID-d67WG2R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 暖 暖 [nuan3] /meleg/melegít/
@@ -17207,6 +17223,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-d71SY1y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 老鼠 老鼠 [lao3 shu3] /egér/patkány/SZ:隻|只[zhi1]/
+
+# ID-d71Tg0d
+# Ver 2021-04-29T15:15:51Z Adam Stat-New >Wikipedia-szócikkek + a népességadatokhoz https://omniglot.com/chinese/min.htm
+閩語 闽语 [min3 yu3] /min nyelvjárás|csoport (a kínai nyelv Fucsien környékén, Tajvanon és Dél-Ázsiában kb. 75 millió ember által beszélt változata, a hét nagyobb nyelvjáráscsoport egyike; legnépesebb, 50 milliós ága a déli min, minnan, hokkien v. bân-lâm-gú 闽南语)/
 
 # ID-d72gM7P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -19114,6 +19134,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 框架 框架 [kuang4 jia4] /keret/keret|rendszer/
 
+# ID-e15Ad7L
+# Ver 2021-04-29T14:53:26Z Adam Stat-New >Wikipedia-szócikkek
+官話 官话 [guan1 hua4] /mandarin nyelvjárás|csoport; északi nyelv (a kínai nyelv Kína legtöbb részén elterjedt változata, a hét nagyobb nyelvjáráscsoport egyike, amelybe a szűkebben vett mandarin, a hivatalos kínai köznyelv, 普通话 is tartozik)/
+
 # ID-e15EO5W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 入會 入会 [ru4 hui4] /be|lép; csatlakozik (szervezethez)/
@@ -20315,7 +20339,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-e41Dr6Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-降落 降落 [jiang4 luo4] /süllyed/ereszkedik/le|száll/
+# 降落 降落 [jiang4 luo4] /süllyed/ereszkedik/le|száll/
+# Ver 2021-04-29T11:36:14Z Adam Stat-Verif >magyar jelentés egyértelműsítése
+降落 降落 [jiang4 luo4] /süllyed; ereszkedik/le|száll; földet ér (jármű)/
 
 # ID-e41Er5N
 # Ver 2017-05-21T19:14:10Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek (a pinjin-átírás ellenőrizendő)
@@ -21901,7 +21927,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-e74FC9a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-蘇聯 苏联 [su1 lian2] /(tulajdonnév) Szovjetunió/
+# 蘇聯 苏联 [su1 lian2] /(tulajdonnév) Szovjetunió/
+# Ver 2021-04-29T16:47:20Z Adam Stat-Verif >a 联 épp az „unió” megfelelője: elválasztójel beszúrása
+蘇聯 苏联 [su1 lian2] /(tulajdonnév) Szovjet|unió/
 
 # ID-e74Kt4j
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -22523,6 +22551,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 善良 善良 [shan4 liang2] /jó|szívű/
 
+# ID-e91hH3C
+# Ver 2021-04-29T15:45:59Z Adam Stat-New >angol és magyar nyelvű Wikipedia-szócikkek, Bartos–Hamar-nagyszótár és https://omniglot.com/chinese/hakka.htm
+客家 客家 [ke4 jia1] /hakka; kocsia (a 4–9., 9–12. vagy 12–17. században Észak-Kínából délre vándorolt kínaiak kb. 80–120 milliós csoportja)/
+
 # ID-e91hT7M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 家園 家园 [jia1 yuan2] /szülő|föld/hazafelé/
@@ -22887,7 +22919,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-e99eD6c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-澳洲 澳洲 [ao4 zhou1] /(földrajzi név) Ausztrália/
+# 澳洲 澳洲 [ao4 zhou1] /(földrajzi név) Ausztrália/
+# Ver 2021-04-29T16:53:55Z Adam Stat-Verif >egyértelműsítés
+澳洲 澳洲 [ao4 zhou1] /(földrajzi név) Ausztrália (mint földrész)/
 
 # ID-e99iM8L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -24293,7 +24327,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f31qg2k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-港 港 [gang3] /kikötő/
+# 港 港 [gang3] /kikötő/
+# Ver 2021-04-29T16:38:15Z Adam Stat-Verif >+ Hongkong rövid neve https://en.wikipedia.org/wiki/Provinces_of_China és CC-CEDICT alapján
+港 港 [gang3] /kikötő/(rövidítés, földrajzi név) Hongkong (teljes alakban 香港特别行政区 vagy 香港)/
 
 # ID-f31qK5e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -28902,6 +28938,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-06-04T17:25:38Z Adam Stat-Verif >"i.sz." törölve, a dátumok növekvő sorrendjéből (és a jelöletlenségből) feltételezhető
 清 清 [qing1] /tiszta/világos/igazságos és becsületes/(tulajdonnév) Csing-dinasztia (1644–1912)/(családnév) Qing/
 
+# ID-g27zm1o
+# Ver 2021-04-29T16:29:35Z Adam Stat-New >https://en.wikipedia.org/wiki/Provinces_of_China + CC-CEDICT
+豫 豫 [yu4] /(rövidítés, földrajzi név) Honan tartomány (teljes alakban 河南省 vagy 河南)/
+
 # ID-g27Gu2Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 以致 以致 [yi3 zhi4] /következésképpen/ennek eredményeként/
@@ -30168,6 +30208,10 @@ X X [X] /X/
 # ID-g54mw8Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 中東 中东 [zhong1 dong1] /(földrajzi név) Közel-Kelet/
+
+# ID-g54oX6C
+# Ver 2021-04-29T16:17:00Z Adam Stat-New >https://en.wikipedia.org/wiki/Provinces_of_China + CC-CEDICT
+粵 粤 [yue4] /(rövidítés, földrajzi név) Kuangtung tartomány (teljes alakban 广东省 vagy 广东)/
 
 # ID-g54tQ0T
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -32759,6 +32803,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 擁護者 拥护者 [yong1 hu4 zhe3] /támogató; gondviselő (ember)/
 
+# ID-h09yc2c
+# Ver 2021-04-29T16:50:59Z Adam Stat-New >https://en.wikipedia.org/wiki/Provinces_of_China + CC-CEDICT
+贛 赣 [gan4] /(rövidítés, földrajzi név) Csianghszi tartomány (teljes alakban 江西省 vagy 江西)/
+
 # ID-h09Ed8k
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 強勁 强劲 [qiang2 jing4] /erős (fizikailag; nagy teljesítményű)/
@@ -34924,6 +34972,10 @@ X X [X] /X/
 # 尤若夫阿蒂拉 尤若夫阿蒂拉 [you2 ruo4 fu1 a1 di4 la1] /(tulajdonnév) József Attila/
 # Ver 2019-10-12T15:00:27Z gabor Stat-Verif >.
 尤若夫阿蒂拉 尤若夫阿蒂拉 [you2 ruo4 fu1 a1 di4 la1] /(tulajdonnév) József Attila/
+
+# ID-h61GC4m
+# Ver 2021-04-29T16:35:47Z Adam Stat-New >https://en.wikipedia.org/wiki/Provinces_of_China + CC-CEDICT + Bartos–Hamar-nagyszótár
+瓊 琼 [qiong2] /jáde; jáspis/finom, szép, míves, kitűnő, kiváló dolog, tárgy/(rövidítés, földrajzi név) Hajnan tartomány (teljes alakban 海南省 vagy 海南)/
 
 # ID-h61Md3E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -37691,7 +37743,9 @@ X X [X] /X/
 
 # ID-i20el9U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-吉 吉 [ji2] /szerencsés/(családnév) Ji/
+# 吉 吉 [ji2] /szerencsés/(családnév) Ji/
+# Ver 2021-04-29T16:42:07Z Adam Stat-Verif >tartomány rövid neve is https://en.wikipedia.org/wiki/Provinces_of_China és CC-CEDICT alapján
+吉 吉 [ji2] /szerencsés/(családnév) Ji/(rövidítés, földrajzi név) Csilin tartomány (teljes alakban 吉林省 vagy 吉林)/
 
 # ID-i20kd1o
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -45801,7 +45855,9 @@ X X [X] /X/
 # Ver 2017-12-12T12:23:56Z GaoYanuo Stat-Verif >Bartos-Hamar
 # 貴 贵 [gui4] /drága (pénzben)/becses; tisztelt (udvarias kérdésekben: pl. szabad a becses nevét?)/nemes/
 # Ver 2017-12-12T15:29:04Z gabor Stat-Verif >.
-貴 贵 [gui4] /drága (pénzben)/becses; tisztelt ("szabad a becses nevét?")/nemes/
+# 貴 贵 [gui4] /drága (pénzben)/becses; tisztelt ("szabad a becses nevét?")/nemes/
+# Ver 2021-04-29T16:25:52Z Adam Stat-Verif >+ tartomány rövid neve https://en.wikipedia.org/wiki/Provinces_of_China és CC-CEDICT alapján
+貴 贵 [gui4] /drága (pénzben)/becses; tisztelt („szabad a becses nevét?”)/nemes/(rövidítés, földrajzi név) Kujcsou tartomány (teljes alakban 贵州省 vagy 贵州; nem hivatalosan 黔 rövidítéssel is)/
 
 # ID-j96Qw9X
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -46617,7 +46673,9 @@ X X [X] /X/
 
 # ID-k13BV8F
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
-澳 澳 [ao4] /tenger|öböl (helyiségnevekben fordul elő gyakran)/
+# 澳 澳 [ao4] /tenger|öböl (helyiségnevekben fordul elő gyakran)/
+# Ver 2021-04-29T16:54:18Z Adam Stat-Verif >+ rövidítés https://en.wikipedia.org/wiki/Provinces_of_China és CC-CEDICT alapján
+澳 澳 [ao4] /tenger|öböl (helyiségnevekben fordul elő gyakran)/(rövidítés, földrajzi név) Makaó (teljes alakban 澳门特别行政区 vagy 澳门)/(rövidítés, földrajzi név) Ausztrália (teljes alakban 澳大利亚)/
 
 # ID-k13CJ8e
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -46992,6 +47050,10 @@ X X [X] /X/
 # ID-k21gV3H
 # Ver 2017-05-25T15:33:23Z Adam Stat-New >a 西方狍 Wikipédia-szócikk utolsó karaktere (mint önálló szócikk is)
 狍 狍 [pao2] /őz/
+
+# ID-k21kr7B
+# Ver 2021-04-29T16:57:37Z Adam Stat-New >https://en.wikipedia.org/wiki/Provinces_of_China + CC-CEDICT
+寧 宁 [ning2] /(rövidítés, földrajzi név) Ninghszia-Huj Autonóm Terület (teljes alakban 宁夏回族自治区 vagy 宁夏)/
 
 # ID-k21od5V
 # Ver 2021-03-30T14:23:02Z Adam Stat-New >CC-CEDICT, Wikipedia
@@ -48952,6 +49014,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 源代碼 源代码 [yuan2 dai4 ma3] /forrás|kód/
 
+# ID-k62Ll2t
+# Ver 2021-04-29T16:13:46Z Adam Stat-New >https://en.wikipedia.org/wiki/Provinces_of_China + CC-CEDICT
+渝 渝 [yu2] /(rövidítés, földrajzi név) Csungking (tartományi jogú város, teljes alakban 重庆市 vagy 重庆)/
+
 # ID-k62Rn6k
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 塌陷 塌陷 [ta1 xian4] /be|omlik/össze|omlik/
@@ -49151,6 +49217,10 @@ X X [X] /X/
 # ID-k68aJ4T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 當 当 [dang4] /tekint (vminek)/kezel (vmiként)/gondol; vél/fel|ér (vmivel)/meg|felel (vminek)/meg|felelő/helyes/zálogba ad/
+
+# ID-k68mq9y
+# Ver 2021-04-29T16:15:14Z Adam Stat-New >https://en.wikipedia.org/wiki/Provinces_of_China + CC-CEDICT
+閩 闽 [min3] /(rövidítés, földrajzi név) Fucsien tartomány (teljes alakban 福建省 vagy 福建)/
 
 # ID-k68ss3d
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -50902,6 +50972,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 碎 碎 [sui4] /töredékes/darabokra tör/
 
+# ID-l04uS3z
+# Ver 2021-04-29T15:33:20Z Adam Stat-New >Wikipedia-szócikkek, https://omniglot.com/chinese/xiang.htm
+湘語 湘语 [xiang1 yu3] /hsziang nyelvjárás|csoport (a kínai nyelv főleg Hunan tartományban kb. 37 millió ember által beszélt változata, a hét nagyobb nyelvjáráscsoport egyike)/
+
 # ID-l04vh6G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 優雅 优雅 [you1 ya3] /kecses/ízléses/elegáns/
@@ -50940,6 +51014,10 @@ X X [X] /X/
 # ID-l05mV7U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 投機 投机 [tou2 ji1] /spekulál (pénzzel)/opportunista/kellemes; szimpatikus/
+
+# ID-l05mV9O
+# Ver 2021-04-29T16:51:48Z Adam Stat-New >https://en.wikipedia.org/wiki/Provinces_of_China + CC-CEDICT
+遼 辽 [liao2] /(rövidítés, földrajzi név) Liaoning tartomány (teljes alakban 辽宁省 vagy 辽宁)/
 
 # ID-l05pd8i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -53271,7 +53349,9 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 蘇 苏 [su1] /(rövidítés) 蘇州|苏州[su1 zhou1] Suzhou város/(rövidítés) 江蘇|江苏[jiang1 su1] Jiangsu tartomány/(rövidítés) 蘇聯|苏联[su1 lian2] Szovjetunió/(családnév) Su/fel|éleszt/
 # Ver 2017-05-24T16:51:59Z gabor Stat-Verif >.
-蘇 苏 [su1] /(rövidítés, földrajzi név) Suzhou város (蘇州|苏州[su1 zhou1])/(rövidítés, földrajzi név)  Jiangsu tartomány (江蘇|江苏[jiang1 su1])/(rövidítés, földrajzi név) Szovjetunió (蘇聯|苏联[su1 lian2])/(családnév) Su/fel|éleszt/
+# 蘇 苏 [su1] /(rövidítés, földrajzi név) Suzhou város (蘇州|苏州[su1 zhou1])/(rövidítés, földrajzi név)  Jiangsu tartomány (江蘇|江苏[jiang1 su1])/(rövidítés, földrajzi név) Szovjetunió (蘇聯|苏联[su1 lian2])/(családnév) Su/fel|éleszt/
+# Ver 2021-04-29T16:45:51Z Adam Stat-Verif >magyaros átírás (a pinjin amúgy is szerepel már zárójelben)
+蘇 苏 [su1] /(rövidítés, földrajzi név) Szucsou város (蘇州|苏州[su1 zhou1] vagy 苏州市)/(rövidítés, földrajzi név) Csiangszu tartomány (江蘇|江苏[jiang1 su1] vagy 江苏省)/(rövidítés, földrajzi név) Szovjetunió (蘇聯|苏联[su1 lian2])/(családnév) Su/fel|éleszt/
 
 # ID-l52Pp3a
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -55077,7 +55157,9 @@ X X [X] /X/
 
 # ID-l93wk9V
 # Ver 2021-04-14T19:17:12Z Adam Stat-New >összekapcsolt Wikipedia-szócikkek
-粵語 粤语 [yue4 yu3] /(tágabban) jüe nyelv; yue nyelv (dél-kínai nyelvjáráscsoport)/(szűkebben) kantoni nyelv (Kuangtungban, Hongkongban, Makaón és környékükön beszélt nyelv; az előbbi egy sztenderd formája)/
+# 粵語 粤语 [yue4 yu3] /(tágabban) jüe nyelv; yue nyelv (dél-kínai nyelvjáráscsoport)/(szűkebben) kantoni nyelv (Kuangtungban, Hongkongban, Makaón és környékükön beszélt nyelv; az előbbi egy sztenderd formája)/
+# Ver 2021-04-29T15:25:47Z Adam Stat-New >pontosítás, formázás a többi nyelvjáráscsoporttal összhangban
+粵語 粤语 [yue4 yu3] /(tágabban) jüe nyelvjárás|csoport (a kínai nyelv Dél-Kínában kb. 85 millió ember által beszélt változata, a hét nagyobb nyelvjáráscsoport egyike)/(szűkebben) kantoni nyelv (Kuangtungban, Hongkongban, Makaón és környékükön beszélt nyelv; az előbbi sztenderd formája)/
 
 # ID-l93En0G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -55440,7 +55522,9 @@ X X [X] /X/
 
 # ID-m02FX0A
 # Ver 2017-11-20T22:19:02Z gabor Stat-New >CEDICT
-桂 桂 [gui4] /fahéj/babér/(családnév) Gui/
+# 桂 桂 [gui4] /fahéj/babér/(családnév) Gui/
+# Ver 2021-04-29T16:23:22Z Adam Stat-New >+ tartománynév rövid alakja https://en.wikipedia.org/wiki/Provinces_of_China és CC-CEDICT alapján
+桂 桂 [gui4] /fahéj/babér/(családnév) Gui/(rövidítés, földrajzi név) Kuanghszi-Csuang Autonóm Terület (teljes alakban 广西壮族自治区)/
 
 # ID-m02Jb0E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -55809,6 +55893,10 @@ X X [X] /X/
 # ID-m09Jg5E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 內科 内科 [nei4 ke1] /bel|gyógyászat/
+
+# ID-m09Jo6t
+# Ver 2021-04-29T16:32:04Z Adam Stat-New >https://en.wikipedia.org/wiki/Provinces_of_China + CC-CEDICT
+冀 冀 [ji4] /(rövidítés, földrajzi név) Hopej tartomány (teljes alakban 河北省 vagy 河北)/
 
 # ID-m09Om6u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -58911,7 +58999,9 @@ XX XX [x x] /x/
 
 # ID-m73Ip2E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-京 京 [jing1] /fő|város/(rövidítés, földrajzi név) Peking/
+# 京 京 [jing1] /fő|város/(rövidítés, földrajzi név) Peking/
+# Ver 2021-04-29T16:11:19Z Adam Stat-Verif >.
+京 京 [jing1] /fő|város/(rövidítés, földrajzi név) Peking (a KNK fővárosa és négy tartományi jogú városának egyike, teljes alakban 北京市 vagy 北京)/
 
 # ID-m73KI8g
 # Ver 2017-06-07T10:32:19Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
@@ -59278,6 +59368,10 @@ XX XX [x x] /x/
 # 之前 之前 [zhi1 qian2] /előtt/megelőzően/ezelőtt (valamennyi idővel)/korábban/
 # Ver 2017-05-23T21:18:50Z Adam Stat-Verif >rövidíteni szoktuk a vala- előtagú szavakat
 之前 之前 [zhi1 qian2] /előtt/megelőzően/ezelőtt (vmennyi idővel)/korábban/
+
+# ID-m80HV0n
+# Ver 2021-04-29T16:41:08Z Adam Stat-New >https://en.wikipedia.org/wiki/Provinces_of_China + CC-CEDICT
+湘 湘 [xiang1] /(rövidítés, földrajzi név) Hunan tartomány (teljes alakban 湖南省 vagy 湖南省)/
 
 # ID-m80MW0x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -60495,6 +60589,12 @@ XX XX [x x] /x/
 # 維基百科 维基百科 [wei2 ji1 bai3 ke1] /Wikipédia/
 # Ver 2021-03-28T22:40:12Z Adam Stat-New >+ angolos írásmód kereshetőség végett; zárójeles kommentár
 維基百科 维基百科 [wei2 ji1 bai3 ke1] /Wikipédia; Wikipedia (szabad szerkesztésű, nyílt tartalmú internetes enciklopédia)/
+
+# ID-n07mm2e
+# Ver 2021-04-29T14:38:24Z Adam Stat-New >összekapcsolt Wikipedia-szócikkek
+# 吳語 吴语 [wu2 yu3] /vu nyelvjárás|csoport (a kínai nyelv Sanghaj környékén kb. 80 millió ember által beszélt változata)/
+# Ver 2021-04-29T14:41:12Z Adam Stat-New >kiegészítés https://en.wikipedia.org/wiki/Chinese_language#Grouping és Bartos–Hamar-nagyszótár alapján
+吳語 吴语 [wu2 yu3] /vu nyelvjárás|csoport (a kínai nyelv Sanghaj környékén kb. 80 millió ember által beszélt változata, a hét nagyobb nyelvjáráscsoport egyike)/
 
 # ID-n07oy0L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -62718,7 +62818,9 @@ XX XX [x x] /x/
 
 # ID-n56lR3j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-甘 甘 [gan1] /édes/hajlandó; kész (vmire)/(családnév) Gan/
+# 甘 甘 [gan1] /édes/hajlandó; kész (vmire)/(családnév) Gan/
+# Ver 2021-04-29T16:19:58Z Adam Stat-Verif >+ tartomány nevének rövid alakja https://en.wikipedia.org/wiki/Provinces_of_China és CC-CEDICT nyomán
+甘 甘 [gan1] /édes/hajlandó; kész (vmire)/(családnév) Gan/(rövidítés, földrajzi név) Kanszu tartomány (teljes alakban 甘肃省 vagy 甘肃; nem hivatalosan 陇 rövidítéssel is)/
 
 # ID-n56DS7N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -69605,9 +69707,21 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 統統 统统 [tong3 tong3] /teljesen/minden/
 
+# ID-p06og0O
+# Ver 2021-04-29T16:07:22Z Adam Stat-New >https://en.wikipedia.org/wiki/Provinces_of_China + CC-CEDICT + Wiktionary
+# 皖 皖 [wan3] /Anhuj tartomány nevének rövidítése (teljes alakban 安徽省 v. 安徽)/
+# Ver 2021-04-29T16:08:45Z Adam Stat-New >formázás
+# 皖 皖 [wan3] /(rövidítés) Anhuj tartomány (teljes alakban 安徽省 vagy 安徽)/
+# Ver 2021-04-29T16:09:41Z Adam Stat-New >.
+皖 皖 [wan3] /(rövidítés, földrajzi név) Anhuj tartomány (teljes alakban 安徽省 vagy 安徽)/
+
 # ID-p06uJ0X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 機動 机动 [ji1 dong4] /motorizált; gépi erővel hajtott/alkalmazkodó; rugalmas/
+
+# ID-p06vv5y
+# Ver 2021-04-29T16:28:12Z Adam Stat-New >https://en.wikipedia.org/wiki/Provinces_of_China + CC-CEDICT
+黔 黔 [qian2] / (rövidítés, földrajzi név) Kujcsou tartomány (nem hivatalos forma; teljes alakban 贵州省 vagy 贵州, hivatalosan 贵 rövidítéssel)/
 
 # ID-p06AN3k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -70141,7 +70255,9 @@ XX XX [x x] /x/
 
 # ID-p16qR4M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-起飛 起飞 [qi3 fei1] /fel|száll/
+# 起飛 起飞 [qi3 fei1] /fel|száll/
+# Ver 2021-04-29T11:32:52Z Adam Stat-Verif >magyarul többértelmű
+起飛 起飞 [qi3 fei1] /fel|száll (levegőbe emelkedik, pl. repülő)/
 
 # ID-p16sq0P
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -70563,6 +70679,10 @@ XX XX [x x] /x/
 # 二手煙 二手烟 [er4 shou3 yan1] /másodlagos dohány|füst; passzív dohányzás/
 # Ver 2019-09-28T17:59:31Z gabor Stat-Verif >.
 二手煙 二手烟 [er4 shou3 yan1] /másodlagos dohány|füst; passzív dohányzás/
+
+# ID-p24nk2P
+# Ver 2021-04-29T15:30:45Z Adam Stat-New >Wikipedia-szócikkek
+贛語 赣语 [gan4 yu3] /kan nyelvjárás|csoport (a kínai nyelv Csianghszi tartományban kb. 22 millió ember által beszélt változata, a hét nagyobb nyelvjáráscsoport egyike)/
 
 # ID-p24rw2V
 # Ver 2021-04-12T16:34:13Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
