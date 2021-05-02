@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-04-30T02:00:01Z
+# Időbélyeg / Timestamp: 2021-05-02T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -2781,6 +2781,10 @@
 # ID-a56FB8j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 問題 问题 [wen4 ti2] /kérdés/probléma/ügy; téma/SZ:個|个[ge4]/
+
+# ID-a56TD8C
+# Ver 2021-05-01T21:35:09Z Adam Stat-New >CC-CEDICT és https://zh.wiktionary.org/wiki/%E6%B3%B0%E5%8B%92 szerint (+ egy tajvani ismerős szerint) a második karakter kiejtése itt "lè", szemben a meglévő "tài lēi" átírással
+泰勒 泰勒 [tai4 le4] /(átirat) Taylor/
 
 # ID-a56TT4b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -11366,6 +11370,10 @@
 # ID-c49rc4F
 # Ver 2021-03-24T18:34:26Z Adam Stat-New >Wikipedia
 湖北 湖北 [hu2 bei3] /(földrajzi név) Hupej; Hubei (Kína egyik központi tartománya, hivatalosan 省 utótaggal)/
+
+# ID-c49xJ5Y
+# Ver 2021-05-01T20:33:24Z Adam Stat-New >összekapcsolt Wikipedia-szócikkek
+愛德華泰勒 爱德华泰勒 [ai4 de2 hua2 tai4 le4] /(tulajdonnév) Teller Ede (atomfizikus, 1908–2003)/
 
 # ID-c49yJ2W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -52045,6 +52053,8 @@ X X [X] /X/
 
 # ID-l26qg7b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
+# 泰勒 泰勒 [tai4 lei1] /(átirat) Taylor/
+# Ver 2021-05-01T21:33:26Z Adam Stat-Flagged >CC-CEDICT és https://zh.wiktionary.org/wiki/%E6%B3%B0%E5%8B%92 szerint (+ egy tajvani ismerős szerint) a második karakter kiejtése itt "lè"
 泰勒 泰勒 [tai4 lei1] /(átirat) Taylor/
 
 # ID-l26tO0t
