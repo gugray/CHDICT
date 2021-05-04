@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-05-03T02:00:01Z
+# Időbélyeg / Timestamp: 2021-05-04T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -16139,6 +16139,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 督促 督促 [du1 cu4] /sürget; fel|ügyel (dolgozót)/
 
+# ID-d49qd3u
+# Ver 2021-05-03T16:05:09Z GaoYanuo Stat-New >HSK4 tk, Bartos - Hamar, CC-CEDICT
+積極性 积极性 [ji1 ji2 xing4] /lelkesedés; buzgalom/
+
 # ID-d49rk0F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 翹 翘 [qiao4] /fel|emel; fel|tart/felfelé hajlít/felfelé dönt/
@@ -20331,7 +20335,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-e41tH7Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-記憶 记忆 [ji4 yi4] /emlékezik (vmire\vkire)/emlékezet/SZ:個|个[ge4]/
+# 記憶 记忆 [ji4 yi4] /emlékezik (vmire\vkire)/emlékezet/SZ:個|个[ge4]/
+# Ver 2021-05-03T16:10:43Z GaoYanuo Stat-Verif >Szokásos szótárak alapján kiegészítve.
+記憶 记忆 [ji4 yi4] /emlékezik (vmire\vkire); felidéz/emlékezet/SZ:個|个[ge4]/
 
 # ID-e41wE5E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -50191,7 +50197,9 @@ X X [X] /X/
 
 # ID-k89Gm7H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-尋 寻 [xun2] /keres (vkit, vmit)/
+# 尋 寻 [xun2] /keres (vkit, vmit)/
+# Ver 2021-05-03T16:29:43Z GaoYanuo Stat-Verif >Bartos - Hamar és Pleco alapján kiegészítve.
+尋 寻 [xun2] /keres (vkit, vmit)/ókori hosszmérték = 8 尺(chǐ), 8\3 m/
 
 # ID-k89GA3v
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
