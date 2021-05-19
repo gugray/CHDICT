@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-05-04T02:00:01Z
+# Időbélyeg / Timestamp: 2021-05-19T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -62992,7 +62992,9 @@ XX XX [x x] /x/
 
 # ID-n60ka4i
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
-赤裸 赤裸 [chi4 luo3] /meztelen/pucér/
+# 赤裸 赤裸 [chi4 luo3] /meztelen/pucér/
+# Ver 2021-05-18T14:35:35Z Adam Stat-Verif >azonos jelentéshez tartozók együvé
+赤裸 赤裸 [chi4 luo3] /meztelen; pucér/
 
 # ID-n60pl6l
 # Ver 2020-02-28T19:23:25Z GaoYanuo Stat-New >HSK5a tankönyv, CC-CEDICT\nA tanár szlengnek tartja, a netes szótárakban nem találtam "slang" jelzést sehol...
