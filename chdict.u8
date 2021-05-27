@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-05-19T02:00:01Z
+# Időbélyeg / Timestamp: 2021-05-27T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -1409,7 +1409,9 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 小伙子 小伙子 [xiao3 huo3 zi5] /fiatal|ember/ifjonc/legény/SZ:個|个[ge4]/
 # Ver 2021-03-19T22:02:32Z Adam Stat-Verif >ugyanazon fogalom szinonimái inkább egyazon jelentés alá, + még egy szinonima
-小伙子 小伙子 [xiao3 huo3 zi5] /fiatal|ember, fickó, ifjonc, legény/SZ:個|个[ge4]/
+# 小伙子 小伙子 [xiao3 huo3 zi5] /fiatal|ember, fickó, ifjonc, legény/SZ:個|个[ge4]/
+# Ver 2021-05-26T12:23:35Z gabor Stat-Verif >.
+小伙子 小伙子 [xiao3 huo3 zi5] /fiatal|ember; fickó; ifjonc; legény/SZ:個|个[ge4]/
 
 # ID-a29Jh5f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -2984,6 +2986,8 @@
 
 # ID-a62WX3G
 # Ver 2021-03-07T11:59:37Z gabor Stat-New >loud murmurs podcast S4E1
+# 短評 短评 [duan3 ping2] /rövid hozzászólás (pl. online fórumon)/
+# Ver 2021-05-26T12:14:36Z gabor Stat-Verif >.
 短評 短评 [duan3 ping2] /rövid hozzászólás (pl. online fórumon)/
 
 # ID-a63dj6g
@@ -3676,6 +3680,8 @@
 
 # ID-a77eb7B
 # Ver 2020-09-15T16:12:14Z gabor Stat-New >Podcast
+# 子孫 子孙 [zi3 sun1] /gyerekek; utódok; leszármazottak/
+# Ver 2021-05-26T11:48:09Z gabor Stat-Verif >.
 子孫 子孙 [zi3 sun1] /gyerekek; utódok; leszármazottak/
 
 # ID-a77ee4g
@@ -4467,6 +4473,8 @@
 
 # ID-a93WJ6O
 # Ver 2021-03-22T17:55:39Z Adam Stat-New >https://en.wikipedia.org/wiki/Zhangjiajie + https://en.wiktionary.org/wiki/%E5%BC%B5%E5%AE%B6%E7%95%8C
+# 張家界市 张家界市 [zhang1 jia1 jie4 shi4] /(földrajzi név) Csangcsiacsie; Zhangjiajie (világörökségi nemzeti parkjáról ismert város Hunan tartományban)/
+# Ver 2021-05-26T12:30:15Z gabor Stat-Verif >.
 張家界市 张家界市 [zhang1 jia1 jie4 shi4] /(földrajzi név) Csangcsiacsie; Zhangjiajie (világörökségi nemzeti parkjáról ismert város Hunan tartományban)/
 
 # ID-a93ZH4O
@@ -6092,6 +6100,8 @@
 
 # ID-b29wN3z
 # Ver 2021-03-22T18:09:46Z Adam Stat-New >Bartos–Hamar-nagyszótár, https://en.wiktionary.org/wiki/%E5%B3%AA#Chinese
+# 峪 峪 [yu4] /völgy; szurdok; hegy|szoros (földrajzi nevekben)/
+# Ver 2021-05-26T12:31:20Z gabor Stat-Verif >.
 峪 峪 [yu4] /völgy; szurdok; hegy|szoros (földrajzi nevekben)/
 
 # ID-b29xT4B
@@ -12812,7 +12822,11 @@
 
 # ID-c78KU8j
 # Ver 2020-12-12T16:01:52Z GaoYanuo Stat-New >HSK4A tk, Bartos-Hamar, szokásos szótárak
-儘早 尽早 [jin3 zao3] /mielőbb (amilyen hamar csak lehetséges)/mielőtt nem késő/
+# 儘早 尽早 [jin3 zao3] /mielőbb (amilyen hamar csak lehetséges)/mielőtt nem késő/
+# Ver 2021-05-26T12:00:45Z gabor Stat-New >.
+# 儘早 尽早 [jin3 zao3] /mielőbb; a lehető leghamarabb/
+# Ver 2021-05-26T12:00:48Z gabor Stat-Verif >.
+儘早 尽早 [jin3 zao3] /mielőbb; a lehető leghamarabb/
 
 # ID-c78Na0e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -12986,7 +13000,11 @@
 
 # ID-c82rS2W
 # Ver 2020-09-18T18:42:41Z GaoYanuo Stat-New >tanár, szokásos szótárak
-囤積 囤积 [tun2 ji1] /felhalmoz; készletez/felvásárol (spekulációs célzattal); feketézik/
+# 囤積 囤积 [tun2 ji1] /felhalmoz; készletez/felvásárol (spekulációs célzattal); feketézik/
+# Ver 2021-05-26T11:53:56Z gabor Stat-New >.
+# 囤積 囤积 [tun2 ji1] /fel|halmoz/fel|vásárol (spekulációs céllal)/
+# Ver 2021-05-26T11:53:58Z gabor Stat-Verif >.
+囤積 囤积 [tun2 ji1] /fel|halmoz/fel|vásárol (spekulációs céllal)/
 
 # ID-c82ts2U
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -13074,7 +13092,11 @@
 
 # ID-c84cn5z
 # Ver 2021-03-19T17:52:54Z Adam Stat-New >Pleco-szótárak, itteni korpusz
-劇終 剧终 [ju4 zhong1] /vége (felirat)/
+# 劇終 剧终 [ju4 zhong1] /vége (felirat)/
+# Ver 2021-05-26T12:22:16Z gabor Stat-New >.
+# 劇終 剧终 [ju4 zhong1] /vége (filmé, színdarabé; pl. feliratként)/
+# Ver 2021-05-26T12:22:20Z gabor Stat-Verif >.
+劇終 剧终 [ju4 zhong1] /vége (filmé, színdarabé; pl. feliratként)/
 
 # ID-c84cu6T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -13760,6 +13782,8 @@
 
 # ID-c97Aq0m
 # Ver 2021-03-22T16:20:19Z Adam Stat-New >Wiktionary, Wikipedia, Pleco-szótárak
+# 法輪功 法轮功 [fa3 lun2 gong1] /Falun Kung; Falun Gong; Falun Dafa (a KNK-ban betiltott eszmei irányzat és vallási közösség)/
+# Ver 2021-05-26T12:27:10Z gabor Stat-Verif >.
 法輪功 法轮功 [fa3 lun2 gong1] /Falun Kung; Falun Gong; Falun Dafa (a KNK-ban betiltott eszmei irányzat és vallási közösség)/
 
 # ID-c97DH5J
@@ -14836,6 +14860,8 @@
 # Ver 2021-03-07T13:40:54Z gabor Stat-New >https://en.wiktionary.org/wiki/%E6%9C%9D%E4%B9%9D%E6%99%9A%E4%BA%94
 # 朝九晚五 朝九晚五 [zhao1 jiu3 wan3 wu3] /9-től 5-ig; rendes munkaidő/
 # Ver 2021-03-07T13:42:00Z gabor Stat-New >címke
+# 朝九晚五 朝九晚五 [zhao1 jiu3 wan3 wu3] /(kifejezés) 9-től 5-ig; rendes munkaidő/
+# Ver 2021-05-26T12:15:26Z gabor Stat-Verif >.
 朝九晚五 朝九晚五 [zhao1 jiu3 wan3 wu3] /(kifejezés) 9-től 5-ig; rendes munkaidő/
 
 # ID-d21jy8p
@@ -15216,7 +15242,11 @@
 
 # ID-d29jr8r
 # Ver 2020-12-12T15:55:49Z GaoYanuo Stat-New >HSK4A tk, Bartos-Hamar\nhttps://fanyi.baidu.com/?aldtype=85#zh/en/%E5%BC%95%E8%BF%9B
-引進 引进 [yin3 jin4] /be|ajánl, javasol vkit vhova/importál/bevisz, bevezet (új dolgot máshonnan)/
+# 引進 引进 [yin3 jin4] /be|ajánl, javasol vkit vhova/importál/bevisz, bevezet (új dolgot máshonnan)/
+# Ver 2021-05-26T12:00:03Z gabor Stat-New >.
+# 引進 引进 [yin3 jin4] /be|ajánl; javasol/bevisz; bevezet (új dolgot máshonnan)/
+# Ver 2021-05-26T12:00:06Z gabor Stat-Verif >.
+引進 引进 [yin3 jin4] /be|ajánl; javasol/bevisz; bevezet (új dolgot máshonnan)/
 
 # ID-d29th2L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -18574,7 +18604,11 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-e02rK3u
 # Ver 2021-01-11T18:04:56Z GaoYanuo Stat-New >HSK4A tk., Bartos-Hamar Pleco és CCEDICT megerősíti.
-複句 复句 [fu4 ju4] /(nyelvtan) összetett mondat/
+# 複句 复句 [fu4 ju4] /(nyelvtan) összetett mondat/
+# Ver 2021-05-26T12:11:25Z gabor Stat-New >.
+# 複句 复句 [fu4 ju4] /összetett mondat/
+# Ver 2021-05-26T12:11:27Z gabor Stat-Verif >.
+複句 复句 [fu4 ju4] /összetett mondat/
 
 # ID-e02vZ9t
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -20739,6 +20773,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-e50sZ1H
 # Ver 2020-10-01T16:49:03Z gabor Stat-New >GushiFM E179
+# 芽 芽 [ya2] /csíra; hajtás; rügy/
+# Ver 2021-05-26T11:55:18Z gabor Stat-Verif >.
 芽 芽 [ya2] /csíra; hajtás; rügy/
 
 # ID-e50wm4d
@@ -20953,6 +20989,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-e54tG3r
 # Ver 2020-09-25T11:09:19Z gabor Stat-New >GushiFM E179
+# 田鼠 田鼠 [tian2 shu3] /pocok; mezei egér/
+# Ver 2021-05-26T11:54:10Z gabor Stat-Verif >.
 田鼠 田鼠 [tian2 shu3] /pocok; mezei egér/
 
 # ID-e54vz9d
@@ -22639,6 +22677,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-e92yP1W
 # Ver 2021-03-07T15:21:07Z gabor Stat-New >loud murmurs padcast S4E1
+# 獲獎感言 获奖感言 [huo4 jiang3 gan3 yan2] /díjelfogadó beszéd/
+# Ver 2021-05-26T12:16:35Z gabor Stat-Verif >.
 獲獎感言 获奖感言 [huo4 jiang3 gan3 yan2] /díjelfogadó beszéd/
 
 # ID-e92FR8A
@@ -23131,6 +23171,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f03Vb7N
 # Ver 2021-03-07T14:37:38Z gabor Stat-New >https://en.wiktionary.org/wiki/%E7%A9%8D%E5%88%86
+# 積分 积分 [ji1 fen1] /integrál/pontokat gyűjt/összegyűlt pontszám/
+# Ver 2021-05-26T12:15:56Z gabor Stat-Verif >.
 積分 积分 [ji1 fen1] /integrál/pontokat gyűjt/összegyűlt pontszám/
 
 # ID-f04dY8L
@@ -25410,6 +25452,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f52ME2c
 # Ver 2021-03-07T15:17:39Z gabor Stat-New >https://en.wiktionary.org/wiki/%E5%BD%B1%E5%B0%84
+# 影射 影射 [ying3 she4] /céloz; utal (vmire)/
+# Ver 2021-05-26T12:16:23Z gabor Stat-Verif >.
 影射 影射 [ying3 she4] /céloz; utal (vmire)/
 
 # ID-f52Or5F
@@ -27541,6 +27585,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f98lu6L
 # Ver 2021-03-06T16:19:39Z gabor Stat-New >Loud Murmurs podcast S4E1\nkorpusz, képkeresés
+# 窨井蓋 窨井盖 [yin4 jing3 gai4] /csatorna|fedél/
+# Ver 2021-05-26T12:14:13Z gabor Stat-Verif >.
 窨井蓋 窨井盖 [yin4 jing3 gai4] /csatorna|fedél/
 
 # ID-f98nC9e
@@ -28107,7 +28153,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 答應 答应 [da1 ying5] /válaszol/meg|ígér/
 # Ver 2021-01-06T07:39:55Z GaoYanuo Stat-Verif >Bartos-Hamar és CC-CEDICT alapján kiegészítve.
-答應 答应 [da1 ying5] /válaszol/meg|ígér/teljesíti az ígéretét/beleegyezik, egyetért/
+# 答應 答应 [da1 ying5] /válaszol/meg|ígér/teljesíti az ígéretét/beleegyezik, egyetért/
+# Ver 2021-05-26T12:03:58Z gabor Stat-Verif >.
+答應 答应 [da1 ying5] /válaszol/meg|ígér/bele|egyezik/
 
 # ID-g09Pi1k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -28402,7 +28450,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 肯定 肯定 [ken3 ding4] /biztosan/kétségkívül/mindenképpen/bizonyos/meg|erősít/jóvá|hagy/jóvá|hagyás/
 # Ver 2020-09-18T17:46:46Z GaoYanuo Stat-Verif >Forrás: anyanyelvi tanár
-肯定 肯定 [ken3 ding4] /biztosan/kétségkívül/mindenképpen/bizonyos/meg|erősít/jóvá|hagy/jóvá|hagyás/igenlő; állító (nyelvtani ért. a 否定 ellentéte)/
+# 肯定 肯定 [ken3 ding4] /biztosan/kétségkívül/mindenképpen/bizonyos/meg|erősít/jóvá|hagy/jóvá|hagyás/igenlő; állító (nyelvtani ért. a 否定 ellentéte)/
+# Ver 2021-05-26T11:50:04Z gabor Stat-Verif >szerk
+肯定 肯定 [ken3 ding4] /biztosan; kétségkívül; mindenképpen/bizonyos/meg|erősít; jóvá|hagy; jóvá|hagyás/igenlő; állító/
 
 # ID-g15rj4c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -30821,6 +30871,8 @@ X X [X] /X/
 
 # ID-g66rP3O
 # Ver 2021-03-07T15:12:16Z gabor Stat-New >https://en.wiktionary.org/wiki/%E8%AC%9B%E6%B3%95#Chinese
+# 講法 讲法 [jiang3 fa3] /kifejezés|mód; meg|fogalmazás/magyarázat; nézet; vélemény/
+# Ver 2021-05-26T12:16:14Z gabor Stat-Verif >.
 講法 讲法 [jiang3 fa3] /kifejezés|mód; meg|fogalmazás/magyarázat; nézet; vélemény/
 
 # ID-g66GJ2Q
@@ -31958,7 +32010,10 @@ X X [X] /X/
 
 # ID-g91XV3q
 # Ver 2021-01-11T17:47:35Z GaoYanuo Stat-New >HSK4A tk., Bartos-Hamar, Pleco és CCEDICT megerősíti.
-插入語 插入语 [cha1 ru4 yu3] /közbevetett megjegyzés/közbeszólás/
+# 插入語 插入语 [cha1 ru4 yu3] /közbevetett megjegyzés/közbeszólás/
+# Ver 2021-05-26T12:10:35Z gabor Stat-Verif >.
+# Ver 2021-05-26T12:11:01Z gabor Stat-Verif >.
+插入語 插入语 [cha1 ru4 yu3] /közbevetett megjegyzés/közbevetés/
 
 # ID-g92cG1q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -32062,7 +32117,11 @@ X X [X] /X/
 
 # ID-g94uh4x
 # Ver 2021-03-22T16:02:06Z Adam Stat-New >Wiktionary, CC-CEDICT, HanDeDict
-正念 正念 [zheng4 nian4] /(buddhizmus, pszichológia) éber tudatosság; tudatos jelenlét; éber figyelem/
+# 正念 正念 [zheng4 nian4] /(buddhizmus, pszichológia) éber tudatosság; tudatos jelenlét; éber figyelem/
+# Ver 2021-05-26T12:26:51Z gabor Stat-New >.
+# 正念 正念 [zheng4 nian4] /éber tudatosság; tudatos jelenlét; éber figyelem (buddhizmusban)/
+# Ver 2021-05-26T12:26:54Z gabor Stat-Verif >.
+正念 正念 [zheng4 nian4] /éber tudatosság; tudatos jelenlét; éber figyelem (buddhizmusban)/
 
 # ID-g94uu8E
 # Ver 2021-03-28T23:15:47Z Adam Stat-New >CC-CEDICT és Wikipedia
@@ -32274,6 +32333,8 @@ X X [X] /X/
 
 # ID-g98hB8k
 # Ver 2021-03-07T12:06:44Z gabor Stat-New >szokásos szótárak
+# 瓣 瓣 [ban4] /szirom/gerezd/darab; töredék/lemez; billentyű/(számlálószó: a felsorolt értelmekben)//
+# Ver 2021-05-26T12:14:54Z gabor Stat-Verif >.
 瓣 瓣 [ban4] /szirom/gerezd/darab; töredék/lemez; billentyű/(számlálószó: a felsorolt értelmekben)//
 
 # ID-g98hP8d
@@ -34941,6 +35002,8 @@ X X [X] /X/
 
 # ID-h61aG3k
 # Ver 2020-09-15T16:02:18Z gabor Stat-New >Podcast; CEDICT, korpusz
+# 神童 神童 [shen2 tong2] /csoda|gyerek/
+# Ver 2021-05-26T11:47:23Z gabor Stat-Verif >.
 神童 神童 [shen2 tong2] /csoda|gyerek/
 
 # ID-h61fg8Z
@@ -35648,6 +35711,8 @@ X X [X] /X/
 
 # ID-h75te8g
 # Ver 2021-03-07T12:29:16Z gabor Stat-New >https://en.wiktionary.org/wiki/%E6%9A%96%E5%BF%83
+# 暖心 暖心 [nuan3 xin1] /szívmelengető/
+# Ver 2021-05-26T12:15:14Z gabor Stat-Verif >.
 暖心 暖心 [nuan3 xin1] /szívmelengető/
 
 # ID-h75uc0B
@@ -36339,6 +36404,8 @@ X X [X] /X/
 # Ver 2021-03-22T18:01:37Z Adam Stat-New >+ világörökség
 # 八達嶺 八达岭 [ba1 da2 ling3] /(földrajzi név) Pataling; Badaling (a kínai nagy fal leglátogatottabb része Peking közelében, a világörökség része)/
 # Ver 2021-03-22T18:05:08Z Adam Stat-New >szóismétlés elkerülése
+# 八達嶺 八达岭 [ba1 da2 ling3] /(földrajzi név) Pataling; Badaling (a kínai nagy fal leglátogatottabb szakasza Peking közelében, a világörökség része)/
+# Ver 2021-05-26T12:30:47Z gabor Stat-Verif >.
 八達嶺 八达岭 [ba1 da2 ling3] /(földrajzi név) Pataling; Badaling (a kínai nagy fal leglátogatottabb szakasza Peking közelében, a világörökség része)/
 
 # ID-h90DP2R
@@ -36449,6 +36516,8 @@ X X [X] /X/
 
 # ID-h92zl1v
 # Ver 2021-03-06T16:09:31Z gabor Stat-New >Forrás: Loud Murmurs podcast S4E1\nkorpusz, képkeresés
+# 井蓋 井盖 [jing3 gai4] /csatorna|fedél/
+# Ver 2021-05-26T12:14:01Z gabor Stat-Verif >.
 井蓋 井盖 [jing3 gai4] /csatorna|fedél/
 
 # ID-h92Ce0C
@@ -37616,7 +37685,11 @@ X X [X] /X/
 # Ver 2021-01-11T17:17:09Z GaoYanuo Stat-New >HSK4A tk., szokásos szótárak megerősítik
 # 委婉 委婉 [wei3 wan3] /szelíd/tapintatos, diszkrét/diplomatikus/enyhítő, eufemisztikus/
 # Ver 2021-01-11T17:29:27Z GaoYanuo Stat-New >Szelíd viselkedés leírására nem alkalmas.
-委婉 委婉 [wei3 wan3] /szelíd (hangnem)/tapintatos, diszkrét/diplomatikus/enyhítő, eufemisztikus/
+# 委婉 委婉 [wei3 wan3] /szelíd (hangnem)/tapintatos, diszkrét/diplomatikus/enyhítő, eufemisztikus/
+# Ver 2021-05-26T12:07:14Z gabor Stat-New >.
+# 委婉 委婉 [wei3 wan3] /tapintatos/lágy; szelíd (hangnem)/eufemisztikus/
+# Ver 2021-05-26T12:07:17Z gabor Stat-Verif >.
+委婉 委婉 [wei3 wan3] /tapintatos/lágy; szelíd (hangnem)/eufemisztikus/
 
 # ID-i16wo5i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -37688,7 +37761,11 @@ X X [X] /X/
 
 # ID-i18bf4y
 # Ver 2020-10-20T11:37:16Z GaoYanuo Stat-New >CC-CEDICT,\nhttps://youtu.be/e5DLVjlOjQI
-出軌 出轨 [chu1 gui3] /kisiklik/túllép vmilyen határt/megcsal/
+# 出軌 出轨 [chu1 gui3] /kisiklik/túllép vmilyen határt/megcsal/
+# Ver 2021-05-26T11:56:50Z gabor Stat-New >.
+# 出軌 出轨 [chu1 gui3] /ki|siklik/túllép határt/félre|lép/
+# Ver 2021-05-26T11:56:52Z gabor Stat-Verif >.
+出軌 出轨 [chu1 gui3] /ki|siklik/túllép határt/félre|lép/
 
 # ID-i18or5p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -38882,6 +38959,8 @@ X X [X] /X/
 
 # ID-i45Zw3E
 # Ver 2020-09-15T16:15:33Z gabor Stat-New >Podcast
+# 命題 命题 [ming4 ti2] /állítás; kijelentés (pl. logikában)/
+# Ver 2021-05-26T11:48:29Z gabor Stat-Verif >.
 命題 命题 [ming4 ti2] /állítás; kijelentés (pl. logikában)/
 
 # ID-i46gn2G
@@ -40454,6 +40533,8 @@ X X [X] /X/
 
 # ID-i78yp1K
 # Ver 2021-03-07T18:10:13Z gabor Stat-New >loud murmurs podcast S4E1\nhttps://en.wiktionary.org/wiki/%E8%BA%AB%E8%99%95#Chinese
+# 身處 身处 [shen1 chu3] /van; találja magát (vhol, vmilyen helyzetben)/
+# Ver 2021-05-26T12:18:19Z gabor Stat-Verif >.
 身處 身处 [shen1 chu3] /van; találja magát (vhol, vmilyen helyzetben)/
 
 # ID-i78FQ7s
@@ -42019,6 +42100,8 @@ X X [X] /X/
 
 # ID-j12zT2Q
 # Ver 2020-10-01T16:07:58Z gabor Stat-New >GushiFM E179
+# 紅燒肉 红烧肉 [hong2 shao1 rou4] /vörös párolt sertéshús (jellegzetes kínai étel)/
+# Ver 2021-05-26T11:54:57Z gabor Stat-Verif >.
 紅燒肉 红烧肉 [hong2 shao1 rou4] /vörös párolt sertéshús (jellegzetes kínai étel)/
 
 # ID-j12BJ7q
@@ -42172,6 +42255,8 @@ X X [X] /X/
 
 # ID-j16bq7Z
 # Ver 2021-03-22T16:26:37Z Adam Stat-New >Wiktionary, Wikipedia, CC-CEDICT
+# 法輪大法 法轮大法 [fa3 lun2 da4 fa3] /Falun Kung; Falun Gong; Falun Dafa (a KNK-ban betiltott eszmei irányzat és vallási közösség)/
+# Ver 2021-05-26T12:27:22Z gabor Stat-Verif >.
 法輪大法 法轮大法 [fa3 lun2 da4 fa3] /Falun Kung; Falun Gong; Falun Dafa (a KNK-ban betiltott eszmei irányzat és vallási közösség)/
 
 # ID-j16eD4S
@@ -42416,6 +42501,8 @@ X X [X] /X/
 
 # ID-j20Kg5B
 # Ver 2021-03-07T12:10:49Z gabor Stat-New >https://en.wikipedia.org/wiki/Pinduoduo
+# 拼多多 拼多多 [pin1 duo1 duo1] /(tulajdonnév) Pinduoduo (kínai online kereskedelmi platform, amelye elsősorban a mezőgazdasági termelőket köti össze a vásárlókkal)/
+# Ver 2021-05-26T12:15:05Z gabor Stat-Verif >.
 拼多多 拼多多 [pin1 duo1 duo1] /(tulajdonnév) Pinduoduo (kínai online kereskedelmi platform, amelye elsősorban a mezőgazdasági termelőket köti össze a vásárlókkal)/
 
 # ID-j20Oj7T
@@ -43173,7 +43260,11 @@ X X [X] /X/
 
 # ID-j37Zh2p
 # Ver 2021-03-19T17:48:07Z Adam Stat-New >Wiktionary, Pleco-szótárak
-緩存 缓存 [huan3 cun2] /(számítástechnika) gyorsító|tár, cache/
+# 緩存 缓存 [huan3 cun2] /(számítástechnika) gyorsító|tár, cache/
+# Ver 2021-05-26T12:20:48Z gabor Stat-New >.
+# 緩存 缓存 [huan3 cun2] /gyorsító|tár; cache (számítástechnikában)/
+# Ver 2021-05-26T12:20:51Z gabor Stat-Verif >.
+緩存 缓存 [huan3 cun2] /gyorsító|tár; cache (számítástechnikában)/
 
 # ID-j38aA9A
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -44167,6 +44258,8 @@ X X [X] /X/
 
 # ID-j59Cd5s
 # Ver 2020-09-15T16:09:39Z gabor Stat-New >Podcast; 相投 nyomán
+# 臭味相投 臭味相投 [chou4 wei4 xiang1 tou2] /össze|illik; egy húron pendül/
+# Ver 2021-05-26T11:47:59Z gabor Stat-Verif >.
 臭味相投 臭味相投 [chou4 wei4 xiang1 tou2] /össze|illik; egy húron pendül/
 
 # ID-j59IO6B
@@ -44331,6 +44424,8 @@ X X [X] /X/
 
 # ID-j63EB3C
 # Ver 2020-10-01T16:04:40Z gabor Stat-New >GushiFM E179
+# 飯菜 饭菜 [fan4 cai4] /étel/
+# Ver 2021-05-26T11:54:47Z gabor Stat-Verif >.
 飯菜 饭菜 [fan4 cai4] /étel/
 
 # ID-j63Gx1z
@@ -44460,7 +44555,11 @@ X X [X] /X/
 
 # ID-j66Hk1C
 # Ver 2021-03-20T17:49:05Z Adam Stat-New >Bartos–Hamar, CC-DICT, Wiktionary (az „órakor” azért van külön kitéve, hogy jelezze, nem kell más elöljáróféle a kifejezéséhez, ill. hogy jobban szembeállítsa az időtartammal, amire más szavak vannak: 小时, 钟头)
-點鐘 点钟 [dian3 zhong1] /óra, órakor (időpont)/
+# 點鐘 点钟 [dian3 zhong1] /óra, órakor (időpont)/
+# Ver 2021-05-26T12:24:07Z gabor Stat-New >.
+# 點鐘 点钟 [dian3 zhong1] /óra; órakor (időpont)/
+# Ver 2021-05-26T12:24:09Z gabor Stat-Verif >.
+點鐘 点钟 [dian3 zhong1] /óra; órakor (időpont)/
 
 # ID-j66Jt4k
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -45064,6 +45163,8 @@ X X [X] /X/
 
 # ID-j80Ns7n
 # Ver 2020-09-18T18:00:27Z GaoYanuo Stat-New >Tanár, szokásos szótárak, korpusz
+# 講臺 讲台 [jiang3 tai2] /emelvény; pódium/szószék; pulpitus/katedra/
+# Ver 2021-05-26T11:50:43Z gabor Stat-Verif >.
 講臺 讲台 [jiang3 tai2] /emelvény; pódium/szószék; pulpitus/katedra/
 
 # ID-j80RL2O
@@ -46405,6 +46506,8 @@ X X [X] /X/
 
 # ID-k07xC2j
 # Ver 2021-03-22T16:32:02Z Adam Stat-New >Pleco-szótárak, Wiktionary, Bartos–Hamar-nagyszótár
+# 瑜伽 瑜伽 [yu2 jia1] /jóga/
+# Ver 2021-05-26T12:27:54Z gabor Stat-Verif >.
 瑜伽 瑜伽 [yu2 jia1] /jóga/
 
 # ID-k07zh3Y
@@ -47805,6 +47908,8 @@ X X [X] /X/
 
 # ID-k35Ef5i
 # Ver 2020-12-12T15:35:00Z GaoYanuo Stat-New >HSK4A tk, korpusz, \nhttps://fanyi.baidu.com/?aldtype=85#zh/en/%E8%82%9A%E5%AD%90%E5%8F%AB
+# 肚子叫 肚子叫 [du3 zi5 jiao4] /korog a gyomra/
+# Ver 2021-05-26T11:58:03Z gabor Stat-Verif >.
 肚子叫 肚子叫 [du3 zi5 jiao4] /korog a gyomra/
 
 # ID-k35Ji3k
@@ -48990,6 +49095,8 @@ X X [X] /X/
 
 # ID-k61LB1t
 # Ver 2020-10-01T16:17:43Z gabor Stat-New >GushiFM  E179
+# 水餃 水饺 [shui3 jiao3] /főtt húsos táska (jellegzetes kínai étel, holdújév előestéjén fogyasztják előszeretettel)/
+# Ver 2021-05-26T11:55:07Z gabor Stat-Verif >.
 水餃 水饺 [shui3 jiao3] /főtt húsos táska (jellegzetes kínai étel, holdújév előestéjén fogyasztják előszeretettel)/
 
 # ID-k61Me4j
@@ -49430,6 +49537,8 @@ X X [X] /X/
 
 # ID-k72nA3c
 # Ver 2021-03-07T17:12:55Z gabor Stat-New >korpusz; vö: 不同之处\nloud murmurs podcast S4E1
+# 相似之處 相似之处 [xiang1 si4 zhi1 chu4] /hasonlóság/
+# Ver 2021-05-26T12:17:31Z gabor Stat-Verif >.
 相似之處 相似之处 [xiang1 si4 zhi1 chu4] /hasonlóság/
 
 # ID-k72nX9q
@@ -49941,6 +50050,8 @@ X X [X] /X/
 
 # ID-k83EM4Q
 # Ver 2021-03-22T18:04:35Z Adam Stat-New >https://en.wikipedia.org/wiki/Mutianyu
+# 慕田峪 慕田峪 [mu4 tian2 yu4] /(földrajzi név) Mutienjü; Mutianyu (a kínai nagy fal egy szakasza Peking közelében, a világörökség része)/
+# Ver 2021-05-26T12:30:32Z gabor Stat-Verif >.
 慕田峪 慕田峪 [mu4 tian2 yu4] /(földrajzi név) Mutienjü; Mutianyu (a kínai nagy fal egy szakasza Peking közelében, a világörökség része)/
 
 # ID-k83Lq7B
@@ -49975,7 +50086,9 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 搭配 搭配 [da1 pei4] /párosít/össze|állít/össze|válogat (megfelelő, egymáshoz illő dolgokat)/
 # Ver 2020-09-18T18:27:53Z GaoYanuo Stat-Verif >Forrás: anyanyelvi tanár\nref.: https://www.xyzdict.com/en/chinese-english/%E6%90%AD%E9%85%8D?form_submit=1
-搭配 搭配 [da1 pei4] /párosít/össze|állít/össze|válogat (megfelelő, egymáshoz illő dolgokat)/össze|illik (pl. cipő a ruhához, nő férfihez, stb.)/
+# 搭配 搭配 [da1 pei4] /párosít/össze|állít/össze|válogat (megfelelő, egymáshoz illő dolgokat)/össze|illik (pl. cipő a ruhához, nő férfihez, stb.)/
+# Ver 2021-05-26T11:52:34Z gabor Stat-Verif >.
+搭配 搭配 [da1 pei4] /párosít/össze|állít/össze|válogat (megfelelő, egymáshoz illő dolgokat)/össze|illik/
 
 # ID-k84yc3P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -50137,6 +50250,8 @@ X X [X] /X/
 
 # ID-k88ow5M
 # Ver 2020-09-15T16:08:19Z gabor Stat-New >相投 nyomán
+# 興趣相投 兴趣相投 [xing4 qu4 xiang1 tou2] /hasonló érdeklődés/
+# Ver 2021-05-26T11:47:49Z gabor Stat-Verif >.
 興趣相投 兴趣相投 [xing4 qu4 xiang1 tou2] /hasonló érdeklődés/
 
 # ID-k88oY1n
@@ -50424,7 +50539,9 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 可愛 可爱 [ke3 ai4] /csinos/helyes/szeretnivaló/
 # Ver 2021-03-19T14:13:16Z Adam Stat-Verif >a "való" származékai melléknévi szerepben, szó szerinti jelentésben különíródnak (Magyar helyesírási szótár, Akadémiai, 2017: "imádni való", "csiszolni való gyémánt", de "van még rajta csiszolnivaló"; "elvégezni való dolog", de "sok az elvégeznivalója" stb.) + pár gyakori szinonima hozzáadása
-可愛 可爱 [ke3 ai4] /szeretni való, aranyos, helyes, édes/csinos/
+# 可愛 可爱 [ke3 ai4] /szeretni való, aranyos, helyes, édes/csinos/
+# Ver 2021-05-26T12:19:12Z gabor Stat-Verif >.
+可愛 可爱 [ke3 ai4] /szeretni való; aranyos; helyes/csinos/
 
 # ID-k94lS1D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -50876,6 +50993,8 @@ X X [X] /X/
 
 # ID-l02mR9c
 # Ver 2020-09-15T16:07:49Z gabor Stat-New >Podcast
+# 相投 相投 [xiang1 tou2] /össze|illő; hasonló; rokon/
+# Ver 2021-05-26T11:47:36Z gabor Stat-Verif >.
 相投 相投 [xiang1 tou2] /össze|illő; hasonló; rokon/
 
 # ID-l02oe0U
@@ -52097,6 +52216,12 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 舌頭 舌头 [she2 tou5] /nyelv (testrész)/beszéd|készség/(információszerzésért elkapott ellenséges katona)/
 
+# ID-l26Wn1T
+# Ver 2021-05-26T12:09:39Z gabor Stat-New >ha már van 委婉
+# 婉 婉 [wan3] /tapintatos; nem direkt/kellemes; kecses/
+# Ver 2021-05-26T12:09:50Z gabor Stat-Verif >.
+婉 婉 [wan3] /tapintatos; nem direkt/kellemes; kecses/
+
 # ID-l27dy9J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 通話 通话 [tong1 hua4] /beszélget/telefonál/telefon|hívás/
@@ -52213,6 +52338,8 @@ X X [X] /X/
 
 # ID-l29tW1O
 # Ver 2020-10-10T19:19:58Z gabor Stat-New >GushiFM E179
+# 疲 疲 [pi2] /fáradt; kimerült/
+# Ver 2021-05-26T11:55:27Z gabor Stat-Verif >.
 疲 疲 [pi2] /fáradt; kimerült/
 
 # ID-l29yU6J
@@ -53004,7 +53131,11 @@ X X [X] /X/
 
 # ID-l46wV8p
 # Ver 2021-03-19T18:53:53Z Adam Stat-New >Pleco-szótárak
-複合詞 复合词 [fu4 he2 ci2] /(nyelvészet) szó|összetétel, összetett szó/
+# 複合詞 复合词 [fu4 he2 ci2] /(nyelvészet) szó|összetétel, összetett szó/
+# Ver 2021-05-26T12:22:38Z gabor Stat-New >.
+# 複合詞 复合词 [fu4 he2 ci2] /szó|összetétel; összetett szó/
+# Ver 2021-05-26T12:22:41Z gabor Stat-Verif >.
+複合詞 复合词 [fu4 he2 ci2] /szó|összetétel; összetett szó/
 
 # ID-l46Ah2o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -54545,6 +54676,8 @@ X X [X] /X/
 
 # ID-l79om5d
 # Ver 2020-07-31T14:15:55Z gabor Stat-New >ha már van 丈夫 etc.
+# 丈 丈 [zhang4] /férj/földet mér/(idősebb férfi illedelmes megszólítása)/(hosszmérték, kb. 3,3 méter)/
+# Ver 2021-05-26T11:46:47Z gabor Stat-Verif >.
 丈 丈 [zhang4] /férj/földet mér/(idősebb férfi illedelmes megszólítása)/(hosszmérték, kb. 3,3 méter)/
 
 # ID-l79sZ4C
@@ -54601,7 +54734,9 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 思想 思想 [si1 xiang3] /gondolat/gondolkodás/ideológia/
 # Ver 2020-12-12T16:04:32Z GaoYanuo Stat-Verif >Bartos-Hamar alapján kiegészítve
-思想 思想 [si1 xiang3] /gondolat/gondolkodás/ideológia/lelkileg, mentálisan/
+# 思想 思想 [si1 xiang3] /gondolat/gondolkodás/ideológia/lelkileg, mentálisan/
+# Ver 2021-05-26T12:02:23Z gabor Stat-Verif >én a határozószói olvasatot nem látom alátámasztottnak
+思想 思想 [si1 xiang3] /gondolat/gondolkodás/ideológia/
 
 # ID-l80oR0n
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -54975,6 +55110,8 @@ X X [X] /X/
 
 # ID-l89dt5P
 # Ver 2021-03-07T13:56:11Z gabor Stat-New >CEDICT etc.
+# 每時每刻 每时每刻 [mei3 shi2 mei3 ke4] /(kifejezés) folyton; minden pillanatban/
+# Ver 2021-05-26T12:15:37Z gabor Stat-Verif >.
 每時每刻 每时每刻 [mei3 shi2 mei3 ke4] /(kifejezés) folyton; minden pillanatban/
 
 # ID-l89mi2L
@@ -55662,6 +55799,8 @@ X X [X] /X/
 
 # ID-m05xC1n
 # Ver 2020-10-01T15:43:28Z gabor Stat-New >ha már van 地域
+# 域 域 [yu4] /térség; terület (átvitten is)/
+# Ver 2021-05-26T11:54:38Z gabor Stat-Verif >.
 域 域 [yu4] /térség; terület (átvitten is)/
 
 # ID-m05BH9z
@@ -56204,6 +56343,8 @@ X X [X] /X/
 
 # ID-m16xB2r
 # Ver 2021-03-07T12:04:25Z gabor Stat-New >https://en.wikipedia.org/wiki/Douban
+# 豆瓣 豆瓣 [dou4 ban4] /Douban (kínai közösségi háló, elsősorban filmekkel, zenével és kulturális eseményekkel kapcsolatos tartalmak közzétérelére)/
+# Ver 2021-05-26T12:14:46Z gabor Stat-Verif >.
 豆瓣 豆瓣 [dou4 ban4] /Douban (kínai közösségi háló, elsősorban filmekkel, zenével és kulturális eseményekkel kapcsolatos tartalmak közzétérelére)/
 
 # ID-m16BQ9y
@@ -56955,7 +57096,11 @@ X X [X] /X/
 
 # ID-m31ua0M
 # Ver 2021-03-04T19:44:07Z Adam Stat-New >https://dict.leo.org/chinesisch-deutsch/%E8%AF%99 http://hskhsk.pythonanywhere.com/cidian?q=%E8%AF%99 https://en.wiktionary.org/wiki/%E8%A9%BC#Translingual https://www.szotar.net/kinai/%E8%AF%99/
-詼 诙 [hui1] /ugrat, tréfál, viccel/tréfás/
+# 詼 诙 [hui1] /ugrat, tréfál, viccel/tréfás/
+# Ver 2021-05-26T12:13:16Z gabor Stat-New >.
+# 詼 诙 [hui1] /tréfál; viccel; ugrat/tréfás; vicces/
+# Ver 2021-05-26T12:13:18Z gabor Stat-Verif >.
+詼 诙 [hui1] /tréfál; viccel; ugrat/tréfás; vicces/
 
 # ID-m31Be1l
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -59055,6 +59200,8 @@ XX XX [x x] /x/
 
 # ID-m74br5E
 # Ver 2020-10-01T15:39:37Z gabor Stat-New >GushiFM E179
+# 地域 地域 [di4 yu4] /terület; régió/
+# Ver 2021-05-26T11:54:25Z gabor Stat-Verif >.
 地域 地域 [di4 yu4] /terület; régió/
 
 # ID-m74fh0f
@@ -60498,6 +60645,8 @@ XX XX [x x] /x/
 
 # ID-n04wJ5Y
 # Ver 2021-03-07T14:07:03Z gabor Stat-New >https://en.wiktionary.org/wiki/%E8%87%AA%E7%9F%A5
+# 自知 自知 [zi4 zhi1] /ismeri önmagát/tudja; tudatában van (vminek)/
+# Ver 2021-05-26T12:15:46Z gabor Stat-Verif >.
 自知 自知 [zi4 zhi1] /ismeri önmagát/tudja; tudatában van (vminek)/
 
 # ID-n04Ic6j
@@ -60866,7 +61015,9 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 瑜 瑜 [yu2] /jade/jóga/
 # Ver 2021-03-22T16:33:41Z Adam Stat-Verif >Magyar helyesírási szótár (Akadémiai, 2017)
-瑜 瑜 [yu2] /jáde/jóga/
+# 瑜 瑜 [yu2] /jáde/jóga/
+# Ver 2021-05-26T12:29:30Z gabor Stat-Verif >önmagában nem jelenti a jógát, csak fonetikus elemként szerepel a 瑜伽 szóban
+瑜 瑜 [yu2] /jáde/
 
 # ID-n14go0Z
 # Ver 2021-04-18T11:34:32Z Adam Stat-New >CC-CEDICT
@@ -61589,6 +61740,8 @@ XX XX [x x] /x/
 
 # ID-n30Eh4W
 # Ver 2020-09-15T16:12:57Z gabor Stat-New >Podcast
+# 不孝 不孝 [bu4 xiao4] /nem szülő|tisztelő (gyerek)/
+# Ver 2021-05-26T11:48:21Z gabor Stat-Verif >.
 不孝 不孝 [bu4 xiao4] /nem szülő|tisztelő (gyerek)/
 
 # ID-n30Gm3M
@@ -61607,6 +61760,8 @@ XX XX [x x] /x/
 
 # ID-n30XI6c
 # Ver 2021-03-07T17:12:06Z gabor Stat-New >korpusz; vö: 相似之处\nloud murmurs podcast S4E1
+# 不同之處 不同之处 [bu4 tong2 zhi1 chu4] /különbség/
+# Ver 2021-05-26T12:17:17Z gabor Stat-Verif >.
 不同之處 不同之处 [bu4 tong2 zhi1 chu4] /különbség/
 
 # ID-n30XM0F
@@ -62166,6 +62321,8 @@ XX XX [x x] /x/
 
 # ID-n42SJ8D
 # Ver 2020-09-15T16:21:24Z gabor Stat-New >Podcast
+# 極致 极致 [ji2 zhi4] /csúcs; véglet/
+# Ver 2021-05-26T11:48:40Z gabor Stat-Verif >.
 極致 极致 [ji2 zhi4] /csúcs; véglet/
 
 # ID-n42UF9G
@@ -62290,6 +62447,8 @@ XX XX [x x] /x/
 
 # ID-n45al0N
 # Ver 2021-03-07T17:31:09Z gabor Stat-New >loud murmurs podcast S4E1\nhttps://en.wiktionary.org/wiki/%E6%A5%B5%E9%80%9F#Chinese
+# 极速 极速 [ji2 su4] /extrém gyorsan/
+# Ver 2021-05-26T12:17:45Z gabor Stat-Verif >.
 极速 极速 [ji2 su4] /extrém gyorsan/
 
 # ID-n45as8h
@@ -62565,7 +62724,11 @@ XX XX [x x] /x/
 
 # ID-n50tp7z
 # Ver 2021-03-19T17:41:27Z Adam Stat-New >Pleco: PLC (Pleco CE), CC-CEDICT, TCE (Tuttle), ABC (Chinese--English), NEC (New Century English--Chinese)
-短語 短语 [duan3 yu3] /(nyelvészet) kifejezés, szó|kapcsolat, szó|szerkezet/
+# 短語 短语 [duan3 yu3] /(nyelvészet) kifejezés, szó|kapcsolat, szó|szerkezet/
+# Ver 2021-05-26T12:19:50Z gabor Stat-New >.
+# 短語 短语 [duan3 yu3] /kifejezés; szó|kapcsolat; szó|szerkezet/
+# Ver 2021-05-26T12:19:53Z gabor Stat-Verif >.
+短語 短语 [duan3 yu3] /kifejezés; szó|kapcsolat; szó|szerkezet/
 
 # ID-n50Eq5y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -62673,6 +62836,8 @@ XX XX [x x] /x/
 
 # ID-n52Qj9l
 # Ver 2020-08-03T14:42:39Z gabor Stat-New >GushiFM E388, korpusz, CEDICT
+# 暗地裡 暗地里 [an4 di4 li5] /titokban/
+# Ver 2021-05-26T11:46:58Z gabor Stat-Verif >.
 暗地裡 暗地里 [an4 di4 li5] /titokban/
 
 # ID-n52XJ6s
@@ -62830,6 +62995,8 @@ XX XX [x x] /x/
 # Ver 2021-03-07T18:05:38Z gabor Stat-New >loud murmurs podcast S4E1\nszokásos szótárak
 # 執迷 执迷 [zhi2 mi2] /megszállott; rögeszmés/megszállottság; rögeszme/
 # Ver 2021-03-07T18:06:38Z gabor Stat-New >pontosítás
+# 執迷 执迷 [zhi2 mi2] /megszállott; rögeszmés; ragaszkodik (vmihez)/megszállottság; rögeszme/
+# Ver 2021-05-26T12:18:06Z gabor Stat-Verif >.
 執迷 执迷 [zhi2 mi2] /megszállott; rögeszmés; ragaszkodik (vmihez)/megszállottság; rögeszme/
 
 # ID-n55Ys4S
@@ -63622,6 +63789,8 @@ XX XX [x x] /x/
 
 # ID-n74sC9C
 # Ver 2021-03-07T15:23:08Z gabor Stat-New >CEDICT etc
+# 得獎 得奖 [de2 jiang3] /díjat nyer/
+# Ver 2021-05-26T12:16:54Z gabor Stat-Verif >.
 得獎 得奖 [de2 jiang3] /díjat nyer/
 
 # ID-n74Be7G
@@ -63666,7 +63835,9 @@ XX XX [x x] /x/
 
 # ID-n74UF4h
 # Ver 2020-09-18T18:22:35Z GaoYanuo Stat-New >tanár, CC-CEDICT, Pleco
-包容 包容 [bao1 rong2] /tartalmaz; magában foglal; beleszámít/megbocsát/elfogadó; megértő/
+# 包容 包容 [bao1 rong2] /tartalmaz; magában foglal; beleszámít/megbocsát/elfogadó; megértő/
+# Ver 2021-05-26T11:51:51Z gabor Stat-New >.
+包容 包容 [bao1 rong2] /tartalmaz; magában foglal/meg|bocsát/elfogadó; megértő/
 
 # ID-n75em7A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -64294,6 +64465,8 @@ XX XX [x x] /x/
 
 # ID-n89pb8P
 # Ver 2020-12-12T16:11:27Z GaoYanuo Stat-New >HSK4A tk, Bartos-Hamar, szokásos szótárak
+# 處所 处所 [chu4 suo3] /hely/
+# Ver 2021-05-26T12:02:44Z gabor Stat-Verif >.
 處所 处所 [chu4 suo3] /hely/
 
 # ID-n89pU6v
@@ -66373,6 +66546,8 @@ XX XX [x x] /x/
 
 # ID-o34zd5D
 # Ver 2021-03-07T11:58:37Z gabor Stat-New >ABC; sok többszótagos szó része
+# 評 评 [ping2] /kritizál; megjegyzést fűz (vmihez)/meg|ítél; értékel/
+# Ver 2021-05-26T12:14:27Z gabor Stat-Verif >.
 評 评 [ping2] /kritizál; megjegyzést fűz (vmihez)/meg|ítél; értékel/
 
 # ID-o34DO8e
@@ -67102,6 +67277,8 @@ XX XX [x x] /x/
 
 # ID-o50YD4D
 # Ver 2021-03-07T15:22:41Z gabor Stat-New >CEDICT etc
+# 獲獎 获奖 [huo4 jiang3] /díjat nyer/
+# Ver 2021-05-26T12:16:44Z gabor Stat-Verif >.
 獲獎 获奖 [huo4 jiang3] /díjat nyer/
 
 # ID-o51ch0R
@@ -67899,6 +68076,8 @@ XX XX [x x] /x/
 
 # ID-o70jG6e
 # Ver 2020-09-15T16:01:36Z gabor Stat-New >Podcast; CEDICT, ABC
+# 資質 资质 [zi1 zhi4] /adottságok; intelligencia; tehetség/
+# Ver 2021-05-26T11:47:11Z gabor Stat-Verif >.
 資質 资质 [zi1 zhi4] /adottságok; intelligencia; tehetség/
 
 # ID-o70mK2z
