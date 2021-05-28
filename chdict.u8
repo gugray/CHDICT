@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-05-27T02:00:01Z
+# Időbélyeg / Timestamp: 2021-05-28T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -831,6 +831,8 @@
 # Ver 2021-03-24T12:00:50Z Adam Stat-New >+ "(földrajzi név)"
 # 山西 山西 [shan1 xi1] /(földrajzi név) Sanhszi; Shanxi (Kína egyik északi tartománya, hivatalosan 省 utótaggal)/
 # Ver 2021-03-24T19:09:32Z Adam Stat-New >kieg. a hasonló névalakú másik tartományról
+# 山西 山西 [shan1 xi1] /(földrajzi név) Sanhszi; Shanxi (Kína egyik északi tartománya, hivatalosan 省 utótaggal; nem tévesztendő össze a nyugatabbra lévő 陕西 Senhszi\Shaanxi tartománnyal)/
+# Ver 2021-05-27T13:07:05Z gabor Stat-Verif >.
 山西 山西 [shan1 xi1] /(földrajzi név) Sanhszi; Shanxi (Kína egyik északi tartománya, hivatalosan 省 utótaggal; nem tévesztendő össze a nyugatabbra lévő 陕西 Senhszi\Shaanxi tartománnyal)/
 
 # ID-a17Jo7w
@@ -1597,7 +1599,13 @@
 
 # ID-a32BP1b
 # Ver 2021-03-28T22:49:06Z Adam Stat-New >Wiktionary- és Wikipedia-szócikk
-維基詞典 维基词典 [wei2 ji1 ci2 dian3] /Wiktionary; Wikiszótár (szabad szerkesztésű internetes szótár)/
+# 維基詞典 维基词典 [wei2 ji1 ci2 dian3] /Wiktionary; Wikiszótár (szabad szerkesztésű internetes szótár)/
+# Ver 2021-05-27T13:51:28Z gabor Stat-New >.
+# 維基詞典 维基词典 [wei2 ji1 ci2 dian3] /(tuladonnév) Wiktionary; Wikiszótár (szabad szerkesztésű internetes szótár)/
+# Ver 2021-05-27T13:51:36Z gabor Stat-New >.
+# 維基詞典 维基词典 [wei2 ji1 ci2 dian3] /(tulajdonnév) Wiktionary; Wikiszótár (szabad szerkesztésű internetes szótár)/
+# Ver 2021-05-27T13:51:40Z gabor Stat-Verif >.
+維基詞典 维基词典 [wei2 ji1 ci2 dian3] /(tulajdonnév) Wiktionary; Wikiszótár (szabad szerkesztésű internetes szótár)/
 
 # ID-a32Hg3Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -1635,6 +1643,8 @@
 # Ver 2017-05-22T03:12:05Z Adam Stat-New >CEDICT
 # 四川 四川 [si4 chuan1] /Szecsuan (Kína tartománya)/
 # Ver 2021-03-24T18:58:29Z Adam Stat-New >+ "(földrajzi név)", hozzávetőleges elhelyezkedés beszúrása
+# 四川 四川 [si4 chuan1] /(földrajzi név) Szecsuan; Sichuan (Kína egyik délnyugati tartománya, hivatalosan 省 utótaggal)/
+# Ver 2021-05-27T13:09:25Z gabor Stat-Verif >.
 四川 四川 [si4 chuan1] /(földrajzi név) Szecsuan; Sichuan (Kína egyik délnyugati tartománya, hivatalosan 省 utótaggal)/
 
 # ID-a32WK0O
@@ -2063,6 +2073,8 @@
 
 # ID-a42Je8T
 # Ver 2021-03-24T18:29:03Z Adam Stat-New >Wikipedia
+# 山東 山东 [shan1 dong1] /(földrajzi név) Santung; Shandong (Kína egyik keleti tartománya, hivatalosan 省 utótaggal)/
+# Ver 2021-05-27T13:04:31Z gabor Stat-Verif >.
 山東 山东 [shan1 dong1] /(földrajzi név) Santung; Shandong (Kína egyik keleti tartománya, hivatalosan 省 utótaggal)/
 
 # ID-a42SF0J
@@ -3036,6 +3048,8 @@
 
 # ID-a64zB1A
 # Ver 2021-03-28T23:15:02Z Adam Stat-New >CC-CEDICT; Wikipedia
+# 氮 氮 [dan4] /nitrogén/
+# Ver 2021-05-27T13:55:41Z gabor Stat-Verif >.
 氮 氮 [dan4] /nitrogén/
 
 # ID-a64Bc8R
@@ -3179,7 +3193,11 @@
 
 # ID-a67Ki8D
 # Ver 2021-03-28T21:57:22Z Adam Stat-New >kínai Wikipedia-szócikkek végén lévő 研究書目 szakaszcímből
-書目 书目 [shu1 mu4] /könyv|lista; művek listája; cím|katalógus; irodalom|jegyzék; forrás|jegyzék; bibliográfia/
+# 書目 书目 [shu1 mu4] /könyv|lista; művek listája; cím|katalógus; irodalom|jegyzék; forrás|jegyzék; bibliográfia/
+# Ver 2021-05-27T13:42:40Z gabor Stat-New >kevesebb több
+# 書目 书目 [shu1 mu4] /könyv|lista; cím|katalógus/
+# Ver 2021-05-27T13:42:44Z gabor Stat-Verif >.
+書目 书目 [shu1 mu4] /könyv|lista; cím|katalógus/
 
 # ID-a67RY9t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -3374,6 +3392,8 @@
 
 # ID-a71eD6e
 # Ver 2021-03-24T18:20:51Z Adam Stat-New >Wikipedia
+# 黑龍江 黑龙江 [hei1 long2 jiang1] /(földrajzi név) Hejlungcsiang; Heilongjiang (Kína egyik északkeleti tartománya, hivatalosan 省 utótaggal)/
+# Ver 2021-05-27T13:03:02Z gabor Stat-Verif >.
 黑龍江 黑龙江 [hei1 long2 jiang1] /(földrajzi név) Hejlungcsiang; Heilongjiang (Kína egyik északkeleti tartománya, hivatalosan 省 utótaggal)/
 
 # ID-a71fL0r
@@ -3826,6 +3846,8 @@
 
 # ID-a80te6C
 # Ver 2021-03-24T19:53:52Z Adam Stat-New >magyar Wikipédia és Bartos–Hamar-nagyszótár
+# 行政區 行政区 [xing2 zheng4 qu1] /közigazgatási terület; közigazgatási övezet/
+# Ver 2021-05-27T13:11:41Z gabor Stat-Verif >.
 行政區 行政区 [xing2 zheng4 qu1] /közigazgatási terület; közigazgatási övezet/
 
 # ID-a80yk2e
@@ -4657,6 +4679,8 @@
 
 # ID-a97OA6P
 # Ver 2021-03-28T21:33:49Z Adam Stat-New >összekapcsolt Wikipedia-szócikk címe
+# 音位學 音位学 [yin1 wei4 xue2] /fonológia; fonematika/
+# Ver 2021-05-27T13:39:28Z gabor Stat-Verif >.
 音位學 音位学 [yin1 wei4 xue2] /fonológia; fonematika/
 
 # ID-a97Xb5M
@@ -4685,7 +4709,11 @@
 
 # ID-a98Ot1f
 # Ver 2021-03-25T11:07:13Z Adam Stat-New >kínai Wikipedia-cikk címe és a benne végig használt terminus; a magyarításhoz l. turnstile alatt a szotar.net-en lévő angol--magyar szótárakban
-閘機 闸机 [zha2 ji1] /forgó|kereszt; forgó|korlát; forgó|sorompó; beléptető|kapu/
+# 閘機 闸机 [zha2 ji1] /forgó|kereszt; forgó|korlát; forgó|sorompó; beléptető|kapu/
+# Ver 2021-05-27T13:27:47Z gabor Stat-New >a "forgó" képzettársítás sztem csak a turnstile-ból jön, konkrétan forgásra nem utal sem a 闸, ami inkább zsilipnek látszik, sem a 闸机 képtalálatai, se más nyelvű összakapcsolt wikipedia-oldalak... maradok a beléptetőkapunál :)
+# 閘機 闸机 [zha2 ji1] /beléptető|kapu/
+# Ver 2021-05-27T13:27:52Z gabor Stat-Verif >.
+閘機 闸机 [zha2 ji1] /beléptető|kapu/
 
 # ID-a99hY5n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -6337,6 +6365,8 @@
 
 # ID-b35tF8i
 # Ver 2021-03-28T23:17:35Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鎂 镁 [mei3] /magnézium/
+# Ver 2021-05-27T13:56:15Z gabor Stat-Verif >.
 鎂 镁 [mei3] /magnézium/
 
 # ID-b35FM5x
@@ -6829,7 +6859,11 @@
 
 # ID-b46IV0q
 # Ver 2021-03-28T22:26:16Z Adam Stat-New >https://zh.wikipedia.org/wiki/%E5%AD%97%E7%AC%A6 + 2. jelentés főleg Pleco-szótár és HanDeDict alapján
-字符 字符 [zi4 fu2] /(számítástechnika) karakter/betű|jegy; írás|jegy/glif; írás|elem/ábécé (a formális nyelvek elméletében: jelek halmaza)/
+# 字符 字符 [zi4 fu2] /(számítástechnika) karakter/betű|jegy; írás|jegy/glif; írás|elem/ábécé (a formális nyelvek elméletében: jelek halmaza)/
+# Ver 2021-05-27T13:47:46Z gabor Stat-New >ez minden jel szerint az egyetlen bevett használat manapság; az egyértelműség itt érték
+# 字符 字符 [zi4 fu2] /karakter (számítástechnikában)/
+# Ver 2021-05-27T13:47:50Z gabor Stat-Verif >.
+字符 字符 [zi4 fu2] /karakter (számítástechnikában)/
 
 # ID-b46Nv7H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -7831,7 +7865,11 @@
 
 # ID-b68WD1w
 # Ver 2021-03-28T21:49:55Z Adam Stat-New >Wiktionary, CC-CEDICT, Pleco-szótár és ABC Plecóban, HanDeDict
-校對 校对 [jiao4 dui4] /korrektúráz; korrektúrát olvas; meg|olvas/korrektúra; korrektúrázás; korrektúra|olvasás/be|szabályoz; kalibrál (mérőműszert)/
+# 校對 校对 [jiao4 dui4] /korrektúráz; korrektúrát olvas; meg|olvas/korrektúra; korrektúrázás; korrektúra|olvasás/be|szabályoz; kalibrál (mérőműszert)/
+# Ver 2021-05-27T13:41:46Z gabor Stat-New >.
+# 校對 校对 [jiao4 dui4] /korrektúráz/korrektor/be|mér; kalibrál/
+# Ver 2021-05-27T13:41:51Z gabor Stat-Verif >.
+校對 校对 [jiao4 dui4] /korrektúráz/korrektor/be|mér; kalibrál/
 
 # ID-b68Xd4Y
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -7995,6 +8033,8 @@
 
 # ID-b72Nv8p
 # Ver 2021-03-27T15:22:25Z Adam Stat-New >https://zh.wikipedia.org/wiki/%E5%A4%8F%E6%97%B6%E5%88%B6 és Wiktionary
+# 夏令時 夏令时 [xia4 ling4 shi2] /nyári idő|számítás/
+# Ver 2021-05-27T13:33:26Z gabor Stat-Verif >.
 夏令時 夏令时 [xia4 ling4 shi2] /nyári idő|számítás/
 
 # ID-b72NE7o
@@ -8143,7 +8183,11 @@
 
 # ID-b76kD3j
 # Ver 2021-03-27T19:31:01Z Adam Stat-New >Wiktionary, dict.leo.org
-孕婦 孕妇 [yun4 fu4] /kis|mama; várandós nő; állapotos nő; terhes nő/
+# 孕婦 孕妇 [yun4 fu4] /kis|mama; várandós nő; állapotos nő; terhes nő/
+# Ver 2021-05-27T13:35:26Z gabor Stat-New >kevesebb több
+# 孕婦 孕妇 [yun4 fu4] /terhes nő/
+# Ver 2021-05-27T13:35:32Z gabor Stat-Verif >.
+孕婦 孕妇 [yun4 fu4] /terhes nő/
 
 # ID-b76nF0u
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -9560,7 +9604,11 @@
 
 # ID-c07EA0x
 # Ver 2021-03-28T22:08:24Z Adam Stat-New >összekapcsolt Wikipedia-szócikkek
-目錄學 目录学 [mu4 lu4 xue2] /bibliográfia; bibliológia; könyvészet; könyv|tudomány/
+# 目錄學 目录学 [mu4 lu4 xue2] /bibliográfia; bibliológia; könyvészet; könyv|tudomány/
+# Ver 2021-05-27T13:45:48Z gabor Stat-New >kevesebb több
+# 目錄學 目录学 [mu4 lu4 xue2] /bibliográfia; könyv|tudomány/
+# Ver 2021-05-27T13:45:52Z gabor Stat-Verif >.
+目錄學 目录学 [mu4 lu4 xue2] /bibliográfia; könyv|tudomány/
 
 # ID-c07IO5Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -9952,6 +10000,8 @@
 
 # ID-c16zq3S
 # Ver 2021-03-24T18:27:48Z Adam Stat-New >Wikipedia
+# 江西 江西 [jiang1 xi1] /(földrajzi név) Csianghszi; Jiangxi (Kína egyik keleti tartománya, hivatalosan 省 utótaggal)/
+# Ver 2021-05-27T13:04:19Z gabor Stat-Verif >.
 江西 江西 [jiang1 xi1] /(földrajzi név) Csianghszi; Jiangxi (Kína egyik keleti tartománya, hivatalosan 省 utótaggal)/
 
 # ID-c16Bb7o
@@ -10494,6 +10544,8 @@
 
 # ID-c30Ur2g
 # Ver 2021-03-28T23:26:45Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鋅 锌 [xin1] /cink (kémiai elem)/
+# Ver 2021-05-27T13:59:23Z gabor Stat-Verif >.
 鋅 锌 [xin1] /cink (kémiai elem)/
 
 # ID-c30Wb8p
@@ -10810,6 +10862,8 @@
 
 # ID-c36UV8t
 # Ver 2021-03-28T23:20:12Z Adam Stat-New >CC-CEDICT és Wikipedia
+# 磷 磷 [lin2] /foszfor/
+# Ver 2021-05-27T13:56:36Z gabor Stat-Verif >.
 磷 磷 [lin2] /foszfor/
 
 # ID-c36WS9a
@@ -10842,6 +10896,8 @@
 
 # ID-c37tf4b
 # Ver 2021-03-28T23:28:37Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 硒 硒 [xi1] /szelén (kémiai elem)/
+# Ver 2021-05-27T14:00:05Z gabor Stat-Verif >.
 硒 硒 [xi1] /szelén (kémiai elem)/
 
 # ID-c37BG3M
@@ -11325,6 +11381,8 @@
 
 # ID-c47OM6P
 # Ver 2021-03-28T23:22:38Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鈧 钪 [kang4] /szkandium (kémiai elem)/
+# Ver 2021-05-27T13:57:20Z gabor Stat-Verif >.
 鈧 钪 [kang4] /szkandium (kémiai elem)/
 
 # ID-c47PJ2I
@@ -11379,6 +11437,8 @@
 
 # ID-c49rc4F
 # Ver 2021-03-24T18:34:26Z Adam Stat-New >Wikipedia
+# 湖北 湖北 [hu2 bei3] /(földrajzi név) Hupej; Hubei (Kína egyik központi tartománya, hivatalosan 省 utótaggal)/
+# Ver 2021-05-27T13:04:53Z gabor Stat-Verif >.
 湖北 湖北 [hu2 bei3] /(földrajzi név) Hupej; Hubei (Kína egyik központi tartománya, hivatalosan 省 utótaggal)/
 
 # ID-c49xJ5Y
@@ -13358,6 +13418,8 @@
 
 # ID-c89kO0a
 # Ver 2021-03-24T19:17:46Z Adam Stat-New >Wikipedia
+# 寧夏 宁夏 [ning2 xia4] /(földrajzi név) Ninghszia (a Ninghszia-Huj Autonóm Terület rövid neve)/
+# Ver 2021-05-27T13:07:46Z gabor Stat-Verif >.
 寧夏 宁夏 [ning2 xia4] /(földrajzi név) Ninghszia (a Ninghszia-Huj Autonóm Terület rövid neve)/
 
 # ID-c89ns8V
@@ -14266,7 +14328,9 @@
 # Ver 2021-03-27T15:14:11Z Adam Stat-New >CC-CEDICT, kínai címszó a Wiktionaryben és a Wikipédiában
 # 瀏覽器 浏览器 [liu2 lan3 qi4] /web|böngésző; internet|böngésző/
 # Ver 2021-03-27T15:16:55Z Adam Stat-New >+ "(számítástechnika)" + szinonima
-瀏覽器 浏览器 [liu2 lan3 qi4] /(számítástechnika) web|böngésző; internet|böngésző; böngésző|program/
+# 瀏覽器 浏览器 [liu2 lan3 qi4] /(számítástechnika) web|böngésző; internet|böngésző; böngésző|program/
+# Ver 2021-05-27T13:32:43Z gabor Stat-New >az eredeti kettő elég egyértelmű, és a sima "böngésző" keresőszóra is bejönnek.\nszakterületet nem címkéz egyelőre a chdict, és egyértelműsítő szerepe se lenne, hiszen böngésző kizárólag a számítástechnikában létezik - címkét ezért szintén kiszedtem.
+瀏覽器 浏览器 [liu2 lan3 qi4] /web|böngésző; internet|böngésző/
 
 # ID-d08nU7n
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -14507,6 +14571,8 @@
 
 # ID-d12Wk3E
 # Ver 2021-03-23T11:20:47Z Adam Stat-New >Wikipedia, Wiktionary
+# 重慶 重庆 [chong2 qing4] /(földrajzi név) Csungking; Chongqing (nagyváros Kína központi-délnyugati részén, a KNK négy tartományi jogú városának egyike; 1997-ig Szecsuan tartomány része)/
+# Ver 2021-05-27T12:55:50Z gabor Stat-Verif >.
 重慶 重庆 [chong2 qing4] /(földrajzi név) Csungking; Chongqing (nagyváros Kína központi-délnyugati részén, a KNK négy tartományi jogú városának egyike; 1997-ig Szecsuan tartomány része)/
 
 # ID-d12Xw0T
@@ -15481,6 +15547,8 @@
 
 # ID-d34Fh9M
 # Ver 2021-03-24T18:56:23Z Adam Stat-New >Wikipedia
+# 海南 海南 [hai3 nan2] /(földrajzi név) Hajnan; Hainan (Kína déli szigete, illetve szigetcsoportja és egyben tartománya, szigetként 岛, tartományként 省 utótaggal)/
+# Ver 2021-05-27T13:06:25Z gabor Stat-Verif >.
 海南 海南 [hai3 nan2] /(földrajzi név) Hajnan; Hainan (Kína déli szigete, illetve szigetcsoportja és egyben tartománya, szigetként 岛, tartományként 省 utótaggal)/
 
 # ID-d34FR8l
@@ -16437,6 +16505,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-d55vG5W
 # Ver 2021-03-24T19:21:00Z Adam Stat-New >Wikipedia, CC-CEDICT
+# 新疆 新疆 [xin1 jiang1] /(földrajzi név) Hszincsiang (a Hszincsiang-Ujgur Autonóm Terület rövid neve)/
+# Ver 2021-05-27T13:08:18Z gabor Stat-Verif >.
 新疆 新疆 [xin1 jiang1] /(földrajzi név) Hszincsiang (a Hszincsiang-Ujgur Autonóm Terület rövid neve)/
 
 # ID-d55xb8i
@@ -16633,6 +16703,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-d59fv2o
 # Ver 2021-03-28T23:18:21Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 硅 硅 [gui1] /szilícium (kémiai elem)/
+# Ver 2021-05-27T13:56:25Z gabor Stat-Verif >.
 硅 硅 [gui1] /szilícium (kémiai elem)/
 
 # ID-d59lQ0Q
@@ -16811,6 +16883,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-d63wa0H
 # Ver 2021-03-28T23:23:18Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鈦 钛 [tai4] /titán (kémiai elem)/
+# Ver 2021-05-27T13:58:11Z gabor Stat-Verif >.
 鈦 钛 [tai4] /titán (kémiai elem)/
 
 # ID-d63Bw6i
@@ -17148,6 +17222,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-d69uK7l
 # Ver 2021-03-28T21:32:24Z Adam Stat-New >Wikipedia-szócikk címe, Wiktionary
+# 聲學 声学 [sheng1 xue2] /akusztika; hang|tan (fizikai értelemben)/
+# Ver 2021-05-27T13:39:14Z gabor Stat-Verif >.
 聲學 声学 [sheng1 xue2] /akusztika; hang|tan (fizikai értelemben)/
 
 # ID-d69zo5m
@@ -17344,7 +17420,11 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-d74aD3z
 # Ver 2021-03-23T13:54:18Z Adam Stat-New >Wiktionary
-語料庫 语料库 [yu3 liao4 ku4] /(nyelvészet) korpusz, szöveg|tár/
+# 語料庫 语料库 [yu3 liao4 ku4] /(nyelvészet) korpusz, szöveg|tár/
+# Ver 2021-05-27T12:58:33Z gabor Stat-New >.
+# 語料庫 语料库 [yu3 liao4 ku4] /korpusz; szövegtár/
+# Ver 2021-05-27T12:58:35Z gabor Stat-Verif >.
+語料庫 语料库 [yu3 liao4 ku4] /korpusz; szövegtár/
 
 # ID-d74le4t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -17863,6 +17943,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-d85fQ3d
 # Ver 2021-03-25T10:50:28Z Adam Stat-New >Pleco-szótárak, Wikipedia, Wiktionary
+# 通風機 通风机 [tong1 feng1 ji1] /ventilátor; szellőztető|készülék/
+# Ver 2021-05-27T13:22:58Z gabor Stat-Verif >.
 通風機 通风机 [tong1 feng1 ji1] /ventilátor; szellőztető|készülék/
 
 # ID-d85mW8i
@@ -18926,6 +19008,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-e09bS5b
 # Ver 2021-03-24T19:12:06Z Adam Stat-New >Wikipedia
+# 甘肅 甘肃 [gan1 su4] /(földrajzi név) Kanszu; Gansu (Kína egyik északnyugati tartománya, hivatalosan 省 utótaggal)/
+# Ver 2021-05-27T13:07:15Z gabor Stat-Verif >.
 甘肅 甘肃 [gan1 su4] /(földrajzi név) Kanszu; Gansu (Kína egyik északnyugati tartománya, hivatalosan 省 utótaggal)/
 
 # ID-e09jv2g
@@ -19324,6 +19408,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-e18Wf9E
 # Ver 2021-03-24T12:12:41Z Adam Stat-New >https://en.wikipedia.org/wiki/Qinling%E2%80%93Huaihe_Line
+# 秦嶺淮河線 秦岭淮河线 [qin2 ling3 huai2 he2 xian4] /Csinling–Huajho-vonal (Kelet-Kína kulturálisan és éghajlatilag is eltérő északi és déli része közötti, a Csinling hegység és a Huajho folyó által meghatározott szimbolikus választóvonal)/
+# Ver 2021-05-27T13:01:00Z gabor Stat-Verif >.
 秦嶺淮河線 秦岭淮河线 [qin2 ling3 huai2 he2 xian4] /Csinling–Huajho-vonal (Kelet-Kína kulturálisan és éghajlatilag is eltérő északi és déli része közötti, a Csinling hegység és a Huajho folyó által meghatározott szimbolikus választóvonal)/
 
 # ID-e19pA1O
@@ -20081,6 +20167,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-e34nZ8l
 # Ver 2021-03-24T19:19:28Z Adam Stat-New >Wikipedia
+# 新疆維吾爾自治區 新疆维吾尔自治区 [xin1 jiang1 wei2 wu2 er3 zi4 zhi4 qu1] /(földrajzi név) Hszincsiang-Ujgur Autonóm Terület/
+# Ver 2021-05-27T13:08:03Z gabor Stat-Verif >.
 新疆維吾爾自治區 新疆维吾尔自治区 [xin1 jiang1 wei2 wu2 er3 zi4 zhi4 qu1] /(földrajzi név) Hszincsiang-Ujgur Autonóm Terület/
 
 # ID-e34OL2o
@@ -21115,6 +21203,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-e57Qh0u
 # Ver 2021-03-28T23:10:31Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 氦 氦 [hai4] /hélium/
+# Ver 2021-05-27T13:53:51Z gabor Stat-Verif >.
 氦 氦 [hai4] /hélium/
 
 # ID-e57QS3G
@@ -21921,6 +22011,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-e73vg1O
 # Ver 2021-03-24T18:37:13Z Adam Stat-New >Wikipedia
+# 湖南 湖南 [hu2 nan2] /(földrajzi név) Hunan (Kína egyik központi\déli tartománya, hivatalosan 省 utótaggal)/
+# Ver 2021-05-27T13:05:02Z gabor Stat-Verif >.
 湖南 湖南 [hu2 nan2] /(földrajzi név) Hunan (Kína egyik központi\déli tartománya, hivatalosan 省 utótaggal)/
 
 # ID-e73Ca3u
@@ -22718,6 +22810,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-e93nL4T
 # Ver 2021-03-28T23:24:10Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鉻 铬 [ge4] /króm (kémiai elem)/
+# Ver 2021-05-27T13:58:37Z gabor Stat-Verif >.
 鉻 铬 [ge4] /króm (kémiai elem)/
 
 # ID-e93nS5o
@@ -23590,7 +23684,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 活生生 活生生 [huo2 sheng1 sheng1] /élő (igazi - emberekre)/elevenen (miközben még életben van)/
 # Ver 2021-03-23T17:04:04Z Adam Stat-Verif >jelentések pontosítása, bővítése a Bartos–Hamar-nagyszótár alapján
-活生生 活生生 [huo2 sheng1 sheng1] /élő, eleven, valós, igazi (emberekre)/élve, elevenen (miközben még életben van)/
+# 活生生 活生生 [huo2 sheng1 sheng1] /élő, eleven, valós, igazi (emberekre)/élve, elevenen (miközben még életben van)/
+# Ver 2021-05-27T12:59:15Z gabor Stat-Verif >.
+活生生 活生生 [huo2 sheng1 sheng1] /élő; eleven; valós; igazi (emberekre)/élve; elevenen (miközben még életben van)/
 
 # ID-f13qC6e
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -25624,6 +25720,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f55EY9F
 # Ver 2021-03-24T18:23:04Z Adam Stat-New >Wikipedia
+# 江蘇 江苏 [jiang1 su1] /(földrajzi név) Csiangszu; Jiangsu (Kína egyik keleti tartománya, hivatalosan 省 utótaggal)/
+# Ver 2021-05-27T13:03:14Z gabor Stat-Verif >.
 江蘇 江苏 [jiang1 su1] /(földrajzi név) Csiangszu; Jiangsu (Kína egyik keleti tartománya, hivatalosan 省 utótaggal)/
 
 # ID-f55GT9O
@@ -25668,6 +25766,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f56vx5o
 # Ver 2021-03-28T23:21:35Z Adam Stat-New >CC-CEDICT és Wikipedia
+# 氬 氩 [ya4] /argon (kémiai elem)/
+# Ver 2021-05-27T13:56:58Z gabor Stat-Verif >.
 氬 氩 [ya4] /argon (kémiai elem)/
 
 # ID-f56xy8j
@@ -25694,6 +25794,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f56HF3c
 # Ver 2021-03-28T23:28:08Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 砷 砷 [shen1] /arzén (kémiai elem)/
+# Ver 2021-05-27T13:59:54Z gabor Stat-Verif >.
 砷 砷 [shen1] /arzén (kémiai elem)/
 
 # ID-f56HX2C
@@ -25866,6 +25968,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f60Am2G
 # Ver 2021-03-28T23:23:41Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 釩 钒 [fan2] /vanádium (kémiai elem)/
+# Ver 2021-05-27T13:58:25Z gabor Stat-Verif >.
 釩 钒 [fan2] /vanádium (kémiai elem)/
 
 # ID-f60CO6I
@@ -26026,7 +26130,11 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f63VR8w
 # Ver 2021-03-22T18:30:03Z Adam Stat-New >Bartos–Hamar-nagyszótár + https://en.wiktionary.org/wiki/%E4%BF%91#Chinese + http://hskhsk.pythonanywhere.com/cidian?q=%E4%BF%91
-俑 俑 [yong3] /halottal együtt eltemetett szobrocska, fa- vagy agyag|figura/
+# 俑 俑 [yong3] /halottal együtt eltemetett szobrocska, fa- vagy agyag|figura/
+# Ver 2021-05-27T12:52:54Z gabor Stat-New >nincs megfelelője; a tiszta körülírást zárójelbe szoktam tenni
+# 俑 俑 [yong3] /(halottal együtt eltemetett szobrocska, fa- vagy agyagfigura)/
+# Ver 2021-05-27T12:53:01Z gabor Stat-Verif >.
+俑 俑 [yong3] /(halottal együtt eltemetett szobrocska, fa- vagy agyagfigura)/
 
 # ID-f64gv5R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -28378,7 +28486,11 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-g13Bv2K
 # Ver 2021-03-28T21:39:41Z Adam Stat-New >összekapcsolt Wikipedia-szócikkek, illetve a kínai cikk végén linkelt 德语正写法 és 俄语正写法 szócikkcím alapján
-正寫法 正写法 [zheng4 xie3 fa3] /helyesírás (akár a kínai írásra, akár más írásfajtákra értve)/
+# 正寫法 正写法 [zheng4 xie3 fa3] /helyesírás (akár a kínai írásra, akár más írásfajtákra értve)/
+# Ver 2021-05-27T13:40:09Z gabor Stat-New >.
+# 正寫法 正写法 [zheng4 xie3 fa3] /helyes|írás/
+# Ver 2021-05-27T13:40:12Z gabor Stat-Verif >.
+正寫法 正写法 [zheng4 xie3 fa3] /helyes|írás/
 
 # ID-g13DD6D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -29394,6 +29506,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-g36Zt7O
 # Ver 2021-03-24T19:50:44Z Adam Stat-New >az 1. terminus a magyar Wikipédiából, ennek alapján: http://njt.hu/cgi_bin/njt_doc.cgi?docid=132763.191922 + a 2. és 3. terminus a Bartos–Hamar-nagyszótárból
+# 特別行政區 特别行政区 [te4 bie2 xing2 zheng4 qu1] /különleges közigazgatási terület; különleges közigazgatási övezet; különleges közigazgatási régió (Kínában Hongkong és Makaó)/
+# Ver 2021-05-27T13:11:30Z gabor Stat-Verif >.
 特別行政區 特别行政区 [te4 bie2 xing2 zheng4 qu1] /különleges közigazgatási terület; különleges közigazgatási övezet; különleges közigazgatási régió (Kínában Hongkong és Makaó)/
 
 # ID-g37aF7s
@@ -29643,6 +29757,8 @@ X X [X] /X/
 
 # ID-g42bH7O
 # Ver 2021-03-28T23:20:40Z Adam Stat-New >CC-CEDICT és Wikipedia
+# 硫 硫 [liu2] /kén (kémiai elem)/
+# Ver 2021-05-27T13:56:47Z gabor Stat-Verif >.
 硫 硫 [liu2] /kén (kémiai elem)/
 
 # ID-g42bK1S
@@ -29813,7 +29929,11 @@ X X [X] /X/
 
 # ID-g45vn8d
 # Ver 2021-03-23T11:23:17Z Adam Stat-New >https://en.wiktionary.org/wiki/%E6%85%B6#Chinese + Bartos–Hamar-nagyszótár
-慶 庆 [qing4] /ünnepel; gratulál; köszönt/ünnep; ünneplés/
+# 慶 庆 [qing4] /ünnepel; gratulál; köszönt/ünnep; ünneplés/
+# Ver 2021-05-27T12:57:05Z gabor Stat-New >.
+# 慶 庆 [qing4] /ünnepel; meg|ünnepel/gratulál; köszönt/ünnep; ünneplés/
+# Ver 2021-05-27T12:57:08Z gabor Stat-Verif >.
+慶 庆 [qing4] /ünnepel; meg|ünnepel/gratulál; köszönt/ünnep; ünneplés/
 
 # ID-g45xY8D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -31066,6 +31186,8 @@ X X [X] /X/
 
 # ID-g71rn1j
 # Ver 2021-03-28T23:11:47Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鈹 铍 [pi2] /berillium/
+# Ver 2021-05-27T13:54:10Z gabor Stat-Verif >.
 鈹 铍 [pi2] /berillium/
 
 # ID-g71ve5H
@@ -33074,6 +33196,8 @@ X X [X] /X/
 
 # ID-h14jA9M
 # Ver 2021-03-24T18:24:38Z Adam Stat-New >Wikipedia
+# 安徽 安徽 [an1 hui1] /(földrajzi név) Anhuj; Anhui (Kína egyik keleti tartománya, hivatalosan 省 utótaggal)/
+# Ver 2021-05-27T13:03:52Z gabor Stat-Verif >.
 安徽 安徽 [an1 hui1] /(földrajzi név) Anhuj; Anhui (Kína egyik keleti tartománya, hivatalosan 省 utótaggal)/
 
 # ID-h14jK3S
@@ -33462,7 +33586,9 @@ X X [X] /X/
 # Ver 2021-03-24T19:54:49Z Adam Stat-Verif >+ szinonima
 # 行政 行政 [xing2 zheng4] /adminisztratív; közigazgatási/végrehajtási ág (kormányzaté)/
 # Ver 2021-03-24T19:59:12Z Adam Stat-Verif >a Bartos–Hamar-nagyszótár szerint főnévi és igei jelentése is van; + szinonimák
-行政 行政 [xing2 zheng4] /adminisztratív; közigazgatási/végrehajtó; végrehajtási (kormányzati ágazat)/kormányoz; igazgat/kormányzat; közigazgatás; adminisztráció; ügyintézés; ügyvitel/
+# 行政 行政 [xing2 zheng4] /adminisztratív; közigazgatási/végrehajtó; végrehajtási (kormányzati ágazat)/kormányoz; igazgat/kormányzat; közigazgatás; adminisztráció; ügyintézés; ügyvitel/
+# Ver 2021-05-27T13:13:22Z gabor Stat-Verif >egyszerűsítés; kevesebb több...
+行政 行政 [xing2 zheng4] /kormányzat; közigazgatás/adminisztráció; ügyintézés/kormányoz; igazgat/
 
 # ID-h24zK1w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -33722,6 +33848,8 @@ X X [X] /X/
 
 # ID-h30PR8Q
 # Ver 2021-03-28T10:24:01Z Adam Stat-New >Wiktionary
+# 群體免疫 群体免疫 [qun2 ti3 mian3 yi4] /nyáj|immunitás/
+# Ver 2021-05-27T13:37:46Z gabor Stat-Verif >.
 群體免疫 群体免疫 [qun2 ti3 mian3 yi4] /nyáj|immunitás/
 
 # ID-h30Ru9Y
@@ -35474,7 +35602,11 @@ X X [X] /X/
 # Ver 2021-03-24T23:20:38Z Adam Stat-New >Pleco-szótárak
 # 暴發 暴发 [bao4 fa1] /ki|tör (járvány, háború, vulkán stb.)/ki|tör, ki|robban (átvitt értelemben, pl. éljenzés, taps)/
 # Ver 2021-03-24T23:25:54Z Adam Stat-New >bocsánat, azonos kiejtésű, hasonló jelentésű másik szócikket néztem; ez szűkebb jelentésű
-暴發 暴发 [bao4 fa1] /ki|tör (pl. járvány)/
+# 暴發 暴发 [bao4 fa1] /ki|tör (pl. járvány)/
+# Ver 2021-05-27T13:19:23Z gabor Stat-New >a 暴 miatt a ki_robban_ elég odaillő; plusz átvitt jelentés
+# 暴發 暴发 [bao4 fa1] /ki|tör; ki|robban/hirtelen meg|gazdagszik/
+# Ver 2021-05-27T13:19:26Z gabor Stat-Verif >.
+暴發 暴发 [bao4 fa1] /ki|tör; ki|robban/hirtelen meg|gazdagszik/
 
 # ID-h71yM6m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -37277,6 +37409,8 @@ X X [X] /X/
 
 # ID-i07zl6K
 # Ver 2021-03-24T18:44:40Z Adam Stat-New >Wikipedia
+# 廣西壯族自治區 广西壮族自治区 [guang3 xi1 zhuang4 zu2 zi4 zhi4 qu1] /(földrajzi név) Kuanghszi-Csuang Autonóm Terület/
+# Ver 2021-05-27T13:05:42Z gabor Stat-Verif >.
 廣西壯族自治區 广西壮族自治区 [guang3 xi1 zhuang4 zu2 zi4 zhi4 qu1] /(földrajzi név) Kuanghszi-Csuang Autonóm Terület/
 
 # ID-i07zK0v
@@ -37285,6 +37419,8 @@ X X [X] /X/
 
 # ID-i07By8r
 # Ver 2021-03-28T23:24:34Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 錳 锰 [meng3] /mangán (kémiai elem)/
+# Ver 2021-05-27T13:58:48Z gabor Stat-Verif >.
 錳 锰 [meng3] /mangán (kémiai elem)/
 
 # ID-i07CJ2M
@@ -37347,6 +37483,8 @@ X X [X] /X/
 
 # ID-i08Qv5i
 # Ver 2021-03-28T23:16:29Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 氖 氖 [nai3] /neon (kémiai elem)/
+# Ver 2021-05-27T13:55:54Z gabor Stat-Verif >.
 氖 氖 [nai3] /neon (kémiai elem)/
 
 # ID-i08RZ5g
@@ -37469,7 +37607,9 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 同樣 同样 [tong2 yang4] /ugyanaz/azonos/ekvivalens/
 # Ver 2021-03-23T09:54:55Z Adam Stat-Verif >szinonimák egy jelentés alá
-同樣 同样 [tong2 yang4] /azonos; ugyanaz; egyező; megegyező/ekvivalens/
+# 同樣 同样 [tong2 yang4] /azonos; ugyanaz; egyező; megegyező/ekvivalens/
+# Ver 2021-05-27T12:55:20Z gabor Stat-Verif >nem cél, hogy az összes lehetséges magyar szinomímát felsoroljuk; arra törekszünk, hogy a kínai szó fő jelentése(i)t jól leírjuk. ehhez a kevesebb sokszor több.
+同樣 同样 [tong2 yang4] /azonos; ugyanaz; egyező/ekvivalens/
 
 # ID-i12iL4I
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -39850,6 +39990,8 @@ X X [X] /X/
 
 # ID-i63Dj1e
 # Ver 2021-03-28T23:27:14Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鎵 镓 [jia1] /gallium (kémiai elem)/
+# Ver 2021-05-27T13:59:34Z gabor Stat-Verif >.
 鎵 镓 [jia1] /gallium (kémiai elem)/
 
 # ID-i63HW4F
@@ -40022,6 +40164,8 @@ X X [X] /X/
 # Ver 2021-03-24T11:44:07Z Adam Stat-New >nem északkeleti, csak északi: https://en.wikipedia.org/wiki/North_China
 # 河北 河北 [he2 bei3] /Hopej; Hebei (Kína egyik északi, Peking körül elterülő tartománya, hivatalosan 省 utótaggal)/
 # Ver 2021-03-24T12:00:19Z Adam Stat-New >+ "(földrajzi név)"
+# 河北 河北 [he2 bei3] /(földrajzi név) Hopej; Hebei (Kína egyik északi, Peking körül elterülő tartománya, hivatalosan 省 utótaggal)/
+# Ver 2021-05-27T13:00:19Z gabor Stat-Verif >.
 河北 河北 [he2 bei3] /(földrajzi név) Hopej; Hebei (Kína egyik északi, Peking körül elterülő tartománya, hivatalosan 省 utótaggal)/
 
 # ID-i66YQ8Z
@@ -40467,6 +40611,8 @@ X X [X] /X/
 
 # ID-i76NF9a
 # Ver 2021-03-27T12:59:19Z Adam Stat-New >Bartos–Hamar-nagyszótár alapján
+# 廠址 厂址 [chang3 zhi3] /telep|hely (gyáré)/
+# Ver 2021-05-27T13:29:55Z gabor Stat-Verif >.
 廠址 厂址 [chang3 zhi3] /telep|hely (gyáré)/
 
 # ID-i76Rv4F
@@ -40551,7 +40697,11 @@ X X [X] /X/
 
 # ID-i78Mz3N
 # Ver 2021-03-25T10:47:28Z Adam Stat-New >Pleco-szótárak
-通風 通风 [tong1 feng1] /szellőztet; ventilál/szellőzés; szellőztetés; ventiláció/szellős/kiszivárogtat (információt)/
+# 通風 通风 [tong1 feng1] /szellőztet; ventilál/szellőzés; szellőztetés; ventiláció/szellős/kiszivárogtat (információt)/
+# Ver 2021-05-27T13:21:51Z gabor Stat-New >.
+# 通風 通风 [tong1 feng1] /szellőztet; szellőzik; szellőzés/meg|szellőztet; ki|ad (információt)/
+# Ver 2021-05-27T13:21:54Z gabor Stat-Verif >.
+通風 通风 [tong1 feng1] /szellőztet; szellőzik; szellőzés/meg|szellőztet; ki|ad (információt)/
 
 # ID-i78Pb9Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -40864,7 +41014,9 @@ X X [X] /X/
 # 威利轉寫 威利转写 [wei1 li4 zhuan3 xie3] /Wylie-féle transzliteráció (a tibeti írás latin betűs átírása)/Wylie-féle átírás/Wylie-transzliteráció/Wylie-átírás/
 # Ver 2017-09-07T08:36:08Z gabor Stat-Verif >.
 # Ver 2021-03-28T22:04:27Z Adam Stat-Verif >egyazon fogalmat jobb egyazon jelentés alá tenni (különben a felhasználó fölöslegesen törheti a fejét, hogy a többedik jelentés vajon mennyiben más, mint a megelőző)
-威利轉寫 威利转写 [wei1 li4 zhuan3 xie3] /Wylie-féle transzliteráció; Wylie-transzliteráció; Wylie-féle átírás; Wylie-átírás (a tibeti írás latin betűs átírása)/
+# 威利轉寫 威利转写 [wei1 li4 zhuan3 xie3] /Wylie-féle transzliteráció; Wylie-transzliteráció; Wylie-féle átírás; Wylie-átírás (a tibeti írás latin betűs átírása)/
+# Ver 2021-05-27T13:44:51Z gabor Stat-Verif >sőt, annyira ugyanaz, hogy nem is kell ide ennyiféle alig eltérő változat.
+威利轉寫 威利转写 [wei1 li4 zhuan3 xie3] /Wylie-féle transzliteráció (a tibeti írás latin betűs átírása)/
 
 # ID-i86ww3z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -41691,6 +41843,8 @@ X X [X] /X/
 
 # ID-j04ts0J
 # Ver 2021-03-28T23:25:20Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鈷 钴 [gu3] /kobalt (kémiai elem)/
+# Ver 2021-05-27T13:58:59Z gabor Stat-Verif >.
 鈷 钴 [gu3] /kobalt (kémiai elem)/
 
 # ID-j04vH5O
@@ -42345,7 +42499,9 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 相同 相同 [xiang1 tong2] /azonos/azonosság/homo-/
 # Ver 2021-03-23T09:21:22Z Adam Stat-Verif >+ szinonimák
-相同 相同 [xiang1 tong2] /azonos; ugyanaz; egyező; megegyező/azonosság; egyezés/homo-/
+# 相同 相同 [xiang1 tong2] /azonos; ugyanaz; egyező; megegyező/azonosság; egyezés/homo-/
+# Ver 2021-05-27T12:54:49Z gabor Stat-Verif >nem cél, hogy az összes lehetséges magyar szinomímát felsoroljuk; arra törekszünk, hogy a kínai szó fő jelentése(i)t jól leírjuk. ehhez a kevesebb sokszor több.
+相同 相同 [xiang1 tong2] /azonos; egyező/azonosság; egyezés/homo-/
 
 # ID-j17tU3t
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -42961,7 +43117,9 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 族 族 [zu2] /törzs/klán/faj/csoport/
 # Ver 2021-03-24T22:51:35Z Adam Stat-Verif >különböző Pleco-szótárak jelentéseinek összegzése nyomán
-族 族 [zu2] /faj; törzs; klán/nemzetiség; nép|csoport; etnikum/csoport (társadalmi csoport)/
+# 族 族 [zu2] /faj; törzs; klán/nemzetiség; nép|csoport; etnikum/csoport (társadalmi csoport)/
+# Ver 2021-05-27T13:16:56Z gabor Stat-Verif >.
+族 族 [zu2] /törzs; klán/nemzetiség; nép|csoport; etnikum/csoport (társadalmi csoport)/fajta; család (hasonló jellemzőkkel rendelkező dolgok vagy emberek)/
 
 # ID-j31lm5O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -43504,6 +43662,8 @@ X X [X] /X/
 
 # ID-j43hu8F
 # Ver 2021-03-28T23:26:01Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鎳 镍 [nie4] /nikkel (kémiai elem)/
+# Ver 2021-05-27T13:59:10Z gabor Stat-Verif >.
 鎳 镍 [nie4] /nikkel (kémiai elem)/
 
 # ID-j43kO8P
@@ -44589,6 +44749,8 @@ X X [X] /X/
 
 # ID-j67kN5P
 # Ver 2021-03-24T18:23:51Z Adam Stat-New >Wikipedia
+# 浙江 浙江 [zhe4 jiang1] /(földrajzi név) Csöcsiang; Zhejiang (Kína egyik keleti tartománya, hivatalosan 省 utótaggal)/
+# Ver 2021-05-27T13:03:41Z gabor Stat-Verif >.
 浙江 浙江 [zhe4 jiang1] /(földrajzi név) Csöcsiang; Zhejiang (Kína egyik keleti tartománya, hivatalosan 省 utótaggal)/
 
 # ID-j67sg5v
@@ -45705,6 +45867,8 @@ X X [X] /X/
 
 # ID-j90SG8G
 # Ver 2021-03-24T18:59:46Z Adam Stat-New >Wikipedia
+# 貴州 贵州 [gui4 zhou1] /(földrajzi név) Kujcsou; Guizhou (Kína egyik délnyugati tartománya, hivatalosan 省 utótaggal)/
+# Ver 2021-05-27T13:09:37Z gabor Stat-Verif >.
 貴州 贵州 [gui4 zhou1] /(földrajzi név) Kujcsou; Guizhou (Kína egyik délnyugati tartománya, hivatalosan 省 utótaggal)/
 
 # ID-j90UI9k
@@ -45717,6 +45881,8 @@ X X [X] /X/
 
 # ID-j91pD9v
 # Ver 2021-03-24T19:15:49Z Adam Stat-New >Wikipedia
+# 寧夏回族自治區 宁夏回族自治区 [ning2 xia4 hui2 zu2 zi4 zhi4 qu1] /(földrajzi név) Ninghszia-Huj Autonóm Terület/
+# Ver 2021-05-27T13:07:33Z gabor Stat-Verif >.
 寧夏回族自治區 宁夏回族自治区 [ning2 xia4 hui2 zu2 zi4 zhi4 qu1] /(földrajzi név) Ninghszia-Huj Autonóm Terület/
 
 # ID-j91ym7d
@@ -47038,6 +47204,8 @@ X X [X] /X/
 
 # ID-k19gB1D
 # Ver 2021-03-24T19:14:10Z Adam Stat-New >Wikipedia
+# 青海 青海 [qing1 hai3] /(földrajzi név) Csinghaj; Qinghai (Kína egyik északnyugati tartománya, hivatalosan 省 utótaggal)/
+# Ver 2021-05-27T13:07:24Z gabor Stat-Verif >.
 青海 青海 [qing1 hai3] /(földrajzi név) Csinghaj; Qinghai (Kína egyik északnyugati tartománya, hivatalosan 省 utótaggal)/
 
 # ID-k19gD1U
@@ -47491,7 +47659,9 @@ X X [X] /X/
 # Ver 2021-03-25T15:04:17Z Adam Stat-Verif >+ szinonima
 # 滅絕 灭绝 [mie4 jue2] /ki|hal/ki|pusztít; ki|irt/
 # Ver 2021-03-25T15:05:28Z Adam Stat-Verif >+ szinonimák
-滅絕 灭绝 [mie4 jue2] /ki|hal; ki|pusztul/ki|pusztít; el|pusztít; ki|irt/
+# 滅絕 灭绝 [mie4 jue2] /ki|hal; ki|pusztul/ki|pusztít; el|pusztít; ki|irt/
+# Ver 2021-05-27T13:29:26Z gabor Stat-Verif >a kevesebb itt is több
+滅絕 灭绝 [mie4 jue2] /ki|hal; ki|pusztul/ki|pusztít/
 
 # ID-k27en8K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -49289,6 +49459,8 @@ X X [X] /X/
 
 # ID-k66Io7V
 # Ver 2021-03-23T10:55:29Z Adam Stat-New >https://en.wiktionary.org/wiki/%E5%A4%A9%E6%B4%A5 + https://zh.wiktionary.org/wiki/%E5%A4%A9%E6%B4%A5 + https://hu.wikipedia.org/wiki/Tiencsin
+# 天津 天津 [tian1 jin1] /(földrajzi név) Tiencsin; Tianjin (tengerparti város Peking közelében, a KNK négy tartományi jogú városának egyike)/
+# Ver 2021-05-27T12:55:37Z gabor Stat-Verif >.
 天津 天津 [tian1 jin1] /(földrajzi név) Tiencsin; Tianjin (tengerparti város Peking közelében, a KNK négy tartományi jogú városának egyike)/
 
 # ID-k67cC1P
@@ -49837,6 +50009,8 @@ X X [X] /X/
 
 # ID-k78wc3e
 # Ver 2021-03-24T19:08:05Z Adam Stat-New >Wikipedia
+# 陝西 陕西 [shan3 xi1] /(földrajzi név) Senhszi; Shaanxi (Kína egyik központi\északnyugati tartománya, hivatalosan 省 utótaggal; nem tévesztendő össze a keletebbre lévő 山西 Sanhszi\Shanxi tartománnyal)/
+# Ver 2021-05-27T13:06:57Z gabor Stat-Verif >.
 陝西 陕西 [shan3 xi1] /(földrajzi név) Senhszi; Shaanxi (Kína egyik központi\északnyugati tartománya, hivatalosan 省 utótaggal; nem tévesztendő össze a keletebbre lévő 山西 Sanhszi\Shanxi tartománnyal)/
 
 # ID-k78xa5W
@@ -49949,6 +50123,8 @@ X X [X] /X/
 
 # ID-k81oJ5O
 # Ver 2021-03-28T23:11:12Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鋰 锂 [li3] /lítium/
+# Ver 2021-05-27T13:54:00Z gabor Stat-Verif >.
 鋰 锂 [li3] /lítium/
 
 # ID-k81tM0Q
@@ -50515,6 +50691,8 @@ X X [X] /X/
 
 # ID-k93Oe4r
 # Ver 2021-03-24T19:26:30Z Adam Stat-New >Wiktionary
+# 維吾爾 维吾尔 [wei2 wu2 er3] /ujgur (nemzetiség)/
+# Ver 2021-05-27T13:09:06Z gabor Stat-Verif >.
 維吾爾 维吾尔 [wei2 wu2 er3] /ujgur (nemzetiség)/
 
 # ID-k93Xb2L
@@ -51212,6 +51390,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 答 答 [da2] /válaszol/viszonoz/
 
+# ID-l06iH8a
+# Ver 2021-05-27T14:03:19Z gabor Stat-New >逆风, 逆行 okán
+逆 逆 [ni4] /szembe|megy (vmivel)/ellentétes; ellen-/áruló/inverz/
+
 # ID-l06lY8H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 城市 城市 [cheng2 shi4] /város/SZ:座[zuo4]/
@@ -51300,7 +51482,11 @@ X X [X] /X/
 
 # ID-l07Xg9x
 # Ver 2021-03-29T09:55:56Z Adam Stat-New >Pleco-szótárak
-逆風 逆风 [ni4 feng1] /ellen|szél; szembe|szél/
+# 逆風 逆风 [ni4 feng1] /ellen|szél; szembe|szél/
+# Ver 2021-05-27T14:01:27Z gabor Stat-New >kieg
+# 逆風 逆风 [ni4 feng1] /ellen|szél; szembe|szél/széllel szemben megy/
+# Ver 2021-05-27T14:01:30Z gabor Stat-Verif >.
+逆風 逆风 [ni4 feng1] /ellen|szél; szembe|szél/széllel szemben megy/
 
 # ID-l08aa8Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -51464,6 +51650,8 @@ X X [X] /X/
 
 # ID-l12gP1K
 # Ver 2021-03-25T09:44:56Z Adam Stat-New >angol ventilator szócikk kínai megfelelője Wikipédiában és Wiktionaryben
+# 呼吸機 呼吸机 [hu1 xi1 ji1] /lélegeztető|gép/
+# Ver 2021-05-27T13:19:56Z gabor Stat-Verif >.
 呼吸機 呼吸机 [hu1 xi1 ji1] /lélegeztető|gép/
 
 # ID-l12jB2H
@@ -51528,7 +51716,11 @@ X X [X] /X/
 
 # ID-l13Qx2s
 # Ver 2021-03-22T18:14:25Z Adam Stat-New >https://en.wiktionary.org/wiki/%E5%B6%BA#Chinese és Bartos–Hamar-nagyszótár
-嶺 岭 [ling3] /hegy|lánc; hegy|vonulat; hegység/hegy|hát; hegy|gerinc/
+# 嶺 岭 [ling3] /hegy|lánc; hegy|vonulat; hegység/hegy|hát; hegy|gerinc/
+# Ver 2021-05-27T12:49:46Z gabor Stat-New >.
+# 嶺 岭 [ling3] /hegység; hegylánc; hegyvonulat/hegyhát; hegy|gerinc/
+# Ver 2021-05-27T12:49:48Z gabor Stat-Verif >.
+嶺 岭 [ling3] /hegység; hegylánc; hegyvonulat/hegyhát; hegy|gerinc/
 
 # ID-l13QH5S
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -52616,6 +52808,8 @@ X X [X] /X/
 
 # ID-l35Ct6x
 # Ver 2021-03-28T23:27:40Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鍺 锗 [zhe3] /germánium (kémiai elem)/
+# Ver 2021-05-27T13:59:46Z gabor Stat-Verif >.
 鍺 锗 [zhe3] /germánium (kémiai elem)/
 
 # ID-l35SR0S
@@ -52729,6 +52923,8 @@ X X [X] /X/
 
 # ID-l38Ki2M
 # Ver 2021-03-24T11:55:03Z Adam Stat-New >angol és magyar Wikipedia, Wiktionary, Bartos–Hamar-nagyszótár
+# 自治區 自治区 [zi4 zhi4 qu1] /autonóm terület; autonóm régió (Kínában a tartományhoz hasonló közigazgatási egység: Belső-Mongólia AT, Hszincsiang-Ujgur AT, Kuanghszi-Csuang AT, Ninghszia-Huj AT, Tibeti AT)/
+# Ver 2021-05-27T12:59:38Z gabor Stat-Verif >.
 自治區 自治区 [zi4 zhi4 qu1] /autonóm terület; autonóm régió (Kínában a tartományhoz hasonló közigazgatási egység: Belső-Mongólia AT, Hszincsiang-Ujgur AT, Kuanghszi-Csuang AT, Ninghszia-Huj AT, Tibeti AT)/
 
 # ID-l38KF3q
@@ -53708,6 +53904,8 @@ X X [X] /X/
 
 # ID-l57bt9Q
 # Ver 2021-03-22T18:26:11Z Adam Stat-New >https://hu.wikipedia.org/wiki/Agyaghadsereg + Bartos–Hamar-nagyszótár + https://en.wiktionary.org/wiki/%E5%85%B5%E9%A6%AC%E4%BF%91#Chinese
+# 兵馬俑 兵马俑 [bing1 ma3 yong3] /agyag|hadsereg; cserép|hadsereg; agyag|katonák és agyag|lovak (az első kínai császár, Csin Si Huang-ti síremlékénél, a mai Hszian\Xi'an város közelében; a világörökség része)/
+# Ver 2021-05-27T12:51:10Z gabor Stat-Verif >.
 兵馬俑 兵马俑 [bing1 ma3 yong3] /agyag|hadsereg; cserép|hadsereg; agyag|katonák és agyag|lovak (az első kínai császár, Csin Si Huang-ti síremlékénél, a mai Hszian\Xi'an város közelében; a világörökség része)/
 
 # ID-l57gU0l
@@ -54443,7 +54641,11 @@ X X [X] /X/
 
 # ID-l74kL1f
 # Ver 2021-03-28T22:58:47Z Adam Stat-New >https://zh.wikipedia.org/wiki/Wikipedia:%E6%B6%88%E6%AD%A7%E4%B9%89 és CC-CEDICT
-消歧義 消歧义 [xiao1 qi2 yi4] /egyértelműsítés (Wikipédiában)/kétértelműséget vagy többértelműséget megszüntet, kiküszöböl/
+# 消歧義 消歧义 [xiao1 qi2 yi4] /egyértelműsítés (Wikipédiában)/kétértelműséget vagy többértelműséget megszüntet, kiküszöböl/
+# Ver 2021-05-27T13:53:13Z gabor Stat-New >ez sztem azonos értelmű és tömörebb
+# 消歧義 消歧义 [xiao1 qi2 yi4] /egyértelműsít/egyértelműsítés (Wikipédiában)/
+# Ver 2021-05-27T13:53:18Z gabor Stat-Verif >.
+消歧義 消歧义 [xiao1 qi2 yi4] /egyértelműsít/egyértelműsítés (Wikipédiában)/
 
 # ID-l74lw5a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -54568,6 +54770,8 @@ X X [X] /X/
 
 # ID-l76FZ0f
 # Ver 2021-03-28T21:18:23Z Adam Stat-New >kínai Wikipédia-szócikk címe
+# 喬拜登 乔拜登 [qiao2 bai4 deng1] /(tulajdonnév) Joe Biden (2020-ban megválasztott amerikai elnök)/
+# Ver 2021-05-27T13:38:46Z gabor Stat-Verif >.
 喬拜登 乔拜登 [qiao2 bai4 deng1] /(tulajdonnév) Joe Biden (2020-ban megválasztott amerikai elnök)/
 
 # ID-l76GD7N
@@ -55054,6 +55258,8 @@ X X [X] /X/
 
 # ID-l87PO1d
 # Ver 2021-03-28T23:17:09Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鈉 钠 [na4] /nátrium/
+# Ver 2021-05-27T13:56:05Z gabor Stat-Verif >.
 鈉 钠 [na4] /nátrium/
 
 # ID-l87TZ3m
@@ -55887,6 +56093,8 @@ X X [X] /X/
 
 # ID-m07on5E
 # Ver 2021-03-28T22:37:43Z Adam Stat-New >összekapcsolt Wikipedia-szócikkek
+# 百靈 百灵 [bai3 ling2] /pacsirta (a pacsirtafélék, Alaudidae család tagja)/
+# Ver 2021-05-27T13:48:48Z gabor Stat-Verif >.
 百靈 百灵 [bai3 ling2] /pacsirta (a pacsirtafélék, Alaudidae család tagja)/
 
 # ID-m07py9z
@@ -55895,6 +56103,8 @@ X X [X] /X/
 
 # ID-m07rR2a
 # Ver 2021-03-28T23:22:05Z Adam Stat-New >CC-CEDICT és Wikipedia
+# 鉀 钾 [jia3] /kálium/
+# Ver 2021-05-27T13:57:09Z gabor Stat-Verif >.
 鉀 钾 [jia3] /kálium/
 
 # ID-m07rT6a
@@ -55966,6 +56176,8 @@ X X [X] /X/
 
 # ID-m08dF5p
 # Ver 2021-03-07T15:21:51Z gabor Stat-New >loud murmurs podcast S4E1
+# 得獎感言 得奖感言 [de2 jiang3 gan3 yan2] /díj|elfogadó beszéd/
+# Ver 2021-05-27T12:47:29Z gabor Stat-Verif >.
 得獎感言 得奖感言 [de2 jiang3 gan3 yan2] /díj|elfogadó beszéd/
 
 # ID-m08gX9L
@@ -58653,7 +58865,9 @@ XX XX [x x] /x/
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 # 醉漢 醉汉 [zui4 han4] /részeg ember/piás/
 # Ver 2021-03-27T22:26:06Z Adam Stat-Verif >+ egy szalonképes szinonima
-醉漢 醉汉 [zui4 han4] /részeg ember/iszákos; piás/
+# 醉漢 醉汉 [zui4 han4] /részeg ember/iszákos; piás/
+# Ver 2021-05-27T13:37:16Z gabor Stat-Verif >összevontam, mert így egyértelműbb, hogy csak főnévként működik
+醉漢 醉汉 [zui4 han4] /iszákos; piás; részeg ember/
 
 # ID-m63mT9g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -60104,6 +60318,8 @@ XX XX [x x] /x/
 
 # ID-m92ER7g
 # Ver 2021-03-24T18:40:57Z Adam Stat-New >Wikipedia
+# 廣東 广东 [guang3 dong1] /(földrajzi név) Kuangtung; Kanton; Guangdong (Kína egyik déli tartománya, hivatalosan 省 utótaggal; nem tévesztendő össze szintén Kantonként ismert székhelyével, Kuangcsou\Guangzhou várossal)/
+# Ver 2021-05-27T13:05:24Z gabor Stat-Verif >.
 廣東 广东 [guang3 dong1] /(földrajzi név) Kuangtung; Kanton; Guangdong (Kína egyik déli tartománya, hivatalosan 省 utótaggal; nem tévesztendő össze szintén Kantonként ismert székhelyével, Kuangcsou\Guangzhou várossal)/
 
 # ID-m92HR8o
@@ -60755,7 +60971,10 @@ XX XX [x x] /x/
 # Ver 2017-05-22T02:26:39Z Adam Stat-New >CEDICT
 # 維基百科 维基百科 [wei2 ji1 bai3 ke1] /Wikipédia/
 # Ver 2021-03-28T22:40:12Z Adam Stat-New >+ angolos írásmód kereshetőség végett; zárójeles kommentár
-維基百科 维基百科 [wei2 ji1 bai3 ke1] /Wikipédia; Wikipedia (szabad szerkesztésű, nyílt tartalmú internetes enciklopédia)/
+# 維基百科 维基百科 [wei2 ji1 bai3 ke1] /Wikipédia; Wikipedia (szabad szerkesztésű, nyílt tartalmú internetes enciklopédia)/
+# Ver 2021-05-27T13:49:13Z gabor Stat-Verif >.
+# Ver 2021-05-27T13:51:02Z gabor Stat-Verif >feltételezhető, hogy mindenki ismeri, ezért sztem a zárójeles leírás nem ad további információt; +címke
+維基百科 维基百科 [wei2 ji1 bai3 ke1] /(tulajdonnév) Wikipédia; Wikipedia/
 
 # ID-n07mm2e
 # Ver 2021-04-29T14:38:24Z Adam Stat-New >összekapcsolt Wikipedia-szócikkek
@@ -63297,6 +63516,8 @@ XX XX [x x] /x/
 
 # ID-n63xv8p
 # Ver 2021-03-27T15:21:33Z Adam Stat-New >https://zh.wikipedia.org/wiki/%E5%A4%8F%E6%97%B6%E5%88%B6 és Wiktionary
+# 夏時制 夏时制 [xia4 shi2 zhi4] /nyári idő|számítás/
+# Ver 2021-05-27T13:33:13Z gabor Stat-Verif >.
 夏時制 夏时制 [xia4 shi2 zhi4] /nyári idő|számítás/
 
 # ID-n63Ah0Q
@@ -64163,7 +64384,11 @@ XX XX [x x] /x/
 
 # ID-n82QE6A
 # Ver 2021-03-25T10:55:44Z Adam Stat-New >Wiktionary, Bartos--Hamar-nagyszótár
-風扇 风扇 [feng1 shan4] /ventilátor; szellőztető|készülék/
+# 風扇 风扇 [feng1 shan4] /ventilátor; szellőztető|készülék/
+# Ver 2021-05-27T13:24:17Z gabor Stat-New >a szellőztetőkészülék olyan ipari benyomást kelt; a 风扇 a képkeresés alapján a mezei ventilátorokat jelöli
+# 風扇 风扇 [feng1 shan4] /ventilátor/
+# Ver 2021-05-27T13:24:21Z gabor Stat-Verif >.
+風扇 风扇 [feng1 shan4] /ventilátor/
 
 # ID-n83cf3g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -64201,7 +64426,11 @@ XX XX [x x] /x/
 
 # ID-n83Nm1h
 # Ver 2021-03-27T19:21:39Z Adam Stat-New >Pleco-szótárak (főleg NEC), Wiktionary, Bartos–Hamar-nagyszótár
-同化 同化 [tong2 hua4] /asszimilálódik; hasonlóvá válik; hasonul; beolvad/asszimilál; hasonlóvá tesz; hasonít/(szociológia) asszimiláció/(nyelvészet) hasonulás/
+# 同化 同化 [tong2 hua4] /asszimilálódik; hasonlóvá válik; hasonul; beolvad/asszimilál; hasonlóvá tesz; hasonít/(szociológia) asszimiláció/(nyelvészet) hasonulás/
+# Ver 2021-05-27T13:34:39Z gabor Stat-New >kevesebb több
+# 同化 同化 [tong2 hua4] /be|olvad; asszimilálódik/asszimiláció/hasonulás/
+# Ver 2021-05-27T13:34:45Z gabor Stat-Verif >.
+同化 同化 [tong2 hua4] /be|olvad; asszimilálódik/asszimiláció/hasonulás/
 
 # ID-n83ND0C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -64549,6 +64778,8 @@ XX XX [x x] /x/
 
 # ID-n91gG2a
 # Ver 2021-03-24T18:26:37Z Adam Stat-New >Wikipedia
+# 福建 福建 [fu2 jian4] /(földrajzi név) Fucsien; Fujian (Kína egyik keleti tartománya, hivatalosan 省 utótaggal)/
+# Ver 2021-05-27T13:04:06Z gabor Stat-Verif >.
 福建 福建 [fu2 jian4] /(földrajzi név) Fucsien; Fujian (Kína egyik keleti tartománya, hivatalosan 省 utótaggal)/
 
 # ID-n91hX7w
@@ -65045,6 +65276,8 @@ XX XX [x x] /x/
 
 # ID-o02AW6a
 # Ver 2021-03-28T23:29:06Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 溴 溴 [xiu4] /bróm (kémiai elem)/
+# Ver 2021-05-27T14:00:21Z gabor Stat-Verif >.
 溴 溴 [xiu4] /bróm (kémiai elem)/
 
 # ID-o02EN0f
@@ -65649,6 +65882,8 @@ XX XX [x x] /x/
 
 # ID-o15Mu4p
 # Ver 2021-03-28T22:33:53Z Adam Stat-New >összekapcsolt Wikipedia-szócikkek
+# 雲雀 云雀 [yun2 que4] /mezei pacsirta (Alauda arvensis)/
+# Ver 2021-05-27T13:48:33Z gabor Stat-Verif >.
 雲雀 云雀 [yun2 que4] /mezei pacsirta (Alauda arvensis)/
 
 # ID-o15Ph8f
@@ -65735,6 +65970,8 @@ XX XX [x x] /x/
 
 # ID-o17wo9R
 # Ver 2021-03-24T18:48:21Z Adam Stat-New >Wikipedia, Wiktionary
+# 廣西 广西 [guang3 xi1] /(földrajzi név) Kuanghszi; Guangxi (a Kuanghszi-Csuang Autonóm Terület rövid neve)/
+# Ver 2021-05-27T13:06:12Z gabor Stat-Verif >.
 廣西 广西 [guang3 xi1] /(földrajzi név) Kuanghszi; Guangxi (a Kuanghszi-Csuang Autonóm Terület rövid neve)/
 
 # ID-o17Bg0j
@@ -66485,6 +66722,8 @@ XX XX [x x] /x/
 
 # ID-o32Mf7B
 # Ver 2021-03-24T11:58:37Z Adam Stat-New >Wikipedia, Wiktionary
+# 內蒙古自治區 内蒙古自治区 [nei4 meng3 gu3 zi4 zhi4 qu1] /(földrajzi név) Belső-Mongólia Autonóm Terület/
+# Ver 2021-05-27T13:00:01Z gabor Stat-Verif >.
 內蒙古自治區 内蒙古自治区 [nei4 meng3 gu3 zi4 zhi4 qu1] /(földrajzi név) Belső-Mongólia Autonóm Terület/
 
 # ID-o32NM5O
@@ -67631,7 +67870,9 @@ XX XX [x x] /x/
 # Ver 2021-03-29T10:11:27Z Adam Stat-Verif >Pleco-szótárak
 # 那話兒 那话儿 [na4 hua4 r5] /izé; bigyó; micsoda; hogyishívják; bizbasz; bizgentyű; ketyere/pénisz; farok/
 # Ver 2021-03-29T10:16:30Z Adam Stat-Verif >a ketyere inkább műszaki értelmű, túl szűk jelentésű ide
-那話兒 那话儿 [na4 hua4 r5] /izé; bigyó; micsoda; hogyishívják; bizbasz; bizgentyű/pénisz; farok/
+# 那話兒 那话儿 [na4 hua4 r5] /izé; bigyó; micsoda; hogyishívják; bizbasz; bizgentyű/pénisz; farok/
+# Ver 2021-05-27T14:05:44Z gabor Stat-Verif >kicsit tömörebben
+那話兒 那话儿 [na4 hua4 r5] /micsoda; hogyishívják; bigyó/pénisz; farok/
 
 # ID-o58YV2M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -68180,7 +68421,11 @@ XX XX [x x] /x/
 
 # ID-o72Dv8m
 # Ver 2021-03-29T09:59:29Z Adam Stat-New >Pleco-szótárak
-一路平安 一路平安 [yi2 lu4 ping2 an1] /jó utat!/
+# 一路平安 一路平安 [yi2 lu4 ping2 an1] /jó utat!/
+# Ver 2021-05-27T14:03:52Z gabor Stat-New >.
+# 一路平安 一路平安 [yi2 lu4 ping2 an1] /(kifejezés) jó utat!/
+# Ver 2021-05-27T14:03:55Z gabor Stat-Verif >.
+一路平安 一路平安 [yi2 lu4 ping2 an1] /(kifejezés) jó utat!/
 
 # ID-o72DV2U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -69155,6 +69400,8 @@ XX XX [x x] /x/
 # Ver 2021-03-28T20:30:56Z Adam Stat-New >kínai Wikipedia-szócikk címe; CC-CEDICT
 # 喬治索羅斯 乔治索罗斯 [qiao2 zhi4 suo3 luo2 si1] /(tulajdonnév) Soros György (1930– )/
 # Ver 2021-03-28T20:42:40Z Adam Stat-New >fölös szóköz törlése
+# 喬治索羅斯 乔治索罗斯 [qiao2 zhi4 suo3 luo2 si1] /(tulajdonnév) Soros György (1930–)/
+# Ver 2021-05-27T13:38:26Z gabor Stat-Verif >.
 喬治索羅斯 乔治索罗斯 [qiao2 zhi4 suo3 luo2 si1] /(tulajdonnév) Soros György (1930–)/
 
 # ID-o90Vm7b
@@ -69940,6 +70187,8 @@ XX XX [x x] /x/
 # Ver 2021-03-28T23:12:45Z Adam Stat-New >CC-CEDICT, Wikipedia
 # 硼 硼 [peng2] /bór (kémia)/
 # Ver 2021-03-28T23:14:12Z Adam Stat-New >pontosabb megfogalmazás a 碳 "szén" meglévő szócikkének mintájára
+# 硼 硼 [peng2] /bór (kémiai elem)/
+# Ver 2021-05-27T13:55:17Z gabor Stat-Verif >.
 硼 硼 [peng2] /bór (kémiai elem)/
 
 # ID-p06Dl5l
@@ -71027,4 +71276,6 @@ XX XX [x x] /x/
 
 # ID-p27mM7C
 # Ver 2021-03-28T23:09:58Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 氫 氢 [qing1] /hidrogén/
+# Ver 2021-05-27T13:53:42Z gabor Stat-Verif >.
 氫 氢 [qing1] /hidrogén/
