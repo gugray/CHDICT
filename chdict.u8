@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-05-28T02:00:01Z
+# Időbélyeg / Timestamp: 2021-06-01T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -369,6 +369,8 @@
 
 # ID-a06qA9b
 # Ver 2021-03-30T14:37:10Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 釓 钆 [ga2] /gadolínium (kémiai elem, Gd)/
+# Ver 2021-05-31T19:14:56Z gabor Stat-Verif >.
 釓 钆 [ga2] /gadolínium (kémiai elem, Gd)/
 
 # ID-a06zJ0y
@@ -597,6 +599,8 @@
 
 # ID-a11FV6o
 # Ver 2021-03-30T14:17:13Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鎿 镎 [na2] /neptúnium (kémiai elem, Np)/
+# Ver 2021-05-31T19:05:49Z gabor Stat-Verif >.
 鎿 镎 [na2] /neptúnium (kémiai elem, Np)/
 
 # ID-a11JH7N
@@ -1294,6 +1298,8 @@
 
 # ID-a27la0s
 # Ver 2021-03-30T14:49:08Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 銠 铑 [lao3] /ródium (kémiai elem, Rh)/
+# Ver 2021-05-31T19:19:14Z gabor Stat-Verif >.
 銠 铑 [lao3] /ródium (kémiai elem, Rh)/
 
 # ID-a27mB7v
@@ -1445,6 +1451,8 @@
 
 # ID-a30kb7n
 # Ver 2021-03-29T14:28:37Z Adam Stat-New >összekapcsolt Wikipedia-szócikkek
+# 牙齦 牙龈 [ya2 yin2] /fog|íny/
+# Ver 2021-05-31T18:58:12Z gabor Stat-Verif >.
 牙齦 牙龈 [ya2 yin2] /fog|íny/
 
 # ID-a30lx4m
@@ -1775,6 +1783,12 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 傳播 传播 [chuan2 bo1] /terjeszt/propagál/
 
+# ID-a35YQ8B
+# Ver 2021-05-31T18:58:49Z gabor Stat-New >ha már van 牙龈
+# 齦 龈 [yin2] /íny/
+# Ver 2021-05-31T18:58:58Z gabor Stat-Verif >.
+齦 龈 [yin2] /íny/
+
 # ID-a36od8E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 謊話 谎话 [huang3 hua4] /hazugság/mese|beszéd/
@@ -1803,7 +1817,9 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 名 名 [ming2] /név/kereszt|név/hírnév/főnév/híres/(számlálószó: személyekre)/
 # Ver 2021-03-23T11:30:09Z Adam Stat-Verif >+ szinonima
-名 名 [ming2] /név/kereszt|név; utó|név/hírnév/főnév/híres/(számlálószó: személyekre)/
+# 名 名 [ming2] /név/kereszt|név; utó|név/hírnév/főnév/híres/(számlálószó: személyekre)/
+# Ver 2021-05-31T18:50:41Z gabor Stat-Verif >áttekinthetőségért picit átrendeztem
+名 名 [ming2] /név/kereszt|név; utó|név/(számlálószó: személyekre)/hírnév; hírneves/főnév//
 
 # ID-a37cT3R
 # Ver 2019-07-23T21:41:27Z GaoYanuo Stat-New >Forrás: Miskolci Konfuciusz Intétzet. A Zrínyi Ilona Gimnáziumot hívják az itteni kínaiak 兹瑞尼中学-nek.
@@ -1873,6 +1889,8 @@
 
 # ID-a38qG7f
 # Ver 2021-03-30T14:36:39Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鋱 铽 [te4] /terbium (kémiai elem, Tb)/
+# Ver 2021-05-31T19:14:38Z gabor Stat-Verif >.
 鋱 铽 [te4] /terbium (kémiai elem, Tb)/
 
 # ID-a38qP7r
@@ -2466,6 +2484,8 @@
 
 # ID-a49QB0k
 # Ver 2021-03-30T14:29:27Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鎦 镏 [liu2] /lutécium (kémiai elem, Lu)/
+# Ver 2021-05-31T19:11:14Z gabor Stat-Verif >.
 鎦 镏 [liu2] /lutécium (kémiai elem, Lu)/
 
 # ID-a49Rc7K
@@ -2572,6 +2592,8 @@
 
 # ID-a51EN2C
 # Ver 2021-03-30T14:28:41Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鉿 铪 [ha1] /hafnium (kémiai elem, Hf)/
+# Ver 2021-05-31T19:11:04Z gabor Stat-Verif >.
 鉿 铪 [ha1] /hafnium (kémiai elem, Hf)/
 
 # ID-a51EZ3L
@@ -3012,7 +3034,11 @@
 
 # ID-a63lR2y
 # Ver 2021-03-29T10:33:12Z Adam Stat-New >Wiktionary és itteni korpusz
-理論上 理论上 [li3 lun4 shang4] /elméletileg; elméletben; elvileg; elvben/
+# 理論上 理论上 [li3 lun4 shang4] /elméletileg; elméletben; elvileg; elvben/
+# Ver 2021-05-31T18:53:36Z gabor Stat-New >a kevesebb több, ld 想
+# 理論上 理论上 [li3 lun4 shang4] /elméletben; elvileg/
+# Ver 2021-05-31T18:53:40Z gabor Stat-Verif >.
+理論上 理论上 [li3 lun4 shang4] /elméletben; elvileg/
 
 # ID-a63GH4S
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -3304,6 +3330,8 @@
 
 # ID-a69yS0f
 # Ver 2021-03-30T14:52:46Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 釔 钇 [yi3] /ittrium (kémiai elem, Y)/
+# Ver 2021-05-31T19:20:18Z gabor Stat-Verif >.
 釔 钇 [yi3] /ittrium (kémiai elem, Y)/
 
 # ID-a69MZ9N
@@ -4337,6 +4365,8 @@
 
 # ID-a91vF2a
 # Ver 2021-03-30T14:27:04Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 錸 铼 [lai2] /rénium (kémiai elem, Re)/
+# Ver 2021-05-31T19:10:36Z gabor Stat-Verif >.
 錸 铼 [lai2] /rénium (kémiai elem, Re)/
 
 # ID-a91zw4J
@@ -4895,6 +4925,8 @@
 
 # ID-b02JZ1s
 # Ver 2021-03-30T14:40:36Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 釹 钕 [nü3] /neodímium (kémiai elem, Nd)/
+# Ver 2021-05-31T19:16:55Z gabor Stat-Verif >.
 釹 钕 [nü3] /neodímium (kémiai elem, Nd)/
 
 # ID-b02KO4u
@@ -6286,6 +6318,8 @@
 
 # ID-b33NL1N
 # Ver 2021-03-30T14:29:55Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鐿 镱 [yi4] /itterbium (kémiai elem, Yb)/
+# Ver 2021-05-31T19:11:25Z gabor Stat-Verif >.
 鐿 镱 [yi4] /itterbium (kémiai elem, Yb)/
 
 # ID-b34dd4t
@@ -9226,6 +9260,8 @@
 
 # ID-b98UA0Q
 # Ver 2021-03-30T14:26:01Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 銥 铱 [yi1] /irídium (kémiai elem, Ir)/
+# Ver 2021-05-31T19:10:12Z gabor Stat-Verif >.
 銥 铱 [yi1] /irídium (kémiai elem, Ir)/
 
 # ID-b98UR4z
@@ -9652,6 +9688,8 @@
 
 # ID-c08uz8y
 # Ver 2021-03-30T14:49:45Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 釕 钌 [liao3] /ruténium (kémiai elem, Ru)/
+# Ver 2021-05-31T19:19:23Z gabor Stat-Verif >.
 釕 钌 [liao3] /ruténium (kémiai elem, Ru)/
 
 # ID-c08vn1T
@@ -9870,6 +9908,8 @@
 
 # ID-c13ic4t
 # Ver 2021-03-30T14:15:54Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鎇 镅 [mei2] /amerícium (kémiai elem, Am)/
+# Ver 2021-05-31T19:05:28Z gabor Stat-Verif >.
 鎇 镅 [mei2] /amerícium (kémiai elem, Am)/
 
 # ID-c13kD0u
@@ -14182,6 +14222,8 @@
 
 # ID-d05vd9z
 # Ver 2021-03-30T14:43:01Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 銫 铯 [se4] /cézium (kémiai elem, Cs)/
+# Ver 2021-05-31T19:17:44Z gabor Stat-Verif >.
 銫 铯 [se4] /cézium (kémiai elem, Cs)/
 
 # ID-d05vq2L
@@ -14338,6 +14380,8 @@
 
 # ID-d08yq0O
 # Ver 2021-03-30T14:53:42Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 銣 铷 [ru2] /rubídium (kémiai elem, Rb)/
+# Ver 2021-05-31T19:20:35Z gabor Stat-Verif >.
 銣 铷 [ru2] /rubídium (kémiai elem, Rb)/
 
 # ID-d08Jc4J
@@ -15481,6 +15525,8 @@
 
 # ID-d33uQ8Y
 # Ver 2021-03-30T14:18:19Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 釷 钍 [tu3] /tórium (kémiai elem, Th)/
+# Ver 2021-05-31T19:06:08Z gabor Stat-Verif >.
 釷 钍 [tu3] /tórium (kémiai elem, Th)/
 
 # ID-d33yd7l
@@ -15887,6 +15933,8 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-d41Vd9A
 # Ver 2021-03-30T14:30:21Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 銩 铥 [diu1] /túlium (kémiai elem, Tm)/
+# Ver 2021-05-31T19:11:34Z gabor Stat-Verif >.
 銩 铥 [diu1] /túlium (kémiai elem, Tm)/
 
 # ID-d42ar0u
@@ -16065,7 +16113,9 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 # 變種 变种 [bian4 zhong3] /mutáció/mutáns/
 # Ver 2021-04-01T11:49:58Z Adam Stat-Verif >Wiktionary, CC-CEDICT és Bartos–Hamar-nagyszótár alapján
-變種 变种 [bian4 zhong3] /(biológia) mutáció; mutáns; változat (ugrásszerű genetikai változáson átesett élőlény)/változat; válfaj; fajta; típus/
+# 變種 变种 [bian4 zhong3] /(biológia) mutáció; mutáns; változat (ugrásszerű genetikai változáson átesett élőlény)/változat; válfaj; fajta; típus/
+# Ver 2021-05-31T19:26:13Z gabor Stat-Verif >területet nem címkézzük\nkevesebb több, ld. 想\na "változat" hasznos kiegészítés!
+變種 变种 [bian4 zhong3] /mutáció; mutáns; változat/
 
 # ID-d46os1l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -17668,7 +17718,11 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-d79wm7n
 # Ver 2021-03-29T10:57:01Z Adam Stat-New >dict.leo.org ("in der Praxis"), ellenőrzött fordítás a Google Fordítóban az "in practice"-re, HanDeDict és NEC szótárak a Plecóban
-在實踐中 在实践中 [zai4 shi2 jian4 zhong1] /gyakorlatilag; a gyakorlatban; valójában; a valóságban/
+# 在實踐中 在实践中 [zai4 shi2 jian4 zhong1] /gyakorlatilag; a gyakorlatban; valójában; a valóságban/
+# Ver 2021-05-31T18:56:22Z gabor Stat-New >kevesebb több, ld. 想
+# 在實踐中 在实践中 [zai4 shi2 jian4 zhong1] /a gyakorlatban; a valóságban/
+# Ver 2021-05-31T18:56:25Z gabor Stat-Verif >.
+在實踐中 在实践中 [zai4 shi2 jian4 zhong1] /a gyakorlatban; a valóságban/
 
 # ID-d79Lp2c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -20221,6 +20275,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-e36lX5W
 # Ver 2021-03-30T14:52:24Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鋯 锆 [gao4] /cirkónium (kémiai elem, Zr)/
+# Ver 2021-05-31T19:20:10Z gabor Stat-Verif >.
 鋯 锆 [gao4] /cirkónium (kémiai elem, Zr)/
 
 # ID-e36pt6Y
@@ -20247,6 +20303,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2021-04-01T13:09:04Z Adam Stat-Verif >Pleco: kifejezések és példamondatok
 # 變異 变异 [bian4 yi4] /el|tér; el|hajlik (átvitt értelemben)/eltérés; elhajlás/(biológia) mutáció; változat; variáció/változik; módosul; differenciálódik/
 # Ver 2021-04-01T13:14:50Z Adam Stat-Verif >a NEC szótár szerint nem ez a biológiai szakszó, inkább science fictionben használatos ilyen jelentésben
+# 變異 变异 [bian4 yi4] /el|tér; el|hajlik (átvitt értelemben)/eltérés; elhajlás/mutáció; változat; variáció/változik; módosul; differenciálódik/
+# Ver 2021-05-31T19:30:00Z gabor Stat-Flagged >check
 變異 变异 [bian4 yi4] /el|tér; el|hajlik (átvitt értelemben)/eltérés; elhajlás/mutáció; változat; variáció/változik; módosul; differenciálódik/
 
 # ID-e36KG1y
@@ -20283,7 +20341,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-e37oF8Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-設計 设计 [she4 ji4] /terv/dizájn/forma|tervezés/SZ:個|个[ge4]/tervez/
+# 設計 设计 [she4 ji4] /terv/dizájn/forma|tervezés/SZ:個|个[ge4]/tervez/
+# Ver 2021-05-31T13:29:09Z Adam Stat-Verif >+ szinonima nagy angol--kínai szótár nyomán, összetartozó jelentések együvé
+設計 设计 [she4 ji4] /terv/dizájn; forma|tervezés/SZ:個|个[ge4]/tervez; szán (vmilyen célra)/
 
 # ID-e37pA5V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -21109,6 +21169,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-e54YA1l
 # Ver 2021-03-30T14:25:35Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鉑 铂 [bo2] /platina (kémiai elem, Pt)/
+# Ver 2021-05-31T19:10:03Z gabor Stat-Verif >.
 鉑 铂 [bo2] /platina (kémiai elem, Pt)/
 
 # ID-e55hh8m
@@ -23958,6 +24020,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f19dj6X
 # Ver 2021-03-30T14:19:54Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鈁 钫 [fang1] /francium (kémiai elem, Fr)/
+# Ver 2021-05-31T19:06:38Z gabor Stat-Verif >.
 鈁 钫 [fang1] /francium (kémiai elem, Fr)/
 
 # ID-f19fa5C
@@ -25138,6 +25202,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f44KI6X
 # Ver 2021-03-30T14:26:31Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鋨 锇 [e2] /ozmium (kémiai elem, Os)/
+# Ver 2021-05-31T19:10:25Z gabor Stat-Verif >.
 鋨 锇 [e2] /ozmium (kémiai elem, Os)/
 
 # ID-f44Se9n
@@ -25168,7 +25234,11 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f45jL0a
 # Ver 2021-03-29T10:34:28Z Adam Stat-New >Wiktionary és itteni korpusz
-原則上 原则上 [yuan2 ze2 shang4] /elvileg; elvben; elviekben; elméletileg; elméletben/
+# 原則上 原则上 [yuan2 ze2 shang4] /elvileg; elvben; elviekben; elméletileg; elméletben/
+# Ver 2021-05-31T18:54:29Z gabor Stat-New >a kevesebb több, ld. 想
+# 原則上 原则上 [yuan2 ze2 shang4] /elméletben; elvileg/
+# Ver 2021-05-31T18:54:33Z gabor Stat-Verif >.
+原則上 原则上 [yuan2 ze2 shang4] /elméletben; elvileg/
 
 # ID-f45kw7q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -25415,6 +25485,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2021-03-30T13:14:20Z Adam Stat-New >CC-CEDICT, Wikipedia, Wiktionary, Bartos–Hamar-nagyszótár
 # 鋦 锔 [ju2] /(jú ejtéssel) kűrium (kémiai elem, Cm)/(jū ejtéssel) meg|javít, össze|illeszt, össze|kapcsol (pl. törött edényt)/
 # Ver 2021-03-30T13:16:40Z Adam Stat-New >a másik kiejtéshez tartozó jelentést felvettem különálló szócikkbe, innen törlöm
+# 鋦 锔 [ju2] /kűrium (kémiai elem, Cm)/
+# Ver 2021-05-31T19:05:16Z gabor Stat-Verif >.
 鋦 锔 [ju2] /kűrium (kémiai elem, Cm)/
 
 # ID-f49pa2q
@@ -26407,6 +26479,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f70Ja0c
 # Ver 2021-03-30T14:40:59Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鐠 镨 [pu3] /prazeodímium (kémiai elem, Pr)/
+# Ver 2021-05-31T19:17:04Z gabor Stat-Verif >.
 鐠 镨 [pu3] /prazeodímium (kémiai elem, Pr)/
 
 # ID-f70Ts2U
@@ -26807,6 +26881,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f78lE3P
 # Ver 2021-03-30T14:43:54Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 碘 碘 [dian3] /jód (kémiai elem, I)/
+# Ver 2021-05-31T19:18:05Z gabor Stat-Verif >.
 碘 碘 [dian3] /jód (kémiai elem, I)/
 
 # ID-f78si0n
@@ -28709,6 +28785,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2021-03-30T12:59:13Z Adam Stat-New >CC-CEDICT, Wikipedia
 # 鐨 镄 [fei4] /fermium (kémiai elem)/
 # Ver 2021-03-30T13:02:18Z Adam Stat-New >vegyjel
+# 鐨 镄 [fei4] /fermium (kémiai elem, Fm)/
+# Ver 2021-05-31T18:59:34Z gabor Stat-Verif >.
 鐨 镄 [fei4] /fermium (kémiai elem, Fm)/
 
 # ID-g18pc5u
@@ -32249,6 +32327,8 @@ X X [X] /X/
 # Ver 2021-03-28T23:15:47Z Adam Stat-New >CC-CEDICT és Wikipedia
 # 氟 氟 [fu2] /fluor/
 # Ver 2021-03-30T13:06:03Z Adam Stat-New >+ "(kémiai elem)"
+# 氟 氟 [fu2] /fluor (kémiai elem)/
+# Ver 2021-05-31T19:00:44Z gabor Stat-Verif >.
 氟 氟 [fu2] /fluor (kémiai elem)/
 
 # ID-g94uH0z
@@ -32686,7 +32766,9 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 情報 情报 [qing2 bao4] /hírszerzés/
 # Ver 2021-03-31T11:47:03Z Adam Stat-Verif >különböző Pleco-szótárak példamondatai nyomán
-情報 情报 [qing2 bao4] /hírszerzés/információ/
+# 情報 情报 [qing2 bao4] /hírszerzés/információ/
+# Ver 2021-05-31T19:24:56Z gabor Stat-Verif >sőt, az intelligence mint hírszerzés itt téves értelmezés lehet - az a korpusz szerint az összetételekből jöhetett, leginkább 情报局
+情報 情报 [qing2 bao4] /információ; értesülés (hírszerzés által szerzett)/
 
 # ID-h02rg7F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -33596,7 +33678,11 @@ X X [X] /X/
 
 # ID-h24Ib0J
 # Ver 2021-04-01T11:52:35Z Adam Stat-New >Wiktionary és Bartos–Hamar-nagyszótár
-突變體 突变体 [tu1 bian4 ti3] /(biológia) mutáns (ugrásszerű genetikai változáson átesett élőlény)/
+# 突變體 突变体 [tu1 bian4 ti3] /(biológia) mutáns (ugrásszerű genetikai változáson átesett élőlény)/
+# Ver 2021-05-31T19:27:07Z gabor Stat-New >kevesebb több, ld. 想
+# 突變體 突变体 [tu1 bian4 ti3] /mutáns/
+# Ver 2021-05-31T19:27:10Z gabor Stat-Verif >.
+突變體 突变体 [tu1 bian4 ti3] /mutáns/
 
 # ID-h24Oy4J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -33750,6 +33836,8 @@ X X [X] /X/
 
 # ID-h27NN6x
 # Ver 2021-03-30T14:28:22Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鉭 钽 [tan3] /tantál (kémiai elem, Ta)/
+# Ver 2021-05-31T19:10:55Z gabor Stat-Verif >.
 鉭 钽 [tan3] /tantál (kémiai elem, Ta)/
 
 # ID-h27NY8X
@@ -35058,7 +35146,11 @@ X X [X] /X/
 
 # ID-h59yl3M
 # Ver 2021-03-30T14:36:01Z Adam Stat-New >CC-CEDICT, Wiktionary, Bartos–Hamar-nagyszótár
-鏑 镝 [di2] /(elavult) nyíl; nyíl|hegy/
+# 鏑 镝 [di2] /(elavult) nyíl; nyíl|hegy/
+# Ver 2021-05-31T19:13:42Z gabor Stat-New >nem címkézzük az elavultat
+# 鏑 镝 [di2] /nyíl; nyíl|hegy/
+# Ver 2021-05-31T19:14:13Z gabor Stat-Verif >.
+鏑 镝 [di2] /nyíl; nyíl|hegy/
 
 # ID-h59Dh3z
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -37549,6 +37641,8 @@ X X [X] /X/
 
 # ID-i10tm4E
 # Ver 2021-03-30T14:19:24Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鐳 镭 [lei2] /rádium (kémiai elem, Ra)/
+# Ver 2021-05-31T19:06:28Z gabor Stat-Verif >.
 鐳 镭 [lei2] /rádium (kémiai elem, Ra)/
 
 # ID-i10tY6W
@@ -39724,7 +39818,9 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 銀 银 [yin2] /ezüst/ezüst|színű/(előtagként: pénzzel kapcsolatos)/
 # Ver 2021-03-30T14:47:08Z Adam Stat-Verif >+ megjegyzés, vegyjel
-銀 银 [yin2] /ezüst (kémiai elem, Ag)/ezüst|színű/(előtagként: pénzzel kapcsolatos)/
+# 銀 银 [yin2] /ezüst (kémiai elem, Ag)/ezüst|színű/(előtagként: pénzzel kapcsolatos)/
+# Ver 2021-05-31T19:16:25Z gabor Stat-Verif >inkább megjegyzés nélkül, ld. 金 alatt az aranyról
+銀 银 [yin2] /ezüst/ezüst|színű/(előtagként: pénzzel kapcsolatos)/
 
 # ID-i58ks2o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -41570,6 +41666,8 @@ X X [X] /X/
 
 # ID-i99cT9p
 # Ver 2021-03-30T14:45:51Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 錫 锡 [xi1] /ón (kémiai elem, Sn)/
+# Ver 2021-05-31T19:18:33Z gabor Stat-Verif >.
 錫 锡 [xi1] /ón (kémiai elem, Sn)/
 
 # ID-i99gc8U
@@ -41640,6 +41738,8 @@ X X [X] /X/
 
 # ID-j00lD5f
 # Ver 2021-03-30T14:42:23Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鋇 钡 [bei4] /bárium (kémiai elem, Ba)/
+# Ver 2021-05-31T19:17:34Z gabor Stat-Verif >.
 鋇 钡 [bei4] /bárium (kémiai elem, Ba)/
 
 # ID-j00oZ8P
@@ -41875,6 +41975,8 @@ X X [X] /X/
 
 # ID-j04SD0c
 # Ver 2021-03-30T14:53:17Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鍶 锶 [si1] /stroncium (kémiai elem, Sr)/
+# Ver 2021-05-31T19:20:26Z gabor Stat-Verif >.
 鍶 锶 [si1] /stroncium (kémiai elem, Sr)/
 
 # ID-j05af3h
@@ -41935,6 +42037,8 @@ X X [X] /X/
 
 # ID-j06uF7N
 # Ver 2021-03-30T14:37:44Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 銪 铕 [you3] /európium (kémiai elem, Eu)/
+# Ver 2021-05-31T19:15:06Z gabor Stat-Verif >.
 銪 铕 [you3] /európium (kémiai elem, Eu)/
 
 # ID-j06vC1v
@@ -42152,6 +42256,8 @@ X X [X] /X/
 
 # ID-j10KR3y
 # Ver 2021-03-30T14:46:39Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鎘 镉 [ge2] /kadmium (kémiai elem, Cd)/
+# Ver 2021-05-31T19:18:54Z gabor Stat-Verif >.
 鎘 镉 [ge2] /kadmium (kémiai elem, Cd)/
 
 # ID-j10Mw2i
@@ -42242,6 +42348,8 @@ X X [X] /X/
 
 # ID-j12gi8h
 # Ver 2021-03-30T13:01:37Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鐦 锎 [kai1] /kalifornium (kémiai elem, Cf)/
+# Ver 2021-05-31T18:59:24Z gabor Stat-Verif >.
 鐦 锎 [kai1] /kalifornium (kémiai elem, Cf)/
 
 # ID-j12kq5l
@@ -42513,6 +42621,8 @@ X X [X] /X/
 
 # ID-j17Iw7o
 # Ver 2021-03-30T13:06:53Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 錇 锫 [pei2] /berkélium (kémiai elem, Bk)/
+# Ver 2021-05-31T19:00:56Z gabor Stat-Verif >.
 錇 锫 [pei2] /berkélium (kémiai elem, Bk)/
 
 # ID-j17PP2R
@@ -42609,6 +42719,8 @@ X X [X] /X/
 
 # ID-j19WX9q
 # Ver 2021-03-30T14:39:29Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 釤 钐 [shan1] /szamárium (kémiai elem, Sm)/
+# Ver 2021-05-31T19:15:17Z gabor Stat-Verif >.
 釤 钐 [shan1] /szamárium (kémiai elem, Sm)/
 
 # ID-j19Ys7Y
@@ -42775,7 +42887,9 @@ X X [X] /X/
 
 # ID-j23qI1D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-憐憫 怜悯 [lian2 min3] /meg|szán/meg|kegyelmez/irgalom; szánalom/
+# 憐憫 怜悯 [lian2 min3] /meg|szán/meg|kegyelmez/irgalom; szánalom/
+# Ver 2021-05-31T13:31:28Z Adam Stat-Verif >+ szinonimák
+憐憫 怜悯 [lian2 min3] /meg|szán; meg|könyörül/meg|kegyelmez; irgalmaz/irgalom; szánalom; könyörület/
 
 # ID-j23vX2g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -44339,7 +44453,9 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 金 金 [jin1] /arany/pénz/fém/(családnév) Jin/
 # Ver 2021-03-30T14:25:02Z Adam Stat-Verif >+ megjegyzés, vegyjel
-金 金 [jin1] /arany (kémiai elem, Au)/pénz/fém/(családnév) Jin/
+# 金 金 [jin1] /arany (kémiai elem, Au)/pénz/fém/(családnév) Jin/
+# Ver 2021-05-31T19:09:23Z gabor Stat-Verif >ezen haboztam, és bár igaz, hogy az arany egy kémiai elem, annyira mindennapos szó/fogalom, hogy ennek a feltüntetése inkább félrevisz, mint használ. ("kémiai elem? akkor ez egy tudományos szó? de hogy mondják vajon prózaian azt, hogy arany?")
+金 金 [jin1] /arany/pénz/fém/(családnév) Jin/
 
 # ID-j58aG2O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -44544,6 +44660,8 @@ X X [X] /X/
 
 # ID-j62KT9M
 # Ver 2021-03-30T14:48:33Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鈀 钯 [ba3] /palládium (kémiai elem, Pd)/
+# Ver 2021-05-31T19:19:04Z gabor Stat-Verif >.
 鈀 钯 [ba3] /palládium (kémiai elem, Pd)/
 
 # ID-j62MZ8v
@@ -44997,6 +45115,8 @@ X X [X] /X/
 
 # ID-j72JM6K
 # Ver 2021-03-30T14:44:51Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 銻 锑 [ti1] /antimon (kémiai elem, Sb)/
+# Ver 2021-05-31T19:18:23Z gabor Stat-Verif >.
 銻 锑 [ti1] /antimon (kémiai elem, Sb)/
 
 # ID-j72Xl5e
@@ -46920,6 +47040,8 @@ X X [X] /X/
 # Ver 2021-03-29T22:40:45Z Adam Stat-New >CC-CEDICT, Wikipedia
 # 䥑 鿏 [mai4] /meitnérium (kémiai elem)/
 # Ver 2021-03-30T13:04:40Z Adam Stat-New >vegyjel
+# 䥑 鿏 [mai4] /meitnérium (kémiai elem, Mt)/
+# Ver 2021-05-31T19:00:16Z gabor Stat-Verif >.
 䥑 鿏 [mai4] /meitnérium (kémiai elem, Mt)/
 
 # ID-k13jR9H
@@ -47342,7 +47464,10 @@ X X [X] /X/
 
 # ID-k21od5V
 # Ver 2021-03-30T14:23:02Z Adam Stat-New >CC-CEDICT, Wikipedia
-鉛 铅 [qian1] /ólom (kémiai elem, Pb)/
+# 鉛 铅 [qian1] /ólom (kémiai elem, Pb)/
+# Ver 2021-05-31T19:07:31Z gabor Stat-Verif >.
+# Ver 2021-05-31T19:09:49Z gabor Stat-Verif >ld megfontolást az arannyal kapcsolatban 金 alatt
+鉛 铅 [qian1] /ólom/
 
 # ID-k21Nt4d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -47395,6 +47520,8 @@ X X [X] /X/
 
 # ID-k22HH7J
 # Ver 2021-03-30T14:20:55Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 砈 砈 [e3] /asztácium (kémiai elem, At)/
+# Ver 2021-05-31T19:06:57Z gabor Stat-Verif >.
 砈 砈 [e3] /asztácium (kémiai elem, At)/
 
 # ID-k22Sq9n
@@ -47518,6 +47645,8 @@ X X [X] /X/
 # Ver 2021-03-29T22:36:55Z Adam Stat-New >CC-CEDICT, Wikipedia, Wiktionary
 # 鏌 镆 [mo4] /kard/moszkóvium (kémiai elem)/
 # Ver 2021-03-30T13:05:12Z Adam Stat-New >vegyjel
+# 鏌 镆 [mo4] /kard/moszkóvium (kémiai elem, Mc)/
+# Ver 2021-05-31T19:00:28Z gabor Stat-Verif >.
 鏌 镆 [mo4] /kard/moszkóvium (kémiai elem, Mc)/
 
 # ID-k24US0J
@@ -48659,6 +48788,8 @@ X X [X] /X/
 
 # ID-k49ja5I
 # Ver 2021-03-30T14:43:28Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 氙 氙 [xian1] /xenon (kémiai elem, Xe)/
+# Ver 2021-05-31T19:17:55Z gabor Stat-Verif >.
 氙 氙 [xian1] /xenon (kémiai elem, Xe)/
 
 # ID-k49mz6w
@@ -48713,6 +48844,8 @@ X X [X] /X/
 
 # ID-k50JZ3v
 # Ver 2021-03-30T14:20:18Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 氡 氡 [dong1] /radon (kémiai elem, Rn)/
+# Ver 2021-05-31T19:06:47Z gabor Stat-Verif >.
 氡 氡 [dong1] /radon (kémiai elem, Rn)/
 
 # ID-k50PF5B
@@ -50033,7 +50166,12 @@ X X [X] /X/
 
 # ID-k78Nt9e
 # Ver 2021-03-30T13:15:52Z Adam Stat-New >CC-CEDICT, Wiktionary, Bartos–Hamar-nagyszótár
-鋦 锔 [ju1] /meg|javít, össze|illeszt, össze|kapcsol (pl. törött edényt)/
+# 鋦 锔 [ju1] /meg|javít, össze|illeszt, össze|kapcsol (pl. törött edényt)/
+# Ver 2021-05-31T19:03:38Z gabor Stat-New >kieg
+# 鋦 锔 [ju1] /meg|javít; össze|kapcsol (törött edényt, kapcsokkal)/kűrium (kémiai elem, Cm)/
+# Ver 2021-05-31T19:03:45Z gabor Stat-Verif >.
+# Ver 2021-05-31T19:05:00Z gabor Stat-Verif >.
+鋦 锔 [ju1] /meg|javít; össze|kapcsol (törött edényt, kapcsokkal)/
 
 # ID-k79fM9g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -51392,6 +51530,8 @@ X X [X] /X/
 
 # ID-l06iH8a
 # Ver 2021-05-27T14:03:19Z gabor Stat-New >逆风, 逆行 okán
+# 逆 逆 [ni4] /szembe|megy (vmivel)/ellentétes; ellen-/áruló/inverz/
+# Ver 2021-05-31T18:35:52Z gabor Stat-Verif >.
 逆 逆 [ni4] /szembe|megy (vmivel)/ellentétes; ellen-/áruló/inverz/
 
 # ID-l06lY8H
@@ -51668,6 +51808,8 @@ X X [X] /X/
 
 # ID-l12Gp8Z
 # Ver 2021-03-30T14:40:00Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鉕 钷 [po3] /prométium (kémiai elem, Pm)/
+# Ver 2021-05-31T19:16:46Z gabor Stat-Verif >.
 鉕 钷 [po3] /prométium (kémiai elem, Pm)/
 
 # ID-l12Rn1q
@@ -52122,6 +52264,8 @@ X X [X] /X/
 
 # ID-l21CW9q
 # Ver 2021-03-30T14:42:01Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鑭 镧 [lan2] /lantán (kémiai elem, La)/
+# Ver 2021-05-31T19:17:25Z gabor Stat-Verif >.
 鑭 镧 [lan2] /lantán (kémiai elem, La)/
 
 # ID-l21JN2N
@@ -53117,6 +53261,8 @@ X X [X] /X/
 
 # ID-l41YX0l
 # Ver 2021-03-30T14:51:21Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鉬 钼 [mu4] /molibdén (kémiai elem, Mo)/
+# Ver 2021-05-31T19:19:48Z gabor Stat-Verif >.
 鉬 钼 [mu4] /molibdén (kémiai elem, Mo)/
 
 # ID-l42gi1g
@@ -53295,6 +53441,8 @@ X X [X] /X/
 
 # ID-l45xj1T
 # Ver 2021-03-30T14:46:16Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 銦 铟 [yin1] /indium (kémiai elem, In)/
+# Ver 2021-05-31T19:18:44Z gabor Stat-Verif >.
 銦 铟 [yin1] /indium (kémiai elem, In)/
 
 # ID-l45Dw3C
@@ -53736,7 +53884,11 @@ X X [X] /X/
 
 # ID-l53ne6M
 # Ver 2021-04-01T11:56:48Z Adam Stat-New >Wiktionary, Bartos–Hamar-nagyszótár, CC-CEDICT
-突變 突变 [tu1 bian4] /ugrásszerű változáson esik át; hirtelen megváltozik/ugrás (átvitt értelemben)/(biológia) mutálódik; módosul; átalakul/(biológia) mutáció; eltérés/
+# 突變 突变 [tu1 bian4] /ugrásszerű változáson esik át; hirtelen megváltozik/ugrás (átvitt értelemben)/(biológia) mutálódik; módosul; átalakul/(biológia) mutáció; eltérés/
+# Ver 2021-05-31T19:29:19Z gabor Stat-New >egyszerűsítés, ld. 想
+# 突變 突变 [tu1 bian4] /hirtelen meg|változik/mutáció; mutálódik/
+# Ver 2021-05-31T19:29:23Z gabor Stat-Verif >.
+突變 突变 [tu1 bian4] /hirtelen meg|változik/mutáció; mutálódik/
 
 # ID-l53vR9o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -54603,6 +54755,8 @@ X X [X] /X/
 
 # ID-l73Gn1f
 # Ver 2021-03-30T14:30:43Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鉺 铒 [er3] /erbium (kémiai elem, Er)/
+# Ver 2021-05-31T19:11:51Z gabor Stat-Verif >.
 鉺 铒 [er3] /erbium (kémiai elem, Er)/
 
 # ID-l73Jw1k
@@ -54836,6 +54990,8 @@ X X [X] /X/
 
 # ID-l78ko0s
 # Ver 2021-03-30T14:50:55Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鍀 锝 [de2] /technécium (kémiai elem, Tc)/
+# Ver 2021-05-31T19:19:35Z gabor Stat-Verif >.
 鍀 锝 [de2] /technécium (kémiai elem, Tc)/
 
 # ID-l78sR7Y
@@ -56357,6 +56513,8 @@ X X [X] /X/
 # Ver 2021-03-29T22:38:19Z Adam Stat-New >CC-CEDICT, Wikipedia
 # 鉨 鉨 [ni3] /nihónium (kémiai elem)/
 # Ver 2021-03-30T13:04:08Z Adam Stat-New >vegyjel
+# 鉨 鉨 [ni3] /nihónium (kémiai elem, Nh)/
+# Ver 2021-05-31T19:00:04Z gabor Stat-Verif >.
 鉨 鉨 [ni3] /nihónium (kémiai elem, Nh)/
 
 # ID-m13bA8a
@@ -56365,7 +56523,11 @@ X X [X] /X/
 
 # ID-m13dQ4X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-想 想 [xiang3] /gondol/hisz/feltételez/kíván/vágyik (vmire)/akar/hiányzik (vkinek vmi)/
+# 想 想 [xiang3] /gondol/hisz/feltételez/kíván/vágyik (vmire)/akar/hiányzik (vkinek vmi)/
+# Ver 2021-05-31T17:12:45Z Adam Stat-Verif >további jelentések Bartos–Hamar-nagyszótár alapján; csoportosítás
+# 想 想 [xiang3] /gondolkozik; át|gondol; végig|gondol; tűnődik; töpreng; meg|fontol; latolgat/gondol; hisz; vél; vélekedik; feltételez; szerinte/akar; szeretne; kíván; vágyik (vmire)/hiányol; hiányzik (vkinek vmi)/fel|idéz; vissza|gondol; vissza|emlékezik/
+# Ver 2021-05-31T18:47:46Z gabor Stat-Verif >egyetértek az első néhány értelem összevonásával, és egy picit a kiegészítésekkel is. de mégis inkább húzok belőle. ezek a megfontolások munkálnak bennem, itt is és pár hasonló helyen korábbról:\n\n- a CHDICT nem nagyszótár, és a tömörsége az erénye is. (ennyire strukturálatlan formátum megőrzésével nincs is lehetősége nagyszótárrá válni.) a poliszémia sok kínai lexikai elemnél kihívás, és inkább arra törekszünk, hogy aki még nincs rettentő haladó szinten, azt a (bevallottan reduktív) egyszerűség segítse, ne a 42 lehetőség elbizonytalanítsa.\n\n- az előzőtől függetlenül: egyáltalán nem cél, hogy bárhol az összes lehetséges magyar szinonimát, vagy akár az összes szóba jövő jelentésárnyalatot feltüntessük. az a cél, hogy ha valaki kontextusban találkozik egy ismeretlen kínai szóval, annak a lehető legkevesebb változat felsorolásával segítsünk megérteni a szó jelentését. a kevesebb több.
+想 想 [xiang3] /gondol; hisz; feltételez/akar; szeretne; kíván; vágyik (vmire)/rá|gondol; hiányol; hiányzik (vkinek vmi)/
 
 # ID-m13sJ1g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -56826,6 +56988,8 @@ X X [X] /X/
 
 # ID-m21qM3t
 # Ver 2021-03-30T14:31:12Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鈥 钬 [huo3] /holmium (kémiai elem, Ho)/
+# Ver 2021-05-31T19:12:01Z gabor Stat-Verif >.
 鈥 钬 [huo3] /holmium (kémiai elem, Ho)/
 
 # ID-m21Ef4w
@@ -58384,6 +58548,8 @@ X X [X] /X/
 
 # ID-m54Gq1E
 # Ver 2021-03-30T14:51:52Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鈮 铌 [ni2] /nióbium (kémiai elem, Nb)/
+# Ver 2021-05-31T19:20:01Z gabor Stat-Verif >.
 鈮 铌 [ni2] /nióbium (kémiai elem, Nb)/
 
 # ID-m54It0V
@@ -58773,6 +58939,8 @@ X X [X] /X/
 # Ver 2018-01-02T22:33:55Z gabor Stat-New >ABC, korpusz
 # 汞 汞 [gong3] /higany/
 # Ver 2021-03-30T14:24:28Z Adam Stat-New >+ megjegyzés, vegyjel
+# 汞 汞 [gong3] /higany (kémiai elem, Hg)/
+# Ver 2021-05-31T19:07:51Z gabor Stat-Verif >.
 汞 汞 [gong3] /higany (kémiai elem, Hg)/
 
 # ID-m61Ph3O
@@ -60156,6 +60324,8 @@ XX XX [x x] /x/
 
 # ID-m89yo3N
 # Ver 2021-03-30T14:33:21Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鏑 镝 [di1] /diszprózium (kémiai elem, Dy)/
+# Ver 2021-05-31T19:12:10Z gabor Stat-Verif >.
 鏑 镝 [di1] /diszprózium (kémiai elem, Dy)/
 
 # ID-m89BJ0n
@@ -60887,6 +61057,8 @@ XX XX [x x] /x/
 
 # ID-n05po0X
 # Ver 2021-03-30T14:44:28Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 碲 碲 [di4] /tellúr (kémiai elem, Te)/
+# Ver 2021-05-31T19:18:15Z gabor Stat-Verif >.
 碲 碲 [di4] /tellúr (kémiai elem, Te)/
 
 # ID-n05pD0n
@@ -61513,6 +61685,8 @@ XX XX [x x] /x/
 
 # ID-n20bE9Y
 # Ver 2021-03-30T14:41:32Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鈰 铈 [shi4] /cérium (kémiai elem, Ce)/
+# Ver 2021-05-31T19:17:15Z gabor Stat-Verif >.
 鈰 铈 [shi4] /cérium (kémiai elem, Ce)/
 
 # ID-n20kV1Q
@@ -61723,6 +61897,8 @@ XX XX [x x] /x/
 # Ver 2021-03-29T22:47:45Z Adam Stat-New >CC-CEDICT és Wikipedia
 # 鈾 铀 [you2] /urán (kémiai elem)/
 # Ver 2021-03-30T13:02:39Z Adam Stat-New >vegyjel
+# 鈾 铀 [you2] /urán (kémiai elem, U)/
+# Ver 2021-05-31T18:59:43Z gabor Stat-Verif >.
 鈾 铀 [you2] /urán (kémiai elem, U)/
 
 # ID-n24Tk4p
@@ -62698,6 +62874,8 @@ XX XX [x x] /x/
 # Ver 2021-03-29T22:39:36Z Adam Stat-New >CC-CEDICT, Wikipedia
 # 鎶 鿔 [ge1] /kopernícium (kémiai elem)/
 # Ver 2021-03-30T13:03:39Z Adam Stat-New >vegyjel
+# 鎶 鿔 [ge1] /kopernícium (kémiai elem, Cn)/
+# Ver 2021-05-31T18:59:51Z gabor Stat-Verif >.
 鎶 鿔 [ge1] /kopernícium (kémiai elem, Cn)/
 
 # ID-n45DW9k
@@ -63314,6 +63492,8 @@ XX XX [x x] /x/
 
 # ID-n59cO1q
 # Ver 2021-03-30T14:23:36Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鉈 铊 [ta1] /tallium (kémiai elem, Tl)/
+# Ver 2021-05-31T19:07:41Z gabor Stat-Verif >.
 鉈 铊 [ta1] /tallium (kémiai elem, Tl)/
 
 # ID-n59dp1T
@@ -63390,6 +63570,8 @@ XX XX [x x] /x/
 
 # ID-n60pn6d
 # Ver 2021-03-30T14:17:54Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鏷 镤 [pu2] /protaktínium (kémiai elem, Pa)/
+# Ver 2021-05-31T19:05:58Z gabor Stat-Verif >.
 鏷 镤 [pu2] /protaktínium (kémiai elem, Pa)/
 
 # ID-n60GF3R
@@ -64784,6 +64966,8 @@ XX XX [x x] /x/
 
 # ID-n91hX7w
 # Ver 2021-03-30T14:27:53Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鎢 钨 [wu1] /volfrám (kémiai elem, W)/
+# Ver 2021-05-31T19:10:45Z gabor Stat-Verif >.
 鎢 钨 [wu1] /volfrám (kémiai elem, W)/
 
 # ID-n91iX6C
@@ -68417,6 +68601,8 @@ XX XX [x x] /x/
 
 # ID-o72ve1G
 # Ver 2021-03-30T14:21:45Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 鉍 铋 [bi4] /bizmut (kémiai elem, Bi)/
+# Ver 2021-05-31T19:07:18Z gabor Stat-Verif >.
 鉍 铋 [bi4] /bizmut (kémiai elem, Bi)/
 
 # ID-o72Dv8m
@@ -70799,6 +70985,8 @@ XX XX [x x] /x/
 
 # ID-p18pe4t
 # Ver 2021-03-30T14:21:19Z Adam Stat-New >CC-CEDICT, Wikipedia
+# 釙 钋 [po1] /polónium (kémiai elem, Po)/
+# Ver 2021-05-31T19:07:08Z gabor Stat-Verif >.
 釙 钋 [po1] /polónium (kémiai elem, Po)/
 
 # ID-p18pI4v
