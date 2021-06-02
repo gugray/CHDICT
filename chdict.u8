@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-06-01T02:00:01Z
+# Időbélyeg / Timestamp: 2021-06-02T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -56719,7 +56719,8 @@ X X [X] /X/
 # Ver 2021-03-07T12:04:25Z gabor Stat-New >https://en.wikipedia.org/wiki/Douban
 # 豆瓣 豆瓣 [dou4 ban4] /Douban (kínai közösségi háló, elsősorban filmekkel, zenével és kulturális eseményekkel kapcsolatos tartalmak közzétérelére)/
 # Ver 2021-05-26T12:14:46Z gabor Stat-Verif >.
-豆瓣 豆瓣 [dou4 ban4] /Douban (kínai közösségi háló, elsősorban filmekkel, zenével és kulturális eseményekkel kapcsolatos tartalmak közzétérelére)/
+# Ver 2021-06-01T08:28:07Z Adam Stat-Verif >elírás jav.
+豆瓣 豆瓣 [dou4 ban4] /Douban (kínai közösségi háló, elsősorban filmekkel, zenével és kulturális eseményekkel kapcsolatos tartalmak közzétételére)/
 
 # ID-m16BQ9y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
