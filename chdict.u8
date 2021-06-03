@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-06-02T02:00:01Z
+# Időbélyeg / Timestamp: 2021-06-03T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -1447,6 +1447,8 @@
 
 # ID-a30bY6u
 # Ver 2021-04-09T14:54:04Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+# 所羅門群島 所罗门群岛 [suo3 luo2 men2 qun2 dao3] /(földrajzi név) Salamon-szigetek (óceániai ország)/
+# Ver 2021-06-02T20:37:27Z gabor Stat-Verif >.
 所羅門群島 所罗门群岛 [suo3 luo2 men2 qun2 dao3] /(földrajzi név) Salamon-szigetek (óceániai ország)/
 
 # ID-a30kb7n
@@ -6641,7 +6643,11 @@
 # Ver 2021-04-08T22:50:09Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
 # 丹麥 丹麦 [dan1 mai4] /(földrajzi név) Dánia/
 # Ver 2021-04-08T22:50:52Z Adam Stat-New >+ hivatalos forma
-丹麥 丹麦 [dan1 mai4] /(földrajzi név) Dánia (hivatalosan: 丹麦王国)/
+# 丹麥 丹麦 [dan1 mai4] /(földrajzi név) Dánia (hivatalosan: 丹麦王国)/
+# Ver 2021-06-02T20:32:40Z gabor Stat-New >sztem elég; ha mindenképp akaruk 丹麦王国 lehet külön szócikk
+# 丹麥 丹麦 [dan1 mai4] /(földrajzi név) Dánia/
+# Ver 2021-06-02T20:32:42Z gabor Stat-Verif >.
+丹麥 丹麦 [dan1 mai4] /(földrajzi név) Dánia/
 
 # ID-b41fc8a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -7561,6 +7567,8 @@
 # Ver 2021-04-08T21:33:18Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
 # 安提瓜和巴布達 安提瓜和巴布达 [an1 ti2 gua1 he2 ba1 bu4 da2] /Antigua és Barbuda/
 # Ver 2021-04-08T21:33:54Z Adam Stat-New >"(földrajzi név)" beszúrása
+# 安提瓜和巴布達 安提瓜和巴布达 [an1 ti2 gua1 he2 ba1 bu4 da2] /(földrajzi név) Antigua és Barbuda/
+# Ver 2021-06-02T20:25:33Z gabor Stat-Verif >.
 安提瓜和巴布達 安提瓜和巴布达 [an1 ti2 gua1 he2 ba1 bu4 da2] /(földrajzi név) Antigua és Barbuda/
 
 # ID-b61FJ6Z
@@ -8209,6 +8217,8 @@
 # Ver 2021-04-08T22:59:19Z Adam Stat-New >összekapcsolt Wikipedia-szócikkek
 # 澳大利亞洲 澳大利亚洲 [ao4 da4 li4 ya4 zhou1] /(földrajzi név) Ausztrália (mint földrész, beleértve Új-Guinea, Tasmania és az ezeket összekötő kontinentális self területeit is)/
 # Ver 2021-04-08T23:00:18Z Adam Stat-New >rövid alak
+# 澳大利亞洲 澳大利亚洲 [ao4 da4 li4 ya4 zhou1] /(földrajzi név) Ausztrália (mint földrész, beleértve Új-Guinea, Tasmania és az ezeket összekötő kontinentális self területeit is; röviden 澳洲)/
+# Ver 2021-06-02T20:33:44Z gabor Stat-Verif >.
 澳大利亞洲 澳大利亚洲 [ao4 da4 li4 ya4 zhou1] /(földrajzi név) Ausztrália (mint földrész, beleértve Új-Guinea, Tasmania és az ezeket összekötő kontinentális self területeit is; röviden 澳洲)/
 
 # ID-b76cS3i
@@ -8702,6 +8712,8 @@
 
 # ID-b86Az1n
 # Ver 2021-04-08T21:35:49Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+# 布基納法索 布基纳法索 [bu4 ji1 na4 fa3 suo3] /(földrajzi név) Burkina Faso/
+# Ver 2021-06-02T20:26:23Z gabor Stat-Verif >.
 布基納法索 布基纳法索 [bu4 ji1 na4 fa3 suo3] /(földrajzi név) Burkina Faso/
 
 # ID-b86DZ1J
@@ -13476,7 +13488,11 @@
 # Ver 2021-04-06T08:18:16Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
 # 嚴重急性呼吸係統綜合徵冠狀病毒2 严重急性呼吸系统综合征冠状病毒2 [yan2 zhong4 ji2 xing4 hu1 xi1 xi4 tong3 zong1 he2 zheng1 guan1 zhuang4 bing4 du2 2] /súlyos akut légzőszervi szindróma koronavírus 2; SARS-CoV-2 (tajvani névváltozata: 嚴重急性呼吸道症候群冠狀病毒2型)/
 # Ver 2021-04-06T08:25:04Z Adam Stat-New >függőleges vonal szóelemeknél
-嚴重急性呼吸係統綜合徵冠狀病毒2 严重急性呼吸系统综合征冠状病毒2 [yan2 zhong4 ji2 xing4 hu1 xi1 xi4 tong3 zong1 he2 zheng1 guan1 zhuang4 bing4 du2 2] /súlyos akut légző|szervi szindróma korona|vírus 2; SARS-CoV-2 (tajvani névváltozata: 嚴重急性呼吸道症候群冠狀病毒2型)/
+# 嚴重急性呼吸係統綜合徵冠狀病毒2 严重急性呼吸系统综合征冠状病毒2 [yan2 zhong4 ji2 xing4 hu1 xi1 xi4 tong3 zong1 he2 zheng1 guan1 zhuang4 bing4 du2 2] /súlyos akut légző|szervi szindróma korona|vírus 2; SARS-CoV-2 (tajvani névváltozata: 嚴重急性呼吸道症候群冠狀病毒2型)/
+# Ver 2021-06-02T20:17:39Z gabor Stat-New >tajvani változatot felveszem külön szócikként
+# 嚴重急性呼吸係統綜合徵冠狀病毒2 严重急性呼吸系统综合征冠状病毒2 [yan2 zhong4 ji2 xing4 hu1 xi1 xi4 tong3 zong1 he2 zheng1 guan1 zhuang4 bing4 du2 2] /súlyos akut légzőszervi szindróma korona|vírus 2; SARS-CoV-2 (KNK-ban)/
+# Ver 2021-06-02T20:17:44Z gabor Stat-Verif >.
+嚴重急性呼吸係統綜合徵冠狀病毒2 严重急性呼吸系统综合征冠状病毒2 [yan2 zhong4 ji2 xing4 hu1 xi1 xi4 tong3 zong1 he2 zheng1 guan1 zhuang4 bing4 du2 2] /súlyos akut légzőszervi szindróma korona|vírus 2; SARS-CoV-2 (KNK-ban)/
 
 # ID-c89Fo1b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -14699,7 +14715,9 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 在 在 [zai4] /jelen van/van (vhol; elöljárószó hely vagy időpont kifejezésére)/(folyamatban levő cselekvést\történést kifejező segédszó)/
 # Ver 2021-04-02T16:27:35Z Adam Stat-Verif >https://resources.allsetlearning.com/chinese/grammar/Expressing_location_with_%22zai..._shang_/_xia_/_li%22#.E5.9C.A8_.28z.C3.A0i.29_with_Specific_Locations
-在 在 [zai4] /jelen van/(folyamatban levő cselekvést\történést kifejező segédszó)/van (vhol; elöljárószó hely vagy időpont kifejezésére)/(上-keretben) -on\-en\-ön\-n; rajta/(下-keretben) alatt/(里-keretben) -ban\-ben; benne/(旁边-keretben) mellett/
+# 在 在 [zai4] /jelen van/(folyamatban levő cselekvést\történést kifejező segédszó)/van (vhol; elöljárószó hely vagy időpont kifejezésére)/(上-keretben) -on\-en\-ön\-n; rajta/(下-keretben) alatt/(里-keretben) -ban\-ben; benne/(旁边-keretben) mellett/
+# Ver 2021-06-02T20:04:26Z gabor Stat-Verif >visszavettem az eredetire, ez elég tudatos választás volt. az efféle gyakori nyelvtani elemek használata igen sokrétű és összetett, a szótár nem a megfelelő formátum a leírásukra. a meglevő három megfelelő a fő használati köröket jól leírja, a többi már egy jóféle leíró nyelvtanba tartozik.
+在 在 [zai4] /jelen van/van (vhol; elöljárószó hely vagy időpont kifejezésére)/(folyamatban levő cselekvést\történést kifejező segédszó)/
 
 # ID-d14JU6m
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -17358,6 +17376,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2021-04-06T08:19:09Z Adam Stat-New >+ rövid alak
 # 新型冠狀病毒 新型冠状病毒 [xin1 xing2 guan1 zhuang4 bing4 du2] /új típusú koronavírus (beleértve: SARS-CoV-1, SARS-CoV-2, MERS-CoV, HCoV-HKU1; rövid alakban: 新冠)/
 # Ver 2021-04-06T08:24:41Z Adam Stat-New >függőleges vonal szóelemeknél
+# 新型冠狀病毒 新型冠状病毒 [xin1 xing2 guan1 zhuang4 bing4 du2] /új típusú korona|vírus (beleértve: SARS-CoV-1, SARS-CoV-2, MERS-CoV, HCoV-HKU1; rövid alakban: 新冠)/
+# Ver 2021-06-02T20:14:46Z gabor Stat-Verif >.
 新型冠狀病毒 新型冠状病毒 [xin1 xing2 guan1 zhuang4 bing4 du2] /új típusú korona|vírus (beleértve: SARS-CoV-1, SARS-CoV-2, MERS-CoV, HCoV-HKU1; rövid alakban: 新冠)/
 
 # ID-d71fX1T
@@ -17374,6 +17394,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-d71BM0b
 # Ver 2021-04-08T21:37:56Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, két eleme CC-CEDICT által megerősítve
+# 剛果共和國 刚果共和国 [gang1 guo3 gong4 he2 guo2] /(földrajzi név) Kongói Köztársaság/
+# Ver 2021-06-02T20:26:27Z gabor Stat-Verif >.
 剛果共和國 刚果共和国 [gang1 guo3 gong4 he2 guo2] /(földrajzi név) Kongói Köztársaság/
 
 # ID-d71NL0i
@@ -20305,7 +20327,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2021-04-01T13:14:50Z Adam Stat-Verif >a NEC szótár szerint nem ez a biológiai szakszó, inkább science fictionben használatos ilyen jelentésben
 # 變異 变异 [bian4 yi4] /el|tér; el|hajlik (átvitt értelemben)/eltérés; elhajlás/mutáció; változat; variáció/változik; módosul; differenciálódik/
 # Ver 2021-05-31T19:30:00Z gabor Stat-Flagged >check
-變異 变异 [bian4 yi4] /el|tér; el|hajlik (átvitt értelemben)/eltérés; elhajlás/mutáció; változat; variáció/változik; módosul; differenciálódik/
+# Ver 2021-06-02T19:51:13Z gabor Stat-Flagged >tömörebben
+# 變異 变异 [bian4 yi4] /variáció; mutáció/eltérés; elhajlás; átváltozás/
+# Ver 2021-06-02T19:51:16Z gabor Stat-Verif >.
+變異 变异 [bian4 yi4] /variáció; mutáció/eltérés; elhajlás; átváltozás/
 
 # ID-e36KG1y
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -24682,7 +24707,11 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f33SS9z
 # Ver 2021-04-01T23:46:33Z Adam Stat-New >összekapcsolt Wikipedia-szócikkek
-混成詞 混成词 [hun4 cheng2 ci2] /(nyelvészet) szó|összerántás; portmanteau (eltérő jelentésű szavakból, pl. cső + orr > csőr, csatorna + alagút > csalagút)/(nyelvészet) szóalak|vegyülés; szó|vegyülés; szó|keveredés; kontamináció (hasonló jelentésű szavakból, pl. csokor + bokréta > csokréta)/
+# 混成詞 混成词 [hun4 cheng2 ci2] /(nyelvészet) szó|összerántás; portmanteau (eltérő jelentésű szavakból, pl. cső + orr > csőr, csatorna + alagút > csalagút)/(nyelvészet) szóalak|vegyülés; szó|vegyülés; szó|keveredés; kontamináció (hasonló jelentésű szavakból, pl. csokor + bokréta > csokréta)/
+# Ver 2021-06-02T19:58:24Z gabor Stat-New >valóban nagyon specifikus jelentéső nyelvészeti szakszó. a tömörség kedvéért redukálom a legfontosabb megfelelőkre; a fogalom elmagyarázása/szemléltetése már inkább egy enciklopédia küldetése, nem egy szerény szótáré.
+# 混成詞 混成词 [hun4 cheng2 ci2] /szó|összerántás; szó|összevonás; portmanteau (nyelvészetben)/
+# Ver 2021-06-02T19:58:27Z gabor Stat-Verif >.
+混成詞 混成词 [hun4 cheng2 ci2] /szó|összerántás; szó|összevonás; portmanteau (nyelvészetben)/
 
 # ID-f34at6k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -25992,6 +26021,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f59cO0w
 # Ver 2021-04-06T08:24:06Z Adam Stat-New >összekapcsolt Wikipedia-szócikkek
+# 冠狀病毒 冠状病毒 [guan1 zhuang4 bing4 du2] /korona|vírus (számos különböző vírusfajt magában foglaló, az 1960-as évek óta ismert alcsalád)/
+# Ver 2021-06-02T20:14:23Z gabor Stat-Verif >.
 冠狀病毒 冠状病毒 [guan1 zhuang4 bing4 du2] /korona|vírus (számos különböző vírusfajt magában foglaló, az 1960-as évek óta ismert alcsalád)/
 
 # ID-f59jv3w
@@ -27761,7 +27792,11 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f98kG9P
 # Ver 2021-04-09T19:37:39Z GaoYanuo Stat-New >HSK4 tk, szokásos szótárak megerősítik.
-月底 月底 [yue4 di3] /hónap vége; hóvége/
+# 月底 月底 [yue4 di3] /hónap vége; hóvége/
+# Ver 2021-06-02T20:38:15Z gabor Stat-New >.
+# 月底 月底 [yue4 di3] /hónap vége; hó vége/
+# Ver 2021-06-02T20:38:17Z gabor Stat-Verif >.
+月底 月底 [yue4 di3] /hónap vége; hó vége/
 
 # ID-f98lg5m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -29234,7 +29269,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 澳大利亞 澳大利亚 [ao4 da4 li4 ya4] /(földrajzi név) Ausztrália/
 # Ver 2021-04-08T22:51:26Z Adam Stat-Verif >+ hivatalos forma
-澳大利亞 澳大利亚 [ao4 da4 li4 ya4] /(földrajzi név) Ausztrália (hivatalosan: 澳大利亚联邦)/
+# 澳大利亞 澳大利亚 [ao4 da4 li4 ya4] /(földrajzi név) Ausztrália (hivatalosan: 澳大利亚联邦)/
+# Ver 2021-06-02T20:33:04Z gabor Stat-Verif >elég így; 澳大利亚联邦 lehet külön szócikk
+澳大利亞 澳大利亚 [ao4 da4 li4 ya4] /(földrajzi név) Ausztrália/
 
 # ID-g28pG7A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -30877,6 +30914,8 @@ X X [X] /X/
 
 # ID-g61LJ3C
 # Ver 2021-04-08T22:19:23Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+# 烏克蘭 乌克兰 [wu1 ke4 lan2] /(földrajzi név) Ukrajna/
+# Ver 2021-06-02T20:28:04Z gabor Stat-Verif >.
 烏克蘭 乌克兰 [wu1 ke4 lan2] /(földrajzi név) Ukrajna/
 
 # ID-g61Ml6Q
@@ -32882,7 +32921,11 @@ X X [X] /X/
 
 # ID-h04sV2E
 # Ver 2021-04-08T23:13:14Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
-奧地利 奥地利 [ao4 di4 li4] /(földrajzi név) Ausztria (hivatalosan: 奥地利共和国)/
+# 奧地利 奥地利 [ao4 di4 li4] /(földrajzi név) Ausztria (hivatalosan: 奥地利共和国)/
+# Ver 2021-06-02T20:35:27Z gabor Stat-New >elég; 奥地利共和国 lehet külön szócikk
+# 奧地利 奥地利 [ao4 di4 li4] /(földrajzi név) Ausztria/
+# Ver 2021-06-02T20:35:30Z gabor Stat-Verif >.
+奧地利 奥地利 [ao4 di4 li4] /(földrajzi név) Ausztria/
 
 # ID-h04un3o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -33422,7 +33465,11 @@ X X [X] /X/
 # Ver 2021-04-09T14:57:32Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
 # 阿布哈茲 阿布哈兹 [a1 bu4 ha1 zi1] /(földrajzi név) Abházia (tisztázatlan státuszú terület a Kaukázusban; a legtöbb állam Grúzia részének tekinti)/
 # Ver 2021-04-09T14:58:07Z Adam Stat-New >+ hivatalos név a zárójeles részbe
-阿布哈茲 阿布哈兹 [a1 bu4 ha1 zi1] /(földrajzi név) Abházia (hivatalosan: 阿布哈兹共和国; tisztázatlan státuszú terület a Kaukázusban; a legtöbb állam Grúzia részének tekinti)/
+# 阿布哈茲 阿布哈兹 [a1 bu4 ha1 zi1] /(földrajzi név) Abházia (hivatalosan: 阿布哈兹共和国; tisztázatlan státuszú terület a Kaukázusban; a legtöbb állam Grúzia részének tekinti)/
+# Ver 2021-06-02T20:37:49Z gabor Stat-New >elég sztem
+# 阿布哈茲 阿布哈兹 [a1 bu4 ha1 zi1] /(földrajzi név) Abházia/
+# Ver 2021-06-02T20:37:52Z gabor Stat-Verif >.
+阿布哈茲 阿布哈兹 [a1 bu4 ha1 zi1] /(földrajzi név) Abházia/
 
 # ID-h17zX2u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -35322,7 +35369,9 @@ X X [X] /X/
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 # 共和 共和 [gong4 he2] /köztársaság/
 # Ver 2021-04-08T22:28:29Z Adam Stat-Verif >pontosítás CC-CEDICT és Wiktionary (főként a példái) alapján
-共和 共和 [gong4 he2] /köztársaság (elvont értelemben)/köztársaság-pártiság; republikanizmus/
+# 共和 共和 [gong4 he2] /köztársaság (elvont értelemben)/köztársaság-pártiság; republikanizmus/
+# Ver 2021-06-02T20:31:49Z gabor Stat-Verif >.
+共和 共和 [gong4 he2] /köztársaság/köztársaság-pártiság; republikanizmus/
 
 # ID-h63qN3T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -36804,7 +36853,9 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 無 无 [wu2] /nincs (nem létezik; nem rendelkezik vmivel)/nélküli/nem (előtag értelmében, vmivel nem rendelkező)/
 # Ver 2021-04-08T23:21:07Z Adam Stat-Verif >gyakran a fosztóképző felel meg neki magyarul leginkább
-無 无 [wu2] /nincs (nem létezik; nem rendelkezik vmivel)/nem (előtag értelmében, vmivel nem rendelkező)/nélküli/-talan\-telen; -tlan\-tlen; -atlan\-etlen/
+# 無 无 [wu2] /nincs (nem létezik; nem rendelkezik vmivel)/nem (előtag értelmében, vmivel nem rendelkező)/nélküli/-talan\-telen; -tlan\-tlen; -atlan\-etlen/
+# Ver 2021-06-02T20:36:57Z gabor Stat-Verif >jó kiegészítés, egyetértek! csak egyet hagyok meg, mert elég magyarázóereje van, cserébe egyszerűbb a szócikk.
+無 无 [wu2] /nincs (nem létezik; nem rendelkezik vmivel)/nem (előtag értelmében, vmivel nem rendelkező)/nélküli/-talan\-telen/
 
 # ID-h93Io1h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -40645,6 +40696,8 @@ X X [X] /X/
 
 # ID-i75ny0z
 # Ver 2021-04-08T21:40:18Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+# 格魯吉亞 格鲁吉亚 [ge2 lu3 ji2 ya4] /(földrajzi név) Grúzia/
+# Ver 2021-06-02T20:26:34Z gabor Stat-Verif >.
 格魯吉亞 格鲁吉亚 [ge2 lu3 ji2 ya4] /(földrajzi név) Grúzia/
 
 # ID-i75rI4L
@@ -40839,6 +40892,8 @@ X X [X] /X/
 
 # ID-i79CS2p
 # Ver 2021-04-03T16:54:47Z Adam Stat-New >Wiktionary ("postposition")
+# 後置詞 后置词 [hou4 zhi4 ci2] /névutó/
+# Ver 2021-06-02T20:13:34Z gabor Stat-Verif >.
 後置詞 后置词 [hou4 zhi4 ci2] /névutó/
 
 # ID-i79Ia8C
@@ -43512,6 +43567,8 @@ X X [X] /X/
 
 # ID-j37mF9W
 # Ver 2021-04-09T14:51:57Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+# 聖文森特和格林納丁斯 圣文森特和格林纳丁斯 [sheng4 wen2 sen1 te4 he2 ge2 lin2 na4 ding1 si1] /(földrajzi név) Saint Vincent és a Grenadine-szigetek (közép-amerikai ország)/
+# Ver 2021-06-02T20:37:21Z gabor Stat-Verif >.
 聖文森特和格林納丁斯 圣文森特和格林纳丁斯 [sheng4 wen2 sen1 te4 he2 ge2 lin2 na4 ding1 si1] /(földrajzi név) Saint Vincent és a Grenadine-szigetek (közép-amerikai ország)/
 
 # ID-j37pJ0u
@@ -45167,6 +45224,8 @@ X X [X] /X/
 # Ver 2021-04-08T22:31:34Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
 # 圖瓦盧 图瓦卢 [tu2 wa3 lu2] /(földrajzi név) Tuvalu/
 # Ver 2021-04-09T14:54:57Z Adam Stat-New >zárójeles magyarázat
+# 圖瓦盧 图瓦卢 [tu2 wa3 lu2] /(földrajzi név) Tuvalu (óceániai ország)/
+# Ver 2021-06-02T20:37:33Z gabor Stat-Verif >.
 圖瓦盧 图瓦卢 [tu2 wa3 lu2] /(földrajzi név) Tuvalu (óceániai ország)/
 
 # ID-j74aY5Y
@@ -46490,6 +46549,8 @@ X X [X] /X/
 
 # ID-k01FZ7t
 # Ver 2021-04-08T22:21:17Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+# 新西蘭 新西兰 [xin1 xi1 lan2] /(földrajzi név) Új-Zéland/
+# Ver 2021-06-02T20:27:43Z gabor Stat-Verif >.
 新西蘭 新西兰 [xin1 xi1 lan2] /(földrajzi név) Új-Zéland/
 
 # ID-k01Mb3d
@@ -49086,6 +49147,8 @@ X X [X] /X/
 # Ver 2021-03-29T09:51:50Z Adam Stat-New >Pleco-szótárak
 # 順風 顺风 [shun4 feng1] /hátszél; kedvező szél/jó szerencse/
 # Ver 2021-03-29T09:54:20Z Adam Stat-New >|
+# 順風 顺风 [shun4 feng1] /hát|szél; kedvező szél/jó szerencse/
+# Ver 2021-06-02T19:52:14Z gabor Stat-Verif >.
 順風 顺风 [shun4 feng1] /hát|szél; kedvező szél/jó szerencse/
 
 # ID-k55Sz3o
@@ -49754,7 +49817,10 @@ X X [X] /X/
 # Ver 2021-04-08T22:12:28Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve – KIVÉVE a második karaktert, amelynek hagyományos írásmóddal is 克-nek kéne lennie, de a szoftver nem teszi lehetővé (a 剋 az MDBG szerint csak négy összetételben fordul elő, mindenütt máshol 克, köztük számtalan átírásban)
 # 密剋羅尼西亞聯邦 密克罗尼西亚联邦 [mi4 ke4 luo2 ni2 xi1 ya4 lian2 bang1] /(földrajzi név) Mikronéziai Szövetségi Államok; Mikronézia (óceániai ország; négy szövetségi állam föderációja)/
 # Ver 2021-04-08T22:13:15Z Adam Stat-Flagged >a második karakternek hagyományos írásmóddal is 克-nek kéne lennie, de a szoftver nem teszi lehetővé (a 剋 az MDBG szerint csak négy összetételben fordul elő, mindenütt máshol 克, köztük számtalan átírásban)
-密剋羅尼西亞聯邦 密克罗尼西亚联邦 [mi4 ke4 luo2 ni2 xi1 ya4 lian2 bang1] /(földrajzi név) Mikronéziai Szövetségi Államok; Mikronézia (óceániai ország; négy szövetségi állam föderációja)/
+# Ver 2021-06-02T20:29:34Z gabor Stat-Flagged >jav 2. írásjegy hagyományosban\nelég az államforma megnevezése nélkül, az már összerakható innentől
+# 密克羅尼西亞 密克罗尼西亚 [mi4 ke4 luo2 ni2 xi1 ya4] /(földrajzi név) Mikronézia (óceániai ország)/
+# Ver 2021-06-02T20:29:48Z gabor Stat-Verif >.
+密克羅尼西亞 密克罗尼西亚 [mi4 ke4 luo2 ni2 xi1 ya4] /(földrajzi név) Mikronézia (óceániai ország)/
 
 # ID-k70aA0h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -49968,6 +50034,8 @@ X X [X] /X/
 
 # ID-k74Ls8n
 # Ver 2021-04-06T20:32:13Z Adam Stat-New >Pleco-szótárak "flock of sheep" alatt
+# 羊群 羊群 [yang2 qun2] /juh|nyáj; birka|nyáj/
+# Ver 2021-06-02T20:25:20Z gabor Stat-Verif >.
 羊群 羊群 [yang2 qun2] /juh|nyáj; birka|nyáj/
 
 # ID-k74QN6R
@@ -50390,6 +50458,8 @@ X X [X] /X/
 
 # ID-k84fW6e
 # Ver 2021-04-08T22:32:44Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+# 土庫曼斯坦 土库曼斯坦 [tu3 ku4 man4 si1 tan3] /(földrajzi név) Türkmenisztán/
+# Ver 2021-06-02T20:31:57Z gabor Stat-Verif >.
 土庫曼斯坦 土库曼斯坦 [tu3 ku4 man4 si1 tan3] /(földrajzi név) Türkmenisztán/
 
 # ID-k84le8Z
@@ -54018,7 +54088,9 @@ X X [X] /X/
 # Ver 2021-04-02T12:21:54Z Adam Stat-Verif >.
 # 對 对 [dui4] /szembe|fordul/szemközt (vmivel)/felé/(főnév\névmás + 来说 előtt) számára; illetően; vonatkozólag; szempontjából/össze|illeszt/össze|vet/igazít/válaszol/felel/megfelelő/egyezik/helyes/igaz/(számlálószó) pár (két összetartozó darab)/
 # Ver 2021-04-02T16:28:14Z Adam Stat-Verif >tömörebb komment
-對 对 [dui4] /szembe|fordul/szemközt (vmivel)/felé/(来说-keretben) számára; illetően; vonatkozólag; szempontjából/össze|illeszt/össze|vet/igazít/válaszol/felel/megfelelő/egyezik/helyes/igaz/(számlálószó) pár (két összetartozó darab)/
+# 對 对 [dui4] /szembe|fordul/szemközt (vmivel)/felé/(来说-keretben) számára; illetően; vonatkozólag; szempontjából/össze|illeszt/össze|vet/igazít/válaszol/felel/megfelelő/egyezik/helyes/igaz/(számlálószó) pár (két összetartozó darab)/
+# Ver 2021-06-02T20:11:10Z gabor Stat-Verif >visszavettem az eredetire, alapvetően ld. 在 alatti komment. illetve nincs igazán jó jelölésmód a szótárban a nem összefüggő szerkezetek leírására, ezért ezeket inkább elegánsan mindenestől elkerülöm.\n\nez egy elég izgalmas kérdés, így felvettem hozzá egy külön issue-t: https://github.com/gugray/CHDICT/issues/3
+對 对 [dui4] /szembe|fordul/szemközt (vmivel)/felé/össze|illeszt/össze|vet/igazít/válaszol/felel/megfelelő/egyezik/helyes/igaz/(számlálószó) pár (két összetartozó darab)/
 
 # ID-l55SI7W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -54461,6 +54533,8 @@ X X [X] /X/
 
 # ID-l66VN2p
 # Ver 2021-04-08T21:39:03Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+# 剛果民主共和國 刚果民主共和国 [gang1 guo3 min2 zhu3 gong4 he2 guo2] /(földrajzi név) Kongói Demokratikus Köztársaság/
+# Ver 2021-06-02T20:26:31Z gabor Stat-Verif >.
 剛果民主共和國 刚果民主共和国 [gang1 guo3 min2 zhu3 gong4 he2 guo2] /(földrajzi név) Kongói Demokratikus Köztársaság/
 
 # ID-l67bW2h
@@ -55553,6 +55627,12 @@ X X [X] /X/
 # ID-l91bL5m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 或許 或许 [huo4 xu3] /talán/esetleg/
+
+# ID-l91fy5Y
+# Ver 2021-06-02T20:21:43Z gabor Stat-New >严重急性呼吸系统综合征冠状病毒2 alapján
+# 嚴重急性呼吸道癥候群冠狀病毒型 严重急性呼吸道症候群冠状病毒型 [yan2 zhong4 ji2 xing4 hu1 xi1 dao4 zheng1 hou4 qun2 guan1 zhuang4 bing4 du2 xing2] /súlyos akut légzőszervi szindróma koronavírus 2; SARS-CoV-2 (Tajvanban)/
+# Ver 2021-06-02T20:24:23Z gabor Stat-Flagged >törölni: túl hosszú címszó\nvége helyes: 2型
+嚴重急性呼吸道癥候群冠狀病毒型 严重急性呼吸道症候群冠状病毒型 [yan2 zhong4 ji2 xing4 hu1 xi1 dao4 zheng1 hou4 qun2 guan1 zhuang4 bing4 du2 xing2] /súlyos akut légzőszervi szindróma koronavírus 2; SARS-CoV-2 (Tajvanban)/
 
 # ID-l91oe9H
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -59281,6 +59361,8 @@ XX XX [x x] /x/
 
 # ID-m67Ub0c
 # Ver 2021-04-03T16:57:57Z Adam Stat-New >https://zh.wikipedia.org/zh-cn/%E4%BB%8B%E8%A9%9E
+# 後置介詞 后置介词 [hou4 zhi4 jie4 ci2] /névutó/
+# Ver 2021-06-02T20:13:50Z gabor Stat-Verif >.
 後置介詞 后置介词 [hou4 zhi4 jie4 ci2] /névutó/
 
 # ID-m68ao8R
@@ -59977,6 +60059,8 @@ XX XX [x x] /x/
 
 # ID-m82cl5t
 # Ver 2021-04-08T22:22:02Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+# 羅馬尼亞 罗马尼亚 [luo2 ma3 ni2 ya4] /(földrajzi név) Románia/
+# Ver 2021-06-02T20:30:50Z gabor Stat-Verif >.
 羅馬尼亞 罗马尼亚 [luo2 ma3 ni2 ya4] /(földrajzi név) Románia/
 
 # ID-m82cA5I
@@ -60053,6 +60137,8 @@ XX XX [x x] /x/
 
 # ID-m83GH1w
 # Ver 2021-04-08T23:17:12Z Adam Stat-New >CC-CEDICT
+# 奧匈帝國 奥匈帝国 [ao4 xiong1 di4 guo2] /(földrajzi név) Osztrák–Magyar Monarchia (1867–1918)/
+# Ver 2021-06-02T20:35:37Z gabor Stat-Verif >.
 奧匈帝國 奥匈帝国 [ao4 xiong1 di4 guo2] /(földrajzi név) Osztrák–Magyar Monarchia (1867–1918)/
 
 # ID-m83QX4V
@@ -67589,7 +67675,11 @@ XX XX [x x] /x/
 # Ver 2021-04-02T12:29:44Z Adam Stat-New >Pleco-szótárak és -példamondatok
 # 在一起 在一起 [zai4 yi1 qi3] /össze-; egybe-/együtt/együtt van; össze|jön; össze|gyűlik/össze|kapcsolódik; össze|függ/
 # Ver 2021-04-02T12:31:15Z Adam Stat-New >az "össze-" jelentésre nem lehet keresni, ha a kötőjel után pontosvessző van, kénytelen vagyok külön jelentésbe tenni
-在一起 在一起 [zai4 yi1 qi3] /össze-/egybe-/együtt/együtt van; össze|jön; össze|gyűlik/össze|kapcsolódik; össze|függ/
+# 在一起 在一起 [zai4 yi1 qi3] /össze-/egybe-/együtt/együtt van; össze|jön; össze|gyűlik/össze|kapcsolódik; össze|függ/
+# Ver 2021-06-02T20:01:12Z gabor Stat-New >ez konkrétan annyit jelent, hogy "együtt van"; minden egyéb színárnyalat teljesen természetes módon ebből adódik. én arról sem vagyok egészen meggyőződve, hogy egyáltalán szótárban való címszó. redukáltam.
+# 在一起 在一起 [zai4 yi1 qi3] /együtt van/
+# Ver 2021-06-02T20:01:15Z gabor Stat-Verif >.
+在一起 在一起 [zai4 yi1 qi3] /együtt van/
 
 # ID-o48QV0J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -67871,6 +67961,8 @@ XX XX [x x] /x/
 
 # ID-o55gx2w
 # Ver 2021-04-09T14:50:26Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+# 聖盧西亞 圣卢西亚 [sheng4 lu2 xi1 ya4] /(földrajzi név)  Saint Lucia (közép-amerikai szigetország)/
+# Ver 2021-06-02T20:37:09Z gabor Stat-Verif >.
 聖盧西亞 圣卢西亚 [sheng4 lu2 xi1 ya4] /(földrajzi név)  Saint Lucia (közép-amerikai szigetország)/
 
 # ID-o55hY9s
@@ -69241,6 +69333,8 @@ XX XX [x x] /x/
 
 # ID-o84VU5L
 # Ver 2021-04-08T21:41:59Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
+# 格林納達 格林纳达 [ge2 lin2 na4 da2] /(földrajzi név) Grenada (közép-amerikai ország)/
+# Ver 2021-06-02T20:26:40Z gabor Stat-Verif >.
 格林納達 格林纳达 [ge2 lin2 na4 da2] /(földrajzi név) Grenada (közép-amerikai ország)/
 
 # ID-o84YE3Q
