@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-06-12T02:00:01Z
+# Időbélyeg / Timestamp: 2021-06-14T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -28283,6 +28283,12 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 擴張 扩张 [kuo4 zhang1] /bővít/ki|terjeszt/tágul/tágulás/
 
+# ID-g01AX2u
+# Ver 2021-06-13T18:51:50Z gabor Stat-New >GushiGM E511
+# 利落 利落 [li4 luo5] /ügyes; fürge/tiszta; rendezett/sima (ügy)/
+# Ver 2021-06-13T18:55:32Z gabor Stat-Verif >.
+利落 利落 [li4 luo5] /ügyes; fürge/tiszta; rendezett/sima (ügy)/
+
 # ID-g01Bx9X
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 久仰大名 久仰大名 [jiu3 yang3 da4 ming2] /nagy megtiszteltetés; sokat hallottam magáról (illedelmességi formula találkozáskor)/
@@ -30578,6 +30584,12 @@ X X [X] /X/
 # ID-g50eE3g
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 羅盤度 罗盘度 [luo2 pan2 du4] /rulett/
+
+# ID-g50jW2S
+# Ver 2021-06-13T18:55:25Z gabor Stat-New >GushiFM E511
+# 大姨媽 大姨妈 [da4 yi2 ma1] /(szleng) menstruáció; Mikulás/
+# Ver 2021-06-13T18:55:45Z gabor Stat-Verif >.
+大姨媽 大姨妈 [da4 yi2 ma1] /(szleng) menstruáció; Mikulás/
 
 # ID-g50tP0k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -56796,6 +56808,14 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 毒素 毒素 [du2 su4] /méreg/toxin/
 
+# ID-m04ty8E
+# Ver 2021-06-13T19:10:00Z gabor Stat-New >GushiFM E511, CEDICT
+# 哦 哦 [e2] /(mondatvégi partikula: közvetlenséget, melegséget, intimitást fejez ki, illetve jelezheti a másik számára új információ közlését)/
+# Ver 2021-06-13T19:10:29Z gabor Stat-New >helyesbítés CEDICT-ben elsőre nem szereplő olvasatra
+# 哦 哦 [o5] /(mondatvégi partikula: közvetlenséget, melegséget, intimitást fejez ki, illetve jelezheti a másik számára új információ közlését)/
+# Ver 2021-06-13T19:10:37Z gabor Stat-Verif >.
+哦 哦 [o5] /(mondatvégi partikula: közvetlenséget, melegséget, intimitást fejez ki, illetve jelezheti a másik számára új információ közlését)/
+
 # ID-m04vC5D
 # Ver 2021-04-13T18:12:11Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
 # 南奧塞梯 南奥塞梯 [nan2 ao4 sai1 ti1] /(földrajzi név) Dél-Oszétia (de facto állam a Kaukázusban; hivatalosan: 南奥塞梯共和国)/
@@ -68902,6 +68922,12 @@ XX XX [x x] /x/
 # 幾內亞 几内亚 [ji1 nei4 ya4] /(földrajzi név) Guinea/
 # Ver 2021-06-11T18:37:07Z gabor Stat-Verif >.
 幾內亞 几内亚 [ji1 nei4 ya4] /(földrajzi név) Guinea/
+
+# ID-o58VS6R
+# Ver 2021-06-13T18:52:38Z gabor Stat-New >GushiFM E511
+# 床墊 床垫 [chuang2 dian4] /matrac/
+# Ver 2021-06-13T18:55:38Z gabor Stat-Verif >.
+床墊 床垫 [chuang2 dian4] /matrac/
 
 # ID-o58XB2j
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
