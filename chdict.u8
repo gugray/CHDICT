@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-06-14T02:00:01Z
+# Időbélyeg / Timestamp: 2021-06-15T02:00:02Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -3730,6 +3730,12 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 高大 高大 [gao1 da4] /magas/hatalmas/óriási/
 
+# ID-a76xP3P
+# Ver 2021-06-14T09:58:36Z gabor Stat-New >GushiFM E511
+# 慪氣 怄气 [ou4 qi4] /duzzog; haragszik/
+# Ver 2021-06-14T11:37:13Z gabor Stat-Verif >.
+慪氣 怄气 [ou4 qi4] /duzzog; haragszik/
+
 # ID-a76Cc9S
 # Ver 2021-04-10T22:34:36Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
 # 馬耳他 马耳他 [ma3 er3 ta1] /(földrajzi név) Málta (hivatalosan: 马耳他共和国)/
@@ -5859,6 +5865,12 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 老婆 老婆 [lao3 po2] /feleség (köznyelvi)/
 
+# ID-b20zi7k
+# Ver 2021-06-14T12:06:57Z gabor Stat-New >GushiFM E511
+# 肚腩 肚腩 [du4 nan3] /pocak/
+# Ver 2021-06-14T12:21:59Z gabor Stat-Verif >.
+肚腩 肚腩 [du4 nan3] /pocak/
+
 # ID-b20PD5Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 抗體 抗体 [kang4 ti3] /anti|test/ellen|anyag/
@@ -6313,6 +6325,10 @@
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 流民 流民 [liu2 min2] /menekültek/
 
+# ID-b31PF4Y
+# Ver 2021-06-14T12:28:12Z gabor Stat-New >GushiFM E511
+不了 不了 [bu4 liao3] /képtelen; nem lehet; szüntelen (ige után, mintegy eredménykiegészítőként)/
+
 # ID-b31RH5Z
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 夜色 夜色 [ye4 se4] /éji homály/éjszaka; éj/
@@ -6667,6 +6683,10 @@
 # ID-b39Kl8t
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 電容器 电容器 [dian4 rong2 qi4] /kondenzátor (elektronikában)/
+
+# ID-b39Of0h
+# Ver 2021-06-14T12:26:01Z gabor Stat-New >GushiFM E511
+割捨 割舍 [ge1 she3] /el|hagy; megválik (vmitől)/
 
 # ID-b39QQ9R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -13691,6 +13711,12 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 白 白 [bai2] /fehér/tiszta/világos/(családnév) Bai/
 
+# ID-c90vs5T
+# Ver 2021-06-14T11:11:26Z gabor Stat-New >GushiFM E511
+# 欄杆 栏杆 [lan2 gan1] /korlát/
+# Ver 2021-06-14T11:36:26Z gabor Stat-Verif >.
+欄杆 栏杆 [lan2 gan1] /korlát/
+
 # ID-c90Fx9f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 胖 胖 [pang4] /kövér/
@@ -14104,6 +14130,10 @@
 # ID-c98fZ8d
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 頭皮 头皮 [tou2 pi2] /fej|bőr/skalp/
+
+# ID-c98ha3q
+# Ver 2021-06-14T12:40:55Z gabor Stat-New >GushiFM E511
+民宿 民宿 [min2 su4] /fogadó/
 
 # ID-c98nC9l
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -16070,6 +16100,12 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 節 节 [jie2] /ünnep/fesztivál/szakasz; fejezet; rész/SZ:個|个[ge4]/(számlálószó: részeké, pl. lecke, vagon, bibliai vers)/
 
+# ID-d40Al7m
+# Ver 2021-06-14T10:32:12Z gabor Stat-New >GushiFM E511
+# 精神支柱 精神支柱 [jing1 shen2 zhi1 zhu4] /lelki támasz; erkölcsi támasz/
+# Ver 2021-06-14T11:37:03Z gabor Stat-Verif >.
+精神支柱 精神支柱 [jing1 shen2 zhi1 zhu4] /lelki támasz; erkölcsi támasz/
+
 # ID-d40FB4F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 嚇 吓 [xia4] /meg|ijeszt/meg|félemlít/
@@ -16645,6 +16681,12 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-d53kl2y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 餛飩 馄饨 [hun2 tun2] /wonton/húsgombóc|leves/
+
+# ID-d53lA3j
+# Ver 2021-06-14T10:54:52Z gabor Stat-New >GushiFM E511
+# 公安 公安 [gong1 an1] /köz|biztonság/
+# Ver 2021-06-14T11:36:41Z gabor Stat-Verif >.
+公安 公安 [gong1 an1] /köz|biztonság/
 
 # ID-d53ox3X
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -18303,6 +18345,12 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-d87dh2H
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 突擊隊 突击队 [tu1 ji1 dui4] /kommandó/roham|osztag/
+
+# ID-d87mb4a
+# Ver 2021-06-14T11:00:45Z gabor Stat-New >GushiFM E511
+# 帶路 带路 [dai4 lu4] /vezet; mutatja az utat/
+# Ver 2021-06-14T11:36:38Z gabor Stat-Verif >.
+帶路 带路 [dai4 lu4] /vezet; mutatja az utat/
 
 # ID-d87rd7K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -20249,6 +20297,12 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # 色狼 色狼 [se4 lang2] /perverz ember/
 # Ver 2019-11-26T12:53:29Z gabor Stat-Verif >.
 色狼 色狼 [se4 lang2] /perverz ember/
+
+# ID-e29mR7a
+# Ver 2021-06-14T11:16:01Z gabor Stat-New >GushiFM E511
+# 鐵窗 铁窗 [tie3 chuang1] /rácsos ablak/
+# Ver 2021-06-14T11:36:22Z gabor Stat-Verif >.
+鐵窗 铁窗 [tie3 chuang1] /rácsos ablak/
 
 # ID-e29sl1M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -22596,6 +22650,12 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 中部 中部 [zhong1 bu4] /központi régió/középső rész/
 
+# ID-e80kl3v
+# Ver 2021-06-14T09:54:26Z gabor Stat-New >首饰 okán; GushiFM E511
+# 飾 饰 [shi4] /dísz; ék; díszít/el|rejt/játszik (szerepet)/
+# Ver 2021-06-14T09:54:39Z gabor Stat-Verif >.
+飾 饰 [shi4] /dísz; ék; díszít/el|rejt/játszik (szerepet)/
+
 # ID-e80kC4O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 郵件 邮件 [you2 jian4] /küldemény/levél/
@@ -24059,6 +24119,12 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 大漢 大汉 [da4 han4] /nagy|darab ember/a nagy Han nemzetség/
 
+# ID-f14am8s
+# Ver 2021-06-14T12:10:08Z gabor Stat-New >GushiFM E511
+# 休閒鞋 休闲鞋 [xiu1 xian2 xie2] /sport|cipő; torna|cipő/
+# Ver 2021-06-14T12:22:02Z gabor Stat-Verif >.
+休閒鞋 休闲鞋 [xiu1 xian2 xie2] /sport|cipő; torna|cipő/
+
 # ID-f14rN9v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 出去 出去 [chu1 qu4] /ki|megy/
@@ -24420,6 +24486,12 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f21yb2b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 凶暴 凶暴 [xiong1 bao4] /brutális/vad és kegyetlen/
+
+# ID-f21yd4N
+# Ver 2021-06-14T10:38:23Z gabor Stat-New >GushiFM E511
+# 看守所 看守所 [kan4 shou3 suo3] /fogda/
+# Ver 2021-06-14T11:36:56Z gabor Stat-Verif >.
+看守所 看守所 [kan4 shou3 suo3] /fogda/
 
 # ID-f21Ax9F
 # Ver 2017-05-22T02:23:48Z Adam Stat-New >CEDICT
@@ -26950,6 +27022,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 社工 社工 [she4 gong1] /szociális munkás/
 
+# ID-f73zu7u
+# Ver 2021-06-14T12:36:19Z gabor Stat-New >和睦 okán
+睦 睦 [mu4] /harmonikus/
+
 # ID-f73Fc4d
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 氣動 气动 [qi4 dong4] /pneumatikus/
@@ -27527,6 +27603,12 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # 感恩節 感恩节 [gan3 en1 jie2] /Hálaadás; Thanksgiving (amerikai ünnep)/
 # Ver 2017-05-27T19:48:41Z Adam Stat-Verif >események, ünnepek nevét nem kell nagybetűvel írni magyarul
 感恩節 感恩节 [gan3 en1 jie2] /hálaadás; thanksgiving (amerikai ünnep)/
+
+# ID-f85yH6A
+# Ver 2021-06-14T11:09:20Z gabor Stat-New >GushiFM E511
+# 有戲 有戏 [you3 xi4] /alakul; rendben van; reményteli/
+# Ver 2021-06-14T11:36:29Z gabor Stat-Verif >.
+有戲 有戏 [you3 xi4] /alakul; rendben van; reményteli/
 
 # ID-f85zk6C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -28661,6 +28743,12 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 高壓電 高压电 [gao1 ya1 dian4] /magas feszültség/
 
+# ID-g09ln4c
+# Ver 2021-06-14T11:34:37Z gabor Stat-New >落魄 okán
+# 魄 魄 [po4] /lélek/élet|erő/
+# Ver 2021-06-14T11:36:11Z gabor Stat-Verif >.
+魄 魄 [po4] /lélek/élet|erő/
+
 # ID-g09mH9Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 分辨 分辨 [fen1 bian4] /meg|különböztet/
@@ -29455,6 +29543,12 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-g25Io3e
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 難處 难处 [nan2 chu5] /nehézség; gond; baj/
+
+# ID-g25MA0S
+# Ver 2021-06-14T10:40:36Z gabor Stat-New >GushiFM E511
+# 異地 异地 [yi4 di4] /messzi föld; más hely/
+# Ver 2021-06-14T11:36:52Z gabor Stat-Verif >.
+異地 异地 [yi4 di4] /messzi föld; más hely/
 
 # ID-g25Sn3f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -33143,6 +33237,12 @@ X X [X] /X/
 # ID-h01TE2h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 腰 腰 [yao1] /derék (testrész)/csípő/ágyék/zseb/középső/
+
+# ID-h02fM2f
+# Ver 2021-06-14T10:37:09Z gabor Stat-New >GushiFM E511
+# 高昂 高昂 [gao1 ang2] /magasra emel (fejét)/drága; magas/emelkedett/
+# Ver 2021-06-14T11:37:00Z gabor Stat-Verif >.
+高昂 高昂 [gao1 ang2] /magasra emel (fejét)/drága; magas/emelkedett/
 
 # ID-h02hU7F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -38725,6 +38825,18 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 清醒 清醒 [qing1 xing3] /józan/ébren van/magához tér/
 
+# ID-i24gx0b
+# Ver 2021-06-14T10:43:48Z gabor Stat-New >GushiFM E511
+# 迷茫 迷茫 [mi2 mang2] /nagy és homályos/össze|zavarodott/
+# Ver 2021-06-14T10:45:29Z gabor Stat-New >kieg
+# 迷茫 迷茫 [mi2 mang2] /nagy és homályos/össze|zavarodott; elveszett/
+# Ver 2021-06-14T11:36:45Z gabor Stat-Verif >.
+迷茫 迷茫 [mi2 mang2] /nagy és homályos/össze|zavarodott; elveszett/
+
+# ID-i24gx0P
+# Ver 2021-06-14T12:29:17Z gabor Stat-New >GushiFM E511
+落難 落难 [luo4 nan4] /balszerencse éri; szorult helyzetbe kerül/
+
 # ID-i24jR2n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 大肆 大肆 [da4 si4] /féktelenül/
@@ -38997,6 +39109,10 @@ X X [X] /X/
 # ID-i30qP3q
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 多言 多言 [duo1 yan2] /beszédes/
+
+# ID-i30sQ7H
+# Ver 2021-06-14T12:31:25Z gabor Stat-New >GushiFM E511
+分割 分割 [fen1 ge1] /el|választ; szét|választ; ketté|szakad/
 
 # ID-i30Fj8V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -40335,6 +40451,12 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 樂譜 乐谱 [yue4 pu3] /kotta/
 
+# ID-i58An3y
+# Ver 2021-06-14T11:05:26Z gabor Stat-New >GushiFM E511
+# 所長 所长 [suo3 zhang3] /intézmény|vezető/
+# Ver 2021-06-14T11:36:35Z gabor Stat-Verif >.
+所長 所长 [suo3 zhang3] /intézmény|vezető/
+
 # ID-i58AG1h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 固然 固然 [gu4 ran2] /kétségtelen, hogy/igaz, hogy/bevallottan/
@@ -40638,6 +40760,12 @@ X X [X] /X/
 # ID-i65fP9f
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 校車 校车 [xiao4 che1] /iskola|busz/
+
+# ID-i65hg9u
+# Ver 2021-06-14T11:32:59Z gabor Stat-New >GushiFM E511
+# 落魄 落魄 [luo4 po4] /lerobbant; lerongyolódott; rossz helyzetbe került/
+# Ver 2021-06-14T11:36:15Z gabor Stat-Verif >.
+落魄 落魄 [luo4 po4] /lerobbant; lerongyolódott; rossz helyzetbe került/
 
 # ID-i65hW6k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -43676,6 +43804,12 @@ X X [X] /X/
 # 回國 回国 [hui2 guo2] /visszatér a hazájába/
 # Ver 2017-12-04T15:59:45Z gabor Stat-Verif >.
 回國 回国 [hui2 guo2] /visszatér a hazájába/
+
+# ID-j29BR0s
+# Ver 2021-06-14T10:10:02Z gabor Stat-New >GushiFM E511
+# 功力 功力 [gong1 li4] /tudás; hozzá|értés/erő/hatékonyság/
+# Ver 2021-06-14T11:37:06Z gabor Stat-Verif >.
+功力 功力 [gong1 li4] /tudás; hozzá|értés/erő/hatékonyság/
 
 # ID-j29FM9F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -61375,6 +61509,12 @@ XX XX [x x] /x/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 臭烘烘 臭烘烘 [chou4 hong1 hong1] /büdös; bűzlő/
 
+# ID-m95av3x
+# Ver 2021-06-14T10:44:51Z gabor Stat-New >迷茫 okán, GushiFM E511
+# 茫 茫 [mang2] /hatalmas; határtalan (mint egy nagy vízfelület)/
+# Ver 2021-06-14T11:36:48Z gabor Stat-Verif >.
+茫 茫 [mang2] /hatalmas; határtalan (mint egy nagy vízfelület)/
+
 # ID-m95az9T
 # Ver 2018-02-05T17:16:46Z gabor Stat-New >https://twitter.com/withoutdoing/status/959128541311877120
 被和諧 被和谐 [bei4 he2 xie2] /ki|moderálják; ki|cenzúrázzák (online)/
@@ -61912,6 +62052,12 @@ XX XX [x x] /x/
 # ID-n06XN1f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 象牙海岸 象牙海岸 [xiang4 ya2 hai3 an4] /(földrajzi név) Elefántcsontpart/
+
+# ID-n07kO0I
+# Ver 2021-06-14T11:18:51Z gabor Stat-New >több szóban szerepel
+# 欄 栏 [lan2] /korlát; kerítés/oszlop; hasáb/karám/
+# Ver 2021-06-14T11:36:18Z gabor Stat-Verif >.
+欄 栏 [lan2] /korlát; kerítés/oszlop; hasáb/karám/
 
 # ID-n07mb9k
 # Ver 2017-05-22T02:26:39Z Adam Stat-New >CEDICT
@@ -68807,6 +68953,14 @@ XX XX [x x] /x/
 # Ver 2021-04-18T22:31:38Z Adam Stat-New >CC-CEDICT, Wikipedia
 廈門 厦门 [xia4 men2] /(földrajzi név) Hsziamen; Xiamen; Amoy (város Fucsien tartományban)/
 
+# ID-o56wG2u
+# Ver 2021-06-14T12:21:48Z gabor Stat-New >GushiFM E511
+# 直麵 直面 [zhi2 mian4] /szembenéz; szemesül/
+# Ver 2021-06-14T12:22:43Z gabor Stat-New >helyes hagyományos, szerkesztő nem kínálja fel.
+# 直面 直面 [zhi2 mian4] /szembenéz; szemesül/
+# Ver 2021-06-14T12:22:47Z gabor Stat-Verif >.
+直面 直面 [zhi2 mian4] /szembenéz; szemesül/
+
 # ID-o56zd0T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 樂器 乐器 [yue4 qi4] /hang|szer/SZ:件[jian4]/
@@ -68902,6 +69056,10 @@ XX XX [x x] /x/
 # ID-o58pU3K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 舌 舌 [she2] /nyelv (testrész)/
+
+# ID-o58sD4A
+# Ver 2021-06-14T12:37:54Z gabor Stat-New >和睦 okán
+和睦相處 和睦相处 [he2 mu4 xiang1 chu3] /jól kijönnek egymással/
 
 # ID-o58wR3y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -70202,6 +70360,12 @@ XX XX [x x] /x/
 # ID-o85Yr6A
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 進食 进食 [jin4 shi2] /eszik; táplálkozik/
+
+# ID-o86aX0E
+# Ver 2021-06-14T11:06:41Z gabor Stat-New >GushiFM E511
+# 所長 所长 [suo3 chang2] /erősség (amiben jó vki)/
+# Ver 2021-06-14T11:36:32Z gabor Stat-Verif >.
+所長 所长 [suo3 chang2] /erősség (amiben jó vki)/
 
 # ID-o86bM5R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -72257,6 +72421,12 @@ XX XX [x x] /x/
 # ID-p24sP8A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 獄 狱 [yu4] /börtön/
+
+# ID-p24tq3Y
+# Ver 2021-06-14T09:59:21Z gabor Stat-New >怄气 okán; GushiFM E511
+# 慪 怄 [ou4] /bosszant; bosszankodik/
+# Ver 2021-06-14T11:37:10Z gabor Stat-Verif >.
+慪 怄 [ou4] /bosszant; bosszankodik/
 
 # ID-p24wQ8I
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
