@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-06-15T02:00:02Z
+# Időbélyeg / Timestamp: 2021-06-16T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -6327,6 +6327,8 @@
 
 # ID-b31PF4Y
 # Ver 2021-06-14T12:28:12Z gabor Stat-New >GushiFM E511
+# 不了 不了 [bu4 liao3] /képtelen; nem lehet; szüntelen (ige után, mintegy eredménykiegészítőként)/
+# Ver 2021-06-15T19:22:48Z gabor Stat-Verif >.
 不了 不了 [bu4 liao3] /képtelen; nem lehet; szüntelen (ige után, mintegy eredménykiegészítőként)/
 
 # ID-b31RH5Z
@@ -6686,6 +6688,8 @@
 
 # ID-b39Of0h
 # Ver 2021-06-14T12:26:01Z gabor Stat-New >GushiFM E511
+# 割捨 割舍 [ge1 she3] /el|hagy; megválik (vmitől)/
+# Ver 2021-06-15T19:22:44Z gabor Stat-Verif >.
 割捨 割舍 [ge1 she3] /el|hagy; megválik (vmitől)/
 
 # ID-b39QQ9R
@@ -7663,6 +7667,12 @@
 # ID-b61gh7D
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 搞笑 搞笑 [gao3 xiao4] /vicces/
+
+# ID-b61lu1M
+# Ver 2021-06-15T19:20:52Z gabor Stat-New >GushiFM E511
+# 奶茶 奶茶 [nai3 cha2] /tejes tea/
+# Ver 2021-06-15T19:23:07Z gabor Stat-Verif >.
+奶茶 奶茶 [nai3 cha2] /tejes tea/
 
 # ID-b61pZ2g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -14133,6 +14143,8 @@
 
 # ID-c98ha3q
 # Ver 2021-06-14T12:40:55Z gabor Stat-New >GushiFM E511
+# 民宿 民宿 [min2 su4] /fogadó/
+# Ver 2021-06-15T19:23:04Z gabor Stat-Verif >.
 民宿 民宿 [min2 su4] /fogadó/
 
 # ID-c98nC9l
@@ -18245,6 +18257,12 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-d84MY8S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 戰爭 战争 [zhan4 zheng1] /háború/SZ:場|场[chang2],次[ci4]/
+
+# ID-d84Oe4b
+# Ver 2021-06-15T19:22:11Z gabor Stat-New >GushiFM E511
+# 珍珠奶茶 珍珠奶茶 [zhen1 zhu1 nai3 cha2] /boba|tea; buborék|tea (Tajvanban a 80-as években megjelent ital, angolul bubble tea néven ismert)/
+# Ver 2021-06-15T19:23:11Z gabor Stat-Verif >.
+珍珠奶茶 珍珠奶茶 [zhen1 zhu1 nai3 cha2] /boba|tea; buborék|tea (Tajvanban a 80-as években megjelent ital, angolul bubble tea néven ismert)/
 
 # ID-d85fQ3d
 # Ver 2021-03-25T10:50:28Z Adam Stat-New >Pleco-szótárak, Wikipedia, Wiktionary
@@ -27024,6 +27042,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f73zu7u
 # Ver 2021-06-14T12:36:19Z gabor Stat-New >和睦 okán
+# 睦 睦 [mu4] /harmonikus/
+# Ver 2021-06-15T19:22:58Z gabor Stat-Verif >.
 睦 睦 [mu4] /harmonikus/
 
 # ID-f73Fc4d
@@ -38835,6 +38855,8 @@ X X [X] /X/
 
 # ID-i24gx0P
 # Ver 2021-06-14T12:29:17Z gabor Stat-New >GushiFM E511
+# 落難 落难 [luo4 nan4] /balszerencse éri; szorult helyzetbe kerül/
+# Ver 2021-06-15T19:22:51Z gabor Stat-Verif >.
 落難 落难 [luo4 nan4] /balszerencse éri; szorult helyzetbe kerül/
 
 # ID-i24jR2n
@@ -39112,6 +39134,8 @@ X X [X] /X/
 
 # ID-i30sQ7H
 # Ver 2021-06-14T12:31:25Z gabor Stat-New >GushiFM E511
+# 分割 分割 [fen1 ge1] /el|választ; szét|választ; ketté|szakad/
+# Ver 2021-06-15T19:22:54Z gabor Stat-Verif >.
 分割 分割 [fen1 ge1] /el|választ; szét|választ; ketté|szakad/
 
 # ID-i30Fj8V
@@ -55558,6 +55582,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 痊癒 痊愈 [quan2 yu4] /meg|gyógyul/fel|épül/
 
+# ID-l73lo4q
+# Ver 2021-06-15T19:38:29Z Adam Stat-New >https://en.wikipedia.org/wiki/Heihe%E2%80%93Tengchong_Line
+黑河騰衝線 黑河腾冲线 [hei1 he2 teng2 chong1 xian4] /Hejho–Tengcsung-vonal (képzeletbeli vonal, amely Kínát két hasonló méretű részre osztja, az északnyugati rész lakossága azonban 6%, míg a délkeletié 94%)/
+
 # ID-l73mt4I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 報道 报道 [bao4 dao4] /tudósítás/beszámoló/SZ:篇[pian1],份[fen4]/
@@ -69059,6 +69087,8 @@ XX XX [x x] /x/
 
 # ID-o58sD4A
 # Ver 2021-06-14T12:37:54Z gabor Stat-New >和睦 okán
+# 和睦相處 和睦相处 [he2 mu4 xiang1 chu3] /jól kijönnek egymással/
+# Ver 2021-06-15T19:23:01Z gabor Stat-Verif >.
 和睦相處 和睦相处 [he2 mu4 xiang1 chu3] /jól kijönnek egymással/
 
 # ID-o58wR3y
