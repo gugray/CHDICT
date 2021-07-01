@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-06-19T02:00:01Z
+# Időbélyeg / Timestamp: 2021-07-01T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -6465,7 +6465,11 @@
 
 # ID-b34ed5U
 # Ver 2021-04-18T22:30:21Z Adam Stat-New >CC-CEDICT, Wikipedia
-無錫 无锡 [wu2 xi1] /(földrajzi név) Vuhszi; Wuxi (város Csiangszu tartományban)/
+# 無錫 无锡 [wu2 xi1] /(földrajzi név) Vuhszi; Wuxi (város Csiangszu tartományban)/
+# Ver 2021-06-30T11:08:06Z gabor Stat-New >pinyin preferált
+# 無錫 无锡 [wu2 xi1] /(földrajzi név) Wuxi; Vuhszi (város Jiangsu tartományban)/
+# Ver 2021-06-30T11:08:09Z gabor Stat-Verif >.
+無錫 无锡 [wu2 xi1] /(földrajzi név) Wuxi; Vuhszi (város Jiangsu tartományban)/
 
 # ID-b34fF1f
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -7104,7 +7108,11 @@
 
 # ID-b47HU6B
 # Ver 2021-04-18T22:23:18Z Adam Stat-New >CC-CEDICT, Wikipedia
-青島 青岛 [qing1 dao3] /(földrajzi név) Csingtao; Qingdao (város Santung tartományban)/
+# 青島 青岛 [qing1 dao3] /(földrajzi név) Csingtao; Qingdao (város Santung tartományban)/
+# Ver 2021-06-30T11:09:56Z gabor Stat-New >pinyin preferált
+# 青島 青岛 [qing1 dao3] /(földrajzi név) Qingdao; Csingtao (város Shandong tartományban)/
+# Ver 2021-06-30T11:09:59Z gabor Stat-Verif >.
+青島 青岛 [qing1 dao3] /(földrajzi név) Qingdao; Csingtao (város Shandong tartományban)/
 
 # ID-b47PW2w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -8040,7 +8048,12 @@
 
 # ID-b68eU8W
 # Ver 2021-04-18T11:32:45Z Adam Stat-New >CC-CEDICT
-東莞 东莞 [dong1 guan3] /(földrajzi név) Tungkuan; Dongguan (város Kuangtung tartományban)/
+# 東莞 东莞 [dong1 guan3] /(földrajzi név) Tungkuan; Dongguan (város Kuangtung tartományban)/
+# Ver 2021-06-30T10:41:39Z gabor Stat-Verif >.
+# Ver 2021-06-30T10:49:11Z gabor Stat-Verif >pinyin preferált
+# 東莞 东莞 [dong1 guan3] /(földrajzi név) Tungkuan; Dongguan (város Guangdong tartományban)/
+# Ver 2021-06-30T10:52:08Z gabor Stat-Verif >pinyin preferált
+東莞 东莞 [dong1 guan3] /(földrajzi név) Dongguan; Tungkuan (város Guangdong tartományban)/
 
 # ID-b68eZ8r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -8455,6 +8468,12 @@
 # 離譜 离谱 [li2 pu3] /túlzott/az ésszerű határokon túl/
 # Ver 2017-08-01T00:07:31Z Adam Stat-Verif >az újabb helyesírás szerint "észszerű"
 離譜 离谱 [li2 pu3] /túlzott/az észszerű határokon túl/
+
+# ID-b77Ry1K
+# Ver 2021-06-30T09:40:03Z gabor Stat-New >旋转木马 okán
+# 木馬 木马 [mu4 ma3] /hinta|ló/trójai fa|ló (számítástechnikában is)/
+# Ver 2021-06-30T09:40:09Z gabor Stat-Verif >.
+木馬 木马 [mu4 ma3] /hinta|ló/trójai fa|ló (számítástechnikában is)/
 
 # ID-b78an7g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -9717,7 +9736,11 @@
 
 # ID-c04TT6S
 # Ver 2021-04-16T08:46:52Z Adam Stat-New >Pleco-szótárak, kínai Wikipedia
-蹺蹺板 跷跷板 [qiao1 qiao1 ban3] /mérleg|hinta/
+# 蹺蹺板 跷跷板 [qiao1 qiao1 ban3] /mérleg|hinta/
+# Ver 2021-06-30T09:27:51Z gabor Stat-New >kieg, a gyereknyelvi változat is gyakori
+# 蹺蹺板 跷跷板 [qiao1 qiao1 ban3] /mérleg|hinta; libikóka/
+# Ver 2021-06-30T09:27:54Z gabor Stat-Verif >.
+蹺蹺板 跷跷板 [qiao1 qiao1 ban3] /mérleg|hinta; libikóka/
 
 # ID-c04VX4w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -10665,7 +10688,9 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 標點 标点 [biao1 dian3] /központozás/írásjelek/SZ:個|个[ge4]/
 # Ver 2021-04-18T07:08:48Z Adam Stat-Verif >pontosítás, ill. egyértelműbb megfogalmazás
-標點 标点 [biao1 dian3] /köz|pontozás; írásjel|használat/(főleg 符号 utótaggal) írásjel/SZ:個|个[ge4]/
+# 標點 标点 [biao1 dian3] /köz|pontozás; írásjel|használat/(főleg 符号 utótaggal) írásjel/SZ:個|个[ge4]/
+# Ver 2021-06-30T11:01:36Z gabor Stat-Verif >túl sok. inkább legyen kevesebb, ha már piszkáljuk.
+標點 标点 [biao1 dian3] /központozás/SZ:個|个[ge4]/
 
 # ID-c27jb5c
 # Ver 2017-05-23T14:40:04Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
@@ -12808,7 +12833,12 @@
 # Ver 2021-04-17T22:41:07Z Adam Stat-New >Wikipedia, CC-CEDICT
 # 武漢 武汉 [wu3 han4] /Vuhan; Wuhan (város a KNK-ban)/
 # Ver 2021-04-18T11:28:29Z Adam Stat-New >.
-武漢 武汉 [wu3 han4] /(földrajzi név) Vuhan; Wuhan (Hupej tartomány székhelye)/
+# 武漢 武汉 [wu3 han4] /(földrajzi név) Vuhan; Wuhan (Hupej tartomány székhelye)/
+# Ver 2021-06-30T10:42:45Z gabor Stat-Verif >.
+# Ver 2021-06-30T10:48:33Z gabor Stat-Verif >elég
+# 武漢 武汉 [wu3 han4] /(földrajzi név) Vuhan; Wuhan (város a KNK-ban)/
+# Ver 2021-06-30T10:53:28Z gabor Stat-Verif >pinyin preferált
+武漢 武汉 [wu3 han4] /(földrajzi név) Wuhan; Vuhan (város a KNK-ban)/
 
 # ID-c70cO1h
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -12991,6 +13021,12 @@
 # Ver 2018-10-05T23:20:16Z GaoYanuo Stat-Verif >"külön erre a célra", "direkt ezért" értelemben szerepel a HSK4 tankönyvben.\n她专门从国外飞回来呢。Külön ezért repül haza külföldről.
 # Ver 2019-09-26T17:31:50Z gabor Stat-Verif >a három melléknévi jelentést összevontam, külön jelentésnek felvettem a határozóit
 專門 专门 [zhuan1 men2] /különleges; specializált; egyedi/külön; kifejezetten (vmilyen célra, vmilyen okból)/
+
+# ID-c74Ze5C
+# Ver 2021-06-30T09:36:52Z gabor Stat-New >跷跷板 okán
+# 蹺 跷 [qiao1] /fel|emel; fel|tart (lábat, ujjat)/lábujjhegyen jár/gólyaláb/
+# Ver 2021-06-30T09:37:02Z gabor Stat-Verif >.
+蹺 跷 [qiao1] /fel|emel; fel|tart (lábat, ujjat)/lábujjhegyen jár/gólyaláb/
 
 # ID-c74Zh8R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -13590,7 +13626,11 @@
 
 # ID-c86Wl5b
 # Ver 2021-04-16T00:25:36Z Adam Stat-New >Pleco-szótárak
-文言 文言 [wen2 yan2] /klasszikus kínai (a kínainak a 20. század elejéig írásban használt változata, szemben a beszélt nyelvvel: 白话)/
+# 文言 文言 [wen2 yan2] /klasszikus kínai (a kínainak a 20. század elejéig írásban használt változata, szemben a beszélt nyelvvel: 白话)/
+# Ver 2021-06-30T09:41:23Z gabor Stat-New >a "20. század előttig használt" nem igazán pontos leírása a helyzetnek. inkább maradok simán a magyar megfelelőnél.
+# 文言 文言 [wen2 yan2] /klasszikus kínai nyelv/
+# Ver 2021-06-30T09:41:27Z gabor Stat-Verif >.
+文言 文言 [wen2 yan2] /klasszikus kínai nyelv/
 
 # ID-c87gf7M
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -14500,7 +14540,11 @@
 
 # ID-d05nJ7v
 # Ver 2021-04-18T22:27:49Z Adam Stat-New >CC-CEDICT, Wikipedia
-昆明 昆明 [kun1 ming2] /(földrajzi név) Kunming (a dél-kínai Jünnan tartomány székhelye; hivatalosan 昆明市)/
+# 昆明 昆明 [kun1 ming2] /(földrajzi név) Kunming (a dél-kínai Jünnan tartomány székhelye; hivatalosan 昆明市)/
+# Ver 2021-06-30T11:08:32Z gabor Stat-New >.
+# 昆明 昆明 [kun1 ming2] /(földrajzi név) Kunming (Yunnan tartomány székhelye)/
+# Ver 2021-06-30T11:08:35Z gabor Stat-Verif >.
+昆明 昆明 [kun1 ming2] /(földrajzi név) Kunming (Yunnan tartomány székhelye)/
 
 # ID-d05oz9D
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -22330,7 +22374,11 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-e69Kw5k
 # Ver 2021-04-14T19:08:37Z Adam Stat-New >összekapcsolt Wikipedia-szócikkek
-粵拼 粤拼 [yue4 pin1] /jűtphing; jyutping (a sztenderd kantoni nyelvre: 粤语 kidolgozott latin betűs átírási rendszer)/
+# 粵拼 粤拼 [yue4 pin1] /jűtphing; jyutping (a sztenderd kantoni nyelvre: 粤语 kidolgozott latin betűs átírási rendszer)/
+# Ver 2021-06-30T09:54:23Z gabor Stat-New >tömörebben
+# 粵拼 粤拼 [yue4 pin1] /jűtphing; jyutping (a kantoni nyelv latin betűs átírási rendszere)/
+# Ver 2021-06-30T09:55:03Z gabor Stat-Verif >.
+粵拼 粤拼 [yue4 pin1] /jűtphing; jyutping (a kantoni nyelv latin betűs átírási rendszere)/
 
 # ID-e69KX8e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -24807,6 +24855,12 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 喜怒無常 喜怒无常 [xi3 nu4 wu2 chang2] /(kifejezés) szeszélyes; kiszámíthatatlan; indulatos/
 
+# ID-f26db3O
+# Ver 2021-06-30T10:39:25Z gabor Stat-New >崭新 okán
+# 嶄 崭 [zhan3] /kimagasló/kiváló/
+# Ver 2021-06-30T10:39:31Z gabor Stat-Verif >.
+嶄 崭 [zhan3] /kimagasló/kiváló/
+
 # ID-f26eG9r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 樂音 乐音 [yue4 yin1] /zenei hang/
@@ -26824,7 +26878,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 海倫 海伦 [hai3 lun2] /(földrajzi név) Hailun (város Heilongjiangban)/(átirat) Helen/
 # Ver 2021-04-18T11:05:32Z Adam Stat-Verif >magyaros átírás
-海倫 海伦 [hai3 lun2] /(földrajzi név) Hajlun; Hailun (város Hejlungcsiang tartományban)/(átirat) Helen/
+# 海倫 海伦 [hai3 lun2] /(földrajzi név) Hajlun; Hailun (város Hejlungcsiang tartományban)/(átirat) Helen/
+# Ver 2021-06-30T10:59:13Z gabor Stat-Verif >pinyin preferált
+海倫 海伦 [hai3 lun2] /(földrajzi név) Hailun; Hajlun (város Heilongjiang tartományban)/(átirat) Helen/
 
 # ID-f65Os1w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -28306,7 +28362,11 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f97PI5b
 # Ver 2021-04-18T11:44:23Z Adam Stat-New >CC-CEDICT, Wikipedia
-西安 西安 [xi1 an1] /(földrajzi név) Hszian; Xi'an (Senhszi tartomány székhelye, Kína egyik korábbi fővárosa)/
+# 西安 西安 [xi1 an1] /(földrajzi név) Hszian; Xi'an (Senhszi tartomány székhelye, Kína egyik korábbi fővárosa)/
+# Ver 2021-06-30T11:13:44Z gabor Stat-New >pinyin preferált
+# 西安 西安 [xi1 an1] /(földrajzi név) Xi'an; Hszian (Shaanxi tartomány székhelye)/
+# Ver 2021-06-30T11:13:46Z gabor Stat-Verif >.
+西安 西安 [xi1 an1] /(földrajzi név) Xi'an; Hszian (Shaanxi tartomány székhelye)/
 
 # ID-f97RC2k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -28458,7 +28518,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 巢湖 巢湖 [chao2 hu2] /(földrajzi név) Chaohu (tó)/(földrajzi név) Chaohu (város Anhui tartományban)/
 # Ver 2021-04-18T11:06:47Z Adam Stat-Verif >+ magyaros átírás
-巢湖 巢湖 [chao2 hu2] /(földrajzi név) Csaohu; Chaohu (tó)/(földrajzi név) Csaohu; Chaohu (város Anhuj tartományban)/
+# 巢湖 巢湖 [chao2 hu2] /(földrajzi név) Csaohu; Chaohu (tó)/(földrajzi név) Csaohu; Chaohu (város Anhuj tartományban)/
+# Ver 2021-06-30T10:56:35Z gabor Stat-Verif >pinyin preferált
+巢湖 巢湖 [chao2 hu2] /(földrajzi név) Chaohu; Csaohu (tó)/(földrajzi név) Chaohu; Csaohu (város Anhui tartományban)/
 
 # ID-g00zx2b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -28588,6 +28650,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-g03uX9Q
 # Ver 2021-04-16T14:08:28Z Adam Stat-New >Pleco-szótárak
+# 新聞自由 新闻自由 [xin1 wen2 zi4 you2] /sajtó|szabadság/
+# Ver 2021-06-30T09:22:19Z gabor Stat-Verif >.
 新聞自由 新闻自由 [xin1 wen2 zi4 you2] /sajtó|szabadság/
 
 # ID-g03wf1t
@@ -28758,7 +28822,11 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2021-04-18T11:35:42Z Adam Stat-New >CC-CEDICT
 # 成都 成都 [cheng2 du1] /(földrajzi név) Csengtu; Chengdu (város Szecsuan tartományban)/
 # Ver 2021-04-18T11:45:26Z Adam Stat-New >székhely
-成都 成都 [cheng2 du1] /(földrajzi név) Csengtu; Chengdu (Szecsuan tartomány székhelye)/
+# 成都 成都 [cheng2 du1] /(földrajzi név) Csengtu; Chengdu (Szecsuan tartomány székhelye)/
+# Ver 2021-06-30T11:12:47Z gabor Stat-New >pinyin preferált
+# 成都 成都 [cheng2 du1] /(földrajzi név) Chengdu; Csengtu (Szecsuan tartomány székhelye)/
+# Ver 2021-06-30T11:12:50Z gabor Stat-Verif >.
+成都 成都 [cheng2 du1] /(földrajzi név) Chengdu; Csengtu (Szecsuan tartomány székhelye)/
 
 # ID-g06rv2S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -30440,7 +30508,11 @@ X X [X] /X/
 
 # ID-g42bK1S
 # Ver 2021-04-18T22:24:13Z Adam Stat-New >CC-CEDICT, Wikipedia
-濟南 济南 [ji3 nan2] /(földrajzi név) Csinan; Jinan (város Santung tartományban)/
+# 濟南 济南 [ji3 nan2] /(földrajzi név) Csinan; Jinan (város Santung tartományban)/
+# Ver 2021-06-30T11:09:38Z gabor Stat-New >pinyin preferált
+# 濟南 济南 [ji3 nan2] /(földrajzi név) Jinan; Csinan (város Shandong tartományban)/
+# Ver 2021-06-30T11:09:40Z gabor Stat-Verif >.
+濟南 济南 [ji3 nan2] /(földrajzi név) Jinan; Csinan (város Shandong tartományban)/
 
 # ID-g42eN2b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -30772,7 +30844,11 @@ X X [X] /X/
 # Ver 2021-04-18T13:40:07Z Adam Stat-New >Pleco-szótárak
 # 默認 默认 [mo4 ren4] /hallgatólagos/hallgatólagosan elfogad, beleegyezik, tudomásul vesz/(informatika) alap|beállítás; alap|értelmezés; default/
 # Ver 2021-04-18T13:44:29Z Adam Stat-New >+ szinonima
-默認 默认 [mo4 ren4] /hallgatólagos; kimondatlan/hallgatólagosan elfogad, beleegyezik, tudomásul vesz/(informatika) alap|beállítás; alap|értelmezés; default/
+# 默認 默认 [mo4 ren4] /hallgatólagos; kimondatlan/hallgatólagosan elfogad, beleegyezik, tudomásul vesz/(informatika) alap|beállítás; alap|értelmezés; default/
+# Ver 2021-06-30T11:16:25Z gabor Stat-New >tömörebb
+# 默認 默认 [mo4 ren4] /hallgatólagosan beleegyezik (vmibe)/alapértelmezett; default (számítástechnikában)/
+# Ver 2021-06-30T11:16:29Z gabor Stat-Verif >.
+默認 默认 [mo4 ren4] /hallgatólagosan beleegyezik (vmibe)/alapértelmezett; default (számítástechnikában)/
 
 # ID-g48YE8t
 # Ver 2017-06-04T17:27:11Z Adam Stat-New >Wikipédia, CC-CEDICT
@@ -32137,7 +32213,9 @@ X X [X] /X/
 # Ver 2021-03-23T11:27:05Z Adam Stat-Verif >népesség és négy tartományi jogú város egyikének említése
 # 上海 上海 [shang4 hai3] /Sanghaj (a KNK legnépesebb városa, négy tartományi jogú városának egyike)/
 # Ver 2021-04-18T11:27:50Z Adam Stat-Verif >.
-上海 上海 [shang4 hai3] /(földrajzi név) Sanghaj (a KNK legnépesebb városa, négy tartományi jogú városának egyike)/
+# 上海 上海 [shang4 hai3] /(földrajzi név) Sanghaj (a KNK legnépesebb városa, négy tartományi jogú városának egyike)/
+# Ver 2021-06-30T10:43:10Z gabor Stat-Verif >közismert, nem igényel magyarázatot
+上海 上海 [shang4 hai3] /(földrajzi név) Sanghaj/
 
 # ID-g77qr4c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -36306,6 +36384,8 @@ X X [X] /X/
 
 # ID-h69hx7Y
 # Ver 2021-04-16T09:05:20Z Adam Stat-New >kínai Wikipedia szócikke nyomán (egyes karakterek olvasata nem egyértelmű; próbáltam a legvalószínűbbet választani elterjedtség és fonetikus közelség alapján)
+# 特勒奇剋瑪麗 特勒奇克玛丽 [te4 le4 qi2 ke4 ma3 li4] /(tulajdonnév) Törőcsik Mari (1935–2021)/
+# Ver 2021-06-30T09:25:04Z gabor Stat-Verif >.
 特勒奇剋瑪麗 特勒奇克玛丽 [te4 le4 qi2 ke4 ma3 li4] /(tulajdonnév) Törőcsik Mari (1935–2021)/
 
 # ID-h69iB0l
@@ -37908,6 +37988,8 @@ X X [X] /X/
 
 # ID-i01Mg7g
 # Ver 2021-04-16T08:43:25Z Adam Stat-New >Pleco-szótárak, kínai Wikipedia
+# 鞦韆 秋千 [qiu1 qian1] /hinta/
+# Ver 2021-06-30T09:32:54Z gabor Stat-Verif >.
 鞦韆 秋千 [qiu1 qian1] /hinta/
 
 # ID-i01Rt4t
@@ -39593,7 +39675,12 @@ X X [X] /X/
 # Ver 2021-04-17T21:50:58Z Adam Stat-New >Wikipedia, CC-CEDICT
 # 廣州 广州 [guang3 zhou1] /Kanton; Kuangcsou; Guangzhou (város Kína déli részén; nem tévesztendő össze az olykor szintén Kantonként említett Kuangtung 广东 tartománnyal, amelynek székhelye)/
 # Ver 2021-04-18T11:30:20Z Adam Stat-New >földrajzi név
-廣州 广州 [guang3 zhou1] /(földrajzi név) Kanton; Kuangcsou; Guangzhou (város Kína déli részén; nem tévesztendő össze az olykor szintén Kantonként említett Kuangtung 广东 tartománnyal, amelynek székhelye)/
+# 廣州 广州 [guang3 zhou1] /(földrajzi név) Kanton; Kuangcsou; Guangzhou (város Kína déli részén; nem tévesztendő össze az olykor szintén Kantonként említett Kuangtung 广东 tartománnyal, amelynek székhelye)/
+# Ver 2021-06-30T10:42:09Z gabor Stat-New >.
+# 廣州 广州 [guang3 zhou1] /(földrajzi név) Kanton; Kuangcsou; Guangzhou (város Kína déli részén)/
+# Ver 2021-06-30T10:42:12Z gabor Stat-Verif >.
+# Ver 2021-06-30T10:52:38Z gabor Stat-Verif >pinyin preferált\nkanton mint közismert, rögzült alak állhat első helyen
+廣州 广州 [guang3 zhou1] /(földrajzi név) Kanton; Guangzhou; Kuangcsou (város Kína déli részén)/
 
 # ID-i35AX4P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -40798,7 +40885,16 @@ X X [X] /X/
 # Ver 2021-04-17T21:54:16Z Adam Stat-New >.
 # 深圳 深圳 [shen1 zhen4] /Sencsen; Senzhen (város Kína déli részén, Hongkonghoz közel)/
 # Ver 2021-04-18T11:29:49Z Adam Stat-New >.
-深圳 深圳 [shen1 zhen4] /(földrajzi név) Sencsen; Senzhen (város Kuangtung tartományban, Hongkonghoz közel)/
+# 深圳 深圳 [shen1 zhen4] /(földrajzi név) Sencsen; Senzhen (város Kuangtung tartományban, Hongkonghoz közel)/
+# Ver 2021-06-30T10:42:33Z gabor Stat-New >.
+# 深圳 深圳 [shen1 zhen4] /(földrajzi név) Sencsen; Senzhen (város Kuangtung tartományban)/
+# Ver 2021-06-30T10:42:35Z gabor Stat-Verif >.
+# Ver 2021-06-30T10:48:52Z gabor Stat-Verif >pinyin preferált
+# 深圳 深圳 [shen1 zhen4] /(földrajzi név) Sencsen; Senzhen (város Guangdong tartományban)/
+# Ver 2021-06-30T10:52:53Z gabor Stat-Verif >pinyin preferált
+# 深圳 深圳 [shen1 zhen4] /(földrajzi név) Senzhen; Sencsen (város Guangdong tartományban)/
+# Ver 2021-06-30T10:53:12Z gabor Stat-Verif >elírás
+深圳 深圳 [shen1 zhen4] /(földrajzi név) Shenzhen; Sencsen (város Guangdong tartományban)/
 
 # ID-i61tb0i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -40998,7 +41094,9 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 吳 吴 [wu2] /(családnév) Wu/(földrajzi név) Wu (Kína déli részén található tájegységek megnevezése különböző történelmi korokban)/
 # Ver 2021-04-18T11:08:33Z Adam Stat-Verif >+ magyaros átírás
-吳 吴 [wu2] /(családnév) Wu/(földrajzi név) Vu; Wu (Kína déli részén található tájegységek megnevezése különböző történelmi korokban)/
+# 吳 吴 [wu2] /(családnév) Wu/(földrajzi név) Vu; Wu (Kína déli részén található tájegységek megnevezése különböző történelmi korokban)/
+# Ver 2021-06-30T10:56:58Z gabor Stat-Verif >pinyin preferált
+吳 吴 [wu2] /(családnév) Wu/(földrajzi név) Wu; Vu (Kína déli részén található tájegységek megnevezése különböző történelmi korokban)/
 
 # ID-i65PB2Y
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -42071,6 +42169,8 @@ X X [X] /X/
 
 # ID-i89lW8d
 # Ver 2021-04-16T08:39:10Z Adam Stat-New >Pleco-szótárak
+# 旋轉木馬 旋转木马 [xuan2 zhuan3 mu4 ma3] /kör|hinta/
+# Ver 2021-06-30T09:38:50Z gabor Stat-Verif >.
 旋轉木馬 旋转木马 [xuan2 zhuan3 mu4 ma3] /kör|hinta/
 
 # ID-i89xk7s
@@ -46925,6 +47025,8 @@ X X [X] /X/
 
 # ID-j91Ep7l
 # Ver 2021-04-16T09:40:11Z Adam Stat-New >kínai Wikipedia, HanDeDict
+# 剋林貢語 克林贡语 [ke4 lin2 gong4 yu3] /klingon nyelv (fiktív nyelv a Star Trek-univerzumban)/
+# Ver 2021-06-30T09:24:16Z gabor Stat-Verif >.
 剋林貢語 克林贡语 [ke4 lin2 gong4 yu3] /klingon nyelv (fiktív nyelv a Star Trek-univerzumban)/
 
 # ID-j91Gr8Q
@@ -47067,7 +47169,11 @@ X X [X] /X/
 
 # ID-j94Jk2g
 # Ver 2021-04-18T22:33:25Z Adam Stat-New >CC-CEDICT, Wikipedia
-寧波 宁波 [ning2 bo1] /(földrajzi név) Ningpo; Ningbo (város Csöcsiang tartományban)/
+# 寧波 宁波 [ning2 bo1] /(földrajzi név) Ningpo; Ningbo (város Csöcsiang tartományban)/
+# Ver 2021-06-30T11:03:56Z gabor Stat-New >pinyin preferált
+# 寧波 宁波 [ning2 bo1] /(földrajzi név) Ningbo; Ningpo (város Zhejiang tartományban)/
+# Ver 2021-06-30T11:03:58Z gabor Stat-Verif >.
+寧波 宁波 [ning2 bo1] /(földrajzi név) Ningbo; Ningpo (város Zhejiang tartományban)/
 
 # ID-j94NG9S
 # Ver 2017-06-04T17:28:48Z Adam Stat-New >Wikipédia, CC-CEDICT
@@ -47196,7 +47302,11 @@ X X [X] /X/
 
 # ID-j97tF7u
 # Ver 2021-04-18T22:32:39Z Adam Stat-New >CC-CEDICT, Wikipedia
-長春 长春 [chang2 chun1] /(földrajzi név) Csangcsun; Changchun (Csilin tartomány székhelye)/
+# 長春 长春 [chang2 chun1] /(földrajzi név) Csangcsun; Changchun (Csilin tartomány székhelye)/
+# Ver 2021-06-30T11:04:26Z gabor Stat-New >pinyin preferált
+# 長春 长春 [chang2 chun1] /(földrajzi név) Changchun; Csangcsun (Jilin tartomány székhelye)/
+# Ver 2021-06-30T11:04:29Z gabor Stat-Verif >.
+長春 长春 [chang2 chun1] /(földrajzi név) Changchun; Csangcsun (Jilin tartomány székhelye)/
 
 # ID-j97zu4O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -47210,7 +47320,9 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 蘭州 兰州 [lan2 zhou1] /(földrajzi név) Lanzhou (Gansu tartomány fővárosa)/
 # Ver 2021-04-18T11:11:33Z Adam Stat-Verif >magyaros átírás
-蘭州 兰州 [lan2 zhou1] /(földrajzi név) Lancsou; Lanzhou (Kanszu tartomány székhelye)/
+# 蘭州 兰州 [lan2 zhou1] /(földrajzi név) Lancsou; Lanzhou (Kanszu tartomány székhelye)/
+# Ver 2021-06-30T10:57:29Z gabor Stat-Verif >pinyin preferált
+蘭州 兰州 [lan2 zhou1] /(földrajzi név) Lanzhou; Lancsou (Gansu tartomány székhelye)/
 
 # ID-j97Nj0x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -48072,7 +48184,11 @@ X X [X] /X/
 
 # ID-k14CC9d
 # Ver 2021-04-14T19:42:15Z Adam Stat-New >CC-CEDICT és kínai Wikipedia
-白讀 白读 [bai2 du2] /kínai karakter köznyelvi kiejtése, olvasata (azaz nem az irodalmi, 文读)/
+# 白讀 白读 [bai2 du2] /kínai karakter köznyelvi kiejtése, olvasata (azaz nem az irodalmi, 文读)/
+# Ver 2021-06-30T09:53:19Z gabor Stat-New >.
+# 白讀 白读 [bai2 du2] /köznyelvi olvasat (kínai írásjegy köznyelvi, vagyis nem klasszikus írott nyelvi olvasata)/
+# Ver 2021-06-30T09:53:21Z gabor Stat-Verif >.
+白讀 白读 [bai2 du2] /köznyelvi olvasat (kínai írásjegy köznyelvi, vagyis nem klasszikus írott nyelvi olvasata)/
 
 # ID-k14Dn0m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -49445,7 +49561,11 @@ X X [X] /X/
 
 # ID-k42mb9v
 # Ver 2021-04-18T22:25:15Z Adam Stat-New >CC-CEDICT, Wikipedia
-鄭州 郑州 [zheng4 zhou1] /(földrajzi név) Csengcsou; Zhengzhou (Honan tartomány székhelye)/
+# 鄭州 郑州 [zheng4 zhou1] /(földrajzi név) Csengcsou; Zhengzhou (Honan tartomány székhelye)/
+# Ver 2021-06-30T11:09:19Z gabor Stat-New >pinyin preferált
+# 鄭州 郑州 [zheng4 zhou1] /(földrajzi név) Zhengzhou; Csengcsou (Henan tartomány székhelye)/
+# Ver 2021-06-30T11:09:21Z gabor Stat-Verif >.
+鄭州 郑州 [zheng4 zhou1] /(földrajzi név) Zhengzhou; Csengcsou (Henan tartomány székhelye)/
 
 # ID-k42pi5s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -49724,6 +49844,8 @@ X X [X] /X/
 
 # ID-k48UI0K
 # Ver 2021-04-16T00:01:13Z Adam Stat-New >Pleco-szótárak
+# 針頭 针头 [zhen1 tou2] /fecskendő|tű; injekciós tű/
+# Ver 2021-06-30T09:46:18Z gabor Stat-Verif >.
 針頭 针头 [zhen1 tou2] /fecskendő|tű; injekciós tű/
 
 # ID-k49bu9l
@@ -55057,7 +55179,11 @@ X X [X] /X/
 
 # ID-l55WS9S
 # Ver 2021-04-18T11:52:21Z Adam Stat-New >CC-CEDICT
-杭州 杭州 [hang2 zhou1] /(földrajzi név) Hangcsou; Hangzhou (Csöcsiang tartomány székhelye Sanghaj közelében)/
+# 杭州 杭州 [hang2 zhou1] /(földrajzi név) Hangcsou; Hangzhou (Csöcsiang tartomány székhelye Sanghaj közelében)/
+# Ver 2021-06-30T11:11:54Z gabor Stat-New >pinyin preferált
+# 杭州 杭州 [hang2 zhou1] /(földrajzi név) Hangzhou; Hangcsou (Zhejiang tartomány székhelye)/
+# Ver 2021-06-30T11:11:58Z gabor Stat-Verif >.
+杭州 杭州 [hang2 zhou1] /(földrajzi név) Hangzhou; Hangcsou (Zhejiang tartomány székhelye)/
 
 # ID-l55Xp7d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -57566,7 +57692,11 @@ X X [X] /X/
 
 # ID-m11us3t
 # Ver 2021-04-14T19:43:07Z Adam Stat-New >CC-CEDICT és kínai Wikipedia
-文讀 文读 [wen2 du2] /kínai karakter irodalmi kiejtése, olvasata (azaz nem a köznyelvi, 白读)/
+# 文讀 文读 [wen2 du2] /kínai karakter irodalmi kiejtése, olvasata (azaz nem a köznyelvi, 白读)/
+# Ver 2021-06-30T09:52:34Z gabor Stat-New >.
+# 文讀 文读 [wen2 du2] /irodalmi olvasat (kínai írásjegy klasszikus, irodalmi olvasata)/
+# Ver 2021-06-30T09:52:37Z gabor Stat-Verif >.
+文讀 文读 [wen2 du2] /irodalmi olvasat (kínai írásjegy klasszikus, irodalmi olvasata)/
 
 # ID-m11yI1l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -58660,7 +58790,9 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 楚 楚 [chu3] /tiszta/szenvedés/(családnév) Chu/(földrajzi név) Chu (Hubei és Hunan tartományok együttesen; történelmi állam neve)/
 # Ver 2021-04-18T11:13:45Z Adam Stat-Verif >+ magyaros átírás
-楚 楚 [chu3] /tiszta/szenvedés/(családnév) Chu/(földrajzi név) Csu; Chu (Hupej és Hunan tartományok együttesen; történelmi állam neve)/
+# 楚 楚 [chu3] /tiszta/szenvedés/(családnév) Chu/(földrajzi név) Csu; Chu (Hupej és Hunan tartományok együttesen; történelmi állam neve)/
+# Ver 2021-06-30T10:58:15Z gabor Stat-Verif >pinyin preferált
+楚 楚 [chu3] /tiszta/szenvedés/(családnév) Chu/(földrajzi név) Chu; Csu (Hubei és Hunan tartományok együttesen; történelmi állam neve)/
 
 # ID-m32RU4h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -59312,7 +59444,11 @@ X X [X] /X/
 
 # ID-m46rd5e
 # Ver 2021-04-18T11:57:22Z Adam Stat-New >CC-CEDICT
-哈爾濱 哈尔滨 [ha1 er3 bin1] /(földrajzi név) Harbin (Hejlungcsiang tartomány székhelye)/
+# 哈爾濱 哈尔滨 [ha1 er3 bin1] /(földrajzi név) Harbin (Hejlungcsiang tartomány székhelye)/
+# Ver 2021-06-30T11:11:29Z gabor Stat-New >pinyin preferált
+# 哈爾濱 哈尔滨 [ha1 er3 bin1] /(földrajzi név) Harbin (Heilongjiang tartomány székhelye)/
+# Ver 2021-06-30T11:11:31Z gabor Stat-Verif >.
+哈爾濱 哈尔滨 [ha1 er3 bin1] /(földrajzi név) Harbin (Heilongjiang tartomány székhelye)/
 
 # ID-m46ro3u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -60580,11 +60716,19 @@ XX XX [x x] /x/
 # Ver 2017-12-01T10:00:29Z gabor Stat-New >CHDICT; 蜀汉 jelentése
 # 蜀 蜀 [shu3] /(földrajzi név; rövidítés) Sichuan; Szecsuan/
 # Ver 2021-04-18T11:15:16Z Adam Stat-New >magyaros átírás előbbre
-蜀 蜀 [shu3] /(földrajzi név, rövidítés) Szecsuan; Sichuan/
+# 蜀 蜀 [shu3] /(földrajzi név, rövidítés) Szecsuan; Sichuan/
+# Ver 2021-06-30T10:50:32Z gabor Stat-New >pinyin preferált
+# 蜀 蜀 [shu3] /(földrajzi név, rövidítés) Sichuan; Szecsuan/
+# Ver 2021-06-30T10:50:51Z gabor Stat-Verif >.
+蜀 蜀 [shu3] /(földrajzi név, rövidítés) Sichuan; Szecsuan/
 
 # ID-m71vY0o
 # Ver 2021-04-18T11:41:38Z Adam Stat-New >CC-CEDICT, Wikipedia
-洛陽 洛阳 [luo4 yang2] /(földrajzi név) Lojang; Luoyang (város Honan tartományban, Kína egyik korábbi fővárosa)/
+# 洛陽 洛阳 [luo4 yang2] /(földrajzi név) Lojang; Luoyang (város Honan tartományban, Kína egyik korábbi fővárosa)/
+# Ver 2021-06-30T11:14:05Z gabor Stat-New >pinyin preferált
+# 洛陽 洛阳 [luo4 yang2] /(földrajzi név) Luoyang; Lojang (város Henan tartományban)/
+# Ver 2021-06-30T11:14:07Z gabor Stat-Verif >.
+洛陽 洛阳 [luo4 yang2] /(földrajzi név) Luoyang; Lojang (város Henan tartományban)/
 
 # ID-m71Jz8c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -60834,7 +60978,11 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 德州 德州 [de2 zhou1] /(földrajzi név) Texas/(földrajzi név) Dezhou (város)/
 # Ver 2021-04-18T11:16:56Z Adam Stat-Verif >+ magyaros átírás
-德州 德州 [de2 zhou1] /(földrajzi név) Texas/(földrajzi név) Töcsou; Dezhou (város Santung tartományban)/
+# 德州 德州 [de2 zhou1] /(földrajzi név) Texas/(földrajzi név) Töcsou; Dezhou (város Santung tartományban)/
+# Ver 2021-06-30T10:49:59Z gabor Stat-Verif >pinyin preferált
+# 德州 德州 [de2 zhou1] /(földrajzi név) Texas/(földrajzi név) Töcsou; Dezhou (város Shandong tartományban)/
+# Ver 2021-06-30T10:57:47Z gabor Stat-Verif >pinyin preferált
+德州 德州 [de2 zhou1] /(földrajzi név) Texas/(földrajzi név) Dezhou; Töcsou (város Shandong tartományban)/
 
 # ID-m76gV8R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -62592,7 +62740,12 @@ XX XX [x x] /x/
 
 # ID-n14go0Z
 # Ver 2021-04-18T11:34:32Z Adam Stat-New >CC-CEDICT
-佛山 佛山 [fo2 shan1] /(földrajzi név) Fosan; Foshan (város Kuangtung tartományban)/
+# 佛山 佛山 [fo2 shan1] /(földrajzi név) Fosan; Foshan (város Kuangtung tartományban)/
+# Ver 2021-06-30T10:41:29Z gabor Stat-Verif >.
+# Ver 2021-06-30T10:49:23Z gabor Stat-Verif >pinyin preferált
+# 佛山 佛山 [fo2 shan1] /(földrajzi név) Fosan; Foshan (város Guangdong tartományban)/
+# Ver 2021-06-30T10:51:52Z gabor Stat-Verif >pinyin preferált
+佛山 佛山 [fo2 shan1] /(földrajzi név) Foshan; Fosan (város Guangdong tartományban)/
 
 # ID-n14rb4P
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -62999,7 +63152,11 @@ XX XX [x x] /x/
 
 # ID-n22JD0v
 # Ver 2021-04-18T22:26:17Z Adam Stat-New >CC-CEDICT, Wikipedia
-大連 大连 [da4 lian2] /(földrajzi név) Talien; Dalian (város Liaoning tartományban)/
+# 大連 大连 [da4 lian2] /(földrajzi név) Talien; Dalian (város Liaoning tartományban)/
+# Ver 2021-06-30T11:08:49Z gabor Stat-New >pinyin preferált
+# 大連 大连 [da4 lian2] /(földrajzi név) Dalian; Talien (város Liaoning tartományban)/
+# Ver 2021-06-30T11:08:51Z gabor Stat-Verif >.
+大連 大连 [da4 lian2] /(földrajzi név) Dalian; Talien (város Liaoning tartományban)/
 
 # ID-n22Mf4s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -64018,7 +64175,11 @@ XX XX [x x] /x/
 
 # ID-n44IX0S
 # Ver 2021-04-18T07:19:02Z Adam Stat-New >Pleco-szótárak; Bartos--Hamar-nagyszótár
-判分 判分 [pan4 fen1] /pontoz; pontot ad/pontozás/
+# 判分 判分 [pan4 fen1] /pontoz; pontot ad/pontozás/
+# Ver 2021-06-30T11:00:34Z gabor Stat-New >főnév-ige váltakozás olyan gyakori, csak ritkán szükséges explicit jelezni
+# 判分 判分 [pan4 fen1] /pontoz; pontot ad/
+# Ver 2021-06-30T11:00:37Z gabor Stat-Verif >.
+判分 判分 [pan4 fen1] /pontoz; pontot ad/
 
 # ID-n44SX4o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -66682,7 +66843,11 @@ XX XX [x x] /x/
 
 # ID-o01Yx6r
 # Ver 2021-04-18T22:35:19Z Adam Stat-New >CC-CEDICT, Wikipedia
-太原 太原 [tai4 yuan2] /(földrajzi név) Tajjüan; Taiyuan (Sanhszi tartomány székhelye)/
+# 太原 太原 [tai4 yuan2] /(földrajzi név) Tajjüan; Taiyuan (Sanhszi tartomány székhelye)/
+# Ver 2021-06-30T11:03:28Z gabor Stat-New >pinyin preferált
+# 太原 太原 [tai4 yuan2] /(földrajzi név) Taiyuan; Tajjüan (Shanxi tartomány székhelye)/
+# Ver 2021-06-30T11:03:31Z gabor Stat-Verif >.
+太原 太原 [tai4 yuan2] /(földrajzi név) Taiyuan; Tajjüan (Shanxi tartomány székhelye)/
 
 # ID-o02bB8F
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -68123,7 +68288,9 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 江東 江东 [jiang1 dong1] /(földrajzi név) Jiangdong (Ningbo város kerülete)/
 # Ver 2021-04-18T11:19:54Z Adam Stat-Verif >magyaros átírás, tartomány jelölése, érthetőbb fogalmazás
-江東 江东 [jiang1 dong1] /(földrajzi név) Csiangtung; Jiangdong (a csöcsiang tartománybeli Ningpo város egyik kerülete)/
+# 江東 江东 [jiang1 dong1] /(földrajzi név) Csiangtung; Jiangdong (a csöcsiang tartománybeli Ningpo város egyik kerülete)/
+# Ver 2021-06-30T10:46:46Z gabor Stat-Verif >túl sok infó\na maroknyi nagyon rögzült földrajzi név kivételével a Pinyin-átiratot preferálja a szótár
+江東 江东 [jiang1 dong1] /(földrajzi név) Csiangtung; Jiangdong (Ningbo város kerülete)/
 
 # ID-o32gZ4R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -68493,7 +68660,13 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 蜀漢 蜀汉 [shu3 han4] /(földrajzi név) Shu Han (A három királyság korában Liu Bei királysága volt a mai Sichuan tartomány területén. Sichuan tartomány rövid elnevezéseként ma is a ”蜀” írásjegyet használják.)/
 # Ver 2021-04-18T11:27:01Z Adam Stat-Verif >a kínai és az angol Wikipédiában egyaránt Han a rövid neve, ami a szócikk bevezető mondatában kiemelve szerepel + magyaros átírás, kicsit tömörebb fogalmazás
-蜀漢 蜀汉 [shu3 han4] /(földrajzi név) Han; Suhan; Shu Han (a három királyság korában Liu Pej királysága a mai Szecsuan tartomány területén, melynek rövid elnevezéseként ma is a „蜀” írásjegy használatos)/
+# 蜀漢 蜀汉 [shu3 han4] /(földrajzi név) Han; Suhan; Shu Han (a három királyság korában Liu Pej királysága a mai Szecsuan tartomány területén, melynek rövid elnevezéseként ma is a „蜀” írásjegy használatos)/
+# Ver 2021-06-30T10:45:13Z gabor Stat-Verif >tipografikus irásjegyek csak nehezítik a feldolgozást. ha óriási szükség van rájuk, helyesebb algoritmikusan átalakítani őket csak a megjelenítéshez, az adatban pedig maradni az ASCII változatnál.
+# 蜀漢 蜀汉 [shu3 han4] /(földrajzi név) Han; Suhan; Shu Han (a három királyság korában Liu Pej királysága a mai Szecsuan tartomány területén, melynek rövid elnevezéseként ma is a 蜀 írásjegy használatos)/
+# Ver 2021-06-30T10:48:03Z gabor Stat-Verif >pinyin preferált
+# 蜀漢 蜀汉 [shu3 han4] /(földrajzi név) Han; Suhan; Shu Han (a három királyság korában Liu Bei királysága a mai Szecsuan tartomány területén, melynek rövid elnevezéseként ma is a 蜀 írásjegy használatos)/
+# Ver 2021-06-30T10:53:51Z gabor Stat-Verif >pinyin preferált
+蜀漢 蜀汉 [shu3 han4] /(földrajzi név) Shu Han; Han; Suhan  (a három királyság korában Liu Bei királysága a mai Szecsuan tartomány területén, melynek rövid elnevezéseként ma is a 蜀 írásjegy használatos)/
 
 # ID-o40GE5u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -68665,7 +68838,12 @@ XX XX [x x] /x/
 
 # ID-o43ye8C
 # Ver 2021-04-15T00:36:47Z Adam Stat-New >CC-CEDICT, Wikipedia
-壯族 壮族 [zhuang4 zu2] /csuang; csuanga; Zhuang (a han 汉 után a második legnépesebb nemzetiség Kínában)/
+# 壯族 壮族 [zhuang4 zu2] /csuang; csuanga; Zhuang (a han 汉 után a második legnépesebb nemzetiség Kínában)/
+# Ver 2021-06-30T09:49:48Z gabor Stat-New >.
+# 壯族 壮族 [zhuang4 zu2] /csuang; csuanga; Zhuang (a han után a második legnépesebb nemzetiség Kínában)/
+# Ver 2021-06-30T09:49:51Z gabor Stat-Verif >.
+# Ver 2021-06-30T09:50:44Z gabor Stat-Verif >a nagybetűvel írás szerintem szimplán az angol ortográfia heppje. magyarul kisbetűnél maradnék, akkor is, ha a kortársabb pinyin átírást választjuk.
+壯族 壮族 [zhuang4 zu2] /csuang; csuanga; zhuang (a han után a második legnépesebb nemzetiség Kínában)/
 
 # ID-o43yB5Q
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -68775,7 +68953,11 @@ XX XX [x x] /x/
 
 # ID-o46QI9U
 # Ver 2021-04-18T11:47:50Z Adam Stat-New >CC-CEDICT
-瀋陽 沈阳 [shen3 yang2] /(földrajzi név) Senjang; Shenyang (Liaoning tartomány székhelye)/
+# 瀋陽 沈阳 [shen3 yang2] /(földrajzi név) Senjang; Shenyang (Liaoning tartomány székhelye)/
+# Ver 2021-06-30T11:12:19Z gabor Stat-New >pinyin preferált
+# 瀋陽 沈阳 [shen3 yang2] /(földrajzi név) Shenyang; Senjang (Liaoning tartomány székhelye)/
+# Ver 2021-06-30T11:12:22Z gabor Stat-Verif >.
+瀋陽 沈阳 [shen3 yang2] /(földrajzi név) Shenyang; Senjang (Liaoning tartomány székhelye)/
 
 # ID-o46Tf5W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -69229,7 +69411,11 @@ XX XX [x x] /x/
 
 # ID-o56wn2J
 # Ver 2021-04-18T22:31:38Z Adam Stat-New >CC-CEDICT, Wikipedia
-廈門 厦门 [xia4 men2] /(földrajzi név) Hsziamen; Xiamen; Amoy (város Fucsien tartományban)/
+# 廈門 厦门 [xia4 men2] /(földrajzi név) Hsziamen; Xiamen; Amoy (város Fucsien tartományban)/
+# Ver 2021-06-30T11:04:56Z gabor Stat-New >pinyin preferált
+# 廈門 厦门 [xia4 men2] /(földrajzi név) Xiamen; Hsziamen; Amoy (város Fujian tartományban)/
+# Ver 2021-06-30T11:04:59Z gabor Stat-Verif >.
+廈門 厦门 [xia4 men2] /(földrajzi név) Xiamen; Hsziamen; Amoy (város Fujian tartományban)/
 
 # ID-o56wG2u
 # Ver 2021-06-14T12:21:48Z gabor Stat-New >GushiFM E511
@@ -69921,6 +70107,14 @@ XX XX [x x] /x/
 # ID-o71Un3v
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 槍子 枪子 [qiang1 zi3] /golyó (lövedék)/
+
+# ID-o71ZC2w
+# Ver 2021-06-30T09:45:19Z gabor Stat-New >闻言 okán
+# 白話 白话 [bai2 hua4] /köz|nyelv (történelmileg a klasszikus, írott nyelvvel szemben a hétköznapokban használt hétköznapi nyelvváltozat)/üres beszéd; fecsegés; túlzás/
+# Ver 2021-06-30T09:45:59Z gabor Stat-New >ismétlés volt
+# 白話 白话 [bai2 hua4] /köz|nyelv (történelmileg a klasszikus, írott nyelvvel szemben a mindennapokban használt nyelvváltozat)/üres beszéd; fecsegés; túlzás/
+# Ver 2021-06-30T09:46:03Z gabor Stat-Verif >.
+白話 白话 [bai2 hua4] /köz|nyelv (történelmileg a klasszikus, írott nyelvvel szemben a mindennapokban használt nyelvváltozat)/üres beszéd; fecsegés; túlzás/
 
 # ID-o72pm5o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -70817,7 +71011,11 @@ XX XX [x x] /x/
 # Ver 2021-04-15T00:18:56Z Adam Stat-New >CC-CEDICT és más Pleco-szótárak
 # 回族 回族 [hui2 zu2] /huj; hui (többségében muszlim nemzetiség Kínában)/
 # Ver 2021-04-15T00:20:27Z Adam Stat-New >angolos alakja nagybetűs
-回族 回族 [hui2 zu2] /huj; Hui (többségében muszlim nemzetiség Kínában)/
+# 回族 回族 [hui2 zu2] /huj; Hui (többségében muszlim nemzetiség Kínában)/
+# Ver 2021-06-30T09:51:25Z gabor Stat-New >magyarul a pinyin átirat is legyen kisbetű, sztem nem kell átvenni az angol ortográfiát
+# 回族 回族 [hui2 zu2] /huj; hui (többségében muszlim nemzetiség Kínában)/
+# Ver 2021-06-30T09:51:29Z gabor Stat-Verif >.
+回族 回族 [hui2 zu2] /huj; hui (többségében muszlim nemzetiség Kínában)/
 
 # ID-o88NN4E
 # Ver 2017-05-21T23:50:37Z Adam Stat-New >塞切尼·伊什特万广场(布达佩斯)  Wikipédia-szócikk alapján
@@ -71605,7 +71803,11 @@ XX XX [x x] /x/
 # Ver 2021-04-18T11:44:43Z Adam Stat-New >.
 # 南京 南京 [nan2 jing1] /(földrajzi név) Nancsing; Nanking; Nanjing (Csiangszu tartomány székhelye; Kína egyik korábbi fővárosa)/
 # Ver 2021-04-18T12:21:28Z Adam Stat-New >.
-南京 南京 [nan2 jing1] /(földrajzi név) Nanking; Nancsing; Nanjing (Csiangszu tartomány székhelye; Kína egyik korábbi fővárosa)/
+# 南京 南京 [nan2 jing1] /(földrajzi név) Nanking; Nancsing; Nanjing (Csiangszu tartomány székhelye; Kína egyik korábbi fővárosa)/
+# Ver 2021-06-30T11:10:31Z gabor Stat-New >pinyin preferált
+# 南京 南京 [nan2 jing1] /(földrajzi név) Nanjing; Nanking; Nancsing (Jiangsu tartomány székhelye)/
+# Ver 2021-06-30T11:10:38Z gabor Stat-Verif >.
+南京 南京 [nan2 jing1] /(földrajzi név) Nanjing; Nanking; Nancsing (Jiangsu tartomány székhelye)/
 
 # ID-p04fs0t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -71655,6 +71857,8 @@ XX XX [x x] /x/
 
 # ID-p05CP7T
 # Ver 2021-04-16T08:48:31Z Adam Stat-New >Pleco-szótárak, kínai Wikipedia
+# 滑梯 滑梯 [hua2 ti1] /csúszda/
+# Ver 2021-06-30T09:25:21Z gabor Stat-Verif >.
 滑梯 滑梯 [hua2 ti1] /csúszda/
 
 # ID-p05LQ5d
@@ -71807,7 +72011,11 @@ XX XX [x x] /x/
 
 # ID-p08ae6g
 # Ver 2021-04-15T23:56:26Z Adam Stat-New >Pleco-szótárak és Baidu
-殺毒 杀毒 [sha1 du2] /vírus|irtó; anti|vírus (számítástechnikai értelemben 软件 szóval kiegészítve is)/vírust ki|irt/fertőtlenít/
+# 殺毒 杀毒 [sha1 du2] /vírus|irtó; anti|vírus (számítástechnikai értelemben 软件 szóval kiegészítve is)/vírust ki|irt/fertőtlenít/
+# Ver 2021-06-30T09:49:27Z gabor Stat-New >fertőtlenítés sokkal inkább 消毒 vagy 灭菌, ez a szó minden jel szerint a számítógépes vírusokra vonatkozik a gyakorlatban
+# 殺毒 杀毒 [sha1 du2] /vírus|irtó; anti|vírus/vírust irt/
+# Ver 2021-06-30T09:49:30Z gabor Stat-Verif >.
+殺毒 杀毒 [sha1 du2] /vírus|irtó; anti|vírus/vírust irt/
 
 # ID-p08gk3k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
