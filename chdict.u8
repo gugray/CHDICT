@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-07-02T02:00:01Z
+# Időbélyeg / Timestamp: 2021-07-13T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -58278,6 +58278,12 @@ X X [X] /X/
 # ID-m15se3s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 星期二 星期二 [xing1 qi1 er4] /kedd/
+
+# ID-m15vX7W
+# Ver 2021-07-12T17:26:03Z gabor Stat-New >dos salidas podcast
+# 動手術 动手术 [dong4 shou3 shu4] /operál; műt/meg|operálják; meg|műtik/
+# Ver 2021-07-12T17:26:10Z gabor Stat-Verif >.
+動手術 动手术 [dong4 shou3 shu4] /operál; műt/meg|operálják; meg|műtik/
 
 # ID-m15yy0a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
