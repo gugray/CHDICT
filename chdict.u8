@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-08-08T02:00:01Z
+# Időbélyeg / Timestamp: 2021-08-10T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -5619,6 +5619,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 做法 做法 [zuo4 fa3] /módszer/gyakorlat/elkészítési mód (pl. ételé)/recept/SZ:個|个[ge4]/
 
+# ID-b14vX9X
+# Ver 2021-08-09T21:03:14Z GaoYanuo Stat-New >HSK4 tankönyv, anyanyelvi tanár szokásos szótárak nem említik.\nhttp://m.translation-dictionary.net/ec/%E6%97%B6%E8%A3%85%E5%B1%95\nhttps://www.omgchinese.com/dictionary/chinese/%E6%97%B6%E8%A3%85%E5%B1%95
+時裝展 时装展 [shi2 zhuang1 zhan3] /divatbemutató/
+
 # ID-b14yM4A
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 交火 交火 [jiao1 huo3] /tűz|harc/
@@ -9477,6 +9481,10 @@
 # ID-b97SR4i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 滑板 滑板 [hua2 ban3] /gör|deszka/
+
+# ID-b97SV6y
+# Ver 2021-08-09T20:10:50Z GaoYanuo Stat-New >HSK4 tankönyv és szokásos szótárak
+開拓者 开拓者 [kai1 tuo4 zhe3] /úttörő (átvitten is)/Pioneer űrszonda/
 
 # ID-b97Vo4V
 # Ver 2017-12-12T20:21:51Z GaoYanuo Stat-New >CC_CEDICT
@@ -15054,6 +15062,8 @@
 
 # ID-d12Uv3Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
+# 婦女 妇女 [fu4 nü3] /nő (nőnemű ember)/
+# Ver 2021-08-09T20:41:31Z GaoYanuo Stat-Verif >szóösszetételekben nő-, női ...
 婦女 妇女 [fu4 nü3] /nő (nőnemű ember)/
 
 # ID-d12UG4F
@@ -33598,7 +33608,9 @@ X X [X] /X/
 
 # ID-g99oR2T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-線條 线条 [xian4 tiao2] /csík/vonal (rajzon, festményen)/
+# 線條 线条 [xian4 tiao2] /csík/vonal (rajzon, festményen)/
+# Ver 2021-08-09T20:57:01Z GaoYanuo Stat-Verif >HSK4 tankönyv és Bartos-Hamar alapján kiegészítve\nTanszöveg: 旗袍的造型与妇女体态相适合，线条简单， 优美大方。
+線條 线条 [xian4 tiao2] /csík/vonal (rajzon, festményen)/körvonal; kontúr/vonalvezetés (ruháé, stb.)/
 
 # ID-g99tK5l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -34952,6 +34964,10 @@ X X [X] /X/
 # ID-h29OY5O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 費 费 [fei4] /költ (pénzt kiad)/díj/költség/pazarló/
+
+# ID-h29Pm2j
+# Ver 2021-08-09T20:36:34Z GaoYanuo Stat-New >HSK4 tankönyv és szokásos szótárak\nTanszövegben: ... 它的直翻领代表孙中山严谨的治国理念 ...
+嚴謹 严谨 [yan2 jin3] /aprólékosan szigorú; alapos; precíz/tömör; velős; jól szerkesztett/
 
 # ID-h29QS3f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -40228,6 +40244,8 @@ X X [X] /X/
 
 # ID-i40hf1S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
+# 服裝 服装 [fu2 zhuang1] /ruha/ruházat/kosztüm/
+# Ver 2021-08-09T20:07:24Z GaoYanuo Stat-Verif >Jelölni kéne, hogy szó-összetételekben "ruha-", "ruházati-", "-öltözet", "-viselet" értelemben is használjak. Pl. ruhaipar, ruházati bolt, népviselet, stb.
 服裝 服装 [fu2 zhuang1] /ruha/ruházat/kosztüm/
 
 # ID-i40hg1r
@@ -42664,6 +42682,10 @@ X X [X] /X/
 # ID-i91oQ3x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 找到 找到 [zhao3 dao4] /meg|talál/talál/
+
+# ID-i91td4m
+# Ver 2021-08-09T20:03:01Z GaoYanuo Stat-New >HSK4 tankönyv és szokásos szótárak
+中山裝 中山装 [zhong1 shan1 zhuang1] /kínai öltöny; tunika (Szun Jat-szen 中山 neve után)/Mao öltöny/
 
 # ID-i92lg0W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -53402,6 +53424,10 @@ X X [X] /X/
 # ID-l12WJ4w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 著陸 着陆 [zhuo2 lu4] /le|száll/földet ér/landol/le|szállás/
+
+# ID-l13hr3N
+# Ver 2021-08-09T20:46:03Z GaoYanuo Stat-New >HSK4 tankönyv és szokásos szótárak
+體態 体态 [ti3 tai4] /test; fizikum/testtartás; póz/
 
 # ID-l13qH7A
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
