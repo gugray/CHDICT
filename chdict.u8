@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-08-10T02:00:01Z
+# Időbélyeg / Timestamp: 2021-08-16T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -5621,7 +5621,11 @@
 
 # ID-b14vX9X
 # Ver 2021-08-09T21:03:14Z GaoYanuo Stat-New >HSK4 tankönyv, anyanyelvi tanár szokásos szótárak nem említik.\nhttp://m.translation-dictionary.net/ec/%E6%97%B6%E8%A3%85%E5%B1%95\nhttps://www.omgchinese.com/dictionary/chinese/%E6%97%B6%E8%A3%85%E5%B1%95
-時裝展 时装展 [shi2 zhuang1 zhan3] /divatbemutató/
+# 時裝展 时装展 [shi2 zhuang1 zhan3] /divatbemutató/
+# Ver 2021-08-15T19:16:15Z gabor Stat-New >elhat
+# 時裝展 时装展 [shi2 zhuang1 zhan3] /divat|bemutató/
+# Ver 2021-08-15T19:16:19Z gabor Stat-Verif >.
+時裝展 时装展 [shi2 zhuang1 zhan3] /divat|bemutató/
 
 # ID-b14yM4A
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -6082,7 +6086,11 @@
 
 # ID-b23JF4T
 # Ver 2021-08-07T23:35:57Z GaoYanuo Stat-New >céges dokumentum, szokásos szótárak
-授課 授课 [shou4 ke4] /órát ad; tanít; előad (oktatási anyagot)/
+# 授課 授课 [shou4 ke4] /órát ad; tanít; előad (oktatási anyagot)/
+# Ver 2021-08-15T19:32:17Z gabor Stat-New >.
+# 授課 授课 [shou4 ke4] /órát ad; tanít/
+# Ver 2021-08-15T19:32:19Z gabor Stat-Verif >.
+授課 授课 [shou4 ke4] /órát ad; tanít/
 
 # ID-b23Kj6D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -8663,6 +8671,12 @@
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 冠 冠 [guan1] /kalap; sapka/korona/
 
+# ID-b81Dz7Z
+# Ver 2021-08-15T19:34:38Z gabor Stat-New >összetételei megvannak már
+# 授 授 [shou4] /át|ad (ünnepélyesen, pl. elismerést)/oktat/
+# Ver 2021-08-15T19:34:46Z gabor Stat-Verif >.
+授 授 [shou4] /át|ad (ünnepélyesen, pl. elismerést)/oktat/
+
 # ID-b81Jy8c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 不良 不良 [bu4 liang2] /rossz/ártalmas/egészségtelen/
@@ -9484,7 +9498,11 @@
 
 # ID-b97SV6y
 # Ver 2021-08-09T20:10:50Z GaoYanuo Stat-New >HSK4 tankönyv és szokásos szótárak
-開拓者 开拓者 [kai1 tuo4 zhe3] /úttörő (átvitten is)/Pioneer űrszonda/
+# 開拓者 开拓者 [kai1 tuo4 zhe3] /úttörő (átvitten is)/Pioneer űrszonda/
+# Ver 2021-08-15T19:22:22Z gabor Stat-New >címke
+# 開拓者 开拓者 [kai1 tuo4 zhe3] /úttörő (átvitten is)/(tulajdonnév) Pioneer űrszonda/
+# Ver 2021-08-15T19:22:40Z gabor Stat-Verif >.
+開拓者 开拓者 [kai1 tuo4 zhe3] /úttörő (átvitten is)/(tulajdonnév) Pioneer űrszonda/
 
 # ID-b97Vo4V
 # Ver 2017-12-12T20:21:51Z GaoYanuo Stat-New >CC_CEDICT
@@ -9696,6 +9714,8 @@
 
 # ID-c03kh2S
 # Ver 2017-05-27T16:41:53Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+# 孫中山 孙中山 [sun1 zhong1 shan1] /(személynév) Szun Jat-szen; Sun Yat-sen; Sun Zhongshan (1866–1925)/
+# Ver 2021-08-15T19:28:20Z gabor Stat-Verif >.
 孫中山 孙中山 [sun1 zhong1 shan1] /(személynév) Szun Jat-szen; Sun Yat-sen; Sun Zhongshan (1866–1925)/
 
 # ID-c03lx9b
@@ -14250,7 +14270,11 @@
 
 # ID-c96oa6Q
 # Ver 2021-08-07T14:10:24Z Adam Stat-New >kínai Wikipedia
-上格 上格 [shang4 ge2] /delativus („eltávolítás-eset”; a magyarban -ról\-ről raggal)/
+# 上格 上格 [shang4 ge2] /delativus („eltávolítás-eset”; a magyarban -ról\-ről raggal)/
+# Ver 2021-08-15T19:07:23Z gabor Stat-New >.
+# 上格 上格 [shang4 ge2] /delativus (nyelvtani eset)/
+# Ver 2021-08-15T19:07:26Z gabor Stat-Verif >.
+上格 上格 [shang4 ge2] /delativus (nyelvtani eset)/
 
 # ID-c96oR0A
 # Ver 2017-05-21T19:28:57Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek (a pinjin-átírás ellenőrizendő)
@@ -16202,7 +16226,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-d37tE1t
 # Ver 2021-08-07T23:42:28Z GaoYanuo Stat-New >céges dokumentum, szokásos szótárak
-報告廳 报告厅 [bao4 gao4 ting1] /előadóterem; auditórium/
+# 報告廳 报告厅 [bao4 gao4 ting1] /előadóterem; auditórium/
+# Ver 2021-08-15T19:28:51Z gabor Stat-New >elhat
+# 報告廳 报告厅 [bao4 gao4 ting1] /előadó|terem; auditórium/
+# Ver 2021-08-15T19:28:53Z gabor Stat-Verif >.
+報告廳 报告厅 [bao4 gao4 ting1] /előadó|terem; auditórium/
 
 # ID-d37zc3J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -16464,7 +16492,11 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-d42tY6V
 # Ver 2021-08-07T23:01:18Z GaoYanuo Stat-New >Céges dokumentum (fegyelmi), Bartos - Hamar és CC-CEDICT
-簽發 签发 [qian1 fa1] /aláír és kiad; kiállít; kibocsát (okmányt, rendeletet, parancsot, stb.)/
+# 簽發 签发 [qian1 fa1] /aláír és kiad; kiállít; kibocsát (okmányt, rendeletet, parancsot, stb.)/
+# Ver 2021-08-15T19:42:32Z gabor Stat-New >.
+# 簽發 签发 [qian1 fa1] /aláír és kiállít (okmányt stb.)/
+# Ver 2021-08-15T19:42:35Z gabor Stat-Verif >.
+簽發 签发 [qian1 fa1] /aláír és kiállít (okmányt stb.)/
 
 # ID-d42zd7l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -20725,6 +20757,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-e31qb6J
 # Ver 2021-08-07T13:10:21Z Adam Stat-New >Wiktionary, kínai Wikipedia, CC-CEDICT
+# 呼格 呼格 [hu1 ge2] /megszólító eset; vocativus/
+# Ver 2021-08-15T19:14:16Z gabor Stat-Verif >.
 呼格 呼格 [hu1 ge2] /megszólító eset; vocativus/
 
 # ID-e31Bz4U
@@ -24497,7 +24531,11 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f13wH1q
 # Ver 2021-08-07T22:47:44Z GaoYanuo Stat-New >termék kísérőlap, szokásos szótárak
-有效期 有效期 [you3 xiao4 qi1] /szavatossági, érvényességi idő/
+# 有效期 有效期 [you3 xiao4 qi1] /szavatossági, érvényességi idő/
+# Ver 2021-08-15T19:44:30Z gabor Stat-New >külön  kell  venni, nem ér összevesszőzni
+# 有效期 有效期 [you3 xiao4 qi1] /szavatossági idő/érvényességi idő/
+# Ver 2021-08-15T19:44:33Z gabor Stat-Verif >.
+有效期 有效期 [you3 xiao4 qi1] /szavatossági idő/érvényességi idő/
 
 # ID-f13GP3B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -24519,7 +24557,11 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f14uC3k
 # Ver 2021-08-07T14:07:31Z Adam Stat-New >Wiktionary és kínai Wikipedia
-出格 出格 [chu1 ge2] /elativus („távolító eset”; a magyarban -ból\-ből raggal)/
+# 出格 出格 [chu1 ge2] /elativus („távolító eset”; a magyarban -ból\-ből raggal)/
+# Ver 2021-08-15T19:07:35Z gabor Stat-New >.
+# 出格 出格 [chu1 ge2] /elativus (nyelvtani eset)/
+# Ver 2021-08-15T19:07:36Z gabor Stat-Verif >.
+出格 出格 [chu1 ge2] /elativus (nyelvtani eset)/
 
 # ID-f14vq3c
 # Ver 2021-04-14T17:52:46Z GaoYanuo Stat-New >Anyanyelvi tanár, szokásos szótárak
@@ -24707,6 +24749,8 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f17NO4t
 # Ver 2021-08-07T13:08:54Z Adam Stat-New >Wiktionary, kínai Wikipedia
+# 屬格 属格 [shu3 ge2] /birtokos eset; genitivus/
+# Ver 2021-08-15T19:14:20Z gabor Stat-Verif >.
 屬格 属格 [shu3 ge2] /birtokos eset; genitivus/
 
 # ID-f17Qs6R
@@ -25070,7 +25114,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # 曏格 向格 [xiang4 ge2] /allativus („külső közelítő eset”; a magyarban -hoz\-hez\-höz raggal)/
 # Ver 2021-08-07T14:04:38Z Adam Stat-Flagged >a hagyományos írásmódú alak hibás lehet, de a program nem tett lehetővé választást (a 向 hagyományos formája jelentéstől függően lehet 向, 曏, 嚮), a kínai Wikipédia tajvani írásmódú szócikke is "向格" néven van, l. még https://www.szotar.net/kinai/%E5%90%91/ és https://en.wiktionary.org/wiki/%E5%90%91#Chinese
 # Ver 2021-08-07T14:05:26Z Adam Stat-Flagged >a hagyományos írásmódú alak hibás lehet, de a program nem tett lehetővé választást (a 向 hagyományos formája jelentéstől függően lehet 向, 曏, 嚮), a kínai Wikipédia tajvani írásmódú szócikke is "向格" néven van, l. még https://www.szotar.net/kinai/%E5%90%91/ és https://en.wiktionary.org/wiki/%E5%90%91#Chinese
-曏格 向格 [xiang4 ge2] /allativus („külső közelítő eset”; a magyarban -hoz\-hez\-höz raggal)/
+# Ver 2021-08-15T19:09:56Z gabor Stat-Flagged >lehet azt modositani
+# 向格 向格 [xiang4 ge2] /allativus (nyelvtani eset)/
+# Ver 2021-08-15T19:11:29Z gabor Stat-Verif >.
+向格 向格 [xiang4 ge2] /allativus (nyelvtani eset)/
 
 # ID-f25Hn5S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -29392,7 +29439,11 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-g12br9l
 # Ver 2021-08-07T13:40:39Z Adam Stat-New >Wiktionary és kínai Wikipedia
-接格 接格 [jie1 ge2] /adessivus („közelében levés” eset; a magyarban -nál\-nél raggal)/
+# 接格 接格 [jie1 ge2] /adessivus („közelében levés” eset; a magyarban -nál\-nél raggal)/
+# Ver 2021-08-15T19:12:05Z gabor Stat-New >.
+# 接格 接格 [jie1 ge2] /adessivus (nyelvtani eset)/
+# Ver 2021-08-15T19:12:07Z gabor Stat-Verif >.
+接格 接格 [jie1 ge2] /adessivus (nyelvtani eset)/
 
 # ID-g12ca6e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -29986,7 +30037,11 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-g24qw8T
 # Ver 2021-08-07T23:24:08Z GaoYanuo Stat-New >Bartos - Hamar, CC-CEDICT.\nA "figyelmeztet" céges dokumentum alapján:\n...在上楼梯时未扶扶手，违反了 "日常行为五要求"， 现予以通报。\nA lépcsőn felfelé menet nem használta a korlátot, ezért figyelmeztetésben részesítem.
-通報 通报 [tong1 bao4] /közlemény; körlevél; értesítés/jelent (pl. eseményt vkinek); értesít, tudat; figyelmeztet/publikáció/szakfolyóirat; közlöny/
+# 通報 通报 [tong1 bao4] /közlemény; körlevél; értesítés/jelent (pl. eseményt vkinek); értesít, tudat; figyelmeztet/publikáció/szakfolyóirat; közlöny/
+# Ver 2021-08-15T19:40:47Z gabor Stat-New >a figyelmeztetés sztem a "feljebbvalónak jelent" részeként érthető
+# 通報 通报 [tong1 bao4] /értesít; közzé|tesz; kör|levél/jelent (feljebbvalónak)/szakfolyóirat; közlöny/
+# Ver 2021-08-15T19:40:50Z gabor Stat-Verif >.
+通報 通报 [tong1 bao4] /értesít; közzé|tesz; kör|levél/jelent (feljebbvalónak)/szakfolyóirat; közlöny/
 
 # ID-g24ra4V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -31525,7 +31580,11 @@ X X [X] /X/
 
 # ID-g55Ew1j
 # Ver 2021-08-07T22:35:53Z GaoYanuo Stat-New >Termék kísérőokmány, szokásos szótárak.
-檢驗員 检验员 [jian3 yan4 yuan2] /ellenőr; felügyelő; vizsgáló (szóösszetételekben, pl. jegyvizsgáló)/
+# 檢驗員 检验员 [jian3 yan4 yuan2] /ellenőr; felügyelő; vizsgáló (szóösszetételekben, pl. jegyvizsgáló)/
+# Ver 2021-08-15T19:49:45Z gabor Stat-New >.
+# 檢驗員 检验员 [jian3 yan4 yuan2] /ellenőr; felügyelő/
+# Ver 2021-08-15T19:49:47Z gabor Stat-Verif >.
+檢驗員 检验员 [jian3 yan4 yuan2] /ellenőr; felügyelő/
 
 # ID-g55Jy3w
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -33610,7 +33669,9 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 線條 线条 [xian4 tiao2] /csík/vonal (rajzon, festményen)/
 # Ver 2021-08-09T20:57:01Z GaoYanuo Stat-Verif >HSK4 tankönyv és Bartos-Hamar alapján kiegészítve\nTanszöveg: 旗袍的造型与妇女体态相适合，线条简单， 优美大方。
-線條 线条 [xian4 tiao2] /csík/vonal (rajzon, festményen)/körvonal; kontúr/vonalvezetés (ruháé, stb.)/
+# 線條 线条 [xian4 tiao2] /csík/vonal (rajzon, festményen)/körvonal; kontúr/vonalvezetés (ruháé, stb.)/
+# Ver 2021-08-15T19:17:47Z gabor Stat-Verif >a vonalvezetés szerintem beleérthető a kontúrba, nem  részleteznék inkább túl
+線條 线条 [xian4 tiao2] /csík/vonal (rajzon, festményen)/körvonal; kontúr/
 
 # ID-g99tK5l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -34255,7 +34316,11 @@ X X [X] /X/
 
 # ID-h12uC0o
 # Ver 2021-08-07T23:29:55Z GaoYanuo Stat-New >Céges dokumentum, szokásos szótárak, korpusz.
-予以 予以 [yu3 yi3] /ad; adományoz; juttat; részesít (pl. elbánásban)/
+# 予以 予以 [yu3 yi3] /ad; adományoz; juttat; részesít (pl. elbánásban)/
+# Ver 2021-08-15T19:37:05Z gabor Stat-New >.
+# 予以 予以 [yu3 yi3] /ad; adományoz; juttat/részesít (vmiben, átvitten)/
+# Ver 2021-08-15T19:37:07Z gabor Stat-Verif >.
+予以 予以 [yu3 yi3] /ad; adományoz; juttat/részesít (vmiben, átvitten)/
 
 # ID-h12yw4s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -34815,7 +34880,11 @@ X X [X] /X/
 # Ver 2021-08-07T12:56:42Z Adam Stat-New >CC-CEDICT
 # 與格 与格 [yu3 ge2] /részes eset; részeshatározói eset; dativus/
 # Ver 2021-08-07T13:21:42Z Adam Stat-New >a Magyar grammatika terminusával (198. o.)
-與格 与格 [yu3 ge2] /részes eset; részeshatározó eset; dativus/
+# 與格 与格 [yu3 ge2] /részes eset; részeshatározó eset; dativus/
+# Ver 2021-08-15T19:14:09Z gabor Stat-New >.
+# 與格 与格 [yu3 ge2] /részes eset; dativus/
+# Ver 2021-08-15T19:14:11Z gabor Stat-Verif >.
+與格 与格 [yu3 ge2] /részes eset; dativus/
 
 # ID-h25ZA2A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -34959,7 +35028,11 @@ X X [X] /X/
 
 # ID-h29Gc9J
 # Ver 2021-08-07T13:32:01Z Adam Stat-New >Wiktionary, kínai Wikipedia
-奪格 夺格 [duo2 ge2] /ablativus („távolító külviszony” eset; a magyarban -tól\-től raggal); szinonima: 離格, 從格/
+# 奪格 夺格 [duo2 ge2] /ablativus („távolító külviszony” eset; a magyarban -tól\-től raggal); szinonima: 離格, 從格/
+# Ver 2021-08-15T19:13:52Z gabor Stat-New >.
+# 奪格 夺格 [duo2 ge2] /ablativus (nyelvtani eset)/
+# Ver 2021-08-15T19:13:54Z gabor Stat-Verif >.
+奪格 夺格 [duo2 ge2] /ablativus (nyelvtani eset)/
 
 # ID-h29OY5O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -34967,7 +35040,11 @@ X X [X] /X/
 
 # ID-h29Pm2j
 # Ver 2021-08-09T20:36:34Z GaoYanuo Stat-New >HSK4 tankönyv és szokásos szótárak\nTanszövegben: ... 它的直翻领代表孙中山严谨的治国理念 ...
-嚴謹 严谨 [yan2 jin3] /aprólékosan szigorú; alapos; precíz/tömör; velős; jól szerkesztett/
+# 嚴謹 严谨 [yan2 jin3] /aprólékosan szigorú; alapos; precíz/tömör; velős; jól szerkesztett/
+# Ver 2021-08-15T19:21:57Z gabor Stat-New >tömörebben, ha már yanjin :)))
+# 嚴謹 严谨 [yan2 jin3] /aprólékosan szigorú/tömör (stílus)/
+# Ver 2021-08-15T19:21:59Z gabor Stat-Verif >.
+嚴謹 严谨 [yan2 jin3] /aprólékosan szigorú/tömör (stílus)/
 
 # ID-h29QS3f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -40246,6 +40323,7 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 服裝 服装 [fu2 zhuang1] /ruha/ruházat/kosztüm/
 # Ver 2021-08-09T20:07:24Z GaoYanuo Stat-Verif >Jelölni kéne, hogy szó-összetételekben "ruha-", "ruházati-", "-öltözet", "-viselet" értelemben is használjak. Pl. ruhaipar, ruházati bolt, népviselet, stb.
+# Ver 2021-08-15T19:23:26Z gabor Stat-Verif >szerintem az ilyesmit nem kell  külön jelölni, az a  magyar sajátossága, hogy módosítói hasznalátnál elkezdünk variálni
 服裝 服装 [fu2 zhuang1] /ruha/ruházat/kosztüm/
 
 # ID-i40hg1r
@@ -41360,7 +41438,11 @@ X X [X] /X/
 
 # ID-i63DZ4e
 # Ver 2021-08-07T13:54:18Z Adam Stat-New >kínai Wiktionary és Wikipedia
-上下格 上下格 [shang4 xia4 ge2] /sublativus („ráhelyezés-eset”; a magyarban -ra\-re raggal)/
+# 上下格 上下格 [shang4 xia4 ge2] /sublativus („ráhelyezés-eset”; a magyarban -ra\-re raggal)/
+# Ver 2021-08-15T19:11:42Z gabor Stat-New >.
+# 上下格 上下格 [shang4 xia4 ge2] /sublativus (nyelvtani eset)/
+# Ver 2021-08-15T19:11:44Z gabor Stat-Verif >.
+上下格 上下格 [shang4 xia4 ge2] /sublativus (nyelvtani eset)/
 
 # ID-i63HW4F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -42286,7 +42368,11 @@ X X [X] /X/
 
 # ID-i82Vb0v
 # Ver 2021-08-07T22:45:39Z GaoYanuo Stat-New >termék kísérőokmány\nPleco\nhttps://context.reverso.net/translation/chinese-english/%E7%94%9F%E4%BA%A7%E6%89%B9%E5%8F%B7
-生產批號 生产批号 [sheng1 chan3 pi1 hao4] /gyártási szám; adag-, tételszám/
+# 生產批號 生产批号 [sheng1 chan3 pi1 hao4] /gyártási szám; adag-, tételszám/
+# Ver 2021-08-15T19:46:53Z gabor Stat-New >ez a lényeg, a shengchan teljesen transzparens előtag
+# 批號 批号 [pi1 hao4] /tétel|szám; adag|szám/
+# Ver 2021-08-15T19:47:13Z gabor Stat-Verif >.
+批號 批号 [pi1 hao4] /tétel|szám; adag|szám/
 
 # ID-i82VL5g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -42685,7 +42771,11 @@ X X [X] /X/
 
 # ID-i91td4m
 # Ver 2021-08-09T20:03:01Z GaoYanuo Stat-New >HSK4 tankönyv és szokásos szótárak
-中山裝 中山装 [zhong1 shan1 zhuang1] /kínai öltöny; tunika (Szun Jat-szen 中山 neve után)/Mao öltöny/
+# 中山裝 中山装 [zhong1 shan1 zhuang1] /kínai öltöny; tunika (Szun Jat-szen 中山 neve után)/Mao öltöny/
+# Ver 2021-08-15T19:27:33Z gabor Stat-New >.
+# 中山裝 中山装 [zhong1 shan1 zhuang1] /Mao-öltöny (Szun Jat-szenről elnevezett, Mao által népszerűsített viselet)/
+# Ver 2021-08-15T19:27:36Z gabor Stat-Verif >.
+中山裝 中山装 [zhong1 shan1 zhuang1] /Mao-öltöny (Szun Jat-szenről elnevezett, Mao által népszerűsített viselet)/
 
 # ID-i92lg0W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -43757,7 +43847,11 @@ X X [X] /X/
 
 # ID-j13Wq7N
 # Ver 2021-08-07T13:51:03Z Adam Stat-New >Wiktionary és kínai Wikipedia
-入格 入格 [ru4 ge2] /illativus („belső közelítő eset”; a magyarban -ba\-be raggal)/
+# 入格 入格 [ru4 ge2] /illativus („belső közelítő eset”; a magyarban -ba\-be raggal)/
+# Ver 2021-08-15T19:11:54Z gabor Stat-New >.
+# 入格 入格 [ru4 ge2] /illativus (nyelvtani eset)/
+# Ver 2021-08-15T19:11:56Z gabor Stat-Verif >.
+入格 入格 [ru4 ge2] /illativus (nyelvtani eset)/
 
 # ID-j14iq6P
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -44214,7 +44308,11 @@ X X [X] /X/
 
 # ID-j21ZC5u
 # Ver 2021-08-07T14:15:03Z Adam Stat-New >Wiktionary, kínai Wikipedia
-情態樣格 情态样格 [qing2 tai4 yang4 ge2] /essivus-modalis („szerepállapot-eset”; a magyarban -ul\-ül raggal)/
+# 情態樣格 情态样格 [qing2 tai4 yang4 ge2] /essivus-modalis („szerepállapot-eset”; a magyarban -ul\-ül raggal)/
+# Ver 2021-08-15T19:07:11Z gabor Stat-New >.
+# 情態樣格 情态样格 [qing2 tai4 yang4 ge2] /essivus-modalis (nyelvtani eset)/
+# Ver 2021-08-15T19:07:14Z gabor Stat-Verif >.
+情態樣格 情态样格 [qing2 tai4 yang4 ge2] /essivus-modalis (nyelvtani eset)/
 
 # ID-j22jy0F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -44332,7 +44430,11 @@ X X [X] /X/
 
 # ID-j24ZK4z
 # Ver 2021-08-07T23:33:48Z GaoYanuo Stat-New >céges dokumentum, szokásos szótárak
-人力資源 人力资源 [ren2 li4 zi1 yuan2] /emberi erőforrás/személyzeti; HR (iroda, osztály, stb.)/
+# 人力資源 人力资源 [ren2 li4 zi1 yuan2] /emberi erőforrás/személyzeti; HR (iroda, osztály, stb.)/
+# Ver 2021-08-15T19:35:42Z gabor Stat-New >.
+# 人力資源 人力资源 [ren2 li4 zi1 yuan2] /emberi erőforrások; HR/
+# Ver 2021-08-15T19:35:44Z gabor Stat-Verif >.
+人力資源 人力资源 [ren2 li4 zi1 yuan2] /emberi erőforrások; HR/
 
 # ID-j25ay1R
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -44416,6 +44518,8 @@ X X [X] /X/
 
 # ID-j27yJ9E
 # Ver 2021-08-07T12:54:43Z Adam Stat-New >CC-CEDICT
+# 賓格 宾格 [bin1 ge2] /tárgy|eset; accusativus/
+# Ver 2021-08-15T19:14:57Z gabor Stat-Verif >.
 賓格 宾格 [bin1 ge2] /tárgy|eset; accusativus/
 
 # ID-j27EA9l
@@ -46709,7 +46813,11 @@ X X [X] /X/
 
 # ID-j76mL7I
 # Ver 2021-08-07T22:41:26Z GaoYanuo Stat-New >termék kísérőokmány,\nhttps://context.reverso.net/translation/chinese-english/%E6%89%A7%E8%A1%8C%E6%A0%87%E5%87%86
-執行標準 执行标准 [zhi2 xing2 biao1 zhun3] /szabvány; előírás; norma (gyártási, környezetvédelmi, stb.)/
+# 執行標準 执行标准 [zhi2 xing2 biao1 zhun3] /szabvány; előírás; norma (gyártási, környezetvédelmi, stb.)/
+# Ver 2021-08-15T19:48:42Z gabor Stat-New >.
+# 執行標準 执行标准 [zhi2 xing2 biao1 zhun3] /szabványok megvalósítása/
+# Ver 2021-08-15T19:49:07Z gabor Stat-Flagged >törlendő: transzparens összetétel a 执行 és 标准 szavakból
+執行標準 执行标准 [zhi2 xing2 biao1 zhun3] /szabványok megvalósítása/
 
 # ID-j76py9a
 # Ver 2021-06-11T19:07:56Z gabor Stat-New >马来西亚 okán
@@ -48574,7 +48682,11 @@ X X [X] /X/
 
 # ID-k13yV6K
 # Ver 2021-08-07T23:40:50Z GaoYanuo Stat-New >céges dokumentum, szokásos szótárak
-人才發展 人才发展 [ren2 cai2 fa1 zhan3] /tehetséggondozás/
+# 人才發展 人才发展 [ren2 cai2 fa1 zhan3] /tehetséggondozás/
+# Ver 2021-08-15T19:31:14Z gabor Stat-New >nekem úgy tűnik, ez inkább üzleti, céges dolog, ezért változtatok. a tehetség_gondozás_ inkább altruista, az állam csinálja, ezt meg a vállalatok üzleti érdekből :)
+# 人才發展 人才发展 [ren2 cai2 fa1 zhan3] /tehetség|fejlesztés/
+# Ver 2021-08-15T19:31:16Z gabor Stat-Verif >.
+人才發展 人才发展 [ren2 cai2 fa1 zhan3] /tehetség|fejlesztés/
 
 # ID-k13BV8F
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -51574,7 +51686,11 @@ X X [X] /X/
 
 # ID-k75wc4a
 # Ver 2021-08-07T22:25:37Z GaoYanuo Stat-New >Termék kísérőokmánya, szokásos szótárak megerősítik.
-合格證 合格证 [he2 ge2 zheng4] /Minőségi tanúsítvány; műbizonylat/
+# 合格證 合格证 [he2 ge2 zheng4] /Minőségi tanúsítvány; műbizonylat/
+# Ver 2021-08-15T19:50:35Z gabor Stat-New >kisbetű
+# 合格證 合格证 [he2 ge2 zheng4] /minőségi tanúsítvány; mű|bizonylat/
+# Ver 2021-08-15T19:50:38Z gabor Stat-Verif >.
+合格證 合格证 [he2 ge2 zheng4] /minőségi tanúsítvány; mű|bizonylat/
 
 # ID-k75yi5X
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -53427,7 +53543,11 @@ X X [X] /X/
 
 # ID-l13hr3N
 # Ver 2021-08-09T20:46:03Z GaoYanuo Stat-New >HSK4 tankönyv és szokásos szótárak
-體態 体态 [ti3 tai4] /test; fizikum/testtartás; póz/
+# 體態 体态 [ti3 tai4] /test; fizikum/testtartás; póz/
+# Ver 2021-08-15T19:18:52Z gabor Stat-New >.
+# 體態 体态 [ti3 tai4] /testtartás/fizikum; megjelenés/
+# Ver 2021-08-15T19:18:55Z gabor Stat-Verif >.
+體態 体态 [ti3 tai4] /testtartás/fizikum; megjelenés/
 
 # ID-l13qH7A
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -53643,7 +53763,11 @@ X X [X] /X/
 
 # ID-l18dA2d
 # Ver 2021-08-07T13:38:22Z Adam Stat-New >Wiktionary és kínai Wikipedia
-內格 内格 [nei4 ge2] /inessivus („belviszony”-eset; a magyarban -ban\-ben raggal)/
+# 內格 内格 [nei4 ge2] /inessivus („belviszony”-eset; a magyarban -ban\-ben raggal)/
+# Ver 2021-08-15T19:12:21Z gabor Stat-New >.
+# 內格 内格 [nei4 ge2] /inessivus (nyelvtani eset)/
+# Ver 2021-08-15T19:12:22Z gabor Stat-Verif >.
+內格 内格 [nei4 ge2] /inessivus (nyelvtani eset)/
 
 # ID-l18ho5G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -55964,6 +56088,8 @@ X X [X] /X/
 
 # ID-l63fK1h
 # Ver 2021-08-07T12:59:51Z Adam Stat-New >angol Wiktionary, kínai Wikipedia
+# 工具格 工具格 [gong1 ju4 ge2] /eszközhatározó eset; eszköz|eset; instrumentalis/
+# Ver 2021-08-15T19:14:38Z gabor Stat-Verif >.
 工具格 工具格 [gong1 ju4 ge2] /eszközhatározó eset; eszköz|eset; instrumentalis/
 
 # ID-l63ny5y
@@ -57281,7 +57407,11 @@ X X [X] /X/
 
 # ID-l91jR0K
 # Ver 2021-08-07T14:30:51Z Adam Stat-New >kínai Wikipedia
-形式樣格 形式样格 [xing2 shi4 yang4 ge2] /essivus-formalis; essivus („állapoteset”; a magyarban -ként raggal)/
+# 形式樣格 形式样格 [xing2 shi4 yang4 ge2] /essivus-formalis; essivus („állapoteset”; a magyarban -ként raggal)/
+# Ver 2021-08-15T19:07:00Z gabor Stat-New >.
+# 形式樣格 形式样格 [xing2 shi4 yang4 ge2] /essivus-formalis; essivus (nyelvtani eset)/
+# Ver 2021-08-15T19:07:02Z gabor Stat-Verif >.
+形式樣格 形式样格 [xing2 shi4 yang4 ge2] /essivus-formalis; essivus (nyelvtani eset)/
 
 # ID-l91oe9H
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -60225,7 +60355,11 @@ X X [X] /X/
 
 # ID-m51CT4L
 # Ver 2021-08-07T22:31:21Z GaoYanuo Stat-New >céges dokumentum, szokásos szótárak
-原材料 原材料 [yuan2 cai2 liao4] /alapanyag; nyersanyag/
+# 原材料 原材料 [yuan2 cai2 liao4] /alapanyag; nyersanyag/
+# Ver 2021-08-15T19:50:08Z gabor Stat-New >elhat
+# 原材料 原材料 [yuan2 cai2 liao4] /alap|anyag; nyers|anyag/
+# Ver 2021-08-15T19:50:10Z gabor Stat-Verif >.
+原材料 原材料 [yuan2 cai2 liao4] /alap|anyag; nyers|anyag/
 
 # ID-m51JF8Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -62680,7 +62814,11 @@ XX XX [x x] /x/
 
 # ID-m98JW3G
 # Ver 2021-08-07T13:34:08Z Adam Stat-New >Wiktionary, kínai Wikipedia
-離格 离格 [li2 ge2] /ablativus („távolító külviszony” eset; a magyarban -tól\-től raggal); szinonima: 奪格, 從格/
+# 離格 离格 [li2 ge2] /ablativus („távolító külviszony” eset; a magyarban -tól\-től raggal); szinonima: 奪格, 從格/
+# Ver 2021-08-15T19:13:31Z gabor Stat-New >szinonimát nem tud jelölni a CHDICT, ha szükséges, külön szócikknek kell felvenni
+# 離格 离格 [li2 ge2] /ablativus (nyelvtani eset)/
+# Ver 2021-08-15T19:13:37Z gabor Stat-Verif >.
+離格 离格 [li2 ge2] /ablativus (nyelvtani eset)/
 
 # ID-m98Vb5S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -68089,7 +68227,11 @@ XX XX [x x] /x/
 
 # ID-o14Nu1o
 # Ver 2021-08-07T13:36:33Z Adam Stat-New >Wiktionary és kínai Wikipedia
-頂格 顶格 [ding3 ge2] /superessivus („rajtalevés” eset; a magyarban -n\-on\-en\-ön raggal)/
+# 頂格 顶格 [ding3 ge2] /superessivus („rajtalevés” eset; a magyarban -n\-on\-en\-ön raggal)/
+# Ver 2021-08-15T19:12:31Z gabor Stat-New >.
+# 頂格 顶格 [ding3 ge2] /superessivus (nyelvtani eset)/
+# Ver 2021-08-15T19:12:33Z gabor Stat-Verif >.
+頂格 顶格 [ding3 ge2] /superessivus (nyelvtani eset)/
 
 # ID-o14NL2a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -69572,7 +69714,11 @@ XX XX [x x] /x/
 
 # ID-o45XJ4B
 # Ver 2021-08-07T23:06:47Z GaoYanuo Stat-New >Céges dokumentum, szokásos szótárak.
-扶手 扶手 [fu2 shou3] /korlát/kartámasz; karfa/kapaszkodó/
+# 扶手 扶手 [fu2 shou3] /korlát/kartámasz; karfa/kapaszkodó/
+# Ver 2021-08-15T19:41:35Z gabor Stat-New >.
+# 扶手 扶手 [fu2 shou3] /korlát; kapaszkodó/kar|támasz; karfa/
+# Ver 2021-08-15T19:41:37Z gabor Stat-Verif >.
+扶手 扶手 [fu2 shou3] /korlát; kapaszkodó/kar|támasz; karfa/
 
 # ID-o46ep0P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -70190,7 +70336,11 @@ XX XX [x x] /x/
 
 # ID-o58Ix4N
 # Ver 2021-08-07T14:46:24Z Adam Stat-New >kínai Wikipedia
-到格 到格 [dao4 ge2] /terminativus („határeset”; a magyarban -ig raggal)/
+# 到格 到格 [dao4 ge2] /terminativus („határeset”; a magyarban -ig raggal)/
+# Ver 2021-08-15T19:06:42Z gabor Stat-New >.
+# 到格 到格 [dao4 ge2] /terminativus (nyelvtani eset)/
+# Ver 2021-08-15T19:06:44Z gabor Stat-Verif >.
+到格 到格 [dao4 ge2] /terminativus (nyelvtani eset)/
 
 # ID-o58JP7t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -70651,7 +70801,9 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 防護 防护 [fang2 hu4] /meg|véd/véd; óv/
 # Ver 2021-08-07T22:54:56Z GaoYanuo Stat-Verif >termék kísérőlap,  korpusz
-防護 防护 [fang2 hu4] /meg|véd/véd; óv/védő, védelmi (szóösszetételekben: pl. védőbevonat, védelmi vonal)/
+# 防護 防护 [fang2 hu4] /meg|véd/véd; óv/védő, védelmi (szóösszetételekben: pl. védőbevonat, védelmi vonal)/
+# Ver 2021-08-15T19:43:31Z gabor Stat-Verif >nem kell kifejteni a speciális magyar fordítást módosítói használatban
+防護 防护 [fang2 hu4] /meg|véd/véd; óv/
 
 # ID-o69Ty4F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
