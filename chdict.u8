@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-08-16T02:00:01Z
+# Időbélyeg / Timestamp: 2021-10-02T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -10079,6 +10079,10 @@
 # ID-c09Qh8W
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 白化病 白化病 [bai2 hua4 bing4] /albinizmus (pigmenthiány okozta betegség)/
+
+# ID-c09Qn8M
+# Ver 2021-10-01T17:03:04Z GaoYanuo Stat-New >tesztlap, szokásos szótárak
+下廚 下厨 [xia4 chu2] /konyhába megy; nekilát főzni/
 
 # ID-c09Ue3a
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -31746,6 +31750,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 哭喊 哭喊 [ku1 han3] /sír; sikoltozik/
 
+# ID-g59cF1Q
+# Ver 2021-10-01T16:41:44Z GaoYanuo Stat-New >Céges doksi, szokásos szótárak
+獎項 奖项 [jiang3 xiang4] /díj, jutalom/
+
 # ID-g59ho1u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 商 商 [shang1] /kereskedelem/kereskedő/üzlet/hányados/(a pentaton skála 2. foka)/Shang dinasztia (i.e. 1700-1045)/(családnév) Shang/
@@ -41029,6 +41037,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 昏倒 昏倒 [hun1 dao3] /el|ájul/össze|esik (ájultában)/
 
+# ID-i56fg4p
+# Ver 2021-10-01T17:00:20Z GaoYanuo Stat-New >vizsga tesztlap, szokásos szótárak
+動聽 动听 [dong4 ting1] /fülbemászó (zene)/kellemesen, érdekesen hangzó/
+
 # ID-i56ka6w
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 構造 构造 [gou4 zao4] /szerkezet; fel|építmény/tektonika/
@@ -43182,6 +43194,10 @@ X X [X] /X/
 # ID-j00JS3F
 # Ver 2017-12-11T20:25:37Z gabor Stat-New >korpusz
 提琴手 提琴手 [ti2 qin2 shou3] /hegedűs (zenész)/
+
+# ID-j00ND7n
+# Ver 2021-10-01T17:06:23Z GaoYanuo Stat-New >tesztlap, szokásos szótárak
+營養品 营养品 [ying2 yang3 pin3] /táplálék; élelem/tápanyag/
 
 # ID-j00QN4f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -45668,6 +45684,10 @@ X X [X] /X/
 # ID-j51Ep2h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 鈣 钙 [gai4] /kalcium/
+
+# ID-j51Ez4z
+# Ver 2021-10-01T16:55:01Z GaoYanuo Stat-New >Céges doksi, szokásos szótárak
+考量 考量 [kao3 liang2] /megfontol; mérlegel; figyelembe vesz/
 
 # ID-j51Js7p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -52374,7 +52394,9 @@ X X [X] /X/
 
 # ID-k90VR0Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-貢獻 贡献 [gong4 xian4] /hozzá|járul/áldoz (vmit: idejét, életét stb.)/hozzá|járulás/
+# 貢獻 贡献 [gong4 xian4] /hozzá|járul/áldoz (vmit: idejét, életét stb.)/hozzá|járulás/
+# Ver 2021-10-01T16:56:53Z GaoYanuo Stat-Verif >Bartos-Hamar alapján kiegészítve
+貢獻 贡献 [gong4 xian4] /hozzá|járul/áldoz (vmit: idejét, életét stb.)/hozzá|járulás/adakozik; felajánl/
 
 # ID-k90Wh3t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -56473,6 +56495,10 @@ X X [X] /X/
 # ID-l71nH2r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 求救 求救 [qiu2 jiu4] /segítségért kiált/segélykiáltás/
+
+# ID-l71oO6n
+# Ver 2021-10-01T16:47:30Z GaoYanuo Stat-New >Céges doksi, szokásos szótárak
+業績 业绩 [ye4 ji4] /teljesítmény, eredmény (üzleti, munkahelyi)/
 
 # ID-l71ph9k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -66904,6 +66930,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 名副其實 名副其实 [ming2 fu4 qi2 shi2] /(kifejezés) a szó igazi értelmében; nem csak nevében; valóságos/
 
+# ID-n86yU5s
+# Ver 2021-10-01T16:27:55Z GaoYanuo Stat-New >Céges doksi, szótárak
+斯堪的納維亞 斯堪的纳维亚 [si1 kan1 di4 na4 wei2 ya4] /Skandinávia/skandináv/
+
 # ID-n86Ay8R
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 冒險家 冒险家 [mao4 xian3 jia1] /kalandor; felfedező/
@@ -70260,6 +70290,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 濫用 滥用 [lan4 yong4] /ki|használ/vissza|él/
 
+# ID-o57gs7A
+# Ver 2021-10-01T16:39:27Z GaoYanuo Stat-New >Céges doksi, szokásos szótárak
+榮獲 荣获 [rong2 huo4] /elnyer, megnyer (díjat, elismerést, stb.)/
+
 # ID-o57jK1Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 槍手 枪手 [qiang1 shou3] /fegyveres (ember)/mester|lövész/más helyett vizsgázó ember/
@@ -71758,7 +71792,9 @@ XX XX [x x] /x/
 
 # ID-o87Tm6Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-創新 创新 [chuang4 xin1] /újdonság/innováció/
+# 創新 创新 [chuang4 xin1] /újdonság/innováció/
+# Ver 2021-10-01T16:50:42Z GaoYanuo Stat-Verif >Bartos-Hamar alapján kieg.
+創新 创新 [chuang4 xin1] /újdonság/innováció/újít; úttörő munkát végez/
 
 # ID-o88bL2n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
