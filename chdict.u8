@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-10-02T02:00:01Z
+# Időbélyeg / Timestamp: 2021-10-11T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -34497,6 +34497,14 @@ X X [X] /X/
 # ID-h16VE0A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 聲浪 声浪 [sheng1 lang4] /hang|hullám/
+
+# ID-h16WQ0Z
+# Ver 2021-10-10T14:45:45Z Adam Stat-New >Pleco
+# 碰瓷 碰瓷 [peng4 ci2] /megjátszott gázolásos baleset "áldozataként" pénzt követel a vétlen sofőrtől (egyfajta csalás)/
+# Ver 2021-10-10T14:50:22Z Adam Stat-New >pontosítás, Wiktionary
+# 碰瓷 碰瓷 [peng4 ci2] /megjátszott vagy szándékosan okozott gázolásos baleset "áldozataként" pénzt követel a vétlen sofőrtől (egyfajta csalás)/
+# Ver 2021-10-10T14:55:11Z Adam Stat-New >.
+碰瓷 碰瓷 [peng4 ci2] /megjátszott vagy szándékosan előidézett gázolásos baleset, illetve értéktárgy törése "áldozataként" pénzt követel a vétlen sofőrtől, illetve járókelőtől (egyfajta csalás)/
 
 # ID-h16XA4b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
