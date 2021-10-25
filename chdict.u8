@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-10-11T02:00:01Z
+# Időbélyeg / Timestamp: 2021-10-25T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -10082,7 +10082,11 @@
 
 # ID-c09Qn8M
 # Ver 2021-10-01T17:03:04Z GaoYanuo Stat-New >tesztlap, szokásos szótárak
-下廚 下厨 [xia4 chu2] /konyhába megy; nekilát főzni/
+# 下廚 下厨 [xia4 chu2] /konyhába megy; nekilát főzni/
+# Ver 2021-10-24T11:38:24Z gabor Stat-New >picit egyszerűbb megfogalmazás
+# 下廚 下厨 [xia4 chu2] /konyhába megy; főzni kezd/
+# Ver 2021-10-24T11:38:27Z gabor Stat-Verif >.
+下廚 下厨 [xia4 chu2] /konyhába megy; főzni kezd/
 
 # ID-c09Ue3a
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -31752,7 +31756,11 @@ X X [X] /X/
 
 # ID-g59cF1Q
 # Ver 2021-10-01T16:41:44Z GaoYanuo Stat-New >Céges doksi, szokásos szótárak
-獎項 奖项 [jiang3 xiang4] /díj, jutalom/
+# 獎項 奖项 [jiang3 xiang4] /díj, jutalom/
+# Ver 2021-10-24T11:48:18Z gabor Stat-New >.
+# 獎項 奖项 [jiang3 xiang4] /díj; jutalom/
+# Ver 2021-10-24T11:48:21Z gabor Stat-Verif >.
+獎項 奖项 [jiang3 xiang4] /díj; jutalom/
 
 # ID-g59ho1u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -34504,7 +34512,12 @@ X X [X] /X/
 # Ver 2021-10-10T14:50:22Z Adam Stat-New >pontosítás, Wiktionary
 # 碰瓷 碰瓷 [peng4 ci2] /megjátszott vagy szándékosan okozott gázolásos baleset "áldozataként" pénzt követel a vétlen sofőrtől (egyfajta csalás)/
 # Ver 2021-10-10T14:55:11Z Adam Stat-New >.
-碰瓷 碰瓷 [peng4 ci2] /megjátszott vagy szándékosan előidézett gázolásos baleset, illetve értéktárgy törése "áldozataként" pénzt követel a vétlen sofőrtől, illetve járókelőtől (egyfajta csalás)/
+# 碰瓷 碰瓷 [peng4 ci2] /megjátszott vagy szándékosan előidézett gázolásos baleset, illetve értéktárgy törése "áldozataként" pénzt követel a vétlen sofőrtől, illetve járókelőtől (egyfajta csalás)/
+# Ver 2021-10-24T11:50:52Z gabor Stat-New >parafrázis esetén az egészet zárójelbe rakjuk, így nem ad találatokat az egyes szavakra, amik nem "fordításai" a címszónak
+# 碰瓷 碰瓷 [peng4 ci2] /(egyfajta csalás\szélhámosság: megjátszott vagy szándékosan előidézett gázolásos baleset, illetve értéktárgy törése "áldozataként" pénzt követel a vétlen sofőrtől, illetve járókelőtől)/
+# Ver 2021-10-24T11:50:56Z gabor Stat-Verif >.
+# Ver 2021-10-24T11:51:19Z gabor Stat-Verif >.
+碰瓷 碰瓷 [peng4 ci2] /(egyfajta csalás\szélhámosság: megjátszott vagy szándékosan előidézett gázolásos baleset, illetve értéktárgy törése "áldozataként" pénzt követel a vétlen sofőrtől vagy járókelőtől)/
 
 # ID-h16XA4b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -41047,7 +41060,11 @@ X X [X] /X/
 
 # ID-i56fg4p
 # Ver 2021-10-01T17:00:20Z GaoYanuo Stat-New >vizsga tesztlap, szokásos szótárak
-動聽 动听 [dong4 ting1] /fülbemászó (zene)/kellemesen, érdekesen hangzó/
+# 動聽 动听 [dong4 ting1] /fülbemászó (zene)/kellemesen, érdekesen hangzó/
+# Ver 2021-10-24T11:41:25Z gabor Stat-New >átfogalmazás példák alapján; inkább általánosan szép, nem speciálisan fülbemászó
+# 動聽 动听 [dong4 ting1] /kellemes hangzású; szép (zene, hang)/
+# Ver 2021-10-24T11:41:27Z gabor Stat-Verif >.
+動聽 动听 [dong4 ting1] /kellemes hangzású; szép (zene, hang)/
 
 # ID-i56ka6w
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -43205,6 +43222,8 @@ X X [X] /X/
 
 # ID-j00ND7n
 # Ver 2021-10-01T17:06:23Z GaoYanuo Stat-New >tesztlap, szokásos szótárak
+# 營養品 营养品 [ying2 yang3 pin3] /táplálék; élelem/tápanyag/
+# Ver 2021-10-24T11:37:39Z gabor Stat-Verif >.
 營養品 营养品 [ying2 yang3 pin3] /táplálék; élelem/tápanyag/
 
 # ID-j00QN4f
@@ -45695,7 +45714,11 @@ X X [X] /X/
 
 # ID-j51Ez4z
 # Ver 2021-10-01T16:55:01Z GaoYanuo Stat-New >Céges doksi, szokásos szótárak
-考量 考量 [kao3 liang2] /megfontol; mérlegel; figyelembe vesz/
+# 考量 考量 [kao3 liang2] /megfontol; mérlegel; figyelembe vesz/
+# Ver 2021-10-24T11:44:55Z gabor Stat-New >elhat
+# 考量 考量 [kao3 liang2] /meg|fontol; mérlegel; figyelembe vesz/
+# Ver 2021-10-24T11:44:57Z gabor Stat-Verif >.
+考量 考量 [kao3 liang2] /meg|fontol; mérlegel; figyelembe vesz/
 
 # ID-j51Js7p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -52404,7 +52427,13 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 貢獻 贡献 [gong4 xian4] /hozzá|járul/áldoz (vmit: idejét, életét stb.)/hozzá|járulás/
 # Ver 2021-10-01T16:56:53Z GaoYanuo Stat-Verif >Bartos-Hamar alapján kiegészítve
-貢獻 贡献 [gong4 xian4] /hozzá|járul/áldoz (vmit: idejét, életét stb.)/hozzá|járulás/adakozik; felajánl/
+# 貢獻 贡献 [gong4 xian4] /hozzá|járul/áldoz (vmit: idejét, életét stb.)/hozzá|járulás/adakozik; felajánl/
+# Ver 2021-10-24T11:42:59Z gabor Stat-Verif >ez tk. mind ugyanaz
+# 貢獻 贡献 [gong4 xian4] /hozzá|járul; fel|ajánl; áldoz (vmit: idejét, életét stb.)/hozzá|járulás; fel|ajánlás; oda|adás//
+# Ver 2021-10-24T11:43:22Z gabor Stat-Verif >.
+# 貢獻 贡献 [gong4 xian4] /hozzá|járul; fel|ajánl; áldoz (vmit: idejét, életét stb.)/
+# Ver 2021-10-24T11:43:37Z gabor Stat-Verif >.
+貢獻 贡献 [gong4 xian4] /hozzá|járul; fel|ajánl; áldoz (vmit: idejét, életét stb.)/hozzá|járulás; fel|ajánlás; oda|adás/
 
 # ID-k90Wh3t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -56506,7 +56535,11 @@ X X [X] /X/
 
 # ID-l71oO6n
 # Ver 2021-10-01T16:47:30Z GaoYanuo Stat-New >Céges doksi, szokásos szótárak
-業績 业绩 [ye4 ji4] /teljesítmény, eredmény (üzleti, munkahelyi)/
+# 業績 业绩 [ye4 ji4] /teljesítmény, eredmény (üzleti, munkahelyi)/
+# Ver 2021-10-24T11:46:55Z gabor Stat-New >.
+# 業績 业绩 [ye4 ji4] /kiemelkedő teljesítmény; kimagasló eredmény (üzleti, munkahelyi)/
+# Ver 2021-10-24T11:46:57Z gabor Stat-Verif >.
+業績 业绩 [ye4 ji4] /kiemelkedő teljesítmény; kimagasló eredmény (üzleti, munkahelyi)/
 
 # ID-l71ph9k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -66940,7 +66973,11 @@ XX XX [x x] /x/
 
 # ID-n86yU5s
 # Ver 2021-10-01T16:27:55Z GaoYanuo Stat-New >Céges doksi, szótárak
-斯堪的納維亞 斯堪的纳维亚 [si1 kan1 di4 na4 wei2 ya4] /Skandinávia/skandináv/
+# 斯堪的納維亞 斯堪的纳维亚 [si1 kan1 di4 na4 wei2 ya4] /Skandinávia/skandináv/
+# Ver 2021-10-24T11:36:46Z gabor Stat-New >címke; csak főnév
+# 斯堪的納維亞 斯堪的纳维亚 [si1 kan1 di4 na4 wei2 ya4] /(földrajzi név) Skandinávia/
+# Ver 2021-10-24T11:36:48Z gabor Stat-Verif >.
+斯堪的納維亞 斯堪的纳维亚 [si1 kan1 di4 na4 wei2 ya4] /(földrajzi név) Skandinávia/
 
 # ID-n86Ay8R
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -70300,7 +70337,11 @@ XX XX [x x] /x/
 
 # ID-o57gs7A
 # Ver 2021-10-01T16:39:27Z GaoYanuo Stat-New >Céges doksi, szokásos szótárak
-榮獲 荣获 [rong2 huo4] /elnyer, megnyer (díjat, elismerést, stb.)/
+# 榮獲 荣获 [rong2 huo4] /elnyer, megnyer (díjat, elismerést, stb.)/
+# Ver 2021-10-24T11:48:59Z gabor Stat-New >.
+# 榮獲 荣获 [rong2 huo4] /el|nyer; meg|nyer (díjat, elismerést)/
+# Ver 2021-10-24T11:49:01Z gabor Stat-Verif >.
+榮獲 荣获 [rong2 huo4] /el|nyer; meg|nyer (díjat, elismerést)/
 
 # ID-o57jK1Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -71802,7 +71843,9 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 創新 创新 [chuang4 xin1] /újdonság/innováció/
 # Ver 2021-10-01T16:50:42Z GaoYanuo Stat-Verif >Bartos-Hamar alapján kieg.
-創新 创新 [chuang4 xin1] /újdonság/innováció/újít; úttörő munkát végez/
+# 創新 创新 [chuang4 xin1] /újdonság/innováció/újít; úttörő munkát végez/
+# Ver 2021-10-24T11:45:32Z gabor Stat-Verif >.
+創新 创新 [chuang4 xin1] /újdonság; innováció/újít; úttörő munkát végez/
 
 # ID-o88bL2n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
