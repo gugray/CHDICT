@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-10-25T02:00:01Z
+# Időbélyeg / Timestamp: 2021-10-31T03:00:02Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -55493,6 +55493,10 @@ X X [X] /X/
 # 達美樂披薩 达美乐披萨 [da2 mei3 le4 pi1 sa4] /(márkanév) Domino's Pizza/
 # Ver 2018-06-26T20:57:02Z gabor Stat-Verif >.
 達美樂披薩 达美乐披萨 [da2 mei3 le4 pi1 sa4] /(márkanév) Domino's Pizza/
+
+# ID-l49Ot5e
+# Ver 2021-10-30T15:35:43Z gabor Stat-New >LMS4E24, szótárak
+辱罵 辱骂 [ru3 ma4] /sérteget; inzultál/
 
 # ID-l49OD6s
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
