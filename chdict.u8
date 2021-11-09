@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-10-31T03:00:02Z
+# Időbélyeg / Timestamp: 2021-11-09T03:00:02Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -2528,7 +2528,8 @@
 # Ver 2021-07-01T16:35:05Z gabor Stat-New >.
 # 伊隆馬斯剋 伊隆马斯克 [yi1 long2 ma3 si1 ke4] /(tulajdonnév) Elon Musk (1971-)/
 # Ver 2021-07-01T16:35:08Z gabor Stat-Verif >.
-伊隆馬斯剋 伊隆马斯克 [yi1 long2 ma3 si1 ke4] /(tulajdonnév) Elon Musk (1971-)/
+# Ver 2021-11-08T11:14:42Z Adam Stat-Verif >.
+伊隆馬斯剋 伊隆马斯克 [yi1 long2 ma3 si1 ke4] /(tulajdonnév) Elon Musk (1971–)/
 
 # ID-a49yt7e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -51352,6 +51353,12 @@ X X [X] /X/
 # ID-k68aJ4T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 當 当 [dang4] /tekint (vminek)/kezel (vmiként)/gondol; vél/fel|ér (vmivel)/meg|felel (vminek)/meg|felelő/helyes/zálogba ad/
+
+# ID-k68ig7d
+# Ver 2021-11-08T13:28:27Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
+# 中國學 中国学 [zhong1 guo2 xue2] /sinológia/
+# Ver 2021-11-08T13:31:43Z Adam Stat-New >.
+中國學 中国学 [zhong1 guo2 xue2] /sinológia (a kínai filozófia, nyelv, irodalom, kultúra és történelem mint tudományterület)/
 
 # ID-k68mq9y
 # Ver 2021-04-29T16:15:14Z Adam Stat-New >https://en.wikipedia.org/wiki/Provinces_of_China + CC-CEDICT
