@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-11-09T03:00:02Z
+# Időbélyeg / Timestamp: 2021-11-13T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -3392,6 +3392,10 @@
 # ID-a69nE2A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 到場 到场 [dao4 chang3] /fel|bukkan/meg|jelenik/jelen van/
+
+# ID-a69tQ4J
+# Ver 2021-11-12T14:31:47Z gabor Stat-New >szótárak, korpusz
+宙斯 宙斯 [zhou4 si1] /(tulajdonnév) Zeusz/
 
 # ID-a69uz0s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -27582,7 +27586,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f74zX6l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-變態 变态 [bian4 tai4] /metamorfózis/abnormális/rendellenes/
+# 變態 变态 [bian4 tai4] /metamorfózis/abnormális/rendellenes/
+# Ver 2021-11-12T14:24:59Z gabor Stat-Verif >kieg - tanár
+變態 变态 [bian4 tai4] /metamorfózis/abnormális; rendellenes/perverz/hentai (pornográf elemeket tartalmazó anime vagy manga)/
 
 # ID-f74AH2A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
