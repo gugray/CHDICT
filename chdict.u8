@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2021-11-13T03:00:01Z
+# Időbélyeg / Timestamp: 2022-01-04T03:00:02Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -2472,6 +2472,10 @@
 # ID-a48AW9X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 抽象 抽象 [chou1 xiang4] /absztrakt/el|vont/
+
+# ID-a48Bo3q
+# Ver 2022-01-03T09:17:33Z Adam Stat-New >kínai fordítója, 李奇 közlése alapján, valamint https://movie.douban.com/celebrity/1137638/  
+萊剋尤金 莱克尤金 [lai2 ke4 you2 jin1] /(tulajdonnév) Rejtő Jenő/
 
 # ID-a48Ya4h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
