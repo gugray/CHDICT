@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-01-04T03:00:02Z
+# Időbélyeg / Timestamp: 2022-02-16T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -21481,7 +21481,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-e46xz9Q
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
-成癮 成瘾 [cheng2 yin3] /függőség/függő (vmitől)/
+# 成癮 成瘾 [cheng2 yin3] /függőség/függő (vmitől)/
+# Ver 2022-02-15T15:02:00Z NagyHenrik Stat-Verif >吸毒成瘾xīdú chéngyǐn-kábítószer-függőség，drogfüggőség\n成瘾症chéngyǐn zhèng-szenvedélybetegség
+成癮 成瘾 [cheng2 yin3] /függőség/függő (vmitől)///
 
 # ID-e46Pl6a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
