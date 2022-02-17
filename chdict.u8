@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-02-16T03:00:01Z
+# Időbélyeg / Timestamp: 2022-02-17T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -3849,7 +3849,9 @@
 
 # ID-a77zf7R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-呼籲 呼吁 [hu1 yu4] /kíván; kiált (vmiért: pl. emberek békéért)/
+# 呼籲 呼吁 [hu1 yu4] /kíván; kiált (vmiért: pl. emberek békéért)/
+# Ver 2022-02-16T13:38:56Z NagyHenrik Stat-Verif >https://www.szotar.net/kinai/%E5%91%BC%E5%90%81/
+呼籲 呼吁 [hu1 yu4] /kíván; kiált (vmiért: pl. emberek békéért)/felhív(ást intéz), felszólít/呼吁团结 hūyùtuánjié egységre szólít (fel)/发出紧急呼吁 fāchū jǐnjí hūyù sürgős felhívást ad ki/呼吁书 hūyù shū [fn] felhívás, petíció/
 
 # ID-a77CJ9a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -7175,6 +7177,10 @@
 # Ver 2021-06-30T11:09:59Z gabor Stat-Verif >.
 青島 青岛 [qing1 dao3] /(földrajzi név) Qingdao; Csingtao (város Shandong tartományban)/
 
+# ID-b47Oz1A
+# Ver 2022-02-16T12:53:44Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E9%85%92%E7%B2%BE%E6%88%90%E7%98%BE%E7%97%87/14363813?fr=aladdin
+酒精依賴癥 酒精依赖症 [jiu3 jing1 yi1 lai4 zheng1] /alkoholfüggőség/酒精依赖症 Jiǔjīng yīlài zhèng alkoholfüggőség/酒精成瘾症 Jiǔjīng chéng yǐn zhèng alkoholfüggőség/
+
 # ID-b47PW2w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 米奇 米奇 [mi3 qi2] /(átirat) Micky; Mickey; Miki; Mickey egér/
@@ -9838,6 +9844,10 @@
 # ID-c04VX4w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 攪 搅 [jiao3] /kever/össze|kever/bosszant; zavar/
+
+# ID-c05cY9N
+# Ver 2022-02-16T07:47:17Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%AC%A7%E6%B4%B2%E5%AE%89%E5%85%A8%E4%B8%8E%E5%90%88%E4%BD%9C%E7%BB%84%E7%BB%87/1701095?fromtitle=%E6%AC%A7%E5%AE%89%E7%BB%84%E7%BB%87&fromid=11158743&fr=aladdin
+歐洲安全與合作組織 欧洲安全与合作组织 [ou1 zhou1 an1 quan2 yu3 he2 zuo4 zu3 zhi1] /EBESZ，Európai Biztonsági és Együttműködési Szervezet /Organization for Security and Co-operation in Europe, OSCE/rövidítve:欧安组织 Ōu ān zǔzhī/
 
 # ID-c05dT6K
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -12570,6 +12580,10 @@
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 霍爾布魯克 霍尔布鲁克 [huo4 er3 bu4 lu3 ke4] /(átirat) Holbrook; Holbrooke/
 
+# ID-c61Et7l
+# Ver 2022-02-16T07:27:00Z NagyHenrik Stat-New >https://www.szotar.net/kinai/%E6%89%A7%E6%94%BF/#
+執政地位 执政地位 [zhi2 zheng4 di4 wei4] /hatalmi\kormányzati pozíció/任何一个执政党要想巩固执政地位 Rènhé zhízhèng dǎng xiǎng gǒnggù zhízhèng dìwèi Minden kormánypárt meg akarja szilárdítani hatalmi pozícióját. //
+
 # ID-c61ON5u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 伸出 伸出 [shen1 chu1] /ki|nyújt/
@@ -12911,6 +12925,10 @@
 # ID-c68UR0e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 以 以 [yi3] /meg|fog/fel|használ/-val; -vel/szerint/(ige előtti tárgy elöljárószava)/miatt/okán/céljából/azért, hogy/
+
+# ID-c69bE1V
+# Ver 2022-02-16T13:07:45Z NagyHenrik Stat-New >https://www.szotar.net/kinai/%E5%90%90%E6%A7%BD/
+吐槽 吐槽 [tu4 cao2] / leszól, kigúnyol/吐槽已经是互联网时代最原生态的社会现象之一。Tǔcáo yǐjīng shì hùliánwǎng shídài zuì yuán shēngtài de shèhuì xiànxiàng zhī yī. A trollkodás az internet korának egyik legkezdetlegesebb társadalmi jelenségévé vált./
 
 # ID-c69jj3Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -17163,6 +17181,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 怒 怒 [nu4] /düh/harag/
 
+# ID-d56nl0z
+# Ver 2022-02-16T12:45:58Z NagyHenrik Stat-New >https://www.jidianwang.com/entry/12080427.html
+成癮癥 成瘾症 [cheng2 yin3 zheng1] /szenvedélybetegség/成瘾症chéngyǐn zhèng/
+
 # ID-d56ro4c
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 # 方塊 方块 [fang1 kuai4] /kocka; négyzet/treff (kártya)/
@@ -19044,7 +19066,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-d95pP5d
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
-釋懷 释怀 [shi4 huai2] /meg|könnyebbül; fel|szabadul/túl|teszi magát/el|enged/
+# 釋懷 释怀 [shi4 huai2] /meg|könnyebbül; fel|szabadul/túl|teszi magát/el|enged/
+# Ver 2022-02-16T12:02:55Z NagyHenrik Stat-Verif >https://www.szotar.net/kinai/%E9%87%8A%E6%80%80/
+釋懷 释怀 [shi4 huai2] /meg|könnyebbül; fel|szabadul/túl|teszi magát/el|enged/[ige] [rendszerint tagadott alakban] kitöröl a szívéből, elenged a lelkéből/一个人短暂的生命里，总会有那么一些事是难以释怀的 - Yīgè rén duǎnzàn de shēngmìng lǐ, zǒng huì yǒu nàme yīxiē shì shì nányǐ shìhuái de - Az ember rövidke életében mindig lesznek dolgok, amelyeket nehéz elengedni./我释怀的笑，过去的伤，真的能遗忘。 - Wǒ shìhuái de xiào, guòqù de shāng, zhēn de néng yíwàng - Megkönnyebbülten mosolyodtan, tényleg el lehet felejteni a múltbeli fájdalmakat./
 
 # ID-d95qh0w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -23681,6 +23705,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 辛 辛 [xin1] /csípős/keserű/(családnév) Xin/
 
+# ID-e94Co5t
+# Ver 2022-02-16T06:42:04Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E9%9D%92%E5%B9%B4%E6%B0%91%E4%B8%BB%E4%B8%BB%E4%B9%89%E8%80%85%E8%81%94%E7%9B%9F/10070650?fr=aladdin
+青年民主主義者聯盟 青年民主主义者联盟 [qing1 nian2 min2 zhu3 zhu3 yi4 zhe3 lian2 meng2] /Fiatal Demokraták Szövetsége/
+
 # ID-e94YB1m
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 相助 相助 [xiang1 zhu4] /segítik egymást/
@@ -24753,6 +24781,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f17so8i
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 未婚 未婚 [wei4 hun1] /nem házas; hajadon/
+
+# ID-f17yM1Q
+# Ver 2022-02-16T07:03:52Z NagyHenrik Stat-New >http://dict.cn/Skepticism\nhttps://baike.baidu.com/item/%E6%80%80%E7%96%91%E4%B8%BB%E4%B9%89/10353717?fr=aladdin
+懷疑主義 怀疑主义 [huai2 yi2 zhu3 yi4] /szkepticizmus/
 
 # ID-f17zP7r
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -27410,6 +27442,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 昂 昂 [ang2] /fel|szegi fejét/fel|emel/magas; szárnyaló/
 
+# ID-f71zV3i
+# Ver 2022-02-16T11:45:41Z NagyHenrik Stat-New >https://hanyu.baidu.com/zici/s?wd=%E5%BF%90%E5%BF%91&query=%E5%BF%90%E5%BF%91&srcid=28232&from=kg0
+忐忑 忐忑 [tan3 te4] /izgatott, ideges [mn] /nyugtalan, zavart/kényelmetlenül\kellemetlenül érezi magát/今天第一次对她撒了谎,我心里一直忐忑不安。- Jīntiān dì yī cì duì tā sāle huǎng, wǒ xīnlǐ yīzhí tǎntèbù'ān. - Ma hazudtam neki először, és egyfolytában kényelmetlenül éreztem magam./
+
 # ID-f71Px7x
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 受寵 受宠 [shou4 chong3] /kivételeznek vele (feljebbvalók)/el van kényeztetve/
@@ -29477,6 +29513,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-g12cB4i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 毫無 毫无 [hao2 wu2] /egyáltalán nem/
+
+# ID-g12eh9w
+# Ver 2022-02-16T06:39:34Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E9%9D%92%E5%B9%B4%E6%B0%91%E4%B8%BB%E4%B8%BB%E4%B9%89%E8%80%85%E8%81%94%E7%9B%9F/10070650?fr=aladdin
+青民盟 青民盟 [qing1 min2 meng2] /FIDESZ//
 
 # ID-g12eK3c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -32700,6 +32740,10 @@ X X [X] /X/
 # ID-g79JV1z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 拔 拔 [ba2] /fel|húz/ki|húz/meg|ragad/
+
+# ID-g79Pp1f
+# Ver 2022-02-16T13:14:26Z NagyHenrik Stat-New >https://www.szotar.net/kinai/%E5%8E%9F%E7%94%9F%E6%80%81/
+原生態 原生态 [yuan2 sheng1 tai4] / kezdetleges, egyszerű, primitív/原生态文化 Yuán shēngtài wénhuà Eredeti\érintetlen kultúra/
 
 # ID-g79Zj3F
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -38353,6 +38397,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 摔交 摔交 [shuai1 jiao1] /birkózik/el|esik/
 
+# ID-h99ns1t
+# Ver 2022-02-16T07:22:45Z NagyHenrik Stat-New >https://www.szotar.net/kinai/%E6%89%A7%E6%94%BF/
+執政黨 执政党 [zhi2 zheng4 dang3] /kormánypárt, az uralkodó párt, a hatalmon lévő párt/执政党必须和在野党商议这项提议 - A kormánypártnak tárgyalnia kell erről a javaslatról az ellenzéki pártokkal./Zhízhèng dǎng bìxū hé zài yědǎng shāngyì zhè xiàng tíyì/
+
 # ID-h99zk7l
 # Ver 2019-07-01T15:40:59Z GaoYanuo Stat-New >forrás: munkahelyi szakzsargon. ref.:\nhttps://www.xyzdict.com/en/chinese-english/%E6%93%8D%E4%BD%9C%E5%8F%98%E9%87%8F
 操作變量 操作变量 [cao1 zuo4 bian4 liang4] /manipulált változó/végrehajtójel, beavatkozó jel/számított változó/
@@ -40388,6 +40436,10 @@ X X [X] /X/
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 推進器 推进器 [tui1 jin4 qi4] /hajtó|mű/propeller/
 
+# ID-i40Od3X
+# Ver 2022-02-16T07:30:53Z NagyHenrik Stat-New >https://www.szotar.net/szocikk/lcnhu022018-26239-jix
+執政能力 执政能力 [zhi2 zheng4 neng2 li4] /kormányzóképesség/继续执政 jìxù zhízhèng folytatja a kormányzást, hatalomban marad/加强党的执政能力建设 Jiāqiáng dǎng de zhízhèng nénglì jiànshè A párt kormányzóképességének megerősítése//
+
 # ID-i41fg7s
 # Ver 2017-05-25T13:48:40Z Adam Stat-New >Wiktionary, CC-CEDICT, HanDeDict
 編碼 编码 [bian1 ma3] /kód; kódolás/kódol; rejtjelez/
@@ -41756,7 +41808,9 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 排斥 排斥 [pai2 chi4] /el|utasít/ki|lök (test magából)/
 # Ver 2021-04-09T20:31:41Z GaoYanuo Stat-Verif >Bartos-Hamar alapján kiegészítve
-排斥 排斥 [pai2 chi4] /el|utasít/ki|lök (test magából)/taszít/
+# 排斥 排斥 [pai2 chi4] /el|utasít/ki|lök (test magából)/taszít/
+# Ver 2022-02-16T12:14:21Z NagyHenrik Stat-Verif >https://www.szotar.net/kinai/%E6%8E%92%E6%96%A5/
+排斥 排斥 [pai2 chi4] /1. el|utasít 2. ki|lök (test magából) 3. taszít 4. kizár 5. elűz 6.  ‹fiz› taszít/》他排斥所有新鲜事物。 - Tā páichì suǒyǒu xīnxiān shìwù - Minden új dolgot elutasít./》现实主义的创作方法并不排斥艺术上的夸张。 - Xiànshí zhǔyì de chuàngzuò fāngfǎ bìng bù páichì yìshù shàng de kuāzhāng - A realizmus alkotói módszere nem zárja ki a művészi túlzást./》同种电荷互相排斥。 -  Tóngzhǒng diànhè hùxiāng páichì -  Az azonos elektromos töltések taszítják egymást./
 
 # ID-i68EH0k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -46249,6 +46303,10 @@ X X [X] /X/
 # ID-j62Fy1x
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 曾祖父母 曾祖父母 [ceng2 zu3 fu4 mu3] /déd|szülők/
+
+# ID-j62Kx9S
+# Ver 2022-02-16T12:52:08Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E9%85%92%E7%B2%BE%E6%88%90%E7%98%BE%E7%97%87/14363813?fr=aladdin
+酒精成癮癥 酒精成瘾症 [jiu3 jing1 cheng2 yin3 zheng1] /alkoholfüggőség/酒精成瘾症 Jiǔjīng chéng yǐn zhèng alkoholfüggőség/酒精依赖症 Jiǔjīng yīlài zhèng alkoholfüggőség/
 
 # ID-j62KT9M
 # Ver 2021-03-30T14:48:33Z Adam Stat-New >CC-CEDICT, Wikipedia
@@ -53137,6 +53195,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 殘障 残障 [can2 zhang4] /rokkant/fogyatékos/mozgás|sérült/
 
+# ID-l02Vj1o
+# Ver 2022-02-16T13:44:22Z NagyHenrik Stat-New >https://www.szotar.net/szocikk/lcnhu022018-23064-huy
+呼吁書 呼吁书 [hu1 yu4 shu1] /felhívás, petíció/已经签署了此次呼吁书 Yǐjīng qiānshǔ le cǐcì hūyùshū Már aláírták ezt petíciót./
+
 # ID-l02YN2C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 夫人 夫人 [fu1 ren5] /hölgy/feleség/-né (utótagként)/SZ:位[wei4]/
@@ -53502,6 +53564,10 @@ X X [X] /X/
 # ID-l10lB5S
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 探視 探视 [tan4 shi4] /látogat (beteget, rabot stb.)/
+
+# ID-l10pe6I
+# Ver 2022-02-16T08:16:13Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%A6%82%E7%81%AB%E5%A6%82%E8%8D%BC/830273
+如火如荼 如火如荼 [ru2 huo3 ru2 tu2] /nagyszerű，pompás，pazar，fenséges（látvány）/竞选活动已经是进行得如火如荼.- Jìngxuǎn huódòng yǐjīng shì jìnxíng dé rúhuǒrútú - A kampány már javában zajlik./A kifejezést nagyszabású, túláradó, lelkes cselekmények leírására használják; pozitív értelemben./城市保护运动开展得如火如荼.-Chéngshì bǎohù yùndòng kāizhǎn dé rúhuǒrútú - A városi természetvédelmi mozgalom teljes lendületben van./
 
 # ID-l10ue5u
 # Ver 2017-05-23T17:29:10Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
@@ -57790,6 +57856,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 薰 薰 [xun1] /illat (virágé, füstölőé)/illatos fű/kumarin/
 
+# ID-l97FZ7B
+# Ver 2022-02-16T12:58:59Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%AF%92%E5%93%81%E4%BE%9D%E8%B5%96/15796709?fr=aladdin
+毒品依賴 毒品依赖 [du2 pin3 yi1 lai4] /kábítószer-függőség，drogfüggőség/
+
 # ID-l97IV1h
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 馬力 马力 [ma3 li4] /ló|erő/
@@ -58336,6 +58406,10 @@ X X [X] /X/
 # ID-m08Di4y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 教師 教师 [jiao4 shi1] /tanár/SZ:個|个[ge4]/
+
+# ID-m08FL7J
+# Ver 2022-02-16T07:18:58Z NagyHenrik Stat-New >https://www.szotar.net/kinai/%E6%89%A7%E6%94%BF/
+執政 执政 [zhi2 zheng4] /1.hatalmon\hivatalban van, /2.kormányoz\irányít\vezet [államot] /国家的领导方式和执政方式 - Az ország vezetésének és kormányzásának módja/Guójiā de lǐngdǎo fāngshì hé zhízhèng fāngshì/
 
 # ID-m08Oa3D
 # Ver 2021-04-09T20:49:31Z GaoYanuo Stat-New >HSK4 tankönyv és szokásos szótárak
@@ -63545,6 +63619,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 深奧 深奥 [shen1 ao4] /mély/homályos/
 
+# ID-n13QW0m
+# Ver 2022-02-16T12:36:13Z NagyHenrik Stat-New >https://www.szotar.net/szocikk/lcnhu022018-52663-sho
+組閣 组阁 [zu3 ge2] /kormányt\kabinetet alakít/megszervezi a vezetőséget/授命组阁 shòumìng zǔgé elrendeli a kormányalakítást/女王即任命他组阁. Nǚwáng jí rènmìng tā zǔgé. A királynő megbízta a kabinet megalakításával. //
+
 # ID-n13YG4x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 即使 即使 [ji2 shi3] /még akkor is, ha/
@@ -63737,6 +63815,10 @@ XX XX [x x] /x/
 # 徐州 徐州 [xu2 zhou1] /(földrajzi név) Xuzhou; Hszücsou (város Jiangsu tartományban)/
 # Ver 2021-07-01T14:53:22Z gabor Stat-Verif >.
 徐州 徐州 [xu2 zhou1] /(földrajzi név) Xuzhou; Hszücsou (város Jiangsu tartományban)/
+
+# ID-n17Rk4V
+# Ver 2022-02-16T07:43:45Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%AC%A7%E6%B4%B2%E5%AE%89%E5%85%A8%E4%B8%8E%E5%90%88%E4%BD%9C%E7%BB%84%E7%BB%87/1701095?fromtitle=%E6%AC%A7%E5%AE%89%E7%BB%84%E7%BB%87&fromid=11158743&fr=aladdin
+歐安組織 欧安组织 [ou1 an1 zu3 zhi1] /EBESZ，Európai Biztonsági és Együttműködési Szervezet/OSCE（en）， Organization for Security and Co-operation in Europe/欧洲安全与合作组织 Ōuzhōu ānquán yǔ hézuò zǔzhī/
 
 # ID-n17RU1i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -66619,6 +66701,10 @@ XX XX [x x] /x/
 # ID-n77Lr1s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 地區 地区 [di4 qu1] /terület/körzet/régió/SZ:個|个[ge4]/
+
+# ID-n78en2y
+# Ver 2022-02-16T11:50:37Z NagyHenrik Stat-New >https://hanyu.baidu.com/zici/s?wd=%E5%BF%90%E5%BF%91&query=%E5%BF%90%E5%BF%91&srcid=28232&from=kg0
+忐忑不安 忐忑不安 [tan3 te4 bu4 an1] /nyugtalan, ideges, nyughatatlan/他预感到有什么事情要发生，心里忐忑不安。 - Tā yùgǎn dào yǒu shé me shìqíng yào fāshēng, xīnlǐ tǎntèbù'ān - Érezte, hogy valami történni fog, és nyugtalan volt./
 
 # ID-n78pA9H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -73510,6 +73596,12 @@ XX XX [x x] /x/
 # 寄件人 寄件人 [ji4 jian4 ren2] /feladó; küldő (küldeményé)/
 # Ver 2017-11-27T17:24:51Z gabor Stat-Verif >.
 寄件人 寄件人 [ji4 jian4 ren2] /feladó; küldő (küldeményé)/
+
+# ID-p17Pi5M
+# Ver 2022-02-16T12:41:11Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%90%B8%E6%AF%92%E6%88%90%E7%98%BE%E8%AE%A4%E5%AE%9A%E5%8A%9E%E6%B3%95
+# 吸毒成癮 吸毒成瘾 [xi1 du2 cheng2 yin3] /kábítószer-függőség，drogfüggőség/
+# Ver 2022-02-16T12:58:15Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%AF%92%E5%93%81%E4%BE%9D%E8%B5%96/15796709?fr=aladdin
+吸毒成癮 吸毒成瘾 [xi1 du2 cheng2 yin3] /kábítószer-függőség，drogfüggőség/毒品依赖 Dúpǐn yīlài kábítószer-függőség，drogfüggőség/
 
 # ID-p18iQ9a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
