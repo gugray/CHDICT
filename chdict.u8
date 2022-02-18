@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-02-17T03:00:01Z
+# Időbélyeg / Timestamp: 2022-02-18T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -666,6 +666,10 @@
 # ID-a12Ju8l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 貧乏 贫乏 [pin2 fa2] /hiányos/szegényes/gyér/
+
+# ID-a12Lx6e
+# Ver 2022-02-17T03:12:42Z NagyHenrik Stat-New >http://dict.cn/%E5%90%8C%E7%90%86%E5%BF%83
+同理心 同理心 [tong2 li3 xin1] /empátia/欠缺同理心的人均会容易被人讨厌。/Qiànquē tóng lǐ xīn de rénjūn huì róngyì bèi rén tǎoyàn. /Az empátia hiányát mutató emberek könnyen ellenszenvesek lehetnek./
 
 # ID-a12MJ4R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -2175,6 +2179,10 @@
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 光源 光源 [guang1 yuan2] /fény|forrás/
 
+# ID-a43BC9N
+# Ver 2022-02-17T05:41:43Z NagyHenrik Stat-New >https://zh.wikipedia.org/wiki/%E6%88%90%E5%90%89%E6%80%9D%E6%B1%97
+成吉思汗 成吉思汗 [cheng2 ji2 si1 han2] /Dzsingisz mongol nagykán/eredeti nevén Temüdzsin 1162. április 16. – 1227. augusztus 18.) /
+
 # ID-a43Ih1G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 靴子 靴子 [xue1 zi5] /csizma/
@@ -2546,6 +2554,12 @@
 # ID-a49Hx4Q
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 出亂子 出乱子 [chu1 luan4 zi5] /félre|sikerül/bajba kerül/
+
+# ID-a49Pk4R
+# Ver 2022-02-17T13:24:59Z NagyHenrik Stat-New >https://www.szotar.net/kinai/%E7%BF%BB%E8%84%B8/
+# 翻臉 翻脸 [fan1 lian3] /megneheztel\megharagszik vkire, hirtelen ellenségessé válik vki iránt, elfordul vkitől/     他俩从来没有翻过脸。 Tā liǎ cónglái méiyǒu fānguo liǎn. Kettejük között soha nem volt harag./     翻脸 不认人 fānliǎn bù rèn rén elfordul tőle, és meg sem ismeri/     平时暧昧来暧昧去，两人怎么翻脸都能这么快    Píngshí àimèi lái àimèi qù, liǎng rén zěnme fānliǎn dōu néng zhème kuài     Hogyan fordulhat el egymástól két ember ilyen gyorsan , amikor általában olyan kedvesek egymással?/
+# Ver 2022-02-17T13:27:25Z NagyHenrik Stat-New >https://www.szotar.net/kinai/%E7%BF%BB%E8%84%B8/
+翻臉 翻脸 [fan1 lian3] /megneheztel\megharagszik vkire, hirtelen ellenségessé válik vki iránt, elfordul vkitől/     他俩从来没有翻过脸。 Tā liǎ cónglái méiyǒu fānguo liǎn. Kettejük között soha nem volt harag./     翻脸 不认人 fānliǎn bù rèn rén elfordul tőle, és meg sem ismeri/  /
 
 # ID-a49QB0k
 # Ver 2021-03-30T14:29:27Z Adam Stat-New >CC-CEDICT, Wikipedia
@@ -13041,6 +13055,10 @@
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 權勢 权势 [quan2 shi4] /hatalom és befolyás/
 
+# ID-c71VB1a
+# Ver 2022-02-17T05:37:30Z NagyHenrik Stat-New >https://zh.wikipedia.org/wiki/%E6%AC%BD%E5%AF%9F%E6%B1%97%E5%9C%8B
+金帳汗國 金帐汗国 [jin1 zhang4 han2 guo2] /Arany Horda/mánéven：钦察汗国 Qīn chá hàn guó Kipchak Kánság/
+
 # ID-c72hL7k
 # Ver 2020-02-23T10:49:47Z GaoYanuo Stat-New >tankönyv, korpusz, CC-CEDICT
 # 親自動手 亲自动手 [qin1 zi4 dong4 shou3] /saját kezűleg/
@@ -15382,6 +15400,10 @@
 # ID-d18an4q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 專程 专程 [zhuan1 cheng2] /különleges utazás (vmilyen célból)/
+
+# ID-d18aT5w
+# Ver 2022-02-17T03:06:48Z NagyHenrik Stat-New >https://chinesedictionary.cc/?handler=QueryWorddict&swdqb=%E6%97%A0%E4%BA%BA%E6%9C%BA
+無人機 无人机 [wu2 ren2 ji1] /drón/távirányított repülőgép/
 
 # ID-d18aZ3g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -17797,6 +17819,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 商務 商务 [shang1 wu4] /üzleti ügyek/kereskedelem/
 
+# ID-d67ZR1X
+# Ver 2022-02-17T13:16:32Z NagyHenrik Stat-New >https://www.szotar.net/kinai/%E6%BB%A1%E6%B4%B2%E5%9B%BD/
+偽滿 伪满 [wei3 man3] /‹tört› Mandzsukuo [1932-1945 között japán vezetésű bábállam]/(满洲国 Mǎnzhōuguó) /
+
 # ID-d68eF1y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 湖泊 湖泊 [hu2 po1] /tó/
@@ -19068,7 +19094,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 # 釋懷 释怀 [shi4 huai2] /meg|könnyebbül; fel|szabadul/túl|teszi magát/el|enged/
 # Ver 2022-02-16T12:02:55Z NagyHenrik Stat-Verif >https://www.szotar.net/kinai/%E9%87%8A%E6%80%80/
-釋懷 释怀 [shi4 huai2] /meg|könnyebbül; fel|szabadul/túl|teszi magát/el|enged/[ige] [rendszerint tagadott alakban] kitöröl a szívéből, elenged a lelkéből/一个人短暂的生命里，总会有那么一些事是难以释怀的 - Yīgè rén duǎnzàn de shēngmìng lǐ, zǒng huì yǒu nàme yīxiē shì shì nányǐ shìhuái de - Az ember rövidke életében mindig lesznek dolgok, amelyeket nehéz elengedni./我释怀的笑，过去的伤，真的能遗忘。 - Wǒ shìhuái de xiào, guòqù de shāng, zhēn de néng yíwàng - Megkönnyebbülten mosolyodtan, tényleg el lehet felejteni a múltbeli fájdalmakat./
+# 釋懷 释怀 [shi4 huai2] /meg|könnyebbül; fel|szabadul/túl|teszi magát/el|enged/[ige] [rendszerint tagadott alakban] kitöröl a szívéből, elenged a lelkéből/一个人短暂的生命里，总会有那么一些事是难以释怀的 - Yīgè rén duǎnzàn de shēngmìng lǐ, zǒng huì yǒu nàme yīxiē shì shì nányǐ shìhuái de - Az ember rövidke életében mindig lesznek dolgok, amelyeket nehéz elengedni./我释怀的笑，过去的伤，真的能遗忘。 - Wǒ shìhuái de xiào, guòqù de shāng, zhēn de néng yíwàng - Megkönnyebbülten mosolyodtan, tényleg el lehet felejteni a múltbeli fájdalmakat./
+# Ver 2022-02-17T03:25:57Z NagyHenrik Stat-Verif >https://www.szotar.net/kinai/%E9%87%8A%E6%80%80/
+釋懷 释怀 [shi4 huai2] /meg|könnyebbül; fel|szabadul/túl|teszi magát/el|enged/[ige] [rendszerint tagadott alakban] kitöröl a szívéből, elenged a lelkéből/一个人短暂的生命里，总会有那么一些事是难以释怀的 - Yīgè rén duǎnzàn de shēngmìng lǐ, zǒng huì yǒu nàme yīxiē shì shì nányǐ shìhuái de - Az ember rövidke életében mindig lesznek dolgok, amelyeket nehéz elengedni./我释怀的笑，过去的伤，真的能遗忘。 - Wǒ shìhuái de xiào, guòqù de shāng, zhēn de néng yíwàng - Megkönnyebbülten elmosolyodtam, tényleg el lehet felejteni a múltbeli fájdalmakat./
 
 # ID-d95qh0w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -64753,6 +64781,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 第九 第九 [di4 jiu3] /kilencedik/
 
+# ID-n38aM5H
+# Ver 2022-02-17T03:18:31Z NagyHenrik Stat-New >https://www.szotar.net/kinai/%E6%AC%A0%E7%BC%BA/
+欠缺 欠缺 [qian4 que1] /[ige] nélkülöz, hiányt szenved, híján van vminek   /[fn]hiány(osság), elégtelenség /      我们的经验还很欠缺。 Wǒmen de jīngyàn hái hěn qiànquē.     Még nincs elég tapasztalatunk./      我们的工作还有很多欠缺。   Wǒmen de gōngzuò hái yǒu hěn duō qiànquē.     Még sok hiányossága van a munkánknak./
+
 # ID-n38bX8e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 接手 接手 [jie1 shou3] /át|vesz; folytat; tovább|visz (feladatot, munkát stb.)/el|kapó (baseballban)/
@@ -67417,6 +67449,10 @@ XX XX [x x] /x/
 # ID-n93sg3a
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 票據法 票据法 [piao4 ju4 fa3] /átruházható értékpapírok/
+
+# ID-n93Au4O
+# Ver 2022-02-17T06:00:23Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%8F%AF%E6%B1%97/16402499?fr=aladdin
+可汗 可汗 [ke4 han2] /Kán/(Fejedelmi méltóság ázsiai népeknél, illetve az e címet viselő személy.)/
 
 # ID-n93Mc7l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -70737,6 +70773,10 @@ XX XX [x x] /x/
 # ID-o63tW6l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 地勢 地势 [di4 shi4] /terep/domborzat/
+
+# ID-o63Ct8S
+# Ver 2022-02-17T05:12:11Z NagyHenrik Stat-New >https://www.szotar.net/kinai/%E6%BB%A1%E6%B4%B2%E5%9B%BD/
+滿洲國 满洲国 [man3 zhou1 guo2] /Mandzsúria/‹tört› Mandzsukuo [1932-1945 között japán vezetésű bábállam]/
 
 # ID-o63Cz6K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
