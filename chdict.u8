@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-02-21T03:00:01Z
+# Időbélyeg / Timestamp: 2022-02-22T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -4960,6 +4960,10 @@
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 副手 副手 [fu4 shou3] /helyettes/asszisztens; segéd/
 
+# ID-b00iK3k
+# Ver 2022-02-21T06:15:09Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E8%A1%A8%E7%8E%B0%E4%B8%BB%E4%B9%89/1229565?fr=aladdin
+后錶現主義 后表现主义 [hou4 biao3 xian4 zhu3 yi4] /Poszt-expresszionizmus/
+
 # ID-b00pY9g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 勒 勒 [le4] /meg|fékez/kényszerít/
@@ -6138,6 +6142,10 @@
 # 阿拉伯聯合酋長國 阿拉伯联合酋长国 [a1 la1 bo2 lian2 he2 qiu2 zhang3 guo2] /(földrajzi név) Egyesült Arab Emírségek/
 # Ver 2021-06-11T19:08:50Z gabor Stat-Verif >.
 阿拉伯聯合酋長國 阿拉伯联合酋长国 [a1 la1 bo2 lian2 he2 qiu2 zhang3 guo2] /(földrajzi név) Egyesült Arab Emírségek/
+
+# ID-b23oY9i
+# Ver 2022-02-21T06:08:22Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%96%B0%E5%AE%A2%E8%A7%82%E7%8E%B0%E5%AE%9E%E6%B4%BE/2217077?fr=aladdin
+新客觀現實派 新客观现实派 [xin1 ke4 guan1 xian4 shi2 pai4] /új tárgyiasság （művészet, Neue Sachlichkeit）/     实际上包含着三种风格：真实主义风格、纪念碑或古典主义风格、鲁索画派的朴素风格，以表现主义的夸张手法描写真实。     Shíjì shang bāo hán zháo sān zhǒng fēnggé: Zhēnshí zhǔyì fēnggé, jìniànbēi huò gǔdiǎn zhǔyì fēnggé, lǔ suǒ huà pài de púsù fēnggé, yǐ biǎoxiàn zhǔyì de kuāzhāng shǒufǎ miáoxiě zhēnshí.     Tulajdonképpen három stílust tartalmaz: a realista stílust, a monumentális vagy klasszikus stílust és a Russo-iskola szigorú stílusát,s a valóságot expresszionista és eltúlzott módon ábrázolja.//
 
 # ID-b23yt8y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -10072,6 +10080,10 @@
 # ID-c08bC4D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 活該 活该 [huo2 gai1] /megérdemel (vmit, rossz dolgot)/megérdemelten/
+
+# ID-c08gE3e
+# Ver 2022-02-21T03:43:08Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E4%BC%A0%E6%95%99%E5%A3%AB/74110?fr=aladdin
+傳道士 传道士 [chuan2 dao4 shi4] /hittérítő, prédikátor, igehirdető, hitszónok, /     lsd.传道者, 传道人/     传道士:一般指西方国家的宗教组织向海外派出的，传播天主教、基督教的人员。  Chuán dàoshi yībān zhǐ xīfāng guójiā de zōngjiào zǔzhī xiàng hǎiwài pàichū de, chuánbò tiānzhǔjiào, jīdūjiào de rényuán.        A hittérítők: általában a nyugati országok vallási szervezetei által a tengerentúlra küldött tagjaira utal a katolicizmus és a kereszténység terjesztésére. //
 
 # ID-c08nN4k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -21070,6 +21082,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2018-04-14T20:14:26Z gabor Stat-Verif >.
 饒有 饶有 [rao2 you3] /teli; bővelkedik (elvont vmiben: humor, érzés, izgalom stb.)/
 
+# ID-e33YA0R
+# Ver 2022-02-21T08:19:41Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%B0%91%E6%97%8F%E5%AD%A6/9647465?fr=aladdin
+民族學 民族学 [min2 zu2 xue2] /néprajz, etnológia/
+
 # ID-e33ZL8p
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 援 援 [yuan2] /segít; támogat/meg|ment/
@@ -22532,6 +22548,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e64zU0D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 區分 区分 [qu1 fen1] /különbséget tesz/el|különít/
+
+# ID-e64FZ4D
+# Ver 2022-02-21T05:37:30Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%A6%82%E8%BF%B0
+概述 概述 [gai4 shu4] /röviden elmesél [pl. egy eseményt]/[ált. könyvcímekben] tömör\vázlatos összefoglalás, áttekintés/    概述估算研究的成果。     Gàishù gūsuàn yánjiū de chéngguǒ.     ismerteti a becslési vizsgálat eredményeit     /     匈牙利文学概述     Xiōngyálì wénxué gàishù     A magyar irodalom áttekintése/
 
 # ID-e64HC3e
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -25746,6 +25766,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f34jA0X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 淺灘 浅滩 [qian3 tan1] /sekély víz/homok|pad/gázló/
+
+# ID-f34DE2P
+# Ver 2022-02-21T06:32:23Z NagyHenrik Stat-New >https://www.szotar.net/kinai/%E4%BB%A5%E8%89%B2%E5%88%97/
+以色列人 以色列人 [yi3 se4 lie4 ren2] / izraeli személy\állampolgár/‹vall› izraelita/
 
 # ID-f34Kj8z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -34279,6 +34303,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 栽培 栽培 [zai1 pei2] /termeszt; művel/tanít; képez/pártfogol/
 
+# ID-h04Uu4x
+# Ver 2022-02-21T06:41:22Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%BD%97%E9%A9%AC%E6%95%99%E5%BB%B7
+羅馬教廷 罗马教廷 [luo2 ma3 jiao4 ting2] /Szentszék, Apostoli Szentszék, (Curia Romana)/     罗马教廷是天主教会的中央行政机构，协助教皇处理整个教会的事务。     Luómǎ jiàotíng shì tiānzhǔjiàohuì de zhōngyāng háng zhèng jīgòu, xiézhù jiàohuáng chǔlǐ zhěnggè jiào huì de shìwù.     A Szentszék a katolikus egyház központi igazgatási szerve, amely a pápát segíti az egyház minden ügyeiben./
+
 # ID-h04Wu0u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 冤枉 冤枉 [yuan1 wang5] /fölösleges; el|fecsérelt/igazságtalanul bánik (vkivel)/
@@ -41208,6 +41236,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 迫不及待 迫不及待 [po4 bu4 ji2 dai4] /(kifejezés) türelmetlen; alig várja, hogy; sürgős; a legnagyobb sietséggel/
 
+# ID-i52Kf0j
+# Ver 2022-02-21T07:26:00Z NagyHenrik Stat-New >https://www.szotar.net/kinai/%E6%83%85%E5%95%86/
+情商 情商 [qing2 shang1] /érzelmiintelligencia-hányados, EQ/‹pszich, röv› 情绪智商  qíngxù zhìshāng/
+
 # ID-i52KU2w
 # Ver 2019-07-01T23:41:04Z GaoYanuo Stat-New >https://www.xyzdict.com/en/chinese-english/%E4%BC%B4%E7%83%AD
 伴熱 伴热 [ban4 re4] /kísérő fűtés (csővezetékek külső fűtése)/
@@ -47309,6 +47341,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 冒犯 冒犯 [mao4 fan4] /meg|sért (vkit)/
 
+# ID-j78fE5y
+# Ver 2022-02-21T03:55:33Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%AE%97%E6%95%99%E7%BB%84%E7%BB%87
+宗教組織 宗教组织 [zong1 jiao4 zu3 zhi1] /Vallási szervezetek/     宗教组织，宗教徒因共同的宗教信仰而结成的社会组织。     Zōngjiào zǔzhī, zōngjiàotú yīn gòngtóng de zōngjiào xìnyǎng ér jiéchéng de shèhuì zǔzhī.     Vallási szervezet, hívők közös vallási meggyőződéséből létrejött társadalmi szervezet./
+
 # ID-j78ig6f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 伸手 伸手 [shen1 shou3] /ki|nyújtja kezét/segítséget kér/
@@ -48858,6 +48894,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 偷情 偷情 [tou1 qing2] /titkos viszonyt folytat/
 
+# ID-k08Ak7q
+# Ver 2022-02-21T06:16:46Z NagyHenrik Stat-New >https://zhidao.baidu.com/question/495005282.html
+后印象派 后印象派 [hou4 yin4 xiang4 pai4] /posztimpresszionizmus/
+
 # ID-k08LD7q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 癖 癖 [pi3] /szokás/hobby; kedvtelés/
@@ -50160,6 +50200,10 @@ X X [X] /X/
 # ID-k33vH6B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 衒 炫 [xuan4] /dicsekszik/hivalkodik/
+
+# ID-k33HN5k
+# Ver 2022-02-21T06:25:29Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E8%92%82%E5%8D%8E%E8%BE%BE%C2%B7%E8%B4%A1%E8%8C%A8%E5%8D%A1%C2%B7%E8%B4%A1%E7%89%B9%E7%93%A6%E9%87%8C/57198155?fr=aladdin
+貢特瓦裡 贡特瓦里 [gong4 te4 wa3 li3] /Csontváry-Kosztka Tivadar//蒂华达·贡茨卡·贡特瓦里     Dì huá dá·gòng cí kǎ·gòng tè wǎ lǐ/
 
 # ID-k34aK3u
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -62427,6 +62471,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 追查 追查 [zhui1 cha2] /nyomoz (vki\vmi után)/fel|kutat/
 
+# ID-m79ZS0j
+# Ver 2022-02-21T03:45:42Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%AE%A3%E6%95%99%E5%B8%88
+宣教師 宣教师 [xuan1 jiao4 shi1] /misszionárius, hittérítő/lsd. 传教士,  宣教士/
+
 # ID-m80cv2h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 購買 购买 [gou4 mai3] /vásárol/
@@ -64678,6 +64726,10 @@ XX XX [x x] /x/
 # ID-n28qd3R
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 主修 主修 [zhu3 xiu1] /szakos; tanul (vmit, vmilyen szakon)/
+
+# ID-n28tK3i
+# Ver 2022-02-21T04:05:36Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%AE%97%E6%95%99%E4%BF%A1%E5%BE%92/54623699?fr=aladdin
+宗教徒 宗教徒 [zong1 jiao4 tu2] /hívő  (vallás)/     lsd. 宗教信徒  Zōngjiào xìntú/     他是热忱的宗教徒     Tā shì rèchén de zōngjiào tú     Buzgó hívő\vallásos ember /
 
 # ID-n28Ef9w
 # Ver 2017-05-26T23:17:13Z Adam Stat-New >Wiktionary és a már meglévő "乌鸦" nyomán
@@ -70440,6 +70492,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 詞尾 词尾 [ci2 wei3] /végződés; toldalék/
 
+# ID-o48PP8P
+# Ver 2022-02-21T06:33:18Z NagyHenrik Stat-New >https://www.szotar.net/kinai/%E4%BB%A5%E8%89%B2%E5%88%97/#
+以色列議會 以色列议会 [yi3 se4 lie4 yi4 hui4] /‹pol› Knesszet [Izrael egykamarás parlamentje]/
+
 # ID-o48Qc8w
 # Ver 2021-04-02T12:29:44Z Adam Stat-New >Pleco-szótárak és -példamondatok
 # 在一起 在一起 [zai4 yi1 qi3] /össze-; egybe-/együtt/együtt van; össze|jön; össze|gyűlik/össze|kapcsolódik; össze|függ/
@@ -70477,6 +70533,10 @@ XX XX [x x] /x/
 # ID-o49lI0u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 本 本 [ben3] /tő (növényeké)/gyökér (növényeké)/származás/eredet/a jelenlegi/alap/(számlálószó: könyvek, folyóiratok, más kötött nyomtatott anyagok)/
+
+# ID-o49mg5l
+# Ver 2022-02-21T08:21:06Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%B0%91%E6%97%8F%E5%AD%A6%E5%AE%B6/17016452?fr=aladdin
+民族學家 民族学家 [min2 zu2 xue2 jia1] /néprajzkutató, etnológus/
 
 # ID-o49ol7m
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
