@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-02-22T03:00:01Z
+# Időbélyeg / Timestamp: 2022-02-23T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -6432,6 +6432,10 @@
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 在內 在内 [zai4 nei4] /beleértve/
 
+# ID-b29Mq4s
+# Ver 2022-02-22T05:33:58Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%84%9F%E6%82%9F/83058?fr=aladdin
+感悟 感悟 [gan3 wu4] /megtapasztal, átérez, felismer/Az emberek érzései és tapasztalatai bizonyos dolgokkal, élményekkel kapcsolatban./    一颗感悟美的心灵     Yī kē gǎnwù měide xīnlíng    Egy szív\lélek, mely felismeri a szépet/     感悟自己的人生     Gǎnwù zìjǐ de rénshēng      tudatára ébred élete értelmének       /     /
+
 # ID-b29OD1j
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 衣裝 衣装 [yi1 zhuang1] /kosztüm; ruha; öltözet/
@@ -12645,6 +12649,10 @@
 # ID-c60Ts5C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 編號 编号 [bian1 hao4] /meg|számoz/sorozat|szám/számozás/
+
+# ID-c61eh1v
+# Ver 2022-02-22T05:46:27Z NagyHenrik Stat-New >https://www.szotar.net/kinai/%E6%82%9F/
+悟 悟 [wu4] /ráébred vmire, ráeszmél vmire, megért vmit, tudatára ébred vminek, rádöbben vmire/     悟出其中的道理      wùchū qízhōng de dàolǐ      rájön, hogy mi az oka\értelme/
 
 # ID-c61fP5Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -26342,6 +26350,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # 橡實 橡实 [xiang4 shi2] /makk (tölgyfán)/
 # Ver 2018-06-26T20:32:02Z gabor Stat-Verif >.
 橡實 橡实 [xiang4 shi2] /makk (tölgyfán)/
+
+# ID-f45sb3e
+# Ver 2022-02-22T07:14:12Z NagyHenrik Stat-New >https://hanyu.baidu.com/zici/s?wd=%E6%8E%A0%E5%BD%B1&query=%E6%8E%A0%E5%BD%B1&srcid=28232&from=kg0
+掠影 掠影 [lüe4 ying3] /(be-\rá)pillantás, betekintés, megszemlélés/北京掠影 Běijīng lüèyǐng Peking rövid bemutatása/madártávlat, panoráma/     这种浮光掠影的言论，难以令人信服    Zhè zhǒng fúguānglüèyǐng de yánlùn, nányǐ lìng rén xìnfú      Az ilyen felületes megjegyzések aligha meggyőzőek./      一指掠过的影子     Yī zhǐ lüèguò de yǐngzi     Egy elsuhanó árnyék/
 
 # ID-f45sm4n
 # Ver 2020-05-26T13:00:56Z GaoYanuo Stat-New >HSK5 tk; CEDICT megerősíti.
@@ -44660,6 +44672,10 @@ X X [X] /X/
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 恩典 恩典 [en1 dian3] /kegyelmesség; irgalmasság/
 
+# ID-j20Tr4r
+# Ver 2022-02-22T07:27:46Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%B5%AE%E5%85%89%E6%8E%A0%E5%BD%B1/78558
+浮光掠影 浮光掠影 [fu2 guang1 lüe4 ying3] /felületes és elkapkodott, felszínes, maradandó hatás nélküli/csak a felszínt súrolja,//     浮光掠影：像水面的光和掠过的影子一样，一晃就消逝，印象不深刻。     Fúguānglüèyǐng: Xiàng shuǐmiàn de guāng hé lüèguò de yǐngzi yīyàng, yīhuàng jiù xiāoshì, yìnxiàng bù shēnkè.     Fúguānglüèyǐng: olyan mint víz felszínén megcsillanó fény vagy az elsuhanó árnyék,  egy pillantás alatt eltűnnek, és a nem hagynak mély benyomás./
+
 # ID-j20WQ6x
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 前燈 前灯 [qian2 deng1] /fény|szóró; reflektor/
@@ -49875,6 +49891,10 @@ X X [X] /X/
 # ID-k26NQ4S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 美好 美好 [mei3 hao3] /gyönyörű/finom/
+
+# ID-k26Tu7v
+# Ver 2022-02-22T06:53:18Z NagyHenrik Stat-New >http://opac.hilib.com/opac/book/28708
+無命運的人生 无命运的人生 [wu2 ming4 yun4 de5 ren2 sheng1] /Sorstalansag//
 
 # ID-k26XA1h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
