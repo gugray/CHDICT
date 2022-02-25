@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-02-24T03:00:01Z
+# Időbélyeg / Timestamp: 2022-02-25T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -2383,6 +2383,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 咯 咯 [luo4] /köhög/fel|köhög/köp/
 
+# ID-a46tJ1P
+# Ver 2022-02-24T12:19:49Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%88%98%E6%9C%AF%E8%AE%AD%E7%BB%83%E6%96%B9%E6%B3%95
+戰術訓練 战术训练 [zhan4 shu4 xun4 lian4] /taktikai (ki)képzés/
+
 # ID-a46tK8O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 不同 不同 [bu4 tong2] /különböző/eltérő/nem ugyanolyan/nem hasonló/
@@ -3102,6 +3106,10 @@
 # ID-a62do1N
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 複本 复本 [fu4 ben3] /másolat/
+
+# ID-a62ov0F
+# Ver 2022-02-24T13:45:32Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%90%88%E5%90%8C%E6%88%98%E6%9C%AF%E5%AD%A6/10109003
+合同戰術學 合同战术学 [he2 tong2 zhan4 shu4 xue2] /Kombinált fegyvernemi taktika tudománya/
 
 # ID-a62AS8Q
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -4524,6 +4532,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 妙 妙 [miao4] /csodálatos/kiváló/okos/
 
+# ID-a91pM4w
+# Ver 2022-02-24T04:19:48Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%8B%AC%E8%A3%81%E4%BD%93%E5%88%B6/9143870?fr=aladdin
+獨裁政體 独裁政体 [du2 cai2 zheng4 ti3] /diktatúra/
+
 # ID-a91vF2a
 # Ver 2021-03-30T14:27:04Z Adam Stat-New >CC-CEDICT, Wikipedia
 # 錸 铼 [lai2] /rénium (kémiai elem, Re)/
@@ -4897,6 +4909,10 @@
 # ID-a98wR2C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 一向 一向 [yi1 xiang4] /mindig (a múltban)/
+
+# ID-a98zd9L
+# Ver 2022-02-24T13:48:46Z NagyHenrik Stat-New >https://www.szotar.net/kinai/haditechnika/
+作戰技術 作战技术 [zuo4 zhan4 ji4 shu4] /haditechnika/
 
 # ID-a98CF9C
 # Ver 2021-04-13T18:47:43Z Adam Stat-New >kínai Wikipedia, CC-CEDICT által megerősítve
@@ -12794,6 +12810,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 鑽孔 钻孔 [zuan1 kong3] /lukat fúr/át|lyukaszt/luk; lyuk (fúrt)/
 
+# ID-c64gY7d
+# Ver 2022-02-24T04:11:54Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E4%B8%93%E5%88%B6%E4%B8%BB%E4%B9%89/2588821?fr=aladdin
+專制主義 专制主义 [zhuan1 zhi4 zhu3 yi4] /önkényuralom, zsarnokság, autokrácia, despotizmus/
+
 # ID-c64nR9O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 舉世矚目 举世瞩目 [ju3 shi4 zhu3 mu4] /(kifejezés) világszerte feltűnést kelt/
@@ -13602,6 +13622,10 @@
 # ID-c80vD1K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 尋求 寻求 [xun2 qiu2] /keres/kutat (vmi után)/
+
+# ID-c80yr7G
+# Ver 2022-02-24T12:57:09Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%88%98%E6%9C%AF%E8%AE%AD%E7%BB%83%E6%96%B9%E6%B3%95#5
+實戰訓練法 实战训练法 [shi2 zhan4 xun4 lian4 fa3] /‹kat›；‹sport› valós körülmények között folytatott (ki)képzési módszer；gyakorlati képzési módszerek/实战训练法是指在比赛中培养运动员战术能力的方法。   Shízhàn xùnliàn fǎ shì zhǐ zài bǐsài zhōng péiyǎng yùndòngyuán zhànshù nénglì de fāngfǎ.     A gyakorlati edzésmódszer a sportolók taktikai készségeinek versenyszerű fejlesztésére szolgáló módszer./
 
 # ID-c80CH8F
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -18163,6 +18187,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2021-07-01T16:30:26Z gabor Stat-Verif >.
 閩語 闽语 [min3 yu3] /min (nyelvcsoport, elsősorban Fujianben és Tajvanban beszélik; legnépesebb ága a déli min, minnan, hokkien v. bân-lâm-gú 闽南语)/
 
+# ID-d72ab7J
+# Ver 2022-02-24T04:23:01Z NagyHenrik Stat-New >https://www.szotar.net/kinai/%E4%B8%93%E5%88%B6/#
+專製君主 专制君主 [zhuan1 zhi4 jun1 zhu3] /teljhatalmú uralkodó, egyeduralkodó, autokrata/
+
 # ID-d72gM7P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 騙人 骗人 [pian4 ren2] /át|verés/át|ver másokat/
@@ -19231,6 +19259,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-d94WG8b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 心裡 心里 [xin1 li5] /mellkas/szív/elme/
+
+# ID-d95lR7D
+# Ver 2022-02-24T04:23:32Z NagyHenrik Stat-New >https://www.szotar.net/kinai/%E4%B8%93%E5%88%B6/#
+專製政府 专制政府 [zhuan1 zhi4 zheng4 fu3] /autokratikus kormány/
 
 # ID-d95nd8n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -21610,6 +21642,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e44hp1F
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 剽 剽 [piao1] /ki|rabol/gyors; fürge/
+
+# ID-e44io9t
+# Ver 2022-02-24T12:17:12Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%88%98%E6%9C%AF%E5%AD%A6/2519090?fr=aladdin
+戰術學 战术学 [zhan4 shu4 xue2] /a (hadi) taktika tudománya/
 
 # ID-e44np3C
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -30364,6 +30400,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 劇情 剧情 [ju4 qing2] /cselekmény/
 
+# ID-g25eK1A
+# Ver 2022-02-24T12:21:38Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%88%98%E6%9C%AF%E8%AE%AD%E7%BB%83%E6%96%B9%E6%B3%95
+戰術訓練方法 战术训练方法 [zhan4 shu4 xun4 lian4 fang1 fa3] /taktikai (ki)képzési módszerek/
+
 # ID-g25fY0T
 # Ver 2019-10-17T10:06:32Z GaoYanuo Stat-New >Tanár, CC-CEDICT\nhttps://www.purpleculture.net/sample_sentences/?word=%E4%B8%80%E4%B8%AA%E4%B8%AA&page=2
 # 一個個 一个个 [yi1 ge4 ge4] /egymás után; egyenként/egyre-másra/egytől egyig/mindennek tetejébe/
@@ -31798,6 +31838,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 快要 快要 [kuai4 yao4] /hamarosan/majdnem/
 
+# ID-g54hA0n
+# Ver 2022-02-24T12:58:58Z NagyHenrik Stat-New >https://www.szotar.net/kinai/%E5%AE%9E%E6%88%98/
+實戰演習 实战演习 [shi2 zhan4 yan3 xi2] /éles (had)gyakorlat/
+
 # ID-g54iV6n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 削 削 [xiao1] /hámoz; le|kapar (késsel)/
@@ -32395,6 +32439,12 @@ X X [X] /X/
 # ID-g65eG2U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 目 目 [mu4] /szem/cikk/lista/katalógus/tartalomjegyzék/
+
+# ID-g65iX5e
+# Ver 2022-02-24T04:24:05Z NagyHenrik Stat-New >https://www.szotar.net/kinai/%E4%B8%93%E5%88%B6/#
+# 製政體 制政体 [zhi4 zheng4 ti3] /autokratikus kormányforma\kormányrendszer, autokrácia/
+# Ver 2022-02-24T05:00:28Z NagyHenrik Stat-New >https://www.szotar.net/szocikk/lcnhu022018-76540-zhu
+專製政體 专制政体 [zhuan1 zhi4 zheng4 ti3] /autokratikus kormányforma\kormányrendszer, autokrácia/
 
 # ID-g65kg1l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -33773,6 +33823,10 @@ X X [X] /X/
 # ID-g94LB8D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 號碼 号码 [hao4 ma3] /szám (pl. telefonszám)/SZ:堆[dui1],個|个[ge4]/
+
+# ID-g94Nb8t
+# Ver 2022-02-24T14:03:09Z NagyHenrik Stat-New >https://hanyu.baidu.com/zici/s?wd=%E5%90%9E%E5%B9%B6&query=%E5%90%9E%E5%B9%B6&srcid=28232&from=kg0
+吞併 吞并 [tun1 bing4] /elnyel, beolvaszt, bekebelez, annektál, elcsatol/在沙皇统治的殖民扩张时期，俄罗斯帝国吞并了大多数的国家。   Zài shāhuáng tǒngzhì de zhímín kuòzhāng shíqí, èluósī dìguó tūnbìngle dà duō shǔ de guójiā.     A cári birodalom gyarmati terjeszkedése során az Orosz Birodalom annektálta az országok nagy részét./
 
 # ID-g94Ur2P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -35411,6 +35465,10 @@ X X [X] /X/
 # 橡膠樹 橡胶树 [xiang4 jiao1 shu4] /kaucsuk|fa; gumi|fa (Hevea brasiliensis)/
 # Ver 2018-06-26T20:20:26Z gabor Stat-Verif >.
 橡膠樹 橡胶树 [xiang4 jiao1 shu4] /kaucsuk|fa; gumi|fa (Hevea brasiliensis)/
+
+# ID-h29ja2T
+# Ver 2022-02-24T04:00:22Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%90%9B%E4%B8%BB%E4%B8%93%E5%88%B6%E6%94%BF%E4%BD%93/1249646?fromtitle=%E7%BB%9D%E5%AF%B9%E5%90%9B%E4%B8%BB%E5%88%B6&fromid=331205
+絕對君主製 绝对君主制 [jue2 dui4 jun1 zhu3 zhi4] /abszolút monarchia/
 
 # ID-h29wm2k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -39395,6 +39453,10 @@ X X [X] /X/
 # ID-i12BA8n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 蝦 虾 [xia1] /garnéla|rák/
+
+# ID-i12CS0D
+# Ver 2022-02-24T12:10:38Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%A0%B8%E6%AD%A6%E5%99%A8/289077?fr=aladdin
+核武器 核武器 [he2 wu3 qi4] /atomfegyver, nukleáris fegyver/
 
 # ID-i12Ef3J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -48870,6 +48932,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 吊床 吊床 [diao4 chuang2] /függő|ágy/
 
+# ID-k06Ua6G
+# Ver 2022-02-24T04:52:17Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E4%B8%93%E5%88%B6%E4%B8%BB%E4%B9%89%E4%B8%AD%E5%A4%AE%E9%9B%86%E6%9D%83%E5%88%B6%E5%BA%A6/4235106?fr=aladdin
+專製主義中央集權製度 专制主义中央集权制度 [zhuan1 zhi4 zhu3 yi4 zhong1 yang1 ji2 quan2 zhi4 du4] /tekintélyelvű centralizmus, autokratikus központosítási rendszer, autokratikus centralizációs rendszer/专制主义中央集权制度：是与民主政治体制相对立的概念，指一个人或少数几个人独裁的政权组织中央形式.     Zhuānzhì zhǔyì zhōngyāng jíquán zhìdù: Shì yǔ mínzhǔ zhèngzhì tǐzhì xiāng duìlì de gàiniàn, zhǐ yīgèrén huò shǎoshù jǐ gè rén dúcái de zhèngquán zǔzhī zhōngyāng xíngshì    A tekintélyelvű centralizmus: a demokratikus politikai rendszerrel ellentétes fogalom, olyan politikai hatalomszervezés amely egy vagy néhány személy centralizált, diktatúrikus kormányzati rendszerre utal.//
+
 # ID-k06XH1K
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 聖彼得 圣彼得 [sheng4 bi3 de2] /(tulajdonnév) Szent Péter/
@@ -55394,6 +55460,10 @@ X X [X] /X/
 # ID-l38fm1W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 哺乳 哺乳 [bu3 ru3] /szoptat/
+
+# ID-l38uu7H
+# Ver 2022-02-24T12:00:23Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%8C%97%E5%A4%A7%E8%A5%BF%E6%B4%8B%E5%85%AC%E7%BA%A6%E7%BB%84%E7%BB%87/508108?fromtitle=%E5%8C%97%E7%BA%A6%E7%BB%84%E7%BB%87&fromid=11208451&fr=aladdin
+北大西洋公約組織 北大西洋公约组织 [bei3 da4 xi1 yang2 gong1 yue1 zu3 zhi1] /NATO （North Atlantic Treaty Organization）/Röv.：北约 běiyuē; 北约组织 Běiyuē zǔzhī//
 
 # ID-l38CU2X
 # Ver 2017-12-27T14:36:48Z gabor Stat-New >CHDICT, ABC
@@ -64827,6 +64897,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 憶 忆 [yi4] /emlékezik/fel|idéz/
 
+# ID-n28VH4A
+# Ver 2022-02-24T03:55:27Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%8B%9C%E5%8D%A0%E5%BB%B7%E5%B8%9D%E5%9B%BD/1106624?fromtitle=%E4%B8%9C%E7%BD%97%E9%A9%AC%E5%B8%9D%E5%9B%BD&fromid=7471260
+拜占廷帝國 拜占廷帝国 [bai4 zhan4 ting2 di4 guo2] /Bizánci Birodalom, Bizánci császárság (395-1453），/拜占庭帝国 bàizhàntíng dìguó  Bizánci Birodalom/东罗马帝国 dōng luómǎ dìguó  Kelet-római Birodalom/
+
 # ID-n29pt0M
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 黃金時段 黄金时段 [huang2 jin1 shi2 duan4] /fő|műsoridő/
@@ -66089,6 +66163,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 香檳 香槟 [xiang1 bin1] /pezsgő (ital)/
 
+# ID-n54jX7G
+# Ver 2022-02-24T13:52:37Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96/545840?fr=aladdin
+文化傳統 文化传统 [wen2 hua4 chuan2 tong3] /kulturális hagyományok/
+
 # ID-n54mi0E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 公寓 公寓 [gong1 yu4] /társas|ház/lakó|telep/SZ:套[tao4]/
@@ -66643,6 +66721,10 @@ XX XX [x x] /x/
 # ID-n65Ps3y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 朝著 朝着 [chao2 zhe5] /felé/irányában/
+
+# ID-n66ie1O
+# Ver 2022-02-24T12:13:21Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%88%98%E6%9C%AF%E6%A0%B8%E6%AD%A6%E5%99%A8/863026?fr=aladdin
+戰術核武器 战术核武器 [zhan4 shu4 he2 wu3 qi4] /taktikai nukleáris fegyverek/
 
 # ID-n66mM6H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -70720,6 +70802,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 野生 野生 [ye3 sheng1] /vad/vadon élő/
 
+# ID-o51jo0O
+# Ver 2022-02-24T04:04:11Z NagyHenrik Stat-New >https://www.szotar.net/kinai/%E6%94%BF%E4%BD%93/
+政體 政体 [zheng4 ti3] /állami szerv\intézmény, kormányzati rendszer/(政治制度 zhèngzhì zhìdù) /立宪政体 lìxiàn zhèngtǐ alkotmányos kormányzás, alkotmányosság/
+
 # ID-o51sz6N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 禮尚往來 礼尚往来 [li3 shang4 wang3 lai2] /(kifejezés) az illem a kölcsönösségen alapul/
@@ -73562,6 +73648,10 @@ XX XX [x x] /x/
 # ID-p06Lf0P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 米 米 [mi3] /rizs/SZ:粒[li4]/méter/(családnév) Mi/
+
+# ID-p06QE2X
+# Ver 2022-02-24T04:22:16Z NagyHenrik Stat-New >https://www.szotar.net/kinai/%E4%B8%93%E5%88%B6/
+專製國家 专制国家 [zhuan1 zhi4 guo2 jia1] /önkényuralmi\diktatórikus állam/
 
 # ID-p06Sl1D
 # Ver 2021-04-10T22:04:37Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
