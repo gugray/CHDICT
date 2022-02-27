@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-02-26T03:00:01Z
+# Időbélyeg / Timestamp: 2022-02-27T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -7898,6 +7898,10 @@
 # ID-b60eQ7F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 手法 手法 [shou3 fa3] /technika/készség/
+
+# ID-b60hS6V
+# Ver 2022-02-26T09:05:27Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%BC%B6/2250408?fr=aladdin
+缶 缶 [fou3] /réz\agyag\cserépedény, agyagkorsó\kancsó, /folyadék tárolására szolgáló  edény/nagy hasú és kis szájú cserépedény bor tárolására fedéllel/
 
 # ID-b60nh0e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -26179,6 +26183,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 吐口 吐口 [tu3 kou3] /köp/ki|bök; el|árul/
 
+# ID-f40qP5V
+# Ver 2022-02-26T08:51:56Z NagyHenrik Stat-New >https://hanyu.baidu.com/s?wd=%E9%81%A5&from=zici
+遙 遥 [yao2] /(időben, térben) messzi, távoli,  千里之遥 qiān lǐ zhī yáo ezer li messzi/[családnév]/ 辵chuò = “út“+”láb“.䍃 yáo, yóu = “cserépedény”，azt szándékozik kijejezni, hogy a régebbi időkben cserépedényre volt szükség ahhoz, hogy távoli helyekről vizet merítsenek./
+
 # ID-f40uQ3I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 最初 最初 [zui4 chu1] /első/eredeti/
@@ -41196,6 +41204,10 @@ X X [X] /X/
 # Ver 2017-05-25T14:08:37Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
 問號 问号 [wen4 hao4] /kérdő|jel/
 
+# ID-i47nx1P
+# Ver 2022-02-26T04:03:47Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E8%BF%A2?forcehttps=1%3Ffr%3Dkg_hanyu
+迢 迢 [tiao2] /távoli，messzi， távol fekvő， /A 召 jelentése "vezetni", "hívni"， 辵jelentése “út“+”láb“. A 辵  és 召  kombinációja azt jelenti, távoli tájakról érkeznek emberek az uralkodó hívására. Származtatott jelentése: hosszú utat megtenni. Amikor például a császár úgy döntött, hogy kibővíti a fővárosi palotát, a munka olyan hatalmas volt, hogy sok embernek kellett a fővárosba jönnie, több ezer mérföldről is. (Innen ered a千里迢迢 qiānlǐ tiáotiáo ezermérföldnyire, nagyon távolki fejezés.)/
+
 # ID-i47vc3V
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 青蔥 青葱 [qing1 cong1] /mogyoró|hagyma/
@@ -52480,6 +52492,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 實在 实在 [shi2 zai4] /tényleg/valóban/igaz/valódi/őszinte/valóság/
 
+# ID-k76aC2h
+# Ver 2022-02-26T03:42:35Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E8%BF%A2%E9%81%A5/7856927?fr=aladdin
+迢遙 迢遥 [tiao2 yao2] /(időben, térben) távoli, messzi,/迢遥的期间 tiáo yáo de qíjiān hosszú  időszak, 时间迢遥 shíjiān tiáo yáo a hosszú idő,  迢遥的梦 tiáo yáo de mèng távoli álom, 显得越迢遥 xiǎndé yuè tiáo yáo egyre távolabbnak tűnik, 迢遥的山河 tiáo yáo de shānhé távoli hegyek és folyók, 迢遥的距离 tiáo yáo de jùlí hatalmas távolság/上最迢遥的拒却,心烦时没法对自己说:“我爱你”。Shàng zuì tiáo yáo de jù què, xīnfán shí méi fǎ duì zìjǐ shuō:“Wǒ ài nǐ”. A  legmesszemenőbb elutasítás a világon az, amikor feldúlt vagy, de nem vagy képes azt mondani magadnak, "Szeretlek"./
+
 # ID-k76bz8g
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 贏家 赢家 [ying2 jia1] /nyertes; győztes/
@@ -62192,6 +62208,10 @@ XX XX [x x] /x/
 # ID-m68AJ6q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 就 就 [jiu4] /közelít; oda|ér; be|lép/azonnal; mindjárt; egyből/csak; mindössze/éppen; pontosan/
+
+# ID-m68Pl9k
+# Ver 2022-02-26T04:33:56Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E8%BE%B6/2852088?fr=aladdin
+辶 辶 [chuo4] /A "辵" (chuò) -ból származik. A "辵" szó jelentése "menni és megállni" (a 彳út+止láb). A kínai nyelvben a legtöbb írásjegy ehhez kapcsolódik, mint például a 進  jìn (előrehaladás) és a 退 tuì (visszavonulás)./
 
 # ID-m68Zc5G
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
