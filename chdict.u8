@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-03-02T03:00:01Z
+# Időbélyeg / Timestamp: 2022-03-03T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -4692,6 +4692,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 井 井 [jing3] /kút/SZ:口[kou3]/(családnév) Jing/
 
+# ID-a93yP7l
+# Ver 2022-03-02T14:53:29Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%8C%88%E7%89%99%E5%88%A9%E5%8F%B2/12374711?fr=aladdin
+阿爾帕德王朝滅亡 阿尔帕德王朝灭亡 [a1 er3 pa4 de2 wang2 chao2 mie4 wang2] /az Árpád-ház kihalása， az Árpád-kor váge/
+
 # ID-a93Fn4C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 方面 方面 [fang1 mian4] /nézőpont/aspektus/oldal/SZ:個|个[ge4]/
@@ -5421,6 +5425,8 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 訓練 训练 [xun4 lian4] /edzés/gyakorlatozás/SZ:個|个[ge4]/
 # Ver 2019-11-09T15:37:18Z gabor Stat-Verif >kieg: általában "képzést" is jelent (training)
+# 訓練 训练 [xun4 lian4] /képzés/edzés; gyakorlatozás/SZ:個|个[ge4]/
+# Ver 2022-03-02T18:39:27Z GaoYanuo Stat-Verif >A tanárom szerint kizárólag hivatásos, v. élsportolók viszonylatában használják.
 訓練 训练 [xun4 lian4] /képzés/edzés; gyakorlatozás/SZ:個|个[ge4]/
 
 # ID-b07vW0w
@@ -5909,6 +5915,10 @@
 # ID-b17KJ1G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 感 感 [gan3] /érez/meghat/érzés/érzelem/-érzet (utótagként)/
+
+# ID-b17Lb1C
+# Ver 2022-03-02T07:57:55Z NagyHenrik Stat-New >https://hanyu.baidu.com/zici/s?wd=%E8%BF%B7%E7%A6%BB&query=%E8%BF%B7%E7%A6%BB&srcid=28232&from=kg0
+迷離 迷离 [mi2 li2] /homályos, ködös, fátyolos, zavaros, elmosódott, tompa/睡眼迷离 shuìyǎn mílí álomtól fátyolos szemek,  这件案情真是扑朔迷离。 Zhè jiàn ànqíng zhēnshi pūshuòmílí.  Ez az eset nagyon zavaros.，  这些传闻扑朔迷离。  Zhèxiē chuánwén pūshuòmílí.  Zavarosak ezek a pletykák azonban ./
 
 # ID-b17MB3G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -7796,6 +7806,10 @@
 # ID-b57VR2w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 已經 已经 [yi3 jing1] /már/
+
+# ID-b57Zz4b
+# Ver 2022-03-02T20:24:05Z GaoYanuo Stat-New >Forrás: 新导报 szokásos szótárak, tanár
+速滑 速滑 [su4 hua2] /gyorskorcsolya/
 
 # ID-b58hB0y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -16110,7 +16124,9 @@
 
 # ID-d29th2L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-艱難 艰难 [jian1 nan2] /nehéz (nem egyszerű)/
+# 艱難 艰难 [jian1 nan2] /nehéz (nem egyszerű)/
+# Ver 2022-03-02T18:54:37Z GaoYanuo Stat-Verif >Az anyanyelvi tanár szerint a 困难 (kùnnan)-hoz képest komolyabb kihívások esetén használják. Továbbá Bartos-Hamar alapján módosítva a keresés megkönnyítése érdekében.
+艱難 艰难 [jian1 nan2] /különösen nehéz; fáradságos; kemény/
 
 # ID-d29Bt9t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -16994,6 +17010,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-d47YR6J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 特 特 [te4] /különleges/speciális/különösen/nagyon/
+
+# ID-d48be1Q
+# Ver 2022-03-02T18:33:01Z GaoYanuo Stat-New >Forrás: 新导报, Új Szemle
+多元文化 多元文化 [duo1 yuan2 wen2 hua4] /multikultúrális/
 
 # ID-d48ir6B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -20189,6 +20209,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 和氣 和气 [he2 qi5] /udvarias/barátságos/
 
+# ID-e13OV8O
+# Ver 2022-03-03T02:31:21Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%94%B0%E9%87%8E%E7%A0%94%E7%A9%B6/7663711?fr=aladdin
+田野研究 田野研究 [tian2 ye3 yan2 jiu1] /helyszini tanulmányok， terepkutatás/思考人类学田野研究的理论和方法。  Sīkǎo rénlèi xué tiányě yánjiū de lǐlùn hé fāngfǎ. /Elmélkedés az antropológiai terepkutatás elméletéről és módszereiről .  //
+
 # ID-e13WU5z
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 削減 削减 [xue1 jian3] /csökkent/le|farag/
@@ -20665,7 +20689,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-e23Cr2D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-安慰 安慰 [an1 wei4] /vigasztal/
+# 安慰 安慰 [an1 wei4] /vigasztal/
+# Ver 2022-03-02T19:18:21Z GaoYanuo Stat-Verif >Bartos-Hamar alapján kieg.
+安慰 安慰 [an1 wei4] /vigasztal/vigasztalódik/vigasz/
 
 # ID-e23CH3e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -22774,6 +22800,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 程度 程度 [cheng2 du4] /szint/fokozat/fok (szint vagy kiterjedés)/SZ:個|个[ge4]/
 
+# ID-e66KF6d
+# Ver 2022-03-02T05:26:36Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%BC%98%E7%94%B1/354698?fr=aladdin
+緣由 缘由 [yuan2 you2] /ok, indíték, indok, alap;      根究缘由 gēnjiū yuányóu alaposan kivizsgálja vminek az okát;      颓然间的思维闪现使我产生一种无缘由的期望. Tuírán jiān de sīwéi shǎnxiàn shǐ wǒ chǎnshēng yī zhǒng wúyuán yóu de qīwàng. Lehangoltságomban felvillanó gondolatok megalapozatlan（hamis) reményket keltenek bennem./→ ua. mint: 原由 yuányóu, 来由 láiyóu, 缘故 yuángù/
+
 # ID-e66KM4Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 巴斯 巴斯 [ba1 si1] /(földrajzi név) Bath (város Angliában)/
@@ -23558,6 +23588,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 踏實 踏实 [ta1 shi5] /meg|bízható/nyugodt (nem szorong vagy aggódik)/meg|könnyebbült/alapos/ki|tartó/
 
+# ID-e84Ii6e
+# Ver 2022-03-02T19:46:47Z GaoYanuo Stat-New >Forrás: 新导报, szokásos szótárak, tanár
+著實 着实 [zhuo2 shi2] /valóban; csakugyan/ugyancsak; igencsak; fölöttébb/szigorúan; komolyan; súlyosan/
+
 # ID-e84QV0P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 虛擬現實 虚拟现实 [xu1 ni3 xian4 shi2] /virtuális valóság/
@@ -23589,6 +23623,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e85As5a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 五 五 [wu3] /öt/5/
+
+# ID-e85Pg1H
+# Ver 2022-03-02T20:20:27Z GaoYanuo Stat-New >Forrás: 新导报, csak anyanyelvi tanár és Youdao erősíti meg.
+斬獲 斩获 [zhan3 huo4] /elnyer, megszerez/
 
 # ID-e85Zh5A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -24254,7 +24292,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f00hZ9o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-能夠 能够 [neng2 gou4] /képes (vmire)/tud/
+# 能夠 能够 [neng2 gou4] /képes (vmire)/tud/
+# Ver 2022-03-02T20:52:43Z GaoYanuo Stat-Verif >新导报 : "他们希望一切能够继续，他们也能够取得好成绩。"\nBartos-Hamar megerősíti.
+能夠 能够 [neng2 gou4] /képes (vmire)/tud/megvannak a feltételei (vminek)/
 
 # ID-f00kB1J
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -25218,6 +25258,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 罰 罚 [fa2] /büntetés/meg|büntet/
 
+# ID-f19XK8h
+# Ver 2022-03-02T20:39:08Z GaoYanuo Stat-New >Forrás: 新导报 , Bartos-Hamar alapján kieg.
+一步一個腳印 一步一个脚印 [yi1 bu4 yi1 ge4 jiao3 yin4] /(kifejezés) lépésről lépésre/A szorgalom elnyeri jutalmát./
+
 # ID-f19Zl9K
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 外祖父 外祖父 [wai4 zu3 fu4] /anyai nagy|apa/
@@ -25567,6 +25611,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f27lR1h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 訴訟 诉讼 [su4 song4] /per; el|járás/
+
+# ID-f27mI5G
+# Ver 2022-03-02T07:06:52Z NagyHenrik Stat-New >http://www.kejudati.com/jushow/5eb0ffbd251a2.html
+頓時閃現 顿时闪现 [dun4 shi2 shan3 xian4] /hirtelen felvillan，azonnal felvillan，hirtelen elsuhan，hirtelen átcikázik;     看着照片,少年时代的欢乐情景顿时闪现。Kànzhe zhàopiàn, shàonián shídài de huānlè qíngjǐng dùnshí shǎnxiàn. A fényképeket nézve azonnal felvillannak ifjúságom örömteli jelenetei.    她用手触碰到铜器顿时闪现耀眼光芒飞出一条金龙。Tā yòng shǒu chù pèng dào tóng qì dùnshí shǎnxiàn yàoyǎn guāngmáng fēi chū yītiáo jīnlóng. Megérintette kezével a bronz(edényt) , hirtelen káprázatos fény villant, s egy arany sárkány repült ki belőle./
 
 # ID-f27yK3u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -30245,6 +30293,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-09-04T09:08:59Z gabor Stat-Verif >.
 操作系統 操作系统 [cao1 zuo4 xi4 tong3] /operációs rendszer (informatika)/
 
+# ID-g19ox2U
+# Ver 2022-03-02T13:22:07Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%9A%B9%E7%BD%97/3494923?fr=aladdin
+暹羅 暹罗 [xian1 luo2] /Sziám （ a délkelet-ázsiai ország, Thaiföld rágebbi kínai neve）/
+
 # ID-g19Cp2k
 # Ver 2017-05-21T22:49:15Z Adam Stat-New >厄特沃什罗兰大学 Baidu-beli szócikk és más források alapján
 # 厄特沃什羅蘭 厄特沃什罗兰 [e4 te4 wo4 shi2 luo2 lan2] /(átirat) Eötvös Loránd (fizikus)/
@@ -31940,6 +31992,10 @@ X X [X] /X/
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 水上 水上 [shui3 shang4] /vízi/
 
+# ID-g54ms8m
+# Ver 2022-03-02T06:03:34Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E8%92%99%E6%B7%B7
+矇混 蒙混 [meng2 hun4] /félrevezet, csal, átver, átejt, becsap, megtéveszt, rászed;     蒙混过关 ménghùn guòguān csalással jut át az akadályokon,   希图蒙混过关(企图蒙混过关) xītú mēnghún-guòguān(Qìtú ménghùn guòguān) hamis látszatot keltve igyekszik(megkísérel) kiügyeskedni vmit,   犯罪分子妄图蒙混过关。Fànzuì fēnzǐ wàngtú ménghùn guòguān.  A bűnözők elbizakodottan próbálnak megtévesztéssel kijutni a bajból,/
+
 # ID-g54mw8Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 中東 中东 [zhong1 dong1] /(földrajzi név) Közel-Kelet/
@@ -33437,6 +33493,8 @@ X X [X] /X/
 
 # ID-g86aF0Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
+# 犧牲 牺牲 [xi1 sheng1] /fel|áldozza magát/áldozat (vallási szertartásban)/
+# Ver 2022-03-02T19:34:43Z GaoYanuo Stat-Verif >Az "áldoz" befektet, költ rá, "belefeccöl" pénzt, időt, energiát értelemben is használatos. Pl. Sokat áldoztak azért a szülők, hogy gyerekük sportoló legyen. Sokat áldozik a hobbijáért. Nem tudtam, hogyan kéne módosítani úgy, hogy a "feláldoz" is benne maradjon.
 犧牲 牺牲 [xi1 sheng1] /fel|áldozza magát/áldozat (vallási szertartásban)/
 
 # ID-g86dI1n
@@ -33552,6 +33610,10 @@ X X [X] /X/
 # ID-g87Kr1L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 搞 搞 [gao3] /csinál/tesz/gondoskodik (vmiről)/
+
+# ID-g87Ll5E
+# Ver 2022-03-02T13:11:53Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E8%87%AA%E7%84%B6%E5%AD%A6%E5%AE%B6/5779900?fr=aladdin
+自然學家 自然学家 [zi4 ran2 xue2 jia1] /természettudós/
 
 # ID-g87OU2D
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -33760,6 +33822,10 @@ X X [X] /X/
 # ID-g91BQ6v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 鬥牛 斗牛 [dou4 niu2] /bika|viadal/Göncöl-szekér és az Altair/
+
+# ID-g91Fy6D
+# Ver 2022-03-02T07:27:47Z NagyHenrik Stat-New >http://dict.cn/%E8%80%80%E7%9C%BC%E5%85%89%E8%8A%92
+耀眼光芒 耀眼光芒 [yao4 yan3 guang1 mang2] /káprázatos fény, vakító fény, tündöklő ragyogás；/如果没有这些闪烁着耀眼光芒的人的出现,又怎么能让我们记得这个溜光异彩的时代。Rúguǒ méiyǒu zhèxiē shǎnshuòzhe yàoyǎn guāngmáng de rén de chūxiàn, yòu zěnme néng ràng wǒmen jìdé zhège liūguāng yìcǎi de shídài. Ezeknek a ragyogó emberek jelenléte nélkül hogyan is emlékezhetnénk erre a csodálatos korszakra.  黄色的如闪着耀眼光芒的金子。Huángsè de rú shǎnzhe yàoyǎn guāngmáng de jīnzi. Sárga, mint a csillogó arany./
 
 # ID-g91Ju0a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -35262,6 +35328,14 @@ X X [X] /X/
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 災難性 灾难性 [zai1 nan4 xing4] /katasztrofális/
 
+# ID-h22zO4G
+# Ver 2022-03-02T18:36:50Z GaoYanuo Stat-New >Forrás: 新导报, szokásos szótárak
+結識 结识 [jie2 shi2] /megismer; megismerkedik/
+
+# ID-h22NR5C
+# Ver 2022-03-02T20:23:24Z GaoYanuo Stat-New >Forrás: 新导报, Youdao és anyanyelvi tanár erősíti meg.
+短道 短道 [duan3 dao4] /rövidpályás/
+
 # ID-h22Rq7r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 具有 具有 [ju4 you3] /birtokol/rendelkezik (vmivel)/
@@ -35792,6 +35866,8 @@ X X [X] /X/
 
 # ID-h34DZ0L
 # Ver 2022-02-25T12:26:47Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E8%B8%8F
+# 踏 踏 [ta1] /(rá)lép, tapos    踏雪 tàxuě [ige] hóban gyalogol；   踏月 tàyuè [ige] holdfényben sétál/személyesen megy valahova；    踏看 tàkàn kimegy helyszíni ellenőrzésre；    踏勘 tàkān helyszíni felmérést végez [építési területen, vasútvonalon stb.],hivatalos ellenőrzést folytat [helyszíni]；    踏访 tàfǎng (meg)látogat, felkeres；    踏查 Tà chá  megvizsgál, ellenőriz, kutat/még: 踏 tà/
+# Ver 2022-03-02T18:46:58Z GaoYanuo Stat-New >A vonzatokat külön szócikkekben kéne bevinni. ( 踏雪, 踏月, stb.)
 踏 踏 [ta1] /(rá)lép, tapos    踏雪 tàxuě [ige] hóban gyalogol；   踏月 tàyuè [ige] holdfényben sétál/személyesen megy valahova；    踏看 tàkàn kimegy helyszíni ellenőrzésre；    踏勘 tàkān helyszíni felmérést végez [építési területen, vasútvonalon stb.],hivatalos ellenőrzést folytat [helyszíni]；    踏访 tàfǎng (meg)látogat, felkeres；    踏查 Tà chá  megvizsgál, ellenőriz, kutat/még: 踏 tà/
 
 # ID-h34HA9d
@@ -36855,7 +36931,9 @@ X X [X] /X/
 
 # ID-h58IT2n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-委托 委托 [wei3 tuo1] /meg|bíz (vkit, vmivel)/
+# 委托 委托 [wei3 tuo1] /meg|bíz (vkit, vmivel)/
+# Ver 2022-03-02T19:16:27Z GaoYanuo Stat-Verif >Bartos-Hamar alapján, továbbá keresés könnyítés miatt  kiegészítve.
+委托 委托 [wei3 tuo1] /meg|bíz (vkit, vmivel); rábíz (vkire vmit, vkit)/meghatalmaz; felhatalmaz/
 
 # ID-h58JX9C
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -39588,6 +39666,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 橫躺 横躺 [heng2 tang3] /keresztbe fekszik (szobában, úton stb.)/
 
+# ID-i12Jq9T
+# Ver 2022-03-03T02:38:40Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%94%B0%E9%87%8E%E5%B7%A5%E4%BD%9C
+田野工作 田野工作 [tian2 ye3 gong1 zuo4] /terepmunka/本文运用了方言调查的田野工作方法。Běnwén yùnyòngle fāngyán diàochá de tiányě gōngzuò fāngfǎ。  Ez a tanulmány a nyelvjárások vizsgálatának terepmunkamódszerét alkalmazza./
+
 # ID-i12Lq2i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 糧食 粮食 [liang2 shi5] /élelmi|szer/gabonafélék/
@@ -40329,6 +40411,10 @@ X X [X] /X/
 # 百花運動 百花运动 [bai3 hua1 yun4 dong4] /"száz virág" mozgalom (Kína, 1956–1957)/
 # Ver 2017-09-05T09:00:15Z gabor Stat-Verif >.
 百花運動 百花运动 [bai3 hua1 yun4 dong4] /"száz virág" mozgalom (Kína, 1956–1957)/
+
+# ID-i28kj5Q
+# Ver 2022-03-02T08:10:58Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%95%B7
+敷 敷 [fu1] /(rá)ken, bedörzsöl, rászór [kenőcsöt, púdert stb.] \ szétterít, lehelyez, lefektet \ elegendő, elégséges vmihez \ [családnév]/用湿毛巾敷在醉酒者后脑。 Yòng shī máojīn fū zài zuìjiǔ zhě hòunǎo.  Tegyen nedves törülközőt az ittas személy tarkójára.  在地面上已经敷上了细沙。Zài dìmiàn shàng yǐjīng fū shàngle xì shā.  A talajt finom homokkal borították.//
 
 # ID-i28rG8d
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -44461,7 +44547,9 @@ X X [X] /X/
 
 # ID-j12fw1x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-回報 回报 [hui2 bao4] /viszonzás/viszonzásként/viszonoz/kölcsönhatás/
+# 回報 回报 [hui2 bao4] /viszonzás/viszonzásként/viszonoz/kölcsönhatás/
+# Ver 2022-03-02T20:28:42Z GaoYanuo Stat-Verif >Forrás: Xindaobao: "他们的付出和牺牲最终收到了回报", egyéb kieg. Bartos_Hamar
+回報 回报 [hui2 bao4] /viszonzás/viszonzásként/viszonoz/kölcsönhatás/visszafizet; megtorol/megtérül; meghozza gyümölcsét/jelentést tesz/
 
 # ID-j12gi8h
 # Ver 2021-03-30T13:01:37Z Adam Stat-New >CC-CEDICT, Wikipedia
@@ -47529,6 +47617,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 挺 挺 [ting3] /ki|áll/ki|lóg/el|visel/ki|bír/szilárd/nagyon/(számlálószó: gépfegyverek)/
 
+# ID-j75Vp4s
+# Ver 2022-03-02T13:19:24Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%96%AF%E9%87%8C%E5%85%B0%E5%8D%A1/213964?fromtitle=%E9%94%A1%E5%85%B0&fromid=7670790&fr=aladdin
+錫蘭 锡兰 [xi1 lan2] /Ceylon （Sri Lanka, korábbi nevén Ceylon）/
+
 # ID-j76ap8X
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 活菩薩 活菩萨 [huo2 pu2 sa4] /élő Buddha (átvitten: könyörületes ember)/
@@ -50092,6 +50184,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 眼神 眼神 [yan3 shen2] /a tekintetben tükröződő érzelem/nézés/
 
+# ID-k25Ej3H
+# Ver 2022-03-02T20:41:33Z GaoYanuo Stat-New >Forrás: 新导报 szokásos szótárak, tanár.
+賽場 赛场 [sai4 chang3] /küzdőtér; aréna; ring; pálya/
+
 # ID-k25Ij5l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 考慮 考虑 [kao3 lü4] /meg|fontol/megfontolás/át|gondol/figyelembe vesz/
@@ -50968,6 +51064,10 @@ X X [X] /X/
 # ID-k44wy8J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 單 单 [shan4] /(családnév) Shan/
+
+# ID-k44IM0B
+# Ver 2022-03-02T20:49:48Z GaoYanuo Stat-New >Forrás: 新导报, tanár\n"他们将会受到主场观众的欢呼声."
+歡呼聲 欢呼声 [huan1 hu1 sheng1] /éljenzés, ováció/szurkolás; hangos biztatás/
 
 # ID-k44JA6P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -52059,6 +52159,10 @@ X X [X] /X/
 # ID-k67Ff3D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 刺傷 刺伤 [ci4 shang1] /le|szúr (késsel megsebesít)/
+
+# ID-k67LA7b
+# Ver 2022-03-02T19:12:45Z GaoYanuo Stat-New >Forrás: 新导报, szokásos szótárak
+難熬 难熬 [nan2 ao2] /kibírhatatlan; elviselhetetlen/nehezen elviselhető/
 
 # ID-k67LW6f
 # Ver 2019-07-01T15:31:59Z GaoYanuo Stat-New >https://www.xyzdict.com/en/chinese-english/%E8%AE%BE%E5%AE%9A%E5%80%BC
@@ -55616,6 +55720,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 心情 心情 [xin1 qing2] /hangulat/lelkiállapot/SZ:個|个[ge4]/
 
+# ID-l37FG0u
+# Ver 2022-03-02T20:42:30Z GaoYanuo Stat-New >Forrás: 新导报 szokásos szótárak, tanár.
+主場 主场 [zhu3 chang3] /hazai pálya/fő helyszín/
+
 # ID-l37HH2v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 伊拉克 伊拉克 [yi1 la1 ke4] /(földrajzi név) Irak/
@@ -57236,7 +57344,9 @@ X X [X] /X/
 
 # ID-l69oH5w
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
-分隔 分隔 [fen1 ge2] /el|választ; külön|választ/
+# 分隔 分隔 [fen1 ge2] /el|választ; külön|választ/
+# Ver 2022-03-02T19:39:37Z GaoYanuo Stat-Verif >Az "el/leválaszt" fizikai-kémiai műveletekre is érthető. Referencia: Bartos-Hamar, anyanyelvi tanár
+分隔 分隔 [fen1 ge2] /el|választ; külön|választ; le|választ; /elszakít; elkülönít (vkit vmitől, vkitől)/
 
 # ID-l69rx9T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -60379,7 +60489,9 @@ X X [X] /X/
 
 # ID-m33aT1V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-與眾不同 与众不同 [yu3 zhong4 bu4 tong2] /(kifejezés) ki|tűnik a tömegből; egyedi/
+# 與眾不同 与众不同 [yu3 zhong4 bu4 tong2] /(kifejezés) ki|tűnik a tömegből; egyedi/
+# Ver 2022-03-02T19:51:49Z GaoYanuo Stat-Verif >A "kitűnik a tömegből; egyedi" azt sugallja, hogy személyek esetében használatos.
+與眾不同 与众不同 [yu3 zhong4 bu4 tong2] /(kifejezés) ki|tűnik a tömegből; egyedi; rendkívüli; nem hétköznapi/
 
 # ID-m33kB3v
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -61055,7 +61167,9 @@ X X [X] /X/
 
 # ID-m46Eo0q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-對待 对待 [dui4 dai4] /kezel/kezelés/
+# 對待 对待 [dui4 dai4] /kezel/kezelés/
+# Ver 2022-03-02T19:29:30Z GaoYanuo Stat-Verif >Csak szimplán a "kezel, kezelés" eléggé szűknek tűnt. Referencia: Bartos-Hamar, CHCEDICT, és\nhttps://www.purpleculture.net/sample-sentences/?word=%E5%AF%B9%E5%BE%85
+對待 对待 [dui4 dai4] /kezel; bánik (vkivel vhogyan)/kezelés; bánásmód/megközelítés (átv. vmit, vkit vhogyan)//
 
 # ID-m46Fu7t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -61601,6 +61715,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 個 个 [ge4] /(általános számlálószó emberekre és dolgokra)/egyéni/egyedi/
 
+# ID-m57tO9Q
+# Ver 2022-03-02T19:08:58Z GaoYanuo Stat-New >Forrás: 新导报, szokásos szótárak
+截然 截然 [jie2 ran2] /élesen; világosan; teljesen; szöges ellentétben (többnyire 相反, 不同 stb. előtt)/
+
 # ID-m57uK6l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 先知 先知 [xian1 zhi1] /próféta/
@@ -61804,7 +61922,9 @@ X X [X] /X/
 
 # ID-m61uw5D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-根本 根本 [gen1 ben3] /gyökér/bázis/SZ:個|个[ge4]/alapvető/fundamentális/
+# 根本 根本 [gen1 ben3] /gyökér/bázis/SZ:個|个[ge4]/alapvető/fundamentális/
+# Ver 2022-03-02T20:35:36Z GaoYanuo Stat-Verif >Forrás: 新导报 : "...只是一个梦想，可能根本不会成为现实。"\nBartos_Hamar megerősíti.
+根本 根本 [gen1 ben3] /gyökér/bázis/SZ:個|个[ge4]/alapvető/fundamentális/egyáltalán; soha (tagadó szerkezetekben)/
 
 # ID-m61vC4u
 # Ver 2017-05-26T23:36:49Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
@@ -63812,7 +63932,9 @@ XX XX [x x] /x/
 
 # ID-n00Hm3D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-創造 创造 [chuang4 zao4] /teremt/létre|hoz/
+# 創造 创造 [chuang4 zao4] /teremt/létre|hoz/
+# Ver 2022-03-02T19:59:13Z GaoYanuo Stat-Verif >Xin Daobao cikkben: "...和队友...一起创造历史..." A csapattársaival történelmet írtak. Bartos_Hamar megerősíti.
+創造 创造 [chuang4 zao4] /teremt/létre|hoz/elér (vmilyen eredményt, rekordot állít fel, történelmet ír)/
 
 # ID-n00HU6a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -66331,6 +66453,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 咋 咋 [ze2] /le|rág/le|harap/
 
+# ID-n53ua8j
+# Ver 2022-03-02T07:59:58Z NagyHenrik Stat-New >https://hanyu.baidu.com/s?wd=%E8%BF%B7%E7%A6%BB&from=zici
+迷離恍惚 迷离恍惚 [mi2 li2 huang3 hu1] /homályos, ködös, fátyolos, zavaros, elmosódott, tompa/夜晚,远处的光有点迷离恍惚。 Yèwǎn, yuǎn chǔ de guāng yǒudiǎn mílí huǎnghū. Éjszaka a távolban kissé elmosódottak a fények.  她醒得很早，但继续迷离恍惚了一会。Tā xǐng dé hěn zǎo, dàn jìxù mílí huǎnghūle yī huǐ. Korán felébredt, de egy darabig még kába volt.  当时天有大雾,在迷离恍惚中我看见有一辆车开了过去。Dāngshí tiān yǒu dà wù, zài mílí huǎnghū zhōng wǒ kànjiàn yǒuyī liàng chē kāile guòqù.  Köd volt akkor, és láttam, hogy egy autó a homályban elhajt mellettem.  男人们简直是迷离恍惚。Nánrénmen jiǎnzhí shì mílí huǎnghū.  A férfiak egyszerűen zavarodottak.  走在夜晚的街道上，迷离恍惚的霓虹灯在眼前闪烁。 Zǒu zài yèwǎn de jiēdào shàng, mílí huǎnghū de níhóngdēng zài yǎnqián shǎnshuò.   Éjszaka az utcán sétálva az elmosódott neonfények villantak fel a szeme előtt.//
+
 # ID-n53zk0p
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 魔爪 魔爪 [mo2 zhao3] /ördög|karom/
@@ -66379,6 +66505,8 @@ XX XX [x x] /x/
 
 # ID-n54op8V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
+# 則 则 [ze2] /szabály/elő|írás/kritérium/utánoz/akkor (ebben az esetben)/(mondatrészek közötti kötősző: kontrasztot, ellentétet fejez ki: de, azonban, ám, viszont)/(utótag számok után, felsorolásban: először X, másodszor Y stb.)/(számlálószó: írott elemek, pl. hivatalos nyilatkozatok)/
+# Ver 2022-03-02T19:02:15Z GaoYanuo Stat-Verif >Nem értek egyet azzal, hogy a 6. bejegyzésben a jelentések mind zárójelben vannak, mert így nem lehet rájuk keresni. Hozzá akartam a "pedig"-et tenni, de így nincs értelme.  Pedig a "pedig"-re rákeresve nincs semmilyen találat a szótárban. :-))
 則 则 [ze2] /szabály/elő|írás/kritérium/utánoz/akkor (ebben az esetben)/(mondatrészek közötti kötősző: kontrasztot, ellentétet fejez ki: de, azonban, ám, viszont)/(utótag számok után, felsorolásban: először X, másodszor Y stb.)/(számlálószó: írott elemek, pl. hivatalos nyilatkozatok)/
 
 # ID-n54pU4t
@@ -67745,6 +67873,10 @@ XX XX [x x] /x/
 # ID-n83wo8c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 聚 聚 [ju4] /össze|gyűl; össze|jön (több ember)/
+
+# ID-n83Bd1A
+# Ver 2022-03-02T20:30:30Z GaoYanuo Stat-New >Forrás: 新导报
+冬奧會 冬奥会 [dong1 ao4 hui4] /Téli Olimpia/
 
 # ID-n83Lf5D
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -70349,6 +70481,10 @@ XX XX [x x] /x/
 # ID-o37Sd5S
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 鏈子 链子 [lian4 zi5] /lánc/
+
+# ID-o37Tb7n
+# Ver 2022-03-03T02:55:56Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%AE%9E%E5%9C%B0%E8%B0%83%E7%A0%94
+實地調研 实地调研 [shi2 de5 diao4 yan2] /helyszíni vizsgálat, helyszíni felmérés/他们来海参崴实地调研发动机的实际使用情况。Tāmen lái hǎishēnwǎi shídì diàoyán fādòngjī de shíjì shǐyòng qíngkuàng. / Vlagyivosztokba jöttek, hogy helyszínen felmérjék a motor tényleges használatát./
 
 # ID-o37ZD1G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
