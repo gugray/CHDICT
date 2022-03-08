@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-03-07T03:00:01Z
+# Időbélyeg / Timestamp: 2022-03-08T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -996,6 +996,10 @@
 # ID-a19zv8y
 # Ver 2017-05-27T18:28:36Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
 感嘆詞 感叹词 [gan3 tan4 ci2] /indulat|szó/
+
+# ID-a19HT8r
+# Ver 2022-03-07T13:05:39Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%A5%9E%E7%A7%98%E5%AD%A6
+神秘學 神秘学 [shen2 mi4 xue2] /okkultizmus/ua. 隐秘学、玄秘学/
 
 # ID-a19JV3H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -4052,6 +4056,10 @@
 # ID-a79To1w
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 必不可少 必不可少 [bi4 bu4 ke3 shao3] /nélkülözhetetlen/
+
+# ID-a80aQ9y
+# Ver 2022-03-07T13:03:23Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E8%AF%BA%E6%96%AF%E6%9B%BF%E4%B8%BB%E4%B9%89/8268234?fr=aladdin
+諾斯替主義 诺斯替主义 [nuo4 si1 ti4 zhu3 yi4] /gnoszticizmus/
 
 # ID-a80bq1K
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -7274,6 +7282,10 @@
 # ID-b45Df7r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 過度 过度 [guo4 du4] /túlzott/túlzó/mértéktelen/többlet/
+
+# ID-b45TB6W
+# Ver 2022-03-07T13:17:27Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%8B%82%E5%96%9C/19964?fr=aladdin
+狂喜 狂喜 [kuang2 xi3] /eksztázis /
 
 # ID-b46cx2A
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -13031,6 +13043,10 @@
 # ID-c64XP7p
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 藥劑師 药剂师 [yao4 ji4 shi1] /patikus/gyógyszerész/
+
+# ID-c65dx1R
+# Ver 2022-03-07T13:06:56Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%A7%98%E6%95%99
+秘教 秘教 [mi4 jiao4] /Ezoterika, ezotéria vagy ezoterikus tanok /ua. 秘仪、密仪、密教、密意/
 
 # ID-c65dA7d
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -19567,6 +19583,12 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # 現場 现场 [xian4 chang3] /helyszín (bűntetté, baleseté)/a helyszínen/
 # Ver 2019-07-02T22:59:56Z GaoYanuo Stat-Verif >forrás: kínai kollégák
 現場 现场 [xian4 chang3] /helyszín (bűntetté, baleseté)/a helyszínen/kinn a terepen (külső munkahelyen, nem irodában)/
+
+# ID-d96lp5B
+# Ver 2022-03-07T09:55:18Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%8E%9F%E7%94%9F%E8%A3%B8%E5%9C%B0/1687006?fr=aladdin
+# 原生裸地 原生裸地 [yuan2 sheng1 luo3 de5] /Primer szukcesszió/
+# Ver 2022-03-07T10:24:22Z NagyHenrik Stat-New >.
+原生裸地 原生裸地 [yuan2 sheng1 luo3 di4] /Primer szukcesszió/
 
 # ID-d96mz3W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -26161,6 +26183,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 碳原子 碳原子 [tan4 yuan2 zi3] /szén|atom/
 
+# ID-f33pK5f
+# Ver 2022-03-07T09:47:34Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%BC%94%E6%9B%BF/2423681?fr=aladdin
+演替 演替 [yan3 ti4] /‹biol› szukcesszió/演替:群落发展变化过程中，由低级到高级，由简单到复杂，一个群落代替另一个群落的自然演变现象。 Yǎn tì qúnluò fà zhǎn biànhuà guòchéng zhōng, yóu dījí dào gāojí, yóu jiǎndān dào fùzá, yīgè qúnluò dàitì lìng yīgè qúnluò de zìrán yǎnbiàn xiànxiàng.  Szukcesszió: természetes fejlődési folyamat, egy biocönózis terjeszkedésekor bekövetkező változások során, az alacsony szintről a magasabb felé, az egyszerűtől az összetettig, az egyik életközösség felváltja a másikat./
+
 # ID-f33Br7g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 掰 掰 [bai1] /fel|tör; le|tör (kézzel)/szakít (kapcsolatnak véget vet)/
@@ -32221,6 +32247,10 @@ X X [X] /X/
 # ID-g53rh2P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 航天 航天 [hang2 tian1] /űr|repülés/
+
+# ID-g53tx7Y
+# Ver 2022-03-07T13:12:35Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E8%B6%85%E5%BF%83%E7%90%86%E5%AD%A6
+超心理學 超心理学 [chao1 xin1 li3 xue2] /parapszichológia/
 
 # ID-g53xS4p
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -39720,6 +39750,12 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 過日子 过日子 [guo4 ri4 zi5] /éli az életét/boldogul/
 
+# ID-i06kI5k
+# Ver 2022-03-07T09:56:08Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%AC%A1%E7%94%9F%E8%A3%B8%E5%9C%B0/5573635?fr=aladdin
+# 次生裸地 次生裸地 [ci4 sheng1 luo3 de5] /Szekunder szukcesszió/
+# Ver 2022-03-07T10:23:49Z NagyHenrik Stat-New >1
+次生裸地 次生裸地 [ci4 sheng1 luo3 di4] /Szekunder szukcesszió/
+
 # ID-i06lw0x
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 調換 调换 [diao4 huan4] /ki|cserél/le|cserél/
@@ -40977,6 +41013,10 @@ X X [X] /X/
 # ID-i31Yc9C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 走動 走动 [zou3 dong4] /járkál/fel-alá jár/sétálni megy/ki|nyújtja a lábát/
+
+# ID-i32nS5f
+# Ver 2022-03-07T13:04:23Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%A5%9E%E6%99%BA%E5%AD%A6
+神智學 神智学 [shen2 zhi4 xue2] /teozófia/
 
 # ID-i32sk1H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -43593,6 +43633,10 @@ X X [X] /X/
 # ID-i85ox7x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 遭 遭 [zao1] /találkozik/el|szenved/(számlálószó: alkalom, kör, eset)/
+
+# ID-i85qy0V
+# Ver 2022-03-07T08:47:32Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%97%A0%E6%80%A7%E6%9D%82%E4%BA%A4
+無性雜交 无性杂交 [wu2 xing4 za2 jiao1] /‹biol, növ› vegetatív\ivartalan keresztezés\hibridizálás\hibridizáció; /她采用无性杂交方法,反复试验,最终培育出高羊茅草新品系。Tā cǎiyòng wúxìng zájiāo fāngfǎ, fǎnfù shìyàn, zuìzhōng péiyù chū gāo yáng máocǎo xīn pǐnxì. Hibridizációs módszerrel és ismételt kísérletekkel, végül új csenkeszfű fajtát állított elő./
 
 # ID-i85HJ6K
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -61645,6 +61689,10 @@ X X [X] /X/
 # Ver 2021-03-24T23:55:44Z Adam Stat-Verif >"összevissza" egybe, vö. Magyar helyesírási szótár, online: https://helyesiras.szotar.org/
 妄言 妄言 [wang4 yan2] /összevissza beszél/hazudozik/badarságokat beszél/
 
+# ID-m44FD7l
+# Ver 2022-03-07T07:51:58Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%97%A0%E6%80%A7
+無性 无性 [wu2 xing4] /‹biol› nem nélküli, aszexuális, ivartalan,/szex nélküli, /有些生物甚至是无性生殖，仅是通过将它们自己分成两个生物体而完成的。Yǒuxiē shēngwù shènzhì shì wúxìng shēngzhí, jǐn shì tōngguò jiāng tāmen zìjǐ fēnchéng liǎng gè shēngwù tǐ ér wánchéng de. Egyes még nemtelen élőlények is szaporodnak, egyszerűen úgy, hogy két organizmusra osztják magukat.     他们是无性婚姻。 Tāmen shì wúxìng hūnyīn. Szex nélküli házasságban élnek./
+
 # ID-m44Qm9Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 海拔 海拔 [hai3 ba2] /magasság (tengerszint feletti)/
@@ -70451,6 +70499,10 @@ XX XX [x x] /x/
 # ID-o23vg8W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 辛勤 辛勤 [xin1 qin2] /szorgalmas/dolgos/
+
+# ID-o23vk1K
+# Ver 2022-03-07T03:53:54Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%B2%BE%E6%80%AA/1032893?forcehttps=1%3Ffr%3Dkg_hanyu
+精怪 精怪 [jing1 guai4] /tünemény, szellemlény, lidérke, szilfid； A hiedelem szerint madarak, állatok, füvek, stb., amelyek az évek során szellemlényekké változtak./leleményes és okos; 他从小就精怪得很。Tā cóngxiǎo jiù jīngguài dé hěn。Gyerekkora óta nagyon élelmes./A mitológiában a nem emberi és nem is démoni, emberfeletti képességekkel rendelkező vagy öntudatlan lényekké változott állatokat és növényeket együttesen szellemlénynek “精” nevezik; a démonok “妖” vagy szellemlények “精” torzult elvátozott formáit pedig szörnyeknek “怪”, a öntudatlan lényeknek nem adatik meg, hogy elérjék a megvilágosodás igaz gyümölcsét "正果"./
 
 # ID-o23we6X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
