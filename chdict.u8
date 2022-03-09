@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-03-08T03:00:01Z
+# Időbélyeg / Timestamp: 2022-03-09T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -8223,6 +8223,10 @@
 # Ver 2021-06-11T18:36:22Z gabor Stat-Verif >.
 圭亞那 圭亚那 [gui1 ya4 na4] /(földrajzi név) Guyana/
 
+# ID-b65dJ4k
+# Ver 2022-03-09T01:57:02Z NagyHenrik Stat-New >https://hanyu.baidu.com/s?wd=%E9%BB%8F%E7%9D%80%E8%AF%AD&from=zici
+黏著語 黏着语 [nian2 zhuo2 yu3] /‹nyelvt› agglutináló nyelv/
+
 # ID-b65gc0u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 精打細算 精打细算 [jing1 da3 xi4 suan4] /(kifejezés) aprólékos tervezés és gondos számvitel/
@@ -8739,6 +8743,10 @@
 # ID-b76VK3m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 所作所為 所作所为 [suo3 zuo4 suo3 wei2] /(kifejezés) viselkedés; tettek/
+
+# ID-b76ZZ9C
+# Ver 2022-03-08T06:31:28Z NagyHenrik Stat-New >https://www.szotar.net/kinai/%E6%93%8D/
+撡 操 [cao1] /kézben tart\fog  操刀 cāo dāo kést fog/[操劳] [操作] tesz, cselekszik, művel vmit/vmilyen nyelvet beszél  操本地口音 cāoběndì kǒuyīn a helyi nyelvjárást beszéli/gyakorol, edz/[操行] magatartás, viselkedés(mód),, magaviselet/[体操] gyakorlás, edzés/[családnév]/
 
 # ID-b77cy4y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -16076,6 +16084,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 海底 海底 [hai3 di3] /tenger|fenék/
 
+# ID-d24OD5t
+# Ver 2022-03-09T01:54:31Z NagyHenrik Stat-New >https://hanyu.baidu.com/s?wd=%E6%B3%A2%E6%96%AF%E8%AF%AD&from=zici
+波斯語 波斯语 [bo1 si1 yu3] / fárszi nyelv, perzsa nyelv/
+
 # ID-d25rj5f
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 季節性 季节性 [ji4 jie2 xing4] /időszakos/szezonális/
@@ -16418,6 +16430,10 @@
 # ID-d32lW8T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 劇烈 剧烈 [ju4 lie4] /heves/akut/vad/
+
+# ID-d32tH6j
+# Ver 2022-03-09T02:51:56Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%A5%9E%E7%BB%8F%E5%AD%A6/6854151?fr=aladdin
+神經學 神经学 [shen2 jing1 xue2] /idegrendszer tudománya，neurology/
 
 # ID-d32yV2F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -17019,6 +17035,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 發票 发票 [fa1 piao4] /számla/blokk; recept/
 
+# ID-d44QF2e
+# Ver 2022-03-08T08:06:05Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%86%8F%E9%99%B6%E6%88%90%E6%80%A7/4707203?fr=aladdin
+熏陶成性 熏陶成性 [xun1 tao2 cheng2 xing4] /nevelés teremt jellemet \ jó nevelés jó szokás \ Nyesés nélkül fa sem nő nagyra./
+
 # ID-d44Si6A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 天性 天性 [tian1 xing4] /természet/természetes ösztön/veleszületett hajlam/
@@ -17342,6 +17362,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-d50Ni0U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 大伙兒 大伙儿 [da4 huo3 r5] /mindenki/mi mindannyian/
+
+# ID-d50VR4W
+# Ver 2022-03-09T02:34:23Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%A4%9A%E5%BC%8F%E7%BB%BC%E5%90%88%E8%AF%AD
+多式綜合語 多式综合语 [duo1 shi4 zong1 he2 yu3] /poliszintetikus nyelv /
 
 # ID-d50Xi7M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -18483,6 +18507,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 吹口哨 吹口哨 [chui1 kou3 shao4] /fütyül/
 
+# ID-d73xf0x
+# Ver 2022-03-09T02:57:45Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF/663582?fr=aladdin
+計算機科學 计算机科学 [ji4 suan4 ji1 ke1 xue2] /számítástudomány，  számítógép-tudomány /
+
 # ID-d73yv4u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 說明 说明 [shuo1 ming2] /magyaráz/leír/magyarázat/leírás/felirat (képen)/SZ:個|个[ge4]/
@@ -19091,6 +19119,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-d85rz0s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 自尊 自尊 [zi4 zun1] /ön|becsülés/ön|értékelés/
+
+# ID-d85xF8h
+# Ver 2022-03-09T01:55:40Z NagyHenrik Stat-New >https://hanyu.baidu.com/s?wd=%E5%B1%88%E6%8A%98%E8%AF%AD&from=zici
+屈折語 屈折语 [qu1 zhe2 yu3] /‹nyelvt› flektáló\hajlító\ragozó nyelv/
 
 # ID-d85Fp4I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -24953,6 +24985,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 星際 星际 [xing1 ji4] /csillag|közi/
 
+# ID-f08JY4b
+# Ver 2022-03-08T06:27:42Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E9%99%B6%E5%86%B6/44151?fr=aladdin
+陶冶 陶冶 [tao2 ye3] /fazekasárut készít és fémet olvaszt/hatással van [vki személyiségére stb.], formál\alakít\ művel vkit/陶冶性灵 táoyě xìnglíng  karakterformázás, 陶冶性情 táoyě xìngqíng személyiséget formál, 陶冶心灵 Táoyě xīnlíng a szellem művelése,  艺术可以陶冶人们的情操。 Yìshù kěyǐ táoyě rénmen de qíngcāo. A művészet mentalitás formáló./
+
 # ID-f08KV2D
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 強求 强求 [qiang3 qiu2] /ki|kényszerít/rá|erőltet/
@@ -27404,6 +27440,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f55Mq0P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 零 零 [ling2] /nulla/semmi/tört rész/töredék/el|sorvad/
+
+# ID-f55MR7q
+# Ver 2022-03-08T03:23:21Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%87%80%E5%8C%96%E4%BD%9C%E7%94%A8
+凈化作用 净化作用 [jing4 hua4 zuo4 yong4] /katarzis \ katartikus/经历过的苦难真有净化作用。Jīnglìguò de kǔnàn zhēnyǒu jìnghuà zuòyòng. Az átélt szenvedésnek valóban katartikus hatása van./
 
 # ID-f55OC5E
 # Ver 2017-11-27T18:53:35Z GaoYanuo Stat-New >http://www.dictall.com/st/42/9/420927570CB.htm
@@ -31161,6 +31201,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-g31oE2a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 出賣 出卖 [chu1 mai4] /árul/el|árul (árulóvá lesz)/
+
+# ID-g31GX5c
+# Ver 2022-03-09T01:52:45Z NagyHenrik Stat-New >https://hanyu.baidu.com/zici/s?wd=%E4%BB%8E%E5%AE%B9%E4%B8%8D%E8%BF%AB&query=%E4%BB%8E%E5%AE%B9%E4%B8%8D%E8%BF%AB&srcid=28232&from=kg0
+從容不迫 从容不迫 [cong2 rong2 bu4 po4] /‹成› nyugodt és ráérős/
 
 # ID-g31PL1f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -36066,6 +36110,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 框子 框子 [kuang4 zi5] /keret (kisebb dolgoké)/
 
+# ID-h30vc5i
+# Ver 2022-03-09T02:50:37Z NagyHenrik Stat-New >http://dict.cn/%E7%A5%9E%E7%BB%8F%E5%86%85%E7%A7%91
+神經內科 神经内科 [shen2 jing1 nei4 ke1] /neurológia/
+
 # ID-h30vd5z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 柯達 柯达 [ke1 da2] /(tulajdonnév) Kodak/
@@ -36921,6 +36969,10 @@ X X [X] /X/
 # ID-h50jM5R
 # Ver 2017-06-07T10:42:23Z Adam Stat-New >麦金塔操作系统 és Mac系列 Wikipédia-szócikkek + CC-CEDICT alapján
 麥金塔 麦金塔 [mai4 jin1 ta3] /Macintosh (számítógépmárka és operációs rendszer)/
+
+# ID-h50jQ3e
+# Ver 2022-03-09T02:04:56Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%88%86%E6%9E%90%E8%AF%AD/4942560?fromtitle=%E5%AD%A4%E7%AB%8B%E8%AF%AD&fromid=5405160
+孤立語 孤立语 [gu1 li4 yu3] /izoláló (elszigetelő) nyelv///
 
 # ID-h50pH5z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -45702,6 +45754,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 十足 十足 [shi2 zu2] /teljes/bőséges/száz százalék/
 
+# ID-j25wX3l
+# Ver 2022-03-08T03:58:41Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%94%A4%E8%B5%B7
+喚起 唤起 [huan4 qi3] /[átv. értelemben] felébreszt, felkelt/(fel)hív, felelevenít/雄壮的歌声唤起了战士们的斗志。Xióngzhuàng de gēshēng huànqǐle zhànshìmen de dòuzhì. A lelkesítő éneklés felkeltette a katonák harci kedvét.  唤起希望 Huànqǐ xīwàng reményt kelt； 唤起回忆 Huànqǐ huíyì  felidéz emléket;  唤起民众 Huànqǐ mínzhòng felébreszti a tömegeket; 唤起勇气  Huànqǐ yǒngqì bátorságra kelt; 唤起笑脸 Huànqǐ xiàoliǎn mosolyt kelt; 唤起悲悯与畏惧之情 Huànqǐ bēimǐn yǔ wèijù zhī qíng együttérzést és félelmet kelt;/
+
 # ID-j25AX8k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 代碼 代码 [dai4 ma3] /kód/forrás|kód/
@@ -48129,6 +48185,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 蘇醒 苏醒 [su1 xing3] /magához tér/
 
+# ID-j76bp6S
+# Ver 2022-03-08T10:25:19Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%AA%81%E5%8E%A5%E8%AF%AD%E5%9B%BD%E5%AE%B6/8398716?fr=aladdin
+突厥語 突厥语 [tu1 jue2 yu3] /türk nyelvek/
+
 # ID-j76kF0N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 環球 环球 [huan2 qiu2] /az egész világon/világszerte/
@@ -49032,6 +49092,10 @@ X X [X] /X/
 # ID-j94hW7b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 減少 减少 [jian3 shao3] /csökkent/
+
+# ID-j94nG2N
+# Ver 2022-03-08T05:12:27Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%83%85%E6%80%80/10135058?fr=aladdin
+情懷 情怀 [qing2 huai2] /érzés, emóció, érzület, érzelem/hangulat, kedv, lelkiállapot, kedély, kedélyállapot, közérzet/释放情怀 Shìfàng qínghuái elengedi magát, megkönnyebbül, felszabadúl;  无私坦荡的情怀 Wúsī tǎndàng de qínghuái Önzetlen és nagylelkű érzés, 一种秋天的情怀 Yī zhǒng qiūtiān de qínghuái Egyfajta őszi hangulat, 浪漫主义情怀 Làngmàn zhǔyì qínghuái romantikus érzések, 情怀滋生 Qínghuái zīshēng feltolulnak az érzések, 慈悲的情怀 Cíbēi de qínghuái együttérzés, 表达他感恩的情怀 Biǎodá tā gǎn'ēn de qínghuái kifejezi háláját;/
 
 # ID-j94zC4Q
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -50825,6 +50889,10 @@ X X [X] /X/
 # ID-k27Tz1d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 期 期 [qi1] /idő|szak/periódus/szakasz/(számlálószó: folyóiratok; kurzusok)/remél/
+
+# ID-k27Ul1c
+# Ver 2022-03-08T04:45:27Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%BF%83%E5%A2%83/5945933
+心境 心境 [xin1 jing4] / lelkiállapot, hangulat/今天的我们不仅仅是远离了一个古典的时代，更重要的是失去了一种悲悯的情怀和从容做梦的心境。Jīntiān de wǒmen bùjǐn jǐn shì yuǎnlíle yīgè gǔdiǎn de shídài, gèng zhòngyào de shì shīqùle yī zhǒng bēimǐn de qínghuái hé cóngróng zuòmèng de xīnjìng. Ma már nem csak eltávolodtunk egy klasszikus korszaktól, de ami még fontosabb, elvesztettük az együttérzés és a nyugodt álmodozáshoz való lelkiállapotot./
 
 # ID-k27Uo3c
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -55282,6 +55350,10 @@ X X [X] /X/
 # ID-l18NP3G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 落葉松 落叶松 [luo4 ye4 song1] /vörös|fenyő/
+
+# ID-l18QH2C
+# Ver 2022-03-09T02:05:49Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%88%86%E6%9E%90%E8%AF%AD
+分析語 分析语 [fen1 xi1 yu3] /analitikus nyelv/
 
 # ID-l18Sg8j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -60141,6 +60213,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 爭論 争论 [zheng1 lun4] /vitat/ellent|mond/veszekszik/vita/veszekedés/SZ:次[ci4],場|场[chang3]/
 
+# ID-m15gh6e
+# Ver 2022-03-08T03:24:19Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%8F%A4%E5%B8%8C%E8%85%8A/14206
+古希臘 古希腊 [gu3 xi1 la4] /Az ókori Görögország/
+
 # ID-m15jH6r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 紅 红 [hong2] /piros/vörös/forradalmi/(családnév) Hong/
@@ -62763,6 +62839,10 @@ XX XX [x x] /x/
 # ID-m65AS9b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 辭 辞 [ci2] /le|mond (pozícióról, állásról)/le|köszön/el|utasít/
+
+# ID-m65CR8M
+# Ver 2022-03-09T02:54:11Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E4%BF%A1%E6%81%AF%E7%A7%91%E5%AD%A6/1296011?fr=aladdin
+信息科學 信息科学 [xin4 xi1 ke1 xue2] /információtudomány/
 
 # ID-m65Jx3n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -71568,6 +71648,10 @@ XX XX [x x] /x/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 妖術 妖术 [yao1 shu4] /varázslás; boszorkányság/
 
+# ID-o45lX5m
+# Ver 2022-03-09T02:33:48Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%BB%BC%E5%90%88%E8%AF%AD/8140605?fr=aladdin
+綜合語 综合语 [zong1 he2 yu3] /szintetikus nyelv /
+
 # ID-o45pF8G
 # Ver 2017-05-24T00:19:00Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek (a pinjin-átírás ellenőrizendő), keleti (kínai/magyar) névsorrendre módosítva
 # 塞麥爾維斯伊格納茲 塞麦尔维斯伊格纳兹 [sai1 mai4 er3 wei2 si1 yi1 ge2 na4 zi1] /(átirat) Semmelweis Ignác/
@@ -72285,6 +72369,10 @@ XX XX [x x] /x/
 # 僅 仅 [jin3] /alig/csak, csupán, pusztán/épp/
 # Ver 2019-09-29T15:57:05Z gabor Stat-Verif >pvessz
 僅 仅 [jin3] /alig/csak; csupán; pusztán/épp/
+
+# ID-o59Cf7I
+# Ver 2022-03-08T08:30:55Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%A6%82%E5%9D%90%E6%98%A5%E9%A3%8E/4516935?fr=aladdin
+如坐春風 如坐春风 [ru2 zuo4 chun1 feng1] /(oly érzés) mintha tavaszi szellő repítne (ül), (szólás, Song-dinasztia )./Metafora arra, hogy a szilárd erkölcsű és tanult emberek között töltött idő inspirálóan hat./
 
 # ID-o59OR9j
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
