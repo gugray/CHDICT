@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-03-10T03:00:01Z
+# Időbélyeg / Timestamp: 2022-03-11T03:00:02Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -306,6 +306,10 @@
 # ID-a04ZX4K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 行業 行业 [hang2 ye4] /ipar/ipar|ág/szektor/szakma/
+
+# ID-a05fn8x
+# Ver 2022-03-10T08:01:33Z NagyHenrik Stat-New >https://hanyu.baidu.com/zici/s?wd=%E6%83%85%E6%93%8D&query=%E6%83%85%E6%93%8D&srcid=28232&from=kg0
+情操 情操 [qing2 cao1] /mentalitás, érték(rend), felfogás，érzés，természet，nézet，érzékenység，lelki hajlam\-állapot\beállítottság\alkat，erkölcsi karakter\tartás\jelleme\magatartás, [átfogó érzelmi és gondolkodás beli  meggyőződésből kialakult szilárd lelkiállapot]  我对他的高尚情操非常赞赏。 Wǒ duì tā de gāoshàng qíngcāo fēicháng zànshǎng. Nagyon csodálom a nemes jellemét.  真正的英雄不是永远没有卑下的情操，只是永远不被卑下的情操所屈服罢了。( 罗曼·罗兰)   Zhēnzhèng de yīngxióng bùshì yǒngyuǎn méiyǒu bēixià de qíngcāo, zhǐshì yǒngyuǎn bù bèi bēixià de qíngcāo suǒ qūfú bàle.(Luómàn·luólán)   Az igazi hős nem mindig mentes az alantas érzelmektől, csupán soha nem enged nekik. ( Romain Rolland) /
 
 # ID-a05gu0I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -3048,6 +3052,10 @@
 # ID-a58Rf0l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 咳 咳 [ke2] /köhög/
+
+# ID-a59oq8O
+# Ver 2022-03-10T09:15:13Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E9%9B%87%E4%BD%A3%E5%8A%B3%E5%8A%A8%E8%80%85
+雇傭勞動者 雇佣劳动者 [gu4 yong4 lao2 dong4 zhe3] /bérmunkás/
 
 # ID-a59ze5G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -7187,6 +7195,10 @@
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 掌控 掌控 [zhang3 kong4] /irányít/kézben tart/
 
+# ID-b44gC7f
+# Ver 2022-03-10T09:14:36Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E9%9B%87%E4%BD%A3%E5%8A%B3%E5%8A%A8/3591894?fr=aladdin
+雇傭勞動 雇佣劳动 [gu4 yong4 lao2 dong4] /bérmunka/
+
 # ID-b44gT8A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 版 版 [ban3] /ki|adás/oldal (újságé)/nyomó|lap/
@@ -8283,6 +8295,10 @@
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 煮飯 煮饭 [zhu3 fan4] /főz (ételt készít)/
 
+# ID-b66pV9X
+# Ver 2022-03-10T13:40:00Z NagyHenrik Stat-New >https://hanyu.baidu.com/zici/swd=%E6%8C%AA%E5%8A%A8&query=%E6%8C%AA%E5
+挪動 挪动 [nuo2 dong4] /[térben] elmozdít, elmozgat, arrébb tesz; [lassan elmozdít vmit a helyéről]请你将桌子挪动一下。 Qǐng nǐ jiàng zhuōzi nuódòng yīxià.  Kérem, tegye arrébb az asztalt egy kicsit./
+
 # ID-b66tK9c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 胎 胎 [tai1] /magzat; embrió/autó|gumi (fonetikus átvétel: tire\tyre)/
@@ -8493,6 +8509,10 @@
 # ID-b71kz2H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 扶助 扶助 [fu2 zhu4] /segít/támogat/
+
+# ID-b71oa4k
+# Ver 2022-03-10T08:51:26Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%94%9F%E4%BA%A7%E8%B5%84%E6%96%99/2522580?fr=aladdin
+生產資料 生产资料 [sheng1 chan3 zi1 liao4] /termelőeszköz vagy termelési eszközök [azokat a javakat, amelyek más javak előállítására szolgálnak]/
 
 # ID-b71rp1E
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -10561,6 +10581,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 撫恤金 抚恤金 [fu3 xu4 jin1] /nyugdíj (özvegyek számára)/
 
+# ID-c13Ug7K
+# Ver 2022-03-10T08:41:38Z NagyHenrik Stat-New >https://hanyu.baidu.com/zici/s?wd=%E9%98%B6%E7%BA%A7&query=%E9%98%B6%E7%BA%A7&srcid=28232&from=kg0
+階級 阶级 [jie1 ji2] /lépcső, lépcsőfok \ (társadalmi) osztály; 资产阶级 Zīchǎn jiējí tőkés osztály/
+
 # ID-c13VH6Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 農曆 农历 [nong2 li4] /hold|naptár/hagyományos kínai naptár/
@@ -11882,6 +11906,10 @@
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 儀表盤 仪表盘 [yi2 biao3 pan2] /műszer|fal/
 
+# ID-c42vK6m
+# Ver 2022-03-10T08:44:15Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%8A%B3%E5%8A%A8%E4%BB%B7%E5%80%BC%E7%90%86%E8%AE%BA/10144257?fr=aladdin
+勞動價值理論 劳动价值理论 [lao2 dong4 jia4 zhi2 li3 lun4] /munkaérték-elmélet/
+
 # ID-c42xz0p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 限制 限制 [xian4 zhi4] /korlátoz/korlátozás/
@@ -12131,6 +12159,10 @@
 # ID-c47zs4e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 付給 付给 [fu4 gei3] /fizet/szállít/
+
+# ID-c47DB1U
+# Ver 2022-03-10T08:52:39Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%94%9F%E4%BA%A7%E6%96%B9%E5%BC%8F/4603?fr=aladdin
+生產方式 生产方式 [sheng1 chan3 fang1 shi4] /termelési mód/
 
 # ID-c47HA4n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -13363,6 +13395,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 兒 儿 [er2] /fiú (fia vkinek)/
 
+# ID-c70Ql2y
+# Ver 2022-03-10T13:11:30Z NagyHenrik Stat-New >https://hanyu.baidu.com/zici/swd=%E7%BB%A9&query=%E7%BB%A9&srcid=28232&fr
+勣 绩 [ji4] /[纺绩，绩麻] kenderből kötelet\fonalat sodor tenyere közt/[成绩，战绩，功绩] (elért) eredmény, teljesítmény, érdem/[继续，继承]  folytat/
+
 # ID-c70Ty2y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 嗓音 嗓音 [sang3 yin1] /hang/
@@ -13578,6 +13614,10 @@
 # ID-c75Gq4t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 腎 肾 [shen4] /vese/
+
+# ID-c75Nt8Y
+# Ver 2022-03-10T09:11:07Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%A4%BE%E4%BC%9A%E5%BF%85%E8%A6%81%E5%8A%B3%E5%8A%A8%E6%97%B6%E9%97%B4/5250510
+社會必要勞動時間 社会必要劳动时间 [she4 hui4 bi4 yao4 lao2 dong4 shi2 jian1] / társadalmilag szükséges munkaidő/
 
 # ID-c75SA1p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -15787,6 +15827,10 @@
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 伽馬射線 伽马射线 [ga1 ma3 she4 xian4] /gamma-sugárzás; gamma-sugarak/
 
+# ID-d18ny4N
+# Ver 2022-03-10T08:27:24Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%B0%81%E5%BB%BA%E5%88%B6%E5%BA%A6
+封建制度 封建制度 [feng1 jian4 zhi4 du4] /feudalizmus/
+
 # ID-d18vd0R
 # Ver 2017-05-25T14:44:25Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
 # 括號 括号 [kuo4 hao4] /zárójel/
@@ -17446,6 +17490,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-d52yn2m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 十分 十分 [shi2 fen1] /nagyon/teljesen/rendkívül/egészen/
+
+# ID-d52zA1k
+# Ver 2022-03-10T08:17:01Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E8%8B%B1%E5%9B%BD%E5%9C%88%E5%9C%B0%E8%BF%90%E5%8A%A8?fromtitle=%E5%9C%88%E5%9C%B0%E8%BF%90%E5%8A%A8&fromid=442697
+圈地運動 圈地运动 [quan1 di4 yun4 dong4] /bekerítések [elkerítés, enclosure, 16–18. századi Anglia gazdasági – politikai folyamat]  ua. 英国圈地运动 /
 
 # ID-d52Ae5Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -22043,6 +22091,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 增援 增援 [zeng1 yuan2] /meg|erősít (erősebbé tesz)/
 
+# ID-e44BI5t
+# Ver 2022-03-10T09:19:57Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91
+勞動合同法 劳动合同法 [lao2 dong4 he2 tong2 fa3] /munkaszerződésekre vonatkozó törvény\jogszabály//
+
 # ID-e44DP0D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 布 布 [bu4] /szövet/ki|jelent/terjeszt/
@@ -24480,6 +24532,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 獎學金 奖学金 [jiang3 xue2 jin1] /ösztön|díj/SZ:個|个[ge4]/
 
+# ID-e97HC9l
+# Ver 2022-03-10T09:41:53Z NagyHenrik Stat-New >http://dict.cn/%E4%B8%B4%E6%97%B6%E5%8A%B3%E5%8A%A8
+臨時勞動 临时劳动 [lin2 shi2 lao2 dong4] /ideiglenes munka/
+
 # ID-e97If0f
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 工頭 工头 [gong1 tou2] /művezető/
@@ -25169,6 +25225,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # 參與 参与 [can1 yu4] /részt|vesz (vmiben)/
 # Ver 2021-04-03T09:21:03Z Adam Stat-Verif >különírva (helyesírási szótár, illetve https://helyesiras.szotar.org/ alapján)
 參與 参与 [can1 yu4] /részt vesz (vmiben)/
+
+# ID-f11xZ3W
+# Ver 2022-03-10T08:43:15Z NagyHenrik Stat-New >https://hanyu.baidu.com/s?wd=%E4%BB%B7%E5%80%BC%E8%A7%84%E5%BE%8B&from=zici
+價值規律 价值规律 [jia4 zhi2 gui1 lü4] / értéktörvény/
 
 # ID-f11MM4M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -26516,6 +26576,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f39IA8a
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 假眼 假眼 [jia3 yan3] /mű|szem/
+
+# ID-f39Kq7R
+# Ver 2022-03-10T08:53:29Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%94%9F%E4%BA%A7%E5%8A%9B/165852?fr=aladdin
+生產力 生产力 [sheng1 chan3 li4] /termelési erő, termelőerő/
 
 # ID-f39QH3E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -28025,6 +28089,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 波浪 波浪 [bo1 lang4] /hullám/
 
+# ID-f66Rx3F
+# Ver 2022-03-10T09:18:16Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%8A%B3%E5%8A%A8%E5%90%88%E5%90%8C%E5
+勞動合同製度 劳动合同制度 [lao2 dong4 he2 tong2 zhi4 du4] /munkaszerződéses rendszer/
+
 # ID-f66Sf2J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 盒子 盒子 [he2 zi5] /doboz/tok/
@@ -28058,6 +28126,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # 勞燕分飛 劳燕分飞 [lao2 yan4 fen1 fei1] /(kifejezés) el|válik; külön|válik; elválnak útjaik/
 # Ver 2018-06-26T20:36:51Z gabor Stat-Verif >.
 勞燕分飛 劳燕分飞 [lao2 yan4 fen1 fei1] /(kifejezés) el|válik; külön|válik; elválnak útjaik/
+
+# ID-f67IO2S
+# Ver 2022-03-10T09:01:47Z NagyHenrik Stat-New >利润率
+利潤率 利润率 [li4 run4 lü4] /haszonkulcs/
 
 # ID-f67Pg1x
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -31754,6 +31826,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 處於 处于 [chu3 yu2] /van (vmilyen helyzetben, állapotban)/
 
+# ID-g43dP7U
+# Ver 2022-03-10T08:36:17Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E9%87%91%E8%9E%8D%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89
+金融資本主義 金融资本主义 [jin1 rong2 zi1 ben3 zhu3 yi4] /pénzügyi kapitalizmus/
+
 # ID-g43fg7L
 # Ver 2022-03-04T07:06:28Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E4%BA%AC%E7%B1%B3/70928?fr=aladdin
 京米 京米 [jing1 mi3] /gigaméter; gm; 1gm=1000000km/
@@ -31863,6 +31939,10 @@ X X [X] /X/
 # ID-g44NH4O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 恢復 恢复 [hui1 fu4] /meg|gyógyul/helyre|állít/vissza|nyer/
+
+# ID-g44Xy8j
+# Ver 2022-03-10T09:12:35Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%89%A9%E4%BD%99%E4%BA%A7%E5%93%81/7773199?fr=aladdin
+剩余產品 剩余产品 [sheng4 yu2 chan3 pin3] /többlettermék, terméktöbblet/
 
 # ID-g45au8m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -34161,6 +34241,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 文憑 文凭 [wen2 ping2] /diploma/
 
+# ID-g90ZV7T
+# Ver 2022-03-10T09:30:09Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E8%8D%AF%E7%89%A9%E6%B5%8B%E8%AF%95/2244
+藥物測試 药物测试 [yao4 wu4 ce4 shi4] /drogteszt, [pl. sportversenyeken alkalmazott drogszűrés]/
+
 # ID-g91bZ2U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 現狀 现状 [xian4 zhuang4] /status quo/jelen helyzet/
@@ -34415,6 +34499,10 @@ X X [X] /X/
 # ID-g95ID1g
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 大將 大将 [da4 jiang4] /tábornok/admirális/
+
+# ID-g95LB8c
+# Ver 2022-03-10T09:03:15Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%94%9F%E4%BA%A7%E5%85%B3%E7%B3%BB/4333530?fr=aladdin
+生產關係 生产关系 [sheng1 chan3 guan1 xi4] /termelési kapcsolat(ok)/
 
 # ID-g95Yy1g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -35331,6 +35419,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 也許 也许 [ye3 xu3] /talán/
 
+# ID-h13nF1y
+# Ver 2022-03-10T08:54:34Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E4%B8%8D%E5%8F%98%E8%B5%84%E6%9C%AC/2621678?fr=aladdin
+不變資本 不变资本 [bu4 bian4 zi1 ben3] /állandó tőke/
+
 # ID-h13tK2y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 撇 撇 [pie1] /el|hagy/félre|lök/
@@ -35963,6 +36055,10 @@ X X [X] /X/
 # ID-h26Rh6n
 # Ver 2017-12-09T21:37:46Z gabor Stat-New >ABC, CEDICT, korpusz
 搖籃 摇篮 [yao2 lan2] /bölcső/
+
+# ID-h26Un6s
+# Ver 2022-03-10T08:46:19Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E4%BA%A4%E6%8D%A2%E4%BB%B7%E5%80%BC/9635232?fr=aladdin
+交換價值 交换价值 [jiao1 huan4 jia4 zhi2] /csereérték/
 
 # ID-h26VR3A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -40451,6 +40547,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 愛情 爱情 [ai4 qing2] /szerelem/SZ:個|个[ge4],份[fen4]/
 
+# ID-i18NM3y
+# Ver 2022-03-10T08:08:09Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E8%B5%84%E6%9C%AC%E7%A7%AF%E7%B4%AF/1871025?fr=aladdin
+資本積纍 资本积累 [zi1 ben3 ji1 lei3] /tőkefelhalmozás/
+
 # ID-i19cR7x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 乙 乙 [yi3] /második (égi jegy)/másik fél (jogi szövegben)/(felsorolásban második: B, 2., II.)/etil/(az 5. Kangxi gyök)/
@@ -41412,6 +41512,10 @@ X X [X] /X/
 # ID-i37Oo3I
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 豎琴 竖琴 [shu4 qin2] /hárfa/
+
+# ID-i37RK5q
+# Ver 2022-03-10T09:25:49Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%8C%8E%E5%A4%B4/5290?fr=aladdin
+獵頭 猎头 [lie4 tou2] /fejvadász, [猎头公司 liètóu gōngsī fejvadász cég]/
 
 # ID-i38bA9D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -46617,6 +46721,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 房頂 房顶 [fang2 ding3] /ház|tető/
 
+# ID-j43rG5f
+# Ver 2022-03-10T08:06:48Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E8%B5%84%E6%9C%AC%E5%8E%9F%E5%A7%8B%E7%A7%AF%E7%B4%AF/7807965?fr=aladdin
+資本原始積纍 资本原始积累 [zi1 ben3 yuan2 shi3 ji1 lei3] /eredeti tőkefelhalmozás, ua. 原始积累/
+
 # ID-j43vr2C
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 女警 女警 [nü3 jing3] /rendőr|nő/
@@ -46884,6 +46992,10 @@ X X [X] /X/
 # ID-j49kD4I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 太極拳 太极拳 [tai4 ji2 quan2] /Tai Chi (harcművészetből kialakult hagyományos mozgáskultúra)/
+
+# ID-j49kP1e
+# Ver 2022-03-10T09:17:03Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%8A%B3%E5%8A%A8%E5%90%88
+勞動合同 劳动合同 [lao2 dong4 he2 tong5] /munkaszerződés/
 
 # ID-j49mP8x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -50202,6 +50314,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 下令 下令 [xia4 ling4] /parancsot ad/meg|parancsol/
 
+# ID-k15by3n
+# Ver 2022-03-10T09:36:02Z NagyHenrik Stat-New >https://hanyu.baidu.com/swd=%E6%83%9C%E9%9E%8B%E6%83%85%E6%93%8D&pty
+績效工資 绩效工资 [ji1 xiao4 gong1 zi1] /teljesítmény alapú bér(ezés)/
+
 # ID-k15cA2A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 緩和 缓和 [huan3 he2] /enyhít; csillapít (pl. feszültséget)/
@@ -50890,6 +51006,10 @@ X X [X] /X/
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 暴亂 暴乱 [bao4 luan4] /lázadás/zendülés/zavargás/
 
+# ID-k27BD1X
+# Ver 2022-03-10T10:05:42Z NagyHenrik Stat-New >https://www.cidianwang.com/guhanyu/qian3526.htm
+遣 遣 [qian3] /[派遣, 差遣] küld, kirendel, kivezényel/[打发, 送走] elküld, /[排遣, 消遣] elűz, elkerget, szabadjára enged, szét-\eloszlat, szétkerget/[遣词造句] használ, alkalmaz/
+
 # ID-k27FR7V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 體育 体育 [ti3 yu4] /test|nevelés/sport/
@@ -51125,6 +51245,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 身型 身型 [shen1 xing2] /test|alkat/
 
+# ID-k32op3j
+# Ver 2022-03-10T09:23:08Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%B1%A5%E5%8E%86/106117?fr=aladdin
+履歷 履历 [lü3 li4] /önéletrajz, [olyan életrajz, amelyet szerzője saját életéről ír, curriculum vitae rövidítve CV, illetve a resume]/
+
 # ID-k32pX0L
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 太祖 太祖 [tai4 zu3] /(dinasztia első császára)/
@@ -51196,6 +51320,10 @@ X X [X] /X/
 # ID-k33HN5k
 # Ver 2022-02-21T06:25:29Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E8%92%82%E5%8D%8E%E8%BE%BE%C2%B7%E8%B4%A1%E8%8C%A8%E5%8D%A1%C2%B7%E8%B4%A1%E7%89%B9%E7%93%A6%E9%87%8C/57198155?fr=aladdin
 貢特瓦裡 贡特瓦里 [gong4 te4 wa3 li3] /Csontváry-Kosztka Tivadar//蒂华达·贡茨卡·贡特瓦里     Dì huá dá·gòng cí kǎ·gòng tè wǎ lǐ/
+
+# ID-k33Oa8U
+# Ver 2022-03-10T08:33:45Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E5%9E%84%E6%96%AD%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89
+國家壟斷資本主義 国家垄断资本主义 [guo2 jia1 long3 duan4 zi1 ben3 zhu3 yi4] /állami monopolkapitalizmus, állammonopolista kapitalizmus/
 
 # ID-k34aK3u
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -51379,6 +51507,10 @@ X X [X] /X/
 # Ver 2017-11-24T19:47:00Z gabor Stat-New >ABC; MBDG; korpusz
 健美 健美 [jian4 mei3] /egészséges és szép/testépítés (sport)/
 
+# ID-k36QL5Y
+# Ver 2022-03-10T09:43:21Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E9%87%91%E8%9E%8D%E6%9C%BA%E6%9E%84/102
+金融機構 金融机构 [jin1 rong2 ji1 gou4] /pénzintézet, pénzügyi intézmény\szervezet/
+
 # ID-k36Sk1O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 磅礴 磅礴 [pang2 bo2] /fenséges/hatalmas/
@@ -51436,6 +51568,10 @@ X X [X] /X/
 # ID-k38iR3k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 不堪 不堪 [bu4 kan1] /nem tudja elviselni/nem állhatja/rendkívüli módon/
+
+# ID-k38mD8w
+# Ver 2022-03-10T08:11:02Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E9%A9%AC%E5%85%8B%E6%80%9D%E4%B8%BB%E4%B9%89%E6%94%BF%E6%B2%BB%E7%BB%8F%E6%B5%8E%E5%AD%A6/3390937?fr=aladdin
+馬剋思主義政治經濟學 马克思主义政治经济学 [ma3 ke4 si1 zhu3 yi4 zheng4 zhi4 jing1 ji4 xue2] /marxiánus közgazdaságtan/
 
 # ID-k38Ic6D
 # Ver 2017-05-26T17:41:09Z Adam Stat-New >pontosítás a kínai Wikipédia-szócikk alapján
@@ -53211,6 +53347,10 @@ X X [X] /X/
 # ID-k75Ei8f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 新年 新年 [xin1 nian2] /Újév/SZ:個|个[ge4]/
+
+# ID-k75FM5g
+# Ver 2022-03-10T09:34:14Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%BB%B4%E7%94%9F%E5%B7%A5%E8%B5%84/601
+維生工資 维生工资 [wei2 sheng1 gong1 zi1] /minimálbér,  létminimum/
 
 # ID-k75Uz0U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -56626,6 +56766,10 @@ X X [X] /X/
 # ID-l41KC9z
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 火熱 火热 [huo3 re4] /tüzes; forró/lelkes; lángoló; szenvedélyes/
+
+# ID-l41Rt8j
+# Ver 2022-03-10T13:31:13Z NagyHenrik Stat-New >https://hanyu.baidu.com/zici/swd=%E6%90%93%E6%8C%AA&query=%E6%90%93%E6
+搓挪 搓挪 [cuo1 nuo2] /dörzsöl (a keze közt)/
 
 # ID-l41WL2J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -61080,6 +61224,10 @@ X X [X] /X/
 # ID-m30on8S
 # Ver 2022-03-04T04:25:13Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%9A%AE%E7%B1%B3
 皮米 皮米 [pi2 mi3] /[száml] pikométer；pm； \ 1000pm = 1 nm/
+
+# ID-m30rt5v
+# Ver 2022-03-10T14:36:55Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%88%80%E5%8F%A3/8827667?fr=aladdin
+刀口 刀口 [dao1 kou3] /késél,  刀口锋利 Dāokǒu fēnglì  éles a kés pengéje/vmnek az éle/jó vagy megfelelő hely, 把劲儿使在刀口上 Bǎ jìn er shǐ zài dāokǒu shàng az erőfeszítéseket a megfelelő helyre kell irányítani/az a pont vagy hely amire a legnagyobb szükség van 钱要花在刀口上  Qián yào huā zài dāokǒu shàng arra kell költeni a pénzt amire a legnagyobb szükség van/
 
 # ID-m30up1E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -66686,6 +66834,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 調 调 [tiao2] /kever; össze|kever; vegyít/meg|felel; harmonizál/meg|felelő; össze|illő/békít; el|rendez/ugrat; tréfál/
 
+# ID-n43ca5Y
+# Ver 2022-03-10T08:48:03Z NagyHenrik Stat-New >https://hanyu.baidu.com/zici/s?wd=%E4%BD%BF%E7%94%A8%E4%BB%B7%E5%80%BC&query=%E4%BD%BF%E7%94%A8%E4%BB%B7%E5%80%BC&srcid=28232&from=kg0
+使用價值 使用价值 [shi3 yong4 jia4 zhi2] /használati érték//
+
 # ID-n43fw7Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 機動車 机动车 [ji1 dong4 che1] /gép|jármű/
@@ -67981,6 +68133,10 @@ XX XX [x x] /x/
 # ID-n68Yy7k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 閃光 闪光 [shan3 guang1] /villanás/csillanás/
+
+# ID-n68YK7j
+# Ver 2022-03-10T08:58:07Z NagyHenrik Stat-New >https://wiki.mbalib.com/wiki/%E4%BB%B7%E5%80%BC%E5%A2%9E%E5%80%BC
+價值增殖 价值增殖 [jia4 zhi2 zeng1 zhi2] /érték növekedés/
 
 # ID-n69aW8x
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -69831,6 +69987,10 @@ XX XX [x x] /x/
 # ID-o07Oh1v
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 太陽光 太阳光 [tai4 yang2 guang1] /nap|fény; nap|sugár/
+
+# ID-o08am2V
+# Ver 2022-03-10T09:39:44Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%8A%B3%E5%8A%A1%E6%B4%BE%E9%81%A3/305258?fr=aladdin
+勞務派遣 劳务派遣 [lao2 wu4 pai4 qian3] /munkaközvetítés, munkaerő-közvetítés, ua. 人力派遣, 人才派遣, 劳动派遣/
 
 # ID-o08dg0R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
