@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-03-11T03:00:02Z
+# Időbélyeg / Timestamp: 2022-03-12T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -12353,6 +12353,10 @@
 # ID-c51GY6b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 夫妻 夫妻 [fu1 qi1] /házas|pár/férj és feleség/
+
+# ID-c51Ht0S
+# Ver 2022-03-11T06:20:57Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%83%9C/5323783?fr=aladdin
+惜 惜 [xi1] /becsben tart, megbecsül, értékel, nagyra tart, dédelget, félt(ve őriz); 惜寸阴 xī cùnyīn minden egyes pillanatot becsben tart/sajnál\vonakodik megtenni vmit, ragaszkodik vmihez, fukarkodik vmivel, spórol vmivel; [吝惜 Lìnxī] /(meg)sajnál, (meg)szán; [惋惜 Wànxí] /
 
 # ID-c51Kg2A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -29167,6 +29171,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f89Fo5C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 出價 出价 [chu1 jia4] /ajánlatot tesz/licitál/
+
+# ID-f89Lp5E
+# Ver 2022-03-11T03:24:40Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%A6%BE%E6%9C%AC%E7%A7%91/2458872
+禾本科 禾本科 [he2 ben3 ke1] / perjefélék vagy pázsitfűfélék családja (Poaceae，Gramineae) /
 
 # ID-f89MM8S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -49898,6 +49906,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 攔截 拦截 [lan2 jie2] /fel|tartóztat/el|kap/
 
+# ID-k07ms3M
+# Ver 2022-03-11T09:23:53Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E4%B8%80%E5%AF%B8%E5%85%89%E9%9
+一寸光陰一寸金 一寸光阴一寸金 [yi1 cun4 guang1 yin1 yi1 cun4 jin1] /az idő pénz, [Egy hüvelyknyi idő egy hüvelyknyi arany]/一寸光阴一寸金，寸金难买寸光阴 Yīcùn guāngyīn yīcùn jīn, cùn jīn nán mǎi cùn guāngyīn az idő pénz de pézért nem vehetsz időt,/
+
 # ID-k07nZ3q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 隨便 随便 [sui2 bian4] /ahogy tetszik/találomra/lezser/könnyelmű/
@@ -50523,6 +50535,10 @@ X X [X] /X/
 # ID-k19CS9u
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 耶穌基督 耶稣基督 [ye1 su1 ji1 du1] /(tulajdonnév) Jézus Krisztus/
+
+# ID-k19Ff2R
+# Ver 2022-03-11T04:12:02Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%94%9C%E9%AB%98%E7%B2%B1/9675043?fr=aladdin
+甜高梁 甜高梁 [tian2 gao1 liang2] /cukorcirok (latin: Sorghum saccharatum), [tudományos elnevezés：Sorghum dochna (Forssk.) Snowden]/
 
 # ID-k19IV7z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -55365,6 +55381,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 空間 空间 [kong1 jian1] /tér/űr/SZ:個|个[ge4]/
 
+# ID-l16cB0l
+# Ver 2022-03-11T03:11:58Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%87%95%E9%BA%A6
+燕麥 燕麦 [yan4 mai4] /zab (Avena sativa)//
+
 # ID-l16ma9B
 # Ver 2022-02-18T09:31:29Z NagyHenrik Stat-New >https://www.dancihu.com/fazhong/n/nonfigurative90175.htm
 抽象藝術 抽象艺术 [chou1 xiang4 yi4 shu4] /absztrakt művészet/
@@ -57205,6 +57225,10 @@ X X [X] /X/
 # ID-l49Tu1U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 雞尾酒 鸡尾酒 [ji1 wei3 jiu3] /koktél/
+
+# ID-l49ZA8e
+# Ver 2022-03-11T03:49:36Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E9%AB%98%E7%B2%B1/2862
+高粱 高粱 [gao1 liang2] /(tarka) cirok (Sorghum bicolor (L.) Moench)/
 
 # ID-l50eG3M
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -66455,6 +66479,10 @@ XX XX [x x] /x/
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 江湖醫生 江湖医生 [jiang1 hu2 yi1 sheng1] /kuruzsló/sarlatán/
 
+# ID-n35SZ0u
+# Ver 2022-03-11T03:06:32Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E9%BB%91%E9%BA%A6/75322?fr=aladdin
+黑麥 黑麦 [hei1 mai4] /rozs/
+
 # ID-n35Tc0P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 花壇 花坛 [hua1 tan2] /virág|ágy/
@@ -66478,6 +66506,10 @@ XX XX [x x] /x/
 # ID-n36eF6g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 癢 痒 [yang3] /viszket/csiklandoz/
+
+# ID-n36hv5E
+# Ver 2022-03-11T03:41:51Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E8%8E%9C%E9%BA%A6/1181115?fromtitle=Avena%20nuda&fromid=11303666&fr=aladdin
+油麥 油麦 [you2 mai4] /csupasz zab，nagy zab, bajusztalan zab (Avena nuda， Avena chinensis ) \ ua. mint: 莜麦 yóumài//
 
 # ID-n36hS1g
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
