@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-03-12T03:00:01Z
+# Időbélyeg / Timestamp: 2022-03-13T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -13052,6 +13052,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 就要 就要 [jiu4 yao4] /fog (tenni készül vmit; épp be fog következni vmi)/
 
+# ID-c63TT5g
+# Ver 2022-03-12T05:31:38Z NagyHenrik Stat-New >https://baike.baidu.com/search/noneword=%E8%BD%AF%E8%84%9A%E8%99%BE&pn
+軟腳蝦 软脚虾 [ruan3 jiao3 xia1] /nyápic ember， vékonydongájú ember/gyáva/
+
 # ID-c64dL7Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 鑽孔 钻孔 [zuan1 kong3] /lukat fúr/át|lyukaszt/luk; lyuk (fúrt)/
@@ -15643,6 +15647,10 @@
 # Ver 2017-12-04T15:55:18Z gabor Stat-Verif >.
 留學生 留学生 [liu2 xue2 sheng1] /vendég|diák; külföldi ösztöndíjas/csere|diák/
 
+# ID-d14Df8E
+# Ver 2022-03-12T05:53:41Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%AA%9D%E5%9B%8A%E5%BA%9F
+窩囊廢 窝囊废 [wo1 nang5 fei4] /gerinctelen gyáva alak/nyúlbéla, beszari, anyámasszony katonája/haszontalan, semmire sem jó, /mihaszna, ügyefogyott, félnótás/你们这两个只知道调戏女人的窝囊废都没死,我怎么可能死。Nǐmen zhè liǎng gè zhǐ zhīdào tiáoxì nǚrén de wōnángfèi dū méi sǐ, wǒ zěnme kěnéng sǐ. Hogy dögölhetnék meg addig, míg két ilyen csak a nők molesztálásához értő beszari alak, még életben van?/
+
 # ID-d14Ds9e
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 鼓聲 鼓声 [gu3 sheng1] /dob|szó/dob|pergés/
@@ -16558,6 +16566,10 @@
 # ID-d33DF1y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 不時 不时 [bu4 shi2] /időről időre/alkalmanként/néha/gyakran/
+
+# ID-d33Eu3g
+# Ver 2022-03-12T09:10:31Z NagyHenrik Stat-New >https://hanyu.baidu.com/zici/swd=%E5%A4%95&query=%E5%A4%95&srcid=28232&fro
+夕 夕 [xi1] /naplemente, szürkület, alkonyat/este, éj(szaka)/[családnév]/
 
 # ID-d33Gz7V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -18535,6 +18547,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 箱 箱 [xiang1] /doboz/láda/
 
+# ID-d72lJ7a
+# Ver 2022-03-12T09:11:24Z NagyHenrik Stat-New >https://hanyu.baidu.com/s?wd=%E6%B1%90&from=zici
+汐 汐 [xi1] /éjszakai dagály/
+
 # ID-d72nv5J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 看不起 看不起 [kan4 bu5 qi3] /le|néz/meg|vet/
@@ -18616,6 +18632,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # 逆行 逆行 [ni4 xing2] /rossz irányban; forgalommal szembe/retrográd (mozgás, csillagászatban)/
 # Ver 2020-03-18T15:40:37Z gabor Stat-Verif >átfogalmazás: ige ez
 逆行 逆行 [ni4 xing2] /rossz irányba megy/forgalommal szemben halad/retrográd mozgás/regresszió/
+
+# ID-d74vP1T
+# Ver 2022-03-12T09:17:22Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%A5%9A/3419
+奚 奚 [xi1] /mi?, hogyan?, miért?/családnév/
 
 # ID-d74yP5b
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -38051,6 +38071,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 獨特 独特 [du2 te4] /egyedül|álló/különleges/egyedi/
 
+# ID-h70cA6J
+# Ver 2022-03-12T09:19:41Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%B7%85
+淅 淅 [xi1] / rizst mos/családnév/
+
 # ID-h70pg6p
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 聖歌 圣歌 [sheng4 ge1] /himnusz; egyházi ének/
@@ -46553,6 +46577,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 病例 病例 [bing4 li4] /eset (betegség előfordulása)/
 
+# ID-j39kx5Z
+# Ver 2022-03-12T09:15:07Z NagyHenrik Stat-New >析
+析 析 [xi1] /elválaszt, különválaszt, szétválik/elemez, boncol(gat), megfejt/családnév/
+
 # ID-j39pQ4R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 血統 血统 [xue4 tong3] /vér|rokonság/származás/
@@ -50784,6 +50812,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 挨著 挨着 [ai1 zhe5] /mellett/közelében (vminek)/
 
+# ID-k23Ja0f
+# Ver 2022-03-12T09:16:32Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%9F%BD?forcehttps=1%3Ffr%3Dkg_hanyu
+矽 矽 [xi1] /szilícium (Si) /
+
 # ID-k23Jw7x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 親眼 亲眼 [qin1 yan3] /saját szemével/személyesen/
@@ -51832,6 +51864,10 @@ X X [X] /X/
 # ID-k44wy8J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 單 单 [shan4] /(családnév) Shan/
+
+# ID-k44zQ3o
+# Ver 2022-03-12T09:14:03Z NagyHenrik Stat-New >https://hanyu.baidu.com/s?wd=%E6%98%94&from=zici
+昔 昔 [xi1] /rég(en), (rég)múlt, a régi idők/[családnév]/
 
 # ID-k44IM0B
 # Ver 2022-03-02T20:49:48Z GaoYanuo Stat-New >Forrás: 新导报, tanár\n"他们将会受到主场观众的欢呼声."
@@ -56830,6 +56866,10 @@ X X [X] /X/
 # ID-l42GH4B
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 鋸木 锯木 [ju4 mu4] /fűrészel (fát)/
+
+# ID-l42Hh9H
+# Ver 2022-03-12T05:11:18Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%AD%AC%E7%A7%8D/206521?fr=aladdin
+孬種 孬种 [nao1 zhong3] /gyáva, gyáva ember/[坏种，坏家伙] aljas gazember, gazfickó [káromkodás/növényi magvak, melyek nem fejlődnek ki, vagy amelyek a fejlődésük során  elrothadnak/
 
 # ID-l42Nz7p
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
