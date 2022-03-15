@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-03-14T03:00:01Z
+# Időbélyeg / Timestamp: 2022-03-15T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -1762,6 +1762,10 @@
 # 鼠 鼠 [shu3] /patkány/egér/SZ:隻|只[zhi1]/
 # Ver 2017-11-29T10:59:10Z GaoYanuo Stat-Verif >Mint látom, szerepel a 老鼠 is, mint bejegyzés, nagyon helyesen. Nem tudom, szükséges -e jelezni a lelkes szótározó számára, hogy ha a konkrét manifesztálódott állatkáról beszélünk, akkor 老鼠, ha meg el vagyunk absztrahálva, mint a naptárban, akkor csak simán 鼠.\nHasonló a szitu még egy jó pár állattal is, mint pl. a tigris: 老虎.
 鼠 鼠 [shu3] /patkány/egér/SZ:隻|只[zhi1]/
+
+# ID-a33tE1y
+# Ver 2022-03-14T14:49:40Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%8F%B2%E8%AF%97/1006957?fr=aladdin
+史詩 史诗 [shi3 shi1] /eposz；hősköltemény/
 
 # ID-a33yc1z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -4608,6 +4612,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 落實 落实 [luo4 shi2] /előre el|dönt/véghez visz/
 
+# ID-a91eF8X
+# Ver 2022-03-14T05:36:21Z NagyHenrik Stat-New >https://zh.wikipedia.org/wiki/10%E7%9A%84%E5%B9%82
+十兆 十兆 [shi2 zhao4] /10 billió； 10 000 000 000 000/
+
 # ID-a91oU5K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 妙 妙 [miao4] /csodálatos/kiváló/okos/
@@ -6981,6 +6989,10 @@
 # Ver 2019-10-09T15:54:06Z gabor Stat-Verif >tisztán emlékszem, hogy ezen sokat morfondíroztam, és szándékosan maradtam a nagyon tömör magyar megfejtésnél. annyira sokféleképpen lehet használni, ami mind ugyanezt jelenti, csak picit más-más szót használunk rá magyarban, ha mást érünk el, hogy akkor már kisregényt lehetne írni... szerintem ez elég a megértéshez, és tömörsége miatt hasznosabb.
 達到 达到 [da2 dao4] /el|ér/
 
+# ID-b39uX5R
+# Ver 2022-03-14T14:30:36Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%8A%92%E6%83%85%E6%95%A3%E6%96%87/4928
+抒情散文 抒情散文 [shu1 qing2 san4 wen2] /lírai próza/
+
 # ID-b39va2f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 說唱 说唱 [shuo1 chang4] /rap (zenei stílus)/
@@ -7620,6 +7632,10 @@
 # ID-b52pi2q
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 跌落 跌落 [die1 luo4] /le|esik/
+
+# ID-b52rr5z
+# Ver 2022-03-14T06:30:53Z NagyHenrik Stat-New >https://zh.wikipedia.org/wiki/10%E7%9A%84%E5%B9%82
+百垓 百垓 [bai3 gai1] /tíztrilliárd；Tíz huszonkettedik hatványa；tTR/
 
 # ID-b52vQ6P
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -11057,6 +11073,10 @@
 # Ver 2017-10-16T16:36:48Z gabor Stat-New >CEDICT; korpusz
 像素 像素 [xiang4 su4] /pixel/
 
+# ID-c25vy6Q
+# Ver 2022-03-14T15:06:11Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E8%87%AA%E7%84%B6%E4%B8%BB%E4%B9%89/806927?fr=aladdin
+自然主義 自然主义 [zi4 ran2 zhu3 yi4] /naturalizmus/
+
 # ID-c25Cg2r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 爬山 爬山 [pa2 shan1] /hegyet mászik/hegy|mászás/
@@ -11933,6 +11953,10 @@
 # ID-c42Pf0P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 母語 母语 [mu3 yu3] /anya|nyelv/
+
+# ID-c42Po2b
+# Ver 2022-03-14T04:20:38Z NagyHenrik Stat-New >https://zhidao.baidu.com/question/920184266157393699.html
+十萬億 十万亿 [shi2 wan4 yi4] /Tíz billió；10 000 000 000 000/
 
 # ID-c43eX8U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -14793,6 +14817,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 電話 电话 [dian4 hua4] /telefon/SZ:部[bu4]/telefon|hívás/SZ:通[tong1]/telefon|szám/
 
+# ID-c97qr7I
+# Ver 2022-03-14T04:22:15Z NagyHenrik Stat-New >https://zhidao.baidu.com/question/920184266157393699.html
+百萬億 百万亿 [bai3 wan4 yi4] /száz billió；100 000 000 000 000/
+
 # ID-c97wm6z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 置于 置于 [zhi4 yu2] /tesz; helyez (vmit vhová)/van (vhol)/
@@ -15905,6 +15933,10 @@
 # ID-d20uo4D
 # Ver 2022-02-20T04:28:18Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%85%B0%E6%96%AF%E5%A4%A7%E6%95%99%E5%A0%82/1700385?fr=aladdin
 蘭斯大教堂 兰斯大教堂 [lan2 si1 da4 jiao4 tang2] /Reimsi katedrális/
+
+# ID-d20vx5g
+# Ver 2022-03-14T03:29:45Z NagyHenrik Stat-New >https://zhidao.baidu.com/question/920184266157393699.html
+十億 十亿 [shi2 yi4] /egy milliárd/
 
 # ID-d20yC0C
 # Ver 2017-05-27T15:37:54Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
@@ -17382,6 +17414,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-d49Iq1v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 下落 下落 [xia4 luo4] /hollét/le|esik/esik/
+
+# ID-d49Ss6u
+# Ver 2022-03-14T06:29:47Z NagyHenrik Stat-New >https://zh.wikipedia.org/wiki/10%E7%9A%84%E5%B9%82
+千京 千京 [qian1 jing1] /tíztrillió；Tíz tizenkilencedik hatványa；ttr/
 
 # ID-d50bi5a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -19931,6 +19967,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-11-28T21:58:42Z gabor Stat-Verif >hoppá bizony.
 裴多菲山多爾 裴多菲山多尔 [pei2 duo1 fei1 shan1 duo1 er3] /(tulajdonnév) Petőfi Sándor/
 
+# ID-e01iz1Q
+# Ver 2022-03-14T15:02:57Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%96%B0%E8%89%BA%E6%9C%AF%E8%BF%90%E5%
+新藝術運動 新艺术运动 [xin1 yi4 shu4 yun4 dong4] /szecessió；art nouveau/
+
 # ID-e01kK9C
 # Ver 2017-05-21T22:56:02Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek; a névsorrendet keletire módosítva (kínai/magyar)
 # 厄特佛斯約瑟夫 厄特佛斯约瑟夫 [e4 te4 fo2 si1 yue1 se4 fu1] /(átirat) Eötvös József (író)/
@@ -20775,6 +20815,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 主義 主义 [zhu3 yi4] /tan/ideológia/-izmus/
 
+# ID-e18Kq2x
+# Ver 2022-03-14T14:25:11Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%84%9F%E4%BC%A4%E4%B8%BB%E4%B9%89/2562171?fr=aladdin
+感傷主義 感伤主义 [gan3 shang1 zhu3 yi4] /szentimentalizmus/
+
 # ID-e18OX4O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 命 命 [ming4] /élet/sors/parancsol/
@@ -21221,6 +21265,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e26ZH4K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 大黃 大黄 [da4 huang2] /rebarbara/
+
+# ID-e27bd4x
+# Ver 2022-03-14T06:30:10Z NagyHenrik Stat-New >https://zh.wikipedia.org/wiki/10%E7%9A%84%E5%B9%82
+垓 垓 [gai1] /száztrillió；Tíz huszadik hatványa；str/
 
 # ID-e27cI1P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -21780,6 +21828,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e38kV5o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 每人 每人 [mei3 ren2] /mindenki/fejenként/
+
+# ID-e38py0p
+# Ver 2022-03-14T14:48:19Z NagyHenrik Stat-New >https://zhuanlan.zhihu.com/p/166309781
+革命與獨立戰爭 革命与独立战争 [ge2 ming4 yu3 du2 li4 zhan4 zheng1] /forradalom és szabadságharc/
 
 # ID-e38ye7j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -25175,6 +25227,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 釋放 释放 [shi4 fang4] /szabadon enged/
 
+# ID-f10py0H
+# Ver 2022-03-14T14:31:30Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%8A%92%E6%83%85%E8%AF%97
+抒情詩 抒情诗 [shu1 qing2 shi1] /lírai költészet/
+
 # ID-f10pB7G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 過錯 过错 [guo4 cuo4] /hiba/vétség/
@@ -25557,6 +25613,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f17Qs6R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 出海 出海 [chu1 hai3] /tengerre száll/
+
+# ID-f17VT8k
+# Ver 2022-03-14T11:46:53Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%96%AF%E5%A4%9A%E8%91%9B%E4%B8%BB%E4%B9%89/2496268?fr=aladdin
+斯多葛主義 斯多葛主义 [si1 duo1 ge2 zhu3 yi4] /sztoikus filozófia vagy sztoicizmus/
 
 # ID-f18jQ4h
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -36699,6 +36759,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 宿主 宿主 [su4 zhu3] /gazda|test/
 
+# ID-h40yG0o
+# Ver 2022-03-14T05:38:47Z NagyHenrik Stat-New >https://zh.wikipedia.org/wiki/10%E7%9A%84%E5%B9%82
+千兆 千兆 [qian1 zhao4] /billiárd (ezerbillió)；1 000 000 000 000 000/
+
 # ID-h40Ab8w
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 全麥 全麦 [quan2 mai4] /teljes kiőrlésű búza/
@@ -37314,6 +37378,10 @@ X X [X] /X/
 # ID-h54MF6v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 數據 数据 [shu4 ju4] /adat/
+
+# ID-h54PD1o
+# Ver 2022-03-14T04:08:22Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%85%86/2703255?fr=aladdin
+兆 兆 [zhao4] /előre jelez；megjósol/előjel；ómen/köznép； alatvalók；sokaság/millió；milliónyi/milliárd (régies 万亿)/oltár a városon kívül/temtkezési hely/elkezd/családnév//
 
 # ID-h55kh4O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -38965,6 +39033,10 @@ X X [X] /X/
 # ID-h87cs0G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 深入 深入 [shen1 ru4] /mélyére hatol/alapos/
+
+# ID-h87fM0G
+# Ver 2022-03-14T03:04:01Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E4%BA%96/1958596?fr=aladdin
+亖 亖 [si4] /négy (régies)/családnév（亖氏Sì shì ua. mint 四氏Sì shì)//
 
 # ID-h87iA0C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -42740,6 +42812,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 夢 梦 [meng4] /álom/SZ:場|场[chang2],個|个[ge4]/
 
+# ID-i61Gv1T
+# Ver 2022-03-14T14:41:38Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%BE%8E%E5%9B%BD%E7%8B%AC%E7%AB%8B%E6
+獨立戰爭 独立战争 [du2 li4 zhan4 zheng1] /függetlenségi háború/
+
 # ID-i61Ma5x
 # Ver 2018-06-05T21:43:44Z Adam Stat-New >Pleco-szótár; CC-CEDICT
 # 乙型肝炎 乙型肝炎 [yi3 xing2 gan1 yan2] /hepatitis B; B típusú máj|gyulladás/
@@ -43698,6 +43774,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 奉 奉 [feng4] /ad; ajándékoz; kínál (feljebbvalónak, istenségnek, az ősöknek stb.)/meg|becsül; tisztel/hisz (vmely vallásban)/ki|szolgál (vkit)/
 
+# ID-i81Yk3G
+# Ver 2022-03-14T06:04:50Z NagyHenrik Stat-New >https://zh.wikipedia.org/wiki/10%E7%9A%84%E5%B9%82
+十垓 十垓 [shi2 gai1] /trilliárd；Tíz huszonegyedik hatványa；TR/
+
 # ID-i81ZO8u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 口袋 口袋 [kou3 dai4] /zseb/zsák/tasak/SZ:個|个[ge4]/
@@ -44002,6 +44082,10 @@ X X [X] /X/
 # 腳 脚 [jiao3] /láb/alap/SZ:雙|双[shuang1],隻|只[zhi1]/
 # Ver 2017-05-23T21:01:18Z Adam Stat-Verif >CC-CEDICT, kínai Wikipédiában 脚 képe és definíciója; Wiktionary; Google Translate-képek stb.
 腳 脚 [jiao3] /láb|fej/láb (állaté vagy tárgyé)/alap/SZ:雙|双[shuang1],隻|只[zhi1]/
+
+# ID-i88mj6Q
+# Ver 2022-03-14T03:15:51Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E4%B8%87/34357
+万 万 [wan4] /tízezer/nagyon sok；számtalan；miriád/(rendszerint tagadó alakban) egyáltalán nem；semmiképp/családnév/
 
 # ID-i88oo7w
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -47229,6 +47313,10 @@ X X [X] /X/
 # 聖剋裡斯多福及尼維斯 圣克里斯多福及尼维斯 [sheng4 ke4 li3 si1 duo1 fu2 ji2 ni2 wei2 si1] /(földrajzi név) Saint Kitts és Nevis (Tajvanban használatos változat)/
 # Ver 2021-06-18T20:15:55Z gabor Stat-Verif >.
 聖剋裡斯多福及尼維斯 圣克里斯多福及尼维斯 [sheng4 ke4 li3 si1 duo1 fu2 ji2 ni2 wei2 si1] /(földrajzi név) Saint Kitts és Nevis (Tajvanban használatos változat)/
+
+# ID-j52GG2l
+# Ver 2022-03-14T03:23:09Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E4%B8%87/34357
+万 万 [mo4] /családnév (két írásjegyből álló kínai családnevek első tagja)/
 
 # ID-j52Hr8o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -59393,6 +59481,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 熄滅 熄灭 [xi1 mie4] /el|alszik (tűz)/ki|alszik/ki|hal/
 
+# ID-l92Qx2j
+# Ver 2022-03-14T06:00:15Z NagyHenrik Stat-New >https://zh.wikipedia.org/wiki/10%E7%9A%84%E5%B9%82
+百京 百京 [bai3 jing1] /trillió；Tíz tizennyolcadik hatványa；tr/
+
 # ID-l92SH4v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 擊倒 击倒 [ji1 dao3] /ki|üt (boxban)/le|üt/
@@ -59508,6 +59600,10 @@ X X [X] /X/
 # ID-l95dP8s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 企圖 企图 [qi3 tu2] /meg|próbál/meg|kísérel/SZ:種|种[zhong3]/
+
+# ID-l95lw0Q
+# Ver 2022-03-14T05:36:48Z NagyHenrik Stat-New >https://zh.wikipedia.org/wiki/10%E7%9A%84%E5%B9%82
+百兆 百兆 [bai3 zhao4] /100 billió；100 000 000 000 000/
 
 # ID-l95px4U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -60340,6 +60436,10 @@ X X [X] /X/
 # 了解 了解 [liao3 jie3] /ért; felfog/meg|ért (pl. a másik lelkiállapotát)/meg|tud/tudás/meg|ismer/ismeret/tájékozódik/érdeklődik/
 # Ver 2017-11-28T15:52:29Z gabor Stat-Verif >.
 了解 了解 [liao3 jie3] /ért; fel|fog/meg|ért (pl. a másik lelkiállapotát)/meg|tud/tudás; ismeret/meg|ismer/tájékozódik/érdeklődik/
+
+# ID-m12pq4W
+# Ver 2022-03-14T14:29:25Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%8A%92%E6%83%85/3374991?fr=aladdin
+抒情 抒情 [shu1 qing2] /érzést，érzelmet kifejez/
 
 # ID-m12Ac2r
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -61454,6 +61554,10 @@ X X [X] /X/
 # 楚 楚 [chu3] /tiszta/szenvedés/(családnév) Chu/(földrajzi név) Csu; Chu (Hupej és Hunan tartományok együttesen; történelmi állam neve)/
 # Ver 2021-06-30T10:58:15Z gabor Stat-Verif >pinyin preferált
 楚 楚 [chu3] /tiszta/szenvedés/(családnév) Chu/(földrajzi név) Chu; Csu (Hubei és Hunan tartományok együttesen; történelmi állam neve)/
+
+# ID-m32OZ6U
+# Ver 2022-03-14T04:37:31Z NagyHenrik Stat-New >https://zh.wikipedia.org/wiki/10%E7%9A%84%E5%B9%82
+一兆 一兆 [yi1 zhao4] /billió；1 000 000 000 000/
 
 # ID-m32RU4h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -63644,6 +63748,10 @@ XX XX [x x] /x/
 # ID-m74Iq7v
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 數數 数数 [shu3 shu4] /számol; meg|számol/
+
+# ID-m74OP2v
+# Ver 2022-03-14T03:09:17Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E4%BA%93/34298?fr=aladdin
+亓 亓 [qi2] /ua. mint 其/családnév/
 
 # ID-m74RA8e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -66603,6 +66711,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 撞破 撞破 [zhuang4 po4] /ütközéssel össze|tör/le|leplez; rajta|kap/
 
+# ID-n36pb5w
+# Ver 2022-03-14T03:31:13Z NagyHenrik Stat-New >https://zhidao.baidu.com/question/920184266157393699.html
+百億 百亿 [bai3 yi4] /10 milliárd/
+
 # ID-n36qm8y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 率 率 [lü4] /arány/
@@ -67165,6 +67277,10 @@ XX XX [x x] /x/
 # ID-n46KZ0y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 分開 分开 [fen1 kai1] /külön|választ/el|válik/
+
+# ID-n46LF0r
+# Ver 2022-03-14T03:31:52Z NagyHenrik Stat-New >https://zhidao.baidu.com/question/920184266157393699.html
+千億 千亿 [qian1 yi4] /100 milliárd/
 
 # ID-n46Or3C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -70171,6 +70287,10 @@ XX XX [x x] /x/
 # ID-o09fQ3X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 理智 理智 [li3 zhi4] /értelem/intellektus/racionális/
+
+# ID-o09jC1f
+# Ver 2022-03-14T04:17:53Z NagyHenrik Stat-New >https://zhidao.baidu.com/question/920184266157393699.html
+萬億 万亿 [wan4 yi4] /billió；1 000 000 000 000 /
 
 # ID-o09mR9I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -74465,6 +74585,10 @@ XX XX [x x] /x/
 # ID-o93Hg5b
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 電解質 电解质 [dian4 jie3 zhi4] /elektrolit/
+
+# ID-o93Nt6I
+# Ver 2022-03-14T06:31:17Z NagyHenrik Stat-New >https://zh.wikipedia.org/wiki/10%E7%9A%84%E5%B9%82
+千垓 千垓 [qian1 gai1] /száztrilliárd；Tíz huszonharmadik hatványa；sTR/
 
 # ID-o93Or4r
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
