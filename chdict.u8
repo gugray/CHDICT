@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-03-17T03:00:01Z
+# Időbélyeg / Timestamp: 2022-03-18T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -982,6 +982,10 @@
 # ID-a19hR1C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 西部 西部 [xi1 bu4] /nyugat/
+
+# ID-a19kK8x
+# Ver 2022-03-17T07:24:24Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E8%B6%85%E5%9B%BD%E5%AE%B6%E7%BB%84%E7%BB%87/6877244?fr=aladdin
+超國家組織 超国家组织 [chao1 guo2 jia1 zu3 zhi1] /nemzetek feletti szervezet/
 
 # ID-a19pL7o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -5365,6 +5369,10 @@
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 倒霉蛋 倒霉蛋 [dao3 mei2 dan4] /szerencsétlen ember/szegény fickó/
 
+# ID-b05hf6Q
+# Ver 2022-03-17T05:47:08Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%9B%BD%E9%99%85%E7%BB%8F%E6%B5%8E/9616522?fr=aladdin
+國際經濟 国际经济 [guo2 ji4 jing1 ji4] /nemzetközi gazdaság/
+
 # ID-b05ic1e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 投降 投降 [tou2 xiang2] /meg|adja magát/kapituláció/
@@ -6651,6 +6659,10 @@
 # ID-b31yt9J
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 流民 流民 [liu2 min2] /menekültek/
+
+# ID-b31NM6x
+# Ver 2022-03-17T10:54:42Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E4%B8%80%E5%B8%AD%E4%B9%8B%E5%9C%B0/65660
+一席之地 一席之地 [yi1 xi2 zhi1 di4] /hely； képviseleti hely；jogos hely /
 
 # ID-b31PF4Y
 # Ver 2021-06-14T12:28:12Z gabor Stat-New >GushiFM E511
@@ -8896,6 +8908,10 @@
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 借住 借住 [jie4 zhu4] /héderezik; lakik (vki másnál)/
 
+# ID-b79dL0P
+# Ver 2022-03-17T07:20:26Z NagyHenrik Stat-New >http://dict.cn/%E5%9B%BD%E9%99%85%E5%8E%9F%E6%B2%B9%E8%A1%8C%E6%83%85
+國際原油行情 国际原油行情 [guo2 ji4 yuan2 you2 hang2 qing2] /nemzetközi nyersolajpiac/
+
 # ID-b79ko1H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 牆上 墙上 [qiang2 shang5] /a falon/
@@ -9959,6 +9975,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 包庇 包庇 [bao1 bi4] /fedez/véd/el|tussol/
 
+# ID-c00TA1I
+# Ver 2022-03-17T08:22:21Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%8D%96%E7%AC%91
+賣笑 卖笑 [mai4 xiao4] /kokott; örömlány vagy énekes lány; mosolyog és kacérkodik/
+
 # ID-c00Yn9O
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 清盤 清盘 [qing1 pan2] /fel|számol (céget)/
@@ -10600,6 +10620,10 @@
 # ID-c13kD0u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 脫光 脱光 [tuo1 guang1] /meztelenre vetkőzik/
+
+# ID-c13yY6V
+# Ver 2022-03-17T05:44:55Z NagyHenrik Stat-New >http://dict.cn/%E5%9C%A8%E6%AD%A4%E5%9F%BA%E7%A1%80%E4%B8%8A
+在此基礎上 在此基础上 [zai4 ci3 ji1 chu3 shang4] /ennek alapján; ezen az alapon/
 
 # ID-c13Aj4N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -13486,6 +13510,10 @@
 # ID-c71Ge4b
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 權勢 权势 [quan2 shi4] /hatalom és befolyás/
+
+# ID-c71IP3N
+# Ver 2022-03-17T10:33:32Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%B9%81%E6%9D%82
+繁雜 繁杂 [fan2 za2] / sokféle; változatos; különféle/
 
 # ID-c71VB1a
 # Ver 2022-02-17T05:37:30Z NagyHenrik Stat-New >https://zh.wikipedia.org/wiki/%E6%AC%BD%E5%AF%9F%E6%B1%97%E5%9C%8B
@@ -18311,6 +18339,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 雄偉 雄伟 [xiong2 wei3] /fenséges/nagy; hatalmas; csodálatos/
 
+# ID-d66Ue0D
+# Ver 2022-03-17T06:39:58Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%85%8D%E8%81%8C
+免職 免职 [mian3 zhi2] /köztisztviselő tisztségéből való eltávolítása/vkit hivatalából felment; vkit kötelezettségei alól felment/
+
 # ID-d66Vv2s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 朱 朱 [zhu1] /cinóber; élénk|piros/(családnév) Zhu/
@@ -18522,6 +18554,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-d69Qh7v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 會議 会议 [hui4 yi4] /találkozó/gyűlés/konferencia/SZ:場|场[chang3],屆|届[jie4]/
+
+# ID-d69TG1V
+# Ver 2022-03-17T06:56:34Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E9%87%91%E8%9E%8D%E7%A8%B3%E5%AE%9A%E5%A7%94%E5%91%98%E4%BC%9A/7421243?fr=aladdin
+金融穩定委員會 金融稳定委员会 [jin1 rong2 wen3 ding4 wei3 yuan2 hui4] /Pénzügyi Stabilitási Tanács; FSB (Financial Stability Board)/
 
 # ID-d69Wf1X
 # Ver 2022-03-04T02:29:36Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E8%8F%B1%E5%BD%A2
@@ -19599,6 +19635,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-d92cP8O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 失事 失事 [shi1 shi4] /balesetet szenved (hajó, repülő)/
+
+# ID-d92jJ3T
+# Ver 2022-03-17T07:09:45Z NagyHenrik Stat-New >http://dict.cn/%E8%B8%A2%E5%87%BA
+踢出 踢出 [ti1 chu1] /kirúg/
 
 # ID-d92jP6w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -21548,6 +21588,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 赦免 赦免 [she4 mian3] /amnesztia/kegyelmet ad/mentesít (büntetés alól)/
 
+# ID-e31ki7Z
+# Ver 2022-03-17T06:43:53Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%86%85%E5%AE%B9%E6%91%98%E8%A6%81/627375?fr=aladdin
+內容摘要 内容摘要 [nei4 rong2 zhai1 yao1] /tartalomi kivonat; tartalomi összefoglaló/
+
 # ID-e31lg1j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 登 登 [deng1] /fel|mászik; meg|mászik/ki|ad; közzé|tesz/arat/rá|lép/lábbal hajt/visel (cipőt, nadrágot)/
@@ -23492,6 +23536,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e69PU9J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 此 此 [ci3] /ez/
+
+# ID-e69RK0C
+# Ver 2022-03-17T10:40:04Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%AB%8B%E8%B6%B3%E4%B9%8B%E5%9C%B0
+立足之地 立足之地 [li4 zu2 zhi1 de5] /hely, ahol meglehet állni; hely, ahol maradni lehet; talpalatnyi hely; hely, ahol megvetheti lábát/
 
 # ID-e69SN1U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -33761,6 +33809,10 @@ X X [X] /X/
 # Ver 2021-06-30T10:43:10Z gabor Stat-Verif >közismert, nem igényel magyarázatot
 上海 上海 [shang4 hai3] /(földrajzi név) Sanghaj/
 
+# ID-g77lA7i
+# Ver 2022-03-17T06:51:41Z NagyHenrik Stat-New >.
+教育製度 教育制度 [jiao4 yu4 zhi4 du4] /oktatási rendszer//
+
 # ID-g77qr4c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 擊中 击中 [ji1 zhong4] /el|talál/célba talál/
@@ -36214,6 +36266,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 肢體 肢体 [zhi1 ti3] /test/törzs és vég|tagok/
 
+# ID-h26av3L
+# Ver 2022-03-17T06:32:30Z NagyHenrik Stat-New >https://hanyu.baidu.com/zici/swd=%E6%A6%82%E8%A6%81&query=%E6%A6%82%E8%A6%81&srcid=28232&from=kg0
+概要 概要 [gai4 yao4] /általános áttekintés; legfontosabb tudnivalók (ált. könyvcímekben)/
+
 # ID-h26aQ9u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 寵臣 宠臣 [chong3 chen2] /kegyenc/kedvenc miniszter/
@@ -38044,6 +38100,10 @@ X X [X] /X/
 # ID-h65Sz6n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 女友 女友 [nü3 you3] /barát|nő/
+
+# ID-h65Ub6h
+# Ver 2022-03-17T07:12:57Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E8%B7%A8%E5%9B%BD%E5%85%AC%E5%8F%B8/247502?fr=aladdin
+跨國機構 跨国机构 [kua4 guo2 ji1 gou4] /transznacionális intézmény/
 
 # ID-h66eE0f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -41708,6 +41768,10 @@ X X [X] /X/
 # ID-i37lB8g
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 圍裙 围裙 [wei2 qun2] /kötény/
+
+# ID-i37pb3i
+# Ver 2022-03-17T05:54:13Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E9%99%A4%E5%90%8D
+除名 除名 [chu2 ming2] /listáról való törlés; nevet kihúz listáról/
 
 # ID-i37ta5G
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -51601,6 +51665,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 地 地 [di4] /föld/talaj/mező/terület/SZ:片[pian4]/
 
+# ID-k33vf9n
+# Ver 2022-03-17T06:52:59Z NagyHenrik Stat-New >.
+製度改革 制度改革 [zhi4 du4 gai3 ge2] /szervezeti reform/
+
 # ID-k33vn5P
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 大公司 大公司 [da4 gong1 si1] /nagy|vállalat/
@@ -52521,6 +52589,10 @@ X X [X] /X/
 # ID-k52Uo6Y
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 族譜 族谱 [zu2 pu3] /család|fa/
+
+# ID-k52WD2G
+# Ver 2022-03-17T07:05:49Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%9B%8A%E6%8B%AC/2793835?fr=aladdin
+囊括 囊括 [nang2 kuo4] /mindent magában foglal; mindenre kiterjed; felölel; bekebelez/mindent megnyer; elsöprő, átütő sikert arat/tartja a száját; semmit se mond/
 
 # ID-k52Yr1t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -56816,6 +56888,10 @@ X X [X] /X/
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 尖牙 尖牙 [jian1 ya2] /tépő|fog/agyar/
 
+# ID-l36Yf7p
+# Ver 2022-03-17T06:36:30Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%91%98%E8%A6%81/2236022?fr=aladdin
+摘取精要 摘取精要 [zhai1 qu3 jing1 yao1] /összefoglal; összefoglalót készít/összefoglaló; összefoglalás; áttekintés; kivonat; absztrakt/
+
 # ID-l37ce1v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 斜邊 斜边 [xie2 bian1] /átfogó (háromszögé)/
@@ -57092,6 +57168,10 @@ X X [X] /X/
 # ID-l42gi1g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 鑒定 鉴定 [jian4 ding4] /értékel/ellenőrzi a hitelességét/
+
+# ID-l42gY8J
+# Ver 2022-03-17T05:37:55Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E4%BA%8C%E5%8D%81%E5%9B%BD%E9%9B%86%E5%9B%A2/4464059?fr=aladdin
+二十國集團 二十国集团 [er4 shi2 guo2 ji2 tuan2] /G20; (a világ 19 jelentős gazdaságát és az egész Európai Uniót tömörítő szervezet)/
 
 # ID-l42ud2W
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -64269,6 +64349,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 節疤 节疤 [jie2 ba1] /csomó (pl. fában)/
 
+# ID-m81aV2i
+# Ver 2022-03-17T05:32:27Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E4%BC%9A%E6%99%A4/6577261?fr=aladdin
+會麵晤談 会面晤谈 [hui4 mian4 wu4 tan2] /találkozó és megbeszélés (ált. diplomáciai szintű)/
+
 # ID-m81bD3d
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 地質學 地质学 [di4 zhi4 xue2] /föld|tan; geológia/
@@ -64624,6 +64708,10 @@ XX XX [x x] /x/
 # ID-m88cE2x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 同時 同时 [tong2 shi2] /egyidejűleg/ugyanakkor/
+
+# ID-m88cP5v
+# Ver 2022-03-17T05:42:08Z NagyHenrik Stat-New >https://wiki.cnki.com.cn/HotWord/2545525.htm
+國際合作原則 国际合作原则 [guo2 ji4 he2 zuo4 yuan2 ze2] /a nemzetközi együttműködés alapelvei/
 
 # ID-m88hn4Y
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -66254,6 +66342,10 @@ XX XX [x x] /x/
 # 大連 大连 [da4 lian2] /(földrajzi név) Dalian; Talien (város Liaoning tartományban)/
 # Ver 2021-06-30T11:08:51Z gabor Stat-Verif >.
 大連 大连 [da4 lian2] /(földrajzi név) Dalian; Talien (város Liaoning tartományban)/
+
+# ID-n22Lc6k
+# Ver 2022-03-17T05:48:38Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%9B%BD%E9%99%85%E9%87%91%E8%9E%8D/2209
+國際金融 国际金融 [guo2 ji4 jin1 rong2] /nemzetközi pénzügyek/
 
 # ID-n22Mf4s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -68153,6 +68245,10 @@ XX XX [x x] /x/
 # 仔細 仔细 [zi3 xi4] /óvatos/körül|tekintő/figyelmes/aprólékos, pedáns/
 # Ver 2019-10-09T15:51:52Z gabor Stat-Verif >az "alapos"-t bele tudom látni a példákba, az picit fedi az "aprólékos"-t. a pedánst nem igazán. átrendeztem eszerint.
 仔細 仔细 [zi3 xi4] /óvatos/körültekintő, alapos/figyelmes/
+
+# ID-n60No3J
+# Ver 2022-03-17T06:27:26Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E4%BA%8B%E7%94%B1/2953150?fr=aladdin
+事由 事由 [shi4 you2] /egy esemény eredete/hivatalos dokumentumokban a fő téma, a fő tárgy/tartalomi összefoglaló/ok; alap; érv; indíték/tények; valóság; valós helyzet/munka; foglalkozás/
 
 # ID-n60Ny1C
 # Ver 2021-04-13T21:59:06Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
@@ -70183,6 +70279,10 @@ XX XX [x x] /x/
 # ID-o02SU6L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 作證 作证 [zuo4 zheng4] /tanúsít/tanúskodik/bizonyíték/
+
+# ID-o03ty0e
+# Ver 2022-03-17T07:56:41Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E8%B6%85%E5%9B%BD%E5%AE%B6%E4%B8%BB%E4%B9%89
+超國家主義 超国家主义 [chao1 guo2 jia1 zhu3 yi4] /szupranacionalizmus/
 
 # ID-o03LO6F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -73617,6 +73717,10 @@ XX XX [x x] /x/
 # Ver 2021-06-11T18:08:16Z gabor Stat-Verif >.
 馬里 马里 [ma3 li3] /(földrajzi név) Mali (KNK-ban használatos változat)/
 
+# ID-o73dk9B
+# Ver 2022-03-17T06:52:19Z NagyHenrik Stat-New >.
+奴隸制度 奴隶制度 [nu2 li4 zhi4 du4] /a rabszolgaság intézménye/
+
 # ID-o73ft7a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 嘆氣 叹气 [tan4 qi4] /sóhajt/sóhaj/
@@ -76144,6 +76248,10 @@ XX XX [x x] /x/
 # ID-p18sa4d
 # Ver 2019-07-01T23:17:16Z GaoYanuo Stat-New >https://www.xyzdict.com/en/chinese-english/%E6%B6%B2%E4%BD%8D
 液位 液位 [ye4 wei4] /folyadékszint/
+
+# ID-p18td1V
+# Ver 2022-03-17T07:14:52Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%A4%9A%E5%9B%BD%E9%83%A8%E9%98%9F/7129867?fr=aladdin
+多國部隊 多国部队 [duo1 guo2 bu4 dui4] /multinacionális haderő/
 
 # ID-p18wn3A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
