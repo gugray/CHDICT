@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-03-18T03:00:01Z
+# Időbélyeg / Timestamp: 2022-03-20T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -12991,6 +12991,10 @@
 # ID-c60Ts5C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 編號 编号 [bian1 hao4] /meg|számoz/sorozat|szám/számozás/
+
+# ID-c60WV9z
+# Ver 2022-03-20T01:27:10Z NagyHenrik Stat-New >https://hanyu.baidu.com/zici/s?wd=%E8%AF%9D%E6%9C%AC&query=%E8%AF%9D%E6%9C%AC&srcid=28232&from=kg0
+話本 话本 [hua4 ben3] /szövegkönyv; népi mesemondás, beszédre és éneklésre épülő hagyományos kínai előadó-művészeti műfajok alapjául szolgáló szövegkönyv a Song- és a Yuan-dinasztiák idején/
 
 # ID-c61eh1v
 # Ver 2022-02-22T05:46:27Z NagyHenrik Stat-New >https://www.szotar.net/kinai/%E6%82%9F/
@@ -30105,6 +30109,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 高雅 高雅 [gao1 ya3] /elegancia/elegáns/
 
+# ID-g04pj8d
+# Ver 2022-03-20T00:58:03Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%BB%BF%E5%B8%BD%E5%AD%90/1344?fr=aladdin
+戴綠帽子 戴绿帽子 [dai4 lü4 mao4 zi5] /felszarvazott; felszarvazottnak lenni; a feleségnek szeretője van; az egyik fél megcsalja a párját/
+
 # ID-g04uT8Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 果汁 果汁 [guo3 zhi1] /gyümölcs|lé/
@@ -45088,6 +45096,10 @@ X X [X] /X/
 # Ver 2021-05-31T19:20:26Z gabor Stat-Verif >.
 鍶 锶 [si1] /stroncium (kémiai elem, Sr)/
 
+# ID-j04YD8A
+# Ver 2022-03-20T02:37:35Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%BA%A2%E6%9D%8F%E5%87%BA%E5%A2%99/3221?fr=aladdin
+紅杏出牆 红杏出墙 [hong2 xing4 chu1 qiang2] /a férjét megcsaló vagy hűtlen nő metaforája; élénkvörös sárgabarackvirág kinyúl a falon át/
+
 # ID-j05af3h
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 白板 白板 [bai2 ban3] /tábla (fehér; filctollas írásra)/
@@ -52254,6 +52266,10 @@ X X [X] /X/
 # ID-k46tV3U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 就是 就是 [jiu4 shi4] /pontosan; éppen úgy/még akkor is, ha/
+
+# ID-k46AM9j
+# Ver 2022-03-20T01:17:06Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%A6%83/4741709?fr=aladdin
+妃 妃 [fei1] /császári ágyas/hercegi főfeleség, feleség/
 
 # ID-k46DJ5t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
