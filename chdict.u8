@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-03-20T03:00:01Z
+# Időbélyeg / Timestamp: 2022-03-21T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -248,6 +248,10 @@
 # ID-a04jv0K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 成千上萬 成千上万 [cheng2 qian1 shang4 wan4] /ezer meg ezer/számtalan; rengeteg/
+
+# ID-a04mV4d
+# Ver 2022-03-20T07:30:08Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E8%B0%A6/4791016?fr=aladdin
+謙 谦 [qian1] /szerény; alázatos/
 
 # ID-a04nt8Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -3355,6 +3359,10 @@
 # ID-a66HN3w
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 主顧 主顾 [zhu3 gu4] /ügyfél; kuncsaft/
+
+# ID-a66JB0v
+# Ver 2022-03-20T03:34:48Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%99%A9%E8%80%97/4355049?fr=aladdin
+噩耗 噩耗 [e4 hao4] /gyászhír szeretett személy haláláról; /rossz hír, amely többnyire egy személy halálhírére utal/
 
 # ID-a66Ku9O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -13096,6 +13104,10 @@
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 立體聲 立体声 [li4 ti3 sheng1] /sztereó (hang)/tér|hangzás/
 
+# ID-c63la0d
+# Ver 2022-03-20T06:42:38Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%8B%82%E8%9C%82%E6%B5%AA%E8%9D%B6/70918?fr=aladdin
+狂蜂浪蝶 狂蜂浪蝶 [kuang2 feng1 lang4 die2] /kéjvágyó, kicsapongó férfi/
+
 # ID-c63lU5M
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 持有人 持有人 [chi2 you3 ren2] /tulajdonos (számláé, bankkártyáé)/
@@ -16228,6 +16240,10 @@
 # Ver 2017-05-29T12:00:21Z Adam Stat-New >CC-CEDICT, összekapcsolt Wikipédia-szócikkek
 酶 酶 [mei2] /enzim/
 
+# ID-d23To2u
+# Ver 2022-03-20T07:28:49Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%A6%BE/926595?fr=aladdin
+妾 妾 [qie4] /ágyas; szerető/én; önkijelölés nőknél; szerénységem/női rabszolga/
+
 # ID-d23VQ3n
 # Ver 2022-03-06T05:18:06Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E4%BA%BA%E6%A0%BC%E4%B8%BB%E4%B9%89/8091619?fr=aladdin
 人格主義 人格主义 [ren2 ge2 zhu3 yi4] /perszonalizmus/
@@ -17046,6 +17062,12 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-d40FB4F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 嚇 吓 [xia4] /meg|ijeszt/meg|félemlít/
+
+# ID-d40Gs1K
+# Ver 2022-03-20T04:59:28Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%82%AE%E7%81%B0/82272?fr=aladdin
+# 炮灰 炮灰 [pao4 hui1] /ágyútöltelék; katona, akit arra kényszerítenek, hogy értelmetlen háborúban harcoljonva feláldozza életét /
+# Ver 2022-03-20T05:14:39Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%82%AE%E7%81%B0/82272?fr=aladdin
+炮灰 炮灰 [pao4 hui1] /ágyútöltelék; katona, akit arra kényszerítenek, hogy értelmetlen háborúban harcolva feláldozza életét /
 
 # ID-d40HC2w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -19603,6 +19625,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-d90IN3a
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 鄉巴佬 乡巴佬 [xiang1 ba1 lao3] /(becsmérlő) paraszt; falusi; mucsai/
+
+# ID-d90Jz3S
+# Ver 2022-03-20T05:59:29Z NagyHenrik Stat-New >https://hanyu.baidu.com/s?wd=%E6%8C%87%E4%BB%A3&device=pc&from=home
+指代 指代 [zhi3 dai4] /hivatkozás; helyettesítő fogalom/
 
 # ID-d90VF8Y
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -24752,6 +24778,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 警察 警察 [jing3 cha2] /rendőrség/rendőr/SZ:個|个[ge4]/
 
+# ID-e97Tv2u
+# Ver 2022-03-21T02:03:29Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E4%B8%9C%E6%AD%A3%E6%95%99/110819fr=aladdin
+東正教 东正教 [dong1 zheng4 jiao4] /ortodox kereszténység (más néven pravoszláv egyház, régiesen görögkeleti egyház, óhitűek, görög nem egyesültek) /
+
 # ID-e97VV5E
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 物理學家 物理学家 [wu4 li3 xue2 jia1] /fizikus/
@@ -25350,6 +25380,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f10gv1K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 釋放 释放 [shi4 fang4] /szabadon enged/
+
+# ID-f10mG2C
+# Ver 2022-03-20T03:37:12Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E9%9B%87%E4%BD%A3%E5%85%B5/80819
+雇傭兵 雇佣兵 [gu4 yong1 bing1] /zsoldos katona/
 
 # ID-f10py0H
 # Ver 2022-03-14T14:31:30Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%8A%92%E6%83%85%E8%AF%97
@@ -27096,6 +27130,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # 鋨 锇 [e2] /ozmium (kémiai elem, Os)/
 # Ver 2021-05-31T19:10:25Z gabor Stat-Verif >.
 鋨 锇 [e2] /ozmium (kémiai elem, Os)/
+
+# ID-f44Nh0R
+# Ver 2022-03-20T03:58:03Z NagyHenrik Stat-New >https://hanyu.baidu.com/zici/s?wd=%E9%99%B7%E9%98%B1&query=%E9%99%B7%E9%98%B1&srcid=28232&from=kg0
+跳入陷阱 跳入陷阱 [tiao4 ru4 xian4 jing3] /csapdába esik/
 
 # ID-f44Se9n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -29531,6 +29569,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2019-10-04T15:08:24Z gabor Stat-Verif >.
 先後順序 先后顺序 [xian1 hou4 shun4 xu4] /sorrend (fontossági, időrendi, érkezési: valamiféle természetes egymásutániságnak megfelelő)/
 
+# ID-f92rt5U
+# Ver 2022-03-20T05:23:06Z NagyHenrik Stat-New >http://www.hydcd.com/jyc/ty0487.htm
+底本 底本 [di3 ben3] /eredeti példány; alappéldány; mesterpéldány/szövegek összevetésekor v. későbbi kiadás esetén, fordításhoz az alapul szolgáló eredeti szöveg/tőke; tartalékvagyon/
+
 # ID-f92xj1O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 從前 从前 [cong2 qian2] /korábban/(volt egyszer egy)/
@@ -31420,6 +31462,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 演藝 演艺 [yan3 yi4] /előadó|művészet; színészet/
 
+# ID-g28Zw5O
+# Ver 2022-03-20T05:12:23Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%8C%96%E4%B8%BA%E7%81%B0%E7%83%AC/4728770?fr=aladdin
+化為灰燼 化为灰烬 [hua4 wei2 hui1 jin4] /hamuvá vált; teljesen leégett/
+
 # ID-g28ZK7g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 漸漸 渐渐 [jian4 jian4] /fokozatosan/
@@ -32592,6 +32638,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 浴缸 浴缸 [yu4 gang1] /fürdő|kád/
 
+# ID-g52DC1D
+# Ver 2022-03-20T06:56:42Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%B7%AB%E5%B1%B1%E4%BA%91%E9%9B%A8/3689413?fr=aladdin
+巫山雲雨 巫山云雨 [wu1 shan1 yun2 yu3] /szerelmesek titkos, boldog együtléte/
+
 # ID-g52DG8A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 車牌 车牌 [che1 pai2] /rendszám|tábla/
@@ -33688,6 +33738,10 @@ X X [X] /X/
 # 觸電 触电 [chu4 dian4] /meg|rázza az áram/áram|ütést kap/
 # Ver 2018-01-24T05:10:33Z GaoYanuo Stat-Verif >az áram|ütés azt sugallja, hogy más ütést is jelent, másrészt főnévként is használatos.\nforrás: berendezés használati utasítása
 觸電 触电 [chu4 dian4] /meg|rázza az áram/áramütés/
+
+# ID-g73DG4q
+# Ver 2022-03-20T05:30:15Z NagyHenrik Stat-New >https://jinyici.xpcha.com/4736880n0xt.html
+暗指 暗指 [an4 zhi3] /céloz vmre; burkoltan utal vmire; sugall vmit/
 
 # ID-g73FM8N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -39839,6 +39893,10 @@ X X [X] /X/
 # Ver 2022-02-16T07:22:45Z NagyHenrik Stat-New >https://www.szotar.net/kinai/%E6%89%A7%E6%94%BF/
 執政黨 执政党 [zhi2 zheng4 dang3] /kormánypárt, az uralkodó párt, a hatalmon lévő párt/执政党必须和在野党商议这项提议 - A kormánypártnak tárgyalnia kell erről a javaslatról az ellenzéki pártokkal./Zhízhèng dǎng bìxū hé zài yědǎng shāngyì zhè xiàng tíyì/
 
+# ID-h99uT4M
+# Ver 2022-03-20T09:53:28Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%9C%A3%E5%BE%92%E5%88%97%E4%BC%A0/22864089?fr=aladdin
+聖徒傳記 圣徒传记 [sheng4 tu2 chuan2 ji4] /hagiográfia; szentek életének leírásával és kutatásával foglalkozó irodalomtörténeti tudományág/
+
 # ID-h99zk7l
 # Ver 2019-07-01T15:40:59Z GaoYanuo Stat-New >forrás: munkahelyi szakzsargon. ref.:\nhttps://www.xyzdict.com/en/chinese-english/%E6%93%8D%E4%BD%9C%E5%8F%98%E9%87%8F
 操作變量 操作变量 [cao1 zuo4 bian4 liang4] /manipulált változó/végrehajtójel, beavatkozó jel/számított változó/
@@ -44821,6 +44879,14 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 海角 海角 [hai3 jiao3] /fok (szárazföld kiszögellése)/
 
+# ID-i99NE2Q
+# Ver 2022-03-20T10:05:22Z NagyHenrik Stat-New >.
+阿爾帕德王朝的聖毛爾吉特 阿尔帕德王朝的圣毛尔吉特 [a1 er3 pa4 de2 wang2 chao2 de5 sheng4 mao2 er3 ji2 te4] /Árpád-házi Szent Margit/
+
+# ID-i99UN1Y
+# Ver 2022-03-20T07:49:20Z NagyHenrik Stat-New >汉语大辞典 普及版
+愧歉 愧歉 [kui4 qian4] /megkövet/bűntudatból eredő bocsánatkérés/
+
 # ID-j00dp4d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 慶典 庆典 [qing4 dian3] /ünnep/ünneplés/
@@ -46108,6 +46174,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 換 换 [huan4] /ki|cserél/vált/át|vált (pénzt)/
 
+# ID-j23Nd9o
+# Ver 2022-03-20T05:33:59Z NagyHenrik Stat-New >https://hanyu.baidu.com/zici/swd=%E5%90%AB%E8%93%84&query=%E5%90%AB%E8%93%84&srcid=28232&from=kg0
+含蓄 含蓄 [han2 xu4] /tartalmaz; magában foglal/burkolt; benne rejlő; leplezett; eltitkolt; palástolt/tartózkodó; kimért; zárkózott; visszafogott/
+
 # ID-j23Rl8O
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 馬房 马房 [ma3 fang2] /ló|istálló/
@@ -47206,6 +47276,10 @@ X X [X] /X/
 # ID-j45VX7z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 開通 开通 [kai1 tong1] /fel|világosít/meg|nyit (utat, lehetőséget)/
+
+# ID-j45WS3k
+# Ver 2022-03-20T03:29:32Z NagyHenrik Stat-New >https://hanyu.baidu.com/zici/swd=%E8%89%B3%E7%BA%A2&query=%E8%89%B3%E7%BA%A2&srcid=28232&from=kg0
+艷紅 艳红 [yan4 hong2] /élénkpiros, élénkvörös/pórsáfrány v. olajözön v. sáfrányos szeklice (Carthamus tinctorius)/
 
 # ID-j45Yi0s
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -48653,6 +48727,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 活菩薩 活菩萨 [huo2 pu2 sa4] /élő Buddha (átvitten: könyörületes ember)/
 
+# ID-j76aA8K
+# Ver 2022-03-20T10:18:40Z NagyHenrik Stat-New >汉语大字典
+禮拜儀式 礼拜仪式 [li3 bai4 yi2 shi4] /liturgia; egyházi szertartás; istentisztelet/
+
 # ID-j76aF6T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 蘇醒 苏醒 [su1 xing3] /magához tér/
@@ -49321,9 +49399,17 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 新陳代謝 新陈代谢 [xin1 chen2 dai4 xie4] /anyagcsere/
 
+# ID-j88Ry3g
+# Ver 2022-03-20T08:28:24Z NagyHenrik Stat-New >新华字典
+勾當 勾当 [gou4 dang4] /ügy; ügylet; cselekedett/
+
 # ID-j88SB6b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 穿著 穿着 [chuan1 zhuo2] /ruházat/öltözék/ruha/
+
+# ID-j88Th9t
+# Ver 2022-03-20T06:13:19Z NagyHenrik Stat-New >https://hanyu.baidu.com/zici/swd=%E6%8A%BD%E8%B1%A1%E6%A6%82%E5%BF%B5&query=%E6%8A%BD%E8%B1%A1%E6%A6%82%E5%BF%B5&srcid=28232&from=kg0
+抽象概念 抽象概念 [chou1 xiang4 gai4 nian4] /elvont fogalom/
 
 # ID-j88YA1P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -52590,6 +52676,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 請願書 请愿书 [qing3 yuan4 shu1] /petíció; kérvény/
 
+# ID-k52nu1m
+# Ver 2022-03-20T04:03:27Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E9%87%8A%E4%B9%89/10893536
+釋義 释义 [shi4 yi4] /értelmez; megmagyaráz /jelentés; értelmezés; definíció; körülírás/
+
 # ID-k52nS4Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 擋住 挡住 [dang3 zhu4] /akadályoz/el|torlaszol/gátol/
@@ -53619,6 +53709,10 @@ X X [X] /X/
 # ID-k73Uf2L
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 詠春拳 咏春拳 [yong3 chun1 quan2] /Wing Chun; Wing Tsun (harcművészet)/
+
+# ID-k73UE1c
+# Ver 2022-03-20T10:33:24Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%A5%A5%E6%96%AF%E5%AE%9A%E4%BC%9A/5058340?fr=aladdin
+奧斯定會 奥斯定会 [ao4 si1 ding4 hui4] /Ágoston-szerzetes rend; (latinul: Ordo Fratrum S. Augustin, rövidítésük: OSA) /
 
 # ID-k73We6t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -54933,6 +55027,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 眯 眯 [mi2] /szemébe megy (por stb.)/
 
+# ID-k99UK9B
+# Ver 2022-03-20T04:01:39Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%A0%95/4698765?fr=aladdin
+墮 堕 [duo4] /zuhan; esik/süllyed; merül/
+
 # ID-k99VR9s
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 征戰 征战 [zheng1 zhan4] /hadjárat/
@@ -55694,6 +55792,10 @@ X X [X] /X/
 # ID-l14xf9g
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 惡感 恶感 [e4 gan3] /rossz|akarat/
+
+# ID-l14yB4i
+# Ver 2022-03-21T01:36:35Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%B8%83%E9%81%93/58243102?fr=aladdin
+佈道 布道 [bu4 dao4] /evangelizál; az evangéliumot hirdeti/
 
 # ID-l14AU1E
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -58901,6 +59003,10 @@ X X [X] /X/
 # Ver 2019-09-29T12:51:03Z GaoYanuo Stat-Flagged >Jogos az észrevétel. Magam is csodálkoztam, hogy a tankönyvben külön szóként szerepel, csak úgy, mint a 不耐烦.
 沒有耐心 没有耐心 [mei2 you3 nai4 xin1] /türelmetlen/
 
+# ID-l75mH7R
+# Ver 2022-03-20T08:49:35Z NagyHenrik Stat-New >汉语大字典
+偷雞摸狗 偷鸡摸狗 [tou1 ji1 mo1 gou3] /lop; csen; csór; elemel; csakliz/kisstílű, piti tolvaj; tyúktolvaj; karalábézsivány; sivár (szleng)/szoknyapecér; szoknyabolond; nőcsábász /
+
 # ID-l75xb7p
 # Ver 2019-02-05T16:52:54Z Adam Stat-New >Pleco-szótárak, Wiktionary stb.
 # 壁紙 壁纸 [bi4 zhi3] /tapéta/
@@ -58986,6 +59092,10 @@ X X [X] /X/
 # 漢學 汉学 [han4 xue2] /sinológia (Kína-kutatás)/
 # Ver 2018-01-03T13:16:58Z gabor Stat-Verif >.
 漢學 汉学 [han4 xue2] /sinológia (Kína-kutatás)/
+
+# ID-l77de5p
+# Ver 2022-03-20T03:57:26Z NagyHenrik Stat-New >https://hanyu.baidu.com/zici/s?wd=%E9%99%B7%E9%98%B1&query=%E9%99%B7%E9%98%B1&srcid=28232&from=kg0
+墮入陷阱 堕入陷阱 [duo4 ru4 xian4 jing3] /csapdába esik/
 
 # ID-l77qE5Z
 # Ver 2020-02-18T19:03:43Z gabor Stat-New >GushiFM E285\nCEDICT etc.
@@ -62056,6 +62166,10 @@ X X [X] /X/
 # 吉布提 吉布提 [ji2 bu4 ti2] /(földrajzi név) Dzsibuti/
 # Ver 2021-06-11T18:36:39Z gabor Stat-Verif >.
 吉布提 吉布提 [ji2 bu4 ti2] /(földrajzi név) Dzsibuti/
+
+# ID-m37PE1G
+# Ver 2022-03-21T01:19:02Z NagyHenrik Stat-New >汉语大字典
+異教徒 异教徒 [yi4 jiao4 tu2] /pogány; hitetlen/eretnek/
 
 # ID-m37PP2N
 # Ver 2017-11-25T21:06:23Z GaoYanuo Stat-New >CC-CEDICT\nhttps://dict.hjenglish.com/w/%E9%9B%B6%E4%B8%8B\nhttp://dictionary.pinpinchinese.com/definitions/t/%E9%9B%B6%E4%B8%8B-lingxia
@@ -71979,6 +72093,10 @@ XX XX [x x] /x/
 # ID-o37nG7D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 大海 大海 [da4 hai3] /tenger/óceán/
+
+# ID-o37vP5H
+# Ver 2022-03-20T07:55:27Z NagyHenrik Stat-New >汉语大字典
+悵惘 怅惘 [chang4 wang3] /kedvetlen; lehangolt; levert; fásult; deprimált/
 
 # ID-o37ws6O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
