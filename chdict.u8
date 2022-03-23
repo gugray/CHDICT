@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-03-22T03:00:01Z
+# Időbélyeg / Timestamp: 2022-03-23T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -2550,6 +2550,10 @@
 # ID-a48dM0N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 肉丁 肉丁 [rou4 ding1] /hús|kocka/
+
+# ID-a48jt2R
+# Ver 2022-03-23T02:10:07Z NagyHenrik Stat-New >.
+柔術師 柔术师 [rou2 shu4 shi1] /kígyóember/
 
 # ID-a48mK9n
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -57605,6 +57609,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 姿態 姿态 [zi1 tai4] /tartás; test|tartás/hozzá|állás/
 
+# ID-l45Wm7X
+# Ver 2022-03-22T08:28:36Z NagyHenrik Stat-New >。
+乾巴巴 干巴巴 [gan1 ba1 ba1] /száraz；unalmas；sótlan；érdektelen；egyhangú/
+
 # ID-l46fK4T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 堂 堂 [tang2] /csarnok/terem/SZ:間|间[jian1]/egy|azon klánból való; azonos nevű unoka|testvérek/(számlálószó: bútor-szett, dolgok osztálya)/
@@ -64986,6 +64994,10 @@ XX XX [x x] /x/
 # ID-m88BL1O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 繼父 继父 [ji4 fu4] /mostoha|apa/
+
+# ID-m88Fz4a
+# Ver 2022-03-22T08:04:35Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E8%AF%9A%E7%84%B6/9866862?fr=aladdin
+誠然 诚然 [cheng2 ran2] /igazán；valóban/kétségtelen, hogy； nem kétséges, hogy； az igaz, hogy （a második tagmondatban ált. a 但是 áll）/
 
 # ID-m88FI7t
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -74669,6 +74681,10 @@ XX XX [x x] /x/
 # ID-o85qn4Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 片 片 [pian4] /szelet/vékony lap/film/(számlálószó: szeletek, vékony lapok, területek, vízfelszín)/(számlálószó: CD, DVD, film)/
+
+# ID-o85rD9K
+# Ver 2022-03-23T02:04:02Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%8F%B2%E6%97%A0%E5%89%8D%E4%BE%8B/1350949?fr=aladdin
+史無前例 史无前例 [shi3 wu2 qian2 li4] /példa nélküli a történelemben；példátlan a történelemben/
 
 # ID-o85ud7K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
