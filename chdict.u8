@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-03-25T03:00:01Z
+# Időbélyeg / Timestamp: 2022-03-26T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -7299,6 +7299,10 @@
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 掌控 掌控 [zhang3 kong4] /irányít/kézben tart/
 
+# ID-b44fV8N
+# Ver 2022-03-25T11:59:35Z NagyHenrik Stat-New >.
+無一例外 无一例外 [wu2 yi1 li4 wai4] /kivétel nélkül/
+
 # ID-b44gC7f
 # Ver 2022-03-10T09:14:36Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E9%9B%87%E4%BD%A3%E5%8A%B3%E5%8A%A8/3591894?fr=aladdin
 雇傭勞動 雇佣劳动 [gu4 yong4 lao2 dong4] /bérmunka/
@@ -7450,6 +7454,10 @@
 # ID-b46Nv7H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 野外 野外 [ye3 wai4] /vidék/városon kívüli területek/
+
+# ID-b46QU3B
+# Ver 2022-03-25T08:33:45Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E9%9B%85%E6%AD%A3%E6%B4%BE
+雅正派 雅正派 [ya3 zheng4 pai4] /A "kifinomult szabályok" iskola, a Song-kori versek egyik műfaja, a késő déli Song-dinasztia legnagyobb lírai iskolája. /
 
 # ID-b46TD9K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -10063,6 +10071,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 視野 视野 [shi4 ye3] /látó|mező/
 
+# ID-c00Ch2m
+# Ver 2022-03-25T03:25:07Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%B1%9F%E8%A5%BF%E8%AF%97%E6%B4%BE
+江西詩派 江西诗派 [jiang1 xi1 shi1 pai4] /Jiangxi költői iskola, kb. Kr. u. 1111után/
+
 # ID-c00Ea9H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 市政府 市政府 [shi4 zheng4 fu3] /város|háza/ön|kormányzat/
@@ -10780,6 +10792,10 @@
 # ID-c14st0c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 火焰 火焰 [huo3 yan4] /láng/SZ:团|糰[tuan2]/
+
+# ID-c14yX7Y
+# Ver 2022-03-25T11:55:52Z NagyHenrik Stat-New >.
+頭號敵人 头号敌人 [tou2 hao4 di2 ren2] /első számú ellenség/
 
 # ID-c14Pv8v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -16648,6 +16664,10 @@
 # Ver 2022-03-02T18:54:37Z GaoYanuo Stat-Verif >Az anyanyelvi tanár szerint a 困难 (kùnnan)-hoz képest komolyabb kihívások esetén használják. Továbbá Bartos-Hamar alapján módosítva a keresés megkönnyítése érdekében.
 艱難 艰难 [jian1 nan2] /különösen nehéz; fáradságos; kemény/
 
+# ID-d29wM5v
+# Ver 2022-03-25T03:27:38Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E8%B1%AA%E6%94%BE%E6%B4%BE
+豪放派 豪放派 [hao2 fang4 pai4] /A "merész" iskola a Song-dinasztia idején kialakult lírai iskolák egyike. /
+
 # ID-d29Bt9t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 拜託 拜托 [bai4 tuo1] /kér (vkit vmire)/könyörgök!/kérem!/
@@ -18714,6 +18734,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-d69co3C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 人類 人类 [ren2 lei4] /emberiség/
+
+# ID-d69dJ1M
+# Ver 2022-03-25T06:52:26Z NagyHenrik Stat-New >.
+婉約派 婉约派 [wan3 yue1 pai4] /A "mérsékelt kifinomultság" iskola, irodalmi irányzatok egyike. /
 
 # ID-d69hi9c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -24646,6 +24670,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 吉米 吉米 [ji2 mi3] /(átirat) Jimmy/
 
+# ID-e90cj4q
+# Ver 2022-03-25T03:15:43Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%A6%82%E5%BF%B5%E8%89%BA%E6%9C%AF/3886212?fromtitle=%E8%A7%82%E5%BF%B5%E8%89%BA%E6%9C%AF&fromid=1428557&fr=aladdin
+觀念藝術 观念艺术 [guan1 nian4 yi4 shu4] /Konceptuális művészet/
+
 # ID-e90cT9z
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 火車票 火车票 [huo3 che1 piao4] /vonat|jegy/
@@ -29754,6 +29782,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 勞 劳 [lao2] /gond; fáradság/fáradozik/fáradságot okoz; igénybe vesz (vkit)/(családnév) Lao/
 
+# ID-f89Ni3z
+# Ver 2022-03-25T03:09:37Z NagyHenrik Stat-New >.
+紀錄片 纪录片 [ji4 lu4 pian4] /dokumentumfilm/
+
 # ID-f89Qo0x
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 紙老虎 纸老虎 [zhi3 lao3 hu3] /papír|tigris (csak látszólag erős fenyegetés; nyugaton mint kifejezés Mao Ce-tung beszédei által vált közismertté)/
@@ -31535,6 +31567,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2019-11-26T12:52:21Z gabor Stat-Verif >.
 # Ver 2019-12-04T12:37:05Z gabor Stat-Verif >ez az igazi!
 度日 度日 [du4 ri4] /tengeti napjait/épp hogy meg|él/
+
+# ID-g23HM2r
+# Ver 2022-03-25T03:06:19Z NagyHenrik Stat-New >.
+隨筆 随笔 [sui2 bi3] /kötetlen, könnyed esszé/feljegyzések; jegyzetek; rövid vázlatok/
 
 # ID-g23Lx5f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -36226,6 +36262,10 @@ X X [X] /X/
 # ID-h16Ek2f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 倡議 倡议 [chang4 yi4] /javasol/indítványoz/kezdeményez/
+
+# ID-h16GQ0R
+# Ver 2022-03-25T07:28:00Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E9%B8%B3%E9%B8%AF%E8%9D%B4%E8%9D%B6%E6%B4%BE
+鴛鴦蝴蝶派 鸳鸯蝴蝶派 [yuan1 yang5 hu2 die2 pai4] /A "mandarinkacsák és pillangok" irodalmi műfaj, széppróza, mely a késő Qing-dinasztia és a köztársaság korai időszakának romantikus regényeiből fejlődött ki,  a 20. század elején Sanghajban./
 
 # ID-h16IV9d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -44697,6 +44737,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 報案 报案 [bao4 an4] /feljelentést tesz/
 
+# ID-i87Ha9d
+# Ver 2022-03-25T03:21:44Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%94%B0%E5%9B%AD%E8%AF%97%E6%B4%BE/3321809?fr=aladdin
+田園詩派 田园诗派 [tian2 yuan2 shi1 pai4] /idilli költő iskola; pásztorköltemény/
+
 # ID-i87Jr9x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 性質 性质 [xing4 zhi4] /természet/jellemző (jellegzetesség)/tulajdonság/SZ:個|个[ge4]/
@@ -52166,6 +52210,10 @@ X X [X] /X/
 # ID-k32Cn3q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 當真 当真 [dang1 zhen1] /komolyan vesz/komoly/komolyan!/
+
+# ID-k32HR6j
+# Ver 2022-03-25T07:12:09Z NagyHenrik Stat-New >.
+邊塞詩派 边塞诗派 [bian1 sai1 shi1 pai4] /"véghely", határerőd, határhely, végvár költői iskola. A Tang-dinasztia egyik fő költészeti műfaja. Elsősorban a határvidék tájképének ábrázolásával és a helyőrségi katonák életének tükrözésével foglalkozik. De már a Han-, a Wei- és a Hat dinasztia idején is léteztek határköltemények./
 
 # ID-k32JN5r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -70332,6 +70380,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 藝術家 艺术家 [yi4 shu4 jia1] /művész/SZ:個|个[ge4],位[wei4],名[ming2]/
 
+# ID-n88jw3x
+# Ver 2022-03-25T10:40:36Z NagyHenrik Stat-New >.
+牆貼 墙贴 [qiang2 tie1] /falragasz/
+
 # ID-n88qU2A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 只不過 只不过 [zhi3 bu5 guo4] /csak/pusztán/nem több, mint/
@@ -77196,6 +77248,10 @@ XX XX [x x] /x/
 # 花苞 花苞 [hua1 bao1] /rügy/
 # Ver 2018-01-03T13:14:40Z gabor Stat-Verif >.
 花苞 花苞 [hua1 bao1] /rügy/
+
+# ID-p20WD7z
+# Ver 2022-03-25T10:41:42Z NagyHenrik Stat-New >.
+頭版 头版 [tou2 ban3] /címlap; címoldal; első oldal /
 
 # ID-p21bP6B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
