@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-03-26T03:00:01Z
+# Időbélyeg / Timestamp: 2022-03-28T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -11380,6 +11380,10 @@
 # 順心 顺心 [shun4 xin1] /elégedett; boldog/kielégítő/
 # Ver 2017-10-17T20:23:42Z gabor Stat-Verif >.
 順心 顺心 [shun4 xin1] /elégedett; boldog/kielégítő/
+
+# ID-c28bc0g
+# Ver 2022-03-28T01:10:22Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E8%BE%87%E9%81%93/10691750?fr=aladdin
+輦道 辇道 [nian3 dao4] /kocsiút a palotában; út, melyen a császár kocsija halad/csillagkép ókori neve, a lant és hattyú csillagképben /
 
 # ID-c28eF8Z
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -22897,6 +22901,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 啊 啊 [a5] /(mondatvégi partikula: egyetértést vagy határozott kijelentést jelez)/(mondatközi partikula: a mondat topikját, az ismert információt hordozó részt zárja)/(felsorolás tételeit kiemelő partikula)/
 
+# ID-e52pd0c
+# Ver 2022-03-28T01:46:30Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%95%BF/1384725?fr=aladdin
+畿 畿 [ji1] /a főváros fennhatósága alá tartozó terület/a főváros és környéke/az ajtón belül; küszöb /föld; vidék/A Nyugati Han-dinasztia végén, Csang'an nyugati részének neve/megye; prefektura/
+
 # ID-e52rC6k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 基本上 基本上 [ji1 ben3 shang5] /alapvetően/egészében véve/
@@ -31261,6 +31269,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 景象 景象 [jing3 xiang4] /látvány/kép/ki|látások/
 
+# ID-g17Qp3L
+# Ver 2022-03-28T01:25:18Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E8%BE%87%E8%B7%AF/500505?fr=aladdin
+輦路 辇路 [nian3 lu4] /út, melyen a császár kocsija halad/
+
 # ID-g17Rs1K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 徵 征 [zheng1] /ki|vet (adót)/ki|sajátít/toboroz; soroz/bizonyíték/jel; tünet/
@@ -37698,7 +37710,13 @@ X X [X] /X/
 
 # ID-h47jX6w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-隔離 隔离 [ge2 li2] /el|választ/el|különít/szigetel/
+# 隔離 隔离 [ge2 li2] /el|választ/el|különít/szigetel/
+# Ver 2022-03-28T00:07:09Z Adam Stat-Verif >Pleco-szótárak a példáikkal, itteni korpusz
+# 隔離 隔离 [ge2 li2] /el|választ; el|különít: el|szigetel; izolál; szegregál/elkülönítés; izoláció; szeparáció/karantén/
+# Ver 2022-03-28T00:08:04Z Adam Stat-Verif >.
+# 隔離 隔离 [ge2 li2] /el|választ; el|különít: el|szigetel; el|szeparál; izolál; szegregál/elkülönítés; izoláció; szeparáció/karantén/
+# Ver 2022-03-28T00:08:32Z Adam Stat-Verif >.
+隔離 隔离 [ge2 li2] /el|választ; el|különít; el|szigetel; el|szeparál; izolál; szegregál/elkülönítés; izoláció; szeparáció/karantén/
 
 # ID-h47ky5H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -53534,6 +53552,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 繼承 继承 [ji4 cheng2] /örököl/tovább|visz/folytat/
 
+# ID-k59Bl3p
+# Ver 2022-03-28T00:47:03Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E9%9A%8F%E4%BB%8E/1825300?fr=aladdin
+隨從 随从 [sui2 cong2] /feljebbvalót követ, elkísér/kíséret; vki környezetében levő személyek/
+
 # ID-k59BL6V
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 機器腳踏車 机器脚踏车 [ji1 qi4 jiao3 ta4 che1] /motor|bicikli; motor|kerékpár/
@@ -56602,6 +56624,10 @@ X X [X] /X/
 # ID-l19EI9S
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 逐出 逐出 [zhu2 chu1] /ki|űz; ki|utasít/ki|dob; ki|hajít/
+
+# ID-l19HM3m
+# Ver 2022-03-28T01:19:00Z NagyHenrik Stat-New >https://hanyu.baidu.com/zici/s?wd=%E8%BE%87%E7%AF%B7&query=%E8%BE%87%E7%AF%B7&srcid=28232&from=kg0
+輦篷 辇篷 [nian3 peng2] /a (császári) hintó, kocsi feletti ernyő, ponyva, fedél/
 
 # ID-l19Nt9k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -65763,6 +65789,10 @@ XX XX [x x] /x/
 # Ver 2017-05-27T17:19:59Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
 伊麗莎白二世 伊丽莎白二世 [yi1 li4 sha1 bai2 er4 shi4] /(személynév) II. Erzsébet (1926–)/
 
+# ID-m94lI4M
+# Ver 2022-03-28T01:30:45Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%95%BF%E8%BE%87/6768520?fr=aladdin
+畿輦 畿辇 [ji1 nian3] /a főváros; a főváros területe/
+
 # ID-m94mP3L
 # Ver 2022-03-09T03:14:46Z NagyHenrik Stat-New >https://hanyu.baidu.com/zici/s?wd=%E8%AF%AD%E7%94%A8%E5%AD%A6&query=%E8%AF%AD%E7%94%A8%E5%AD%A6&srcid=28232&from=kg0
 語用學 语用学 [yu3 yong4 xue2] /‹nyelvt› pragmatika/
@@ -68039,6 +68069,10 @@ XX XX [x x] /x/
 # ID-n42rS9h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 蔬菜 蔬菜 [shu1 cai4] /zöldség/
+
+# ID-n42Fs4l
+# Ver 2022-03-28T00:57:41Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E8%BE%87
+輦 辇 [nian3] /emberi erővel húzott vagy tolt kocsi/kocsikázik; kocsikázás/szállít; szállítás/olyan szekér, amelyet a császár vagy családja használ/kíséret‎/fővárosra való utalás/
 
 # ID-n42Hu3W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
