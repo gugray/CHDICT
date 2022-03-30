@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-03-29T02:00:01Z
+# Időbélyeg / Timestamp: 2022-03-30T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -16862,6 +16862,10 @@
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 催眠術 催眠术 [cui1 mian2 shu4] /hipnózis/hipnotizálás/
 
+# ID-d29Pa2y
+# Ver 2022-03-30T01:38:48Z NagyHenrik Stat-New >.
+匈牙利共和國 匈牙利共和国 [xiong1 ya2 li4 gong4 he2 guo2] /Magyar Népköztársaság/
+
 # ID-d29Qo2D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 隊長 队长 [dui4 zhang3] /kapitány/csapat|vezető/SZ:個|个[ge4]/
@@ -23400,6 +23404,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e57EA9M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 爹地 爹地 [die1 di4] /apa (átvett szó; eredetije: daddy)/
+
+# ID-e57Is1X
+# Ver 2022-03-30T01:33:30Z NagyHenrik Stat-New >.
+截止日期 截止日期 [jie2 zhi3 ri4 qi1] /határidő/
 
 # ID-e57MO1x
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -32846,6 +32854,10 @@ X X [X] /X/
 # Ver 2022-03-23T09:28:32Z NagyHenrik Stat-New >.
 縈回腦際 萦回脑际 [ying2 hui2 nao3 ji4] /kavarog vmi a fejében/
 
+# ID-g42NH1M
+# Ver 2022-03-30T01:41:34Z NagyHenrik Stat-New >.
+舉行議會選舉 举行议会选举 [ju3 xing2 yi4 hui4 xuan3 ju3] /parlamenti választást tart/
+
 # ID-g42Qc6s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 巢 巢 [chao2] /fészek/(családnév) Chao/
@@ -34721,6 +34733,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 隔熱 隔热 [ge2 re4] /szigetel (hideg\meleg ellen)/hő|szigetelő/
 
+# ID-g78HG1Y
+# Ver 2022-03-30T01:40:08Z NagyHenrik Stat-New >.
+指定投票地點 指定投票地点 [zhi3 ding4 tou2 piao4 di4 dian3] /kijelölt szavazóhelyek/
+
 # ID-g78Om0I
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 灰熊 灰熊 [hui1 xiong2] /grizzly medve/
@@ -36418,6 +36434,10 @@ X X [X] /X/
 # ID-h10UO2p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 公證人 公证人 [gong1 zheng4 ren2] /köz|jegyző/
+
+# ID-h10VQ5D
+# Ver 2022-03-30T01:30:25Z NagyHenrik Stat-New >.
+投票站 投票站 [tou2 piao4 zhan4] /szavazóhelyiség/
 
 # ID-h11bZ4w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -44984,6 +45004,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 口袋 口袋 [kou3 dai4] /zseb/zsák/tasak/SZ:個|个[ge4]/
 
+# ID-i82ha3L
+# Ver 2022-03-30T01:37:02Z NagyHenrik Stat-New >.
+選區 选区 [xuan3 qu1] /választókerület/
+
 # ID-i82iJ6x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 首飾 首饰 [shou3 shi4] /ékszer/
@@ -50288,6 +50312,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 警方 警方 [jing3 fang1] /rendőrség/
 
+# ID-j85IM6Q
+# Ver 2022-03-30T01:46:45Z NagyHenrik Stat-New >.
+召開議會 召开议会 [zhao4 kai1 yi4 hui4] /összehívja a törvényhozást; összehívja a törvényhozást országgyűlést/
+
 # ID-j85KW4o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 安靜 安静 [an1 jing4] /csendes/nyugodt/békés/
@@ -55047,6 +55075,10 @@ X X [X] /X/
 # ID-k76px9m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 鬼話 鬼话 [gui3 hua4] /hazugság/nonszensz/SZ:篇[pian1]/
+
+# ID-k76yr4X
+# Ver 2022-03-30T01:44:00Z NagyHenrik Stat-New >.
+議會選舉 议会选举 [yi4 hui4 xuan3 ju3] /parlamenti választások; országgyűlési választások/
 
 # ID-k76zA4N
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -68614,6 +68646,10 @@ XX XX [x x] /x/
 # ID-n37Gu0m
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 賄 贿 [hui4] /vesztegetés; kenőpénz/
+
+# ID-n37Kp9i
+# Ver 2022-03-30T01:47:09Z NagyHenrik Stat-New >.
+解散議會 解散议会 [jie3 san4 yi4 hui4] /feloszlatja a parlamentet/
 
 # ID-n37LB9G
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
