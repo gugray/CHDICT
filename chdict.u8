@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-03-30T02:00:01Z
+# Időbélyeg / Timestamp: 2022-03-31T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -18631,6 +18631,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 戲法 戏法 [xi4 fa3] /varázs|trükk/bűvész|trükk/
 
+# ID-d63QN8O
+# Ver 2022-03-30T03:10:23Z NagyHenrik Stat-New >.
+走廊議員 走廊议员 [zou3 lang2 yi4 yuan2] /lobbista/
+
 # ID-d63Vb9F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 友誼 友谊 [you3 yi4] /barátság/
@@ -26296,6 +26300,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 厚度 厚度 [hou4 du4] /vastagság/
 
+# ID-f15Yy4u
+# Ver 2022-03-30T03:09:28Z NagyHenrik Stat-New >.
+議會走廊 议会走廊 [yi4 hui4 zou3 lang2] /parlamenti folyosó/
+
 # ID-f16dt9h
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 乾媽 干妈 [gan1 ma1] /kereszt|anya/
@@ -30198,7 +30206,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f91Fw3D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-總統 总统 [zong3 tong3] /állam|elnök/SZ:個|个[ge4],位[wei4],名[ming2],屆|届[jie4]/
+# 總統 总统 [zong3 tong3] /állam|elnök/SZ:個|个[ge4],位[wei4],名[ming2],屆|届[jie4]/
+# Ver 2022-03-30T09:26:15Z NagyHenrik Stat-Verif >.
+總統 总统 [zong3 tong3] /állam|elnök; köztársasági elnök/SZ:個|个[ge4],位[wei4],名[ming2],屆|届[jie4]/
 
 # ID-f91HQ3q
 # Ver 2017-06-04T18:14:11Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek; CC-CEDICT
@@ -61239,6 +61249,10 @@ X X [X] /X/
 # Ver 2022-03-05T09:08:17Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E9%9B%85%E7%9B%96%E9%9A%86%E7%8E%8B%E6%9C%9D/9850486
 雅蓋隆王朝 雅盖隆王朝 [ya1 gai4 long2 wang2 chao2] /Jagelló-dinasztia/
 
+# ID-l94Xh0D
+# Ver 2022-03-30T03:17:10Z NagyHenrik Stat-New >.
+羅比分子 罗比分子 [luo1 bi3 fen1 zi3] /lobbista/
+
 # ID-l95ae1J
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 眼露殺氣 眼露杀气 [yan3 lu4 sha1 qi4] /(kifejezés) gyilkos tekintet van a szemében/
@@ -72391,6 +72405,10 @@ XX XX [x x] /x/
 # ID-o11Ht1W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 主人 主人 [zhu3 ren2] /házi|gazda/gazda (háziállaté)/SZ:個|个[ge4]/
+
+# ID-o11JZ7z
+# Ver 2022-03-30T08:41:55Z NagyHenrik Stat-New >.
+民粹主義 民粹主义 [min2 cui4 zhu3 yi4] /populizmus/
 
 # ID-o11OZ1c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
