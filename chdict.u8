@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-04-01T02:00:01Z
+# Időbélyeg / Timestamp: 2022-04-02T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -111,6 +111,10 @@
 # ID-a02dd2F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 派 派 [pai4] /csoport/klikk/iskola (gondolati irányzat)/pite (jövevényszó, az angol pie-ból)/küld/ki|nevez/
+
+# ID-a02qN6t
+# Ver 2022-04-01T05:41:00Z NagyHenrik Stat-New >.
+階級和平 阶级和平 [jie1 ji2 he2 ping2] /osztálybéke/
 
 # ID-a02vH1H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -891,6 +895,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 背誦 背诵 [bei4 song4] /szaval/emlékezetből el|mond/
 
+# ID-a17iO8X
+# Ver 2022-04-01T12:59:32Z NagyHenrik Stat-New >.
+地緣政治 地缘政治 [di4 yuan2 zheng4 zhi4] /geopolitika/
+
 # ID-a17jf3w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 上品 上品 [shang4 pin3] /első osztályú (jó minőségű)/
@@ -950,6 +958,10 @@
 # ID-a18pV6F
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 重活 重活 [zhong4 huo2] /kemény munka/
+
+# ID-a18sz2r
+# Ver 2022-04-01T04:08:36Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%8E%8B%E5%80%92%E6%80%A7%E8%83%9C%E5%88%A9/23230563?fr=aladdin
+壓倒性勝利 压倒性胜利 [ya1 dao3 xing4 sheng4 li4] /elsöprő győzelem/
 
 # ID-a18zC5U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -2595,6 +2607,10 @@
 # Ver 2022-01-03T09:17:33Z Adam Stat-New >kínai fordítója, 李奇 közlése alapján, valamint https://movie.douban.com/celebrity/1137638/  
 萊剋尤金 莱克尤金 [lai2 ke4 you2 jin1] /(tulajdonnév) Rejtő Jenő/
 
+# ID-a48KC6R
+# Ver 2022-04-01T06:28:44Z NagyHenrik Stat-New >.
+階級本能 阶级本能 [jie1 ji2 ben3 neng2] /osztályösztön; társadalmi osztály ösztöne/
+
 # ID-a48Ya4h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 喜悅 喜悦 [xi3 yue4] /boldog/vidám/
@@ -2864,6 +2880,10 @@
 # ID-a53bl9M
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 凍傷 冻伤 [dong4 shang1] /fagy|sérülés/
+
+# ID-a53gq8K
+# Ver 2022-04-01T13:02:48Z NagyHenrik Stat-New >.
+地緣經濟 地缘经济 [di4 yuan2 jing1 ji4] /geoökonómia/
 
 # ID-a53iO8y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -7969,6 +7989,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 留學 留学 [liu2 xue2] /külföldön tanul/
 
+# ID-b54ZN6v
+# Ver 2022-04-01T06:49:05Z NagyHenrik Stat-New >.
+階級基礎 阶级基础 [jie1 ji2 ji1 chu3] /osztályalap; társadalmi osztály alapja/
+
 # ID-b55cw2h
 # Ver 2018-05-18T14:51:55Z GaoYanuo Stat-New >szokásos szótárak (Youdao, Purple culture, Line Dict, CC-CEDICT, etc.)
 # 中華 中华 [zhong1 hua2] /Kína/kínai/
@@ -9568,6 +9592,10 @@
 # ID-b87un9j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 陰莖 阴茎 [yin1 jing1] /hím|vessző/pénisz/
+
+# ID-b87ur5P
+# Ver 2022-04-01T05:35:55Z NagyHenrik Stat-New >http://dict.cn/%E9%98%B6%E7%BA%A7%E6%96%97%E4%BA%89
+階級鬥爭 阶级斗争 [jie1 ji2 dou4 zheng1] /osztályharc/
 
 # ID-b87vg3K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -11351,6 +11379,10 @@
 # Ver 2019-10-04T15:20:22Z gabor Stat-Verif >.
 死心眼兒 死心眼儿 [si3 xin1 yan3 r5] /makacs/állhatatos/szűk látókörű/
 
+# ID-c23XC2F
+# Ver 2022-04-01T06:39:06Z NagyHenrik Stat-New >.
+階級鬥爭熄滅論 阶级斗争熄灭论 [jie1 ji2 dou4 zheng1 xi1 mie4 lun4] /az osztályharc kihalásának elmélete/
+
 # ID-c24au4C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 刪除 删除 [shan1 chu2] /töröl (pl. fájlt, számítógépen)/el|hagy/
@@ -12462,6 +12494,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 咬 咬 [yao3] /harap/
 
+# ID-c45KH1F
+# Ver 2022-04-01T07:09:19Z NagyHenrik Stat-New >.
+階級陣線 阶级阵线 [jie1 ji2 zhen4 xian4] /osztályelkötelezetség; társadalmi osztályok elköteleződése/
+
 # ID-c45Pc0B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 緊張 紧张 [jin3 zhang1] /ideges/feszült/
@@ -12695,6 +12731,10 @@
 # ID-c50GW8W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 休想 休想 [xiu1 xiang3] /ne is gondolj arra, hogy/szó sem lehet róla/
+
+# ID-c50Wc0O
+# Ver 2022-04-01T05:36:56Z NagyHenrik Stat-New >http://dict.cn/%E9%98%B6%E7%BA%A7%E7%9F%9B%E7%9B%BE
+階級矛盾 阶级矛盾 [jie1 ji2 mao2 dun4] /osztályellentét/
 
 # ID-c50WP9c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -13490,6 +13530,10 @@
 # Ver 2021-06-11T19:14:14Z gabor Stat-Verif >.
 科摩羅 科摩罗 [ke1 mo2 luo2] /(földrajzi név) Comore-szigetek/
 
+# ID-c64uQ0Q
+# Ver 2022-04-01T03:38:50Z NagyHenrik Stat-New >.
+微弱 微弱 [wei1 ruo4] /gyenge; erőtlen; halvány,/
+
 # ID-c64Bf7d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 務必 务必 [wu4 bi4] /kell/muszáj/okvetlen/ügyel rá; meg|győződik róla/
@@ -13939,6 +13983,10 @@
 # ID-c73tL9x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 鈔票 钞票 [chao1 piao4] /papír|pénz/bank|jegy/SZ:張|张[zhang1],紮|扎[za1]/
+
+# ID-c73yK1y
+# Ver 2022-04-01T07:13:21Z NagyHenrik Stat-New >.
+剝削製度 剥削制度 [bo1 xiao1 zhi4 du4] /kizsákmányolási rendszer/
 
 # ID-c73AA8n
 # Ver 2022-03-31T08:14:13Z NagyHenrik Stat-New >.
@@ -17185,6 +17233,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 不要緊 不要紧 [bu4 yao4 jin3] /jelentéktelen/nem fontos/nem számít/
 
+# ID-d34TA3h
+# Ver 2022-04-01T06:53:13Z NagyHenrik Stat-New >.
+階級烙印 阶级烙印 [jie1 ji2 luo4 yin4] /osztálybélyeg; társadalmi osztály bélyege; társadalmi osztályba tartozás bélyege/
+
 # ID-d35dx5b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 心得 心得 [xin1 de2] /tapasztalat/tudás/SZ:項|项[xiang4],個|个[ge4]/
@@ -18481,6 +18533,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 收拾 收拾 [shou1 shi5] /rendbe|rak/ki|takarít/csomagol/meg|javít/el|rendez/
 
+# ID-d60kK9W
+# Ver 2022-04-01T06:27:42Z NagyHenrik Stat-New >.
+階級報復 阶级报复 [jie1 ji2 bao4 fu4] /osztálybosszú/
+
 # ID-d60lS6r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 圓環 圆环 [yuan2 huan2] /kör|forgalom/
@@ -18525,7 +18581,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-d61ai1E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-調整 调整 [tiao2 zheng3] /ki|igazít/be|állít/
+# 調整 调整 [tiao2 zheng3] /ki|igazít/be|állít/
+# Ver 2022-04-01T03:48:35Z NagyHenrik Stat-Verif >.
+調整 调整 [tiao2 zheng3] /ki|igazít/be|állít/szabályoz; módosít/
 
 # ID-d61ai1Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -20528,6 +20586,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 長石 长石 [chang2 shi2] /földpátok (kőzetalkotó ásvány)/
 
+# ID-d99ja1V
+# Ver 2022-04-01T06:51:18Z NagyHenrik Stat-New >.
+階級覺悟 阶级觉悟 [jie1 ji2 jue2 wu4] /osztályöntudat; társadalmi osztálytudatosság/
+
 # ID-d99pZ1C
 # Ver 2017-11-25T21:55:21Z GaoYanuo Stat-New >CC-CEDICT\nhttp://szotar.kinaiul.hu/?dictionary=0&catching=3\nNem értem, hogy ha a CC-CEDICT és a Bartos-Huba is tartalmazza, itt miért nem dobta ki eddig a kereső?
 # 好象 好象 [hao3 xiang4] /Úgy tűnik/mintha/
@@ -21612,6 +21674,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e20Zz9B
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 滑水 滑水 [hua2 shui3] /vízi|sí/
+
+# ID-e21dl2u
+# Ver 2022-04-01T06:25:56Z NagyHenrik Stat-New >.\n
+階級立場 阶级立场 [jie1 ji2 li4 chang3] /osztályálláspont; társadalmi osztály álláspontja/
 
 # ID-e21eC1s
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -23075,6 +23141,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 海灣 海湾 [hai3 wan1] /öböl/
 
+# ID-e49zR5l
+# Ver 2022-04-01T06:45:40Z NagyHenrik Stat-New >.
+階級感情 阶级感情 [jie1 ji2 gan3 qing2] /osztályérzet; osztályérzület; társadalmi osztály hangulata, érzelmei/
+
 # ID-e49AA6p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 遇 遇 [yu4] /találkozik/kezelés/esély/lehetőség/
@@ -23422,6 +23492,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e56qP7a
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 腳踏實地 脚踏实地 [jiao3 ta4 shi2 di4] /(kifejezés) két lábbal áll a földön/
+
+# ID-e56Jt1a
+# Ver 2022-04-01T04:29:09Z NagyHenrik Stat-New >.
+多部門外交政策 多部门外交政策 [duo1 bu4 men2 wai4 jiao1 zheng4 ce4] /multiszektorális külpolitika /
 
 # ID-e56PQ9T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -23819,6 +23893,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 映 映 [ying4] /tükröz; vissza|ver/csillog/vetít/
 
+# ID-e63uy9l
+# Ver 2022-04-01T05:33:31Z NagyHenrik Stat-New >.
+非對抗性 非对抗性 [fei1 dui4 kang4 xing4] /nem antagonisztikus/
+
 # ID-e63Bw3V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 服藥 服药 [fu2 yao4] /gyógyszert be|vesz/
@@ -23995,6 +24073,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e66OT2M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 泥土 泥土 [ni2 tu3] /föld/talaj/agyag/
+
+# ID-e66QA0j
+# Ver 2022-04-01T06:47:05Z NagyHenrik Stat-New >.
+階級根源 阶级根源 [jie1 ji2 gen1 yuan2] /osztályeredete; társadalmi osztály származása//
 
 # ID-e66VH9u
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -24717,6 +24799,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e82zW1J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 因而 因而 [yin1 er2] /így; ezért; tehát; következésképpen/
+
+# ID-e82Jn8v
+# Ver 2022-04-01T12:33:02Z NagyHenrik Stat-New >.
+非自由民主 非自由民主 [fei1 zi4 you2 min2 zhu3] /illiberális demokrácia/
 
 # ID-e82XA6L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -26323,6 +26409,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f15sv0a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 上游 上游 [shang4 you2] /folyó felső folyása/forrás|vidék/
+
+# ID-f15vw9S
+# Ver 2022-04-01T06:34:04Z NagyHenrik Stat-New >.
+階級差別 阶级差别 [jie1 ji2 cha1 bie2] /osztálykülönbség/
 
 # ID-f15wb6E
 # Ver 2022-03-28T09:37:11Z NagyHenrik Stat-New >.
@@ -29085,6 +29175,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 瞄準 瞄准 [miao2 zhun3] /céloz (fegyverrel)/
 
+# ID-f66Ni5j
+# Ver 2022-04-01T05:58:22Z NagyHenrik Stat-New >https://zhidao.baidu.com/question/1247494903910983379.html
+階級壓製 阶级压制 [jie1 ji2 ya1 zhi4] /osztályelnyomás/
+
 # ID-f66OM5l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 波浪 波浪 [bo1 lang4] /hullám/
@@ -29442,7 +29536,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f74tT1O
 # Ver 2022-03-28T06:46:28Z NagyHenrik Stat-New >.
-褐矮星 褐矮星 [he4 ai3 xing1] /barna törpék; olyan égitestek, melyek tömege túl kicsi ahhoz, hogy a belsejükben stabil hidrogén-hélium magfúzió jöjjön létre, és így valódi csillagokká váljanak/
+# 褐矮星 褐矮星 [he4 ai3 xing1] /barna törpék; olyan égitestek, melyek tömege túl kicsi ahhoz, hogy a belsejükben stabil hidrogén-hélium magfúzió jöjjön létre, és így valódi csillagokká váljanak/
+# Ver 2022-04-01T11:42:15Z Adam Stat-New >magyarázat zárójelbe, egyes szám
+褐矮星 褐矮星 [he4 ai3 xing1] /barna törpe (olyan égitest, melynek tömege túl kicsi ahhoz, hogy a belsejében stabil hidrogén-hélium magfúzió jöjjön létre, és így valódi csillaggá váljon)/
 
 # ID-f74wo3f
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -29998,6 +30094,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 音響 音响 [yin1 xiang3] /hang; akusztika/hang|rendszer; sztereó; hi-fi; erősítő/audio/
 
+# ID-f85me4v
+# Ver 2022-04-01T06:00:54Z NagyHenrik Stat-New >.
+階級利益 阶级利益 [jie1 ji2 li4 yi4] /osztályérdek/
+
 # ID-f85wp6Q
 # Ver 2022-02-25T12:03:34Z NagyHenrik Stat-New >https://www.szotar.net/kinai/%E7%9C%BC%E5%8A%9B/
 眼力 眼力 [yan3 li4] /látás, látóképesség    眼力好\差 yǎnlì hǎo\chà jól\rosszul lát/megítélés, ítélőképesség    他看人很有眼力。Tā kànrén hěn yǒu yǎnlì.  Jó az emberek megítélésében\jó emberismerő./
@@ -30416,6 +30516,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f93IE8a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 恰好 恰好 [qia4 hao3] /szerencsére/pont; épp/pont meg|felelő (mennyiség, idő, méret stb.)/
+
+# ID-f93Qe6X
+# Ver 2022-04-01T07:15:48Z NagyHenrik Stat-New >.
+階級壓迫 阶级压迫 [jie1 ji2 ya1 po4] /osztályelnyomás/
 
 # ID-f93Tb3R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -31225,6 +31329,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 男人 男人 [nan2 ren2] /férfi (ember)/SZ:個|个[ge4]/
 
+# ID-g09kj3W
+# Ver 2022-04-01T12:19:28Z NagyHenrik Stat-New >.
+階級剝削 阶级剥削 [jie1 ji2 bo1 xiao1] /társadalmi osztály kizsákmányolás/
+
 # ID-g09kN0y
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 高壓電 高压电 [gao1 ya1 dian4] /magas feszültség/
@@ -31818,6 +31926,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-g19ox2U
 # Ver 2022-03-02T13:22:07Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%9A%B9%E7%BD%97/3494923?fr=aladdin
 暹羅 暹罗 [xian1 luo2] /Sziám （ a délkelet-ázsiai ország, Thaiföld rágebbi kínai neve）/
+
+# ID-g19ux5H
+# Ver 2022-04-01T06:33:06Z NagyHenrik Stat-New >.
+階級本質 阶级本质 [jie1 ji2 ben3 zhi4] /osztálytermészet; társadalmi osztály természete/
 
 # ID-g19Cp2k
 # Ver 2017-05-21T22:49:15Z Adam Stat-New >厄特沃什罗兰大学 Baidu-beli szócikk és más források alapján
@@ -34308,6 +34420,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 方 方 [fang1] /szögletes/hatvány (matematika)/becsületes/irány/oldal/hely/módszer/fél (szerződés, vita részese)/épp mikor/négyzetméter (rövidítés)/(számlálószó: négyzetes dolgok)/
 
+# ID-g66NA7Z
+# Ver 2022-04-01T03:43:29Z NagyHenrik Stat-New >.\n\n
+獲勝率 获胜率 [huo4 sheng4 lü4] /nyerési arány; győzelmi arány/
+
 # ID-g66RG1D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 國民 国民 [guo2 min2] /állam|polgár/polgárok/emberek/
@@ -35946,6 +36062,10 @@ X X [X] /X/
 # Ver 2021-08-15T19:17:47Z gabor Stat-Verif >a vonalvezetés szerintem beleérthető a kontúrba, nem  részleteznék inkább túl
 線條 线条 [xian4 tiao2] /csík/vonal (rajzon, festményen)/körvonal; kontúr/
 
+# ID-g99pq4W
+# Ver 2022-04-01T06:56:09Z NagyHenrik Stat-New >.
+階級力量的對比 阶级力量的对比 [jie1 ji2 li4 liang4 de5 dui4 bi3] /társadalmi erők, osztályerők egyensúlya/
+
 # ID-g99tK5l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 薄 薄 [bao2] /vékony/gyenge/könnyű/hideg (emberileg)/
@@ -37195,6 +37315,12 @@ X X [X] /X/
 # ID-h24Oy4J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 併 并 [bing4] /össze|köt/össze|olvaszt/egyetemlegesen; teljesen/és; sőt; még/
+
+# ID-h24UG3s
+# Ver 2022-04-01T06:42:59Z NagyHenrik Stat-New >.
+# 階級分化 阶级分化 [jie1 ji2 fen1 hua4] /osztálypolarizáció; osztályellentét; osztály alapú megoszlás, megosztás/
+# Ver 2022-04-01T07:04:39Z NagyHenrik Stat-New >.
+階級分化 阶级分化 [jie1 ji2 fen1 hua4] /osztályrétegeződés; osztálypolarizáció; osztályellentét; osztály alapú megoszlás, megosztás/
 
 # ID-h24XQ2a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -40449,6 +40575,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 視線 视线 [shi4 xian4] /rá|látás; látó|mező (szó szerint: a látás egyenes vonala)/
 
+# ID-h90hN3c
+# Ver 2022-04-01T05:39:38Z NagyHenrik Stat-New >.
+階級叛徒 阶级叛徒 [jie1 ji2 pan4 tu2] /osztályáruló/
+
 # ID-h90tK1n
 # Ver 2017-12-09T21:19:55Z gabor Stat-New >ABC, korpusz
 造紙廠 造纸厂 [zao4 zhi3 chang3] /papír|gyár/
@@ -40822,6 +40952,10 @@ X X [X] /X/
 # ID-h96Ue6B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 標量 标量 [biao1 liang4] /skalár/
+
+# ID-h96XQ9p
+# Ver 2022-04-01T06:21:02Z NagyHenrik Stat-New >.
+階級戰士 阶级战士 [jie1 ji2 zhan4 shi4] /osztályharcos/
 
 # ID-h96ZL7Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -41820,6 +41954,10 @@ X X [X] /X/
 # Ver 2018-06-26T20:39:46Z gabor Stat-Verif >.
 舉杯 举杯 [ju3 bei1] /emeli poharát/pohárköszöntőt mond/
 
+# ID-i16sq6I
+# Ver 2022-04-01T05:34:32Z NagyHenrik Stat-New >http://dict.cn/%E9%9D%9E%E5%AF%B9%E6%8A%97%E6%80%A7%E7%9F%9B%E7%9B%BE
+非對抗性矛盾 非对抗性矛盾 [fei1 dui4 kang4 xing4 mao2 dun4] /nem antagonisztikus ellentét/
+
 # ID-i16uM4l
 # Ver 2021-01-11T17:17:09Z GaoYanuo Stat-New >HSK4A tk., szokásos szótárak megerősítik
 # 委婉 委婉 [wei3 wan3] /szelíd/tapintatos, diszkrét/diplomatikus/enyhítő, eufemisztikus/
@@ -41972,6 +42110,12 @@ X X [X] /X/
 # ID-i19Eo8v
 # Ver 2022-03-29T01:16:25Z NagyHenrik Stat-New >.
 蒙得維的亞國家權利義務公約 蒙得维的亚国家权利义务公约 [meng2 de2 wei2 de5 ya4 guo2 jia1 quan2 li4 yi4 wu4 gong1 yue1] /Montevideói Egyezmény; államok jogairól és kötelezettségeiről szóló montevideói egyezmény/
+
+# ID-i19FT1i
+# Ver 2022-04-01T13:07:57Z NagyHenrik Stat-New >.
+# 橋頭堡 桥头堡 [qiao2 tou2 bao3] /hídfő; bejárat/
+# Ver 2022-04-01T13:13:05Z NagyHenrik Stat-New >.
+橋頭堡 桥头堡 [qiao2 tou2 bao3] /hídfő; bejárat; hídtorony; erőd/
 
 # ID-i19TQ9F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -43569,6 +43713,10 @@ X X [X] /X/
 # Ver 2022-03-21T14:26:25Z NagyHenrik Stat-New >https://hanyu.baidu.com/zici/s?wd=%E6%B0%9B%E5%9B%B4&query=%E6%B0%9B%E5%9B%B4&srcid=28232&from=kg0
 氛圍 氛围 [fen1 wei2] /hangulat; légkör/
 
+# ID-i51DL1o
+# Ver 2022-04-01T05:25:18Z NagyHenrik Stat-New >.
+主角 主角 [zhu3 jiao3] /főszerep; főszereplő; főhős/
+
 # ID-i51IB7g
 # Ver 2021-04-12T16:45:52Z Adam Stat-New >kínai Wikipedia, CC-CEDICT által megerősítve
 # 瓜地馬拉 瓜地马拉 [gua1 di4 ma3 la1] /(földrajzi név) Guatemala (tajvani nevén, hivatalosan: 瓜地馬拉共和國; a KNK-ban 危地马拉)/
@@ -44088,6 +44236,10 @@ X X [X] /X/
 # 職場 职场 [zhi2 chang3] /munka|hely/a munka világa; munka|erő; dolgozók (egy iparágban, országban)/munkaerő|piac/
 # Ver 2017-11-27T17:36:16Z gabor Stat-Verif >.
 職場 职场 [zhi2 chang3] /munka|hely/a munka világa; munka|erő; dolgozók (egy iparágban, országban)/munkaerő|piac/
+
+# ID-i60HZ0p
+# Ver 2022-04-01T06:36:09Z NagyHenrik Stat-New >.
+階級沖突 阶级冲突 [jie1 ji2 chong1 tu1] /osztálykonfliktus/
 
 # ID-i60JG0J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -45053,6 +45205,10 @@ X X [X] /X/
 # 汶川 汶川 [wen4 chuan1] /(földrajzi név) Wenchuan (megye Szecsuán tartományban; a 2008-as pusztító földrengés központja)/
 # Ver 2021-03-23T13:48:28Z Adam Stat-Verif >"Szecsuan" Magyar helyesírási szótár (Akadémiai, 2017) alapján (is) rövid a-val, előtte magyaros átírás beszúrva (vö. https://atiro.toolforge.org/kinaiatiras.cgi )
 汶川 汶川 [wen4 chuan1] /(földrajzi név) Vencsuan; Wenchuan (megye Szecsuan tartományban; a 2008-as pusztító földrengés központja)/
+
+# ID-i79Sr2D
+# Ver 2022-04-01T12:54:47Z NagyHenrik Stat-New >.
+地緣 地缘 [di4 yuan2] /földrajzi; geo-;/
 
 # ID-i80bE0n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -46616,6 +46772,10 @@ X X [X] /X/
 # ID-j10zv1V
 # Ver 2017-10-09T20:45:13Z gabor Stat-New >CEDICT; korpusz
 松果 松果 [song1 guo3] /fenyő|toboz/
+
+# ID-j10DT2F
+# Ver 2022-04-01T07:12:37Z NagyHenrik Stat-New >.
+統治階級 统治阶级 [tong3 zhi4 jie1 ji2] /uralkodó osztály/
 
 # ID-j10KR3y
 # Ver 2021-03-30T14:46:39Z Adam Stat-New >CC-CEDICT, Wikipedia
@@ -49170,6 +49330,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 通緝 通缉 [tong1 ji1] /köröz (bűnözőt)/
 
+# ID-j59uU9c
+# Ver 2022-04-01T13:37:31Z NagyHenrik Stat-New >.
+構建戰略 构建战略 [gou4 jian4 zhan4 lüe4] /felépít, kidolgoz stratégiát /
+
 # ID-j59Cd5s
 # Ver 2020-09-15T16:09:39Z gabor Stat-New >Podcast; 相投 nyomán
 # 臭味相投 臭味相投 [chou4 wei4 xiang1 tou2] /össze|illik; egy húron pendül/
@@ -49295,6 +49459,10 @@ X X [X] /X/
 # ID-j62wV8Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 正常 正常 [zheng4 chang2] /szabályos/normális/szokásos/rendes/
+
+# ID-j62Aw8G
+# Ver 2022-04-01T06:59:06Z NagyHenrik Stat-New >.
+階級路線 阶级路线 [jie1 ji2 lu4 xian4] /társadalmi osztály fejlődési útvonala; egy osztály által bejárt út/
 
 # ID-j62AT0R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -50515,6 +50683,10 @@ X X [X] /X/
 # ID-j86vf0T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 機 机 [ji1] /gép/motor/repülőgép/alkalom/lehetőség/SZ:臺|台[tai2]/
+
+# ID-j86vf9l
+# Ver 2022-04-01T05:44:54Z NagyHenrik Stat-New >.
+階級警覺性 阶级警觉性 [jie1 ji2 jing3 jue2 xing4] /osztályéberség/
 
 # ID-j86Bc3w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -52398,6 +52570,10 @@ X X [X] /X/
 # ID-k21Xt7E
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 馬太福音 马太福音 [ma3 tai4 fu2 yin1] /Máté evangéliuma/
+
+# ID-k22bs6Y
+# Ver 2022-04-01T02:17:31Z NagyHenrik Stat-New >.
+測試報告 测试报告 [ce4 shi4 bao4 gao4] /vizsgajelentés; tesztjelentés/
 
 # ID-k22fc3Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -54622,6 +54798,10 @@ X X [X] /X/
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 傳呼機 传呼机 [chuan2 hu1 ji1] /csipogó (berendezés)/személy|hívó/
 
+# ID-k65aC4U
+# Ver 2022-04-01T07:10:27Z NagyHenrik Stat-New >.
+民族利益 民族利益 [min2 zu2 li4 yi4] /nemzeti érdek; nemzet érdek/
+
 # ID-k65cT3J
 # Ver 2022-03-28T09:20:45Z NagyHenrik Stat-New >.
 占卜術士 占卜术士 [zhan4 bo5 shu4 shi4] /jós; asztrológus;/
@@ -55620,6 +55800,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 持 持 [chi2] /tart; fog/fenn|tart/ki|tart/irányít; igazgat/
 
+# ID-k84PL3z
+# Ver 2022-04-01T06:22:31Z NagyHenrik Stat-New >.
+無產階級戰士 无产阶级战士 [wu2 chan3 jie1 ji2 zhan4 shi4] /proletárharcos/
+
 # ID-k84PQ1A
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 打蛋器 打蛋器 [da3 dan4 qi4] /habverő/
@@ -56204,6 +56388,10 @@ X X [X] /X/
 # 打折 打折 [da3 zhe2] /kedvezményt ad/ár|engedményt ad/
 # Ver 2017-11-24T20:44:11Z GaoYanuo Stat-Verif >Nem tudom, egy szótárban fontos -e jelezni, hogy Kínában  a 打百分之70折 (70%-os) diszkont nem az árengedmény mértékét jelenti, hanem a csökkentett vételárat.
 打折 打折 [da3 zhe2] /kedvezményt ad/ár|engedményt ad/
+
+# ID-k96fB5d
+# Ver 2022-04-01T13:35:19Z NagyHenrik Stat-New >.
+構建 构建 [gou4 jian4] /felépít; összeállít; alkot; létrehoz; létesít/
 
 # ID-k96lO3e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -57465,6 +57653,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 心臟 心脏 [xin1 zang4] /szív (szerv)/SZ:顆|颗[ke1],個|个[ge4]/
 
+# ID-l19tB3C
+# Ver 2022-04-01T13:09:57Z NagyHenrik Stat-New >.
+地緣和文化差異 地缘和文化差异 [di4 yuan2 he2 wen2 hua4 cha1 yi4] /földrajzi és kulturális különbségek/
+
 # ID-l19xu0I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 談談 谈谈 [tan2 tan2] /meg|beszél/beszélget/
@@ -57630,6 +57822,10 @@ X X [X] /X/
 # ID-l21JV1y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 懷 怀 [huai2] /kebel/szív/gondol (vkire)/hiányzik (neki vki)/nemz (gyereket)/(családnév) Huai/
+
+# ID-l21SX6Q
+# Ver 2022-04-01T04:05:58Z NagyHenrik Stat-New >.
+壓倒 压倒 [ya1 dao3] /elnyom; legyőz; uralkodik vki felett/túlnyomó; elsöprő; döntő/
 
 # ID-l21Vc9O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -58973,6 +59169,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 麻煩 麻烦 [ma2 fan5] /kényelmetlen/nyűgös/fáradságos/zavar (vkit vmivel)/
 
+# ID-l46AU7d
+# Ver 2022-04-01T14:07:36Z NagyHenrik Stat-New >.
+架構 架构 [jia4 gou4] /szerkezet; váz; felépítés; alakzat/
+
 # ID-l46GR2f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 交 交 [jiao1] /át|ad/kézbesít/metsz (egyenesek)/érintkezik (időben vagy térben)/közösül/barátság/viszony/kölcsönösen/együtt/
@@ -59026,6 +59226,10 @@ X X [X] /X/
 # 所在 所在 [suo3 zai4] /hely/lak|hely/tartozik (vmilyen szervezethez stb.)/
 # Ver 2021-03-07T16:55:58Z gabor Stat-Verif >pontosítás
 所在 所在 [suo3 zai4] /hely/lak|hely/tartozik (pl. vmilyen szervezethez)/hollét; mibenlét (pl. egy kérdés mibenléte)/
+
+# ID-l47rO1M
+# Ver 2022-04-01T06:44:30Z NagyHenrik Stat-New >.
+階級分析 阶级分析 [jie1 ji2 fen1 xi1] /osztályelemzés; társadalmi osztályok elemzése/
 
 # ID-l47rR3P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -60555,6 +60759,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 田納西州 田纳西州 [tian2 na4 xi1 zhou1] /(földrajzi név) Tennessee/
 
+# ID-l76UG6z
+# Ver 2022-04-01T12:36:00Z NagyHenrik Stat-New >.
+外交政策 外交政策 [wai4 jiao1 zheng4 ce4] /külpolitika/
+
 # ID-l76WW1D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 忠實 忠实 [zhong1 shi2] /hűséges/
@@ -61505,6 +61713,10 @@ X X [X] /X/
 # ID-l96wL7Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 責備 责备 [ze2 bei4] /szid; fedd/szemére hány; szemrehányást tesz/hibáztat/
+
+# ID-l96wN8x
+# Ver 2022-04-01T06:38:23Z NagyHenrik Stat-New >.
+階級出身 阶级出身 [jie1 ji2 chu1 shen1] /a társadalmi osztály eredete/
 
 # ID-l96yX5X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -63818,6 +64030,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 報 报 [bao4] /jelent/hírlap/újság/SZ:份[fen4],張|张[zhang1]/
 
+# ID-m40uX2g
+# Ver 2022-04-01T13:59:10Z NagyHenrik Stat-New >.
+理事會 理事会 [li3 shi4 hui4] /tanács; miniszter tanács; végrehajtó tanács; igazgatótanács/
+
 # ID-m40wk0r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 次品 次品 [ci4 pin3] /selejt/hibás termék/
@@ -66087,6 +66303,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 節疤 节疤 [jie2 ba1] /csomó (pl. fában)/
 
+# ID-m80Wg6I
+# Ver 2022-04-01T07:16:41Z NagyHenrik Stat-New >.
+民族壓迫 民族压迫 [min2 zu2 ya1 po4] /nemzeti elnyomás; etnikai elnyomás/
+
 # ID-m81aV2i
 # Ver 2022-03-17T05:32:27Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E4%BC%9A%E6%99%A4/6577261?fr=aladdin
 會麵晤談 会面晤谈 [hui4 mian4 wu4 tan2] /találkozó és megbeszélés (ált. diplomáciai szintű)/
@@ -66340,6 +66560,10 @@ XX XX [x x] /x/
 # ID-m85PB8B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 定位 定位 [ding4 wei4] /elhelyezkedés/meghatározza a helyét/
+
+# ID-m85YB8B
+# Ver 2022-04-01T06:41:18Z NagyHenrik Stat-New >.
+階級隊伍 阶级队伍 [jie1 ji2 dui4 wu3] /társadalmi osztályon belüli csoportok, rangsorok; osztályhoz tartozó emberek, csoportok/
 
 # ID-m86cd6L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -68652,6 +68876,10 @@ XX XX [x x] /x/
 # ID-n33YR6v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 勉強 勉强 [mian3 qiang3] /rá|kényszerít (vkit vmire)/nagy nehezen/vonakodva; nem szívesen/alig; épphogy csak/
+
+# ID-n33YU1P
+# Ver 2022-04-01T06:35:07Z NagyHenrik Stat-New >.
+階級成分 阶级成分 [jie1 ji2 cheng2 fen4] /osztályösszetétel/
 
 # ID-n34ip1j
 # Ver 2022-03-03T07:39:54Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E4%BE%B5?forcehttps=1%3Ffr%3Dkg_hanyu
@@ -71706,6 +71934,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 催 催 [cui1] /sürget/siettet/
 
+# ID-n92Uv6O
+# Ver 2022-04-01T06:17:35Z NagyHenrik Stat-New >.
+階級偏見 阶级偏见 [jie1 ji2 pian1 jian4] /osztálygőg; osztálybeli előítélet/
+
 # ID-n92XH3x
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 宿醉 宿醉 [su4 zui4] /másnaposság/
@@ -73122,6 +73354,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 家喻戶曉 家喻户晓 [jia1 yu4 hu4 xiao3] /(kifejezés) köz|ismert; háztartási név/
 
+# ID-o20wQ1n
+# Ver 2022-04-01T05:22:36Z NagyHenrik Stat-New >.
+對立角色 对立角色 [dui4 li4 jiao3 se4] /ellenfél; antagonista; egy adott történetben a főszereplő ellentéte/
+
 # ID-o20LR8y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 賠償 赔偿 [pei2 chang2] /kártalanít; meg|térít/kár|térítés/
@@ -74332,6 +74568,10 @@ XX XX [x x] /x/
 # Ver 2019-10-12T15:35:55Z gabor Stat-Verif >.
 塞麥爾維斯伊格納茲 塞麦尔维斯伊格纳兹 [sai1 mai4 er3 wei2 si1 yi1 ge2 na4 zi1] /(tulajdonnév) Semmelweis Ignác/
 
+# ID-o45rm8e
+# Ver 2022-04-01T05:47:02Z NagyHenrik Stat-New >.
+階級敵人 阶级敌人 [jie1 ji2 di2 ren2] /osztályellenség/
+
 # ID-o45rK2C
 # Ver 2022-03-29T01:38:13Z NagyHenrik Stat-New >.
 吞滅 吞灭 [tun1 mie4] / roma holokauszt; porajmos, parajmos vagy parrajmos a második világháborúban/
@@ -74695,6 +74935,10 @@ XX XX [x x] /x/
 # ID-o52bW9o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 可樂 可乐 [ke3 le4] /Kóla; Cola (márkanév\ital)/mulatságos/
+
+# ID-o52cx8o
+# Ver 2022-04-01T06:30:07Z NagyHenrik Stat-New >.
+階級本性 阶级本性 [jie1 ji2 ben3 xing4] /osztályjelleg/
 
 # ID-o52fj0b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -78096,6 +78340,10 @@ XX XX [x x] /x/
 # ID-p14Zb9X
 # Ver 2022-02-23T04:16:24Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%B7%A5%E4%B8%9A%E9%9D%A9%E5%91%BD/895
 工業革命 工业革命 [gong1 ye4 ge2 ming4] /ipari forradalom/     工业革命是以机器取代人力，以大规模工厂化生产取代个体工场手工生产的一场生产与科技革命，也是能源转换的革命     Gōngyè gémìng shì yǐ jīqì qǔdài rénlì, yǐ dà guīmó gōngchǎng huà shēngchǎn qǔdài gètǐ gōngchǎng shǒugōng shēngchǎn de yī chǎng shēngchǎn yǔ kējì gémìng, yěshì néngyuán zhuǎnhuàn de gémìng     Az ipari forradalom a termelés és a technológia valamint az energiaátalakítás forradalma volt, amely az emberi munkaerőt gépekkel, az egyéni műhelyekben történő kézi termelést tömeges gyári termeléssel váltotta fel./
+
+# ID-p15aA6w
+# Ver 2022-04-01T05:20:58Z NagyHenrik Stat-New >.
+階級對抗 阶级对抗 [jie1 ji2 dui4 kang4] /osztályellentét/
 
 # ID-p15cm3u
 # Ver 2022-03-24T03:54:28Z NagyHenrik Stat-New >.
