@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-04-06T02:00:01Z
+# Időbélyeg / Timestamp: 2022-04-07T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -5187,6 +5187,10 @@
 # ID-a98Av1u
 # Ver 2022-04-02T09:34:59Z NagyHenrik Stat-New >.
 大憲章 大宪章 [da4 xian4 zhang1] /Nagy szabadságlevél; Magna Carta Libertatum (1215. június 15-én Földnélküli János angol király, szabadságlevél)/
+
+# ID-a98Cr3x
+# Ver 2022-04-06T08:51:36Z NagyHenrik Stat-New >.
+共處 共处 [gong4 chu3] /egyidejűleg létezik; együttélés; együttlét; együttlétezés; egyidejű fennállás/
 
 # ID-a98CF9C
 # Ver 2021-04-13T18:47:43Z Adam Stat-New >kínai Wikipedia, CC-CEDICT által megerősítve
@@ -20902,6 +20906,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 花房 花房 [hua1 fang2] /üvegház/
 
+# ID-e00mF8b
+# Ver 2022-04-06T06:47:14Z NagyHenrik Stat-New >.
+生境 生境 [sheng1 jing4] /élőhely; természetes környezet; előfordulási hely; termőhely /
+
 # ID-e00EW6E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 剩餘 剩余 [sheng4 yu2] /maradék; fennmaradó/többlet/
@@ -23282,6 +23290,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e44XR5S
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 遛 遛 [liu4] /sétál/sétáltat (állatot)/
+
+# ID-e45lw3w
+# Ver 2022-04-06T09:00:33Z NagyHenrik Stat-New >.
+關鍵時刻 关键时刻 [guan1 jian4 shi2 ke4] /kritikus pillanat/
 
 # ID-e45te4B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -42458,6 +42470,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 份子 分子 [fen4 zi3] /tag (csoportban)/rész/elem (politikában: értelmiségiek, szélsőségesek stb.)/
 
+# ID-i16eu1G
+# Ver 2022-04-06T07:49:34Z NagyHenrik Stat-New >.
+非常任 非常任 [fei1 chang2 ren4] /nem állandó/
+
 # ID-i16jI7Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 時不時 时不时 [shi2 bu4 shi2] /időről időre/időnként/
@@ -59426,6 +59442,10 @@ X X [X] /X/
 # ID-l38fm1W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 哺乳 哺乳 [bu3 ru3] /szoptat/
+
+# ID-l38tr7n
+# Ver 2022-04-06T09:01:02Z NagyHenrik Stat-New >.
+關鍵的一年 关键的一年 [guan1 jian4 de5 yi1 nian2] /kulcsfontosságú év/
 
 # ID-l38uu7H
 # Ver 2022-02-24T12:00:23Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%8C%97%E5%A4%A7%E8%A5%BF%E6%B4%8B%E5%85%AC%E7%BA%A6%E7%BB%84%E7%BB%87/508108?fromtitle=%E5%8C%97%E7%BA%A6%E7%BB%84%E7%BB%87&fromid=11208451&fr=aladdin
@@ -76431,6 +76451,10 @@ XX XX [x x] /x/
 # ID-o64dM9E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 開啟 开启 [kai1 qi3] /ki|nyit/ki|nyílik/
+
+# ID-o64hr2n
+# Ver 2022-04-06T08:43:01Z NagyHenrik Stat-New >.
+踐 践 [jian4] /rálép; tapos/végrehajt; elvégez/
 
 # ID-o64kA8c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
