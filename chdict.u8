@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-04-07T02:00:01Z
+# Időbélyeg / Timestamp: 2022-04-08T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -796,6 +796,10 @@
 # ID-a14Nv8P
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 精巧 精巧 [jing1 qiao3] /kifinomult; mesteri; különleges/
+
+# ID-a14WI2q
+# Ver 2022-04-07T03:41:23Z NagyHenrik Stat-New >https://hanyu.baidu.com/zici/s?wd=%E6%80%AF%E5%A4%B4%E6%80%AF%E8%84%91&query=%E6%80%AF%E5%A4%B4%E6%80%AF%E8%84%91&srcid=28232&from=kg0
+怯頭怯腦 怯头怯脑 [qie4 tou2 qie4 nao3] /faragatlan; bárdolatlan; nehézfejű; parlagi/
 
 # ID-a15fW7C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -3241,6 +3245,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 上 上 [shang4] /felső rész; tető; csúcs/fent; felül/fenti; felső/felett/-on; -en; -ön/első; előző; korábbi/fel|megy; fel|száll (vmire)/fel|helyez; fel|hord/fel|szolgál/(igei iránykiegészítőként: felfelé irányultságot fejez ki)/(igei eredménykiegészítőként: sikeres befejezettséget fejez ki)/
 
+# ID-a61uV3S
+# Ver 2022-04-07T14:22:57Z NagyHenrik Stat-New >.
+圓熟 圆熟 [yuan2 shu2] /ügyes; jártas; hozzáértő; gyakorlott/
+
 # ID-a61zg4t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 帽子 帽子 [mao4 zi5] /sapka/kalap/címke/SZ:頂|顶[ding3]/
@@ -3543,6 +3551,10 @@
 # ID-a67RY9t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 檔 档 [dang4] /archívum/levél|tár/fel|jegyzések/polcok/
+
+# ID-a67VM7c
+# Ver 2022-04-07T04:51:33Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%BC%A9%E5%A4%B4%E7%BC%A9%E8%84%91
+縮頭縮腦 缩头缩脑 [suo1 tou2 suo1 nao3] /félénk és visszahúzódó； bátortalan；visszariad a felelősségtől；meghunyászkodik és fél felvállalni a feladatot/
 
 # ID-a68fg9o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -6110,6 +6122,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 按下 按下 [an4 xia4] /le|nyom/meg|nyom/
 
+# ID-b16fz5o
+# Ver 2022-04-07T14:20:06Z NagyHenrik Stat-New >.
+立憲 立宪 [li4 xian4] /alkotmányt alkot, alkotmányoz; alkotmányosság/
+
 # ID-b16jm3h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 反駁 反驳 [fan3 bo2] /cáfol/meg|cáfol/
@@ -7198,6 +7214,10 @@
 # ID-b37ZP1I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 松雞 松鸡 [song1 ji1] /nyír|fajd/
+
+# ID-b38by9Z
+# Ver 2022-04-07T13:20:19Z NagyHenrik Stat-New >.
+侯爵 侯爵 [hou2 jue2] /márki/
 
 # ID-b38cD8Z
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -8521,6 +8541,10 @@
 # Ver 2018-05-04T11:22:39Z gabor Stat-Verif >kiírtam figyelemfelhívásul a névmásokat, mert nem tükrözi a magyar vonzatkeret a kínait
 關心 关心 [guan1 xin1] /gondoskodik/aggódik/törődik (vmivel)/érdekli (vmi)/
 
+# ID-b63Cq1S
+# Ver 2022-04-07T14:46:52Z NagyHenrik Stat-New >.
+藝術界 艺术界 [yi4 shu4 jie4] /művészvilág; művészeti körök, berkek/
+
 # ID-b63Dw8l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 愛不釋手 爱不释手 [ai4 bu4 shi4 shou3] /(kifejezés) nem tudja ki|adni a kezéből (annyira szeret vmit)/
@@ -8843,6 +8867,10 @@
 # ID-b70hD9V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 午前 午前 [wu3 qian2] /délelőtt/
+
+# ID-b70kc1y
+# Ver 2022-04-07T03:45:14Z NagyHenrik Stat-New >.
+鄉下佬兒 乡下佬儿 [xiang1 xia4 lao3 er2] /vidéki paraszt; vidéki fickó; vidéki pasas/
 
 # ID-b70mw6c
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -11599,6 +11627,10 @@
 # Ver 2019-10-17T16:30:28Z gabor Stat-Verif >.
 無邊無際 无边无际 [wu2 bian1 wu2 ji4] /végtelen/határtalan/
 
+# ID-c25fp7P
+# Ver 2022-04-07T14:14:16Z NagyHenrik Stat-New >.
+君主立憲 君主立宪 [jun1 zhu3 li4 xian4] /alkotmányos monarchia/
+
 # ID-c25lL1Q
 # Ver 2017-10-16T16:36:48Z gabor Stat-New >CEDICT; korpusz
 像素 像素 [xiang4 su4] /pixel/
@@ -13818,6 +13850,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 丟人 丢人 [diu1 ren2] /arcát veszti/szégyen/
 
+# ID-c66Dy2N
+# Ver 2022-04-07T03:11:23Z NagyHenrik Stat-New >.
+怯 怯 [qie4] /félénk; gyáva; /vulgáris; közönséges; faragatlan/felszínes tudás, ismeret; műveletlen; tudatlan/
+
 # ID-c66HI9B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 屋子 屋子 [wu1 zi5] /szoba/ház/SZ:間|间[jian1]/
@@ -15264,6 +15300,10 @@
 # ID-c93Rw2E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 樣 样 [yang4] /mód/fajta/jelleg/forma/megjelenés/SZ:個|个[ge4]/
+
+# ID-c94bO5g
+# Ver 2022-04-07T14:51:40Z NagyHenrik Stat-New >.
+藝術體操 艺术体操 [yi4 shu4 ti3 cao1] /ritmikus sportgimnasztika/
 
 # ID-c94eR7Z
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -24895,6 +24935,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2021-06-11T17:59:59Z gabor Stat-Verif >.
 愛沙尼亞 爱沙尼亚 [ai4 sha1 ni2 ya4] /(földrajzi név) Észtország/
 
+# ID-e76NG8P
+# Ver 2022-04-07T14:52:37Z NagyHenrik Stat-New >.
+藝術團 艺术团 [yi4 shu4 tuan2] /művészegyüttes, társulat/
+
 # ID-e77aB3k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 便條 便条 [bian4 tiao2] /jegyzet/SZ:張|张[zhang1],個|个[ge4]/
@@ -27177,6 +27221,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f23bR1m
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 尊貴 尊贵 [zun1 gui4] /tisztelt; méltóságos/nagyra|becsült/tiszteletre|méltó/
+
+# ID-f23er5C
+# Ver 2022-04-07T14:41:50Z NagyHenrik Stat-New >.
+為藝術而藝術 为艺术而艺术 [wei4 yi4 shu4 er2 yi4 shu4] /öncélú művészet; l'art pour l'art/
 
 # ID-f23qH5K
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -29875,6 +29923,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f73YD6L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 老公 老公 [lao3 gong1] /férj (köznyelvi)/
+
+# ID-f73YF2v
+# Ver 2022-04-07T14:15:53Z NagyHenrik Stat-New >.
+立憲政體 立宪政体 [li4 xian4 zheng4 ti3] /alkotmányos kormányzás; alkotmányosság/
 
 # ID-f74dt3p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -36863,6 +36915,10 @@ X X [X] /X/
 # Ver 2017-05-27T00:17:29Z Adam Stat-Verif >a kettő a Wikipédia szerint ugyanannak a két neve + tudományos név
 夜鶯 夜莺 [ye4 ying1] /fülemüle; csalogány (Luscinia megarhynchos)/
 
+# ID-h05pq4T
+# Ver 2022-04-07T14:36:46Z NagyHenrik Stat-New >.
+藝術風格 艺术风格 [yi4 shu4 feng1 ge2] /művészeti stílus/
+
 # ID-h05rJ7a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 扮演 扮演 [ban4 yan3] /játszik (vmilyen szerepet)/
@@ -41596,6 +41652,10 @@ X X [X] /X/
 # ID-h99zk7l
 # Ver 2019-07-01T15:40:59Z GaoYanuo Stat-New >forrás: munkahelyi szakzsargon. ref.:\nhttps://www.xyzdict.com/en/chinese-english/%E6%93%8D%E4%BD%9C%E5%8F%98%E9%87%8F
 操作變量 操作变量 [cao1 zuo4 bian4 liang4] /manipulált változó/végrehajtójel, beavatkozó jel/számított változó/
+
+# ID-h99AG9p
+# Ver 2022-04-07T09:57:44Z NagyHenrik Stat-New >.
+溝通範式 沟通范式 [gou1 tong1 fan4 shi4] /kommunikációs paradigma/
 
 # ID-h99FS0u
 # Ver 2019-09-28T14:29:03Z GaoYanuo Stat-New >HSK5 tankönyv, szokásos szótárak megerősítik
@@ -51785,6 +51845,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 皮層 皮层 [pi2 ceng2] /agy|kéreg/
 
+# ID-j94Fp8m
+# Ver 2022-04-07T14:56:37Z NagyHenrik Stat-New >.
+藝術指導 艺术指导 [yi4 shu4 zhi3 dao3] /művészeti igazgató, vezető/
+
 # ID-j94HY1w
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 有界 有界 [you3 jie4] /korlátos/
@@ -56574,6 +56638,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 會計師 会计师 [kuai4 ji4 shi1] /könyvelő/könyvvizsgáló/
 
+# ID-k85Qq1K
+# Ver 2022-04-07T14:33:37Z NagyHenrik Stat-New >.
+寫作技巧 写作技巧 [xie3 zuo4 ji4 qiao3] /íráskészség/
+
 # ID-k85Td1I
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 通關密語 通关密语 [tong1 guan1 mi4 yu3] /jelszó/
@@ -60672,6 +60740,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 專注 专注 [zhuan1 zhu4] /koncentrál (vmire)/összpontosít (vmire)/
 
+# ID-l60dT9m
+# Ver 2022-04-07T02:21:44Z NagyHenrik Stat-New >.
+舉手之勞 举手之劳 [ju3 shou3 zhi1 lao2] /semmiség; nem nagy fáradság; annyira kimerítő, mint felemelni egy kezünket/
+
 # ID-l60ez1g
 # Ver 2022-03-24T03:28:49Z NagyHenrik Stat-New >.
 單孔目 单孔目 [dan1 kong3 mu4] /kloákások; Monotremata/
@@ -63610,6 +63682,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 公平 公平 [gong1 ping2] /igazságos/pártatlan/fair/
 
+# ID-m16XA6W
+# Ver 2022-04-07T14:34:47Z NagyHenrik Stat-New >.
+藝術技巧 艺术技巧 [yi4 shu4 ji4 qiao3] /művészi képesség, technika/
+
 # ID-m17df8p
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 牲口 牲口 [sheng1 kou5] /haszon|állat/
@@ -64415,6 +64491,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 頒發 颁发 [ban1 fa1] /közzé|tesz; ki|hirdet (pl. törvényt)/oda|ítél (pl. díjat, kitüntetést)/
 
+# ID-m31Yb8E
+# Ver 2022-04-07T14:13:26Z NagyHenrik Stat-New >.
+君主國 君主国 [jun1 zhu3 guo2] /monarchia; monarchikus állam/
+
 # ID-m32dk6N
 # Ver 2017-11-24T21:14:57Z GaoYanuo Stat-New >CC-CEDICT
 # 電飯鍋 电饭锅 [dian4 fan4 guo1] /elektromos rizsfőző/
@@ -64771,6 +64851,10 @@ X X [X] /X/
 # ID-m38Le1P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 據 据 [ju4] /szerint/meg|ragad/függ (vmitől)/bizonyíték/
+
+# ID-m38QG6x
+# Ver 2022-04-07T03:08:12Z NagyHenrik Stat-New >.
+怯弱 怯弱 [qie4 ruo4] /félénk és gyenge /
 
 # ID-m38RR2s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -65274,6 +65358,10 @@ X X [X] /X/
 # ID-m48kk0n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 改良 改良 [gai3 liang2] /javul/reform/
+
+# ID-m48lV9I
+# Ver 2022-04-07T14:44:48Z NagyHenrik Stat-New >.
+藝術化妝 艺术化妆 [yi4 shu4 hua4 zhuang1] /művészi smink, arcfestés/
 
 # ID-m48nB5L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -66545,6 +66633,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 著火 着火 [zhao2 huo3] /meg|gyújt/meg|gyullad/ég/
 
+# ID-m70WL2S
+# Ver 2022-04-07T14:40:29Z NagyHenrik Stat-New >.
+藝術形式 艺术形式 [yi4 shu4 xing2 shi4] /művészeti forma/
+
 # ID-m71ik5F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 印刷 印刷 [yin4 shua1] /nyomtatás/
@@ -67444,6 +67536,10 @@ XX XX [x x] /x/
 # ID-m86xa8f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 大意 大意 [da4 yi4] /alapötlet/fő gondolat/
+
+# ID-m86yf7y
+# Ver 2022-04-07T14:45:57Z NagyHenrik Stat-New >.
+藝術節 艺术节 [yi4 shu4 jie2] /művészeti fesztivál/
 
 # ID-m86yt0G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -69065,6 +69161,10 @@ XX XX [x x] /x/
 # Ver 2017-09-05T08:59:25Z gabor Stat-Verif >.
 臺灣 台湾 [tai2 wan1] /(földrajzi név) Tajvan; Kínai Köztársaság (a szigeten fekvő, részben függő terület)/
 
+# ID-n18Xn8Z
+# Ver 2022-04-07T02:34:26Z NagyHenrik Stat-New >.
+多虧有你 多亏有你 [duo1 kui1 you3 ni3] /köszönet neked；neked köszönhetően/
+
 # ID-n19cS5S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 歡騰 欢腾 [huan1 teng2] /ujjongás/öröm|tánc/
@@ -69300,6 +69400,10 @@ XX XX [x x] /x/
 # ID-n23Mm3t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 樓頂 楼顶 [lou2 ding3] /tető (épület teteje)/
+
+# ID-n23Ww8r
+# Ver 2022-04-07T14:40:57Z NagyHenrik Stat-New >.
+藝術造詣 艺术造诣 [yi4 shu4 zao4 yi4] /művészi teljesítmény, eredmény/
 
 # ID-n23Ye9C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -72418,6 +72522,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 芬 芬 [fen1] /illat/parfüm/
 
+# ID-n84BI3O
+# Ver 2022-04-07T14:35:39Z NagyHenrik Stat-New >.
+藝術標準 艺术标准 [yi4 shu4 biao1 zhun3] /művészi színvonal, mérce/
+
 # ID-n84Dd9V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 助理 助理 [zhu4 li3] /asszisztens/
@@ -73768,6 +73876,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 皺紋 皱纹 [zhou4 wen2] /ránc/SZ:道[dao4]/
 
+# ID-o11wj2t
+# Ver 2022-04-08T01:00:37Z NagyHenrik Stat-New >.
+杠桿交易 杠杆交易 [gang1 gan3 jiao1 yi4] /tőkeáttételes ügylet/
+
 # ID-o11Hh8g
 # Ver 2019-11-09T16:05:49Z gabor Stat-New >CEDICT, forrásszöveg
 # 鬢角 鬓角 [bin4 jiao3] /pajesz/
@@ -74116,6 +74228,10 @@ XX XX [x x] /x/
 # ID-o17Gy3N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 小子 小子 [xiao3 zi3] /ifjú (irodalmi nyelvben)/fiatal|ember (avítt; idősebbek által használt megszólítás fiatalabbak felé)/én (avítt; idősebbek megszólításakor használt forma)/
+
+# ID-o17Jy9R
+# Ver 2022-04-08T01:56:28Z NagyHenrik Stat-New >.
+宏觀預測 宏观预测 [hong2 guan1 yu4 ce4] /makro-előrejelzés/
 
 # ID-o17MT3N
 # Ver 2022-03-04T15:56:01Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%B0%B4%E6%98%9F/135917
@@ -75092,6 +75208,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 大海 大海 [da4 hai3] /tenger/óceán/
 
+# ID-o37oZ1u
+# Ver 2022-04-07T14:50:37Z NagyHenrik Stat-New >.
+藝術攝影 艺术摄影 [yi4 shu4 she4 ying3] /művészi fotózás/
+
 # ID-o37vP5H
 # Ver 2022-03-20T07:55:27Z NagyHenrik Stat-New >汉语大字典
 悵惘 怅惘 [chang4 wang3] /kedvetlen; lehangolt; levert; fásult; deprimált/
@@ -76018,6 +76138,10 @@ XX XX [x x] /x/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 代表隊 代表队 [dai4 biao3 dui4] /delegáció/
 
+# ID-o55pm4e
+# Ver 2022-04-07T13:20:42Z NagyHenrik Stat-New >.
+侯爵夫人 侯爵夫人 [hou2 jue2 fu1 ren2] /márkiné/
+
 # ID-o55qz3I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 沉思 沉思 [chen2 si1] /elmélkedik/meditál/
@@ -76649,6 +76773,10 @@ XX XX [x x] /x/
 # ID-o68wu0d
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 迫不得已 迫不得已 [po4 bu4 de2 yi3] /(kifejezés) kénytelen; muszáj; nincs más választása/
+
+# ID-o68Bn7g
+# Ver 2022-04-07T14:55:15Z NagyHenrik Stat-New >.
+藝術造型 艺术造型 [yi4 shu4 zao4 xing2] /művészi megformálás/
 
 # ID-o68Hq0M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -78108,6 +78236,10 @@ XX XX [x x] /x/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 電解質 电解质 [dian4 jie3 zhi4] /elektrolit/
 
+# ID-o93Jo3O
+# Ver 2022-04-07T14:42:38Z NagyHenrik Stat-New >.
+領導藝術 领导艺术 [ling3 dao3 yi4 shu4] /a vezetés, irányítás művészete/
+
 # ID-o93Nt6I
 # Ver 2022-03-14T06:31:17Z NagyHenrik Stat-New >https://zh.wikipedia.org/wiki/10%E7%9A%84%E5%B9%82
 千垓 千垓 [qian1 gai1] /száztrilliárd；Tíz huszonharmadik hatványa；sTR/
@@ -78900,6 +79032,10 @@ XX XX [x x] /x/
 # 星斗 星斗 [xing1 dou3] /csillag (égitest)/a csillagok/
 # Ver 2018-01-20T10:43:57Z gabor Stat-Verif >.
 星斗 星斗 [xing1 dou3] /csillag (égitest)/a csillagok/
+
+# ID-p07zD5d
+# Ver 2022-04-07T02:55:25Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%9B%BA%E8%BE%9E/11056782?fr=aladdin
+固辭 固辞 [gu4 ci2] /visszavonhatatlanul felmond/
 
 # ID-p07LN0X
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
