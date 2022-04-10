@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-04-09T02:00:01Z
+# Időbélyeg / Timestamp: 2022-04-10T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -3766,6 +3766,10 @@
 # ID-a71qA2S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 寫實主義 写实主义 [xie3 shi2 zhu3 yi4] /realizmus (művészeti stílus)/
+
+# ID-a71vH4B
+# Ver 2022-04-09T07:13:00Z NagyHenrik Stat-New >.
+報復行為 报复行为 [bao4 fu4 xing2 wei2] /megtorlás；megtorló intézkedés； bosszúálló magatartás/
 
 # ID-a71zt8y
 # Ver 2017-05-10T17:40:06Z gabor Stat-New >CEDICT; http://languagelog.ldc.upenn.edu/nll/?p=32151
@@ -16235,6 +16239,10 @@
 # Ver 2017-09-04T08:58:33Z gabor Stat-Verif >jelentéscsoportok összevonása
 精神 精神 [jing1 shen2] /szellem; elme; tudat/mentális; pszichológiai/lényeg/SZ:個|个[ge4]/
 
+# ID-d11gG6E
+# Ver 2022-04-09T06:48:44Z NagyHenrik Stat-New >.
+言談行事 言谈行事 [yan2 tan2 hang2 shi4] /beszéd és viselkedés/
+
 # ID-d11jt9k
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 添加 添加 [tian1 jia1] /hozzá|ad/növel/
@@ -22029,6 +22037,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 核實 核实 [he2 shi2] /ellenőriz/meg|bizonyosodik/
 
+# ID-e21wl9Q
+# Ver 2022-04-09T08:47:10Z NagyHenrik Stat-New >.
+添丁 添丁 [tian1 ding1] /gyermek születik a családba/
+
 # ID-e21SD5U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 掩護 掩护 [yan3 hu4] /fed/véd (pl. pajzzsal)/álcáz/
@@ -25409,6 +25421,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e88lB4x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 搖 摇 [yao2] /ráz/ringat; hintáztat/evez/(családnév) Yao/
+
+# ID-e88oR3V
+# Ver 2022-04-09T06:53:25Z NagyHenrik Stat-New >.
+不管部長 不管部长 [bu4 guan3 bu4 zhang3] /tárca nélküli miniszter/
 
 # ID-e88ph8w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -47896,6 +47912,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 妹 妹 [mei4] /húg/
 
+# ID-j18Ie9X
+# Ver 2022-04-09T07:13:43Z NagyHenrik Stat-New >.
+報復關稅 报复关税 [bao4 fu4 guan1 shui4] /megtorló vám/
+
 # ID-j18Io5A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 丟 丢 [diu1] /el|veszít/el|veszik/el|dob/
@@ -57355,6 +57375,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 移動 移动 [yi2 dong4] /mozgat/mobil/hordozható/
 
+# ID-k98Px0k
+# Ver 2022-04-09T06:50:07Z NagyHenrik Stat-New >.
+行善 行善 [xing2 shan4] /jót cselekszik/
+
 # ID-k98QE7g
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 象形文字 象形文字 [xiang4 xing2 wen2 zi4] /hieroglifa/
@@ -61103,6 +61127,10 @@ X X [X] /X/
 # ID-l67gG9v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 星期一 星期一 [xing1 qi1 yi1] /hétfő/
+
+# ID-l67hW2u
+# Ver 2022-04-09T12:32:40Z NagyHenrik Stat-New >.
+枯葉蛾 枯叶蛾 [ku1 ye4 e2] /füles lepke/
 
 # ID-l67ll2e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -71744,6 +71772,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 也 也 [ye3] /is/szintén/sem (tagadással együtt)/(a klasszikus írott nyelvben: megerősítést jelző mondatvégi partikula; értelmileg tagoló szünetpartikula)/(családnév) Ye/
 
+# ID-n68Iw8P
+# Ver 2022-04-09T06:51:43Z NagyHenrik Stat-New >.
+不管三七二十一 不管三七二十一 [bu4 guan3 san1 qi1 er4 shi2 yi1] /minden elővigyázatosságot félredobva; a következményektől függetlenül; meggondolatlanul/
+
 # ID-n68LR3f
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 鵝肝 鹅肝 [e2 gan1] /liba|máj/
@@ -73393,6 +73425,10 @@ XX XX [x x] /x/
 # ID-o01Kd5E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 口味 口味 [kou3 wei4] /ízlés/íz (vmilyen ízű étel, fagylalt stb.)/
+
+# ID-o01OV3H
+# Ver 2022-04-09T06:54:58Z NagyHenrik Stat-New >.
+不規則動詞 不规则动词 [bu4 gui1 ze2 dong4 ci2] /rendhagyó ige/
 
 # ID-o01SG2Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
