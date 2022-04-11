@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-04-10T02:00:01Z
+# Időbélyeg / Timestamp: 2022-04-11T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -626,6 +626,10 @@
 # ID-a11an0d
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 王牌 王牌 [wang2 pai2] /adu|ász (kártya)/
+
+# ID-a11bk8T
+# Ver 2022-04-10T03:14:07Z NagyHenrik Stat-New >.
+通才教育 通才教育 [tong1 cai2 jiao4 yu4] /sokoldalú oktatás/
 
 # ID-a11mw0H
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -10215,6 +10219,10 @@
 # Ver 2022-04-05T13:02:32Z NagyHenrik Stat-New >.
 大斑啄木鳥 大斑啄木鸟 [da4 ban1 zhuo2 mu4 niao3] /nagy fakopáncs; tarka harkály; Dendrocopos major/
 
+# ID-b96mS8q
+# Ver 2022-04-10T13:01:51Z NagyHenrik Stat-New >.
+記錄片 记录片 [ji4 lu4 pian4] /dokumentumfilm, dokumentumműsor/
+
 # ID-b96Cd3G
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 豪宅 豪宅 [hao2 zhai2] /kastély; kúria/
@@ -16863,6 +16871,10 @@
 # ID-d22RV9h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 窗子 窗子 [chuang1 zi5] /ablak/
+
+# ID-d22Sd1l
+# Ver 2022-04-10T03:13:34Z NagyHenrik Stat-New >.
+通才 通才 [tong1 cai2] /sokoldalú személyiség; univerzális tehetség/
 
 # ID-d22Sj1L
 # Ver 2022-04-05T07:29:53Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%87%8F%E6%95%B0%E5%88%86%E8%A3%82/67234
@@ -29233,6 +29245,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 套房 套房 [tao4 fang2] /lakosztály/lakás (társasházban)/
 
+# ID-f60ry4O
+# Ver 2022-04-10T03:34:48Z NagyHenrik Stat-New >.
+通稱 通称 [tong1 cheng1] /általában úgy nevezik, hívják, hogy; közismertebb nevén/általános elnevezés/
+
 # ID-f60rD7P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 講座 讲座 [jiang3 zuo4] /tanfolyam/kurzus/előadás/SZ:個|个[ge4]/
@@ -36441,6 +36457,10 @@ X X [X] /X/
 # ID-g97is5u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 媽 妈 [ma1] /anya/
+
+# ID-g97kw5h
+# Ver 2022-04-10T03:29:47Z NagyHenrik Stat-New >.
+大便通暢 大便通畅 [da4 bian4 tong1 chang4] /akadálytalan székletürítés/
 
 # ID-g97sl6m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -48189,6 +48209,10 @@ X X [X] /X/
 # ID-j22XN0I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 繪畫 绘画 [hui4 hua4] /festészet/rajzol; fest/
+
+# ID-j23md4u
+# Ver 2022-04-10T14:21:05Z NagyHenrik Stat-New >.
+食品商店 食品商店 [shi2 pin3 shang1 dian4] /élelmiszerüzlet/
 
 # ID-j23qI1D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -68281,6 +68305,10 @@ XX XX [x x] /x/
 # ID-n00wB3L
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 收割 收割 [shou1 ge1] /arat; be|takarít/
+
+# ID-n00wS3W
+# Ver 2022-04-10T12:58:49Z NagyHenrik Stat-New >.
+世界記錄 世界记录 [shi4 jie4 ji4 lu4] /világrekord/
 
 # ID-n00Ff2N
 # Ver 2019-11-24T12:43:54Z gabor Stat-New >gushi fm, PLC
