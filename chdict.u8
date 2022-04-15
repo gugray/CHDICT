@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-04-13T02:00:01Z
+# Időbélyeg / Timestamp: 2022-04-15T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -8618,6 +8618,10 @@
 # ID-b64xh2E
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 神學 神学 [shen2 xue2] /teológia/
+
+# ID-b64Av2N
+# Ver 2022-04-14T07:39:54Z NagyHenrik Stat-New >.
+標志層 标志层 [biao1 zhi4 ceng2] /vezérréteg; vezérszint (geol )/
 
 # ID-b64CB1T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -25364,6 +25368,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 打分 打分 [da3 fen1] /osztályoz (iskolában)/
 
+# ID-e86zO4o
+# Ver 2022-04-14T07:40:49Z NagyHenrik Stat-New >.
+標志識別 标志识别 [biao1 zhi4 shi2 bie2] /jelfelismerés/
+
 # ID-e86CO1T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 結實 结实 [jie1 shi2] /gyümölcsöt hoz/
@@ -27396,6 +27404,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 戀人 恋人 [lian4 ren2] /kedves (szeretett ember)/szerető/
 
+# ID-f25QP0n
+# Ver 2022-04-14T07:51:18Z NagyHenrik Stat-New >.
+槽口 槽口 [cao2 kou3] /kontrollerállás/
+
 # ID-f25YG3h
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 喜怒無常 喜怒无常 [xi3 nu4 wu2 chang2] /(kifejezés) szeszélyes; kiszámíthatatlan; indulatos/
@@ -28312,6 +28324,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # 筆記本 笔记本 [bi3 ji4 ben3] /jegyzet|füzet/SZ:本[ben3]/laptop, notebook/SZ:臺|台[tai2],部[bu4]/
 # Ver 2017-11-26T22:31:47Z gabor Stat-Verif >alternatívák felsorolása pontosvesszővel, nem vesszővel
 筆記本 笔记本 [bi3 ji4 ben3] /jegyzet|füzet/SZ:本[ben3]/laptop; notebook/SZ:臺|台[tai2],部[bu4]/
+
+# ID-f43zC6f
+# Ver 2022-04-14T13:54:13Z NagyHenrik Stat-New >.
+截止電平 截止电平 [jie2 zhi3 dian4 ping2] / levágási szint, kikapcsolódási küszöb/
 
 # ID-f43DY1U
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -34311,6 +34327,10 @@ X X [X] /X/
 # Ver 2018-05-26T22:18:32Z gabor Stat-Verif >korpuszbeli példák között egyértelműen van főnév. nem tudom, tapasztalat/élmény tényleg különböző értelem-e, inkább összevontam.
 體驗 体验 [ti3 yan4] /meg|tapasztal/tapasztalat; élmény/
 
+# ID-g54Sm0t
+# Ver 2022-04-14T14:14:10Z NagyHenrik Stat-New >.
+蕭蕭 萧萧 [xiao1 xiao1] /nyerít; nyihog/süvítés; szél süvítés; eső kopogása/
+
 # ID-g54Th5a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 悚 悚 [song3] /rémült/
@@ -37216,6 +37236,10 @@ X X [X] /X/
 # ID-h09Xk0g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 星系 星系 [xing1 xi4] /galaxis/
+
+# ID-h09ZY8I
+# Ver 2022-04-14T07:00:15Z NagyHenrik Stat-New >.
+黷武主義 黩武主义 [du2 wu3 zhu3 yi4] /katonai szellem, militarizmus/
 
 # ID-h10hA6F
 # Ver 2022-03-16T04:23:39Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%BC%89%E9%BA%BB#reference-[1]-7291893-wrap
@@ -48927,6 +48951,10 @@ X X [X] /X/
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 令人吃驚 令人吃惊 [ling4 ren2 chi1 jing1] /meg|döbbentő/megrázó/
 
+# ID-j36wW0n
+# Ver 2022-04-14T06:43:50Z NagyHenrik Stat-New >.
+暴虐控製 暴虐控制 [bao4 nüe4 kong4 zhi4] /zsarnoki irányítás/
+
 # ID-j36ym7W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 這裡 这里 [zhe4 li3] /itt/
@@ -49797,6 +49825,10 @@ X X [X] /X/
 # ID-j52SC0m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 徘徊 徘徊 [pai2 huai2] /fel-le jár/habozik/ingadozik/
+
+# ID-j52VX4L
+# Ver 2022-04-14T06:23:38Z NagyHenrik Stat-New >.
+虐待俘虜 虐待俘虏 [nüe4 dai4 fu2 lu3] /foglyok bántalmazása/
 
 # ID-j53hc0Z
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -51892,6 +51924,10 @@ X X [X] /X/
 # ID-j92GB1v
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 沙塵暴 沙尘暴 [sha1 chen2 bao4] /homok|vihar/
+
+# ID-j92XO4j
+# Ver 2022-04-14T07:51:55Z NagyHenrik Stat-New >.
+槽距 槽距 [cao2 ju4] /horonyosztás, horonykiosztás (elektr)/
 
 # ID-j92XT3A
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -56130,6 +56166,10 @@ X X [X] /X/
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 壓扁 压扁 [ya1 bian3] /ki|lapít/
 
+# ID-k73qX1I
+# Ver 2022-04-14T09:47:16Z NagyHenrik Stat-New >.
+戰爭爆發 战争爆发 [zhan4 zheng1 bao4 fa1] /a háború kitört/
+
 # ID-k73yX8s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 當前 当前 [dang1 qian2] /jelenlegi/aktuális/mai/modern/
@@ -57337,6 +57377,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 壓縮 压缩 [ya1 suo1] /tömörít/össze|sürít/le|rövidít/tömörítés/
 
+# ID-k96wM2K
+# Ver 2022-04-14T07:17:23Z NagyHenrik Stat-New >.
+經濟繁榮 经济繁荣 [jing1 ji4 fan2 rong2] /gazdasági fellendülés, prosperitás/
+
 # ID-k96HQ9b
 # Ver 2019-07-01T14:50:31Z GaoYanuo Stat-New >ref.:\nhttps://www.echineselearning.com/blog/nuan-nan-the-new-popular-type-of-boyfriend
 # 暖男 暖男 [nuan3 nan2] /melegszívű/megértő/önzetlen/család centrikus/
@@ -57976,6 +58020,10 @@ X X [X] /X/
 # ID-l06KE7w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 報名 报名 [bao4 ming2] /fel|iratkozik/regisztrál/be|iratkozik/jelentkezik/
+
+# ID-l06St6G
+# Ver 2022-04-14T06:51:46Z NagyHenrik Stat-New >.
+窮兵黷武 穷兵黩武 [qiong2 bing1 du2 wu3] /teljes hadi erővel lerohan, megtámad/
 
 # ID-l06SN2H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -71128,6 +71176,10 @@ XX XX [x x] /x/
 # ID-n53zk0p
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 魔爪 魔爪 [mo2 zhao3] /ördög|karom/
+
+# ID-n53Da3G
+# Ver 2022-04-14T07:28:17Z NagyHenrik Stat-New >.
+繁榮興旺 繁荣兴旺 [fan2 rong2 xing4 wang4] /virágzó és gazdag; prosperáló; jól menő; sikeres/
 
 # ID-n53LW8G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
