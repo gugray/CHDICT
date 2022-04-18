@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-04-17T02:00:01Z
+# Időbélyeg / Timestamp: 2022-04-18T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -5624,6 +5624,10 @@
 # ID-b05SU8F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 牛肉 牛肉 [niu2 rou4] /marha|hús/
+
+# ID-b05YS0R
+# Ver 2022-04-17T09:02:16Z NagyHenrik Stat-New >.
+极度疲勞 极度疲劳 [ji2 du4 pi2 lao2] /teljesen kimerült; nagyon fáradt//
 
 # ID-b05Zn9r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -20822,6 +20826,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 信用 信用 [xin4 yong4] /hitel/szavahihetőség/hitelképesség/
 
+# ID-d95In9w
+# Ver 2022-04-17T10:11:05Z NagyHenrik Stat-New >.
+門檻 门槛 [men2 kan3] /küszöb/fortély; fogás; trükk/
+
 # ID-d95KR9T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 年齡 年龄 [nian2 ling2] /élet|kor (emberé)/SZ:把[ba3],個|个[ge4]/
@@ -26544,6 +26552,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f08wT4y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 胡說 胡说 [hu2 shuo1] /ostobaságokat beszél/nonszensz!/
+
+# ID-f08yf9Z
+# Ver 2022-04-17T09:44:11Z NagyHenrik Stat-New >.
+窒息彈 窒息弹 [zhi4 xi1 dan4] /fojtógáz bomba/
 
 # ID-f08yn7u
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -68612,6 +68624,10 @@ XX XX [x x] /x/
 # Ver 2017-05-23T21:03:43Z Adam Stat-Verif >CC-CEDICT, kínai Wikipédiában definíció és képek
 腿 腿 [tui3] /láb; láb|szár (emberé)/SZ:條|条[tiao2]/
 
+# ID-n00Je6r
+# Ver 2022-04-17T07:56:48Z NagyHenrik Stat-New >.
+四維空間 四维空间 [si4 wei2 kong1 jian1] /téridő-kontinuum/
+
 # ID-n00Ma1E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 完工 完工 [wan2 gong1] /be|fejez; el|végez (munkát)/
@@ -69982,6 +69998,10 @@ XX XX [x x] /x/
 # ID-n28VH4A
 # Ver 2022-02-24T03:55:27Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%8B%9C%E5%8D%A0%E5%BB%B7%E5%B8%9D%E5%9B%BD/1106624?fromtitle=%E4%B8%9C%E7%BD%97%E9%A9%AC%E5%B8%9D%E5%9B%BD&fromid=7471260
 拜占廷帝國 拜占廷帝国 [bai4 zhan4 ting2 di4 guo2] /Bizánci Birodalom, Bizánci császárság (395-1453），/拜占庭帝国 bàizhàntíng dìguó  Bizánci Birodalom/东罗马帝国 dōng luómǎ dìguó  Kelet-római Birodalom/
+
+# ID-n28ZJ3T
+# Ver 2022-04-17T09:44:44Z NagyHenrik Stat-New >.
+窒息性毒氣 窒息性毒气 [zhi4 xi1 xing4 du2 qi4] /fojtógáz/
 
 # ID-n29pt0M
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
