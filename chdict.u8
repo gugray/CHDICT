@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-04-18T02:00:01Z
+# Időbélyeg / Timestamp: 2022-04-19T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -8549,6 +8549,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 遍布 遍布 [bian4 bu4] /minden|hol megtalálható/el|terjedt/
 
+# ID-b63eh4F
+# Ver 2022-04-18T06:45:31Z NagyHenrik Stat-New >.
+戈壁 戈壁 [ge1 bi4] /száraz, félsivatagos puszta; góbi/Góbi sivatag/
+
 # ID-b63gP0D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 依照 依照 [yi1 zhao4] /szerint/fényében (vminek)/
@@ -11178,6 +11182,10 @@
 # ID-c13Bd9p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 教練 教练 [jiao4 lian4] /edző/SZ:個|个[ge4],位[wei4],名[ming2]/
+
+# ID-c13Kb7N
+# Ver 2022-04-18T03:12:52Z NagyHenrik Stat-New >.
+瞬時速度 瞬时速度 [shun4 shi2 su4 du4] /pillanatnyi sebesség/
 
 # ID-c13Oa8r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -38939,6 +38947,10 @@ X X [X] /X/
 # Ver 2022-04-02T09:13:55Z NagyHenrik Stat-New >.
 甲午戰爭 甲午战争 [jia3 wu3 zhan4 zheng1] /első kínai–japán háború (1894. augusztus 1. és 1895. április 17. )/
 
+# ID-h42ZP4E
+# Ver 2022-04-18T06:44:40Z NagyHenrik Stat-New >.
+胳膊腕子 胳膊腕子 [ge1 bo2 wan4 zi3] /csukló/
+
 # ID-h43az6L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 遠 远 [yuan3] /messze/távol/távoli/
@@ -40461,6 +40473,10 @@ X X [X] /X/
 # ID-h73an3P
 # Ver 2018-05-22T14:49:09Z GaoYanuo Stat-New >CC-CEDICT és mások
 穩定性 稳定性 [wen3 ding4 xing4] /stabilitás/
+
+# ID-h73dH4c
+# Ver 2022-04-18T04:07:00Z NagyHenrik Stat-New >.
+斬首 斩首 [zhan3 shou3] /lefejez/
 
 # ID-h73gy8p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -62191,6 +62207,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 密宗 密宗 [mi4 zong1] /tantrikus/tantra/
 
+# ID-l81EH3L
+# Ver 2022-04-18T03:14:02Z NagyHenrik Stat-New >.
+瞬時值 瞬时值 [shun4 shi2 zhi2] /pillanatérték; pillanatnyi érték/
+
 # ID-l81Fu2Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 成果 成果 [cheng2 guo3] /eredmény/teljesítmény/
@@ -64876,6 +64896,10 @@ X X [X] /X/
 # ID-m32OZ6U
 # Ver 2022-03-14T04:37:31Z NagyHenrik Stat-New >https://zh.wikipedia.org/wiki/10%E7%9A%84%E5%B9%82
 一兆 一兆 [yi1 zhao4] /billió；1 000 000 000 000/
+
+# ID-m32Px8g
+# Ver 2022-04-19T01:18:06Z NagyHenrik Stat-New >.
+矮凳 矮凳 [ai3 deng4] /kisszék, zsámoly/
 
 # ID-m32RU4h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -69483,6 +69507,10 @@ XX XX [x x] /x/
 # ID-n18qL3z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 可不 可不 [ke3 bu5] /valóban/hát nem igaz?/
+
+# ID-n18uC2K
+# Ver 2022-04-18T02:02:58Z NagyHenrik Stat-New >.
+陡度 陡度 [dou3 du4] /gradiens/
 
 # ID-n18zP7V
 # Ver 2022-03-28T10:15:48Z GaoYanuo Stat-New >Különböző marhatartással foglalkozó cikkek a forrás, szokásos szótárak erősítik meg. (CC-EDICT, Barto-Hamar, Youdao, stb.)
