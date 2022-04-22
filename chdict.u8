@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-04-19T02:00:01Z
+# Időbélyeg / Timestamp: 2022-04-22T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -3547,6 +3547,10 @@
 # ID-a67sl3n
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 搗 捣 [dao3] /üt; ver/meg|támad; zavar; zaklat/csépel; morzsol/
+
+# ID-a67ut9Q
+# Ver 2022-04-21T11:28:00Z NagyHenrik Stat-New >.
+蘇黎世 苏黎世 [su1 li2 shi4] /Zürich/
 
 # ID-a67Jh3f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -18877,6 +18881,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2021-05-27T13:56:25Z gabor Stat-Verif >.
 硅 硅 [gui1] /szilícium (kémiai elem)/
 
+# ID-d59gH4v
+# Ver 2022-04-21T12:46:22Z NagyHenrik Stat-New >.
+翅果 翅果 [chi4 guo3] /lependék termés/
+
 # ID-d59lQ0Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 複雜 复杂 [fu4 za2] /komplex/bonyolult/
@@ -26762,6 +26770,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2022-03-10T08:43:15Z NagyHenrik Stat-New >https://hanyu.baidu.com/s?wd=%E4%BB%B7%E5%80%BC%E8%A7%84%E5%BE%8B&from=zici
 價值規律 价值规律 [jia4 zhi2 gui1 lü4] / értéktörvény/
 
+# ID-f11AE2i
+# Ver 2022-04-21T12:51:11Z NagyHenrik Stat-New >.
+翅脈 翅脉 [chi4 mai4] /erezet (rovar szárnyán)/
+
 # ID-f11MM4M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 身旁 身旁 [shen1 pang2] /mellett/oldalán (vkinek)/
@@ -34633,6 +34645,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 手鐲 手镯 [shou3 zhuo2] /karkötő/karperec/
 
+# ID-g58uR5I
+# Ver 2022-04-21T14:23:20Z NagyHenrik Stat-New >.
+赫爾維蒂婭 赫尔维蒂娅 [he4 er3 wei2 di4 ya4] /Helvécia; Helvetia/
+
 # ID-g58zN3w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 近 近 [jin4] /közel/közel van (vkihez, vmihez)/
@@ -37012,6 +37028,10 @@ X X [X] /X/
 # ID-h03Cf8C
 # Ver 2022-03-04T08:34:21Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E4%BB%84%E7%B1%B3
 仄米 仄米 [ze4 mi3] /zeptométer；zm ；1zm=1E-18mm/
+
+# ID-h03Ek0A
+# Ver 2022-04-21T11:30:06Z NagyHenrik Stat-New >.
+吳茱萸 吴茱萸 [wu2 zhu1 yu2] /rutatermésű mézesfa; Tetradium ruticarpum, Euodia ruticarpa/
 
 # ID-h03Fz0U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -41003,6 +41023,10 @@ X X [X] /X/
 # ID-h82wI6a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 微觀 微观 [wei1 guan1] /mikroszkópikus/
+
+# ID-h82Ak5m
+# Ver 2022-04-21T12:31:03Z NagyHenrik Stat-New >.
+腱鞘炎 腱鞘炎 [jian4 qiao4 yan2] /ínhüvelygyulladás; tenosynovitis/
 
 # ID-h82Ju1E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -47342,6 +47366,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 體裁 体裁 [ti3 cai2] /műfaj/zsáner/
 
+# ID-j04Ma0r
+# Ver 2022-04-21T12:27:46Z NagyHenrik Stat-New >.
+膝腱反射 膝腱反射 [xi1 jian4 fan3 she4] /térdreflex/
+
 # ID-j04OT1E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 秋分 秋分 [qiu1 fen1] /őszi napéjegyenlőség/
@@ -50746,6 +50774,10 @@ X X [X] /X/
 # ID-j68RH3u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 格雷 格雷 [ge2 lei2] /(átirat) Grey; Gray/
+
+# ID-j68Sr2Q
+# Ver 2022-04-21T11:27:23Z NagyHenrik Stat-New >.
+無重力狀態 无重力状态 [wu2 zhong4 li4 zhuang4 tai4] /a súlytalanság állapota/
 
 # ID-j69fg9R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -55441,6 +55473,10 @@ X X [X] /X/
 # ID-k56Hz0c
 # Ver 2022-03-16T04:26:16Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%BC%9D%E7%BA%AB
 縫紉 缝纫 [feng2 ren4] /kézimunka; szabás, varrás és hímzés/kézimunkázik; szab, varr vagy hímez/
+
+# ID-k56Md2l
+# Ver 2022-04-21T12:23:25Z NagyHenrik Stat-New >.
+膝蓋骨 膝盖骨 [xi1 gai4 gu3] /térdkalács/
 
 # ID-k56ML6I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -67731,6 +67767,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 西 西 [xi1] /nyugat/nyugati/
 
+# ID-m83tC3e
+# Ver 2022-04-21T11:29:00Z NagyHenrik Stat-New >.
+無止境 无止境 [wu2 zhi3 jing4] /határtalan, nem ismer határokat/
+
 # ID-m83Ew7T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 扇子 扇子 [shan4 zi5] /legyező/SZ:把[ba3]/
@@ -69955,6 +69995,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 地盤 地盘 [di4 pan2] /terület (vki területe)/felség|terület/alap (épületé)/föld|kéreg/
 
+# ID-n27qA0y
+# Ver 2022-04-21T13:45:33Z NagyHenrik Stat-New >.
+岳父 岳父 [yue4 fu4] /a feleség apja, após/
+
 # ID-n27Bh5o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 莊園 庄园 [zhuang1 yuan2] /kastély/majorság (feudális földbirtok)/
@@ -72123,6 +72167,10 @@ XX XX [x x] /x/
 # ID-n68yy4B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 花費 花费 [hua1 fei4] /költség/kiadás/költ (pénzt vagy időt)/
+
+# ID-n68yW0A
+# Ver 2022-04-21T12:29:45Z NagyHenrik Stat-New >.
+腱鞘 腱鞘 [jian4 qiao4] /ínhüvely/
 
 # ID-n68Ap1J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -79724,6 +79772,10 @@ XX XX [x x] /x/
 # ID-p11Zc7w
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 腎臟 肾脏 [shen4 zang4] /vese/
+
+# ID-p12dN4V
+# Ver 2022-04-21T12:42:44Z NagyHenrik Stat-New >.
+鞘翅 鞘翅 [qiao4 chi4] /fedőszárny/
 
 # ID-p12ee8X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
