@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-04-24T02:00:01Z
+# Időbélyeg / Timestamp: 2022-04-26T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -14413,6 +14413,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 弗 弗 [fu2] /nem (tagadószó)/
 
+# ID-c75xM6a
+# Ver 2022-04-25T08:44:43Z NagyHenrik Stat-New >.
+劣弧 劣弧 [lie4 hu2] /félkörívnél kisebb körív  (mat)/
+
 # ID-c75Cb0O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 電報機 电报机 [dian4 bao4 ji1] /távíró/
@@ -22710,6 +22714,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 臭氧層 臭氧层 [chou4 yang3 ceng2] /ózon|réteg/
 
+# ID-e30MC0c
+# Ver 2022-04-25T13:50:59Z NagyHenrik Stat-New >.
+政策性補貼 政策性补贴 [zheng4 ce4 xing4 bu3 tie1] /politikai alapon nyújtott támogatás/
+
 # ID-e30XA4d
 # Ver 2019-09-18T17:37:34Z GaoYanuo Stat-New >szokásos szótárak. \nHogyan kéne jelezni, hogy 马来 és 马国 néven is emlegetik, továbbá hogy a 大马 szócikkünk a CC-CEDICT szerint ennek a rövidítése? 
 # 馬來西亞 马来西亚 [ma3 lai2 xi1 ya4] /(földrajzi név) Malajzia/
@@ -23440,6 +23448,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e44rW2m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 星期六 星期六 [xing1 qi1 liu4] /szombat/
+
+# ID-e44uV6o
+# Ver 2022-04-25T08:51:29Z NagyHenrik Stat-New >.
+劣種 劣种 [lie4 zhong3] /rossz fajta (haszonnövény, háziállat)/
 
 # ID-e44yO5P
 # Ver 2019-12-13T09:34:58Z gabor Stat-New >abc; eredeti szöveg
@@ -31176,6 +31188,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f94hK8i
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 典獄長 典狱长 [dian3 yu4 zhang3] /börtön|igazgató/
+
+# ID-f94jO3W
+# Ver 2022-04-25T03:12:07Z NagyHenrik Stat-New >.
+嚙齒動物 啮齿动物 [nie4 chi3 dong4 wu4] /rágcsáló állat/
 
 # ID-f94nN6v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -44131,6 +44147,10 @@ X X [X] /X/
 # ID-i41AD3Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 巢穴 巢穴 [chao2 xue2] /odú/fészek/búvó|hely/törzs|kocsma/
+
+# ID-i41ES5N
+# Ver 2022-04-25T03:12:47Z NagyHenrik Stat-New >.
+嚙齒目 啮齿目 [nie4 chi3 mu4] /rágcsálók rendje/
 
 # ID-i41Nk6h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -63660,6 +63680,10 @@ X X [X] /X/
 # 正反 正反 [zheng4 fan3] /pro és kontra; pozitív és negatív/
 # Ver 2021-06-07T16:38:59Z gabor Stat-Verif >.
 正反 正反 [zheng4 fan3] /pro és kontra; pozitív és negatív/
+
+# ID-m08Ok4b
+# Ver 2022-04-25T13:51:28Z NagyHenrik Stat-New >.
+政策性虧損 政策性亏损 [zheng4 ce4 xing4 kui1 sun3] /politikai jellegű veszteségek/
 
 # ID-m08Wy3P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
