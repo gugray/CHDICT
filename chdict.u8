@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-04-26T02:00:01Z
+# Időbélyeg / Timestamp: 2022-04-27T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -2776,6 +2776,10 @@
 # ID-a50pE2p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 蕁麻 荨麻 [qian2 ma2] /csalán/
+
+# ID-a50pY8m
+# Ver 2022-04-26T03:17:19Z NagyHenrik Stat-New >.
+陸上油田 陆上油田 [lu4 shang4 you2 tian2] /szárazföldi olajmezők, felszíni olajmező/
 
 # ID-a50sS8f
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -12926,6 +12930,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 牛角尖 牛角尖 [niu2 jiao3 jian4] /szőrszálhasogatás (elkerülhető apró probléma)/(szó szerint: tehénszarv csúcsa)/
 
+# ID-c48Pz3Y
+# Ver 2022-04-26T03:41:13Z NagyHenrik Stat-New >.
+三國志 三国志 [san1 guo2 zhi4] /A Három Királyság története/
+
 # ID-c48Qc5F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 人行道 人行道 [ren2 xing2 dao4] /járda/
@@ -17000,6 +17008,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 高爾夫 高尔夫 [gao1 er3 fu1] /(átirat) golf/
 
+# ID-d23aO8T
+# Ver 2022-04-26T02:36:57Z NagyHenrik Stat-New >.
+源源不斷 源源不断 [yuan2 yuan2 bu4 duan4] /szakadatlan; véget nem érő áradat; folyamatos/
+
 # ID-d23cA5R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 時常 时常 [shi2 chang2] /gyakran/
@@ -20285,6 +20297,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-d84fW4C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 薄暮 薄暮 [bo2 mu4] /szürkület/alkonyat/
+
+# ID-d84iY5N
+# Ver 2022-04-26T03:42:42Z NagyHenrik Stat-New >.
+昌黎方言志 昌黎方言志 [chang1 li2 fang1 yan2 zhi4] /A Changli dialektus leírása/
 
 # ID-d84lk7S
 # Ver 2018-06-04T13:25:37Z Adam Stat-New >Pleco-szótár (PLC) és CC-CEDICT alapján
@@ -28937,6 +28953,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f51bq6d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 本源 本源 [ben3 yuan2] /forrás (folyóvízé)/eredet/
+
+# ID-f51gl0D
+# Ver 2022-04-26T02:34:38Z NagyHenrik Stat-New >.
+輸油管 输油管 [shu1 you2 guan3] /kőolajvezeték/
 
 # ID-f51gz6x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -42565,6 +42585,10 @@ X X [X] /X/
 # ID-i10Lh3Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 吧 吧 [ba5] /(mondatvégi partikula: indítvány, javaslat)/(mondatvégi partikula: bizonytalanságot jelöl, megerősítést vár)/(tagmondat végi partikula: jóváhagyás)/(mondatközi partikula: alternatívák közötti mérlegelés)/
+
+# ID-i10Ni9G
+# Ver 2022-04-26T02:53:11Z NagyHenrik Stat-New >.
+波旁王朝 波旁王朝 [bo1 pang2 wang2 chao2] /Bourbon-dinasztia/
 
 # ID-i10YK8s
 # Ver 2017-11-24T19:48:17Z gabor Stat-New >ABC; CEDICT; korpusz
@@ -58981,6 +59005,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 額外 额外 [e2 wai4] /további/extra/
 
+# ID-l20UQ3e
+# Ver 2022-04-26T03:25:17Z NagyHenrik Stat-New >.
+稻白葉枯病 稻白叶枯病 [dao4 bai2 ye4 ku1 bing4] /rizs levélszáradás/
+
 # ID-l20WS7A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 轉換 转换 [zhuan3 huan4] /változtat/át|alakít/transzformáció/
@@ -71617,6 +71645,10 @@ XX XX [x x] /x/
 # ID-n55Ld7z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 困境 困境 [kun4 jing4] /nehéz helyzet/kutya|szorító/
+
+# ID-n55Ol5O
+# Ver 2022-04-26T03:26:44Z NagyHenrik Stat-New >.
+稻苞蟲 稻苞虫 [dao4 bao1 chong2] /a busalepkék családjába tartozó rovar, a rizs kártevője; Pelopidas mathias/
 
 # ID-n55Pe6Q
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
