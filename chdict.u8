@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-04-28T02:00:01Z
+# Időbélyeg / Timestamp: 2022-04-29T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -3864,6 +3864,10 @@
 # ID-a72AL8v
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 搭把手 搭把手 [da1 ba3 shou3] /ki|segít/
+
+# ID-a72Ff3w
+# Ver 2022-04-28T06:44:11Z NagyHenrik Stat-New >.
+姦夫 奸夫 [jian1 fu1] /házasságtörő férfi/
 
 # ID-a72FY7a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -25119,6 +25123,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 祖 祖 [zu3] /ős; előd; nagy|szülő/(családnév) Zu/
 
+# ID-e76GW5L
+# Ver 2022-04-28T07:03:06Z NagyHenrik Stat-New >.
+詐騙犯 诈骗犯 [zha4 pian4 fan4] /csaló; szélhámos/
+
 # ID-e76KY1m
 # Ver 2021-04-10T22:38:28Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
 # 愛沙尼亞 爱沙尼亚 [ai4 sha1 ni2 ya4] /(földrajzi név) Észt|ország (hivatalosan: 爱沙尼亚共和国)/
@@ -29228,6 +29236,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f55SH2C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 大地 大地 [da4 di4] /Föld/Föld|anya/
+
+# ID-f56aY1E
+# Ver 2022-04-28T08:31:32Z NagyHenrik Stat-New >.
+和服 和服 [he2 fu2] /kimonó/
 
 # ID-f56bD4w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -55714,6 +55726,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 通融 通融 [tong1 rong2] /rugalmas; megengedően értelmezi a szabályokat/rövid távú hitelt ad; ki|segít/
 
+# ID-k59IL0r
+# Ver 2022-04-28T07:02:27Z NagyHenrik Stat-New >.
+詐騙短信 诈骗短信 [zha4 pian4 duan3 xin4] /SMS csaló/
+
 # ID-k59JJ3D
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 權重 权重 [quan2 zhong4] /súly; befolyás; jelentőség/
@@ -70640,6 +70656,10 @@ XX XX [x x] /x/
 # ID-n37Vs9K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 得 得 [de5] /(melléknévi állítmány partikula; az ige és a képességet\mértéket kifejező kiegészítő között)/(ige utáni eredménykiegészítő: lehetőséget, képességet fejez ki)/
+
+# ID-n37WA3L
+# Ver 2022-04-28T06:44:58Z NagyHenrik Stat-New >.
+姦婦 奸妇 [jian1 fu4] /házasságtörő nő/
 
 # ID-n37YJ5U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
