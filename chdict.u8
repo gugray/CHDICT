@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-05-02T02:00:01Z
+# Időbélyeg / Timestamp: 2022-05-04T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -3036,6 +3036,10 @@
 # ID-a55dS4F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 膽小鬼 胆小鬼 [dan3 xiao3 gui3] /gyáva nyúl/
+
+# ID-a55jN9A
+# Ver 2022-05-03T05:32:08Z NagyHenrik Stat-New >.
+庸人自擾 庸人自扰 [yong1 ren2 zi4 rao3] /semmiségért aggódik; feleslegesen gondot csinál magának/
 
 # ID-a55mt1o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -68290,6 +68294,10 @@ XX XX [x x] /x/
 # ID-m90lG7R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 治理 治理 [zhi4 li3] /kormányoz/kormányzás/
+
+# ID-m90pU9J
+# Ver 2022-05-03T05:26:45Z NagyHenrik Stat-New >.
+無庸細述 无庸细述 [wu2 yong1 xi4 shu4] /nem kell részletezni/
 
 # ID-m90xe0I
 # Ver 2018-11-24T20:54:24Z GaoYanuo Stat-New >http://www.youdao.com/w/%E5%A0%B5%E5%BE%97%E6%85%8C/#keyfrom=dict2.top\nhttp://www.dictall.com/dictall/result_sentence.jsp
