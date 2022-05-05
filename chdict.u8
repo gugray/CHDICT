@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-05-04T02:00:01Z
+# Időbélyeg / Timestamp: 2022-05-05T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -3964,6 +3964,10 @@
 # ID-a74eR6G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 手腕 手腕 [shou3 wan4] /csukló (testrész)/
+
+# ID-a74fp2W
+# Ver 2022-05-04T03:20:29Z NagyHenrik Stat-New >.
+迪斯尼樂園 迪斯尼乐园 [di2 si1 ni2 le4 yuan2] /Disneyland/
 
 # ID-a74ja8b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -51043,6 +51047,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 大廳 大厅 [da4 ting1] /csarnok/
 
+# ID-j71KC6W
+# Ver 2022-05-04T03:26:03Z NagyHenrik Stat-New >.
+本質論 本质论 [ben3 zhi4 lun4] /esszencializmus/
+
 # ID-j71OC4U
 # Ver 2022-03-04T15:54:20Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%BD%97%E6%98%9F/22704
 彗星 彗星 [hui4 xing1] /‹csill› üstökös；kométa；/
@@ -58404,6 +58412,10 @@ X X [X] /X/
 # ID-l08vG5n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 郵局 邮局 [you2 ju2] /posta/posta|hivatal/SZ:家[jia1],個|个[ge4]/
+
+# ID-l08QX0X
+# Ver 2022-05-04T06:08:25Z NagyHenrik Stat-New >.
+攘奪政權 攘夺政权 [rang3 duo2 zheng4 quan2] /magához ragadja az állam irányítását/
 
 # ID-l08ST9s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -75044,6 +75056,10 @@ XX XX [x x] /x/
 # Ver 2022-04-01T05:22:36Z NagyHenrik Stat-New >.
 對立角色 对立角色 [dui4 li4 jiao3 se4] /ellenfél; antagonista; egy adott történetben a főszereplő ellentéte/
 
+# ID-o20Ae6I
+# Ver 2022-05-04T03:31:38Z NagyHenrik Stat-New >.
+心靈美 心灵美 [xin1 ling2 mei3] /lelki szépség/
+
 # ID-o20LR8y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 賠償 赔偿 [pei2 chang2] /kártalanít; meg|térít/kár|térítés/
@@ -75915,6 +75931,10 @@ XX XX [x x] /x/
 # ID-o38ET6H
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 荒野 荒野 [huang1 ye3] /vadon; pusztaság; sivatag/
+
+# ID-o38FH3i
+# Ver 2022-05-04T03:27:30Z NagyHenrik Stat-New >.
+本質主義 本质主义 [ben3 zhi4 zhu3 yi4] /esszencializmus/
 
 # ID-o38KN6w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
