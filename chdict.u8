@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-05-05T02:00:01Z
+# Időbélyeg / Timestamp: 2022-05-06T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -2252,6 +2252,10 @@
 # ID-a41Ug0d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 野心 野心 [ye3 xin1] /becs|vágy/ambíció/
+
+# ID-a41Wn0M
+# Ver 2022-05-05T05:15:39Z NagyHenrik Stat-New >.
+肘窩 肘窝 [zhou3 wo1] /könyökhajlat/
 
 # ID-a41WD8j
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -4621,6 +4625,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 條例 条例 [tiao2 li4] /előírás/szabály/rendelet/
 
+# ID-a86wN2F
+# Ver 2022-05-05T05:14:09Z NagyHenrik Stat-New >.
+肘接 肘接 [zhou3 jie1] /könyökcsuklós kötés; könyökcső; ívcső/
+
 # ID-a86BS6E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 印度 印度 [yin4 du4] /(földrajzi név) India/
@@ -5177,6 +5185,10 @@
 # 魔方 魔方 [mo2 fang1] /Rubik-kocka/
 # Ver 2021-07-01T20:03:49Z gabor Stat-Verif >.
 魔方 魔方 [mo2 fang1] /Rubik-kocka/
+
+# ID-a97js5v
+# Ver 2022-05-05T04:11:55Z NagyHenrik Stat-New >.
+氨發生器 氨发生器 [an1 fa1 sheng1 qi4] /ammónia-generátor/
 
 # ID-a97jE2w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -6065,6 +6077,10 @@
 # ID-b13Kj9W
 # Ver 2019-08-25T12:48:52Z Adam Stat-New >https://www.facebook.com/710080362438136/photos/a.738909089555263/2329417317171091/
 海都 海都 [hai3 du1] /(személynév) Hajdu Lajos (1930–2019)/
+
+# ID-b13ZQ5i
+# Ver 2022-05-05T08:22:58Z NagyHenrik Stat-New >.
+天牛 天牛 [tian1 niu2] /hőscincér (Cerambix heros)/
 
 # ID-b14ez1I
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -30064,6 +30080,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 朴 朴 [piao2] /(családnév) Piao/
 
+# ID-f72Ft0V
+# Ver 2022-05-05T03:34:44Z NagyHenrik Stat-New >.
+腐蝕機理 腐蚀机理 [fu3 shi2 ji1 li3] /korróziós folyamat mechanizmusa/
+
 # ID-f72Kk2z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 隨機 随机 [sui2 ji1] /véletlenszerű/véletlen; sztochasztikus/
@@ -45690,6 +45710,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 仔 仔 [zi3] /kicsinyek (háziállatok kicsinyei)/alapos/
 
+# ID-i68VL0K
+# Ver 2022-05-05T07:29:00Z NagyHenrik Stat-New >.
+緻死性毒氣 致死性毒气 [zhi4 si3 xing4 du2 qi4] /halálos gáz; mérgező gáz/
+
 # ID-i68XG3j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 興隆 兴隆 [xing1 long2] /virágzó/prosperáló/
@@ -59355,6 +59379,10 @@ X X [X] /X/
 # Ver 2022-03-28T06:06:36Z NagyHenrik Stat-New >.
 不規則星係 不规则星系 [bu4 gui1 ze2 xing1 xi4] /szabálytalan galaxisok/
 
+# ID-l25RV8R
+# Ver 2022-05-05T03:30:27Z NagyHenrik Stat-New >.
+疑難病癥 疑难病症 [yi2 nan2 bing4 zheng1] /komplikált és nehezen kezelhető betegség/
+
 # ID-l25Wi5V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 晚飯 晚饭 [wan3 fan4] /vacsora/SZ:份[fen4],頓|顿[dun4],次[ci4],餐[can1]/
@@ -71213,6 +71241,10 @@ XX XX [x x] /x/
 # ID-n46Jj5O
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 船隊 船队 [chuan2 dui4] /hajó|flotta/
+
+# ID-n46Kt7U
+# Ver 2022-05-05T03:46:16Z NagyHenrik Stat-New >.
+病理學 病理学 [bing4 li3 xue2] /patológia/
 
 # ID-n46KZ0y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
