@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-05-07T02:00:01Z
+# Időbélyeg / Timestamp: 2022-05-08T02:00:02Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -10158,6 +10158,10 @@
 # ID-b93Bj8d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 岔 岔 [cha4] /el|ágazik/el|tér/le|tér/meg|szakít/
+
+# ID-b93Oe5a
+# Ver 2022-05-07T06:52:42Z NagyHenrik Stat-New >.
+蠅子 蝇子 [ying2 zi5] /házilégy; Musca domestica/
 
 # ID-b93QR8o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -21828,6 +21832,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e13cE5M
 # Ver 2022-03-28T04:23:09Z NagyHenrik Stat-New >.
 天鶴座 天鹤座 [tian1 he4 zuo4] /Grus; Daru csillagkép/
+
+# ID-e13nm6U
+# Ver 2022-05-07T06:45:23Z NagyHenrik Stat-New >.
+蠅拍 蝇拍 [ying5 pai1] /légycsapó/
 
 # ID-e13rF8e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -40501,6 +40509,10 @@ X X [X] /X/
 # Ver 2022-03-04T16:25:37Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%A4%A7%E6%B0%94%E7%8E%AF%E6%B5%81
 大氣環流 大气环流 [da4 qi4 huan2 liu2] / légköri keringés/
 
+# ID-h71Gg1S
+# Ver 2022-05-07T06:56:21Z NagyHenrik Stat-New >.
+苟活 苟活 [gou3 huo2] /becstelen életet él/
+
 # ID-h71GL1n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 清澈 清澈 [qing1 che4] /tiszta/világos/
@@ -41057,6 +41069,10 @@ X X [X] /X/
 # 為了 为了 [wei4 le5] /azért, hogy/érdekében (szmély, vagy cél)/céljából (vminek)/
 # Ver 2019-09-28T19:28:27Z gabor Stat-Verif >visszavettem az alárendelő mondatosat, mert másféle nyelvtani szerepre akarok utalni vele a kínaiban
 為了 为了 [wei4 le5] /azért, hogy; annak érdekében, hogy/érdekében (vminek\vkinek)/céljából (vminek)/
+
+# ID-h80km7P
+# Ver 2022-05-07T06:43:58Z NagyHenrik Stat-New >.
+蠅 蝇 [ying2] /házilégy; közönséges légy; Musca domestica/
 
 # ID-h80qZ4f
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -44827,6 +44843,10 @@ X X [X] /X/
 # Ver 2017-11-29T10:51:51Z GaoYanuo Stat-Verif >.
 十二生肖 十二生肖 [shi2 er4 sheng1 xiao4] /a tizenkét állat|jegy (a kínai naptár éveinek állat jelképei)/
 
+# ID-i53vg7r
+# Ver 2022-05-07T08:06:03Z NagyHenrik Stat-New >.
+條紋布 条纹布 [tiao2 wen2 bu4] /csíkos szövet/
+
 # ID-i53zU2Y
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 水溝 水沟 [shui3 gou1] /víz|csatorna/vízelvezető árok/
@@ -45120,6 +45140,10 @@ X X [X] /X/
 # ID-i58sC9V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 擴大 扩大 [kuo4 da4] /bővít/tágít/nagyobbít/
+
+# ID-i58sZ3U
+# Ver 2022-05-07T07:10:15Z NagyHenrik Stat-New >.
+喘吁吁 喘吁吁 [chuan3 xu1 xu1] /ziháló, lihegő/
 
 # ID-i58tx2u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -60829,6 +60853,10 @@ X X [X] /X/
 # ID-l50LO3F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 沙漠 沙漠 [sha1 mo4] /sivatag/
+
+# ID-l50QY4J
+# Ver 2022-05-07T06:44:51Z NagyHenrik Stat-New >.
+蠅虎 蝇虎 [ying2 hu3] /Menemerus; legyekkel táplálkozó pókféle/
 
 # ID-l51dG9D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
