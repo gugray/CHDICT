@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-05-09T02:00:01Z
+# Időbélyeg / Timestamp: 2022-05-10T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -13194,6 +13194,10 @@
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 淺薄 浅薄 [qian3 bo2] /felszínes; sekély/
 
+# ID-c52Vx3R
+# Ver 2022-05-09T03:49:31Z NagyHenrik Stat-New >.
+鏇床 旋床 [xuan4 chuang2] /abroncseszterga, faeszterga, esztergapad/
+
 # ID-c52Wm4p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 停 停 [ting2] /meg|áll/stop/parkol/
@@ -23466,6 +23470,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e43ET3A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 銀行 银行 [yin2 hang2] /bank/SZ:家[jia1],個|个[ge4]/
+
+# ID-e43FW9a
+# Ver 2022-05-09T03:44:54Z NagyHenrik Stat-New >.
+渦輪螺旋槳發動機 涡轮螺旋桨发动机 [wo1 lun2 luo2 xuan2 jiang3 fa1 dong4 ji1] /légcsavaros gázturbina-hajtómű/
 
 # ID-e43Kd7S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -34554,6 +34562,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 口活 口活 [kou3 huo2] /orális szex; szopás/
 
+# ID-g54zC0E
+# Ver 2022-05-09T05:29:38Z NagyHenrik Stat-New >.
+胸腔 胸腔 [xiong1 qiang1] /mellüreg/
+
 # ID-g54GT5Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 造句 造句 [zao4 ju4] /mondat|alkotás/mondat|tan/
@@ -36555,6 +36567,10 @@ X X [X] /X/
 # 塞拉利昂 塞拉利昂 [sai4 la1 li4 ang2] /(földrajzi név) Sierra Leone (hivatalosan: 塞拉利昂共和国)/
 # Ver 2021-06-11T19:31:53Z gabor Stat-New >.
 塞拉利昂 塞拉利昂 [sai4 la1 li4 ang2] /(földrajzi név) Sierra Leone/
+
+# ID-g93wu1F
+# Ver 2022-05-09T06:15:53Z NagyHenrik Stat-New >.
+壟斷市場 垄断市场 [long3 duan4 shi4 chang3] /monopolizálja a piacot/
 
 # ID-g93wQ8W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -45996,6 +46012,10 @@ X X [X] /X/
 # Ver 2017-12-09T15:54:59Z gabor Stat-New >CEDICT, korpusz
 漏油 漏油 [lou4 you2] /olaj|szivárgás/fúj! (a hajrá! ellentéte)/
 
+# ID-i72XJ5R
+# Ver 2022-05-09T03:43:58Z NagyHenrik Stat-New >.
+渦輪發電機 涡轮发电机 [wo1 lun2 fa1 dian4 ji1] /turbógenerátor/
+
 # ID-i72YJ5b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 劫持 劫持 [jie2 chi2] /el|rabol/túszul ejt/el|térít/
@@ -48959,6 +48979,10 @@ X X [X] /X/
 # 回國 回国 [hui2 guo2] /visszatér a hazájába/
 # Ver 2017-12-04T15:59:45Z gabor Stat-Verif >.
 回國 回国 [hui2 guo2] /visszatér a hazájába/
+
+# ID-j29yY0L
+# Ver 2022-05-09T03:45:27Z NagyHenrik Stat-New >.
+渦輪噴氣發動機 涡轮喷气发动机 [wo1 lun2 pen1 qi4 fa1 dong4 ji1] /gázturbinás sugárhajtómű/
 
 # ID-j29BR0s
 # Ver 2021-06-14T10:10:02Z gabor Stat-New >GushiFM E511
@@ -62189,6 +62213,10 @@ X X [X] /X/
 # Ver 2022-04-04T11:02:46Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E9%B9%80%E7%A7%91/2759229?fr=aladdin
 鵐科 鹀科 [wu2 ke1] /sármányfélék; Emberizidae/
 
+# ID-l75TG2b
+# Ver 2022-05-09T02:55:10Z NagyHenrik Stat-New >.
+幣製聯盟 币制联盟 [bi4 zhi4 lian2 meng2] /monetáris unió/
+
 # ID-l75Vc2V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 彌補 弥补 [mi2 bu3] /kár|pótol/kompenzál/
@@ -63801,6 +63829,10 @@ X X [X] /X/
 # ID-m07MT2f
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 病床 病床 [bing4 chuang2] /kórházi ágy/beteg|ágy/
+
+# ID-m07NY2A
+# Ver 2022-05-09T02:55:41Z NagyHenrik Stat-New >.
+幣種構成 币种构成 [bi4 zhong3 gou4 cheng2] /valuta-összetéte/
 
 # ID-m07OO4X
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -69197,6 +69229,10 @@ XX XX [x x] /x/
 # ID-n05Mc1r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 過火 过火 [guo4 huo3] /extrém/túlzott/
+
+# ID-n05NZ7V
+# Ver 2022-05-09T03:37:33Z NagyHenrik Stat-New >.
+勞動態度 劳动态度 [lao2 dong4 tai4 du4] /munkamorál/
 
 # ID-n05UR7R
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
