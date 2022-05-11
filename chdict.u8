@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-05-10T02:00:01Z
+# Időbélyeg / Timestamp: 2022-05-11T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -3033,6 +3033,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 檢察官 检察官 [jian3 cha2 guan1] /ügyész/állam|ügyész/
 
+# ID-a54Ws0N
+# Ver 2022-05-10T05:34:20Z NagyHenrik Stat-New >.
+戰爭邊緣政策 战争边缘政策 [zhan4 zheng1 bian1 yuan2 zheng4 ce4] /háborús katasztrófapolitika/
+
 # ID-a55dm7o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 畏懼 畏惧 [wei4 ju4] /fél; retteg/
@@ -3338,6 +3342,10 @@
 # ID-a62Qq9L
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 水井 水井 [shui3 jing3] /kút/
+
+# ID-a62Uh6C
+# Ver 2022-05-10T05:33:23Z NagyHenrik Stat-New >.
+戰爭保險 战争保险 [zhan4 zheng1 bao3 xian3] /háborús kockázatok elleni biztosítás/
 
 # ID-a62UJ8X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -10781,6 +10789,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 猶 犹 [you2] /mintha/épp, mint/még/
 
+# ID-c05ov4L
+# Ver 2022-05-10T05:32:46Z NagyHenrik Stat-New >.
+戰爭溫床 战争温床 [zhan4 zheng1 wen1 chuang2] / a háború melegágya/
+
 # ID-c05yE8s
 # Ver 2022-03-28T07:04:54Z NagyHenrik Stat-New >.
 拱极星 拱极星 [gong3 ji2 xing1] /cirkumpoláris csillag/
@@ -12763,6 +12775,10 @@
 # ID-c44Ig2W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 格鬥 格斗 [ge2 dou4] /birkózik/ököl|harc/
+
+# ID-c44Ir5W
+# Ver 2022-05-10T05:06:45Z NagyHenrik Stat-New >.
+宇宙塵 宇宙尘 [yu3 zhou4 chen2] /kozmikus por/
 
 # ID-c44Jq9z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -26582,6 +26598,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 數字 数字 [shu4 zi4] /szám|jegy/mennyiség/SZ:個|个[ge4]/digitális/
 
+# ID-f06SK1t
+# Ver 2022-05-10T05:36:34Z NagyHenrik Stat-New >.
+邊緣地區 边缘地区 [bian1 yuan2 di4 qu1] /határterület; határvidék/
+
 # ID-f07he9y
 # Ver 2018-10-12T08:38:53Z GaoYanuo Stat-New >CC-EDICT és korpusz megerősíti
 # 制冷 制冷 [zhi4 leng3] /hűt/hűtő (-rendszer, teljesítmény, stb.)/
@@ -29488,6 +29508,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # 冠狀病毒 冠状病毒 [guan1 zhuang4 bing4 du2] /korona|vírus (számos különböző vírusfajt magában foglaló, az 1960-as évek óta ismert alcsalád)/
 # Ver 2021-06-02T20:14:23Z gabor Stat-Verif >.
 冠狀病毒 冠状病毒 [guan1 zhuang4 bing4 du2] /korona|vírus (számos különböző vírusfajt magában foglaló, az 1960-as évek óta ismert alcsalád)/
+
+# ID-f59du1d
+# Ver 2022-05-10T05:29:18Z NagyHenrik Stat-New >.
+北伐戰爭 北伐战争 [bei3 fa2 zhan4 zheng1] /északi hadjárat [1926‒1927]/
 
 # ID-f59jv3w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -52670,6 +52694,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 時速 时速 [shi2 su4] /óránkénti sebesség/
 
+# ID-j99Rl4N
+# Ver 2022-05-10T05:37:18Z NagyHenrik Stat-New >.
+戰爭基金 战争基金 [zhan4 zheng1 ji1 jin1] /hadialap, hadipénztár/
+
 # ID-j99Zw3a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 地位 地位 [di4 wei4] /pozíció/státusz/hely/
@@ -68858,6 +68886,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 健身房 健身房 [jian4 shen1 fang2] /fitnesz-stúdió/edző|terem/
 
+# ID-m98mk2U
+# Ver 2022-05-10T05:09:22Z NagyHenrik Stat-New >.
+精銳部隊 精锐部队 [jing1 rui4 bu4 dui4] /elit katonai csapatok/
+
 # ID-m98qa0s
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 上傳 上传 [shang4 chuan2] /fel|tölt (internetre, weblapra)/
@@ -70244,6 +70276,10 @@ XX XX [x x] /x/
 # ID-n26mp6g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 管道 管道 [guan3 dao4] /csővezeték/
+
+# ID-n26oz5r
+# Ver 2022-05-10T08:36:58Z NagyHenrik Stat-New >.
+經濟制裁 经济制裁 [jing1 ji4 zhi4 cai2] /gazdasági szankciók/
 
 # ID-n26qk9L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -79692,6 +79728,10 @@ XX XX [x x] /x/
 # 滑梯 滑梯 [hua2 ti1] /csúszda/
 # Ver 2021-06-30T09:25:21Z gabor Stat-Verif >.
 滑梯 滑梯 [hua2 ti1] /csúszda/
+
+# ID-p05Gn7V
+# Ver 2022-05-10T06:17:33Z NagyHenrik Stat-New >.
+奴隸起義 奴隶起义 [nu2 li4 qi3 yi4] /rabszolgafelkelés/
 
 # ID-p05LQ5d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
