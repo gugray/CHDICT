@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-05-11T02:00:01Z
+# Időbélyeg / Timestamp: 2022-05-12T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -4512,6 +4512,10 @@
 # 轉向 转向 [zhuan3 xiang4] /irányt vált/meg|változtatja az álláspontját/forgásirány/
 # Ver 2018-01-24T22:37:43Z gabor Stat-Verif >elhat
 轉向 转向 [zhuan3 xiang4] /irányt vált/meg|változtatja az álláspontját/forgás|irány/
+
+# ID-a84gM9S
+# Ver 2022-05-12T01:54:39Z NagyHenrik Stat-New >.
+燕雀 燕雀 [yan4 que4] /fenyőpinty; Fringilla montifringilla/fecske és veréb/
 
 # ID-a84ho9n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -27451,6 +27455,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 觸摸 触摸 [chu4 mo1] /meg|érint/hozzá|ér (vmihez)/
 
+# ID-f21Mo0W
+# Ver 2022-05-12T01:51:34Z NagyHenrik Stat-New >.
+金絲雀 金丝雀 [jin1 si1 que4] /kanárimadár; Serinus canaria/
+
 # ID-f21QK0Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 抉擇 抉择 [jue2 ze2] /választ/döntés; választás/
@@ -30046,6 +30054,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 輔導 辅导 [fu3 dao3] /ki|segít/korrepetál/korrepetálás/
 
+# ID-f70Bg0R
+# Ver 2022-05-12T01:48:58Z NagyHenrik Stat-New >.
+紅鶴 红鹤 [hong2 he4] /flamingófélék családja; Phoenicopteridae/nipponíbisz; Nipponia nippon/
+
 # ID-f70Gy4Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 體重 体重 [ti3 zhong4] /test|súly/
@@ -31380,6 +31392,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f95sa2k
 # Ver 2022-03-04T15:56:56Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E9%87%91%E6%98%9F/19410
 金星 金星 [jin1 xing1] /Vénusz (bolygó)/
+
+# ID-f95GE9Z
+# Ver 2022-05-12T01:40:10Z NagyHenrik Stat-New >.
+聚集效應 聚集效应 [ju4 ji2 xiao4 ying1] /halmozódási effektus/
 
 # ID-f95ID9b
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -39291,6 +39307,10 @@ X X [X] /X/
 # ID-h46hM2H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 黑暗 黑暗 [hei1 an4] /sötét/sötétség/
+
+# ID-h46yT2h
+# Ver 2022-05-12T01:48:08Z NagyHenrik Stat-New >.
+火烈鳥 火烈鸟 [huo3 lie4 niao3] /flamingó/
 
 # ID-h46Bc2u
 # Ver 2021-04-14T18:21:18Z GaoYanuo Stat-New >Anyanyelvi tanár, szokásos szótárak
@@ -65536,6 +65556,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 服務器 服务器 [fu2 wu4 qi4] /szerver/SZ:臺|台[tai2]/
 
+# ID-m38eg9p
+# Ver 2022-05-12T01:53:12Z NagyHenrik Stat-New >.
+燕雀科 燕雀科 [yan4 que4 ke1] /pintyfélék; Fringillidae /
+
 # ID-m38po1K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 美食 美食 [mei3 shi2] /ínyenc|ség/csemege/
@@ -66432,6 +66456,10 @@ X X [X] /X/
 # ID-m55uP0X
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 價碼 价码 [jia4 ma3] /ár (árucikké)/ajánlat/
+
+# ID-m55xt8u
+# Ver 2022-05-12T01:59:42Z NagyHenrik Stat-New >.
+燕雀屬 燕雀属 [yan4 que4 shu3] /fringilla/
 
 # ID-m55zG5N
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
