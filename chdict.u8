@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-05-14T02:00:01Z
+# Időbélyeg / Timestamp: 2022-05-17T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -804,6 +804,10 @@
 # ID-a14Nv8P
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 精巧 精巧 [jing1 qiao3] /kifinomult; mesteri; különleges/
+
+# ID-a14Ob1y
+# Ver 2022-05-16T05:49:01Z NagyHenrik Stat-New >.
+載波同步 载波同步 [zai4 bo1 tong2 bu4] /hordozóhullám-szinkronizáció/
 
 # ID-a14WI2q
 # Ver 2022-04-07T03:41:23Z NagyHenrik Stat-New >https://hanyu.baidu.com/zici/s?wd=%E6%80%AF%E5%A4%B4%E6%80%AF%E8%84%91&query=%E6%80%AF%E5%A4%B4%E6%80%AF%E8%84%91&srcid=28232&from=kg0
@@ -4133,6 +4137,10 @@
 # Ver 2019-09-04T16:30:35Z gabor Stat-New >személyes közlés; CEDICT
 蝶泳 蝶泳 [die2 yong3] /pillangó|úszás/
 
+# ID-a76TI3s
+# Ver 2022-05-16T05:49:43Z NagyHenrik Stat-New >.
+同步電動機 同步电动机 [tong2 bu4 dian4 dong4 ji1] /szinkronmotor/
+
 # ID-a76Yu2X
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 播音 播音 [bo1 yin1] /adásban van/ad; sugároz (rádióműsort)/
@@ -5333,6 +5341,10 @@
 # ID-a99Cp1S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 滿意 满意 [man3 yi4] /elégedett/
+
+# ID-a99DO1t
+# Ver 2022-05-16T09:45:07Z NagyHenrik Stat-New >.
+細菌性痢疾 细菌性痢疾 [xi4 jun1 xing4 li4 ji2] /baciláris dizentéria; bacilus okozta vérhas/
 
 # ID-a99KV5u
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -21124,6 +21136,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 深 深 [shen1] /mély/közeli (viszony, érzelem)/sötét (szín)/mélység/mélyen/
 
+# ID-d98Ah1r
+# Ver 2022-05-16T09:40:39Z NagyHenrik Stat-New >.
+菌絲 菌丝 [jun1 si1] /hifa; gombafonal/
+
 # ID-d98Hg6t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 打鐵 打铁 [da3 tie3] /kovácsol/
@@ -29953,6 +29969,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 賬單 账单 [zhang4 dan1] /számla (vásárlásról)/
 
+# ID-f66vA6Z
+# Ver 2022-05-16T02:33:18Z NagyHenrik Stat-New >.
+國調局 国调局 [guo2 diao4 ju2] /Nemzeti Nyomozó Iroda；NNI； Nemzeti Nyomozó Hivatal/
+
 # ID-f66Cc1u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 驢 驴 [lü2] /szamár/SZ:頭|头[tou2]/
@@ -36234,6 +36254,10 @@ X X [X] /X/
 # ID-g86gZ2i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 公 公 [gong1] /nyilvános/köz|tulajdonban levő/állami/nemzetközi (pl. nemzetközi vizek, metrikus rendszer, naptár)/tisztességes/igazságos/herceg/hím (állatokra)/após/
+
+# ID-g86pn1L
+# Ver 2022-05-16T09:42:58Z NagyHenrik Stat-New >.
+結核桿菌 结核杆菌 [jie2 he2 gan3 jun1] /tuberkulózis baktérium; Koch-bacilus; Mycobacterium tuberculosis/
 
 # ID-g86ux0D
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -47142,6 +47166,10 @@ X X [X] /X/
 # ID-i94nl2P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 挽回 挽回 [wan3 hui2] /meg|ment/meg|vált/jóvá|tesz/
+
+# ID-i94nU5t
+# Ver 2022-05-16T09:37:20Z NagyHenrik Stat-New >.
+菌核 菌核 [jun1 he2] /szklerócium/
 
 # ID-i94wO2q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
