@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-05-17T02:00:01Z
+# Időbélyeg / Timestamp: 2022-05-18T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -43585,6 +43585,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 腳手架 脚手架 [jiao3 shou3 jia4] /állványzat; állvány (építkezésen)/
 
+# ID-i25Rj0h
+# Ver 2022-05-17T04:04:11Z NagyHenrik Stat-New >.
+駁殼槍 驳壳枪 [bo2 ke2 qiang1] /Mauser-puska/
+
 # ID-i25SD6Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 經驗 经验 [jing1 yan4] /tapasztal/tapasztalat/
@@ -71652,6 +71656,10 @@ XX XX [x x] /x/
 # ID-n48Vx4w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 涉嫌 涉嫌 [she4 xian2] /gyanúsítják/feltételezik róla, hogy/
+
+# ID-n48XG5m
+# Ver 2022-05-17T02:52:21Z NagyHenrik Stat-New >.
+剪應力 剪应力 [jian3 ying4 li4] /nyírási feszültség; nyírófeszültség; nyíróerő; vágóerő/
 
 # ID-n49eP9v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
