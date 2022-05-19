@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-05-18T02:00:01Z
+# Időbélyeg / Timestamp: 2022-05-19T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -668,6 +668,10 @@
 # 鎿 镎 [na2] /neptúnium (kémiai elem, Np)/
 # Ver 2021-05-31T19:05:49Z gabor Stat-Verif >.
 鎿 镎 [na2] /neptúnium (kémiai elem, Np)/
+
+# ID-a11Jb3l
+# Ver 2022-05-18T03:13:12Z NagyHenrik Stat-New >.
+受精卵 受精卵 [shou4 jing1 luan3] /zigóta; megtermékenyített petesejt/
 
 # ID-a11JH7N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -10544,6 +10548,10 @@
 # ID-c00pS4S
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 潛望鏡 潜望镜 [qian2 wang4 jing4] /periszkóp/
+
+# ID-c00vC6f
+# Ver 2022-05-18T03:14:59Z NagyHenrik Stat-New >.
+卵白 卵白 [luan3 bai2] /tojásfehérje/
 
 # ID-c00wz9u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -25075,6 +25083,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 財政 财政 [cai2 zheng4] /pénz|ügyek (államé)/pénz|ügyi/
 
+# ID-e72FZ6W
+# Ver 2022-05-18T05:53:15Z NagyHenrik Stat-New >.
+德倍禮 德倍礼 [de2 bei4 li3] /Debrett's/
+
 # ID-e72Gs7a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 衰 衰 [shuai1] /hanyatlik/el|gyengül/
@@ -25863,6 +25875,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e90FZ5r
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 女權主義 女权主义 [nü3 quan2 zhu3 yi4] /feminizmus/
+
+# ID-e90GQ2j
+# Ver 2022-05-18T09:15:24Z NagyHenrik Stat-New >.
+乾燥劑 干燥剂 [gan1 zao4 ji4] /szárító adalék； szárítóanyag； szikkatív/
 
 # ID-e90KM1l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -45842,6 +45858,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 一直 一直 [yi1 zhi2] /egyenesen (egyenes vonalban)/folyamatosan/mindig/szüntelen/
 
+# ID-i67Hu8t
+# Ver 2022-05-18T03:08:26Z NagyHenrik Stat-New >.
+體內受精 体内受精 [ti3 nei4 shou4 jing1] /belső megtermékenyülés/
+
 # ID-i67Vb9f
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 耳畔 耳畔 [er3 pan4] /fül (testrész)/
@@ -65074,6 +65094,12 @@ X X [X] /X/
 # ID-m26IH5W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 人家 人家 [ren2 jia1] /háztartás/lakóhely/család/SZ:戶|户[hu4],家[jia1]/
+
+# ID-m26Jb6j
+# Ver 2022-05-18T03:09:24Z NagyHenrik Stat-New >.
+# 體外受精 体外受精 [ti3 wai4 shou4 jing1] /külső megtermékenyülés/
+# Ver 2022-05-18T03:11:27Z NagyHenrik Stat-New >.
+體外受精 体外受精 [ti3 wai4 shou4 jing1] /külső megtermékenyülés; mesterséges megtermékenyítés/
 
 # ID-m26Jf1U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
