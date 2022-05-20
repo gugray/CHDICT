@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-05-19T02:00:01Z
+# Időbélyeg / Timestamp: 2022-05-20T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -46554,6 +46554,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 證據 证据 [zheng4 ju4] /bizonyíték/
 
+# ID-i81OL2y
+# Ver 2022-05-19T14:44:28Z NagyHenrik Stat-New >.
+動員令 动员令 [dong4 yuan2 ling4] /mozgósítási parancs/
+
 # ID-i81Ut9m
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 小說家 小说家 [xiao3 shuo1 jia1] /regény|író/
@@ -67106,6 +67110,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 警長 警长 [jing3 zhang2] /rendőr|főnök/
 
+# ID-m64dn8b
+# Ver 2022-05-19T07:36:44Z NagyHenrik Stat-New >.
+阿諾德勛伯格 阿诺德勋伯格 [a1 nuo4 de2 xun1 bo2 ge2] /Arnold Schönberg/
+
 # ID-m64ex3P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 凍結 冻结 [dong4 jie2] /be|fagyaszt (árakat, béreket stb.)/meg|fagyaszt/
@@ -73855,6 +73863,10 @@ XX XX [x x] /x/
 # 福建 福建 [fu2 jian4] /(földrajzi név) Fucsien; Fujian (Kína egyik keleti tartománya, hivatalosan 省 utótaggal)/
 # Ver 2021-05-27T13:04:06Z gabor Stat-Verif >.
 福建 福建 [fu2 jian4] /(földrajzi név) Fucsien; Fujian (Kína egyik keleti tartománya, hivatalosan 省 utótaggal)/
+
+# ID-n91gT8T
+# Ver 2022-05-19T04:55:01Z NagyHenrik Stat-New >.
+提純復壯 提纯复壮 [ti2 chun2 fu4 zhuang4] /szelekció és fajtamegújítás/
 
 # ID-n91hX7w
 # Ver 2021-03-30T14:27:53Z Adam Stat-New >CC-CEDICT, Wikipedia
