@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-05-20T02:00:01Z
+# Időbélyeg / Timestamp: 2022-05-21T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -3217,6 +3217,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 咳 咳 [ke2] /köhög/
 
+# ID-a58TO3y
+# Ver 2022-05-20T03:16:08Z NagyHenrik Stat-New >.
+硝化甘油 硝化甘油 [xiao1 hua4 gan1 you2] /nitroglicerin/
+
 # ID-a59oq8O
 # Ver 2022-03-10T09:15:13Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E9%9B%87%E4%BD%A3%E5%8A%B3%E5%8A%A8%E8%80%85
 雇傭勞動者 雇佣劳动者 [gu4 yong4 lao2 dong4 zhe3] /bérmunkás/
@@ -6079,6 +6083,10 @@
 # ID-b13ei9o
 # Ver 2022-02-25T07:51:08Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%B1%B4
 汴 汴 [bian4] /A Henan tartományban, Xingyang (荥阳) megye délnyugati részén található Suo folyó (索河) régebbi elnevezése. Eredetileg Bianshui-nak (汴水) hívták, amikor a Sui-dinasztia megnyitotta a Ji-csatornát (济渠), a középső szakasz Xingyangtól Kaifengig (开封) a Bianshui  (汴水)  volt./Bian prefektúra [más néven Bianliangnak (汴梁) vagy Bianjing (汴京)]. Az öt dinasztia idején főváros, ma Kaifeng város rövidítése./[családnév]/
+
+# ID-b13gB7N
+# Ver 2022-05-20T04:25:22Z NagyHenrik Stat-New >.
+雁來紅 雁来红 [yan4 lai2 hong2] /tarka disznóparéj; tarka amaránt; Amaranthus tricolor/
 
 # ID-b13kJ7h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -12099,6 +12107,10 @@
 # Ver 2017-05-27T00:14:19Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
 白肩雕 白肩雕 [bai2 jian1 diao1] /parlagi sas (Aquila heliaca)/
 
+# ID-c31Aq2Z
+# Ver 2022-05-20T03:20:53Z NagyHenrik Stat-New >.
+硝酸銨 硝酸铵 [xiao1 suan1 an3] /ammónium-nitrát; ammonsalétrom/
+
 # ID-c31DX1w
 # Ver 2021-06-07T16:22:29Z gabor Stat-New >ha már van 精湛
 # 湛 湛 [zhan4] /mély/tiszta/
@@ -14487,6 +14499,10 @@
 # ID-c74To0W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 威 威 [wei1] /hatalom/erő/
+
+# ID-c74WW4E
+# Ver 2022-05-20T03:22:50Z NagyHenrik Stat-New >.
+硝酸鈉 硝酸钠 [xiao1 suan1 na4] /nátrium-nitrát/
 
 # ID-c74Xa0A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -32935,6 +32951,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2019-07-03T22:21:58Z GaoYanuo Stat-New >szokásos szótárak
 絕對壓力 绝对压力 [jue2 dui4 ya1 li4] /abszolút nyomás/
 
+# ID-g20Oi4W
+# Ver 2022-05-20T04:13:33Z NagyHenrik Stat-New >.
+繡球藤 绣球藤 [xiu4 qiu2 teng2] /hegyi iszalag; Clematis montana/
+
 # ID-g20Vo6l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 各地 各地 [ge4 di4] /minden|hol/különböző helyeken/
@@ -35994,6 +36014,10 @@ X X [X] /X/
 # ID-g80Tl3U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 遞 递 [di4] /át|ad; továbbít (pl. üzenetet)/fokozatosan; folytatólagosan/
+
+# ID-g80ZN9P
+# Ver 2022-05-20T03:24:01Z NagyHenrik Stat-New >.
+硝酸鹽 硝酸盐 [xiao1 suan1 yan2] /nitrát/
 
 # ID-g81io7y
 # Ver 2017-07-10T20:38:34Z gabor Stat-New >ABC; Wikipedia
@@ -44572,6 +44596,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 戲 戏 [xi4] /dráma/szín|darab/SZ:出[chu1],場|场[chang3],臺|台[tai2]/játszik/viccel/
 
+# ID-i44Fo0o
+# Ver 2022-05-20T07:05:44Z NagyHenrik Stat-New >.
+恆量 恒量 [heng2 liang4] /állandó; konstans/
+
 # ID-i44LN0b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 受傷 受伤 [shou4 shang1] /meg|sérül/meg|sebesül/károsul/
@@ -47812,6 +47840,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 賭場 赌场 [du3 chang3] /kaszinó/
 
+# ID-j05NS5q
+# Ver 2022-05-20T03:15:06Z NagyHenrik Stat-New >.
+硝化 硝化 [xiao1 hua4] /nitrifikál/
+
 # ID-j05SW2t
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 面目可憎 面目可憎 [mian4 mu4 ke3 zeng1] /(kifejezés) vissza|taszító külsejű/
@@ -49885,6 +49917,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 皮特 皮特 [pi2 te4] /(átirat) Peter/
 
+# ID-j43KY8E
+# Ver 2022-05-20T03:19:49Z NagyHenrik Stat-New >.
+硝酸 硝酸 [xiao1 suan1] /salétromsav/
+
 # ID-j43SJ6u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 進來 进来 [jin4 lai2] /be|jön/
@@ -50725,6 +50761,10 @@ X X [X] /X/
 # ID-j59uU9c
 # Ver 2022-04-01T13:37:31Z NagyHenrik Stat-New >.
 構建戰略 构建战略 [gou4 jian4 zhan4 lüe4] /felépít, kidolgoz stratégiát /
+
+# ID-j59xF5Q
+# Ver 2022-05-20T05:36:09Z NagyHenrik Stat-New >.
+盈余資金 盈余资金 [ying2 yu2 zi1 jin1] /tartaléktőke; tartalékalap/
 
 # ID-j59Cd5s
 # Ver 2020-09-15T16:09:39Z gabor Stat-New >Podcast; 相投 nyomán
@@ -53645,6 +53685,10 @@ X X [X] /X/
 # 毛里求斯 毛里求斯 [mao2 li3 qiu2 si1] /(földrajzi név) Mauritius (KNK-ban használatos változat)/
 # Ver 2021-06-11T19:26:26Z gabor Stat-Verif >.
 毛里求斯 毛里求斯 [mao2 li3 qiu2 si1] /(földrajzi név) Mauritius (KNK-ban használatos változat)/
+
+# ID-k14ul4H
+# Ver 2022-05-20T07:37:51Z NagyHenrik Stat-New >.
+慕尼黑 慕尼黑 [mu4 ni2 hei1] /München/
 
 # ID-k14wN5w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -57211,6 +57255,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 莎 莎 [sha1] /(fonetikus átiratokban használt szótag)/
 
+# ID-k82bH5n
+# Ver 2022-05-20T06:57:39Z NagyHenrik Stat-New >.
+遣俘 遣俘 [qian3 fu2] /hazaküldik a hadifoglyokat/
+
 # ID-k82fN5Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 刻板 刻板 [ke4 ban3] /mechanikus; merev; rugalmatlan/lapot farag (nyomtatáshoz)/
@@ -57702,6 +57750,10 @@ X X [X] /X/
 # ID-k91WI9m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 合約 合约 [he2 yue1] /szerződés/egyezmény/
+
+# ID-k92ax5S
+# Ver 2022-05-20T03:22:19Z NagyHenrik Stat-New >.
+硝酸鉀 硝酸钾 [xiao1 suan1 jia3] /kálium-nitrát; kálisalétrom/
 
 # ID-k92cF1J
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -58890,6 +58942,10 @@ X X [X] /X/
 # ID-l12lr3h
 # Ver 2017-12-09T23:02:08Z gabor Stat-New >CEDICT
 排水溝 排水沟 [pai2 shui3 gou1] /csatorna; lefolyó; víz|elvezető/
+
+# ID-l12nh6b
+# Ver 2022-05-20T03:23:33Z NagyHenrik Stat-New >.
+硝酸纖維素 硝酸纤维素 [xiao1 suan1 xian1 wei2 su4] /nitrocellulóz; cellulóz-nitrát; cellulózbevonat/
 
 # ID-l12xT8D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -60675,6 +60731,10 @@ X X [X] /X/
 # Ver 2021-06-11T19:32:10Z gabor Stat-Verif >.
 吉里巴斯 吉里巴斯 [ji2 li3 ba1 si1] /(földrajzi név) Kiribati (Tajvanban használatos változat)/
 
+# ID-l44tl0j
+# Ver 2022-05-20T03:17:49Z NagyHenrik Stat-New >.
+硝石 硝石 [xiao1 shi2] /salétrom/
+
 # ID-l44xr3C
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 即將來臨 即将来临 [ji2 jiang1 lai2 lin2] /közeleg/
@@ -61594,6 +61654,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 偉 伟 [wei3] /nagy; hatalmas/
 
+# ID-l60BH7S
+# Ver 2022-05-20T03:27:40Z NagyHenrik Stat-New >.
+芒硝 芒硝 [mang2 xiao1] /mirabilit; kristályos glaubersó/
+
 # ID-l60Io9T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 各位 各位 [ge4 wei4] /mindenki/mindannyian/
@@ -61849,6 +61913,10 @@ X X [X] /X/
 # ID-l65Rz1H
 # Ver 2017-05-26T10:37:57Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
 防火長城 防火长城 [fang2 huo3 chang2 cheng2] /kínai nagy tűz|fal (internetfelügyelet)/
+
+# ID-l66cU9U
+# Ver 2022-05-20T07:06:53Z NagyHenrik Stat-New >.
+恒生銀行 恒生银行 [heng2 sheng1 yin2 hang2] /Hang Seng Bank/
 
 # ID-l66dE8a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -62527,6 +62595,10 @@ X X [X] /X/
 # Ver 2022-03-29T01:54:34Z NagyHenrik Stat-New >.
 物種歧視 物种歧视 [wu4 zhong3 qi2 shi4] /fajizmus/
 
+# ID-l78fZ8a
+# Ver 2022-05-20T03:15:41Z NagyHenrik Stat-New >.
+硝化棉 硝化棉 [xiao1 hua4 mian2] /nitrocellulóz; cellulóz-nitrát; piroxilin/
+
 # ID-l78ko0s
 # Ver 2021-03-30T14:50:55Z Adam Stat-New >CC-CEDICT, Wikipedia
 # 鍀 锝 [de2] /technécium (kémiai elem, Tc)/
@@ -63021,6 +63093,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 船艙 船舱 [chuan2 cang1] /hajó|tér/hajó|kabin/
 
+# ID-l88xC3S
+# Ver 2022-05-20T07:38:35Z NagyHenrik Stat-New >.
+慕尼黑協定 慕尼黑协定 [mu4 ni2 hei1 xie2 ding4] /müncheni egyezmény (1938)/
+
 # ID-l88ya5i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 鳥喙 鸟喙 [niao3 hui4] /csőr/
@@ -63306,6 +63382,10 @@ X X [X] /X/
 # ID-l93En0G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 領養 领养 [ling3 yang3] /örökbe|fogadás/örökbe|fogad/
+
+# ID-l93GZ5e
+# Ver 2022-05-20T06:45:28Z NagyHenrik Stat-New >.
+塹壕戰 堑壕战 [qian4 hao2 zhan4] /övészárok-háború; állóháború/
 
 # ID-l93HR0F
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -65869,6 +65949,10 @@ X X [X] /X/
 # ID-m41LB0X
 # Ver 2022-03-24T02:23:50Z NagyHenrik Stat-New >.
 節肢動物 节肢动物 [jie2 zhi1 dong4 wu4] /ízeltlábúak; Arthropoda/
+
+# ID-m41LM2y
+# Ver 2022-05-20T07:03:33Z NagyHenrik Stat-New >.
+恆等式 恒等式 [heng2 deng3 shi4] /identikus függvény v. egyenlet/
 
 # ID-m41ND8W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -76558,6 +76642,10 @@ XX XX [x x] /x/
 # ID-o42QA1q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 政務 政务 [zheng4 wu4] /kormányzati ügyek/
+
+# ID-o42QG1r
+# Ver 2022-05-20T04:28:20Z NagyHenrik Stat-New >.
+偽政權 伪政权 [wei3 zheng4 quan2] /bábhatalom/
 
 # ID-o42TC2E
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
