@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-05-21T02:00:01Z
+# Időbélyeg / Timestamp: 2022-05-24T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -13534,6 +13534,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 再三 再三 [zai4 san1] /újra meg újra/ismételten/
 
+# ID-c57nb7O
+# Ver 2022-05-23T08:04:32Z NagyHenrik Stat-New >.
+榔頭 榔头 [lang2 tou5] /kalapács/
+
 # ID-c57qE2m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 耽擱 耽搁 [dan1 ge5] /késik; késlekedik/át|száll; meg|száll/
@@ -15050,6 +15054,10 @@
 # ID-c84yw4r
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 抽打 抽打 [chou1 da3] /meg|korbácsol/
+
+# ID-c84Du8N
+# Ver 2022-05-23T08:04:02Z NagyHenrik Stat-New >.
+狼頭 狼头 [lang2 tou5] /kalapács/
 
 # ID-c84LQ0H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -33494,6 +33502,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 忌諱 忌讳 [ji4 hui4] /tabu/kerül (mint tabut)/tartózkodik (vmitől)/
 
+# ID-g32PE9l
+# Ver 2022-05-23T06:32:04Z NagyHenrik Stat-New >.
+木栓 木栓 [mu4 shuan1] /parafa/
+
 # ID-g32QC3e
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 資料庫 资料库 [zi1 liao4 ku4] /adatbázis/
@@ -34369,6 +34381,10 @@ X X [X] /X/
 # ID-g49mS7B
 # Ver 2022-04-05T13:11:14Z NagyHenrik Stat-New >.
 蟻鴷 蚁䴕 [yi3 lie4] /nyaktekercs；Jynx torquilla/
+
+# ID-g49or9z
+# Ver 2022-05-23T09:17:02Z NagyHenrik Stat-New >.
+摟草機 搂草机 [lou1 cao3 ji1] /gereblye/
 
 # ID-g49tX9f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -42788,6 +42804,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 路易 路易 [lu4 yi4] /(átirat) Louis; Lewis; Lajos/
 
+# ID-i09md3C
+# Ver 2022-05-23T05:42:30Z NagyHenrik Stat-New >.
+犀鳥 犀鸟 [xi1 niao3] /orrszarvúmadár; szarvascsőrű madár; Bucerotidae/
+
 # ID-i09mj4B
 # Ver 2022-02-25T05:29:03Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%A6%81%E5%BE%97%E4%BD%8F
 禁得住 禁得住 [jin4 de2 zhu4] /el tud viselni, tűr, elbír vmit/这把椅子禁得住我坐吗？ Zhè bǎ yǐzi jīndezhù wǒ zuò ma? Ez a szék elbír engem, ha ráülök?      河上的冰已经禁得住人走了。 Hé shàng de bīng yǐjīng jīndezhù rén zǒu le. A folyó jege már elbírja, ha járunk rajta.     他终于没能禁得住诱惑.     Tā zhōngyú méi néng jīndézhù yòuhuò.     Végül nem tudott ellenállni a kísértésnek./
@@ -49868,6 +49888,10 @@ X X [X] /X/
 # ID-j42Na0i
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 先天 先天 [xian1 tian1] /öröklött/vele|született/
+
+# ID-j42Rp3U
+# Ver 2022-05-23T15:42:29Z NagyHenrik Stat-New >.
+自身免疫病 自身免疫病 [zi4 shen1 mian3 yi4 bing4] /autoimmun betegség/
 
 # ID-j42Xr5x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -74289,6 +74313,10 @@ XX XX [x x] /x/
 # ID-n97Rd1c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 料到 料到 [liao4 dao4] /előre lát/számít (vmire)/
+
+# ID-n98cB6w
+# Ver 2022-05-23T06:32:38Z NagyHenrik Stat-New >.
+軟木 软木 [ruan3 mu4] / parafa/
 
 # ID-n98dq4N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
