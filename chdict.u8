@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-05-26T02:00:01Z
+# Időbélyeg / Timestamp: 2022-05-27T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -14991,6 +14991,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 午飯 午饭 [wu3 fan4] /ebéd/
 
+# ID-c83wn9L
+# Ver 2022-05-26T15:08:21Z NagyHenrik Stat-New >.
+精細化工 精细化工 [jing1 xi4 hua4 gong1] /finomvegyszer-ipar; finomvegyszer-feldolgozás/
+
 # ID-c83wV2X
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 改動 改动 [gai3 dong4] /módosít; változtat/
@@ -20543,6 +20547,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-d85Nk6t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 自私 自私 [zi4 si1] /önző/
+
+# ID-d85SL0q
+# Ver 2022-05-26T14:00:48Z NagyHenrik Stat-New >.
+騎行 骑行 [qi2 hang2] /lovagol; lovaglás/
 
 # ID-d85UA0N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -29339,6 +29347,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2022-03-24T01:20:53Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%BB%B7%E7%B0%A7/256203?fr=aladdin
 繃簧 绷簧 [beng1 huang2] /rugó/
 
+# ID-f54cv6a
+# Ver 2022-05-26T14:51:26Z NagyHenrik Stat-New >.
+幫派體係 帮派体系 [bang1 pai4 ti3 xi4] /frakciós szervezet; frakciócsoport/
+
 # ID-f54ji8d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 遭殃 遭殃 [zao1 yang1] /peche van/szerencsétlenség éri/
@@ -32916,6 +32928,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-g20eW4P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 面具 面具 [mian4 ju4] /maszk/
+
+# ID-g20fO6W
+# Ver 2022-05-26T13:58:45Z NagyHenrik Stat-New >.
+俄軍 俄军 [e2 jun1] /Az orosz hadsereg/
 
 # ID-g20gD0B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -80402,6 +80418,10 @@ XX XX [x x] /x/
 # ID-p10Sz2N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 錄 录 [lu4] /rögzít/le|ír/fel|vesz/alkalmaz (embert, állásban)/(családnév) Lu/
+
+# ID-p10Un0l
+# Ver 2022-05-26T08:23:12Z NagyHenrik Stat-New >。
+駝峰調車場 驼峰调车场 [tuo2 feng1 diao4 che1 chang3] /gurítódombos rendező pályaudvar/
 
 # ID-p10Wc2c
 # Ver 2020-07-28T13:33:59Z gabor Stat-New >CEDICT, korpusz, GushiFM E388
