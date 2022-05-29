@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-05-28T02:00:01Z
+# Időbélyeg / Timestamp: 2022-05-29T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -23192,6 +23192,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 彩色 彩色 [cai3 se4] /szín/színes/sok|színű/SZ:種|种[zhong3]/
 
+# ID-e36rZ3v
+# Ver 2022-05-28T06:34:22Z NagyHenrik Stat-New >.
+土壤學 土壤学 [tu3 rang3 xue2] /talajtan; pedológia/
+
 # ID-e36vU6U
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 不成熟 不成熟 [bu4 cheng2 shu2] /éretlen/
@@ -23340,6 +23344,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e38Ie7D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 地步 地步 [di4 bu4] /helyzet/állapot/mérték/mozgás|tér (cselekvési lehetőség)/
+
+# ID-e38If8E
+# Ver 2022-05-28T06:53:42Z NagyHenrik Stat-New >.
+離子泵 离子泵 [li2 zi3 beng4] / ionpumpa/
 
 # ID-e38Le8t
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -32320,6 +32328,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-g09Da9I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 最好 最好 [zui4 hao3] /leg|jobb/
+
+# ID-g09IZ4g
+# Ver 2022-05-28T08:07:56Z NagyHenrik Stat-New >.
+審美學 审美学 [shen3 mei3 xue2] /esztétika/
 
 # ID-g09Jv3v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
