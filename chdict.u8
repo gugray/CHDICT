@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-05-29T02:00:01Z
+# Időbélyeg / Timestamp: 2022-05-30T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -9889,6 +9889,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 狐狸 狐狸 [hu2 li5] /róka/
 
+# ID-b87mS3r
+# Ver 2022-05-29T03:33:34Z NagyHenrik Stat-New >.
+編製限額 编制限额 [bian1 zhi4 xian4 e2] /szervezeti kvóta/
+
 # ID-b87oj8G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 真的 真的 [zhen1 de5] /igazán/igaz-/
@@ -15408,6 +15412,10 @@
 # 欄杆 栏杆 [lan2 gan1] /korlát/
 # Ver 2021-06-14T11:36:26Z gabor Stat-Verif >.
 欄杆 栏杆 [lan2 gan1] /korlát/
+
+# ID-c90zW3Z
+# Ver 2022-05-29T03:54:53Z NagyHenrik Stat-New >.
+薪酬係統 薪酬系统 [xin1 chou2 xi4 tong3] /bérszámfejtő rendszer; bérszámfejtő program; bérszámfejtési rendszer/
 
 # ID-c90Fx9f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
