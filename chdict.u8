@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-05-30T02:00:01Z
+# Időbélyeg / Timestamp: 2022-05-31T02:00:02Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -25842,6 +25842,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 封閉 封闭 [feng1 bi4] /el|tömít/le|zár/el|szigetel/zárt/
 
+# ID-e88Fi8E
+# Ver 2022-05-30T05:55:12Z NagyHenrik Stat-New >.
+糠醛 糠醛 [kang1 quan2] /furfurol/
+
 # ID-e88Kf5p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 保修 保修 [bao3 xiu1] /jótállás/garancia/
@@ -26627,6 +26631,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f04dY8L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 原始 原始 [yuan2 shi3] /eredeti/primitív/ős-/proto-/
+
+# ID-f04dZ6A
+# Ver 2022-05-30T05:54:30Z NagyHenrik Stat-New >.
+醛糖 醛糖 [quan2 tang2] / aldóz/
 
 # ID-f04hP4B
 # Ver 2022-03-24T02:19:35Z NagyHenrik Stat-New >.
@@ -38645,6 +38653,10 @@ X X [X] /X/
 # ID-h28ab6u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 韻文 韵文 [yun4 wen2] /vers (ritmikus próza vagy költemény)/
+
+# ID-h28ae5J
+# Ver 2022-05-30T05:55:34Z NagyHenrik Stat-New >.
+糠醛樹脂 糠醛树脂 [kang1 quan2 shu4 zhi1] /furfurolgyanta/
 
 # ID-h28lI0P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
