@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-06-01T02:00:01Z
+# Időbélyeg / Timestamp: 2022-06-02T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -8111,6 +8111,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 總而言之 总而言之 [zong3 er2 yan2 zhi1] /egyszóval/röviden/mindent összevetve/
 
+# ID-b52Hk0w
+# Ver 2022-06-01T08:55:48Z NagyHenrik Stat-New >。
+安多芬 安多芬 [an1 duo1 fen1] /endorfin/
+
 # ID-b52Lw3z
 # Ver 2022-04-02T08:32:07Z NagyHenrik Stat-New >.
 霹靂可卡因 霹雳可卡因 [pi1 li4 ke3 ka3 yin1] /Crack kokain/
@@ -12220,6 +12224,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 熱愛 热爱 [re4 ai4] /hőn szeret/imád/
 
+# ID-c32QJ6F
+# Ver 2022-06-01T02:53:04Z NagyHenrik Stat-New >.
+耕地流失 耕地流失 [geng1 de5 liu2 shi1] /szántóterület-vesztés/
+
 # ID-c32SK3z
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 組織者 组织者 [zu3 zhi1 zhe3] /szervező/
@@ -13622,6 +13630,10 @@
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 拉麵 拉面 [la1 mian4] /ramen (tésztaféle)/
 
+# ID-c58Dd3R
+# Ver 2022-06-01T02:53:58Z NagyHenrik Stat-New >.
+耕地占用稅 耕地占用税 [geng1 de5 zhan4 yong4 shui4] /termőföldadó/
+
 # ID-c58Fz7Y
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 來生 来生 [lai2 sheng1] /következő élet; túl|világ/
@@ -13851,6 +13863,10 @@
 # ID-c61ON5u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 伸出 伸出 [shen1 chu1] /ki|nyújt/
+
+# ID-c61Tg2o
+# Ver 2022-06-01T04:01:22Z NagyHenrik Stat-New >.
+諾斯特拉達穆斯 诺斯特拉达穆斯 [nuo4 si1 te4 la1 da2 mu4 si1] /Nostradamus/
 
 # ID-c61Xn9c
 # Ver 2017-12-14T21:01:51Z GaoYanuo Stat-New >CC-CEDICT
@@ -33342,6 +33358,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 以致 以致 [yi3 zhi4] /következésképpen/ennek eredményeként/
 
+# ID-g27Nl0W
+# Ver 2022-06-01T08:45:07Z NagyHenrik Stat-New >。
+多巴胺 多巴胺 [duo1 ba1 an4] /dopamin/
+
 # ID-g27NT5D
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 勝仗 胜仗 [sheng4 zhang4] /győzelem/meg|nyert csata/
@@ -42493,6 +42513,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 遞給 递给 [di4 gei3] /tovább|ad/át|ad/
 
+# ID-i02wp2T
+# Ver 2022-06-01T08:56:17Z NagyHenrik Stat-New >。
+內啡肽 内啡肽 [nei4 fei1 tai4] /endorfin/
+
 # ID-i02JR6U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 警徽 警徽 [jing3 hui1] /rendőrségi jelvény/
@@ -46576,6 +46600,10 @@ X X [X] /X/
 # Ver 2019-07-01T16:16:18Z GaoYanuo Stat-New >http://translation-dictionary.net/chinese-english/%E9%99%8D%E8%86%9C%E8%92%B8%E5%8F%91%E5%99%A8
 降膜蒸發器 降膜蒸发器 [jiang4 mo2 zheng1 fa1 qi4] /esőfilmes filmbepárló/
 
+# ID-i79zE2i
+# Ver 2022-06-01T02:41:35Z NagyHenrik Stat-New >.
+耕具 耕具 [geng1 ju4] /talajművelő eszközök/
+
 # ID-i79CS2p
 # Ver 2021-04-03T16:54:47Z Adam Stat-New >Wiktionary ("postposition")
 # 後置詞 后置词 [hou4 zhi4 ci2] /névutó/
@@ -49373,6 +49401,10 @@ X X [X] /X/
 # 族 族 [zu2] /faj; törzs; klán/nemzetiség; nép|csoport; etnikum/csoport (társadalmi csoport)/
 # Ver 2021-05-27T13:16:56Z gabor Stat-Verif >.
 族 族 [zu2] /törzs; klán/nemzetiség; nép|csoport; etnikum/csoport (társadalmi csoport)/fajta; család (hasonló jellemzőkkel rendelkező dolgok vagy emberek)/
+
+# ID-j31kb5p
+# Ver 2022-06-01T06:16:21Z NagyHenrik Stat-New >.
+凱瑟琳德美第奇 凯瑟琳德美第奇 [kai3 se4 lin2 de2 mei3 di4 qi2] /Medici Katalin; Caterina de’ Medici/
 
 # ID-j31lm5O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -73248,6 +73280,10 @@ XX XX [x x] /x/
 # Ver 2022-03-28T05:54:22Z NagyHenrik Stat-New >.
 老人星 老人星 [lao3 ren2 xing1] /Canopus csillag; a Hajógerinc csillagkép főcsillaga/
 
+# ID-n75LX7D
+# Ver 2022-06-02T01:46:45Z NagyHenrik Stat-New >,
+黃金比例 黄金比例 [huang2 jin1 bi3 li4] /aranymetszés/
+
 # ID-n75Qc6v
 # Ver 2021-03-22T17:40:15Z Adam Stat-New >Wikipedia, Wiktionary
 # 昆明市 昆明市 [kun1 ming2 shi4] /Kunming (a dél-kínai Jünnan tartomány székhelye)/
@@ -73411,6 +73447,10 @@ XX XX [x x] /x/
 # ID-n78LJ1n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 燙 烫 [tang4] /éget/le|forráz/forral; főz/forró/vasal/
+
+# ID-n78Pb2Q
+# Ver 2022-06-01T08:56:03Z NagyHenrik Stat-New >。
+腦內啡 脑内啡 [nao3 nei4 fei1] /endorfin/
 
 # ID-n78Qj9Y
 # Ver 2021-04-10T22:51:56Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
