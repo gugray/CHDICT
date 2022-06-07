@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-06-02T02:00:01Z
+# Időbélyeg / Timestamp: 2022-06-07T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -2674,6 +2674,10 @@
 # ID-a48Nj5t
 # Ver 2022-04-04T09:57:36Z NagyHenrik Stat-New >.
 大麻鳽 大麻鳽 [da4 ma2 jian1] /bölömbika; Botaurus stellaris/
+
+# ID-a48SP2p
+# Ver 2022-06-06T02:21:20Z NagyHenrik Stat-New >.
+係詞 系词 [xi4 ci2] /kopula/
 
 # ID-a48Ya4h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -14368,6 +14372,10 @@
 # ID-c70Wx5V
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 軟化 软化 [ruan3 hua4] /meg|lágyít/meg|puhít (vkit)/
+
+# ID-c70Zu6U
+# Ver 2022-06-06T03:55:20Z NagyHenrik Stat-New >.
+大赦 大赦 [da4 she4] /búcsú; indulgentia/
 
 # ID-c71tz4L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -35585,6 +35593,10 @@ X X [X] /X/
 # ID-g69uv9h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 指引 指引 [zhi3 yin3] /irányít/mutat/meg|mutatja az utat/útba|igazítás/
+
+# ID-g69xg5x
+# Ver 2022-06-06T02:21:51Z NagyHenrik Stat-New >.
+薩博瑪格達 萨博玛格达 [sa4 bo2 ma3 ge2 da2] /Szabó Magda/
 
 # ID-g69zd1o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -58688,6 +58700,10 @@ X X [X] /X/
 # ID-l04Nt8I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 珠 珠 [zhu1] /gyöngy/gyöngy|szem/SZ:粒[li4],顆|颗[ke1]/
+
+# ID-l04Qc4r
+# Ver 2022-06-06T02:33:44Z NagyHenrik Stat-New >.
+匈牙利文化貢獻獎 匈牙利文化贡献奖 [xiong1 ya2 li4 wen2 hua4 gong4 xian4 jiang3] /Pro Cultura Hungarica díj v. emlékplakett/
 
 # ID-l05jN8i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
