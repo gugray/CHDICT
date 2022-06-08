@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-06-07T02:00:01Z
+# Időbélyeg / Timestamp: 2022-06-08T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -24305,6 +24305,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 油井 油井 [you2 jing3] /olaj|kút/
 
+# ID-e57mh3G
+# Ver 2022-06-07T03:24:51Z NagyHenrik Stat-New >.
+修道 修道 [xiu1 dao4] /vallási doktrínában elmélyül; vallási tanokat tanulmányoz/
+
 # ID-e57mL8M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 雄獸 雄兽 [xiong2 shou4] /hím (hímnemű állat)/
@@ -48441,6 +48445,10 @@ X X [X] /X/
 # Ver 2022-03-05T08:53:49Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E9%A9%AC%E5%8A%A0%E4%BB%80%E4%B8%80%E4%B8%96/2953412?fr=aladdin
 黑軍 黑军 [hei1 jun1] /a  Fekete sereg (Mátyás király állandó zsoldoshadserege);/
 
+# ID-j14jh0Q
+# Ver 2022-06-07T23:44:18Z NagyHenrik Stat-New >.
+顏麵神經 颜面神经 [yan2 mian4 shen2 jing1] /arcideg/
+
 # ID-j14jB3M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 配合 配合 [pei4 he2] /kooperál/együtt|működik/alkalmas/megfelelő/
@@ -66455,6 +66463,10 @@ X X [X] /X/
 # Ver 2022-04-07T14:44:48Z NagyHenrik Stat-New >.
 藝術化妝 艺术化妆 [yi4 shu4 hua4 zhuang1] /művészi smink, arcfestés/
 
+# ID-m48nb3D
+# Ver 2022-06-07T03:21:50Z NagyHenrik Stat-New >.
+耶穌會 耶稣会 [ye1 su1 hui4] /Jézus Társasága; jezsuita rend; Societas Jesu/
+
 # ID-m48nB5L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 奸計 奸计 [jian1 ji4] /ördögi terv/ármány/
@@ -69593,6 +69605,10 @@ XX XX [x x] /x/
 # ID-n03Zy5S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 葡萄酒 葡萄酒 [pu2 tao5 jiu3] /bor/
+
+# ID-n04cZ3r
+# Ver 2022-06-07T03:18:19Z NagyHenrik Stat-New >.
+超現實主義 超现实主义 [chao1 xian4 shi2 zhu3 yi4] /szürrealizmus/
 
 # ID-n04me2B
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
