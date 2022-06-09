@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-06-08T02:00:01Z
+# Időbélyeg / Timestamp: 2022-06-09T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -6213,6 +6213,10 @@
 # ID-b15kv7C
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 開山祖師 开山祖师 [kai1 shan1 zu3 shi1] /alapító (vallási szektáé, iskoláé)/
+
+# ID-b15ms5e
+# Ver 2022-06-09T01:35:25Z NagyHenrik Stat-New >.
+嬰兒猝死癥 婴儿猝死症 [ying1 er2 cu4 si3 zheng1] /bölcsőhalál; hirtelen csecsemőhalál/
 
 # ID-b15og9W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -42305,6 +42309,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 表彰 表彰 [biao3 zhang1] /elismerőleg említ/dicsér; ki|tüntet/
 
+# ID-h98qu0s
+# Ver 2022-06-09T00:59:36Z NagyHenrik Stat-New >.
+太空探索技術公司 太空探索技术公司 [tai4 kong1 tan4 suo3 ji4 shu4 gong1 si1] /SpaceX; SpaceX amerikai űrkutatási vállalat/
+
 # ID-h98tt8E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 他媽的 他妈的 [ta1 ma1 de5] /(vulgáris, tabu) fenébe/(vulgáris, tabu) bassza meg/
@@ -62589,6 +62597,10 @@ X X [X] /X/
 # Ver 2022-03-20T08:49:35Z NagyHenrik Stat-New >汉语大字典
 偷雞摸狗 偷鸡摸狗 [tou1 ji1 mo1 gou3] /lop; csen; csór; elemel; csakliz/kisstílű, piti tolvaj; tyúktolvaj; karalábézsivány; sivár (szleng)/szoknyapecér; szoknyabolond; nőcsábász /
 
+# ID-l75vi6j
+# Ver 2022-06-08T09:28:25Z NagyHenrik Stat-New >。
+瑪塔哈麗 玛塔哈丽 [ma3 ta3 ha1 li4] /Mata Hari /
+
 # ID-l75xb7p
 # Ver 2019-02-05T16:52:54Z Adam Stat-New >Pleco-szótárak, Wiktionary stb.
 # 壁紙 壁纸 [bi4 zhi3] /tapéta/
@@ -64387,6 +64399,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 稱為 称为 [cheng1 wei2] /nevez (vminek)/nevezik (vminek)/
 
+# ID-m09PM3K
+# Ver 2022-06-09T01:04:11Z NagyHenrik Stat-New >.
+阻塞振盪器 阻塞振荡器 [zu3 se4 zhen4 dang4 qi4] /önzáróoszcillátor/
+
 # ID-m09Vf6X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 奔波 奔波 [ben1 bo1] /siet; sürög-forog/tüsténkedik/
@@ -65748,6 +65764,10 @@ X X [X] /X/
 # 公用 公用 [gong1 yong4] /nyilvános (pl. telefon)/
 # Ver 2019-11-08T19:20:18Z gabor Stat-Verif >.
 公用 公用 [gong1 yong4] /nyilvános (pl. telefon)/
+
+# ID-m35fI9N
+# Ver 2022-06-09T01:06:35Z NagyHenrik Stat-New >.
+公因子 公因子 [gong1 yin1 zi3] /közös tényező; közös osztó/
 
 # ID-m35im2z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -67756,6 +67776,10 @@ XX XX [x x] /x/
 # ID-m70WL2S
 # Ver 2022-04-07T14:40:29Z NagyHenrik Stat-New >.
 藝術形式 艺术形式 [yi4 shu4 xing2 shi4] /művészeti forma/
+
+# ID-m70Yp7s
+# Ver 2022-06-09T01:06:01Z NagyHenrik Stat-New >.
+最大公因子 最大公因子 [zui4 da4 gong1 yin1 zi3] /a legnagyobb közös osztó/
 
 # ID-m71ik5F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
