@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-06-09T02:00:01Z
+# Időbélyeg / Timestamp: 2022-06-10T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -31009,6 +31009,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f83Gd6C
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 明證 明证 [ming2 zheng4] /egyértelmű bizonyíték/
+
+# ID-f83IQ0Y
+# Ver 2022-06-09T08:39:56Z NagyHenrik Stat-New >.
+副交感神經 副交感神经 [fu4 jiao1 gan3 shen2 jing1] /paraszimpatikus ideg/
 
 # ID-f83ZE3e
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
