@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-06-10T02:00:01Z
+# Időbélyeg / Timestamp: 2022-06-11T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -16165,6 +16165,10 @@
 # Ver 2022-04-02T09:16:47Z NagyHenrik Stat-New >.\n
 第二次中日戰爭 第二次中日战争 [di4 er4 ci4 zhong1 ri4 zhan4 zheng1] /második kínai–japán háború (1937. július 7. – 1945. szeptember 9.) /
 
+# ID-d03TN5x
+# Ver 2022-06-10T04:00:29Z NagyHenrik Stat-New >.
+流轉稅 流转税 [liu2 zhuan3 shui4] /forgalmi adó/
+
 # ID-d03UF9s
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 磨光 磨光 [mo2 guang1] /políroz/
@@ -18702,6 +18706,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-d51yR7D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 受害人 受害人 [shou4 hai4 ren2] /áldozat (sérült\károsult ember)/
+
+# ID-d51GH2n
+# Ver 2022-06-10T08:32:29Z NagyHenrik Stat-New >.
+開普敦 开普敦 [kai1 pu3 dun1] /Cape Town/
 
 # ID-d51Hw4W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -23829,6 +23837,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 檢討 检讨 [jian3 tao3] /ön|kritikát végez/ön|kritika/felül|vizsgál; alaposan meg|tárgyal/
 
+# ID-e46VJ6C
+# Ver 2022-06-10T04:32:36Z NagyHenrik Stat-New >.
+耶和華 耶和华 [ye1 he2 hua2] /Jehova; YHVH/
+
 # ID-e47me8s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 判決 判决 [pan4 jue2] /ítélet (bírósági)/ítélkezik/
@@ -26737,6 +26749,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # 姐夫 姐夫 [jie3 fu5] /sógor (nővér férje)/
 # Ver 2017-12-18T20:14:11Z gabor Stat-Verif >.
 姐夫 姐夫 [jie3 fu5] /sógor (nővér férje)/
+
+# ID-f05Fx2J
+# Ver 2022-06-10T07:58:13Z NagyHenrik Stat-New >.
+四人幫 四人帮 [si4 ren2 bang1] /A négyek bandája/
 
 # ID-f05JF6d
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -38977,6 +38993,10 @@ X X [X] /X/
 # ID-h34bz9h
 # Ver 2022-04-12T14:15:17Z NagyHenrik Stat-New >.
 囊蟲病 囊虫病 [nang2 chong2 bing4] /borsókakór/
+
+# ID-h34jZ8X
+# Ver 2022-06-10T04:21:38Z NagyHenrik Stat-New >.
+浸禮會 浸礼会 [jin4 li3 hui4] /baptista egyház/
 
 # ID-h34rj9L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
