@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-06-11T02:00:01Z
+# Időbélyeg / Timestamp: 2022-06-13T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -6395,6 +6395,10 @@
 # ID-b18hq8C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 姐姐 姐姐 [jie3 jie5] /nővér (idősebb lánytestvér)/
+
+# ID-b18kk1w
+# Ver 2022-06-12T03:16:35Z NagyHenrik Stat-New >.
+分支程序 分支程序 [fen1 zhi1 cheng2 xu4] /elágazásos program/
 
 # ID-b18ko1o
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -18875,6 +18879,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 據悉 据悉 [ju4 xi1] /a hírek szerint/
 
+# ID-d54Je5W
+# Ver 2022-06-12T02:49:40Z NagyHenrik Stat-New >.
+前列腺癌癥基金會總部 前列腺癌症基金会总部 [qian2 lie4 xian4 ai2 zheng1 ji1 jin1 hui4 zong3 bu4] /Prosztatarák Ellenes Alapítvány székhelye/
+
 # ID-d54VX0A
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 通關 通关 [tong1 guan1] /át|megy a vámon/
@@ -21207,6 +21215,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # 舊石器時代 旧石器时代 [jiu4 shi2 qi4 shi2 dai4] /ős|kőkorszak; paleolitikum/
 # Ver 2022-04-02T09:51:15Z NagyHenrik Stat-Verif >.
 舊石器時代 旧石器时代 [jiu4 shi2 qi4 shi2 dai4] /ős|kőkorszak; paleolitikum; régi kőkorszak, őskőkor; pattintottkő-korszak/
+
+# ID-d97TM6v
+# Ver 2022-06-12T02:55:48Z NagyHenrik Stat-New >.
+聯合國發展集團 联合国发展集团 [lian2 he2 guo2 fa1 zhan3 ji2 tuan2] /Egyesült Nemzetek Fejlesztési Csoportja/
 
 # ID-d97Xb7q
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -35970,6 +35982,10 @@ X X [X] /X/
 # ID-g75Bn4b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 太空 太空 [tai4 kong1] /világ|űr/
+
+# ID-g75FT3B
+# Ver 2022-06-12T08:04:29Z NagyHenrik Stat-New >.
+靜止軌道 静止轨道 [jing4 zhi3 gui3 dao4] /geostacionárius keringési pálya/
 
 # ID-g75Gs5l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -56882,6 +56898,10 @@ X X [X] /X/
 # Ver 2022-04-12T03:03:53Z NagyHenrik Stat-New >.
 紙幣 纸币 [zhi3 bi4] /bankjegy, papírpénz, papírvaluta/
 
+# ID-k71Ri7R
+# Ver 2022-06-12T07:17:20Z NagyHenrik Stat-New >。
+衍射線 衍射线 [yan3 she4 xian4] /szórt v. elhajlított hullám； diffraktált hullám/
+
 # ID-k71Us2B
 # Ver 2017-11-30T14:16:24Z GaoYanuo Stat-New >https://baike.baidu.com/item/%E8%9C%80%E7%8A%AC%E5%90%A0%E6%97%A5
 # 蜀犬吠日 蜀犬吠日 [shu3 quan3 fei4 ri4] /Szecsuáni kutya ugatja a napot; bámul, mint borjú az új kapura (A szecsuáni éghajlat nagyon párás, ritkán látják a napot.)/
@@ -57523,6 +57543,10 @@ X X [X] /X/
 # 慕田峪 慕田峪 [mu4 tian2 yu4] /(földrajzi név) Mutienjü; Mutianyu (a kínai nagy fal egy szakasza Peking közelében, a világörökség része)/
 # Ver 2021-05-26T12:30:32Z gabor Stat-Verif >.
 慕田峪 慕田峪 [mu4 tian2 yu4] /(földrajzi név) Mutienjü; Mutianyu (a kínai nagy fal egy szakasza Peking közelében, a világörökség része)/
+
+# ID-k83IL0U
+# Ver 2022-06-12T06:12:47Z NagyHenrik Stat-New >。
+旋渦星雲 旋涡星云 [xuan2 wo1 xing1 yun2] /spirális csillagköd/
 
 # ID-k83Lq7B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -65254,6 +65278,10 @@ X X [X] /X/
 # ID-m24pX4b
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 異教 异教 [yi4 jiao4] /pogányság/
+
+# ID-m24xD2x
+# Ver 2022-06-12T07:28:08Z NagyHenrik Stat-New >.
+吸力計 吸力计 [xi1 li4 ji4] /szívóoldali feszmérő; vákuummérő/
 
 # ID-m24AV1I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -79965,6 +79993,10 @@ XX XX [x x] /x/
 # ID-p00XO4z
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 夢想家 梦想家 [meng4 xiang3 jia1] /álmodozó; ábrándos/
+
+# ID-p01hk4z
+# Ver 2022-06-12T09:47:15Z NagyHenrik Stat-New >。
+比屬剛果 比属刚果 [bi3 shu3 gang1 guo3] /Belga Kongó/
 
 # ID-p01hB1Z
 # Ver 2020-01-18T15:48:51Z gabor Stat-New >cedict; gushifm 307
