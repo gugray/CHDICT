@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-06-13T02:00:01Z
+# Időbélyeg / Timestamp: 2022-06-14T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -54431,6 +54431,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 拳 拳 [quan2] /ököl/boksz/
 
+# ID-k24ey3o
+# Ver 2022-06-13T09:00:15Z NagyHenrik Stat-New >.
+懲罰性賠償製度 惩罚性赔偿制度 [cheng2 fa2 xing4 pei2 chang2 zhi4 du4] /büntető kártérítési rendszer/
+
 # ID-k24lO7D
 # Ver 2022-03-28T02:58:49Z NagyHenrik Stat-New >.
 仙女座 仙女座 [xian1 nü3 zuo4] /Andromeda csillagkép/
@@ -76959,6 +76963,10 @@ XX XX [x x] /x/
 # ID-o43Wv5A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 頂尖 顶尖 [ding3 jian1] /csúcs/világ|első/
+
+# ID-o44bn3v
+# Ver 2022-06-13T10:18:23Z NagyHenrik Stat-New >.
+昆蟲學家 昆虫学家 [kun1 chong2 xue2 jia1] /erovartudós, entomológus /
 
 # ID-o44fz4t
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
