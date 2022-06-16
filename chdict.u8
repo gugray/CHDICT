@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-06-15T02:00:01Z
+# Időbélyeg / Timestamp: 2022-06-16T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -3848,6 +3848,10 @@
 # ID-a71Km2y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 粗心 粗心 [cu1 xin1] /hanyag/gondatlan/meg|gondolatlan/
+
+# ID-a71Lp7u
+# Ver 2022-06-15T03:29:38Z NagyHenrik Stat-New >。
+耀斑 耀斑 [yao4 ban1] /napkitörés/
 
 # ID-a71Nd1F
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -13801,6 +13805,10 @@
 # Ver 2021-06-18T20:16:27Z gabor Stat-Verif >.
 # Ver 2021-06-18T20:17:41Z gabor Stat-Verif >upsz, jelentés törlése tévedés volt
 烏茲別克 乌兹别克 [wu1 zi1 bie2 ke4] /(földrajzi név) Üzbegisztán (Tajvanban használatos változat)/üzbég/
+
+# ID-c60iT4X
+# Ver 2022-06-15T06:09:56Z NagyHenrik Stat-New >。
+綠鳩 绿鸠 [lü4 jiu1] /fehérhasú lombgalamb；Treron sieboldii/
 
 # ID-c60oL4u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -27622,6 +27630,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 年輕 年轻 [nian2 qing1] /fiatal/
 
+# ID-f20Qi9T
+# Ver 2022-06-15T02:30:05Z NagyHenrik Stat-New >.
+拉曼人 拉曼人 [la1 man4 ren2] /lámániták /
+
 # ID-f20Sa4B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 會談 会谈 [hui4 tan2] /megbeszélés/tárgyalás/SZ:次[ci4]/
@@ -31726,6 +31738,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # 錄音帶 录音带 [lu4 yin1 dai4] /hang|kazetta/mágnes|szalag/SZ:盤|盘[pan2],盒[he2]/
 # Ver 2017-05-27T20:00:13Z Adam Stat-Verif >+ szinonima
 錄音帶 录音带 [lu4 yin1 dai4] /hang|kazetta; hang|szalag/mágnes|szalag/SZ:盤|盘[pan2],盒[he2]/
+
+# ID-f97xD1x
+# Ver 2022-06-15T02:23:33Z NagyHenrik Stat-New >.
+安底帕斯 安底帕斯 [an1 di3 pa4 si1] /Antipus/
 
 # ID-f97yT7U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -42283,6 +42299,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 池塘 池塘 [chi2 tang2] /tó/tavacska/
 
+# ID-h96dL4D
+# Ver 2022-06-15T02:32:24Z NagyHenrik Stat-New >.
+急行軍 急行军 [ji2 xing2 jun1] /erőltetett menetben halad/
+
 # ID-h96jS3m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 慰問 慰问 [wei4 wen4] /részvétet nyilvánít/ki|fejezi jó|kívánságait/együtt|érzéséről biztosítja/vigasztal/
@@ -44093,6 +44113,10 @@ X X [X] /X/
 # ID-i30Hd2m
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 浩大 浩大 [hao4 da4] /hatalmas/rengeteg/
+
+# ID-i30Sw1Y
+# Ver 2022-06-15T03:52:58Z NagyHenrik Stat-New >.
+周邊國家 周边国家 [zhou1 bian1 guo2 jia1] /környező, szomszédos országok/
 
 # ID-i30YH8n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -65655,6 +65679,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 最終 最终 [zui4 zhong1] /utolsó/végső/
 
+# ID-m31cV0g
+# Ver 2022-06-15T02:39:49Z NagyHenrik Stat-New >.
+眼淚之路 眼泪之路 [yan3 lei4 zhi1 lu4] /a Könnyek útja/
+
 # ID-m31ia9J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 叼 叼 [diao1] /szájban tart/
@@ -65716,6 +65744,10 @@ X X [X] /X/
 # 復旦大學 复旦大学 [fu4 dan4 da4 xue2] /(tulajdonnév) Fudan Egyetem/
 # Ver 2021-07-01T15:35:30Z gabor Stat-Verif >.
 復旦大學 复旦大学 [fu4 dan4 da4 xue2] /(tulajdonnév) Fudan Egyetem/
+
+# ID-m32gl9P
+# Ver 2022-06-15T03:31:30Z NagyHenrik Stat-New >.
+耀武揚威 耀武扬威 [yao4 wu3 yang2 wei1] /erejét fitogtatja; henceg az erejével/
 
 # ID-m32ia7V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -76009,6 +76041,10 @@ XX XX [x x] /x/
 # 正確 正确 [zheng4 que4] /helyes (igaz)/pontos/
 # Ver 2018-04-24T15:20:05Z GaoYanuo Stat-Verif >korpusz, \nhttps://www.purpleculture.net/sample-sentences/?word=%E6%AD%A3%E7%A1%AE\nhttp://ce.linedict.com/dict.html#/cnen/example?query=%E6%AD%A3%E7%A1%AE
 正確 正确 [zheng4 que4] /helyes (igaz)/pontos/igaza van/
+
+# ID-o25rd6U
+# Ver 2022-06-15T06:14:16Z NagyHenrik Stat-New >.
+桄榔 桄榔 [guang1 lang2] /cukorpálma; Arenga pinnata/
 
 # ID-o25zb3q
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
