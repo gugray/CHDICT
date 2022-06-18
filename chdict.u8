@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-06-17T02:00:01Z
+# Időbélyeg / Timestamp: 2022-06-18T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -18647,6 +18647,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 下落 下落 [xia4 luo4] /hollét/le|esik/esik/
 
+# ID-d49Lh3e
+# Ver 2022-06-17T08:10:48Z NagyHenrik Stat-New >.
+奧泰羅 奥泰罗 [ao4 tai4 luo1] /Otelló/
+
 # ID-d49Ss6u
 # Ver 2022-03-14T06:29:47Z NagyHenrik Stat-New >https://zh.wikipedia.org/wiki/10%E7%9A%84%E5%B9%82
 千京 千京 [qian1 jing1] /tíztrillió；Tíz tizenkilencedik hatványa；ttr/
@@ -21630,6 +21634,12 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e04na8V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 莫名其妙 莫名其妙 [mo4 ming2 qi2 miao4] /(kifejezés) érthetetlen; meg|magyarázhatatlan/
+
+# ID-e04rH6a
+# Ver 2022-06-17T08:11:10Z NagyHenrik Stat-New >.
+# 黛絲德蒙娜 黛丝德蒙娜 [dai4 si1 de2 meng2 nuo2] /Desdemona/
+# Ver 2022-06-17T08:12:58Z NagyHenrik Stat-New >.
+黛絲德蒙娜 黛丝德蒙娜 [dai4 si1 de2 meng2 na4] /Desdemona/
 
 # ID-e04yk0I
 # Ver 2019-05-05T20:21:06Z GaoYanuo Stat-New >tanár, CC-CEDICT
@@ -47225,6 +47235,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 啃 啃 [ken3] /rág; rágcsál/harap/
 
+# ID-i88XL3k
+# Ver 2022-06-17T06:31:33Z NagyHenrik Stat-New >.
+阿拉巴馬州 阿拉巴马州 [a1 la1 ba1 ma3 zhou1] /AL；Alabama/
+
 # ID-i89kY7Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 硬件 硬件 [ying4 jian4] /hardver/
@@ -71384,6 +71398,10 @@ XX XX [x x] /x/
 # ID-n36hS1g
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 語句 语句 [yu3 ju4] /mondat/
+
+# ID-n36ij5h
+# Ver 2022-06-17T06:34:36Z NagyHenrik Stat-New >.
+美屬薩摩亞 美属萨摩亚 [mei3 shu3 sa4 mo2 ya4] /AS; Amerikai Szamoa; Kelet-Szamoa/
 
 # ID-n36mO9f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
