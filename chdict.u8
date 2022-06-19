@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-06-18T02:00:01Z
+# Időbélyeg / Timestamp: 2022-06-19T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -63674,6 +63674,10 @@ X X [X] /X/
 # ID-l93nQ0M
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 車輪 车轮 [che1 lun2] /kerék (járműé)/
+
+# ID-l93nY6j
+# Ver 2022-06-18T06:52:30Z NagyHenrik Stat-New >.
+阿基裡斯 阿基里斯 [a1 ji1 li3 si1] /Akhillész/
 
 # ID-l93nY7l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
