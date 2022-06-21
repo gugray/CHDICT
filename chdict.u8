@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-06-20T02:00:02Z
+# Időbélyeg / Timestamp: 2022-06-21T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -13001,6 +13001,10 @@
 # ID-c46Ct8U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 幻想 幻想 [huan4 xiang3] /illúzió/fantázia/illúziókat táplál/
+
+# ID-c46IU2X
+# Ver 2022-06-21T01:23:08Z NagyHenrik Stat-New >.
+介入放射學 介入放射学 [jie4 ru4 fang4 she4 xue2] /intervenciós radiológia/
 
 # ID-c46Of0D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -46360,6 +46364,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 利害 利害 [li4 hai5] /szörnyű; félelmetes; rettentő/fantasztikus; nagyszerű; remek; irtó jó/
 
+# ID-i70SB5L
+# Ver 2022-06-20T04:37:48Z NagyHenrik Stat-New >.
+耳廓 耳廓 [er3 kuo4] /fülkagyló/
+
 # ID-i70Wj0B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 街道 街道 [jie1 dao4] /utca/SZ:條|条[tiao2]/lakó|negyed/környék/
@@ -58759,6 +58767,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 夫人 夫人 [fu1 ren5] /hölgy/feleség/-né (utótagként)/SZ:位[wei4]/
 
+# ID-l03ax2s
+# Ver 2022-06-20T04:23:25Z NagyHenrik Stat-New >.
+鳥籠 鸟笼 [niao3 long2] /madárkalitka/
+
 # ID-l03aL1E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 魔術師 魔术师 [mo2 shu4 shi1] /bűvész/
@@ -59896,6 +59908,10 @@ X X [X] /X/
 # 公公 公公 [gong1 gong5] /após (férj apja)/
 # Ver 2017-12-12T22:21:53Z gabor Stat-Verif >.
 公公 公公 [gong1 gong5] /após (férj apja)/
+
+# ID-l23vl4N
+# Ver 2022-06-20T02:44:07Z NagyHenrik Stat-New >.
+重量級國家領導人 重量级国家领导人 [zhong4 liang4 ji2 guo2 jia1 ling3 dao3 ren2] /a legbefolyásosabb országok vezetői/
 
 # ID-l23xz9Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -68394,6 +68410,10 @@ XX XX [x x] /x/
 # ID-m78mE5q
 # Ver 2022-03-24T03:18:49Z NagyHenrik Stat-New >.
 蟾蜍科 蟾蜍科 [chan2 chu2 ke1] /varangyfélék; Bufonidae/
+
+# ID-m78nX8M
+# Ver 2022-06-20T02:44:55Z NagyHenrik Stat-New >.
+重量級國家 重量级国家 [zhong4 liang4 ji2 guo2 jia1] /a legbefolyásosabb országok /
 
 # ID-m78ob3o
 # Ver 2022-04-02T07:17:15Z NagyHenrik Stat-New >.
