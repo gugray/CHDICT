@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-06-21T02:00:01Z
+# Időbélyeg / Timestamp: 2022-06-22T02:00:02Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -1520,6 +1520,10 @@
 # ID-a28mt5i
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 捕鼠器 捕鼠器 [bu3 shu3 qi4] /egérfogó/
+
+# ID-a28pa1g
+# Ver 2022-06-21T05:27:53Z NagyHenrik Stat-New >.
+麝鼠 麝鼠 [she4 shu3] /pézsmapocok; pézsmapatkány; Ondatra zibethicus/
 
 # ID-a28yl4A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -13922,6 +13926,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 蜜蜂 蜜蜂 [mi4 feng1] /méh; méhecske/SZ:隻|只[zhi1],群[qun2]/
 
+# ID-c62fJ5H
+# Ver 2022-06-22T01:05:00Z NagyHenrik Stat-New >.
+及物動詞 及物动词 [ji2 wu4 dong4 ci2] /tárgyas ige/
+
 # ID-c62nf1w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 媽媽 妈妈 [ma1 ma5] /anya/mama/SZ:個|个[ge4],位[wei4]/
@@ -15854,6 +15862,10 @@
 # ID-c96Cl5h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 飽經滄桑 饱经沧桑 [bao3 jing1 cang1 sang1] /(kifejezés) sok hányattatást megélt/
+
+# ID-c96FQ0d
+# Ver 2022-06-21T12:46:46Z NagyHenrik Stat-New >,
+頻率失真 频率失真 [pin2 lü4 shi1 zhen1] /frekvenciatorzítás/
 
 # ID-c96Jp1j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -19811,6 +19823,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 伽 伽 [jia1] /(írásjegy; önállóan nem használatos)/
 
+# ID-d70kI7p
+# Ver 2022-06-21T11:12:49Z NagyHenrik Stat-New >.
+復音 复音 [fu4 yin1] /összetett hang/
+
 # ID-d70og9q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 蠟燭 蜡烛 [la4 zhu2] /gyertya/SZ:根[gen1],支[zhi1]/
@@ -22354,6 +22370,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e19eL6b
 # Ver 2022-04-04T10:59:28Z NagyHenrik Stat-New >.
 雀形目 雀形目 [que4 xing2 mu4] /verébalakúak; énekesmadár-alakúak; Passeriformes/
+
+# ID-e19oy4U
+# Ver 2022-06-21T04:22:12Z NagyHenrik Stat-New >.
+近視眼鏡 近视眼镜 [jin4 shi4 yan3 jing4] /rövidlátó szemüveg/
 
 # ID-e19pA1O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -28887,6 +28907,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 解釋 解释 [jie3 shi4] /magyarázat/SZ:個|个[ge4]/meg|magyaráz/értelmez/
 
+# ID-f44qY3A
+# Ver 2022-06-21T05:49:52Z NagyHenrik Stat-New >.
+等音 等音 [deng3 yin1] /enharmonikus hang/
+
 # ID-f44rD9y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 姐 姐 [jie3] /nővér (idősebb lánytestvér)/
@@ -33384,6 +33408,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2019-07-01T16:19:48Z GaoYanuo Stat-Verif >forrás: munkahely
 加 加 [jia1] /hozzá|ad/plusz/fölösleg (kémiában, vegyiparban)/
 
+# ID-g26aH7P
+# Ver 2022-06-21T12:43:20Z NagyHenrik Stat-New >.
+舌麵后音 舌面后音 [she2 mian4 hou4 yin1] /veláris hang/
+
 # ID-g26cV8V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 同伴 同伴 [tong2 ban4] /társ/kolléga/
@@ -35202,6 +35230,10 @@ X X [X] /X/
 # 商 商 [shang1] /kereskedelem/kereskedő/üzlet/hányados/(a pentaton skála 2. foka)/Sang-dinasztia (i.e. 1600–1046)/(családnév) Shang/
 # Ver 2017-06-04T17:14:53Z Adam Stat-Verif >+ címke a dinasztiához
 商 商 [shang1] /kereskedelem/kereskedő/üzlet/hányados/(a pentaton skála 2. foka)/(tulajdonnév) Sang-dinasztia (i.e. 1600–1046)/(családnév) Shang/
+
+# ID-g59jm2G
+# Ver 2022-06-21T12:00:10Z NagyHenrik Stat-New >.
+姆夫蒂 姆夫蒂 [mu3 fu1 di4] /mufti; muszlim jogtudós/
 
 # ID-g59jY3S
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -73458,6 +73490,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 變暗 变暗 [bian4 an4] /el|sötétül/el|sötétít/
 
+# ID-n73qx2F
+# Ver 2022-06-21T06:05:37Z NagyHenrik Stat-New >.
+剔紅 剔红 [ti1 hong2] /vésett lakkmunka/
+
 # ID-n73rM9L
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 掩 掩 [yan3] /el|fed; el|rejt/be|csuk/meg|lep; le|rohan/
@@ -74083,6 +74119,10 @@ XX XX [x x] /x/
 # ID-n85Nc0P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 歉意 歉意 [qian4 yi4] /bocsánat|kérés/meg|bánás/
+
+# ID-n86cc9n
+# Ver 2022-06-21T12:41:39Z NagyHenrik Stat-New >.
+舌尖前音 舌尖前音 [she2 jian1 qian2 yin1] /dentális hang/
 
 # ID-n86dG3i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
