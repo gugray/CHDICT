@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-06-22T02:00:02Z
+# Időbélyeg / Timestamp: 2022-06-23T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -10815,6 +10815,12 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 氣質 气质 [qi4 zhi4] /vérmérséklet/temperamentum/hajlam/
 
+# ID-c04ot4e
+# Ver 2022-06-22T02:30:39Z NagyHenrik Stat-New >.
+# 校勘學 校勘学 [xiao4 kan1 xue2] /szövegkritika; szövegtan/
+# Ver 2022-06-22T06:16:06Z NagyHenrik Stat-New >。
+校勘學 校勘学 [jiao4 kan1 xue2] /szövegkritika; szövegtan/
+
 # ID-c04oM6A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 面談 面谈 [mian4 tan2] /interjú/személyes megbeszélés/
@@ -17474,6 +17480,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 行李箱 行李箱 [xing2 li5 xiang1] /koffer/bőrönd/csomag|tartó/
 
+# ID-d26VB4i
+# Ver 2022-06-22T02:22:17Z NagyHenrik Stat-New >.
+六書 六书 [liu4 shu1] /a kínai írásjegyek hatféle típusa/
+
 # ID-d26VE1I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 重重 重重 [zhong4 zhong4] /súlyos; komoly/
@@ -20840,6 +20850,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 防禦 防御 [fang2 yu4] /meg|véd/védekezés/védelem (stratégiai, hadi)/
 
+# ID-d89ds7H
+# Ver 2022-06-23T00:47:38Z NagyHenrik Stat-New >.
+偵察飛行 侦察飞行 [zhen1 cha2 fei1 xing2] /felderítő repülés/
+
 # ID-d89rD4h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 螺絲 螺丝 [luo2 si1] /csavar (dolgok rögzítésére használt tárgy)/
@@ -21992,6 +22006,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e11fb8U
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 種族主義 种族主义 [zhong3 zu2 zhu3 yi4] /rasszizmus/etnocentrizmus/
+
+# ID-e11iE9i
+# Ver 2022-06-23T01:55:58Z NagyHenrik Stat-New >.
+麻風病人 麻风病人 [ma2 feng1 bing4 ren2] /leprás; bélpoklos/
 
 # ID-e11rP0v
 # Ver 2022-03-04T02:39:22Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%A4%9A%E8%BE%B9%E5%BD%A2
@@ -39754,6 +39772,10 @@ X X [X] /X/
 # ID-h47Jk2m
 # Ver 2017-05-23T20:52:17Z Adam Stat-New >Wiktionary, ellenőrzött Google Translate-fordítás
 酸奶油 酸奶油 [suan1 nai3 you2] /tejföl/
+
+# ID-h47Mo2c
+# Ver 2022-06-22T02:57:11Z NagyHenrik Stat-New >.
+生理缺陷 生理缺陷 [sheng1 li3 que1 xian4] /fiziológiai hiányosság/
 
 # ID-h47MN6P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -58309,6 +58331,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 庭審 庭审 [ting2 shen3] /bírósági tárgyalás/
 
+# ID-k95hC2g
+# Ver 2022-06-22T06:55:26Z NagyHenrik Stat-New >。
+絲綢之路經濟帶 丝绸之路经济带 [si1 chou2 zhi1 lu4 jing1 ji4 dai4] /Selyemút gazdasági övezet/
+
 # ID-k95hY7v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 賢 贤 [xian2] /erényes/méltó/rá|termett; tehetséges/
@@ -64320,6 +64346,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 論述 论述 [lun4 shu4] /tárgyal; ki|fejt; értekezik (témáról)/diskurzus/
 
+# ID-m05qw3p
+# Ver 2022-06-22T06:14:37Z NagyHenrik Stat-New >。
+迂回戰術 迂回战术 [yu1 hui2 zhan4 shu4] /bekerítő taktika/
+
 # ID-m05tM8T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 強度 强度 [qiang2 du4] /erősség/intenzitás/
@@ -67808,6 +67838,10 @@ XX XX [x x] /x/
 # ID-m67vY3d
 # Ver 2022-04-04T10:51:41Z NagyHenrik Stat-New >.
 禿鸛 秃鹳 [tu1 guan4] /afrikai marabu; Leptoptilos crumeniferus/
+
+# ID-m67wc9r
+# Ver 2022-06-23T00:50:23Z NagyHenrik Stat-New >.
+偵察機 侦察机 [zhen1 cha2 ji1] /felderítő repülőgép/
 
 # ID-m67wt2X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -79924,6 +79958,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 區域 区域 [qu1 yu4] /régió/zóna/terület/kerület/
 
+# ID-o94Te9e
+# Ver 2022-06-23T01:55:32Z NagyHenrik Stat-New >.
+麻風 麻风 [ma2 feng1] /lepra; bélpoklosság/
+
 # ID-o94WL9G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 通 通 [tong1] /át|megy/keresztül|megy/össze|köt/össze|kapcsol/jól ismer/(számlálószó: levél, telegram, telefonhívás)/(toldalék) szakértő/
@@ -80478,6 +80516,10 @@ XX XX [x x] /x/
 # ID-p04Nq0Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 對照 对照 [dui4 zhao4] /össze|hasonlít/össze|vet/össze|hasonlítás céljából egymás mellé helyez/
+
+# ID-p04QZ8V
+# Ver 2022-06-23T00:49:01Z NagyHenrik Stat-New >.
+偵察衛星 侦察卫星 [zhen1 cha2 wei4 xing1] /felderítő műhold; kémműhold/
 
 # ID-p04Sq6C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
