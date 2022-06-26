@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-06-25T02:00:01Z
+# Időbélyeg / Timestamp: 2022-06-26T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -24527,6 +24527,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2021-06-18T21:04:04Z gabor Stat-Verif >tényleg, jó kiegészítések!
 實踐 实践 [shi2 jian4] /gyakorol; gyakorlat/gyakorlatba átültet; megvalósít/be|vált (ígéretet)/
 
+# ID-e58Tb7h
+# Ver 2022-06-25T06:37:08Z NagyHenrik Stat-New >.
+齊柏林飛艇 齐柏林飞艇 [qi2 bo2 lin2 fei1 ting3] /Zeppelin léghajó/
+
 # ID-e58XQ0P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 腐敗 腐败 [fu3 bai4] /korrupt/rothadt/
@@ -41397,6 +41401,10 @@ X X [X] /X/
 # ID-h77lt3V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 房間 房间 [fang2 jian1] /szoba/SZ:間|间[jian1],個|个[ge4]/
+
+# ID-h77lH5r
+# Ver 2022-06-25T06:46:29Z NagyHenrik Stat-New >.
+咫 咫 [zhi3] /hosszmérték,1 咫 = 8 寸 cùn/
 
 # ID-h77mK5h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
