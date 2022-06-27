@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-06-26T02:00:01Z
+# Időbélyeg / Timestamp: 2022-06-27T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -7275,6 +7275,10 @@
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 允 允 [yun3] /meg|enged; hozzá|járul/igazságos; fair/
 
+# ID-b36eV0F
+# Ver 2022-06-26T05:27:02Z NagyHenrik Stat-New >.
+員工考勤管理製度 员工考勤管理制度 [yuan2 gong1 kao3 qin2 guan3 li3 zhi4 du4] /személyzet v. alkalmazottak jelenlétét ellenőrzéső rendszer/
+
 # ID-b36oa2E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 舒暢 舒畅 [shu1 chang4] /gondtalan/boldog/
@@ -14200,6 +14204,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 自高自大 自高自大 [zi4 gao1 zi4 da4] /(kifejezés) öntelt; gőgös; beképzelt; arrogáns/
 
+# ID-c67ea5r
+# Ver 2022-06-26T06:15:04Z NagyHenrik Stat-New >.
+耦合電路 耦合电路 [ou3 he2 dian4 lu4] /csatolt áramkörök/
+
 # ID-c67eG7j
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 上層 上层 [shang4 ceng2] /felső réteg/
@@ -20567,6 +20575,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2021-06-11T17:49:36Z gabor Stat-Verif >.
 瑙魯 瑙鲁 [nao3 lu3] /(földrajzi név) Nauru/
 
+# ID-d83LO7V
+# Ver 2022-06-26T07:00:00Z NagyHenrik Stat-New >.
+陰極射線管 阴极射线管 [yin1 ji2 she4 xian4 guan3] /katódsugárcső; CRT/
+
 # ID-d83NL6x
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 壞運 坏运 [huai4 yun4] /bal|szerencse/
@@ -21586,6 +21598,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e02Lw8t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 一樣 一样 [yi1 yang4] /azonos/ugyanolyan/hasonló/
+
+# ID-e02MD3N
+# Ver 2022-06-26T07:05:13Z NagyHenrik Stat-New >.
+集散型控製係統 集散型控制系统 [ji2 san4 xing2 kong4 zhi4 xi4 tong3] /elosztott irányítástechnikai rendszer; DCS/
 
 # ID-e02NO5S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -27127,6 +27143,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 分歧 分歧 [fen1 qi2] /el|térés; különbség (nézeteké, véleményé)/nem ért egyet/
 
+# ID-f09TL5L
+# Ver 2022-06-26T06:20:25Z NagyHenrik Stat-New >.
+碼分多址 码分多址 [ma3 fen1 duo1 zhi3] /kódoláson alapuló megosztott csatornahasználat; CDMA  /
+
 # ID-f10ab1k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 赤字 赤字 [chi4 zi4] /költségvetési hiány/veszteség/
@@ -29059,6 +29079,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 賓館 宾馆 [bin1 guan3] /hotel/szálló/vendég|ház/SZ:個|个[ge4],家[jia1]/
 
+# ID-f45LA9O
+# Ver 2022-06-26T03:14:48Z NagyHenrik Stat-New >.
+地雷 地雷 [di4 lei2] /taposóakna/
+
 # ID-f45Rg3J
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 霍亂 霍乱 [huo4 luan4] /kolera/
@@ -30890,6 +30914,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-12-28T21:06:18Z gabor Stat-Verif >.
 鼻涕蟲 鼻涕虫 [bi2 ti4 chong2] /meztelen csiga/
 
+# ID-f78xX7c
+# Ver 2022-06-26T06:07:40Z NagyHenrik Stat-New >.
+異步傳送方式 异步传送方式 [yi4 bu4 chuan2 song4 fang1 shi4] /aszinkron hálózati adatátviteli eljárás; ATM/
+
 # ID-f78yi9M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 地上 地上 [di4 shang5] /a földön/föld feletti/
@@ -31375,6 +31403,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f88KO6J
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 跨過 跨过 [kua4 guo4] /át|lép/át|kel/
+
+# ID-f88Mp1f
+# Ver 2022-06-26T06:04:37Z NagyHenrik Stat-New >.
+美國國家標準學會 美国国家标准学会 [mei3 guo2 guo2 jia1 biao1 zhun3 xue2 hui4] /USA szabványügyi hivatal; ANSI/
 
 # ID-f88OW8z
 # Ver 2017-09-15T21:23:09Z gabor Stat-New >CEDICT
@@ -34412,6 +34444,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 不可避免 不可避免 [bu4 ke3 bi4 mian3] /elkerülhetetlen/
 
+# ID-g44jT4q
+# Ver 2022-06-26T06:17:13Z NagyHenrik Stat-New >.
+電荷耦合器件 电荷耦合器件 [dian4 he4 ou3 he2 qi4 jian4] /töltéscsatolású eszköz; analóg kimenetű képátalakító eszköz; CCD/
+
 # ID-g44kg8Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 那裡 那里 [na4 li5] /ott/
@@ -35865,6 +35901,10 @@ X X [X] /X/
 # 偶數 偶数 [ou3 shu4] /prím szám/
 # Ver 2019-08-25T18:00:01Z gabor Stat-Verif >CEDICT és más források; 偶 önmagában helyesen szerepel "páros" jelentéssel. Prím: 质数 質數, helyesen szerepel.
 偶數 偶数 [ou3 shu4] /páros szám/
+
+# ID-g70TZ6M
+# Ver 2022-06-26T06:57:59Z NagyHenrik Stat-New >.
+循環冗佘校驗 循环冗佘校验 [xun2 huan2 rong3 she2 xiao4 yan4] /ciklikus kódú rendundancián alapuló digitális adatáviteli hibajavítás; CRC/
 
 # ID-g70WC6M
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -53076,6 +53116,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 不怎麼 不怎么 [bu4 zen3 me5] /nem nagyon/nem különösebben/
 
+# ID-j96mE0S
+# Ver 2022-06-26T03:15:00Z NagyHenrik Stat-New >.
+掃雷 扫雷 [sao3 lei2] /aknát szed/
+
 # ID-j96to7C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 外部 外部 [wai4 bu4] /külső (külseje vminek)/
@@ -54307,6 +54351,10 @@ X X [X] /X/
 # ID-k18XP7s
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 皇太子 皇太子 [huang2 tai4 zi3] /trón|örökös/
+
+# ID-k19bl0e
+# Ver 2022-06-26T06:10:27Z NagyHenrik Stat-New >.
+建築物自動化和控製網絡 建筑物自动化和控制网络 [jian4 zhu2 wu4 zi4 dong4 hua4 he2 kong4 zhi4 wang3 luo4] /épületautomatizálási célú hálózati protokoll; BACnet; BAC/
 
 # ID-k19gB1D
 # Ver 2021-03-24T19:14:10Z Adam Stat-New >Wikipedia
@@ -60302,6 +60350,10 @@ X X [X] /X/
 # Ver 2019-09-26T19:00:33Z gabor Stat-Verif >nem vagyok meggyőződve róla, hogy ez valóban önálló szócikk, s nem csak a 打折 egy csinos eredménykiegészítővel, de maradjon :)
 打完折 打完折 [da3 wan2 zhe2] /engedmény utáni ár/
 
+# ID-l28lL3e
+# Ver 2022-06-26T06:00:49Z NagyHenrik Stat-New >.
+自動增益控製 自动增益控制 [zi4 dong4 zeng1 yi4 kong4 zhi4] /automatikus erősítésszabályozás; AGC/
+
 # ID-l28lQ8o
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 偏頭痛 偏头痛 [pian1 tou2 tong4] /migrén/
@@ -64470,6 +64522,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 沙子 沙子 [sha1 zi5] /homok/SZ:粒[li4],把[ba3]/apró szemcsék/
 
+# ID-m06Ss0F
+# Ver 2022-06-26T06:15:29Z NagyHenrik Stat-New >.
+耦合係數 耦合系数 [ou3 he2 xi4 shu4] /kapcsolási együttható/
+
 # ID-m06Va3s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 做廣告 做广告 [zuo4 guang3 gao4] /reklámoz/hirdet/
@@ -65990,6 +66046,10 @@ X X [X] /X/
 # ID-m33Qx0r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 舉 举 [ju3] /emel/fel|emel/idéz/ki|nevez/
+
+# ID-m33QV1H
+# Ver 2022-06-26T03:23:59Z NagyHenrik Stat-New >.
+煤油燈 煤油灯 [mei2 you2 deng1] /petróleumlámpa/
 
 # ID-m33RU9A
 # Ver 2022-06-16T05:09:55Z NagyHenrik Stat-New >.
@@ -72658,6 +72718,10 @@ XX XX [x x] /x/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 喪屍 丧尸 [sang1 shi1] /zombi/
 
+# ID-n55jW2W
+# Ver 2022-06-26T06:16:54Z NagyHenrik Stat-New >.
+機械耦合 机械耦合 [ji1 xie4 ou3 he2] /mechanikus kapcsolás/
+
 # ID-n55ky8h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 輕易 轻易 [qing1 yi4] /játszva/könnyedén/meg|gondolatlanul/gyakran/
@@ -77275,6 +77339,10 @@ XX XX [x x] /x/
 # ID-o43Wv5A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 頂尖 顶尖 [ding3 jian1] /csúcs/világ|első/
+
+# ID-o44aB9f
+# Ver 2022-06-26T06:51:32Z NagyHenrik Stat-New >.
+冗詞贅句 冗词赘句 [rong3 ci2 zhui4 ju4] /redundáns szavak és kifejezések/
 
 # ID-o44bn3v
 # Ver 2022-06-13T10:18:23Z NagyHenrik Stat-New >.
