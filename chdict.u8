@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-06-28T02:00:01Z
+# Időbélyeg / Timestamp: 2022-06-29T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -5482,6 +5482,10 @@
 # Ver 2021-06-11T18:50:36Z gabor Stat-Verif >.
 民主黨 民主党 [min2 zhu3 dang3] /(tulajdonnév) Demokrata Párt/
 
+# ID-b01XY0q
+# Ver 2022-06-28T08:13:21Z NagyHenrik Stat-New >.
+雉鳩 雉鸠 [zhi4 jiu1] /fácángalamb; Otidiphaps nobilis/
+
 # ID-b02bn7W
 # Ver 2022-03-24T08:55:42Z NagyHenrik Stat-New >.
 民謠 民谣 [min2 yao2] /népdal; népballada/
@@ -9249,6 +9253,10 @@
 # 所有 所有 [suo3 you3] /minden/birtokol/összes, valamennyi/
 # Ver 2019-09-26T17:40:39Z gabor Stat-Verif >pontosvessző
 所有 所有 [suo3 you3] /minden/birtokol/összes; valamennyi/
+
+# ID-b73TR8F
+# Ver 2022-06-28T03:18:56Z NagyHenrik Stat-New >。
+虞美人 虞美人 [yu2 mei3 ren2] /közönséges pipacs; Papaver rhoeas/
 
 # ID-b74dx0i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -18919,6 +18927,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 海員 海员 [hai3 yuan2] /matróz/tengerész/
 
+# ID-d54mj6k
+# Ver 2022-06-28T08:12:29Z NagyHenrik Stat-New >.
+山雞 山鸡 [shan1 ji1] /fácán; Phasianus/
+
 # ID-d54mQ9k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 穩 稳 [wen3] /stabil/szilárd/biztos/
@@ -18926,6 +18938,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-d54uL5J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 劍 剑 [jian4] /kard/SZ:把[ba3]/
+
+# ID-d54vx9r
+# Ver 2022-06-28T14:01:07Z NagyHenrik Stat-New >。
+磁場強度 磁场强度 [ci2 chang3 qiang2 du4] /mágneses térerősség/
 
 # ID-d54Ct5J
 # Ver 2020-01-28T18:14:10Z GaoYanuo Stat-New >tanönyv, CCEDICT
@@ -21253,6 +21269,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-d96Hh7H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 餐館 餐馆 [can1 guan3] /étterem/SZ:家[jia1]/
+
+# ID-d96WW1T
+# Ver 2022-06-28T14:04:32Z NagyHenrik Stat-New >，
+勵磁機 励磁机 [li4 ci2 ji1] /gerjesztő/
 
 # ID-d97aF0B
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -25257,6 +25277,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 招募 招募 [zhao1 mu4] /toboroz/be|hív/
 
+# ID-e71gJ7w
+# Ver 2022-06-28T14:02:43Z NagyHenrik Stat-New >。
+磁共振成像 磁共振成像 [ci2 gong4 zhen4 cheng2 xiang4] /mágneses rezonanciás képalkotó; MRI/
+
 # ID-e71hs0L
 # Ver 2022-03-31T07:55:36Z NagyHenrik Stat-New >.
 非政府組織 非政府组织 [fei1 zheng4 fu3 zu3 zhi1] /civil szervezet; nem kormányzati szervezetek; NGO (non-governmental organization)/
@@ -28127,6 +28151,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f28Wz2V
 # Ver 2022-03-24T03:23:20Z NagyHenrik Stat-New >.
 吸蜜蜂鳥 吸蜜蜂鸟 [xi1 mi4 feng1 niao3] /méhkolibri vagy vöröstorkú kolibri; Mellisuga helenae/
+
+# ID-f29ak2q
+# Ver 2022-06-28T03:49:17Z NagyHenrik Stat-New >.
+修飾劑 修饰剂 [xiu1 shi4 ji4] /kikészítőszer; ásványi cserzőanyag; appretálószer/
 
 # ID-f29bO3u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -32917,6 +32945,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-g15rj4c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 偶 偶 [ou3] /páros (szám)/véletlenül/
+
+# ID-g15uB2B
+# Ver 2022-06-28T08:15:22Z NagyHenrik Stat-New >.
+牡丹 牡丹 [mu3 dan5] /fás bazsarózsa; peónia; Paeonia suffruticosa/
 
 # ID-g15uR9f
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -53700,6 +53732,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 吊床 吊床 [diao4 chuang2] /függő|ágy/
 
+# ID-k06Nk6T
+# Ver 2022-06-28T14:06:11Z NagyHenrik Stat-New >，
+影印照相機 影印照相机 [ying3 yin4 zhao4 xiang1 ji1] /finomszemcsés fényképezőgép/
+
 # ID-k06Ua6G
 # Ver 2022-02-24T04:52:17Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E4%B8%93%E5%88%B6%E4%B8%BB%E4%B9%89%E4%B8%AD%E5%A4%AE%E9%9B%86%E6%9D%83%E5%88%B6%E5%BA%A6/4235106?fr=aladdin
 專製主義中央集權製度 专制主义中央集权制度 [zhuan1 zhi4 zhu3 yi4 zhong1 yang1 ji2 quan2 zhi4 du4] /tekintélyelvű centralizmus, autokratikus központosítási rendszer, autokratikus centralizációs rendszer/专制主义中央集权制度：是与民主政治体制相对立的概念，指一个人或少数几个人独裁的政权组织中央形式.     Zhuānzhì zhǔyì zhōngyāng jíquán zhìdù: Shì yǔ mínzhǔ zhèngzhì tǐzhì xiāng duìlì de gàiniàn, zhǐ yīgèrén huò shǎoshù jǐ gè rén dúcái de zhèngquán zǔzhī zhōngyāng xíngshì    A tekintélyelvű centralizmus: a demokratikus politikai rendszerrel ellentétes fogalom, olyan politikai hatalomszervezés amely egy vagy néhány személy centralizált, diktatúrikus kormányzati rendszerre utal.//
@@ -71390,6 +71426,10 @@ XX XX [x x] /x/
 # ID-n31Ff0v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 鮮艷 鲜艳 [xian1 yan4] /élénk; színes/színpompás/
+
+# ID-n31NC8u
+# Ver 2022-06-28T08:31:20Z NagyHenrik Stat-New >.
+乳豬 乳猪 [ru3 zhu1] /szopós malac/
 
 # ID-n31Th6a
 # Ver 2017-12-11T15:56:35Z gabor Stat-New >CEDICT, korpusz
