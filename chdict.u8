@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-06-29T02:00:01Z
+# Időbélyeg / Timestamp: 2022-07-03T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -1779,6 +1779,10 @@
 # Ver 2018-01-03T13:14:46Z gabor Stat-Verif >.
 漏水 漏水 [lou4 shui3] /szivárog; ereszt (vizet)/cső|törés/
 
+# ID-a32wu3u
+# Ver 2022-07-02T07:15:18Z NagyHenrik Stat-New >.
+反坦剋武器 反坦克武器 [fan3 tan3 ke4 wu3 qi4] /páncéltörő fegyver/
+
 # ID-a32wV2A
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 關鍵詞 关键词 [guan1 jian4 ci2] /kulcs|szó/
@@ -3130,6 +3134,10 @@
 # ID-a56CF5o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 風景畫 风景画 [feng1 jing3 hua4] /táj|kép/
+
+# ID-a56DP3O
+# Ver 2022-07-02T07:24:04Z NagyHenrik Stat-New >.
+壓列車 压列车 [ya1 lie4 che1] /rétegrepesztő egységekkel felszerelt teherautó/
 
 # ID-a56FB8j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -6691,6 +6699,10 @@
 # Ver 2022-02-21T06:08:22Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%96%B0%E5%AE%A2%E8%A7%82%E7%8E%B0%E5%AE%9E%E6%B4%BE/2217077?fr=aladdin
 新客觀現實派 新客观现实派 [xin1 ke4 guan1 xian4 shi2 pai4] /új tárgyiasság （művészet, Neue Sachlichkeit）/     实际上包含着三种风格：真实主义风格、纪念碑或古典主义风格、鲁索画派的朴素风格，以表现主义的夸张手法描写真实。     Shíjì shang bāo hán zháo sān zhǒng fēnggé: Zhēnshí zhǔyì fēnggé, jìniànbēi huò gǔdiǎn zhǔyì fēnggé, lǔ suǒ huà pài de púsù fēnggé, yǐ biǎoxiàn zhǔyì de kuāzhāng shǒufǎ miáoxiě zhēnshí.     Tulajdonképpen három stílust tartalmaz: a realista stílust, a monumentális vagy klasszikus stílust és a Russo-iskola szigorú stílusát,s a valóságot expresszionista és eltúlzott módon ábrázolja.//
 
+# ID-b23vw7X
+# Ver 2022-07-02T07:26:25Z NagyHenrik Stat-New >.
+液壓傳動裝置 液压传动装置 [ye4 ya1 chuan2 dong4 zhuang1 zhi4] /hidraulikus meghajtású rendszer/
+
 # ID-b23yt8y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 公共汽車 公共汽车 [gong1 gong4 qi4 che1] /busz/SZ:輛|辆[liang4],班[ban1]/
@@ -6754,6 +6766,10 @@
 # ID-b24zP7j
 # Ver 2022-03-29T00:45:32Z NagyHenrik Stat-New >.
 軸心國 轴心国 [zhou2 xin1 guo2] /tengelyhatalmak vagy tengely (a második világháborúban a német szövetségi rendszerhez tartozó államok)/
+
+# ID-b24An8C
+# Ver 2022-07-02T08:41:07Z NagyHenrik Stat-New >.
+製動閘 制动闸 [zhi4 dong4 zha2] /blokkolásgátló fékrendszer/
 
 # ID-b24Bv2c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -8195,6 +8211,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 芝加哥 芝加哥 [zhi1 jia1 ge1] /(földrajzi név) Chicago/
 
+# ID-b53xR4w
+# Ver 2022-07-02T07:55:44Z NagyHenrik Stat-New >.
+機車車輛廠 机车车辆厂 [ji1 che1 che1 liang4 chang3] /mozdony- és vagongyár/
+
 # ID-b53Ah1F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 雕刻品 雕刻品 [diao1 ke4 pin3] /faragvány/
@@ -8472,6 +8492,10 @@
 # ID-b58hX1d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 抱 抱 [bao4] /ölel/karjaiban tart/
+
+# ID-b58iM7O
+# Ver 2022-07-02T07:03:11Z NagyHenrik Stat-New >。
+空氣防波堤 空气防波堤 [kong1 qi4 fang2 bo1 di1] / pneumatikus hullámtörő/
 
 # ID-b58kx7b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -8804,6 +8828,10 @@
 # ID-b64Di9G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 信手拈來 信手拈来 [xin4 shou3 nian3 lai2] /(kifejezés) erőfeszítés nélkül meg|szerez; könnyedén ír; találomra ki|választ/
+
+# ID-b64IF7O
+# Ver 2022-07-02T07:04:13Z NagyHenrik Stat-New >.
+風閘 风闸 [feng1 zha2] /légfék; pneumatikus fék/
 
 # ID-b64Xm6B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -9193,6 +9221,10 @@
 # ID-b72NE7o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 冰球 冰球 [bing1 qiu2] /jég|hoki/jég|korong/
+
+# ID-b72Rl5O
+# Ver 2022-07-02T07:27:24Z NagyHenrik Stat-New >.
+油壓傳動 油压传动 [you2 ya1 chuan2 dong4] /hidraulikus hajtómű/
 
 # ID-b73hX1t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -11607,6 +11639,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 俄語 俄语 [e2 yu3] /orosz (nyelv)/
 
+# ID-c18Iv2p
+# Ver 2022-07-02T07:16:43Z NagyHenrik Stat-New >.
+試驗太空船 试验太空船 [shi4 yan4 tai4 kong1 chuan2] /kísérleti űrhajó/
+
 # ID-c18Oe4U
 # Ver 2021-04-13T22:38:37Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből és az ország saját szócikke alapján
 # 德涅斯特河沿岸 德涅斯特河沿岸 [de2 nie4 si1 te4 he2 yan2 an4] /(földrajzi név) Dnyeszter Menti Köztársaság; Transznisztria (hivatalosan: 德涅斯特河沿岸摩尔达维亚共和国)/
@@ -12773,6 +12809,10 @@
 # ID-c41Ic4o
 # Ver 2022-03-04T15:58:20Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%9C%A8%E6%98%9F/222105
 木星 木星 [mu4 xing1] /Jupiter/
+
+# ID-c41KA6H
+# Ver 2022-07-02T07:28:18Z NagyHenrik Stat-New >.
+液壓絞車 液压绞车 [ye4 ya1 jiao3 che1] /hidraulikus csörlő/
 
 # ID-c41NH7i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -23092,6 +23132,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 世系 世系 [shi4 xi4] /család|fa/
 
+# ID-e30lh2y
+# Ver 2022-07-02T07:22:35Z NagyHenrik Stat-New >.
+液壓填密 液压填密 [ye4 ya1 tian2 mi4] /hidraulikus tömedékelés/
+
 # ID-e30vz5P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 擴充 扩充 [kuo4 chong1] /bővít/ki|bővít/
@@ -31049,6 +31093,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 慈善 慈善 [ci2 shan4] /jótékony/jó|indulatú/
 
+# ID-f80pQ4Z
+# Ver 2022-07-02T07:02:08Z NagyHenrik Stat-New >。
+氣動電磁閥 气动电磁阀 [qi4 dong4 dian4 ci2 fa2] /pneumatikus elektromágneses szelep/
+
 # ID-f80sF5a
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 解數 解数 [xie4 shu4] /tehetség; képesség; hozzá|értés/harcművészeti technika/
@@ -34186,6 +34234,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 元古宙 元古宙 [yuan2 gu3 zhou4] /proterozoikum; földtörténeti elő|idő/
 
+# ID-g39un1y
+# Ver 2022-07-02T07:11:08Z NagyHenrik Stat-New >.
+鉚機 铆机 [mao3 ji1] /szegecselőgép/
+
 # ID-g39wH1h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 寶貝 宝贝 [bao3 bei4] /kincs/baba/drága (drágája vkinek)/szeme fénye/mi|haszna ember/
@@ -36663,6 +36715,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 公 公 [gong1] /nyilvános/köz|tulajdonban levő/állami/nemzetközi (pl. nemzetközi vizek, metrikus rendszer, naptár)/tisztességes/igazságos/herceg/hím (állatokra)/após/
 
+# ID-g86nr8o
+# Ver 2022-07-02T07:08:42Z NagyHenrik Stat-New >.
+風動鉚機 风动铆机 [feng1 dong4 mao3 ji1] / pneumatikus szegecselőgép/
+
 # ID-g86pn1L
 # Ver 2022-05-16T09:42:58Z NagyHenrik Stat-New >.
 結核桿菌 结核杆菌 [jie2 he2 gan3 jun1] /tuberkulózis baktérium; Koch-bacilus; Mycobacterium tuberculosis/
@@ -37647,6 +37703,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 黃色 黄色 [huang2 se4] /sárga (szín)/obszcén; pornográf/
 
+# ID-h02rT7I
+# Ver 2022-07-02T07:13:09Z NagyHenrik Stat-New >.
+水力開埰 水力开采 [shui3 li4 kai1 cai3] /hidraulikus fejtés; vízsugaras jövesztés/
+
 # ID-h02sx9a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 出示 出示 [chu1 shi4] /elő|vesz és meg|mutat/be|mutat/
@@ -37654,6 +37714,10 @@ X X [X] /X/
 # ID-h02xE7Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 化肥 化肥 [hua4 fei2] /mű|trágya/
+
+# ID-h02zg2Q
+# Ver 2022-07-02T07:23:30Z NagyHenrik Stat-New >.
+水力壓列 水力压列 [shui3 li4 ya1 lie4] /hidraulikus rétegrepesztés/
 
 # ID-h02Bc1s
 # Ver 2022-04-15T08:28:01Z NagyHenrik Stat-New > .
@@ -38886,6 +38950,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 亞軍 亚军 [ya4 jun1] /második helyezett/ezüst|érmes/
 
+# ID-h27aA8Y
+# Ver 2022-07-02T08:39:41Z NagyHenrik Stat-New >.
+製動火箭 制动火箭 [zhi4 dong4 huo3 jian4] /fékezőrakéta/
+
 # ID-h27gc0i
 # Ver 2022-03-28T04:11:52Z NagyHenrik Stat-New >.
 南三角座 南三角座 [nan2 san1 jiao3 zuo4] /Triangulum Australe; Déli Háromszög csillagkép/
@@ -40034,6 +40102,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 復活 复活 [fu4 huo2] /fel|támadás/fel|támaszt/
 
+# ID-h51aI1E
+# Ver 2022-07-02T07:21:26Z NagyHenrik Stat-New >.
+水壓機 水压机 [shui3 ya1 ji1] /hidraulikus prés/
+
 # ID-h51jb4H
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 腳尖 脚尖 [jiao3 jian1] /lábujjhegy/
@@ -41173,6 +41245,10 @@ X X [X] /X/
 # 萊索托 莱索托 [lai2 suo3 tuo1] /(földrajzi név) Lesotho/
 # Ver 2021-06-11T19:09:44Z gabor Stat-Verif >.
 萊索托 莱索托 [lai2 suo3 tuo1] /(földrajzi név) Lesotho/
+
+# ID-h72rd6t
+# Ver 2022-07-02T07:07:57Z NagyHenrik Stat-New >.
+液壓氣動馬達 液压气动马达 [ye4 ya1 qi4 dong4 ma3 da2] /hidraulikus és pneumatikus motor/
 
 # ID-h72rz0n
 # Ver 2020-02-18T20:09:12Z gabor Stat-New >személyes közlés, CEDICT, MOEDICT
@@ -44734,6 +44810,10 @@ X X [X] /X/
 # ID-i37xc9L
 # Ver 2022-02-20T06:20:35Z NagyHenrik Stat-New >https://zhidao.baidu.com/question/270166186994366445.html
 科學假設 科学假设 [ke1 xue2 jia3 she4] /tudományos hipotézis/
+
+# ID-i37yP9P
+# Ver 2022-07-02T07:25:25Z NagyHenrik Stat-New >.
+液力傳動 液力传动 [ye4 li4 chuan2 dong4] /hidraulikus meghajtás/
 
 # ID-i37AU7t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -49624,6 +49704,10 @@ X X [X] /X/
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 做菜 做菜 [zuo4 cai4] /főz/főzés/
 
+# ID-j29nT1n
+# Ver 2022-07-02T07:06:01Z NagyHenrik Stat-New >.
+風力輸送機 风力输送机 [feng1 li4 shu1 song4 ji1] /léglazítású csatorna; pneumatikus szállítóberendezés/
+
 # ID-j29xD8y
 # Ver 2017-12-03T23:45:27Z GaoYanuo Stat-New >CC-CEDICT, Greatwall Chinese textbook 1
 # 回國 回国 [hui2 guo2] /visszatér a hazájába/
@@ -53596,6 +53680,10 @@ X X [X] /X/
 # Ver 2019-09-26T19:49:48Z gabor Stat-Verif >összevon
 其中 其中 [qi2 zhong1] /közöttük/ezek között; ezek közül/többek közt/
 
+# ID-k04hR7r
+# Ver 2022-07-02T07:15:56Z NagyHenrik Stat-New >.
+試驗農場 试验农场 [shi4 yan4 nong2 chang3] /kísérleti gazdaság/
+
 # ID-k04jO2S
 # Ver 2021-04-18T22:40:58Z Adam Stat-New >CC-CEDICT, Wikipedia
 # 貴陽 贵阳 [gui4 yang2] /(földrajzi név) Kujjang; Guiyang (Kujcsou tartomány székhelye)/
@@ -55144,6 +55232,10 @@ X X [X] /X/
 # 單肩包 单肩包 [dan1 jian1 bao1] /váll|táska/
 # Ver 2019-10-02T15:49:37Z gabor Stat-Verif >.
 單肩包 单肩包 [dan1 jian1 bao1] /váll|táska/
+
+# ID-k31za9S
+# Ver 2022-07-02T07:25:48Z NagyHenrik Stat-New >.
+液力製動器 液力制动器 [ye4 li4 zhi4 dong4 qi4] /hidraulikus fék/
 
 # ID-k31Bh6r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -57979,6 +58071,10 @@ X X [X] /X/
 # ID-k86Cu2z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 透過 透过 [tou4 guo4] /keresztül/át/át|hatol/
+
+# ID-k86GC7c
+# Ver 2022-07-02T07:11:58Z NagyHenrik Stat-New >.
+水力鉚機 水力铆机 [shui3 li4 mao3 ji1] /hidraulikus szegecselőgép/
 
 # ID-k86KL0N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -61617,6 +61713,10 @@ X X [X] /X/
 # ID-l49ZA8e
 # Ver 2022-03-11T03:49:36Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E9%AB%98%E7%B2%B1/2862
 高粱 高粱 [gao1 liang2] /(tarka) cirok (Sorghum bicolor (L.) Moench)/
+
+# ID-l50eB6R
+# Ver 2022-07-02T07:25:05Z NagyHenrik Stat-New >.
+液力變速箱 液力变速箱 [ye4 li4 bian4 su4 xiang1] /hidraulikus hajtóműház/
 
 # ID-l50eG3M
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -73370,6 +73470,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 通行證 通行证 [tong1 xing2 zheng4] /át|utazási engedély/hitelesít/
 
+# ID-n67sT5U
+# Ver 2022-07-02T07:17:30Z NagyHenrik Stat-New >.
+試驗性工廠 试验性工厂 [shi4 yan4 xing4 gong1 chang3] /kísérleti üzem; próbaüzem/
+
 # ID-n67yE5q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 不禁 不禁 [bu4 jin1] /nem tudja megállni, hogy/
@@ -74918,6 +75022,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 從而 从而 [cong2 er2] /így/ezáltal/
 
+# ID-n96UL4K
+# Ver 2022-07-02T07:20:16Z NagyHenrik Stat-New >.
+水埰水槍 水采水枪 [shui3 cai3 shui3 qiang1] /hidraulikus jövesztőberendezés/
+
 # ID-n96Xc9W
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 頂點 顶点 [ding3 dian3] /csúcs/tető|pont/
@@ -76358,6 +76466,10 @@ XX XX [x x] /x/
 # Ver 2018-04-24T15:20:05Z GaoYanuo Stat-Verif >korpusz, \nhttps://www.purpleculture.net/sample-sentences/?word=%E6%AD%A3%E7%A1%AE\nhttp://ce.linedict.com/dict.html#/cnen/example?query=%E6%AD%A3%E7%A1%AE
 正確 正确 [zheng4 que4] /helyes (igaz)/pontos/igaza van/
 
+# ID-o25du9S
+# Ver 2022-07-02T07:14:18Z NagyHenrik Stat-New >.
+水力試驗 水力试验 [shui3 li4 shi4 yan4] /víznyomáspróba/
+
 # ID-o25rd6U
 # Ver 2022-06-15T06:14:16Z NagyHenrik Stat-New >.
 桄榔 桄榔 [guang1 lang2] /cukorpálma; Arenga pinnata/
@@ -77208,6 +77320,10 @@ XX XX [x x] /x/
 # ID-o41gg2S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 乘坐 乘坐 [cheng2 zuo4] /utazik (járművön)/
+
+# ID-o41gK8u
+# Ver 2022-07-02T07:05:07Z NagyHenrik Stat-New >.
+風動工具 风动工具 [feng1 dong4 gong1 ju4] /sűrített levegővel működő eszközök/
 
 # ID-o41lV5w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -81032,6 +81148,10 @@ XX XX [x x] /x/
 # ID-p10da9P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 遊艇 游艇 [you2 ting3] /jacht/
+
+# ID-p10gp9x
+# Ver 2022-07-02T07:18:28Z NagyHenrik Stat-New >.
+試驗性理論 试验性理论 [shi4 yan4 xing4 li3 lun4] /kísérleti teória; hipotézis/
 
 # ID-p10kn9M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
