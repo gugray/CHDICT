@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-07-07T02:00:01Z
+# Időbélyeg / Timestamp: 2022-07-08T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -1348,6 +1348,10 @@
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 珍寶 珍宝 [zhen1 bao3] /kincs/
 
+# ID-a25jy2D
+# Ver 2022-07-07T06:47:03Z NagyHenrik Stat-New >。
+布法羅 布法罗 [bu4 fa3 luo2] /Bufalo/
+
 # ID-a25lt7f
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 火爐 火炉 [huo3 lu2] /kandalló/kályha/kemence/
@@ -1488,6 +1492,10 @@
 # ID-a27Pq5Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 牛奶 牛奶 [niu2 nai3] /tej/tehén|tej/SZ:瓶[ping2],杯[bei1]/
+
+# ID-a27PK8Z
+# Ver 2022-07-07T06:46:30Z NagyHenrik Stat-New >。
+巴拉克 巴拉克 [ba1 la1 ke4] /Baraka/
 
 # ID-a28en2q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -12314,6 +12322,10 @@
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 空位 空位 [kong1 wei4] /üres hely; szabad ülés/
 
+# ID-c32DK5l
+# Ver 2022-07-07T06:18:06Z NagyHenrik Stat-New >.
+皓礬 皓矾 [hao4 fan2] /cink-szulfát; fehérgálic; cinkvitriol/
+
 # ID-c32FS9v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 對稱 对称 [dui4 chen4] /szimmetria/szimmetrikus/
@@ -18042,6 +18054,10 @@ U盤 U盘 [U pan2] /pendrive/
 # 星球大戰 星球大战 [xing1 qiu2 da4 zhan4] /Csillagok háborúja; Star wars (sci-fi)/Csillag|háborús terv (Strategic Defense Initiative; az USA 80-as évekbeli fegyverkezési programja)/
 # Ver 2017-11-24T18:52:09Z gabor Stat-Verif >.
 星球大戰 星球大战 [xing1 qiu2 da4 zhan4] /Csillagok háborúja; Star wars (sci-fi)/Csillag|háborús terv (Strategic Defense Initiative; az USA 80-as évekbeli fegyverkezési programja)/
+
+# ID-d36yJ7W
+# Ver 2022-07-07T06:48:43Z NagyHenrik Stat-New >.
+埃利奧特 埃利奥特 [ai1 li4 ao4 te4] /Elliot /
 
 # ID-d36LI2A
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -23966,6 +23982,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e45te4B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 確立 确立 [que4 li4] /létre|hoz/
+
+# ID-e45Ey3M
+# Ver 2022-07-07T06:45:41Z NagyHenrik Stat-New >。
+阿馬勒 阿马勒 [a1 ma3 lei1] /Amal/
 
 # ID-e45Jy3s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -53971,6 +53991,10 @@ X X [X] /X/
 # ID-k08Ak7q
 # Ver 2022-02-21T06:16:46Z NagyHenrik Stat-New >https://zhidao.baidu.com/question/495005282.html
 后印象派 后印象派 [hou4 yin4 xiang4 pai4] /posztimpresszionizmus/
+
+# ID-k08Ca5T
+# Ver 2022-07-07T06:49:19Z NagyHenrik Stat-New >,
+福剋蘭 福克兰 [fu2 ke4 lan2] /Falklands/
 
 # ID-k08LD7q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
