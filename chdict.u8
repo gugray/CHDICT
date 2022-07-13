@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-07-08T02:00:01Z
+# Időbélyeg / Timestamp: 2022-07-13T02:00:02Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -38940,6 +38940,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 寵臣 宠臣 [chong3 chen2] /kegyenc/kedvenc miniszter/
 
+# ID-h26cz5I
+# Ver 2022-07-12T09:13:11Z NagyHenrik Stat-New >。
+雙邊主義 双边主义 [shuang1 bian1 zhu3 yi4] /bilateralizmus/
+
 # ID-h26dR1G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 保障 保障 [bao3 zhang4] /biztosít/garantál/
@@ -40452,6 +40456,10 @@ X X [X] /X/
 # ID-h57Cw2N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 體操 体操 [ti3 cao1] /torna/gimnasztika/
+
+# ID-h57He0R
+# Ver 2022-07-12T08:37:29Z NagyHenrik Stat-New >。
+多邊主義 多边主义 [duo1 bian1 zhu3 yi4] /multilateralismus /
 
 # ID-h57HY2K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -52970,6 +52978,10 @@ X X [X] /X/
 # ID-j89uo2Z
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 保險櫃 保险柜 [bao3 xian3 gui4] /széf/
+
+# ID-j89vq8j
+# Ver 2022-07-12T09:08:59Z NagyHenrik Stat-New >。
+單邊主義 单边主义 [dan1 bian1 zhu3 yi4] /unilateralizmus /
 
 # ID-j89vV6e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -71289,6 +71301,10 @@ XX XX [x x] /x/
 # Ver 2022-04-02T09:43:14Z NagyHenrik Stat-New >.
 楔形文字 楔形文字 [xie1 xing2 wen2 zi4] /ékírás/
 
+# ID-n25lF5s
+# Ver 2022-07-12T08:43:05Z NagyHenrik Stat-New >。
+剩余價值學說 剩余价值学说 [sheng4 yu2 jia4 zhi2 xue2 shuo1] /értéktöbblet-elmélet/
+
 # ID-n25mb5q
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 暖氣 暖气 [nuan3 qi4] /központi fűtés/
@@ -75337,6 +75353,10 @@ XX XX [x x] /x/
 # 尼日 尼日 [ni2 ri4] /(földrajzi név) Niger (Tajvanban használatos változat)/
 # Ver 2021-06-11T18:35:29Z gabor Stat-Verif >.
 尼日 尼日 [ni2 ri4] /(földrajzi név) Niger (Tajvanban használatos változat)/
+
+# ID-o01Ys8z
+# Ver 2022-07-12T09:20:00Z NagyHenrik Stat-New >.
+雙邊貿易 双边贸易 [shuang1 bian1 mao4 yi4] /bilaterális kereskedelem; kétoldalú kereskedelem/
 
 # ID-o01Yx6r
 # Ver 2021-04-18T22:35:19Z Adam Stat-New >CC-CEDICT, Wikipedia
