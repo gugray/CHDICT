@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-07-13T02:00:02Z
+# Időbélyeg / Timestamp: 2022-07-14T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -414,6 +414,10 @@
 # ID-a06Ct2U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 時尚 时尚 [shi2 shang4] /divat/divatos/
+
+# ID-a06UC7E
+# Ver 2022-07-13T05:03:29Z NagyHenrik Stat-New >。
+弗拉芒 弗拉芒 [fu2 la1 mang2] /flamand/
 
 # ID-a06UU7U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -4028,6 +4032,10 @@
 # ID-a74ja8b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 笑容 笑容 [xiao4 rong2] /mosoly/mosolygó arc/SZ:副[fu4]/mosolyog/
+
+# ID-a74jZ7S
+# Ver 2022-07-13T05:05:06Z NagyHenrik Stat-New >。
+弗拉芒語 弗拉芒语 [fu2 la1 mang2 yu3] /flamand nyelv /
 
 # ID-a74oI1m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -10786,6 +10794,10 @@
 # ID-c02FR2z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 相乘 相乘 [xiang1 cheng2] /szoroz/szorzás/
+
+# ID-c02MA6N
+# Ver 2022-07-13T06:36:30Z NagyHenrik Stat-New >.
+慈善家 慈善家 [ci2 shan4 jia1] /emberbarát; filantróp/
 
 # ID-c02NB8P
 # Ver 2017-12-09T20:56:07Z gabor Stat-New >ABC
@@ -17971,6 +17983,10 @@
 # Ver 2017-05-26T10:09:23Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
 U盤 U盘 [U pan2] /pendrive/
 
+# ID-d34Ln4X
+# Ver 2022-07-13T03:11:58Z NagyHenrik Stat-New >.
+佛蘭芒繪畫風格 佛兰芒绘画风格 [fu2 lan2 mang2 hui4 hua4 feng1 ge2] /flamand festészeti stílus/
+
 # ID-d34NG0g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 不要緊 不要紧 [bu4 yao4 jin3] /jelentéktelen/nem fontos/nem számít/
@@ -19302,6 +19318,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-d59zu5K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 角逐 角逐 [jue2 zhu2] /vetekszik/küzd (uralomért)/
+
+# ID-d59Fg8M
+# Ver 2022-07-13T09:03:45Z NagyHenrik Stat-New >.
+薄殼結構 薄壳结构 [bao2 ke2 jie2 gou4] /héjszerkezet /
 
 # ID-d59On7a
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -26200,6 +26220,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 謙遜 谦逊 [qian1 xun4] /szerény/nem hivalkodó/
 
+# ID-e90aL5G
+# Ver 2022-07-13T09:00:00Z NagyHenrik Stat-New >.
+薄脆餅 薄脆饼 [bao2 cui4 bing3] /ostya; gofri/
+
 # ID-e90cg2m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 吉米 吉米 [ji2 mi3] /(átirat) Jimmy/
@@ -27294,6 +27318,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f10HT4C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 嗯 嗯 [en5] /(helyeslést\egyetértést kifejező közbevetés)/
+
+# ID-f10IE4p
+# Ver 2022-07-13T09:20:24Z NagyHenrik Stat-New >。
+編程員 编程员 [bian1 cheng2 yuan2] /programozó/
 
 # ID-f10PN3T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -31156,6 +31184,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f80Eu1y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 海草 海草 [hai3 cao3] /tengeri|fű (tengeri, hínárszerű vízinövény)/
+
+# ID-f80Ig8V
+# Ver 2022-07-13T09:01:27Z NagyHenrik Stat-New >.
+薄呢 薄呢 [bao2 ni2] /könnyű gyapjúszövet/
 
 # ID-f80Ky2j
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -36178,6 +36210,10 @@ X X [X] /X/
 # ID-g73ve8D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 垃圾桶 垃圾桶 [la1 ji1 tong3] /szemetes/kuka/
+
+# ID-g73xr6b
+# Ver 2022-07-13T09:21:00Z NagyHenrik Stat-New >。
+編程序 编程序 [bian1 cheng2 xu4] /programot ír/
 
 # ID-g73xI6x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -51095,6 +51131,10 @@ X X [X] /X/
 # Ver 2022-02-18T10:39:54Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%85%88%E9%94%8B%E6%B4%BE/3635227?fr=aladdin
 先鋒派 先锋派 [xian1 feng1 pai4] /Avantgárd （Avant-garde）/人们经常用这词指涉新颖的或实验性的作品或人物，尤其是对于艺术、文化及政治的层面。   Rénmen jīngcháng yòng zhè cí zhǐ shè xīnyǐng de huò shíyàn xìng de zuòpǐn huò rénwù, yóuqí shì duìyú yìshù, wénhuà jí zhèngzhì de céngmiàn.     A kifejezést gyakran használják újszerű vagy kísérleti művekre vagy emberekre, különösen a művészeti, kulturális és politikai síkon./
 
+# ID-j54Wt2b
+# Ver 2022-07-13T02:44:21Z NagyHenrik Stat-New >.
+敖德薩 敖德萨 [ao2 de2 sa4] /Odessza/
+
 # ID-j54XX2X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 若 若 [ruo4] /ha/mintha/tűnik/
@@ -62895,6 +62935,10 @@ X X [X] /X/
 # ID-l70Ve9T
 # Ver 2017-05-27T19:21:32Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek, a másik fordításra meglévő szócikkhivatkozások nyomán
 中秋節 中秋节 [zhong1 qiu1 jie2] /ősz|közép|fesztivál; ősz|közép|ünnep (8. holdhónap 15. napja)/
+
+# ID-l71hs0Z
+# Ver 2022-07-13T09:02:33Z NagyHenrik Stat-New >.
+薄紗 薄纱 [bao2 sha1] /áttetsző selyem/
 
 # ID-l71nH2r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -78350,6 +78394,10 @@ XX XX [x x] /x/
 # Ver 2021-06-15T19:23:01Z gabor Stat-Verif >.
 和睦相處 和睦相处 [he2 mu4 xiang1 chu3] /jól kijönnek egymással/
 
+# ID-o58vL3T
+# Ver 2022-07-13T05:10:03Z NagyHenrik Stat-New >。
+弗拉芒畫派 弗拉芒画派 [fu2 la1 mang2 hua4 pai4] /flamand festőiskola/
+
 # ID-o58wR3y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 怪胎 怪胎 [guai4 tai1] /torz|szülött/
@@ -79715,6 +79763,10 @@ XX XX [x x] /x/
 # ID-o84Rk4A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 形狀 形状 [xing2 zhuang4] /alak/forma/meg|jelenés/
+
+# ID-o84Sr0k
+# Ver 2022-07-13T03:12:33Z NagyHenrik Stat-New >.
+佛蘭芒 佛兰芒 [fu2 lan2 mang2] /flamand/
 
 # ID-o84SI4W
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
