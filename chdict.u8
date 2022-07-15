@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-07-14T02:00:01Z
+# Időbélyeg / Timestamp: 2022-07-15T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -2984,6 +2984,10 @@
 # ID-a53gq8K
 # Ver 2022-04-01T13:02:48Z NagyHenrik Stat-New >.
 地緣經濟 地缘经济 [di4 yuan2 jing1 ji4] /geoökonómia/
+
+# ID-a53hi7D
+# Ver 2022-07-14T04:21:50Z NagyHenrik Stat-New >,
+蔓生植物 蔓生植物 [man4 sheng1 zhi2 wu4] /kúszónövény; futó növény/
 
 # ID-a53iO8y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -9305,6 +9309,10 @@
 # 所有 所有 [suo3 you3] /minden/birtokol/összes, valamennyi/
 # Ver 2019-09-26T17:40:39Z gabor Stat-Verif >pontosvessző
 所有 所有 [suo3 you3] /minden/birtokol/összes; valamennyi/
+
+# ID-b73Rh2a
+# Ver 2022-07-14T04:21:08Z NagyHenrik Stat-New >.
+蔓草 蔓草 [man4 cao3] /kúszónövény; futónövény/
 
 # ID-b73TR8F
 # Ver 2022-06-28T03:18:56Z NagyHenrik Stat-New >。
@@ -19669,6 +19677,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 偷偷 偷偷 [tou1 tou1] /titokban/lopva/
 
+# ID-d66sw4Y
+# Ver 2022-07-14T04:01:39Z NagyHenrik Stat-New >.
+杭紡 杭纺 [hang2 fang3] /hangzhoui selyem/
+
 # ID-d66tu9M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 求婚 求婚 [qiu2 hun1] /meg|kéri a kezét/
@@ -27858,6 +27870,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 年輕 年轻 [nian2 qing1] /fiatal/
 
+# ID-f20JG2m
+# Ver 2022-07-14T05:45:41Z NagyHenrik Stat-New >.
+火柴梗 火柴梗 [huo3 chai2 geng3] /gyufaszál/
+
 # ID-f20Qi9T
 # Ver 2022-06-15T02:30:05Z NagyHenrik Stat-New >.
 拉曼人 拉曼人 [la1 man4 ren2] /lámániták /
@@ -28956,6 +28972,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f41RQ6I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 連續 连续 [lian2 xu4] /folyamatos/sorozatos/folytatólagos/
+
+# ID-f41TV3h
+# Ver 2022-07-14T04:19:37Z NagyHenrik Stat-New >.
+蔓菁 蔓菁 [man2 jing5] /tarlórépa/
 
 # ID-f41Uq6P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -30290,6 +30310,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f64vt3T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 地 地 [de5] /(határozói partikula: a határozóként szolgáló elem után, ige előtt)/
+
+# ID-f64Cz7O
+# Ver 2022-07-14T03:45:03Z NagyHenrik Stat-New >.
+藻井 藻井 [zao3 jing3] /kazettás mennyezet/
 
 # ID-f64Fj2j
 # Ver 2017-12-25T20:10:37Z gabor Stat-New >korpusz, ABC, Wikipédia
@@ -36010,6 +36034,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 家庭作業 家庭作业 [jia1 ting2 zuo4 ye4] /házi feladat/
 
+# ID-g70cz6s
+# Ver 2022-07-14T11:36:40Z NagyHenrik Stat-New >.
+腹背受敵 腹背受敌 [fu4 bei4 shou4 di2] /szemből és hátból is támadja az ellenség; két tűz közé kerül/
+
 # ID-g70fa5e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 滴 滴 [di1] /csepp/csepeg/
@@ -39381,6 +39409,10 @@ X X [X] /X/
 # ID-h34uf0W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 看護 看护 [kan1 hu4] /ápol/őriz/gondoskodik (vkiről)/gondoskodás/
+
+# ID-h34xE1x
+# Ver 2022-07-14T03:47:56Z NagyHenrik Stat-New >.
+藻類學 藻类学 [zao3 lei4 xue2] /algológia/
 
 # ID-h34DZ0L
 # Ver 2022-02-25T12:26:47Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E8%B8%8F
@@ -46702,6 +46734,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 街道 街道 [jie1 dao4] /utca/SZ:條|条[tiao2]/lakó|negyed/környék/
 
+# ID-i70Zm1f
+# Ver 2022-07-14T06:46:01Z NagyHenrik Stat-New >。
+獅 狮 [shi1] /oroszlán/
+
 # ID-i71ch6b
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 射精 射精 [she4 jing1] /ejakuláció; mag|ömlés/ejakulál/
@@ -53121,6 +53157,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 黃 黄 [huang2] /sárga/meg|romlik; el|hervad/(családnév) Huan/
 
+# ID-j91GX3E
+# Ver 2022-07-14T03:49:20Z NagyHenrik Stat-New >.
+藻類植物 藻类植物 [zao3 lei4 zhi2 wu4] /algák/
+
 # ID-j91Jw6i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 里 里 [li3] /li (kínai hosszmérték)/mérföld/fél kilométer (modern)/lak|hely/szülő|hely/környék/(családnév) Li/
@@ -54765,6 +54805,10 @@ X X [X] /X/
 # Ver 2022-04-16T08:30:51Z NagyHenrik Stat-New >.
 世界語 世界语 [shi4 jie4 yu3] /eszperantó; világnyelv/
 
+# ID-k21HQ1M
+# Ver 2022-07-14T10:20:37Z NagyHenrik Stat-New >.
+催化劑載體 催化剂载体 [cui1 hua4 ji4 zai4 ti3] /katalizátorhordozó/
+
 # ID-k21Nt4d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 姑媽 姑妈 [gu1 ma1] /nagy|néni (apai ágon)/
@@ -55292,6 +55336,10 @@ X X [X] /X/
 # ID-k30vc2K
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 河水 河水 [he2 shui3] /folyó|víz/
+
+# ID-k30wd0J
+# Ver 2022-07-14T08:46:50Z NagyHenrik Stat-New >.
+終端服務器 终端服务器 [zhong1 duan1 fu2 wu4 qi4] /terminálkiszolgáló; terminálszerver/
 
 # ID-k30xy1B
 # Ver 2018-06-05T18:09:02Z Adam Stat-New >Tuttle Chinese Dict., Pleco-szótár
@@ -59843,6 +59891,10 @@ X X [X] /X/
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 比目魚 比目鱼 [bi3 mu4 yu2] /nyelv|hal/lepény|hal/
 
+# ID-l15Ub1Z
+# Ver 2022-07-14T05:39:26Z NagyHenrik Stat-New >.
+菠菜 菠菜 [bo1 cai4] /spenót/
+
 # ID-l15XV5w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 空間 空间 [kong1 jian1] /tér/űr/SZ:個|个[ge4]/
@@ -60102,6 +60154,10 @@ X X [X] /X/
 # ID-l20hR4H
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 排氣管 排气管 [pai2 qi4 guan3] /kipufogó/
+
+# ID-l20ix5h
+# Ver 2022-07-14T09:54:10Z NagyHenrik Stat-New >.
+死亡率 死亡率 [si3 wang2 lü4] /halálozási arány; halandóság/letalitás/
 
 # ID-l20jE8k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -62082,6 +62138,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 名聲 名声 [ming2 sheng1] /híresség/hírnév/
 
+# ID-l53xU8m
+# Ver 2022-07-14T06:47:16Z NagyHenrik Stat-New >。
+獅身人面像 狮身人面像 [shi1 shen1 ren2 mian4 xiang4] /szfinx/
+
 # ID-l53zw0s
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 熨斗 熨斗 [yun4 dou3] /vasaló/
@@ -64057,6 +64117,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 拍打 拍打 [pai1 da3] /csadpos; paskol/
 
+# ID-l92oe2H
+# Ver 2022-07-14T05:40:11Z NagyHenrik Stat-New >.
+菠蘿 菠萝 [bo1 luo2] /ananász/
+
 # ID-l92rb2b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 客戶 客户 [ke4 hu4] /ügyfél/
@@ -64180,6 +64244,10 @@ X X [X] /X/
 # ID-l93Vk5T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 部署 部署 [bu4 shu3] /be|vet (haderőt)/telepít/
+
+# ID-l94bc1t
+# Ver 2022-07-14T06:48:51Z NagyHenrik Stat-New >.
+獅子搏兔 狮子搏兔 [shi1 zi3 bo2 tu4] /olyan, mint amikor oroszlán veti magát egy nyúlra /hatalmas energiát pazarol még a legapróbb dolgokra is /semmit nem vesz könnyelműen/
 
 # ID-l94iy7q
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -67472,6 +67540,10 @@ X X [X] /X/
 # 講究 讲究 [jiang3 jiu5] /különös figyelmet fordít (vmire)/ízléses/választékos/gondos/odafigyelés, műgond/
 # Ver 2020-04-17T11:56:24Z gabor Stat-Verif >kozmetika
 講究 讲究 [jiang3 jiu5] /különös figyelmet fordít (vmire)/ízléses; választékos/gondos oda|figyelés; műgond/
+
+# ID-m54NY4O
+# Ver 2022-07-14T03:48:34Z NagyHenrik Stat-New >.
+藻類學家 藻类学家 [zao3 lei4 xue2 jia1] /algológus/
 
 # ID-m54VR1M
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -81718,6 +81790,10 @@ XX XX [x x] /x/
 # ID-p17bz2j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 加以 加以 [jia1 yi3] /továbbá/(kétszótagos ige előtt azt fejezi ki, hogy miként kell kezelni a korábban említett dolgot)/
+
+# ID-p17ef6p
+# Ver 2022-07-14T08:47:50Z NagyHenrik Stat-New >.
+終端電纜 终端电缆 [zhong1 duan1 dian4 lan3] /terminálkábel/
 
 # ID-p17fM5G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
