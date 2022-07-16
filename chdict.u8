@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-07-15T02:00:01Z
+# Időbélyeg / Timestamp: 2022-07-16T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -4887,6 +4887,10 @@
 # ID-a90kf5Y
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 正派 正派 [zheng4 pai4] /becsületes; tisztességes/
+
+# ID-a90oJ7t
+# Ver 2022-07-15T04:32:03Z NagyHenrik Stat-New >。
+牽引式滑翔機 牵引式滑翔机 [qian1 yin3 shi4 hua2 xiang2 ji1] /vontatott vitorlázó repülőgép/
 
 # ID-a90pS5E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -14014,6 +14018,10 @@
 # Ver 2022-06-01T04:01:22Z NagyHenrik Stat-New >.
 諾斯特拉達穆斯 诺斯特拉达穆斯 [nuo4 si1 te4 la1 da2 mu4 si1] /Nostradamus/
 
+# ID-c61WS2K
+# Ver 2022-07-15T05:20:48Z NagyHenrik Stat-New >。
+超軸牽引 超轴牵引 [chao1 zhou2 qian1 yin3] /a szerelvény a megengedettnél nagyobb tonnasúlyt vontat/
+
 # ID-c61Xn9c
 # Ver 2017-12-14T21:01:51Z GaoYanuo Stat-New >CC-CEDICT
 # 小麵包 小面包 [xiao3 mian4 bao1] /zsemle/cipó/apró péksütemény/
@@ -22401,6 +22409,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 鐵路 铁路 [tie3 lu4] /vas|út/SZ:條|条[tiao2]/
 
+# ID-e16qL6k
+# Ver 2022-07-15T03:28:02Z NagyHenrik Stat-New >。
+協約國際法 协约国际法 [xie2 yue1 guo2 ji4 fa3] /egyezményes nemzetközi jog/
+
 # ID-e16Cc1j
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 老伯伯 老伯伯 [lao3 bo2 bo5] /nagyapa (idősebb férfi tiszteletteljes megszólítása)/
@@ -25855,6 +25867,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e81LX2Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 德 德 [de2] /erény/jóság/német/
+
+# ID-e81Na6s
+# Ver 2022-07-15T04:02:31Z NagyHenrik Stat-New >。
+劈風斬浪 劈风斩浪 [pi1 feng1 zhan3 lang4] /leküzdi az útjába kerülő akadályokat és nehézségeket /megküzd széllel és hullámokkal/
 
 # ID-e81PB4b
 # Ver 2022-06-14T07:51:22Z NagyHenrik Stat-New >.
@@ -47275,6 +47291,10 @@ X X [X] /X/
 # ID-i82na7B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 成年 成年 [cheng2 nian2] /felnőtté válik/felnőtt; nagykorú/évről évre; egész évben/
+
+# ID-i82qL7q
+# Ver 2022-07-15T03:27:06Z NagyHenrik Stat-New >。
+協作項目 协作项目 [xie2 zuo4 xiang4 mu4] /közös kivitelezésű projekt/
 
 # ID-i82re1Z
 # Ver 2018-06-12T08:25:20Z GaoYanuo Stat-New >forrás: egyetemi körlevél\nCC-CEDICT, korpusz megerősíti
@@ -77223,6 +77243,10 @@ XX XX [x x] /x/
 # ID-o34Xz8c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 鳥 鸟 [niao3] /madár/SZ:隻|只[zhi1],群[qun2]/
+
+# ID-o34Yu8p
+# Ver 2022-07-15T07:25:33Z NagyHenrik Stat-New >。
+延伸火力 延伸火力 [yan2 shen1 huo3 li4] /futótűz； kúszótűz/
 
 # ID-o34YQ5Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
