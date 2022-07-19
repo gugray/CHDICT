@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-07-18T02:00:01Z
+# Időbélyeg / Timestamp: 2022-07-19T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -5863,6 +5863,10 @@
 # Ver 2022-02-18T08:59:18Z NagyHenrik Stat-New >https://www.szotar.net/kinai/%E5%9D%87%E8%A1%A1/
 均衡 均衡 [jun1 heng2] /kiegyensúlyozott, egyensúlyban levő, arányos, egyenletes, harmonikus/     国民经济的均衡发展 guómín jīngjì de jūnhéng fāzhǎn a nemzetgazdaság kiegyensúlyozott fejlődése/     走钢丝的演员举着一把伞，保持身体的均衡。 Zǒu gāngsī de yǎnyuán jǔzhe yī bǎ sǎn, bǎochí shēntǐ de jūnhéng. A kötéltáncos egy ernyővel a kezében egyensúlyozott./      最完美的均衡状态  Zuì wánměi de jūnhéng zhuàngtài  tökéletes egyensúlyi állapot/
 
+# ID-b07oX8i
+# Ver 2022-07-18T05:10:10Z NagyHenrik Stat-New >.
+冥冥之中 冥冥之中 [ming2 ming2 zhi1 zhong1] /a láthatatlan világ /mindaz, ami az érzékekkel nem felfogható/
+
 # ID-b07pw1w
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 原稿 原稿 [yuan2 gao3] /kézirat/eredeti példány/
@@ -6301,6 +6305,10 @@
 # ID-b15ZH1O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 按下 按下 [an4 xia4] /le|nyom/meg|nyom/
+
+# ID-b16cQ4S
+# Ver 2022-07-18T07:11:09Z NagyHenrik Stat-New >.
+田園詩人 田园诗人 [tian2 yuan2 shi1 ren2] /idillikus költő/
 
 # ID-b16fz5o
 # Ver 2022-04-07T14:20:06Z NagyHenrik Stat-New >.
@@ -11288,6 +11296,10 @@
 # ID-c10gQ0U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 名義 名义 [ming2 yi4] /nevében (vkinek)/cím/titulus/névleges/névlegesen/
+
+# ID-c10ho5Z
+# Ver 2022-07-18T04:27:22Z NagyHenrik Stat-New >.
+第一時間 第一时间 [di4 yi1 shi2 jian1] /pillanatok alatt; azonnal; rögtön/
 
 # ID-c10ij1y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -18642,6 +18654,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-d46Tc6v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 海關 海关 [hai3 guan1] /vám|hivatal/vám (ellenőrzés határátlépéskor)/SZ:個|个[ge4]/
+
+# ID-d46Xm5Q
+# Ver 2022-07-18T07:40:08Z NagyHenrik Stat-New >.
+信得過企業 信得过企业 [xin4 de2 guo4 qi3 ye4] /megbízható vállalat/
 
 # ID-d47cA6e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -38353,6 +38369,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 養老院 养老院 [yang3 lao3 yuan4] /szeretet|otthon; idősek otthona/
 
+# ID-h12iJ6Q
+# Ver 2022-07-18T04:04:36Z NagyHenrik Stat-New >。
+十誡 十诫 [shi2 jie4] /a tízparancsolat/
+
 # ID-h12mw6c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 烏 乌 [wu1] /varjú/fekete; sötét/(családnév) Wu/
@@ -41086,6 +41106,10 @@ X X [X] /X/
 # ID-h66Rm0S
 # Ver 2019-07-01T16:07:19Z GaoYanuo Stat-New >http://translation-dictionary.net/chinese-english/%E5%81%8F%E4%BD%8E
 偏低 偏低 [pian1 di1] /alacsony (vminek az értéke, helyzete)/
+
+# ID-h66Vr2z
+# Ver 2022-07-18T05:02:49Z NagyHenrik Stat-New >。
+開懷大笑 开怀大笑 [kai1 huai2 da4 xiao4] /teljes szívből nevet/
 
 # ID-h66Wm1M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -49004,6 +49028,10 @@ X X [X] /X/
 # ID-j13iI1G
 # Ver 2022-04-04T09:12:49Z NagyHenrik Stat-New >.
 猛禽 猛禽 [meng3 qin2] /ragadozó madár/
+
+# ID-j13rO2q
+# Ver 2022-07-18T04:21:21Z NagyHenrik Stat-New >.
+唉聲嘆氣 唉声叹气 [ai1 sheng1 tan4 qi4] /szomorúan sóhajtozik; sopánkodik/
 
 # ID-j13vL0y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -67071,6 +67099,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 設計師 设计师 [she4 ji4 shi1] /tervező/dizájner/építész/
 
+# ID-m44AV6l
+# Ver 2022-07-18T08:42:14Z NagyHenrik Stat-New >.
+閃爍計數器 闪烁计数器 [shan3 shuo4 ji4 shu4 qi4] /szcintillációs számláló/
+
 # ID-m44Bl1Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 妄言 妄言 [wang4 yan2] /össze-vissza beszél/hazudozik/badarságokat beszél/
@@ -81652,6 +81684,10 @@ XX XX [x x] /x/
 # ID-p12RY8U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 郵箱 邮箱 [you2 xiang1] /posta|láda/posta|fiók (e-mail)/
+
+# ID-p12TE4z
+# Ver 2022-07-18T04:22:39Z NagyHenrik Stat-New >.
+愁眉不展 愁眉不展 [chou2 mei2 bu4 zhan3] /bánatos képet vág; bánatosan összehúzza szemöldökét/
 
 # ID-p12VQ3D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
