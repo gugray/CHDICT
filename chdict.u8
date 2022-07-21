@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-07-20T02:00:01Z
+# Időbélyeg / Timestamp: 2022-07-21T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -5429,6 +5429,10 @@
 # ID-a99YT4v
 # Ver 2022-03-28T05:51:43Z NagyHenrik Stat-New >.
 南船座 南船座 [nan2 chuan2 zuo4] /Argo Navis; Argonauták hajója csillagkép /
+
+# ID-b00ee8Q
+# Ver 2022-07-20T03:39:53Z NagyHenrik Stat-New >.
+抽提蒸餾 抽提蒸馏 [chou1 ti2 zheng1 liu2] /kinyert párlat/
 
 # ID-b00iK3k
 # Ver 2022-02-21T06:15:09Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E8%A1%A8%E7%8E%B0%E4%B8%BB%E4%B9%89/1229565?fr=aladdin
@@ -17863,6 +17867,10 @@
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 母雞 母鸡 [mu3 ji1] /tyúk/
 
+# ID-d31Zk5p
+# Ver 2022-07-20T10:44:13Z NagyHenrik Stat-New >.
+自覺自愿 自觉自愿 [zi4 jue2 zi4 yuan4] /önszántából/szabad akaratából/önként/
+
 # ID-d32bc3o
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 偶遇 偶遇 [ou3 yu4] /véletlen találkozás/össze|fut (vkivel, véletlenül)/
@@ -19317,6 +19325,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 流言蜚語 流言蜚语 [liu2 yan2 fei1 yu3] /(kifejezés) pletyka; híresztelések; szóbeszéd/
 
+# ID-d58Hn5i
+# Ver 2022-07-20T04:40:27Z NagyHenrik Stat-New >。
+飽食終日無所用心 饱食终日无所用心 [bao3 shi2 zhong1 ri4 wu2 suo3 yong4 xin1] /egész nap jóllakik anélkül, hogy dolgozni kellene/
+
 # ID-d58Jd0k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 安東尼 安东尼 [an1 dong1 ni2] /(átirat) Anthony; Antony; Antonius/
@@ -20482,6 +20494,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # 在實踐中 在实践中 [zai4 shi2 jian4 zhong1] /a gyakorlatban; a valóságban/
 # Ver 2021-05-31T18:56:25Z gabor Stat-Verif >.
 在實踐中 在实践中 [zai4 shi2 jian4 zhong1] /a gyakorlatban; a valóságban/
+
+# ID-d79ym0R
+# Ver 2022-07-20T02:36:45Z NagyHenrik Stat-New >.
+病態人格 病态人格 [bing4 tai4 ren2 ge2] /beteges, pszichopata személyiség/
 
 # ID-d79Lp2c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -22080,6 +22096,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e08Om8B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 天賦 天赋 [tian1 fu4] /tehetség/veleszületett készség/
+
+# ID-e08Pz7N
+# Ver 2022-07-20T03:36:45Z NagyHenrik Stat-New >.
+萃萃蠅 萃萃蝇 [cui4 cui4 ying2] /cecelégy; Glossina palpalis/
 
 # ID-e08UL7y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -23975,6 +23995,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 做完 做完 [zuo4 wan2] /be|fejez; el|végez; véghez visz/
 
+# ID-e43XF2a
+# Ver 2022-07-20T03:24:42Z NagyHenrik Stat-New >.
+肌肉萎縮 肌肉萎缩 [ji1 rou4 wei3 suo1] /izomsorvadás/izomdisztrófia/
+
 # ID-e43XP4a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 搶救 抢救 [qiang3 jiu4] /meg|ment/segítségére siet/
@@ -24525,6 +24549,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 全球 全球 [quan2 qiu2] /az egész világ/világszerte/globális/
 
+# ID-e54pq8I
+# Ver 2022-07-20T02:45:03Z NagyHenrik Stat-New >.
+心情沉悶 心情沉闷 [xin1 qing2 chen2 men4] /lehangolt/
+
 # ID-e54tG3r
 # Ver 2020-09-25T11:09:19Z gabor Stat-New >GushiFM E179
 # 田鼠 田鼠 [tian2 shu3] /pocok; mezei egér/
@@ -24586,6 +24614,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e56fc2Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 演唱會 演唱会 [yan3 chang4 hui4] /ének|koncert/
+
+# ID-e56jQ3C
+# Ver 2022-07-20T03:30:54Z NagyHenrik Stat-New >.
+香蕉蘋果 香蕉苹果 [xiang1 jiao1 ping2 guo3] /banánillatú alma/
 
 # ID-e56oF0F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -28245,6 +28277,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f26AC1g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 依靠 依靠 [yi1 kao4] /támaszkodik (vmire\vkire)/támogatás/
+
+# ID-f26Cg2H
+# Ver 2022-07-20T02:31:55Z NagyHenrik Stat-New >。
+悲天憫人 悲天悯人 [bei1 tian1 min3 ren2] /a világot siratja és az emberiséget szánja/
 
 # ID-f26LD9v
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -41309,6 +41345,10 @@ X X [X] /X/
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 私有 私有 [si1 you3] /magán- (előtagként)/privát; személyes/
 
+# ID-h69FD3X
+# Ver 2022-07-20T07:45:03Z NagyHenrik Stat-New >。
+顛倒錯亂 颠倒错乱 [dian1 dao3 cuo4 luan4] /zűrzavaros/
+
 # ID-h69Hg1n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 巡邏 巡逻 [xun2 luo2] /járőrözik/
@@ -46901,6 +46941,10 @@ X X [X] /X/
 # ID-i71DU8A
 # Ver 2022-04-04T09:21:16Z NagyHenrik Stat-New >.
 草鴞科 草鸮科 [cao3 xiao1 ke1] /gyöngybagolyfélék; Tytonidae/
+
+# ID-i71EC2J
+# Ver 2022-07-20T03:18:53Z NagyHenrik Stat-New >.
+蔫頭耷腦 蔫头耷脑 [nian1 tou2 da1 nao3] /lógatja a fejét; lógatja az orrát; csüggedt/
 
 # ID-i71Gn0w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -54160,6 +54204,10 @@ X X [X] /X/
 # Ver 2019-10-04T14:18:57Z gabor Stat-Verif >ok
 隨便 随便 [sui2 bian4] /ahogy tetszik/találomra/lezser/könnyelmű/önkényes; féktelen/csak nyugodtan (kínáláskor)/
 
+# ID-k07rr8b
+# Ver 2022-07-20T03:07:17Z NagyHenrik Stat-New >.
+失意潦倒 失意潦倒 [shi1 yi4 liao2 dao3] /kiábrándult, frusztrált, csüggedt, reményvesztett/
+
 # ID-k07ru5W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 鍥而不捨 锲而不舍 [qie4 er2 bu4 she3] /(kifejezés) kitart; lankadatlanul/
@@ -55033,6 +55081,10 @@ X X [X] /X/
 # 化工 化工 [hua4 gong1] /vegy|ipar/
 # Ver 2017-12-04T15:41:10Z gabor Stat-Verif >.
 化工 化工 [hua4 gong1] /vegy|ipar/
+
+# ID-k23ed0B
+# Ver 2022-07-20T04:08:22Z NagyHenrik Stat-New >。
+煞費苦心 煞费苦心 [sha4 fei4 ku3 xin1] /megerőlteti az agyát/erősen gondolkodik/töri a fejét/
 
 # ID-k23iF7j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -67952,6 +68004,14 @@ X X [X] /X/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 物料 物料 [wu4 liao4] /anyag/
 
+# ID-m58lb6v
+# Ver 2022-07-20T02:54:32Z NagyHenrik Stat-New >.
+拓地 拓地 [tuo4 di4] /kiterjeszti területeit;  terjeszkedik/területi terjeszkedés;  expanzió/
+
+# ID-m58oW2Y
+# Ver 2022-07-20T02:14:15Z NagyHenrik Stat-New >.
+清晰度 清晰度 [qing1 xi1 du4] /felbontás; tisztaság; élesség/artikuláció; tagolás; tisztaság /
+
 # ID-m58AB3a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 學派 学派 [xue2 pai4] /iskola (szellemi irányzat)/-izmus/
@@ -73238,6 +73298,10 @@ XX XX [x x] /x/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 管束 管束 [guan3 shu4] /felügyel; őrizetben tart/
 
+# ID-n54YT5s
+# Ver 2022-07-20T03:23:42Z NagyHenrik Stat-New >.\n
+肝萎縮 肝萎缩 [gan1 wei3 suo1] /májsorvadás/májzsugorodás/
+
 # ID-n54ZC0B
 # Ver 2022-03-15T16:06:25Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%BC%97%E6%8B%89%E8%BF%AA%E6%96%AF%E6%8B%89%E6%96%AF%E4%BA%8C%E4%B8%96/12701543?fromtitle=%E4%B9%8C%E6%8B%89%E6%96%AF%E6%B4%9B%E4%BA%8C%E4%B8%96&fromid=22854013&fr=aladdin
 烏拉斯洛二世 乌拉斯洛二世 [wu1 la1 si1 luo4 er4 shi4] /II. Ulászló, (ragadványnevén Dobzse László, 1456-1516)/
@@ -75966,6 +76030,10 @@ XX XX [x x] /x/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 太陽光 太阳光 [tai4 yang2 guang1] /nap|fény; nap|sugár/
 
+# ID-o07Tj3Y
+# Ver 2022-07-20T03:21:26Z NagyHenrik Stat-New >.
+萎陷療法 萎陷疗法 [wei3 xian4 liao2 fa3] /mesterséges légmell /
+
 # ID-o08am2V
 # Ver 2022-03-10T09:39:44Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%8A%B3%E5%8A%A1%E6%B4%BE%E9%81%A3/305258?fr=aladdin
 勞務派遣 劳务派遣 [lao2 wu4 pai4 qian3] /munkaközvetítés, munkaerő-közvetítés, ua. 人力派遣, 人才派遣, 劳动派遣/
@@ -77060,6 +77128,10 @@ XX XX [x x] /x/
 # ID-o28Ql3A
 # Ver 2022-02-25T04:26:20Z NagyHenrik Stat-New >https://www.szotar.net/kinai/%E6%89%A3%E7%95%99/
 扣留 扣留 [kou4 liu2] /őrizetbe vesz, letartóztat, lefoglal, visszatart/把走私犯扣留起来。 Bǎ zǒusīfàn kòuliú qǐlái. Letartóztatták a csempészt./扣留驾驶执照 kòuliú jiàshǐ zhízhào bevonja a jogosítványát/
+
+# ID-o28TU6d
+# Ver 2022-07-20T04:37:31Z NagyHenrik Stat-New >。
+心情激動 心情激动 [xin1 qing2 ji1 dong4] /izgatott/
 
 # ID-o28Ua5S
 # Ver 2022-05-12T03:18:58Z NagyHenrik Stat-New >.
@@ -82058,6 +82130,10 @@ XX XX [x x] /x/
 # 吸毒成癮 吸毒成瘾 [xi1 du2 cheng2 yin3] /kábítószer-függőség，drogfüggőség/
 # Ver 2022-02-16T12:58:15Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%AF%92%E5%93%81%E4%BE%9D%E8%B5%96/15796709?fr=aladdin
 吸毒成癮 吸毒成瘾 [xi1 du2 cheng2 yin3] /kábítószer-függőség，drogfüggőség/毒品依赖 Dúpǐn yīlài kábítószer-függőség，drogfüggőség/
+
+# ID-p18hr8I
+# Ver 2022-07-20T02:34:38Z NagyHenrik Stat-New >.
+飽經風霜 饱经风霜 [bao3 jing1 feng1 shuang1] /viharvert; nehézségeket megtapasztalt/
 
 # ID-p18iQ9a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
