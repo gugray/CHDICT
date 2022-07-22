@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-07-21T02:00:01Z
+# Időbélyeg / Timestamp: 2022-07-22T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -41552,6 +41552,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 心意 心意 [xin1 yi4] /szándék/baráti érzés/figyelem/oda|figyelés/
 
+# ID-h72QW2i
+# Ver 2022-07-21T07:50:21Z NagyHenrik Stat-New >。
+閉幕詞 闭幕词 [bi4 mu4 ci2] /záróbeszéd/
+
 # ID-h72Un1j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 是 是 [shi4] /igen; úgy van; igaz/(kopula, névszói állítmányt bevezető ige)/(hangsúlyozó, fókuszjelölő szó)/
@@ -53575,6 +53579,10 @@ X X [X] /X/
 # ID-j96fr6W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 不怎麼 不怎么 [bu4 zen3 me5] /nem nagyon/nem különösebben/
+
+# ID-j96iS1G
+# Ver 2022-07-21T08:16:36Z NagyHenrik Stat-New >.
+霾天氣預警係統 霾天气预警系统 [mai2 tian1 qi4 yu4 jing3 xi4 tong3] /ködös időjárást előrejelző rendszer/
 
 # ID-j96mE0S
 # Ver 2022-06-26T03:15:00Z NagyHenrik Stat-New >.
