@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-07-23T02:00:01Z
+# Időbélyeg / Timestamp: 2022-07-24T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -821,6 +821,10 @@
 # Ver 2022-04-07T03:41:23Z NagyHenrik Stat-New >https://hanyu.baidu.com/zici/s?wd=%E6%80%AF%E5%A4%B4%E6%80%AF%E8%84%91&query=%E6%80%AF%E5%A4%B4%E6%80%AF%E8%84%91&srcid=28232&from=kg0
 怯頭怯腦 怯头怯脑 [qie4 tou2 qie4 nao3] /faragatlan; bárdolatlan; nehézfejű; parlagi/
 
+# ID-a15aU9s
+# Ver 2022-07-23T11:00:27Z NagyHenrik Stat-New >.
+文辭晦澀 文辞晦涩 [wen2 ci2 hui4 se4] /homályos nyelvezet/
+
 # ID-a15fW7C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 照相機 照相机 [zhao4 xiang4 ji1] /fényképezőgép/SZ:個|个[ge4],架[jia4],部[bu4],台[tai2],隻|只[zhi1]/
@@ -1435,6 +1439,10 @@
 # ID-a26Dy3a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 報應 报应 [bao4 ying4] /meg|torlás; ítélet (isteni)/
+
+# ID-a26KF4D
+# Ver 2022-07-23T12:05:49Z NagyHenrik Stat-New >.
+立功贖罪 立功赎罪 [li4 gong1 shu2 zui4] /érdemeket szerez, hogy vezekeljen bűnéért/
 
 # ID-a26LG0O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -6012,6 +6020,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 其他人 其他人 [qi2 ta1 ren2] /mások (más emberek, többiek)/
 
+# ID-b09Jw2f
+# Ver 2022-07-23T10:57:55Z NagyHenrik Stat-New >.
+韜光養晦 韬光养晦 [tao1 guang1 yang3 hui4] /elrejti képességeit és erősíti a homályt/véka alá rejti képességeit az alkalmas pillanatra várva/
+
 # ID-b09OX2J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 比不上 比不上 [bi3 bu4 shang4] /össze sem hasonlítható (vmivel)/
@@ -9039,6 +9051,10 @@
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 激光器 激光器 [ji1 guang1 qi4] /lézer (eszköz)/
 
+# ID-b67YA7U
+# Ver 2022-07-23T10:18:33Z NagyHenrik Stat-New >.
+炭棒 炭棒 [tan4 bang4] /rajzszén/
+
 # ID-b67Zw0y
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 賽道 赛道 [sai4 dao4] /verseny|pálya/
@@ -9183,6 +9199,10 @@
 # ID-b70OF6Q
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 重生 重生 [chong2 sheng1] /újjá|születik/
+
+# ID-b70Pr0m
+# Ver 2022-07-23T10:16:12Z NagyHenrik Stat-New >.
+雪上汽車運動 雪上汽车运动 [xue3 shang4 qi4 che1 yun4 dong4] /motoros szánozás /
 
 # ID-b71bj6z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -12619,6 +12639,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 面臨 面临 [mian4 lin2] /szembesül (vmivel)/szembe|néz (vmivel)/
 
+# ID-c36uT0f
+# Ver 2022-07-23T11:01:54Z NagyHenrik Stat-New >.
+韜略 韬略 [tao1 lüe4] /katonai stratégia/
+
 # ID-c36It8B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 警惕 警惕 [jing3 ti4] /éber/résen van/
@@ -13603,6 +13627,10 @@
 # ID-c54sh7K
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 大霧 大雾 [da4 wu4] /sűrű köd/
+
+# ID-c54tp9B
+# Ver 2022-07-23T11:50:12Z NagyHenrik Stat-New >.
+恙蟲 恙虫 [yang4 chong2] /fekélybolha/bársonyatka/
 
 # ID-c54Cw8z
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -26601,6 +26629,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 下士 下士 [xia4 shi4] /tizedes/
 
+# ID-e93Tq9O
+# Ver 2022-07-23T10:15:25Z NagyHenrik Stat-New >.
+雪上汽車 雪上汽车 [xue3 shang4 qi4 che1] /motoros szán; hómobil/
+
 # ID-e93VK9G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 拇指 拇指 [mu3 zhi3] /hüvelyk|ujj/
@@ -28781,6 +28813,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f35pA3c
 # Ver 2022-03-24T01:30:41Z NagyHenrik Stat-New >.
 腹 腹 [fu4] /has; gyomor/belső érzelmek//
+
+# ID-f35uh8M
+# Ver 2022-07-23T10:55:23Z NagyHenrik Stat-New >.
+文武官員 文武官员 [wen2 wu3 guan1 yuan2] /hivatalnokok és katonatisztek/
 
 # ID-f35wb4R
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -59032,6 +59068,10 @@ X X [X] /X/
 # ID-k95Rh2L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 缺陷 缺陷 [que1 xian4] /hiba/hiányosság/
+
+# ID-k95Ui7d
+# Ver 2022-07-23T11:51:02Z NagyHenrik Stat-New >.
+恙蟲熱 恙虫热 [yang4 chong2 re4] /bozót tífusz/
 
 # ID-k95XA9r
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
