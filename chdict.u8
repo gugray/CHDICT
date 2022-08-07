@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-08-06T02:00:01Z
+# Időbélyeg / Timestamp: 2022-08-07T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -24442,6 +24442,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e45Jy3s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 慎重 慎重 [shen4 zhong4] /óvatos/körültekintő/diszkrét/
+
+# ID-e45Ql6U
+# Ver 2022-08-06T10:39:49Z NagyHenrik Stat-New >.
+西帕希騎兵 西帕希骑兵 [xi1 pa4 xi1 qi2 bing1] /szpáhi (lovaskatona)/
 
 # ID-e45QR6v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -52342,6 +52346,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 象棋 象棋 [xiang4 qi2] /kínai sakk/SZ:副[fu4]/
 
+# ID-j58RK2T
+# Ver 2022-08-06T10:32:59Z NagyHenrik Stat-New >。
+奧斯曼土耳其 奥斯曼土耳其 [ao4 si1 man4 tu3 er3 qi2] /Oszmán-török/
+
 # ID-j58Ss2x
 # Ver 2017-05-24T14:22:37Z Adam Stat-New >http://culture.china.com/art/11159887/20170427/30466039_all.html
 # 凱爾泰斯伊姆萊 凯尔泰斯伊姆莱 [kai3 er3 tai4 si1 yi1 mu3 lai2] /(átirat) Kertész Imre/
@@ -63087,6 +63095,10 @@ X X [X] /X/
 # ID-l51ZC5A
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 王后 王后 [wang2 hou4] /király|nő/király|né/SZ:個|个[ge4],位[wei4]/
+
+# ID-l52bq9k
+# Ver 2022-08-06T11:16:14Z NagyHenrik Stat-New >。
+貝都因人 贝都因人 [bei4 du1 yin1 ren2] /beduin/
 
 # ID-l52cE6r
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -76232,6 +76244,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 淡水 淡水 [dan4 shui3] /édes|víz/
 
+# ID-n91MG2A
+# Ver 2022-08-06T10:35:10Z NagyHenrik Stat-New >。
+奧斯曼土耳其語 奥斯曼土耳其语 [ao4 si1 man4 tu3 er3 qi2 yu3] /Oszmán-török nyelv/
+
 # ID-n91PL8U
 # Ver 2022-08-03T03:50:12Z NagyHenrik Stat-New >.
 嗒然若喪 嗒然若丧 [ta4 ran2 ruo4 sang4] /csüggedt/erősen levert/
@@ -82700,6 +82716,10 @@ XX XX [x x] /x/
 # ID-p09fk1f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 大使 大使 [da4 shi3] /nagykövet/SZ:名[ming2],位[wei4]/
+
+# ID-p09ga8Y
+# Ver 2022-08-06T10:29:45Z NagyHenrik Stat-New >。
+西帕希 西帕希 [xi1 pa4 xi1] /Szpáhi  /
 
 # ID-p09it8G
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
