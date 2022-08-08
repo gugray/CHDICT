@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-08-07T02:00:01Z
+# Időbélyeg / Timestamp: 2022-08-08T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -7314,6 +7314,10 @@
 # Ver 2021-05-31T19:11:25Z gabor Stat-Verif >.
 鐿 镱 [yi4] /itterbium (kémiai elem, Yb)/
 
+# ID-b33Wi3n
+# Ver 2022-08-07T03:19:49Z NagyHenrik Stat-New >,
+剝削者與被剝削者 剥削者与被剥削者 [bo1 xiao1 zhe3 yu3 bei4 bo1 xiao1 zhe3] /kizsákmányolók és kizsákmányoltak/
+
 # ID-b34dd4t
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 假正經 假正经 [jia3 zheng4 jing1] /prűd/ál|szemérmes/
@@ -9945,6 +9949,10 @@
 # ID-b83Lm7J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 清道 清道 [qing1 dao4] /utat tisztít/szabaddá teszi az utat (az elhaladó császárnak, magas tisztviselőnek)/
+
+# ID-b83Lq8U
+# Ver 2022-08-07T03:15:08Z NagyHenrik Stat-New >.
+剝削階級 剥削阶级 [bo1 xue1 jie1 ji2] /kizsákmányoló osztály/
 
 # ID-b84bX0O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -13908,6 +13916,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 烹煮 烹煮 [peng1 zhu3] /főz/forral/
 
+# ID-c56EB1O
+# Ver 2022-08-07T03:30:04Z NagyHenrik Stat-New >.
+裡夫戰爭 里夫战争 [li3 fu1 zhan4 zheng1] /riff háború /
+
 # ID-c56Pc6E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 疼 疼 [teng2] /fáj/fájdalom/
@@ -15084,6 +15096,10 @@
 # ID-c77dl7W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 吐 吐 [tu3] /köp/
+
+# ID-c77eN0r
+# Ver 2022-08-07T08:06:46Z NagyHenrik Stat-New >.
+豌豆黃 豌豆黄 [wan1 dou4 huang2] /borsóliszt sütemény/
 
 # ID-c77fF1T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -30699,6 +30715,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2022-03-06T07:53:53Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%8D%97%E4%BA%9A
 南亞 南亚 [nan2 ya4] /Dél-Ázsia/
 
+# ID-f61eM4p
+# Ver 2022-08-07T09:50:58Z NagyHenrik Stat-New >.
+必然規律 必然规律 [bi4 ran2 gui1 lü4] /kérlelhetetlen törvény/
+
 # ID-f61ld2l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 然而 然而 [ran2 er2] /azonban/de/
@@ -33747,6 +33767,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-g16mx6o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 只要 只要 [zhi3 yao4] /bárcsak/mindaddig/feltéve, hogy/
+
+# ID-g16Dy8p
+# Ver 2022-08-07T03:17:11Z NagyHenrik Stat-New >.
+變相漲價 变相涨价 [bian4 xiang1 zhang3 jia4] /leplezett áremelés/
 
 # ID-g16GW8Q
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -37929,6 +37953,10 @@ X X [X] /X/
 # ID-g92ZA2V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 水上飛機 水上飞机 [shui3 shang4 fei1 ji1] /hidroplán (vízre szálló repülőgép)/
+
+# ID-g92ZY0a
+# Ver 2022-08-07T03:17:33Z NagyHenrik Stat-New >.
+變相降價 变相降价 [bian4 xiang1 jiang4 jia4] /leplezett árcsökkentés/
 
 # ID-g93cO5C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -48252,6 +48280,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 荷包蛋 荷包蛋 [he2 bao1 dan4] /tükör|tojás/
 
+# ID-i83Xi8g
+# Ver 2022-08-07T02:55:48Z NagyHenrik Stat-New >。
+女神游樂廳 女神游乐厅 [nü3 shen2 you2 le4 ting1] /Folies Bergère/
+
 # ID-i83XR0T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 可行 可行 [ke3 xing2] /meg|valósítható/ki|vitelezhető/
@@ -51580,6 +51612,10 @@ X X [X] /X/
 # ID-j44CO6j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 地帶 地带 [di4 dai4] /zóna/övezet/régió/
+
+# ID-j44Er9Z
+# Ver 2022-08-07T09:39:17Z NagyHenrik Stat-New >.
+立場堅定 立场坚定 [li4 chang3 jian1 ding4] /határozott álláspont/
 
 # ID-j44Pn3V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -64469,6 +64505,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 田納西州 田纳西州 [tian2 na4 xi1 zhou1] /(földrajzi név) Tennessee/
 
+# ID-l76Ul2K
+# Ver 2022-08-07T03:50:32Z NagyHenrik Stat-New >.
+宣布戒嚴 宣布戒严 [xuan1 bu4 jie4 yan2] /statáriumot kihirdet/rendkívüli állapotot hirdet /
+
 # ID-l76UG6z
 # Ver 2022-04-01T12:36:00Z NagyHenrik Stat-New >.
 外交政策 外交政策 [wai4 jiao1 zheng4 ce4] /külpolitika/
@@ -70957,6 +70997,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 蒸發 蒸发 [zheng1 fa1] /el|párolog/párolgás/
 
+# ID-m92rT4k
+# Ver 2022-08-07T04:19:14Z NagyHenrik Stat-New >,
+蒂羅爾州 蒂罗尔州 [di4 luo1 er3 zhou1] /Tirol/
+
 # ID-m92uu7C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 刷 刷 [shua4] /ki|választ/
@@ -71673,6 +71717,10 @@ XX XX [x x] /x/
 # ID-n05NZ7V
 # Ver 2022-05-09T03:37:33Z NagyHenrik Stat-New >.
 勞動態度 劳动态度 [lao2 dong4 tai4 du4] /munkamorál/
+
+# ID-n05Qx8U
+# Ver 2022-08-07T08:07:37Z NagyHenrik Stat-New >.
+豌豆象 豌豆象 [wan1 dou4 xiang4] /borsózsizsik; Bruchus pisi/
 
 # ID-n05UR7R
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -80336,6 +80384,10 @@ XX XX [x x] /x/
 # ID-o69lZ2y
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 陰暗 阴暗 [yin1 an4] /sötét/komor/nyomasztó/
+
+# ID-o69sB3F
+# Ver 2022-08-07T08:14:18Z NagyHenrik Stat-New >.
+予以錶揚 予以表扬 [yu3 yi3 biao3 yang2] /megdicsér/
 
 # ID-o69CK9X
 # Ver 2021-04-10T18:37:48Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
