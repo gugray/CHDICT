@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-08-08T02:00:01Z
+# Időbélyeg / Timestamp: 2022-08-09T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -2030,6 +2030,10 @@
 # 齦 龈 [yin2] /íny/
 # Ver 2021-05-31T18:58:58Z gabor Stat-Verif >.
 齦 龈 [yin2] /íny/
+
+# ID-a36kI9U
+# Ver 2022-08-08T06:29:40Z NagyHenrik Stat-New >.
+全身赤裸 全身赤裸 [quan2 shen1 chi4 luo3] /anyaszült meztelen/
 
 # ID-a36od8E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -5694,6 +5698,10 @@
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 遛狗 遛狗 [liu4 gou3] /kutyát sétáltat/
 
+# ID-b03Dj0a
+# Ver 2022-08-08T06:30:35Z NagyHenrik Stat-New >.
+澆口 浇口 [jiao1 kou3] /csapolócsatorna; beömlőnyílás/
+
 # ID-b03FP3C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 伯母 伯母 [bo2 mu3] /nagy|néni (apa bátyjának felesége)/(tiszteletteljes megszólítás a beszélő anyjával nagyjából egykorú nők felé)/
@@ -7122,6 +7130,10 @@
 # ID-b29rx3E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 畢 毕 [bi4] /be|fejez/el|ér/el|végez/teljes egész/(családnév) Bi/
+
+# ID-b29sa6y
+# Ver 2022-08-08T07:01:15Z NagyHenrik Stat-New >。
+兵敗如山倒 兵败如山倒 [bing1 bai4 ru2 shan1 dao3] /a megvert hadsereg olyan, mint a hegyomlás/
 
 # ID-b29wN3z
 # Ver 2021-03-22T18:09:46Z Adam Stat-New >Bartos–Hamar-nagyszótár, https://en.wiktionary.org/wiki/%E5%B3%AA#Chinese
@@ -10758,6 +10770,10 @@
 # 開拓者 开拓者 [kai1 tuo4 zhe3] /úttörő (átvitten is)/(tulajdonnév) Pioneer űrszonda/
 # Ver 2021-08-15T19:22:40Z gabor Stat-Verif >.
 開拓者 开拓者 [kai1 tuo4 zhe3] /úttörő (átvitten is)/(tulajdonnév) Pioneer űrszonda/
+
+# ID-b97Ve7m
+# Ver 2022-08-08T06:48:39Z NagyHenrik Stat-New >.
+免簽證國家 免签证国家 [mian3 qian1 zheng4 guo2 jia1] /vízummentességet élvező országok/
 
 # ID-b97Vo4V
 # Ver 2017-12-12T20:21:51Z GaoYanuo Stat-New >CC_CEDICT
@@ -18378,6 +18394,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-d36aI8T
 # Ver 2022-04-16T09:22:54Z NagyHenrik Stat-New >.
 等效天線 等效天线 [deng3 xiao4 tian1 xian4] /egyenértékű antenna/
+
+# ID-d36fj1R
+# Ver 2022-08-08T03:33:26Z NagyHenrik Stat-New >。
+托裡拆利真空 托里拆利真空 [tuo1 li3 chai1 li4 zhen1 kong1] /Torricelli vákuum/
 
 # ID-d36gw1f
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -26062,6 +26082,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e75gY4G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 背包 背包 [bei1 bao1] /hátizsák/SZ:個|个[ge4]/
+
+# ID-e75hY1j
+# Ver 2022-08-08T07:37:16Z NagyHenrik Stat-New >.
+節日促銷 节日促销 [jie2 ri4 cu4 xiao1] /ünnepi kiárusítás/
 
 # ID-e75mp8o
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -33855,6 +33879,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2022-03-28T01:25:18Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E8%BE%87%E8%B7%AF/500505?fr=aladdin
 輦路 辇路 [nian3 lu4] /út, melyen a császár kocsija halad/
 
+# ID-g17Rg7Q
+# Ver 2022-08-08T07:02:16Z NagyHenrik Stat-New >。
+彬彬有禮 彬彬有礼 [bin1 bin1 you3 li3] /kifinomultan udvarias；előzékeny/
+
 # ID-g17Rs1K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 徵 征 [zheng1] /ki|vet (adót)/ki|sajátít/toboroz; soroz/bizonyíték/jel; tünet/
@@ -34625,6 +34653,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-g31Xv4P
 # Ver 2022-06-23T14:47:33Z NagyHenrik Stat-New >.
 霓虹燈廣告牌 霓虹灯广告牌 [ni2 hong2 deng1 guang3 gao4 pai2] /neonreklám; fényreklám/
+
+# ID-g32hW8S
+# Ver 2022-08-08T06:28:13Z NagyHenrik Stat-New >.
+全身麻醉 全身麻醉 [quan2 shen1 ma2 zui4] /általános érzéstelenítés/
 
 # ID-g32rW5E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -54576,6 +54608,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 尚 尚 [shang4] /még/tisztel/becsül/(családnév) Shang/
 
+# ID-j99rC1U
+# Ver 2022-08-08T06:49:37Z NagyHenrik Stat-New >.
+免稅待遇 免税待遇 [mian3 shui4 dai4 yu4] /adómentesség/adómentes elbánás/
+
 # ID-j99rD2w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 知道 知道 [zhi1 dao4] /tud (tudatában van vminek)/meg|tud/ismer/
@@ -54995,6 +55031,10 @@ X X [X] /X/
 # ID-k06XH1K
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 聖彼得 圣彼得 [sheng4 bi3 de2] /(tulajdonnév) Szent Péter/
+
+# ID-k07fJ8j
+# Ver 2022-08-08T03:09:43Z NagyHenrik Stat-New >。
+不成文法 不成文法 [bu4 cheng2 wen2 fa3] /íratlan törvény /
 
 # ID-k07gQ2q
 # Ver 2021-04-10T18:29:12Z Adam Stat-New >kínai Wikipedia 世界政區索引 szócikkéből, CC-CEDICT által megerősítve
@@ -62136,6 +62176,10 @@ X X [X] /X/
 # Ver 2017-12-12T15:26:28Z gabor Stat-Verif >.
 雙語 双语 [shuang1 yu3] /két|nyelvű/
 
+# ID-l35bM7A
+# Ver 2022-08-08T04:42:48Z NagyHenrik Stat-New >。
+場麵話 场面话 [chang3 mian4 hua4] /közhely/
+
 # ID-l35gz2d
 # Ver 2022-03-15T15:13:36Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%BD%98%E8%AF%BA%E5%B0%BC%E4%BA%9A%E5%B9%B3%E5%8E%9F
 潘諾尼亞平原 潘诺尼亚平原 [pan1 nuo4 ni2 ya4 ping2 yuan2] /Pannon-síkság/
@@ -63441,6 +63485,10 @@ X X [X] /X/
 # ID-l56Dz5B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 檢驗 检验 [jian3 yan4] /meg|viszgál/ellen|őriz/
+
+# ID-l56LX4y
+# Ver 2022-08-08T07:33:22Z NagyHenrik Stat-New >.
+檢閱台 检阅台 [jian3 yue4 tai2] /seregszemle-emelvény; dísztribün/
 
 # ID-l56MC6H
 # Ver 2022-08-05T07:31:46Z NagyHenrik Stat-New >.
@@ -78599,6 +78647,10 @@ XX XX [x x] /x/
 # ID-o34IM9O
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 技 技 [ji4] /technika; készség; képesség/
+
+# ID-o34MN6r
+# Ver 2022-08-08T03:10:45Z NagyHenrik Stat-New >.
+哼唷 哼唷 [heng1 yo1] /hórukk!；húzzad!；rajta!/
 
 # ID-o34Xz8c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
