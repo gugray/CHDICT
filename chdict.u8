@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-08-10T02:00:01Z
+# Időbélyeg / Timestamp: 2022-08-11T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -2344,6 +2344,10 @@
 # ID-a41WD8j
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 日間 日间 [ri4 jian1] /nappal; nap (időegység)/
+
+# ID-a42aD6A
+# Ver 2022-08-10T02:42:37Z NagyHenrik Stat-New >.
+韌皮部 韧皮部 [ren4 pi2 bu4] /háncs; floém/
 
 # ID-a42dY3I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -11737,6 +11741,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 火焰 火焰 [huo3 yan4] /láng/SZ:团|糰[tuan2]/
 
+# ID-c14uZ1p
+# Ver 2022-08-10T06:14:22Z NagyHenrik Stat-New >.
+供給曲線 供给曲线 [gong1 gei3 qu1 xian4] /kínálati görbe/
+
 # ID-c14yX7Y
 # Ver 2022-03-25T11:55:52Z NagyHenrik Stat-New >.
 頭號敵人 头号敌人 [tou2 hao4 di2 ren2] /első számú ellenség/
@@ -12693,6 +12701,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 下水道 下水道 [xia4 shui3 dao4] /csatorna/szennyvíz|csatorna/csatorna|hálózat/
 
+# ID-c33HW8C
+# Ver 2022-08-10T07:53:04Z NagyHenrik Stat-New >.
+審判員 审判员 [shen3 pan4 yuan2] /bíró/bírósági tisztviselő/törvényszéki tisztviselő/
+
 # ID-c33LY0z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 買 买 [mai3] /vesz (pénzért megvesz)/vásárol/
@@ -13009,6 +13021,10 @@
 # ID-c39Nf2h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 煩心 烦心 [fan2 xin1] /bosszantó/nyűgös/nehézkes/
+
+# ID-c39OD2M
+# Ver 2022-08-10T06:01:51Z NagyHenrik Stat-New >.
+恭敬不如從命 恭敬不如从命 [gong1 jing4 bu4 ru2 cong2 ming4] /jobb tisztelettudóan elfogadni, mint udvariasan visszautasítani vmit/
 
 # ID-c39Tl3j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -18100,6 +18116,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 暴露 暴露 [bao4 lu4] /fel|fed/le|leplez/ki|tesz (időjárásnak, napsütésnek)/
 
+# ID-d30iJ3d
+# Ver 2022-08-10T02:44:35Z NagyHenrik Stat-New >.
+韌力 韧力 [ren4 li4] /vasakarat/
+
 # ID-d30rL5s
 # Ver 2022-05-12T02:29:05Z NagyHenrik Stat-New >.
 鶯科 莺科 [ying1 ke1] /óvilági poszátafélék; Sylviidae/
@@ -19779,6 +19799,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 小便 小便 [xiao3 bian4] /vizel/vizelet/pisi/
 
+# ID-d60Gi2s
+# Ver 2022-08-10T05:09:08Z NagyHenrik Stat-New >.
+撲熱息痛 扑热息痛 [pu1 re4 xi1 tong4] /paracetamol/
+
 # ID-d60IM7G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 到 到 [dao4] /el|ér (vhova)/megy (vhova)/-ba; -be (megy)/-ig/(igei kiegészítő: befejezettséget, teljesülést jelez)/
@@ -20072,6 +20096,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-d66fy8J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 稍後 稍后 [shao1 hou4] /kicsit később/
+
+# ID-d66hJ0L
+# Ver 2022-08-10T07:54:18Z NagyHenrik Stat-New >.
+審判機關 审判机关 [shen3 pan4 ji1 guan1] /bírói szerv/igazságügyi szerv/
 
 # ID-d66oK4Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -24647,6 +24675,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 室友 室友 [shi4 you3] /szoba|társ/lakó|társ/
 
+# ID-e48Ij4O
+# Ver 2022-08-10T03:31:00Z NagyHenrik Stat-New >.
+俯視圖 俯视图 [fu3 shi4 tu2] /felülnézeti kép; madártávlati kép/
+
 # ID-e48JA0B
 # Ver 2017-05-27T00:06:54Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
 遊隼 游隼 [you2 sun3] /vándor|sólyom (Falco peregrinus)/
@@ -25058,6 +25090,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e56Ql3X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 那種 那种 [na4 zhong3] /az a fajta/olyan/
+
+# ID-e56Qq0m
+# Ver 2022-08-10T06:45:37Z NagyHenrik Stat-New >.
+晚秋 晚秋 [wan3 qiu1] /késő ősz; az ősz vége; őszutó/késő őszi termés/
 
 # ID-e56QO3E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -26437,6 +26473,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e82uB1z
 # Ver 2022-03-28T02:53:04Z NagyHenrik Stat-New >.
 巨蛇座 巨蛇座 [ju4 she2 zuo4] /Serpens; Kígyó csillagkép/
+
+# ID-e82yx2r
+# Ver 2022-08-10T07:50:04Z NagyHenrik Stat-New >.
+審查官員 审查官员 [shen3 cha2 guan1 yuan2] /cenzor/
 
 # ID-e82zW1J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -28680,6 +28720,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 嫌疑犯 嫌疑犯 [xian2 yi2 fan4] /gyanúsított/
 
+# ID-f24Ax1M
+# Ver 2022-08-10T06:13:32Z NagyHenrik Stat-New >.
+海蜘蛛 海蜘蛛 [hai3 zhi1 zhu1] /tengeri pók; Maia squinado/
+
 # ID-f24Gf6t
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 人渣 人渣 [ren2 zha1] /söpredék/
@@ -29612,6 +29656,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f41Uq6P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 刑 刑 [xing2] /büntetés/fenyítés/(családnév) Xing/
+
+# ID-f41XB2L
+# Ver 2022-08-10T03:32:44Z NagyHenrik Stat-New >.
+腐蝕劑 腐蚀剂 [fu3 shi2 ji4] /maróanyag; marószer/rozsdásító; korróziót okozó anyag/
 
 # ID-f41YE0s
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -31518,6 +31566,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 六分儀 六分仪 [liu4 fen1 yi2] /szextáns/
 
+# ID-f74zU2R
+# Ver 2022-08-10T06:22:38Z NagyHenrik Stat-New >.
+九大行星 九大行星 [jiu3 da4 hang2 xing1] /a Naprendszer 9 bolygója/
+
 # ID-f74zX6l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 變態 变态 [bian4 tai4] /metamorfózis/abnormális/rendellenes/
@@ -31969,6 +32021,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f81Yj4y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 凹坑 凹坑 [ao1 keng1] /horpaszt/homorú bemélyedés/
+
+# ID-f82mh9D
+# Ver 2022-08-10T06:47:01Z NagyHenrik Stat-New >.
+惋 惋 [wan3] /sóhajt; sóhajtozik/
 
 # ID-f82IG1z
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -34266,6 +34322,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2019-12-04T12:37:05Z gabor Stat-Verif >ez az igazi!
 度日 度日 [du4 ri4] /tengeti napjait/épp hogy meg|él/
 
+# ID-g23vV1P
+# Ver 2022-08-10T06:19:19Z NagyHenrik Stat-New >.
+攻擊型選手 攻击型选手 [gong1 ji1 xing2 xuan3 shou3] /támadó játékos/agresszív játékos/
+
 # ID-g23HM2r
 # Ver 2022-03-25T03:06:19Z NagyHenrik Stat-New >.
 隨筆 随笔 [sui2 bi3] /kötetlen, könnyed esszé/feljegyzések; jegyzetek; rövid vázlatok/
@@ -34435,6 +34495,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-g27hs3r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 謊 谎 [huang3] /hazugság/
+
+# ID-g27jM8V
+# Ver 2022-08-10T09:24:49Z NagyHenrik Stat-New >。
+璀璨奪目 璀璨夺目 [cui3 can4 duo2 mu4] /vakító/
 
 # ID-g27lU9q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -34669,6 +34733,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-g31iK5o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 模型 模型 [mo2 xing2] /modell/makett/minta/
+
+# ID-g31jc9d
+# Ver 2022-08-10T02:25:04Z NagyHenrik Stat-New >.
+貧病交迫 贫病交迫 [pin2 bing4 jiao1 po4] /szegénység és betegség egyszerre sújtja/
 
 # ID-g31oE2a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -35537,6 +35605,10 @@ X X [X] /X/
 # ID-g47QG7O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 罪案 罪案 [zui4 an4] /bűn|eset/bűn|ügy/
+
+# ID-g47QJ6f
+# Ver 2022-08-10T06:22:11Z NagyHenrik Stat-New >.
+金碧輝煌 金碧辉煌 [jin1 bi4 hui1 huang2] /lenyűgöző; pompás; fényűző/
 
 # ID-g48av1p
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -38781,6 +38853,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 冤枉 冤枉 [yuan1 wang5] /fölösleges; el|fecsérelt/igazságtalanul bánik (vkivel)/
 
+# ID-h05ct1A
+# Ver 2022-08-10T08:49:53Z NagyHenrik Stat-New >.
+歸謬法 归谬法 [gui1 miu4 fa3] /visszavezetés az abszurdra; reductio ad absurdum/
+
 # ID-h05lX9k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 厭 厌 [yan4] /utál/elege van (vmiből)/un (vmit)/
@@ -40985,9 +41061,17 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 探討 探讨 [tan4 tao3] /ki|vizsgál (kérdést, ügyet)/
 
+# ID-h49zM9x
+# Ver 2022-08-10T08:52:22Z NagyHenrik Stat-New >.
+散布謠言 散布谣言 [san4 bu4 yao2 yan2] /pletykát terjeszt/
+
 # ID-h49Bl6y
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 震波 震波 [zhen4 bo1] /lökés|hullám/
+
+# ID-h49HZ3H
+# Ver 2022-08-10T02:31:07Z NagyHenrik Stat-New >.
+賤骨頭 贱骨头 [jian4 gu3 tou5] /nyomorult; szerencsétlen/
 
 # ID-h49Jz0Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -43749,6 +43833,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 重心 重心 [zhong4 xin1] /közép|pont; mag; lényeg/tömeg|középpont/
 
+# ID-h98DR8W
+# Ver 2022-08-10T02:41:42Z NagyHenrik Stat-New >.
+韌皮纖維 韧皮纤维 [ren4 pi2 xian1 wei2] /háncsrost/
+
 # ID-h98Ia2R
 # Ver 2017-12-14T20:16:24Z GaoYanuo Stat-New >CC-CEDICT
 # 妹夫 妹夫 [mei4 fu5] /sógor (húg férje)/
@@ -45196,6 +45284,10 @@ X X [X] /X/
 # ID-i25bf5n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 門鎖 门锁 [men2 suo3] /ajtó|zár/
+
+# ID-i25bR4Q
+# Ver 2022-08-10T06:26:29Z NagyHenrik Stat-New >.
+酒店指南 酒店指南 [jiu3 dian4 zhi3 nan2] /szállodák prospektusa; szállásajánló; szállodaajánló/
 
 # ID-i25cK7q
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -47878,6 +47970,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 可能 可能 [ke3 neng2] /talán/lehetséges/valószínűleg/lehetőség/
 
+# ID-i73HW5y
+# Ver 2022-08-10T06:03:09Z NagyHenrik Stat-New >.
+供給預測 供给预测 [gong1 gei3 yu4 ce4] /kínálati előrejelzés/
+
 # ID-i73Qv4H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 北美 北美 [bei3 mei3] /(földrajzi név) Észak-Amerika/
@@ -48436,6 +48532,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 業餘 业余 [ye4 yu2] /szabad|idő/szabad|idős/amatőr/hobbi-/
 
+# ID-i85aq2Q
+# Ver 2022-08-10T02:46:20Z NagyHenrik Stat-New >.
+韌帶 韧带 [ren4 dai4] /ínszalag/
+
 # ID-i85gD5t
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 接待員 接待员 [jie1 dai4 yuan2] /recepciós/
@@ -48880,6 +48980,10 @@ X X [X] /X/
 # ID-i93Je4H
 # Ver 2022-03-28T03:21:48Z NagyHenrik Stat-New >.
 大犬座 大犬座 [da4 quan3 zuo4] /Canis Major; Nagy Kutya csillagkép/
+
+# ID-i93Pa5j
+# Ver 2022-08-10T07:51:53Z NagyHenrik Stat-New >.
+軍事法庭 军事法庭 [jun1 shi4 fa3 ting2] /haditörvényszék; hadbíróság/
 
 # ID-i93Qa5n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -49744,6 +49848,10 @@ X X [X] /X/
 # ID-j08LO4x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 可言 可言 [ke3 yan2] /el|mondható, hogy/azt lehet mondani, hogy/
+
+# ID-j08Pt6P
+# Ver 2022-08-10T08:03:30Z NagyHenrik Stat-New >.
+掐頭去尾 掐头去尾 [qia1 tou2 qu4 wei3] /lecsípi az elejét és a végét/
 
 # ID-j08SO6j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -53045,6 +53153,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 遙控器 遥控器 [yao2 kong4 qi4] /táv|irányító/
 
+# ID-j69Md1y
+# Ver 2022-08-10T02:26:52Z NagyHenrik Stat-New >.
+貧困地區 贫困地区 [pin2 kun4 di4 qu1] /elszegényedett régió/
+
 # ID-j69OF7J
 # Ver 2022-03-04T16:59:43Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%9D%BF%E5%9D%97%E8%BF%90%E5%8A%A8
 闆塊運動 板块运动 [ban3 kuai4 yun4 dong4] /lemeztektonika；kőzetlemezek mozgása；/
@@ -54593,6 +54705,10 @@ X X [X] /X/
 # ID-j97Pc6F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 位置 位置 [wei4 zhi5] /ülés/hely/helyzet/fekvés/SZ:個|个[ge4]/
+
+# ID-j97PC2Z
+# Ver 2022-08-10T09:38:23Z NagyHenrik Stat-New >.
+狐疑 狐疑 [hu2 yi2] /kételkedik; gyanakszik/
 
 # ID-j97Ry2p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -57295,6 +57411,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 慢慢 慢慢 [man4 man4] /lassan/
 
+# ID-k46tv3B
+# Ver 2022-08-10T06:17:29Z NagyHenrik Stat-New >.
+攻擊性言論 攻击性言论 [gong1 ji1 xing4 yan2 lun4] /támadó megjegyzés/támadó okfejtés/
+
 # ID-k46tV3U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 就是 就是 [jiu4 shi4] /pontosan; éppen úgy/még akkor is, ha/
@@ -57685,6 +57805,10 @@ X X [X] /X/
 # ID-k53fG0J
 # Ver 2022-03-04T16:24:01Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%9C%B0%E7%90%83%E8%BD%A8%E9%81%93
 地球軌道 地球轨道 [di4 qiu2 gui3 dao4] /A Föld keringési pályája/
+
+# ID-k53io6F
+# Ver 2022-08-10T06:44:20Z NagyHenrik Stat-New >.
+婉商 婉商 [wan3 shang1] /udvariasan tárgyal/diplomatikusan tárgyal/
 
 # ID-k53jy5P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -58411,6 +58535,10 @@ X X [X] /X/
 # ID-k67Ff3D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 刺傷 刺伤 [ci4 shang1] /le|szúr (késsel megsebesít)/
+
+# ID-k67JE6D
+# Ver 2022-08-10T05:08:49Z NagyHenrik Stat-New >.
+鋪平道路 铺平道路 [pu4 ping2 dao4 lu4] /kikövezi az utat/megteremti a feltételeket vmi számára/
 
 # ID-k67LA7b
 # Ver 2022-03-02T19:12:45Z GaoYanuo Stat-New >Forrás: 新导报, szokásos szótárak
@@ -62497,6 +62625,10 @@ X X [X] /X/
 # Ver 2022-04-04T11:13:36Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%9D%BE%E9%B8%A6/614455
 松鴉 松鸦 [song1 ya1] /szajkó; európai szajkó; Garrulus glandarius/
 
+# ID-l39IK7O
+# Ver 2022-08-10T04:27:34Z NagyHenrik Stat-New >.
+蜻蜓 蜻蜓 [qing1 ting2] /tavi szitakötő; Anax parthenope/
+
 # ID-l39Kr4B
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 熱量 热量 [re4 liang4] /hő/kalória/
@@ -65560,6 +65692,10 @@ X X [X] /X/
 # ID-l94uw4Y
 # Ver 2022-03-24T01:49:08Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E9%AB%BB
 髻 髻 [ji4] /konty; fejtetőn feltűzött haj/
+
+# ID-l94Ct9q
+# Ver 2022-08-10T02:47:29Z NagyHenrik Stat-New >.
+柔情俠骨 柔情侠骨 [rou2 qing2 xia2 gu3] /gyengéd érzelmek és lovagiasság/
 
 # ID-l94ED5G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -69583,6 +69719,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 痕 痕 [hen2] /seb|hely/nyom/
 
+# ID-m66nj4h
+# Ver 2022-08-10T06:20:45Z NagyHenrik Stat-New >.
+公積金 公积金 [gong1 ji1 jin1] /tartalékalap; tőketartalék/felhalmozási alap; felhalmozott pénzalap/
+
 # ID-m66nR2r
 # Ver 2017-05-23T19:17:05Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek, a "Visegrádi Együttműködés" témájúval megerősítve
 維謝格拉德 维谢格拉德 [wei2 xie4 ge2 la1 de2] /(földrajzi név) Visegrád/
@@ -70022,6 +70162,10 @@ XX XX [x x] /x/
 # ID-m73FN6M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 擁抱 拥抱 [yong1 bao4] /át|ölel/meg|ölel/
+
+# ID-m73Gp4e
+# Ver 2022-08-10T06:18:19Z NagyHenrik Stat-New >.
+公積金貸款 公积金贷款 [gong1 ji1 jin1 dai4 kuan3] /felhalmozott pénzalap hitel/
 
 # ID-m73Ip2E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -70540,6 +70684,10 @@ XX XX [x x] /x/
 # ID-m81va2J
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 捕魚 捕鱼 [bu3 yu2] /halászik/halat fog/
+
+# ID-m81Do0Y
+# Ver 2022-08-10T06:47:24Z NagyHenrik Stat-New >.
+惋傷 惋伤 [wan3 shang1] /fájdalmasan sóhajt/
 
 # ID-m81XW9E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -71997,6 +72145,10 @@ XX XX [x x] /x/
 # Ver 2022-03-29T01:42:29Z NagyHenrik Stat-New >.
 沙文主義 沙文主义 [sha1 wen2 zhu3 yi4] /sovinizmus/
 
+# ID-n07PJ6G
+# Ver 2022-08-10T07:55:45Z NagyHenrik Stat-New >.
+審判長 审判长 [shen3 pan4 zhang3] /tanácselnök bíró/
+
 # ID-n07RF0O
 # Ver 2018-05-18T14:30:00Z GaoYanuo Stat-New >https://www.purpleculture.net/dictionary-details/?word=%E9%81%97%E5%9D%80\nhttp://ce.linedict.com/dict.html#/cnen/example?query=%E9%81%97%E5%9D%80\nkorpusz, stb.
 # 遺址 遗址 [yi2 zhi3] /rom, maradvány/történelmi emlékhely; örökség/relikvia/
@@ -72660,6 +72812,10 @@ XX XX [x x] /x/
 # ID-n21NQ5k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 吞 吞 [tun1] /nyel/le|nyel/be|vesz/
+
+# ID-n21Pt4A
+# Ver 2022-08-10T05:35:48Z NagyHenrik Stat-New >.
+狐狸尾巴 狐狸尾巴 [hu2 li5 wei3 ba5] /rókafarok/sikertelenül igyekszik palástolni a valódi szándékát/kilóg a lóláb/
 
 # ID-n21Rs3N
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -74451,6 +74607,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 雄 雄 [xiong2] /férfi/nagy; lenyűgöző; hatalmas; erős/
 
+# ID-n53Yq1M
+# Ver 2022-08-10T06:25:33Z NagyHenrik Stat-New >.
+酒店套房 酒店套房 [jiu3 dian4 tao4 fang2] /szállodai lakosztály/
+
 # ID-n53Yv4q
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 疤痕 疤痕 [ba1 hen2] /heg/seb|hely/
@@ -75317,6 +75477,10 @@ XX XX [x x] /x/
 # ID-n70sN3v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 一大早 一大早 [yi1 da4 zao3] /kora hajnalban/pirkadatkor/
+
+# ID-n70ue8p
+# Ver 2022-08-10T06:56:06Z NagyHenrik Stat-New >.
+宛延 宛延 [wan3 yan2] /kanyarog; tekereg; kígyózik/
 
 # ID-n70vV7o
 # Ver 2022-02-25T03:51:58Z NagyHenrik Stat-New >https://hanyu.baidu.com/s?wd=%E6%B5%AA%E6%BC%AB%E4%B8%BB%E4%B9%89&from=zici
@@ -79298,6 +79462,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 恐嚇 恐吓 [kong3 he4] /fenyeget/meg|félemlít/
 
+# ID-o44EQ5N
+# Ver 2022-08-10T02:51:02Z NagyHenrik Stat-New >.
+疊韻 叠韵 [die2 yun4] /önmagában rímelő szóösszetétel/
+
 # ID-o44SJ6A
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 殘廢 残废 [can2 fei4] /fogyatékos/nyomorék/
@@ -80674,6 +80842,10 @@ XX XX [x x] /x/
 # ID-o71xP3x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 何必 何必 [he2 bi4] /nincs miért/
+
+# ID-o71zE2u
+# Ver 2022-08-10T06:27:59Z NagyHenrik Stat-New >.
+久而久之 久而久之 [jiu3 er2 jiu3 zhi1] /az idő múlásával; idővel/ahogy telik az idő; ahogy telt-múlt az idő/
 
 # ID-o71BZ7n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -82348,6 +82520,10 @@ XX XX [x x] /x/
 # Ver 2022-03-24T02:11:36Z NagyHenrik Stat-New >.
 鍛 锻 [duan4] /kovácsol/
 
+# ID-p00cR9r
+# Ver 2022-08-10T04:26:32Z NagyHenrik Stat-New >.
+蜻蜓點水 蜻蜓点水 [qing1 ting2 dian3 shui3] /felszínesen/
+
 # ID-p00ks1F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 常見 常见 [chang2 jian4] /gyakori/gyakran látható/
@@ -83228,6 +83404,10 @@ XX XX [x x] /x/
 # 黑戶 黑户 [hei1 hu4] /illegális; iratok nélküli; nem regisztrált (lakos, cég, élettársi kapcsolat stb.)/
 # Ver 2019-09-29T15:41:30Z gabor Stat-Verif >.
 黑戶 黑户 [hei1 hu4] /illegális; iratok nélküli; nem regisztrált (lakos, cég, élettársi kapcsolat stb.)/
+
+# ID-p13WJ1W
+# Ver 2022-08-10T08:46:04Z NagyHenrik Stat-New >.
+正本清源 正本清源 [zheng4 ben3 qing1 yuan2] /gyökeres változás; teljes átalakítás/
 
 # ID-p14rq0v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
