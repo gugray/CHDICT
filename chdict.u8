@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-08-12T02:00:01Z
+# Időbélyeg / Timestamp: 2022-08-16T02:00:02Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -13190,6 +13190,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 瀕臨 濒临 [bin1 lin2] /határán; peremén (vminek)/majdnem; közel/
 
+# ID-c42te2c
+# Ver 2022-08-15T09:15:46Z NagyHenrik Stat-New >.
+亞諾什 亚诺什 [ya4 nuo4 shen2] /János/
+
 # ID-c42tQ4w
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 儀表盤 仪表盘 [yi2 biao3 pan2] /műszer|fal/
@@ -15118,6 +15122,10 @@
 # ID-c75Gq4t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 腎 肾 [shen4] /vese/
+
+# ID-c75Nq4L
+# Ver 2022-08-15T09:16:17Z NagyHenrik Stat-New >.
+阿爾溝地 阿尔沟地 [a1 er3 gou1 de5] /Árkod/
 
 # ID-c75Nt8Y
 # Ver 2022-03-10T09:11:07Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%A4%BE%E4%BC%9A%E5%BF%85%E8%A6%81%E5%8A%B3%E5%8A%A8%E6%97%B6%E9%97%B4/5250510
@@ -30851,6 +30859,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2018-06-04T14:22:17Z Adam Stat-Verif >tanfolyam és kurzus egyazon jelentés alá (ha jól sejtem, hasonló értelemben szerepelnek); előadás egyértelműsítése (oktatás, ti. nem színházi)
 講座 讲座 [jiang3 zuo4] /tanfolyam; kurzus/előadás (oktatás)/SZ:個|个[ge4]/
 
+# ID-f60sh4S
+# Ver 2022-08-15T09:13:26Z NagyHenrik Stat-New >.
+阿比蓋爾 阿比盖尔 [a1 bi3 gai4 er3] /Abigél /
+
 # ID-f60wP8u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 氣象 气象 [qi4 xiang4] /időjárás/meteorológia/
@@ -39152,6 +39164,10 @@ X X [X] /X/
 # ID-h09vq9M
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 擁護者 拥护者 [yong1 hu4 zhe3] /támogató; gondviselő (ember)/
+
+# ID-h09xi2i
+# Ver 2022-08-15T09:00:22Z NagyHenrik Stat-New >.
+魚游釜中 鱼游釜中 [yu2 you2 fu3 zhong1] /nagy veszélyben van/mint hal a fazékban/
 
 # ID-h09yc2c
 # Ver 2021-04-29T16:50:59Z Adam Stat-New >https://en.wikipedia.org/wiki/Provinces_of_China + CC-CEDICT
@@ -48451,6 +48467,10 @@ X X [X] /X/
 # ID-i81Nt0X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 證據 证据 [zheng4 ju4] /bizonyíték/
+
+# ID-i81Oj6E
+# Ver 2022-08-16T01:43:43Z NagyHenrik Stat-New >.
+置信區間 置信区间 [zhi4 xin4 qu1 jian1] /konfidencia intervallum/
 
 # ID-i81OL2y
 # Ver 2022-05-19T14:44:28Z NagyHenrik Stat-New >.
@@ -81058,6 +81078,10 @@ XX XX [x x] /x/
 # ID-o71lD2g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 大聲 大声 [da4 sheng1] /fennhangon/hangosan/
+
+# ID-o71rr8k
+# Ver 2022-08-15T09:14:09Z NagyHenrik Stat-New >.
+索普隆 索普隆 [suo3 pu3 long2] /Sopron /
 
 # ID-o71xP3x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
