@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-08-16T02:00:02Z
+# Időbélyeg / Timestamp: 2022-08-17T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -630,6 +630,10 @@
 # ID-a10Kl4E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 父親 父亲 [fu4 qin1] /apa/SZ:個|个[ge4]/
+
+# ID-a10Ms3F
+# Ver 2022-08-16T03:59:44Z NagyHenrik Stat-New >.
+雷達防禦 雷达防御 [lei2 da2 fang2 yu4] /radarvédelem/
 
 # ID-a10NE6R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
