@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-08-29T02:00:01Z
+# Időbélyeg / Timestamp: 2022-09-07T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -17518,6 +17518,10 @@
 # ID-d17lY8h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 須知 须知 [xu1 zhi1] /tudnivalók/tájékoztató lap/
+
+# ID-d17qC9V
+# Ver 2022-09-07T01:17:17Z NagyHenrik Stat-New >.
+懸浮體 悬浮体 [xuan2 fu2 ti3] /szuszpenzió; szuszpendált anyag/
 
 # ID-d17zO9h
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
