@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-09-07T02:00:01Z
+# Időbélyeg / Timestamp: 2022-09-08T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -17657,6 +17657,10 @@
 # ID-d20HX1e
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 堂兄弟 堂兄弟 [tang2 xiong1 di4] /unokatestvér (apai ágon)/
+
+# ID-d20Ll8C
+# Ver 2022-09-07T12:33:07Z NagyHenrik Stat-New >.
+防護林 防护林 [fang2 hu4 lin2] /véderdő; erdő-védőövezet/
 
 # ID-d20Ni8K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
