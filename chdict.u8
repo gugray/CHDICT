@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-09-08T02:00:01Z
+# Időbélyeg / Timestamp: 2022-09-12T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -9335,6 +9335,10 @@
 # ID-b70CP2t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 本性 本性 [ben3 xing4] /természetes ösztönök/természet/
+
+# ID-b70DM4T
+# Ver 2022-09-11T04:53:39Z NagyHenrik Stat-New >.
+壓製闆 压制板 [ya1 zhi4 ban3] /préselt kartonpapír/
 
 # ID-b70Ox1c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
