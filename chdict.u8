@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-09-16T02:00:02Z
+# Időbélyeg / Timestamp: 2022-09-24T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -33624,6 +33624,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-g09Dr0d
 # Ver 2022-08-02T01:26:54Z NagyHenrik Stat-New >.
 獨到的見解 独到的见解 [du2 dao4 de5 jian4 jie3] /egyedi felfogás/
+
+# ID-g09Fh2U
+# Ver 2022-09-23T12:06:58Z NagyHenrik Stat-New >.
+課堂討論 课堂讨论 [ke4 tang2 tao3 lun4] /osztálymegbeszélés/
 
 # ID-g09IZ4g
 # Ver 2022-05-28T08:07:56Z NagyHenrik Stat-New >.
@@ -70514,6 +70518,10 @@ XX XX [x x] /x/
 # ID-m74Yp7K
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 車錢 车钱 [che1 qian2] /fuvar|díj; bérlet; jegy (közlekedési eszközre)/
+
+# ID-m75hx5D
+# Ver 2022-09-23T05:52:23Z NagyHenrik Stat-New >.
+馬可奧勒留 马可奥勒留 [ma3 ke3 ao4 lei1 liu2] /Marcus Aurelius (121-180) római császár/
 
 # ID-m75nb3W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
