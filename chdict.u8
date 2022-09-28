@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-09-24T02:00:01Z
+# Időbélyeg / Timestamp: 2022-09-28T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -9645,6 +9645,10 @@
 # ID-b76oE8E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 呵 呵 [a1] /(indulatszó) ó; á/
+
+# ID-b76tf7L
+# Ver 2022-09-27T06:56:18Z NagyHenrik Stat-New >。
+雷卡米耶夫人 雷卡米耶夫人 [lei2 ka3 mi3 ye2 fu1 ren2] /Madame Récamier/
 
 # ID-b76xf6p
 # Ver 2022-03-28T06:03:02Z NagyHenrik Stat-New >.
@@ -80695,6 +80699,10 @@ XX XX [x x] /x/
 # ID-o62sO6G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 枝 枝 [zhi1] /ág/(számlálószó: rúd, pálca, ceruza)/
+
+# ID-o62uS2v
+# Ver 2022-09-27T06:54:51Z NagyHenrik Stat-New >。
+朱麗葉雷卡米耶 朱丽叶雷卡米耶 [zhu1 li4 ye4 lei2 ka3 mi3 ye2] /Juliette Récamier/
 
 # ID-o62wq3p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
