@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-10-03T02:00:01Z
+# Időbélyeg / Timestamp: 2022-10-04T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -3735,6 +3735,10 @@
 # ID-a68pJ8w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 髒話 脏话 [zang1 hua4] /káromkodás/mocskos beszéd/
+
+# ID-a68za0b
+# Ver 2022-10-03T07:13:22Z NagyHenrik Stat-New >.
+匈牙利科學院 匈牙利科学院 [xiong1 ya2 li4 ke1 xue2 yuan4] /Magyar Tudományos Akadémia/
 
 # ID-a68zf6k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -13666,6 +13670,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 前胸 前胸 [qian2 xiong1] /mell; mellkas/
 
+# ID-c51mJ9B
+# Ver 2022-10-03T04:03:14Z NagyHenrik Stat-New >.
+烏爾第三王朝 乌尔第三王朝 [wu1 er3 di4 san1 wang2 chao2] /III. uri dinasztia/
+
 # ID-c51mZ4t
 # Ver 2018-04-18T21:02:00Z GaoYanuo Stat-New >http://www.youdao.com/w/%E6%AF%8D%E4%BA%B2%E6%B2%B3/#keyfrom=dict2.top\ntanár\n\nOlyasmi, mint az oroszoknál a "Volga anyácska".
 # 母親河 母亲河 [mu3 qin1 he2] /Sárga folyó (a folyó népies neve)/
@@ -14960,6 +14968,10 @@
 # ID-c72TZ9w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 插 插 [cha1] /be|dug/belé|szúr/be|szúr (szövegbe)/
+
+# ID-c72Xj3v
+# Ver 2022-10-03T06:47:50Z NagyHenrik Stat-New >.
+雅典娜 雅典娜 [ya3 dian3 na4] /Pallasz Athéné/
 
 # ID-c73cX1u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -19760,6 +19772,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-d58tT3O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 親口 亲口 [qin1 kou3] /saját szájából/személyesen/
+
+# ID-d58xb6I
+# Ver 2022-10-03T06:21:21Z NagyHenrik Stat-New >.
+寧鬆 宁松 [ning4 song1] / Ninszun (Gilgames anyja)/
 
 # ID-d58zG8I
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -25622,6 +25638,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e63DK4G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 申報 申报 [shen1 bao4] /nyilatkozatot tesz/deklarál (elvámolandó árut)/jelent (felettes hatóságnak)/
+
+# ID-e63Ew7N
+# Ver 2022-10-03T06:43:22Z NagyHenrik Stat-New >.
+伊絲塔 伊丝塔 [yi1 si1 ta3] /Istar (istennő a mezopotámiai mitológiában )/
 
 # ID-e63JS6t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -32420,6 +32440,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 累累 累累 [lei4 lei4] /fáradt; ki|merült; levert/újra meg újra; ismételten/
 
+# ID-f88qt5Y
+# Ver 2022-10-03T03:28:14Z NagyHenrik Stat-New >。
+啟什 启什 [qi3 shen2] /Kis (ókori sumer városállam）/
+
 # ID-f88Ae1h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 擅長 擅长 [shan4 chang2] /jó (vmiben)/ért (vmihez)/
@@ -34412,6 +34436,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-g22Kf7J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 拔苗助長 拔苗助长 [ba2 miao2 zhu4 zhang3] /(kifejezés) túlzott lelkesedésével el|ront/
+
+# ID-g22Nr5W
+# Ver 2022-10-03T03:31:53Z NagyHenrik Stat-New >.
+巴格達 巴格达 [ba1 ge2 da2] /Bagdad/
 
 # ID-g22Sm8k
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -36894,6 +36922,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 弄 弄 [long4] /utca/
 
+# ID-g67uY2p
+# Ver 2022-10-03T03:19:12Z NagyHenrik Stat-New >。
+幼發拉底河 幼发拉底河 [you4 fa1 la1 di3 he2] /Eufrátesz/
+
 # ID-g67Gs1T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 根部 根部 [gen1 bu4] /gyökér/
@@ -37930,6 +37962,10 @@ X X [X] /X/
 # ID-g87nK4E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 圖像 图像 [tu2 xiang4] /kép/képi/grafikus/
+
+# ID-g87rn3X
+# Ver 2022-10-03T03:35:22Z NagyHenrik Stat-New >.
+阿卡德語 阿卡德语 [a1 ka3 de2 yu3] /akkád (nyelv)/
 
 # ID-g87By1P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -46500,6 +46536,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 一致 一致 [yi1 zhi4] /egyhangú (vélemény, álláspont)/
 
+# ID-i44yz2A
+# Ver 2022-10-03T02:59:38Z NagyHenrik Stat-New >。
+恩奇都 恩奇都 [en1 qi2 du1] /Enkidu/
+
 # ID-i44zk6V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 戲 戏 [xi4] /dráma/szín|darab/SZ:出[chu1],場|场[chang3],臺|台[tai2]/játszik/viccel/
@@ -48410,6 +48450,10 @@ X X [X] /X/
 # Ver 2019-07-01T22:20:48Z GaoYanuo Stat-New >https://www.xyzdict.com/en/chinese-english/%E8%B4%9F%E8%8D%B7\n
 負荷 负荷 [fu4 he4] /teher (fizikai)/terhelés (fizikai)/üzemi terhelés/
 
+# ID-i79lS0X
+# Ver 2022-10-03T03:05:23Z NagyHenrik Stat-New >。
+美索不達米亞 美索不达米亚 [mei3 suo3 bu4 da2 mi3 ya4] /Mezopotámia /
+
 # ID-i79nm6R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 越過 越过 [yue4 guo4] /keresztez/át|lép/meg|halad/meg|tesz (távolságot)/felül|emelkedik/
@@ -50119,6 +50163,10 @@ X X [X] /X/
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 兵力 兵力 [bing1 li4] /katonai erő/csapatok; sereg/
 
+# ID-j10bY1t
+# Ver 2022-10-03T03:49:54Z NagyHenrik Stat-New >.
+蜡闆 蜡板 [la4 ban3] /viasz írótábla/
+
 # ID-j10eU1H
 # Ver 2019-07-01T23:25:01Z GaoYanuo Stat-New >排出
 # 排出 排出 [pai2 chu1] /kibocsájtás/kiválasztás(anyagé pl. mirigy)/kiadás (anyagot valahonnan)/ürítés/
@@ -50927,6 +50975,10 @@ X X [X] /X/
 # ID-j23yk1c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 瓜分 瓜分 [gua1 fen1] /fel|oszt/részekre oszt/
+
+# ID-j23EE8C
+# Ver 2022-10-03T03:17:24Z NagyHenrik Stat-New >。
+蘇美爾 苏美尔 [su1 mei3 er3] /Sumer/
 
 # ID-j23MH1o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -53025,6 +53077,10 @@ X X [X] /X/
 # ID-j62VD7R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 帽 帽 [mao4] /sapka/kalap/
+
+# ID-j62YD6h
+# Ver 2022-10-03T03:22:28Z NagyHenrik Stat-New >。
+底格里斯河 底格里斯河 [di3 ge2 li3 si1 he2] /Tigris folyó/
 
 # ID-j63eW2a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -61547,6 +61603,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 性衝動 性冲动 [xing4 chong1 dong4] /libidó; szexuális késztetés/
 
+# ID-l16Vs1O
+# Ver 2022-10-03T03:59:08Z NagyHenrik Stat-New >.
+漢謨拉比 汉谟拉比 [han4 mo2 la1 bi3] /Hammurapi; Hammurábi ( Babilon város királya)/
+
 # ID-l16Xw9m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 家庭 家庭 [jia1 ting2] /család/háztartás/SZ:戶|户[hu4],個|个[ge4]/
@@ -61658,6 +61718,10 @@ X X [X] /X/
 # ID-l19df7E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 獻祭 献祭 [xian4 ji4] /áldozatot mutat be/
+
+# ID-l19dt2H
+# Ver 2022-10-03T07:05:24Z NagyHenrik Stat-New >.
+希臘神話 希腊神话 [xi1 la4 shen2 hua4] /görög mitológia/
 
 # ID-l19fK6E
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -62423,6 +62487,10 @@ X X [X] /X/
 # ID-l30WW0J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 罐頭 罐头 [guan4 tou5] /konzerv|doboz/
+
+# ID-l31ag5b
+# Ver 2022-10-03T06:56:50Z NagyHenrik Stat-New >.
+克羅諾斯 克罗诺斯 [ke4 luo2 nuo4 si1] /Kronosz (Zeusz apja)/
 
 # ID-l31aJ6n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -72593,6 +72661,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 反之 反之 [fan3 zhi1] /másrészt/ezzel szemben/
 
+# ID-n11PI3e
+# Ver 2022-10-03T03:51:58Z NagyHenrik Stat-New >.
+巴比倫 巴比伦 [ba1 bi3 lun2] /Babilon; Babilón/
+
 # ID-n11PX1t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 重力 重力 [zhong4 li4] /gravitáció/nehézkedés/
@@ -72600,6 +72672,10 @@ XX XX [x x] /x/
 # ID-n11Sc2T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 活 活 [huo2] /él (életben van)/élő/munka/állás/
+
+# ID-n11Yi7Q
+# Ver 2022-10-03T02:48:42Z NagyHenrik Stat-New >。
+烏魯剋 乌鲁克 [wu1 lu3 ke4] /Uruk/
 
 # ID-n12gv7o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -72729,6 +72805,10 @@ XX XX [x x] /x/
 # ID-n15tF7B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 餓 饿 [e4] /éhes/éhezik/
+
+# ID-n15uS4N
+# Ver 2022-10-03T03:24:23Z NagyHenrik Stat-New >。
+阿卡德帝國 阿卡德帝国 [a1 ka3 de2 di4 guo2] /Akkád Birodalom /
 
 # ID-n15vz8h
 # Ver 2022-03-28T14:48:29Z NagyHenrik Stat-New >.
@@ -82901,6 +82981,10 @@ XX XX [x x] /x/
 # ID-p00OG5F
 # Ver 2022-03-28T09:22:53Z NagyHenrik Stat-New >.
 術士 术士 [shu4 shi4] /konfuciánus írástudó/mágus/
+
+# ID-p00TO7c
+# Ver 2022-10-03T02:40:46Z NagyHenrik Stat-New >。
+吉爾伽美什史詩 吉尔伽美什史诗 [ji2 er3 ga1 mei3 shi2 shi3 shi1] /Gilgames-eposz/
 
 # ID-p00XO4z
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
