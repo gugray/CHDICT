@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-10-04T02:00:01Z
+# Időbélyeg / Timestamp: 2022-10-05T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -51999,6 +51999,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 水利 水利 [shui3 li4] /víz|védelem/folyó|szabályozás/öntözés/
 
+# ID-j43gu7K
+# Ver 2022-10-04T15:31:54Z NagyHenrik Stat-New >.
+亞諾什 亚诺什 [ya4 nuo4 shi2] / János/
+
 # ID-j43gz5q
 # Ver 2017-05-23T18:42:51Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
 肖普朗 肖普朗 [xiao1 pu3 lang3] /(földrajzi név) Sopron/
@@ -52971,6 +52975,10 @@ X X [X] /X/
 # ID-j60NX7G
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 家庭主婦 家庭主妇 [jia1 ting2 zhu3 fu4] /házi|asszony/
+
+# ID-j61or2A
+# Ver 2022-10-04T07:40:49Z NagyHenrik Stat-New >。
+威廉薩默塞特毛姆 威廉萨默塞特毛姆 [wei1 lian2 sa4 mo4 sai1 te4 mao2 mu3] /William Somerset Maugham/
 
 # ID-j61vh6M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -65521,6 +65529,10 @@ X X [X] /X/
 # ID-l84PY0l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 表演 表演 [biao3 yan3] /előad/demonstrál/elő|adás/kiállítás/SZ:場|场[chang3]/
+
+# ID-l84RS7S
+# Ver 2022-10-04T15:23:34Z NagyHenrik Stat-New >.
+清教主義 清教主义 [qing1 jiao4 zhu3 yi4] /Puritanizmus/
 
 # ID-l84YP9B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
