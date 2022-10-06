@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-10-05T02:00:01Z
+# Időbélyeg / Timestamp: 2022-10-06T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -63693,6 +63693,10 @@ X X [X] /X/
 # ID-l51Oy4p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 權益 权益 [quan2 yi4] /jogok és érdekek/
+
+# ID-l51Uy5d
+# Ver 2022-10-05T14:41:16Z NagyHenrik Stat-New >.
+花腔女高音 花腔女高音 [hua1 qiang1 nü3 gao1 yin1] /koloratúrszoprán/
 
 # ID-l51Wu4J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
