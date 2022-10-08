@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-10-07T02:00:01Z
+# Időbélyeg / Timestamp: 2022-10-08T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -50954,6 +50954,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 繪畫 绘画 [hui4 hua4] /festészet/rajzol; fest/
 
+# ID-j23aw3f
+# Ver 2022-10-07T03:13:51Z NagyHenrik Stat-New >.
+衚安格裡斯 胡安格里斯 [hu2 an1 ge2 li3 si1] /Juan Gris (1887-1927)/
+
 # ID-j23md4u
 # Ver 2022-04-10T14:21:05Z NagyHenrik Stat-New >.
 食品商店 食品商店 [shi2 pin3 shang1 dian4] /élelmiszerüzlet/
@@ -51431,6 +51435,10 @@ X X [X] /X/
 # ID-j31Jz8B
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 辭掉 辞掉 [ci2 diao4] /fel|mond (munkahelyen) /le|mond (pozícióról)/ki|rúg (alkalmazottat)/
+
+# ID-j31Pp9I
+# Ver 2022-10-07T04:47:43Z NagyHenrik Stat-New >.
+一千零一夜 一千零一夜 [yi1 qian1 ling2 yi1 ye4] /Az Ezeregyéjszaka meséi/
 
 # ID-j31SS6U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -63161,6 +63169,10 @@ X X [X] /X/
 # Ver 2022-03-12T05:11:18Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%AD%AC%E7%A7%8D/206521?fr=aladdin
 孬種 孬种 [nao1 zhong3] /gyáva, gyáva ember/[坏种，坏家伙] aljas gazember, gazfickó [káromkodás/növényi magvak, melyek nem fejlődnek ki, vagy amelyek a fejlődésük során  elrothadnak/
 
+# ID-l42Mt1E
+# Ver 2022-10-07T03:31:15Z NagyHenrik Stat-New >.
+安妮埃爾諾 安妮埃尔诺 [an1 ni1 ai1 er3 nuo4] /Annie Ernaux/
+
 # ID-l42Nz7p
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 榮宗耀祖 荣宗耀祖 [rong2 zong1 yao4 zu3] /(kifejezés) dicsőséget hoz őseire/
@@ -66481,6 +66493,10 @@ X X [X] /X/
 # 詞語彙 词语汇 [ci2 yu3 hui4] /szószedet/szókészlet/
 # Ver 2021-06-07T16:43:12Z gabor Stat-Verif >.
 詞語彙 词语汇 [ci2 yu3 hui4] /szószedet/szókészlet/
+
+# ID-m04ej0z
+# Ver 2022-10-07T03:24:18Z NagyHenrik Stat-New >.
+諾貝爾文學獎 诺贝尔文学奖 [nuo4 bei4 er3 wen2 xue2 jiang3] /Irodalmi Nobel-díj/
 
 # ID-m04eF3V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -77605,6 +77621,10 @@ XX XX [x x] /x/
 # ID-o02SU6L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 作證 作证 [zuo4 zheng4] /tanúsít/tanúskodik/bizonyíték/
+
+# ID-o03bq7V
+# Ver 2022-10-07T08:16:03Z NagyHenrik Stat-New >。
+聖禮容器 圣礼容器 [sheng4 li3 rong2 qi4] /cibórium/
 
 # ID-o03ty0e
 # Ver 2022-03-17T07:56:41Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E8%B6%85%E5%9B%BD%E5%AE%B6%E4%B8%BB%E4%B9%89
