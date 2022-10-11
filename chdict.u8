@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-10-08T02:00:01Z
+# Időbélyeg / Timestamp: 2022-10-11T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -22186,6 +22186,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # 裴多菲山多爾 裴多菲山多尔 [pei2 duo1 fei1 shan1 duo1 er3] /(tulajdonnév) Petőfi Sándor/
 # Ver 2017-11-28T21:58:42Z gabor Stat-Verif >hoppá bizony.
 裴多菲山多爾 裴多菲山多尔 [pei2 duo1 fei1 shan1 duo1 er3] /(tulajdonnév) Petőfi Sándor/
+
+# ID-e01gF1e
+# Ver 2022-10-10T14:47:29Z NagyHenrik Stat-New >。
+荷馬 荷马 [he2 ma3] /Homérosz/
 
 # ID-e01iz1Q
 # Ver 2022-03-14T15:02:57Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%96%B0%E8%89%BA%E6%9C%AF%E8%BF%90%E5%
@@ -59043,6 +59047,10 @@ X X [X] /X/
 # ID-k70RM0J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 啤酒 啤酒 [pi2 jiu3] /sör/SZ:杯[bei1],瓶[ping2],罐[guan4],桶[tong3],缸[gang1]/
+
+# ID-k70SN6J
+# Ver 2022-10-10T14:55:36Z NagyHenrik Stat-New >。
+伯茨凱伊什特萬 伯茨凯伊什特万 [bo2 ci2 kai3 yi1 shen2 te4 wan4] /Bocskai István/
 
 # ID-k70Wl6R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
