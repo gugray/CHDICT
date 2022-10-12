@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-10-11T02:00:01Z
+# Időbélyeg / Timestamp: 2022-10-12T02:00:02Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -41484,6 +41484,10 @@ X X [X] /X/
 # Ver 2022-03-28T04:11:15Z NagyHenrik Stat-New >.
 圓規座 圆规座 [yuan2 gui1 zuo4] /Circinus; Körző csillagkép/
 
+# ID-h53ZN8n
+# Ver 2022-10-11T08:06:08Z NagyHenrik Stat-New >。
+亞壁古道 亚壁古道 [ya4 bi4 gu3 dao4] /Via Appia/
+
 # ID-h54bW8n
 # Ver 2017-12-08T18:55:26Z GaoYanuo Stat-New >forrás: személyes\nref.:http://www.archchinese.com/chinese_english_dictionary.html?find=%E8%82%89%E5%86%BB\nés http://www.youdao.com/w/%E8%82%89%E5%86%BB/#keyfrom=dict2.top
 # 肉凍 肉冻 [rou4 dong4] /aszpik; kocsonya/
@@ -47853,6 +47857,10 @@ X X [X] /X/
 # ID-i67Dr4D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 航線 航线 [hang2 xian4] /út|vonal (hajózási vagy repülési)/
+
+# ID-i67EL6d
+# Ver 2022-10-11T02:51:55Z NagyHenrik Stat-New >。
+拉奧孔與兒子們 拉奥孔与儿子们 [la1 ao4 kong3 yu3 er2 zi3 men5] /A Laokoón-csoport/
 
 # ID-i67GJ9h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -74222,6 +74230,10 @@ XX XX [x x] /x/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 浮力 浮力 [fu2 li4] /felhajtó|erő/
 
+# ID-n40qH7H
+# Ver 2022-10-11T03:15:09Z NagyHenrik Stat-New >。
+維吉利烏斯 维吉利乌斯 [wei2 ji2 li4 wu1 si1] /Vergilius/
+
 # ID-n40uT0f
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 新思想 新思想 [xin1 si1 xiang3] /új eszmék/
@@ -78302,6 +78314,10 @@ XX XX [x x] /x/
 # ID-o14XD8v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 攝影機 摄影机 [she4 ying3 ji1] /kamera/film|felvevő/
+
+# ID-o15cx3D
+# Ver 2022-10-11T08:28:07Z NagyHenrik Stat-New >.
+升階經 升阶经 [sheng1 jie1 jing1] /graduále/
 
 # ID-o15dI6F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
