@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-10-12T02:00:02Z
+# Időbélyeg / Timestamp: 2022-10-13T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -59161,6 +59161,10 @@ X X [X] /X/
 # ID-k72zz8x
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 暴政 暴政 [bao4 zheng4] /zsarnokság/elnyomás/
+
+# ID-k72AG8d
+# Ver 2022-10-13T01:47:42Z NagyHenrik Stat-New >.
+索福克勒斯 索福克勒斯 [suo3 fu2 ke4 le4 si1] /Szophoklész/
 
 # ID-k72Fy5J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
