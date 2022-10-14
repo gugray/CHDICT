@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-10-13T02:00:01Z
+# Időbélyeg / Timestamp: 2022-10-14T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -5246,6 +5246,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 巫術 巫术 [wu1 shu4] /mágia/boszorkányság/
 
+# ID-a94Mt3C
+# Ver 2022-10-13T02:28:58Z NagyHenrik Stat-New >.
+蘇格拉底 苏格拉底 [su1 ge2 la1 di3] /Szókratész (Kr. e. 469-399, görög filozófus); José Sócrates (1957-, Portugália miniszterelnöke 2005-2011.)/
+
 # ID-a94MM7Z
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 小牛 小牛 [xiao3 niu2] /borjú/
@@ -5987,6 +5991,10 @@
 # Ver 2022-07-18T05:10:10Z NagyHenrik Stat-New >.
 冥冥之中 冥冥之中 [ming2 ming2 zhi1 zhong1] /a láthatatlan világ /mindaz, ami az érzékekkel nem felfogható/
 
+# ID-b07pn3E
+# Ver 2022-10-13T03:34:12Z NagyHenrik Stat-New >.
+普羅泰戈拉 普罗泰戈拉 [pu3 luo1 tai4 ge1 la1] /Prótagorasz/
+
 # ID-b07pw1w
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 原稿 原稿 [yuan2 gao3] /kézirat/eredeti példány/
@@ -6255,6 +6263,10 @@
 # ID-b12zK1I
 # Ver 2022-03-21T07:21:06Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%AF%95%E5%BE%B7%E9%BA%A6%E9%9B%85
 畢德麥雅 毕德麦雅 [bi4 de2 mai4 ya1] /biedermeier/
+
+# ID-b12Cz5J
+# Ver 2022-10-13T03:30:35Z NagyHenrik Stat-New >.
+亞歷山大大帝 亚历山大大帝 [ya4 li4 shan1 da4 da4 di4] /Nagy Sándor ( i. e. 356- i. e. 323 ); III. Alexandrosz/
 
 # ID-b12DJ2f
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -17222,6 +17234,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 處分 处分 [chu3 fen4] /fegyelmez/meg|büntet/fegyelmi eljárás/el|dönt; meg|old (ügyet)/
 
+# ID-d12eT4f
+# Ver 2022-10-13T02:42:31Z NagyHenrik Stat-New >.
+贊西佩 赞西佩 [zan4 xi1 pei4] /Xanthippé/
+
 # ID-d12hv3k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 週期 周期 [zhou1 qi1] /periódus/időszak/ciklus/
@@ -19657,6 +19673,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 導演 导演 [dao3 yan3] /rendez (filmet stb.)/redező/
 
+# ID-d56RK1M
+# Ver 2022-10-13T02:45:28Z NagyHenrik Stat-New >.
+伊曼努爾康德 伊曼努尔康德 [yi1 man4 nu3 er3 kang1 de2] /Immanuel Kant/
+
 # ID-d56Vy8q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 雪上加霜 雪上加霜 [xue3 shang4 jia1 shuang1] /(kifejezés) egyik balszerencse a másik után; hóra fagy/
@@ -19894,6 +19914,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-d60wT8d
 # Ver 2022-08-02T01:18:11Z NagyHenrik Stat-New >.
 欠單 欠单 [qian4 dan1] / fiktív váltó/
+
+# ID-d60zc3L
+# Ver 2022-10-13T03:38:38Z NagyHenrik Stat-New >.
+赫西俄德 赫西俄德 [he4 xi1 e2 de2] /Hésziodosz/
 
 # ID-d60zw7m
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -24398,6 +24422,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # 記憶 记忆 [ji4 yi4] /emlékezik (vmire\vkire); felidéz/emlékezet/SZ:個|个[ge4]/
 # Ver 2021-07-01T19:45:21Z gabor Stat-Verif >befejező zárójel mindig a legvégén legyen
 記憶 记忆 [ji4 yi4] /felidéz; emlékezik (vmire\vkire)/emlékezet/SZ:個|个[ge4]/
+
+# ID-e41uh9t
+# Ver 2022-10-13T02:49:46Z NagyHenrik Stat-New >.
+第歐根尼 第欧根尼 [di4 ou1 gen1 ni2] /Diogenész/
 
 # ID-e41vh5A
 # Ver 2022-04-05T15:53:07Z NagyHenrik Stat-New >.
@@ -31404,6 +31432,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 鯊 鲨 [sha1] /cápa/
 
+# ID-f69qL9c
+# Ver 2022-10-13T02:19:36Z NagyHenrik Stat-New >.
+畢達哥拉斯 毕达哥拉斯 [bi4 da2 ge1 la1 si1] /Püthagorasz/
+
 # ID-f69vQ8l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 威信 威信 [wei1 xin4] /presztízs/hírnév/hitelesség/
@@ -32417,6 +32449,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f87wF8b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 認同 认同 [ren4 tong2] /azonosul (gondolattal, elképzeléssel)/egyet|ért/támogat/
+
+# ID-f87xC4a
+# Ver 2022-10-13T03:26:43Z NagyHenrik Stat-New >.
+希波克拉底 希波克拉底 [xi1 bo1 ke4 la1 di3] /Hippokratész/
 
 # ID-f87yP0U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -39041,6 +39077,10 @@ X X [X] /X/
 # Ver 2022-08-10T08:49:53Z NagyHenrik Stat-New >.
 歸謬法 归谬法 [gui1 miu4 fa3] /visszavezetés az abszurdra; reductio ad absurdum/
 
+# ID-h05jP6T
+# Ver 2022-10-13T02:21:23Z NagyHenrik Stat-New >.
+伊壁鳩魯 伊壁鸠鲁 [yi1 bi4 jiu1 lu3] /Epikurosz/
+
 # ID-h05lX9k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 厭 厌 [yan4] /utál/elege van (vmiből)/un (vmit)/
@@ -39300,6 +39340,10 @@ X X [X] /X/
 # ID-h10sM0y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 吻 吻 [wen3] /csók/meg|csókol/
+
+# ID-h10xU7j
+# Ver 2022-10-13T02:36:53Z NagyHenrik Stat-New >.
+德謨剋利特 德谟克利特 [de2 mo2 ke4 li4 te4] /Démokritosz /
 
 # ID-h10Hk5T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -40283,6 +40327,10 @@ X X [X] /X/
 # ID-h29Am0v
 # Ver 2022-03-15T15:50:56Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%8E%9B%E4%B8%BD%E4%BA%9A/49875955
 瑪麗亞一世 玛丽亚一世 [ma3 li4 ya4 yi1 shi4] /Mária (Anjou Mária, 1371 – 1395)/
+
+# ID-h29Fu0A
+# Ver 2022-10-13T02:23:58Z NagyHenrik Stat-New >.
+赫拉克利特 赫拉克利特 [he4 la1 ke4 li4 te4] /Hérakleitosz/
 
 # ID-h29Gc9J
 # Ver 2021-08-07T13:32:01Z Adam Stat-New >Wiktionary, kínai Wikipedia
@@ -56573,6 +56621,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 圓球 圆球 [yuan2 qiu2] /labda/gömb/
 
+# ID-k24Op5r
+# Ver 2022-10-13T03:42:30Z NagyHenrik Stat-New >.
+塔爾塔羅斯 塔尔塔罗斯 [ta3 er3 ta3 luo1 si1] /Tartarosz/
+
 # ID-k24SV3a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 不屑一顧 不屑一顾 [bu4 xie4 yi1 gu4] /(kifejezés) figyelemre sem méltó; meg|vetendő/
@@ -63137,6 +63189,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 火熱 火热 [huo3 re4] /tüzes; forró/lelkes; lángoló; szenvedélyes/
 
+# ID-l41Nn5d
+# Ver 2022-10-13T02:32:41Z NagyHenrik Stat-New >.
+巴門尼德 巴门尼德 [ba1 men2 ni2 de2] /eleai Parmenidész/
+
 # ID-l41Rt8j
 # Ver 2022-03-10T13:31:13Z NagyHenrik Stat-New >https://hanyu.baidu.com/zici/swd=%E6%90%93%E6%8C%AA&query=%E6%90%93%E6
 搓挪 搓挪 [cuo1 nuo2] /dörzsöl (a keze közt)/
@@ -64051,6 +64107,10 @@ X X [X] /X/
 # ID-l56oJ9O
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 房主 房主 [fang2 zhu3] /tulajdonos; tulaj; főbérlő/
+
+# ID-l56Ao4F
+# Ver 2022-10-13T02:16:06Z NagyHenrik Stat-New >.
+柏拉圖 柏拉图 [bo2 la1 tu2] /Platón/
 
 # ID-l56Dz5B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -71238,6 +71298,10 @@ XX XX [x x] /x/
 # ID-m84Kc4G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 開拓 开拓 [kai1 tuo4] /fel|nyit; bővít; terjeszkedik; művelésbe von (új területet stb.)/utat tör (átvitten)/
+
+# ID-m84Lb5w
+# Ver 2022-10-13T02:35:09Z NagyHenrik Stat-New >.
+泰勒斯 泰勒斯 [tai4 lei1 si1] /milétoszi Thalész/
 
 # ID-m84Ww3Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -80159,6 +80223,10 @@ XX XX [x x] /x/
 # ID-o48Ry5F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 難度 难度 [nan2 du4] /nehézségi fok/
+
+# ID-o48Xw7p
+# Ver 2022-10-13T03:24:40Z NagyHenrik Stat-New >.
+伯里克利 伯里克利 [bo2 li3 ke4 li4] /Periklész/
 
 # ID-o49cB9R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
