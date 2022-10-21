@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-10-19T02:00:02Z
+# Időbélyeg / Timestamp: 2022-10-21T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -66606,6 +66606,10 @@ X X [X] /X/
 # Ver 2021-06-11T19:32:35Z gabor Stat-Verif >.
 南奧塞梯 南奥塞梯 [nan2 ao4 sai1 ti1] /(földrajzi név) Dél-Oszétia/
 
+# ID-m04Bu3x
+# Ver 2022-10-20T06:35:32Z NagyHenrik Stat-New >.
+虛無主義者 虚无主义者 [xu1 wu2 zhu3 yi4 zhe3] /nihilista/
+
 # ID-m04BE6i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 全力以赴 全力以赴 [quan2 li4 yi3 fu4] /kerül, amibe kerül/minden erejével/mindent bele|ad/
@@ -79184,6 +79188,10 @@ XX XX [x x] /x/
 # ID-o30oO0J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 錢包 钱包 [qian2 bao1] /pénz|tárca/
+
+# ID-o30pF8F
+# Ver 2022-10-20T06:34:10Z NagyHenrik Stat-New >.
+虛無主義 虚无主义 [xu1 wu2 zhu3 yi4] /nihilizmus/
 
 # ID-o30rN5B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
