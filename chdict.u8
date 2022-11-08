@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-11-06T03:00:01Z
+# Időbélyeg / Timestamp: 2022-11-08T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -81662,6 +81662,10 @@ XX XX [x x] /x/
 # ID-o75HR1y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 做主 做主 [zuo4 zhu3] /el|dönt/döntést hoz/támogat/
+
+# ID-o75RP1Q
+# Ver 2022-11-08T02:54:07Z NagyHenrik Stat-New >。
+硅氧四麵體 硅氧四面体 [gui1 yang3 si4 mian4 ti3] /szilícium-oxigén tetraéder/
 
 # ID-o75RW4e
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
