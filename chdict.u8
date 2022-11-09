@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-11-08T03:00:01Z
+# Időbélyeg / Timestamp: 2022-11-09T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -28830,6 +28830,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 坦 坦 [tan3] /lapos/sík/sima/
 
+# ID-f22Vq6I
+# Ver 2022-11-08T06:21:18Z NagyHenrik Stat-New >.
+匈牙利電子圖書館 匈牙利电子图书馆 [xiong1 ya2 li4 dian4 zi3 tu2 shu1 guan3] /Magyar Elektronikus Könyvtár (röv. MEK)/
+
 # ID-f22Xi3b
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 溜冰 溜冰 [liu1 bing1] /jég|korcsolyázás/korcsolyázik/
@@ -53003,6 +53007,10 @@ X X [X] /X/
 # ID-j59IO6B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 釣魚 钓鱼 [diao4 yu2] /horgászik/
+
+# ID-j59Kt4X
+# Ver 2022-11-08T03:15:31Z NagyHenrik Stat-New >.
+金銀花絲 金银花丝 [jin1 yin2 hua1 si1] /filigrán (ötvösmű)/
 
 # ID-j59Qj8i
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
