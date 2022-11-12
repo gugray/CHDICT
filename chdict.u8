@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-11-09T03:00:01Z
+# Időbélyeg / Timestamp: 2022-11-12T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -3442,6 +3442,10 @@
 # ID-a62do1N
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 複本 复本 [fu4 ben3] /másolat/
+
+# ID-a62fj9d
+# Ver 2022-11-11T11:51:16Z NagyHenrik Stat-New >.
+梯度 梯度 [ti1 du4] /gradiens/
 
 # ID-a62ov0F
 # Ver 2022-02-24T13:45:32Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%90%88%E5%90%8C%E6%88%98%E6%9C%AF%E5%AD%A6/10109003
