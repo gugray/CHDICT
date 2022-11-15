@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-11-14T03:00:01Z
+# Időbélyeg / Timestamp: 2022-11-15T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -59670,6 +59670,10 @@ X X [X] /X/
 # ID-k79Jx5T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 豁免 豁免 [huo4 mian3] /mentesít/fel|ment/mentesség/
+
+# ID-k79Oa2O
+# Ver 2022-11-14T08:31:23Z NagyHenrik Stat-New >。
+獨立自主的和平外交政策 独立自主的和平外交政策 [du2 li4 zi4 zhu3 de5 he2 ping2 wai4 jiao1 zheng4 ce4] /önálló külpolitikai kezdeményezésen alapuló békepolitika/
 
 # ID-k79SN6H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
