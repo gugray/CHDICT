@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-11-15T03:00:01Z
+# Időbélyeg / Timestamp: 2022-12-01T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -13471,6 +13471,10 @@
 # ID-c46Ct8U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 幻想 幻想 [huan4 xiang3] /illúzió/fantázia/illúziókat táplál/
+
+# ID-c46DU1M
+# Ver 2022-11-30T12:52:58Z NagyHenrik Stat-New >.
+以西結 以西结 [yi3 xi1 jie2] /Ezékiel próféta/
 
 # ID-c46IU2X
 # Ver 2022-06-21T01:23:08Z NagyHenrik Stat-New >.
@@ -44222,6 +44226,10 @@ X X [X] /X/
 # ID-i00ss2V
 # Ver 2022-03-04T08:26:59Z NagyHenrik Stat-New >https://zhidao.baidu.com/question/26227165.html
 拍米 拍米 [pai1 mi3] /petaméter；Pm；1Pm=0.1057 fényév/
+
+# ID-i00wl9V
+# Ver 2022-11-30T12:41:10Z NagyHenrik Stat-New >,
+庫邁的女先知西比爾 库迈的女先知西比尔 [ku4 mai4 de5 nü3 xian1 zhi1 xi1 bi3 er3] /cumaei Sibylla/
 
 # ID-i00wZ2K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
