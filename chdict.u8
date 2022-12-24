@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-12-21T03:00:01Z
+# Időbélyeg / Timestamp: 2022-12-24T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -11944,6 +11944,10 @@
 # ID-c17dc3B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 天生 天生 [tian1 sheng1] /született/vele|született/
+
+# ID-c17rf4e
+# Ver 2022-12-23T06:17:11Z NagyHenrik Stat-New >.
+普羅佩提烏斯 普罗佩提乌斯 [pu3 luo1 pei4 ti2 wu1 si1] /Propertius (elégiaköltő)/
 
 # ID-c17tM3d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -35536,6 +35540,10 @@ X X [X] /X/
 # Ver 2021-06-30T11:09:40Z gabor Stat-Verif >.
 濟南 济南 [ji3 nan2] /(földrajzi név) Jinan; Csinan (város Shandong tartományban)/
 
+# ID-g42cV8i
+# Ver 2022-12-23T05:37:29Z NagyHenrik Stat-New >.
+奧維德 奥维德 [ao4 wei2 de2] /Ovidius (költő)/
+
 # ID-g42eN2b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 電視 电视 [dian4 shi4] /televízió/TV/tévé/SZ:臺|台[tai2],個|个[ge4]/
@@ -35561,6 +35569,10 @@ X X [X] /X/
 # ID-g42vv1l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 嗨 嗨 [hai1] /(indulatszó) hej; haj/(átirat) hi! ("szia" angolul)/(átirat) high (be van lőve, nem tiszta tudatállapotú)/
+
+# ID-g42wz5i
+# Ver 2022-12-23T05:41:23Z NagyHenrik Stat-New >.
+維吉爾 维吉尔 [wei2 ji2 er3] /Vergilius (költő)/
 
 # ID-g42xt5k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -53113,6 +53125,10 @@ X X [X] /X/
 # ID-j61El0U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 沒完 没完 [mei2 wan2] /véget nem érő; vég nélküli (pl. beszéd)/nem adja fel (pl. vitában)/
+
+# ID-j61EJ0V
+# Ver 2022-12-23T06:14:37Z NagyHenrik Stat-New >.
+提布魯斯 提布鲁斯 [ti2 bu4 lu3 si1] /Tibullus (elégiaköltő)/
 
 # ID-j61NQ0F
 # Ver 2022-03-31T14:22:58Z NagyHenrik Stat-New >.
@@ -74739,6 +74755,10 @@ XX XX [x x] /x/
 # ID-n46bc3I
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 小提琴手 小提琴手 [xiao3 ti2 qin2 shou3] /hegedűs/
+
+# ID-n46nV1w
+# Ver 2022-12-23T05:45:59Z NagyHenrik Stat-New >。
+賀拉斯 贺拉斯 [he4 la1 si1] /Horatius (költő)/
 
 # ID-n46qs8T
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
