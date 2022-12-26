@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2022-12-24T03:00:01Z
+# Időbélyeg / Timestamp: 2022-12-26T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -66938,6 +66938,10 @@ X X [X] /X/
 # ID-m07Ys4l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 比特 比特 [bi3 te4] /bit (bináris számjegy; átvett szó)/
+
+# ID-m08aQ2H
+# Ver 2022-12-25T09:31:35Z NagyHenrik Stat-New >.
+世貿組織協定 世贸组织协定 [shi4 mao4 zu3 zhi1 xie2 ding4] /a Kereskedelmi Világszervezet (WTO) létrehozásáról szóló megállapodás/
 
 # ID-m08bc6g
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
