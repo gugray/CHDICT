@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2023-01-02T03:00:01Z
+# Időbélyeg / Timestamp: 2023-01-03T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -6715,6 +6715,10 @@
 # ID-b20ab7v
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 謎題 谜题 [mi2 ti2] /feladvány; rejtvény/
+
+# ID-b20mp1S
+# Ver 2023-01-02T10:35:30Z NagyHenrik Stat-New >.
+剋呂德古拉 克吕德古拉 [ke4 lü3 de2 gu3 la1] /Krúdy Gyula/
 
 # ID-b20nw3D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -29656,6 +29660,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f38Ao9Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 知足常樂 知足常乐 [zhi1 zu2 chang2 le4] /(kifejezés) elégedett azzal, amije van/
+
+# ID-f38EC7q
+# Ver 2023-01-02T04:42:52Z NagyHenrik Stat-New >。
+約翰班揚 约翰班扬 [yue1 han4 ban1 yang2] /John Bunyan/
 
 # ID-f38Fc6P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
