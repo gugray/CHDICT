@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2023-01-03T03:00:01Z
+# Időbélyeg / Timestamp: 2023-01-08T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -61789,7 +61789,9 @@ X X [X] /X/
 
 # ID-l16Vs1O
 # Ver 2022-10-03T03:59:08Z NagyHenrik Stat-New >.
-漢謨拉比 汉谟拉比 [han4 mo2 la1 bi3] /Hammurapi; Hammurábi ( Babilon város királya)/
+# 漢謨拉比 汉谟拉比 [han4 mo2 la1 bi3] /Hammurapi; Hammurábi ( Babilon város királya)/
+# Ver 2023-01-07T19:23:29Z Adam Stat-New >.
+漢謨拉比 汉谟拉比 [han4 mo2 la1 bi3] /Hammurapi; Hammurábi (Babilon város királya)/
 
 # ID-l16Xw9m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -65728,7 +65730,9 @@ X X [X] /X/
 
 # ID-l84RS7S
 # Ver 2022-10-04T15:23:34Z NagyHenrik Stat-New >.
-清教主義 清教主义 [qing1 jiao4 zhu3 yi4] /Puritanizmus/
+# 清教主義 清教主义 [qing1 jiao4 zhu3 yi4] /Puritanizmus/
+# Ver 2023-01-07T19:22:37Z Adam Stat-New >.
+清教主義 清教主义 [qing1 jiao4 zhu3 yi4] /puritanizmus/
 
 # ID-l84YP9B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -66672,7 +66676,9 @@ X X [X] /X/
 
 # ID-m04ej0z
 # Ver 2022-10-07T03:24:18Z NagyHenrik Stat-New >.
-諾貝爾文學獎 诺贝尔文学奖 [nuo4 bei4 er3 wen2 xue2 jiang3] /Irodalmi Nobel-díj/
+# 諾貝爾文學獎 诺贝尔文学奖 [nuo4 bei4 er3 wen2 xue2 jiang3] /Irodalmi Nobel-díj/
+# Ver 2023-01-07T19:26:51Z Adam Stat-New >Osiris Helyesírás (fizikai, kémiai Nobel-díj: kisbetűsek)
+諾貝爾文學獎 诺贝尔文学奖 [nuo4 bei4 er3 wen2 xue2 jiang3] /irodalmi Nobel-díj/
 
 # ID-m04eF3V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
