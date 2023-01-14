@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2023-01-08T03:00:01Z
+# Időbélyeg / Timestamp: 2023-01-14T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -63538,6 +63538,10 @@ X X [X] /X/
 # ID-l45Wm7X
 # Ver 2022-03-22T08:28:36Z NagyHenrik Stat-New >。
 乾巴巴 干巴巴 [gan1 ba1 ba1] /száraz；unalmas；sótlan；érdektelen；egyhangú/
+
+# ID-l45ZL9t
+# Ver 2023-01-13T03:58:30Z NagyHenrik Stat-New >.
+芥川龍之介 芥川龙之介 [jie4 chuan1 long2 zhi1 jie4] /Akutagava Rjúnoszuke/
 
 # ID-l46fK4T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
