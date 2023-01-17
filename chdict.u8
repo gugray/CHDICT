@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2023-01-14T03:00:01Z
+# Időbélyeg / Timestamp: 2023-01-17T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -44274,6 +44274,10 @@ X X [X] /X/
 # ID-i00wZ2K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 疲憊 疲惫 [pi2 bei4] /fáradt/kimerült/
+
+# ID-i00Lk3f
+# Ver 2023-01-16T06:50:12Z NagyHenrik Stat-New >。
+約雅敬 约雅敬 [yue1 ya1 jing4] /Jójákim/
 
 # ID-i00TI6q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
