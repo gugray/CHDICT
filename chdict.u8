@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2023-02-03T03:00:02Z
+# Időbélyeg / Timestamp: 2023-02-19T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -74720,6 +74720,10 @@ XX XX [x x] /x/
 # Ver 2022-03-16T04:59:32Z NagyHenrik Stat-New >ttps://hanyu.baidu.com/zici/swd=%E5%BE%81%E4%BC%90&query=%E5%BE%81%E4%BC%90&srcid=28232&from=kg0
 征伐 征伐 [zheng1 fa2] /megtorló, büntető hadjáratra megy/
 
+# ID-n45jn2j
+# Ver 2023-02-18T04:59:12Z NagyHenrik Stat-New >.
+跨學科研究 跨学科研究 [kua4 xue2 ke1 yan2 jiu1] /transzdiszciplinaritás/
+
 # ID-n45qc2B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 矮小 矮小 [ai3 xiao3] /rövid és kicsi/alacsony és kicsi/méreten aluli/
@@ -84092,6 +84096,10 @@ XX XX [x x] /x/
 # 黑戶 黑户 [hei1 hu4] /illegális; iratok nélküli; nem regisztrált (lakos, cég, élettársi kapcsolat stb.)/
 # Ver 2019-09-29T15:41:30Z gabor Stat-Verif >.
 黑戶 黑户 [hei1 hu4] /illegális; iratok nélküli; nem regisztrált (lakos, cég, élettársi kapcsolat stb.)/
+
+# ID-p13Ks8N
+# Ver 2023-02-18T04:34:40Z NagyHenrik Stat-New >.
+科際整合 科际整合 [ke1 ji4 zheng3 he2] /interdiszciplinaritás/
 
 # ID-p13WJ1W
 # Ver 2022-08-10T08:46:04Z NagyHenrik Stat-New >.
