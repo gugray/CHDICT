@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2023-02-19T03:00:01Z
+# Időbélyeg / Timestamp: 2023-03-20T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -11663,6 +11663,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 掉頭 掉头 [diao4 tou2] /meg|fordul (pl. kocsival, ellentétes irányba)/el|fordul (és elmegy)/
 
+# ID-c11wM8f
+# Ver 2023-03-19T06:57:49Z NagyHenrik Stat-New >.
+蝴蝶效應 蝴蝶效应 [hu2 die2 xiao4 ying4] /pillangóhatás, pillangóeffektus/
+
 # ID-c11zt8T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 迷宮 迷宫 [mi2 gong1] /labirintus/útvesztő/
@@ -16548,6 +16552,10 @@
 # ID-c98wi0h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 製造 制造 [zhi4 zao4] /gyárt/elő|állít/
+
+# ID-c98wu6n
+# Ver 2023-03-19T06:41:08Z NagyHenrik Stat-New >.
+切比雪夫不等式 切比雪夫不等式 [qie1 bi3 xue3 fu1 bu4 deng3 shi4] /Csebisev-egyenlőtlenség/
 
 # ID-c98xh1a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -24587,6 +24595,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 小鬼 小鬼 [xiao3 gui3] /manó (kedveskedő kifejezés gyerekekre)/kisördög/
 
+# ID-e43tO3T
+# Ver 2023-03-19T06:46:01Z NagyHenrik Stat-New >.
+隨機過程 随机过程 [sui2 ji1 guo4 cheng2] /sztochasztikus folyamat v. véletlenszerű folyamat/
+
 # ID-e43uB2w
 # Ver 2020-02-28T19:14:42Z GaoYanuo Stat-New >HSK5a tankönyv, CC-CEDICT\n(Bakker,  zhuó dì-nek is ejtik CC-CEDICT és tanár szerint is)
 # 著地 着地 [zhao2 di4] /földet ér/éri a földet/
@@ -29522,6 +29534,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 談戀愛 谈恋爱 [tan2 lian4 ai4] /udvarol/jár (vkivel)/
 
+# ID-f35Ga6t
+# Ver 2023-03-19T07:14:28Z NagyHenrik Stat-New >.
+恩氏黏度 恩氏黏度 [en1 shi4 nian2 du4] /Engler-viszkozitás/
+
 # ID-f35IA7L
 # Ver 2022-07-28T02:46:56Z NagyHenrik Stat-New >.
 爭搶生源 争抢生源 [zheng1 qiang3 sheng1 yuan2] /tisztességtelen eszközökkel küzd a tehetséges diákok megszerzéséért/
@@ -33404,6 +33420,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-g04pj8d
 # Ver 2022-03-20T00:58:03Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E7%BB%BF%E5%B8%BD%E5%AD%90/1344?fr=aladdin
 戴綠帽子 戴绿帽子 [dai4 lü4 mao4 zi5] /felszarvazott; felszarvazottnak lenni; a feleségnek szeretője van; az egyik fél megcsalja a párját/
+
+# ID-g04pX6i
+# Ver 2023-03-19T07:11:28Z NagyHenrik Stat-New >.
+黏度 黏度 [nian2 du4] /viszkozitás/
 
 # ID-g04uT8Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -38686,6 +38706,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 想不到 想不到 [xiang3 bu5 dao4] /váratlan/ki gondolta volna/
 
+# ID-g97SE1a
+# Ver 2023-03-19T06:37:19Z NagyHenrik Stat-New >.
+埃爾德什帕爾 埃尔德什帕尔 [ai1 er3 de2 shen2 pa4 er3] /Erdős Pál/
+
 # ID-g97WK9c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 亂動 乱动 [luan4 dong4] /hadonászik/óvatlanul mozog/
@@ -41833,6 +41857,10 @@ X X [X] /X/
 # ID-h58tv7j
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 放心 放心 [fang4 xin1] /meg|nyugszik/meg|könnyebbül/nyugodt/
+
+# ID-h58tT6J
+# Ver 2023-03-19T06:59:57Z NagyHenrik Stat-New >.
+混沌理論 混沌理论 [hun4 dun4 li3 lun4] /káoszelmélet/
 
 # ID-h58uT9i
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -56620,6 +56648,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 金屬線 金属线 [jin1 shu3 xian4] /fém|vezeték/
 
+# ID-k23FT6B
+# Ver 2023-03-19T07:09:23Z NagyHenrik Stat-New >.
+層流 层流 [ceng2 liu2] /lamináris áramlás/
+
 # ID-k23HA5Y
 # Ver 2019-11-09T16:31:15Z gabor Stat-New >CEDICT, forrásszöveg
 # 大吵大鬧 大吵大闹 [da4 chao3 da4 nao4] /(kifejezés) jelenetet rendez; hangoskodik/
@@ -58510,6 +58542,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 連詞 连词 [lian2 ci2] /kötő|szó/
 
+# ID-k57VH6Z
+# Ver 2023-03-19T06:42:22Z NagyHenrik Stat-New >.
+概率論 概率论 [gai4 lü4 lun4] /valószínűségszámítás/
+
 # ID-k58bp5X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 拆掉 拆掉 [chai1 diao4] /le|bont/le|rombol/
@@ -59710,6 +59746,10 @@ X X [X] /X/
 # ID-k78Qu5P
 # Ver 2022-04-02T09:37:09Z NagyHenrik Stat-New >.
 史前時代 史前时代 [shi3 qian2 shi2 dai4] /őskor/
+
+# ID-k78Zr7u
+# Ver 2023-03-19T07:05:38Z NagyHenrik Stat-New >.
+動力系統 动力系统 [dong4 li4 xi4 tong3] /dinamikai rendszerek/
 
 # ID-k79fM9g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -66770,6 +66810,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 偉哥 伟哥 [wei3 ge1] /Viagra (impotencia elleni gyógyszer)/
 
+# ID-m05ka5f
+# Ver 2023-03-19T06:48:50Z NagyHenrik Stat-New >.
+隨機函數 随机函数 [sui2 ji1 han2 shu4] /sztochasztikus folyamat v. véletlenszerű folyamat/
+
 # ID-m05oR9a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 論述 论述 [lun4 shu4] /tárgyal; ki|fejt; értekezik (témáról)/diskurzus/
@@ -69171,6 +69215,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 象聲詞 象声词 [xiang4 sheng1 ci2] /hangutánzó szó/
 
+# ID-m46Pz1Q
+# Ver 2023-03-19T07:07:56Z NagyHenrik Stat-New >.
+湍流 湍流 [tuan1 liu2] /turbulencia, turbulens áramlás/
+
 # ID-m46PX1i
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 軟飲料 软饮料 [ruan3 yin3 liao4] /üdítő|ital/
@@ -69466,6 +69514,10 @@ X X [X] /X/
 # ID-m52Lq0W
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 火 火 [huo3] /tűz/lő|szer/lángoló/sürgős/népszerű/
+
+# ID-m52Mo2T
+# Ver 2023-03-19T06:52:46Z NagyHenrik Stat-New >.
+時間序列 时间序列 [shi2 jian1 xu4 lie4] /idősor/
 
 # ID-m52Yr9a
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -69919,6 +69971,10 @@ X X [X] /X/
 # ID-m60ps4o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 非 非 [fei1] /nem; non- (előtagként)/hibás/helytelen/rossz/hibáztat; szemrehányást tesz/(földrajzi név, rövidítés: 非洲[Fei1 zhou1]) Afrika/
+
+# ID-m60up7n
+# Ver 2023-03-19T06:54:03Z NagyHenrik Stat-New >.
+統計學 统计学 [tong3 ji4 xue2] /statisztika, számhasonlítás/
 
 # ID-m60yO5C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -71648,6 +71704,10 @@ XX XX [x x] /x/
 # ID-m88hn4Y
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 低速率 低速率 [di1 su4 lü4] /alacsony sebesség/
+
+# ID-m88hL1u
+# Ver 2023-03-19T06:51:01Z NagyHenrik Stat-New >.
+隨機變量 随机变量 [sui2 ji1 bian4 liang4] /valószínűségi változó /
 
 # ID-m88xr9g
 # Ver 2018-04-24T15:14:00Z GaoYanuo Stat-New >CCEDICT, korpusz, tanár
@@ -76990,6 +77050,10 @@ XX XX [x x] /x/
 # Ver 2017-05-25T14:17:42Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
 省略號 省略号 [sheng3 lüe4 hao4] /pont, pont, pont (kihagyás jele)/három pont; három|pont-jel (… a magyarban, …… hat pont a kínaiban)/
 
+# ID-n87fT2T
+# Ver 2023-03-19T07:43:48Z NagyHenrik Stat-New >.
+密度計 密度计 [mi4 du4 ji4] /sűrűségmérő, denziméter/
+
 # ID-n87gx4M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 動 动 [dong4] /mozog/tesz/
@@ -81915,6 +81979,10 @@ XX XX [x x] /x/
 # ID-o79ht1m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 鬧 闹 [nao4] /zajos/zajt csap/bajt kever/szenved (vmiben\vmitől)/
+
+# ID-o79hy9H
+# Ver 2023-03-19T07:13:45Z NagyHenrik Stat-New >.
+黏度計 黏度计 [nian2 du4 ji4] /viszkozitásmérő, viszkoziméter/
 
 # ID-o79pX5K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
