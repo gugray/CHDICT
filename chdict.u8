@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2023-03-25T03:00:01Z
+# Időbélyeg / Timestamp: 2023-03-31T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -5500,6 +5500,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 跳 跳 [tiao4] /ugrik/dobog/
 
+# ID-a99pP4a
+# Ver 2023-03-30T07:21:18Z NagyHenrik Stat-New >.
+烏古斯語組 乌古斯语组 [wu1 gu3 si1 yu3 zu3] /oguz nyelvcsoport/
+
 # ID-a99sW7t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 浸泡 浸泡 [jin4 pao4] /be|áztat/
@@ -6954,6 +6958,10 @@
 # ID-b24kg7u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 翻譯 翻译 [fan1 yi4] /fordít/tolmácsol/fordító/tolmács/
+
+# ID-b24od0F
+# Ver 2023-03-30T07:26:00Z NagyHenrik Stat-New >.
+共通突厥語 共通突厥语 [gong4 tong1 tu1 jue2 yu3] /köztörök; sáz-török/
 
 # ID-b24qO6T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -9161,6 +9169,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 胎 胎 [tai1] /magzat; embrió/autó|gumi (fonetikus átvétel: tire\tyre)/
 
+# ID-b66vs5r
+# Ver 2023-03-30T06:38:52Z NagyHenrik Stat-New >.
+以撒 以撒 [yi3 sa3] /Izsák/
+
 # ID-b66CC0O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 禁 禁 [jin4] /meg|tilt/tilos/tilalom/
@@ -9399,6 +9411,10 @@
 # ID-b71tn0M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 關 关 [guan1] /hegy|szoros/be|zár/ki|kapcsol/be|csuk/érint (vmit)/köze van (vmihez)/(családnév) Guan/
+
+# ID-b71yI3W
+# Ver 2023-03-30T06:14:20Z NagyHenrik Stat-New >.
+妥拉 妥拉 [tuo3 la1] /Tóra/
 
 # ID-b71Bl0k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -11419,6 +11435,10 @@
 # Ver 2021-05-27T13:45:52Z gabor Stat-Verif >.
 目錄學 目录学 [mu4 lu4 xue2] /bibliográfia; könyv|tudomány/
 
+# ID-c07EE6T
+# Ver 2023-03-30T06:42:59Z NagyHenrik Stat-New >.
+亞伯拉罕 亚伯拉罕 [ya4 bo2 la1 han3] /Ábrahám/
+
 # ID-c07Gv5I
 # Ver 2022-03-04T02:27:44Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%96%B9%E5%BD%A2/6643478?fr=aladdin
 方形 方形 [fang1 xing2] /négyszög, négyzet, téglalap \ négyszögletes, négyzet\téglalap alakú/
@@ -11512,6 +11532,10 @@
 # ID-c08IC1J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 世 世 [shi4] /élet/élet|kor/generáció/korszak/világ/
+
+# ID-c08TU1F
+# Ver 2023-03-30T06:17:56Z NagyHenrik Stat-New >.
+創世記 创世记 [chuang4 shi4 ji4] /Mózes első könyve; Teremtés könyve; Genezis/
 
 # ID-c09gg3K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -13917,6 +13941,10 @@
 # ID-c53YL7J
 # Ver 2022-04-05T12:50:14Z NagyHenrik Stat-New >.
 銀喉長尾山雀 银喉长尾山雀 [yin2 hou2 chang2 wei3 shan1 que4] /őszapó; Aegithalos caudatus/
+
+# ID-c54ek0t
+# Ver 2023-03-30T03:34:20Z NagyHenrik Stat-New >.
+夏甲 夏甲 [xia4 jia3] /Hágár/
 
 # ID-c54kN2s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -21078,6 +21106,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-d79Lp2c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 中心 中心 [zhong1 xin1] /központ/centrum/SZ:個|个[ge4]/
+
+# ID-d79NO9A
+# Ver 2023-03-30T06:32:18Z NagyHenrik Stat-New >.
+申命記 申命记 [shen1 ming4 ji4] /Mózes ötödik könyve; Második Törvénykönyv; Deuteronomium /
 
 # ID-d79NX9G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -32361,6 +32393,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f83IQ0Y
 # Ver 2022-06-09T08:39:56Z NagyHenrik Stat-New >.
 副交感神經 副交感神经 [fu4 jiao1 gan3 shen2 jing1] /paraszimpatikus ideg/
+
+# ID-f83TP1W
+# Ver 2023-03-30T03:38:52Z NagyHenrik Stat-New >.
+克爾白 克尔白 [ke4 er3 bai2] /Kába, Kába szentély/
 
 # ID-f83ZE3e
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -50535,6 +50571,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 碼頭 码头 [ma3 tou5] /dokk/móló/rak|part/
 
+# ID-j13Da9p
+# Ver 2023-03-30T06:27:21Z NagyHenrik Stat-New >.
+利未記 利未记 [li4 wei4 ji4] /Mózes harmadik könyve; Leviták könyve; Leviticus/
+
 # ID-j13NH2z
 # Ver 2022-03-28T07:21:44Z NagyHenrik Stat-New >.
 大角星 大角星 [da4 jiao3 xing1] /Arcturus; Medve Őre; vörös óriás, az Ökörhajcsár csillagkép legfényesebb és az éjszakai égbolt harmadik legfényesebb csillaga/
@@ -54450,6 +54490,10 @@ X X [X] /X/
 # ID-j84RY1w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 寓言 寓言 [yu4 yan2] /tan|mese/allegória/SZ:則|则[ze2]/
+
+# ID-j85bv8Z
+# Ver 2023-03-30T06:54:45Z NagyHenrik Stat-New >.
+撒拉 撒拉 [sa1 la1] /Sára/szalár népcsoport/
 
 # ID-j85eI3u
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -62570,6 +62614,10 @@ X X [X] /X/
 # Ver 2019-09-26T19:00:33Z gabor Stat-Verif >nem vagyok meggyőződve róla, hogy ez valóban önálló szócikk, s nem csak a 打折 egy csinos eredménykiegészítővel, de maradjon :)
 打完折 打完折 [da3 wan2 zhe2] /engedmény utáni ár/
 
+# ID-l28jT7A
+# Ver 2023-03-30T05:47:44Z NagyHenrik Stat-New >.
+以實瑪利 以实玛利 [yi3 shi2 ma3 li4] /Izmael/
+
 # ID-l28lL3e
 # Ver 2022-06-26T06:00:49Z NagyHenrik Stat-New >.
 自動增益控製 自动增益控制 [zi4 dong4 zeng1 yi4 kong4 zhi4] /automatikus erősítésszabályozás; AGC/
@@ -63975,6 +64023,10 @@ X X [X] /X/
 # ID-l52eL9M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 扒 扒 [pa2] /ki|ás/össze|gereblyéz/párol/
+
+# ID-l52eW1Z
+# Ver 2023-03-30T03:18:12Z NagyHenrik Stat-New >.
+夏甲人 夏甲人 [xia4 jia3 ren2] /hágáriták, hágáriták népe/
 
 # ID-l52gY7A
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -74874,6 +74926,10 @@ XX XX [x x] /x/
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 姊 姊 [zi3] /nővér (idősebb lánytestvér)/
 
+# ID-n46Fg8Z
+# Ver 2023-03-30T07:23:14Z NagyHenrik Stat-New >.
+阿爾泰語係 阿尔泰语系 [a1 er3 tai4 yu3 xi4] /altaji nyelvcsalád/
+
 # ID-n46Fw1a
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 土路 土路 [tu3 lu4] /föld|út/
@@ -75457,6 +75513,10 @@ XX XX [x x] /x/
 # 甘 甘 [gan1] /édes/hajlandó; kész (vmire)/(családnév) Gan/(rövidítés, földrajzi név) Kanszu tartomány (teljes alakban 甘肃省 vagy 甘肃; nem hivatalosan 陇 rövidítéssel is)/
 # Ver 2021-07-01T19:34:00Z gabor Stat-Verif >.
 甘 甘 [gan1] /édes/hajlandó; kész (vmire)/(családnév) Gan/(rövidítés, földrajzi név) Gansu; Kanszu (tartomány)/
+
+# ID-n56ym6J
+# Ver 2023-03-30T06:20:07Z NagyHenrik Stat-New >.
+出埃及記 出埃及记 [chu1 ai1 ji2 ji4] /Mózes második könyve; A kivonulás könyve; Exodus/
 
 # ID-n56DS7N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -84558,6 +84618,10 @@ XX XX [x x] /x/
 # ID-p20ff8f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 紙巾 纸巾 [zhi3 jin1] /papír|törlő/szalvéta/zseb|kendő/SZ:張|张[zhang1],包[bao1]/
+
+# ID-p20iU0D
+# Ver 2023-03-30T06:29:21Z NagyHenrik Stat-New >.
+民數記 民数记 [min2 shu4 ji4] /Mózes negyedik könyve; A Számok könyve; Numeri/
 
 # ID-p20jm7q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
