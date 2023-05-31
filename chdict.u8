@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2023-04-04T02:00:01Z
+# Időbélyeg / Timestamp: 2023-05-31T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -1711,6 +1711,8 @@
 
 # ID-a30qv3k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
+# 一萬 一万 [yi1 wan4] /tízezer/10000/
+# Ver 2023-05-30T18:42:20Z GaoYanuo Stat-Verif >szerintem ezt a szócikket törölni kéne, mert ilyen alapon külön szócikk lehetne nagyon sok számnév. Elég lenne meghagyni a "万"-t önmagában. Szintén van egy jóváhagyásra váró "万" bejegyzés. ezeket össze kéne fésülni.
 一萬 一万 [yi1 wan4] /tízezer/10000/
 
 # ID-a30tv7e
