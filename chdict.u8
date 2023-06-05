@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2023-05-31T02:00:01Z
+# Időbélyeg / Timestamp: 2023-06-05T02:00:02Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -20762,6 +20762,12 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-d73ks9Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 狄 狄 [di2] /(családnév) Di/
+
+# ID-d73nI8t
+# Ver 2023-06-04T16:29:17Z GaoYanuo Stat-New >Forrás: 发展汉语 tankönyv. Baidu és egyéb webhelyek megerősítik. pl.:\nhttps://educalingo.com/en/dic-zh/guang-shuo-bu-lian\n
+# 關說不練 关说不练 [guan1 shuo1 bu4 lian4] /(kifejezés) üres beszéd lényeges mondanivaló nélkül/szavak tettek nélkül/
+# Ver 2023-06-04T16:33:24Z GaoYanuo Stat-New >.
+關說不練 关说不练 [guan1 shuo1 bu4 lian4] /(kifejezés) üres beszéd lényeges mondanivaló nélkül/szavak tettek nélkül/nem tartja a szavát/
 
 # ID-d73tc0G
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -44013,7 +44019,9 @@ X X [X] /X/
 
 # ID-h94oe1D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-使勁 使劲 [shi3 jin4] /megfeszíti erejét/erőfeszítést tesz/
+# 使勁 使劲 [shi3 jin4] /megfeszíti erejét/erőfeszítést tesz/
+# Ver 2023-06-04T15:33:23Z GaoYanuo Stat-Verif >Forrás: 发展汉语tankönyv. "...使劲儿地亲我的脸."
+使勁 使劲 [shi3 jin4] /megfeszíti erejét/erőfeszítést tesz/erősen; erővel csinál vmit (megfog, megcsókol, stb.)/
 
 # ID-h94ow0I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -48385,6 +48393,10 @@ X X [X] /X/
 # ID-i72TL7q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 牙膏 牙膏 [ya2 gao1] /fog|krém/
+
+# ID-i72TO6K
+# Ver 2023-06-04T16:11:15Z GaoYanuo Stat-New >forrás: 发展汉语 tk., Bartos-Hamar megerősíti.
+懂事 懂事 [dong3 shi4] /értelmes/okos/figyelmes/érzékeny; empatikus (nem érzéketlen)/
 
 # ID-i72Wl4t
 # Ver 2017-12-09T15:54:59Z gabor Stat-New >CEDICT, korpusz
@@ -59430,7 +59442,9 @@ X X [X] /X/
 
 # ID-k72Tn4r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-除此之外 除此之外 [chu2 ci3 zhi1 wai4] /ezen kívül/továbbá/
+# 除此之外 除此之外 [chu2 ci3 zhi1 wai4] /ezen kívül/továbbá/
+# Ver 2023-06-04T16:32:08Z GaoYanuo Stat-Verif >A "ráadásul"-ra keresők kedvéért.
+除此之外 除此之外 [chu2 ci3 zhi1 wai4] /ezen kívül/továbbá/ráadásul/
 
 # ID-k72Wd4z
 # Ver 2021-04-09T20:33:01Z GaoYanuo Stat-New >HSK4 tankönyv és szokásos szótárak
@@ -79437,7 +79451,9 @@ XX XX [x x] /x/
 
 # ID-o30es1y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-只能 只能 [zhi3 neng2] /nincs választása/csak (azt tudja tenni)/kell/
+# 只能 只能 [zhi3 neng2] /nincs választása/csak (azt tudja tenni)/kell/
+# Ver 2023-06-04T15:57:31Z GaoYanuo Stat-Verif >Csak a "kénytelen"-re rákeresők kedvéért bővítve.
+只能 只能 [zhi3 neng2] /nincs választása/csak (azt tudja tenni)/kell/kénytelen/
 
 # ID-o30gf9q
 # Ver 2018-01-17T22:26:58Z jojo-chan Stat-New >http://ce.linedict.com/dict.html#/cnen/entry/296deab910934b5fb14d867b50cf2904
