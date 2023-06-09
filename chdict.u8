@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2023-06-05T02:00:02Z
+# Időbélyeg / Timestamp: 2023-06-09T02:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -45134,6 +45134,10 @@ X X [X] /X/
 # Ver 2018-01-24T22:37:25Z gabor Stat-Verif >.
 氣密 气密 [qi4 mi4] /légmentesen záró/gáztömör/
 
+# ID-i14ox8e
+# Ver 2023-06-08T10:27:41Z NagyHenrik Stat-New >.
+書生 书生 [shu1 sheng1] /tudós; értelmiségi; intellektuális/okostojás; könyvmoly; könyvkukac; prudens/
+
 # ID-i14pZ1S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 平 平 [ping2] /lapos/sima/egyenlő (egy szintben van vmivel)/döntetlen/békés/
@@ -77021,6 +77025,10 @@ XX XX [x x] /x/
 # ID-n84PM8e
 # Ver 2022-08-11T08:08:58Z NagyHenrik Stat-New >.
 專家系統 专家系统 [zhuan1 jia1 xi4 tong3] /szakértői rendszer/
+
+# ID-n84Us9P
+# Ver 2023-06-08T10:30:25Z NagyHenrik Stat-New >.
+道律 道律 [dao4 lü4] /az erényesség ösvényei és előírások; az erény útjai és regulái ‹buddhizmus›/
 
 # ID-n85fF1Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
