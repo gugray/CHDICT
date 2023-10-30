@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2023-06-13T02:00:01Z
+# Időbélyeg / Timestamp: 2023-10-30T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -74101,7 +74101,9 @@ XX XX [x x] /x/
 
 # ID-n31Wf5h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-編 编 [bian1] /szó/fon/el|rendez/szerkeszt/ír/komponál/
+# 編 编 [bian1] /szó/fon/el|rendez/szerkeszt/ír/komponál/
+# Ver 2023-10-29T12:45:48Z GaoYanuo Stat-Verif >sajtóhiba javítás szó-->sző
+編 编 [bian1] /sző/fon/el|rendez/szerkeszt/ír/komponál/
 
 # ID-n32bE3T
 # Ver 2022-03-05T09:47:43Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E6%95%99%E8%82%B2%E5%AD%A6/784408
@@ -77374,7 +77376,9 @@ XX XX [x x] /x/
 
 # ID-n90Ox8X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-點頭 点头 [dian3 tou2] /bólint/
+# 點頭 点头 [dian3 tou2] /bólint/
+# Ver 2023-10-29T12:53:20Z GaoYanuo Stat-Verif >nem csak az igenlő fejmozdulat szinonimája ként vettem bele, egyéb szövegkörnyzetben is használatos a "bólogat". (Pl. eperfa lombja) Emiatt várhatóan többen rá fognak keresni, és nincs rá találat. Egyéb különbségek is vannak.
+點頭 点头 [dian3 tou2] /bólint/bólogat/
 
 # ID-n90XL5C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
