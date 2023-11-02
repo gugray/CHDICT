@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2023-10-30T03:00:01Z
+# Időbélyeg / Timestamp: 2023-11-02T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -9025,7 +9025,9 @@
 
 # ID-b63Jr0K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-畫面 画面 [hua4 mian4] /képernyő/képen ábrázolt jelenet/kép/
+# 畫面 画面 [hua4 mian4] /képernyő/képen ábrázolt jelenet/kép/
+# Ver 2023-11-01T17:00:04Z GaoYanuo Stat-Verif >kiegészítés a korpusz alapján:\n于是我们开始在我家后面工作 进行一些剪接 这就像是我看到的画面\nA házam hátsó részében nekiálltunk a munkának, a vágásnak, mintha egy látomás lett volna.
+畫面 画面 [hua4 mian4] /képernyő/képen ábrázolt jelenet/kép/látomás/
 
 # ID-b63JT8E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -16161,7 +16163,11 @@
 
 # ID-c92ln1a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-灑 洒 [sa3] /fröcsköl/spriccel/ki|ömlik/
+# 灑 洒 [sa3] /fröcsköl/spriccel/ki|ömlik/
+# Ver 2023-11-01T17:26:39Z GaoYanuo Stat-Verif >Bartos-Hamar alapján kieg.
+# 灑 洒 [sa3] /fröcsköl/spriccel/ki|ömlik/permetez/
+# Ver 2023-11-01T17:29:57Z GaoYanuo Stat-Verif >A szinonimák csak a jelentésárnyalat hosszú magyarázata helyett, hogy nem (feltétlenül) az összes folyadék ömlik ki.
+灑 洒 [sa3] /fröcsköl/spriccel/ki|ömlik; ki|loccsan; ki|fröccsen/permetez/
 
 # ID-c92lN6Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -67662,7 +67668,9 @@ X X [X] /X/
 
 # ID-m17Jq9X
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
-講解 讲解 [jiang3 jie3] /el|magyaráz/
+# 講解 讲解 [jiang3 jie3] /el|magyaráz/
+# Ver 2023-11-01T16:52:59Z GaoYanuo Stat-Verif >"她想讲解一下迟到的原因..." Szerette volna megmagyarázni, miért késett./Szerette volna megindokolni a késés okát.
+講解 讲解 [jiang3 jie3] /el|magyaráz/megmagyaráz; indokol/
 
 # ID-m17KN2F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -81410,7 +81418,9 @@ XX XX [x x] /x/
 
 # ID-o66uM0u
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
-講解員 讲解员 [jiang3 jie3 yuan2] /idegen|vezető/
+# 講解員 讲解员 [jiang3 jie3 yuan2] /idegen|vezető/
+# Ver 2023-11-01T16:46:45Z GaoYanuo Stat-Verif >发展汉语 初级综合（II）tankönyv
+講解員 讲解员 [jiang3 jie3 yuan2] /idegen|vezető/elbeszélő; narrátor/
 
 # ID-o66wE3G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
