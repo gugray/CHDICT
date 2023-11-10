@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2023-11-02T03:00:01Z
+# Időbélyeg / Timestamp: 2023-11-10T03:00:02Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -12124,6 +12124,10 @@
 # ID-c19Gx5t
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 阿拉 阿拉 [a1 la1] /(tulajdonnév) Allah/(nyelvjárási) én; engem; mi; minket/
+
+# ID-c19IV6R
+# Ver 2023-11-09T07:58:41Z NagyHenrik Stat-New >.
+世界秩序 世界秩序 [shi4 jie4 zhi4 xu4] /világrend/
 
 # ID-c19OP8K
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
