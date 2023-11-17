@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2023-11-10T03:00:02Z
+# Időbélyeg / Timestamp: 2023-11-17T03:00:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -2721,6 +2721,10 @@
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 賺 赚 [zhuan4] /keres (pénzt)/nyeresége van/
 
+# ID-a47PH6h
+# Ver 2023-11-16T13:17:10Z GaoYanuo Stat-New >tanár, Bartos-Hamar kombó
+平頭數 平头数 [ping2 tou2 shu4] /kerek szám/
+
 # ID-a47SK8f
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 患病 患病 [huan4 bing4] /meg|betegszik/
@@ -3740,7 +3744,9 @@
 
 # ID-a68fg9o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-甚麼的 什么的 [shen2 me5 de5] /és így tovább/és effélék/stb./
+# 甚麼的 什么的 [shen2 me5 de5] /és így tovább/és effélék/stb./
+# Ver 2023-11-16T12:58:04Z GaoYanuo Stat-Verif >Csak az "ilyesmi"-re keresők kedvéért.
+甚麼的 什么的 [shen2 me5 de5] /és így tovább/és effélék/meg ilyesmi/stb./
 
 # ID-a68pJ8w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -42776,6 +42782,10 @@ X X [X] /X/
 # Ver 2021-04-10T18:54:17Z Adam Stat-Verif >születés és halálozás éve zárójelben
 凱爾泰斯伊姆雷 凯尔泰斯伊姆雷 [kai3 er3 tai4 si1 yi1 mu3 lei2] /(tulajdonnév) Kertész Imre (1929–2016)/
 
+# ID-h72kH9K
+# Ver 2023-11-16T13:19:28Z GaoYanuo Stat-New >发展汉语 初级综合（II）tankönyv
+概數 概数 [gai4 shu4] /kerekített szám, érték/
+
 # ID-h72la8N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 雄厚 雄厚 [xiong2 hou4] /bőséges/erős/szilárd/
@@ -44605,7 +44615,9 @@ X X [X] /X/
 
 # ID-i04Cm0E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-錄取 录取 [lu4 qu3] /fel|vesz (tanulónak)/
+# 錄取 录取 [lu4 qu3] /fel|vesz (tanulónak)/
+# Ver 2023-11-16T13:33:18Z GaoYanuo Stat-Verif >Bartos-Hamar, 发展汉语 初级综合（II）tankönyvi példamondat alapján.\n你被我们公司录取了。
+錄取 录取 [lu4 qu3] /fel|vesz (tanulónak)/alkalmaz/
 
 # ID-i04DN6o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -44980,7 +44992,9 @@ X X [X] /X/
 # Ver 2018-04-24T13:59:55Z GaoYanuo Stat-Verif >Fontos megkülönböztetni a 穿chuān-tól. Forrás: tanár\npéldamondatok itt:\nhttps://www.purpleculture.net/sample-sentences/?word=%E6%88%B4
 # 戴 戴 [dai4] /fel|vesz (kisebb darabot, pl. öv, kesztyű, kalap-, ékszer, stb.)/visel (kisebb darabot, pl. öv, kesztyű, kalap-, ékszer, stb.)/tisztel/támogat/(családnév) Dai/
 # Ver 2018-05-04T11:17:14Z gabor Stat-Verif >tömörítettem
-戴 戴 [dai4] /fel|vesz; visel (kisebb darabot, kiegészítőt, ékszert stb.)/tisztel/támogat/(családnév) Dai/
+# 戴 戴 [dai4] /fel|vesz; visel (kisebb darabot, kiegészítőt, ékszert stb.)/tisztel/támogat/(családnév) Dai/
+# Ver 2023-11-16T12:29:55Z GaoYanuo Stat-Verif >Ha másnak teszi fel, szintén \n戴. Pl. Vőlegény a menyasszonyujjára húzza a gyűrűt. 新龙把戒指戴在了新娘手指上。\n爷爷用鲜花编成了一个花帽，戴在了小丽的头上。\nForrás: anyanyelvi tanár, 发展汉语 初级综合（II）tankönyv.
+戴 戴 [dai4] /fel|vesz; fel|tesz; visel (kisebb darabot, kiegészítőt, ékszert stb.)/tisztel/támogat/(családnév) Dai/
 
 # ID-i10Lh3Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
