@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2023-11-17T03:00:01Z
+# Időbélyeg / Timestamp: 2023-12-01T13:14:39Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -44617,6 +44617,8 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 錄取 录取 [lu4 qu3] /fel|vesz (tanulónak)/
 # Ver 2023-11-16T13:33:18Z GaoYanuo Stat-Verif >Bartos-Hamar, 发展汉语 初级综合（II）tankönyvi példamondat alapján.\n你被我们公司录取了。
+# 錄取 录取 [lu4 qu3] /fel|vesz (tanulónak)/alkalmaz/
+# Ver 2023-11-30T12:43:48Z gabor Stat-Flagged >teszt
 錄取 录取 [lu4 qu3] /fel|vesz (tanulónak)/alkalmaz/
 
 # ID-i04DN6o
