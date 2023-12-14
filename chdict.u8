@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2023-12-05T02:10:01Z
+# Időbélyeg / Timestamp: 2023-12-14T02:10:02Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -24877,6 +24877,12 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2022-06-10T04:32:36Z NagyHenrik Stat-New >.
 耶和華 耶和华 [ye1 he2 hua2] /Jehova; YHVH/
 
+# ID-e47gB2F
+# Ver 2023-12-13T14:45:04Z GaoYanuo Stat-New >展汉语 tankönyv
+# 流暢 流畅 [liu2 chang4] /gördülékeny/olvasmányos; könnyen olvasható/folyékony (beszéd, írás)/
+# Ver 2023-12-13T14:47:15Z GaoYanuo Stat-New >.
+流暢 流畅 [liu2 chang4] /gördülékeny; sima/olvasmányos; könnyen olvasható/folyékony (beszéd, írás)/
+
 # ID-e47me8s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 判決 判决 [pan4 jue2] /ítélet (bírósági)/ítélkezik/
@@ -44617,9 +44623,6 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 錄取 录取 [lu4 qu3] /fel|vesz (tanulónak)/
 # Ver 2023-11-16T13:33:18Z GaoYanuo Stat-Verif >Bartos-Hamar, 发展汉语 初级综合（II）tankönyvi példamondat alapján.\n你被我们公司录取了。
-# 錄取 录取 [lu4 qu3] /fel|vesz (tanulónak)/alkalmaz/
-# Ver 2023-11-30T12:43:48Z gabor Stat-Flagged >teszt
-# Ver 2023-12-05T00:43:29Z gabor Stat-New >Teszt
 錄取 录取 [lu4 qu3] /fel|vesz (tanulónak)/alkalmaz/
 
 # ID-i04DN6o
@@ -45041,7 +45044,9 @@ X X [X] /X/
 
 # ID-i12fj6J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-包括 包括 [bao1 kuo4] /tartalmaz/magában foglal/
+# 包括 包括 [bao1 kuo4] /tartalmaz/magában foglal/
+# Ver 2023-12-13T14:32:43Z GaoYanuo Stat-Verif >.
+包括 包括 [bao1 kuo4] /tartalmaz/magában foglal/beleértve/
 
 # ID-i12gk7x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -51754,6 +51759,10 @@ X X [X] /X/
 # 番茄 番茄 [fan1 qie2] /paradicsom (növény)/
 # Ver 2019-09-26T19:17:18Z gabor Stat-Verif >.
 番茄 番茄 [fan1 qie2] /paradicsom (növény)/
+
+# ID-j32OS2U
+# Ver 2023-12-13T14:39:01Z GaoYanuo Stat-New >发展汉语 tankönyv
+好在 好在 [hao3 zai4] /szerencsére/
 
 # ID-j32ZL0u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -72581,7 +72590,9 @@ XX XX [x x] /x/
 
 # ID-n01SS9m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-吃力 吃力 [chi1 li4] /megerőltető/fáradságos/erőlködik/
+# 吃力 吃力 [chi1 li4] /megerőltető/fáradságos/erőlködik/
+# Ver 2023-12-13T14:53:06Z GaoYanuo Stat-Verif >Szinonima az átvitt értelem érzékeltetése végett. Közel azonos jelentés összevonva
+吃力 吃力 [chi1 li4] /megerőltető, fáradságos/nehézkes (pl. beszéd, írás)/erőlködik/
 
 # ID-n01Wb6S
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -78289,7 +78300,9 @@ XX XX [x x] /x/
 
 # ID-o07Cu9k
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-好 好 [hao3] /jó/kiváló/jól/könnyen/nagyon; egyáltalán (tagadás előtt)/
+# 好 好 [hao3] /jó/kiváló/jól/könnyen/nagyon; egyáltalán (tagadás előtt)/
+# Ver 2023-12-13T14:56:30Z GaoYanuo Stat-Verif >发展汉语 tankönyv
+好 好 [hao3] /jó/kiváló/jól/könnyen/nagyon; egyáltalán (tagadás előtt)/azért, hogy (célhatározói mellékmondat elején)/
 
 # ID-o07Dx8R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
