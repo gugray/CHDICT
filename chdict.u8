@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2023-12-14T02:10:02Z
+# Időbélyeg / Timestamp: 2023-12-16T02:10:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -4969,6 +4969,10 @@
 # ID-a89pS3u
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 欣慰 欣慰 [xin1 wei4] /hálás/örül/elégedett/
+
+# ID-a89xk2k
+# Ver 2023-12-15T04:38:19Z NagyHenrik Stat-New >.
+日復一日 日复一日 [ri4 fu4 yi1 ri4] /napról napra; naponta; nap nap után; nap mint nap; máról holnapra; egyik napról a másikra/
 
 # ID-a89zG1q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -23133,6 +23137,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 索取 索取 [suo3 qu3] /kér/igényel/
 
+# ID-e15Vh7x
+# Ver 2023-12-15T07:30:49Z NagyHenrik Stat-New >.
+費儘口舌 费尽口舌 [fei4 jin3 kou3 she2] /haszontalan szópazarlás, csupa szópazarlás/győzködik; küszködik; vesződik; fáradozik; erőlködik; igyekszik/igyekszik meggyőzni vkit; minden erejével megpróbál rávenni vkit vmire; törekszik rábeszélni vkit vmire/keményen próbálkozik vmivel/
+
 # ID-e15WJ1l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 評審 评审 [ping2 shen3] /értékel/tárgyal (pl. könyvet)/
@@ -35810,6 +35818,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 著 著 [zhao1] /hozzá|ad/rendben/OK/trükk/lépés (pl. sakkban)/
 
+# ID-g44cL9H
+# Ver 2023-12-15T06:49:25Z NagyHenrik Stat-New >.
+丞 丞 [cheng2] /hivatalnoksegéd [a régi Kínában]/
+
 # ID-g44gD8c
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 意 意 [yi4] /ötlet/jelentés/vélemény/gondol/vágy/kívánság/szándék/(rövidítés: 意大利[Yi4 da4 li4]) Olaszország/
@@ -39986,6 +39998,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 多雲 多云 [duo1 yun2] /borús; felhős/
 
+# ID-h19qS4Z
+# Ver 2023-12-15T05:30:15Z NagyHenrik Stat-New >.
+汗流浹背 汗流浃背 [han4 liu2 jia1 bei4] /ömlik róla a verejték; verejték csorog a hátán; úszik a verejtékben; kiveri a verejték; csupa verejték/
+
 # ID-h19td5p
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 不可磨滅 不可磨灭 [bu4 ke3 mo2 mie4] /ki|törölhetetlen; maradandó; bevésődött/
@@ -41090,6 +41106,10 @@ X X [X] /X/
 # ID-h40Lj6F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 朝 朝 [zhao1] /reggel/
+
+# ID-h40Pg9j
+# Ver 2023-12-15T07:44:24Z NagyHenrik Stat-New >.
+柔靜 柔静 [rou2 jing4] /nyájas és csendes/
 
 # ID-h40St7w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -49553,6 +49573,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 驕傲 骄傲 [jiao1 ao4] /gőgös/büszke/büszkeség/
 
+# ID-i94KZ1L
+# Ver 2023-12-15T08:00:42Z NagyHenrik Stat-New >.
+一命嗚呼 一命呜呼 [yi1 ming4 wu1 hu1] /kileheli lelkét/meghal; elpatkol; kiszenved; kinyúlik;megmurdel; kinyiffan; kipurcan; bekampecel/fűbe harap; halálát leli; jobblétre szenderül; beadja a kulcsot; otthagyja a fogát; feldobja a bakancsot; csontjára hűl a bőre/
+
 # ID-i94MC4G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 接連 接连 [jie1 lian2] /egymást követően/sorozatban/
@@ -50763,6 +50787,10 @@ X X [X] /X/
 # ID-j15uK3x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 發動 发动 [fa1 dong4] /kezd/indít/
+
+# ID-j15wJ5e
+# Ver 2023-12-15T08:08:37Z NagyHenrik Stat-New >.
+詼諧曲 诙谐曲 [hui1 xie2 qu1] /humoreszk (zene), capriccio/
 
 # ID-j15xp2Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -57643,6 +57671,10 @@ X X [X] /X/
 # Ver 2022-03-28T07:23:03Z NagyHenrik Stat-New >.
 五車二 五车二 [wu3 che1 er4] /Capella, a Szekeres csillagkép főcsillaga, az égbolt hatodik legfényesebb csillaga/
 
+# ID-k37sQ4M
+# Ver 2023-12-15T04:52:00Z NagyHenrik Stat-New >.
+念叨 念叨 [nian4 dao5] /gyakran beszél vmiről v. vkiről; gyakran említ vkit v. vmit; folyton ismételget; folyton-folyvást (arról) beszél; szüntelenül fecseg/
+
 # ID-k37yh4U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 愛德華 爱德华 [ai4 de2 hua2] /(átirat) Eduárd; Edward/
@@ -60560,6 +60592,10 @@ X X [X] /X/
 # ID-k92Ev2p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 沉悶 沉闷 [chen2 men4] /nyomasztó/levert/visszahúzódó/
+
+# ID-k93gk6B
+# Ver 2023-12-15T04:41:14Z NagyHenrik Stat-New >.
+寒來暑往 寒来暑往 [han2 lai2 shu3 wang3] /a nyár megy; a tél jön; az idő múlásával; évről évre; ahogy telik az idő/
 
 # ID-k93gK5e
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -67131,6 +67167,10 @@ X X [X] /X/
 # ID-m07OO4X
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 麻黃素 麻黄素 [ma2 huang2 su4] /efedrin (az amfetaminhoz hasonló vegyület, a hagyományos kínai orvoslásban használt csikófark hatóanyaga)/
+
+# ID-m07Pa7E
+# Ver 2023-12-15T05:05:58Z NagyHenrik Stat-New >.
+東奔西跑 东奔西跑 [dong1 ben1 xi1 pao3] /ide-oda szaladgál; sürögve-forogva jön-megy/nyüzsög; sürgölődik; tevékenykedik; tüsténkedik; munkálkodik; buzgólkodik; sürög-forog/ide-oda rohangál; rohangászik/fontoskodva jár-kel/
 
 # ID-m07PG7e
 # Ver 2017-11-28T19:05:21Z GaoYanuo Stat-New >CC-CEDICT
@@ -80983,6 +81023,10 @@ XX XX [x x] /x/
 # ID-o56zB0h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 警衛 警卫 [jing3 wei4] /őrt áll/őr; biztonsági őr/
+
+# ID-o56zU3X
+# Ver 2023-12-15T04:32:20Z NagyHenrik Stat-New >.
+日往月來 日往月来 [ri4 wang3 yue4 lai2] /napról napra; napok és hónapok elteltével; az idő múlása; évről évre; ahogy telik az idő/a nap lemegy s a hold felkel/
 
 # ID-o56zY1o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
