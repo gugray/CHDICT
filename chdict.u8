@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2023-12-30T02:10:01Z
+# Időbélyeg / Timestamp: 2024-01-06T02:10:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -15865,6 +15865,10 @@
 # Ver 2021-06-30T09:41:27Z gabor Stat-Verif >.
 文言 文言 [wen2 yan2] /klasszikus kínai nyelv/
 
+# ID-c86XX1A
+# Ver 2024-01-05T02:48:29Z NagyHenrik Stat-New >.
+語言係屬分類 语言系属分类 [yu3 yan2 xi4 shu3 fen1 lei4] /nyelvcsalád/
+
 # ID-c87gf7M
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 雷聲 雷声 [lei2 sheng1] /vihar; menny|dörgés/
@@ -27390,6 +27394,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-e93ZP7l
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 塌 塌 [ta1] /össze|omlik/le|omlik/be|omlik/
+
+# ID-e94iW5G
+# Ver 2024-01-05T02:43:28Z NagyHenrik Stat-New >.
+古希臘語 古希腊语 [gu3 xi1 la4 yu3] /ógörög nyelv/
 
 # ID-e94ka7b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -54774,6 +54782,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 抓 抓 [zhua1] /meg|ragad/vakar/el|fog/le|tartóztat/
 
+# ID-j87ZA5l
+# Ver 2024-01-05T02:45:25Z NagyHenrik Stat-New >.
+希臘語 希腊语 [xi1 la4 yu3] /görög nyelv/
+
 # ID-j88aT4M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 老師 老师 [lao3 shi1] /tanár/SZ:個|个[ge4],位[wei4]/
@@ -59106,6 +59118,10 @@ X X [X] /X/
 # Ver 2020-06-10T14:41:43Z gabor Stat-Verif >.
 赤子之心 赤子之心 [chi4 zi3 zhi1 xin1] /(kifejezés) tiszta és ártatlan/
 
+# ID-k65up9X
+# Ver 2024-01-05T02:39:31Z NagyHenrik Stat-New >.
+一神論 一神论 [yi1 shen2 lun4] /egyistenhit, monoteizmus/
+
 # ID-k65vm3k
 # Ver 2022-03-28T03:39:37Z NagyHenrik Stat-New >.
 三角座 三角座 [san1 jiao3 zuo4] /Triangulum; Háromszög vagy Északi Háromszög csillagkép/
@@ -59837,6 +59853,10 @@ X X [X] /X/
 # ID-k77vU6e
 # Ver 2022-04-11T13:30:28Z NagyHenrik Stat-New >.
 二手車市場 二手车市场 [er4 shou3 che1 shi4 chang3] /használtautó-piac/
+
+# ID-k77ww6L
+# Ver 2024-01-05T02:51:53Z NagyHenrik Stat-New >.
+語族 语族 [yu3 zu2] /nyelvcsoport/
 
 # ID-k77xy8a
 # Ver 2022-05-24T08:49:55Z NagyHenrik Stat-New >.
@@ -65285,6 +65305,10 @@ X X [X] /X/
 # ID-l73pt9F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 爽 爽 [shuang3] /fényes/egyenes/tiszta/friss/
+
+# ID-l73qT7N
+# Ver 2024-01-05T02:49:55Z NagyHenrik Stat-New >.
+語系 语系 [yu3 xi4] /nyelvcsalád/
 
 # ID-l73tp2u
 # Ver 2022-03-28T03:46:39Z NagyHenrik Stat-New >.
@@ -71938,6 +71962,10 @@ XX XX [x x] /x/
 # ID-m89rZ9O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 驚訝 惊讶 [jing1 ya4] /meg|lepődik/el|képed/
+
+# ID-m89sO9H
+# Ver 2024-01-05T02:28:42Z NagyHenrik Stat-New >.
+自由主義神學 自由主义神学 [zi4 you2 zhu3 yi4 shen2 xue2] /liberális kereszténység; liberális teológia/
 
 # ID-m89yo3N
 # Ver 2021-03-30T14:33:21Z Adam Stat-New >CC-CEDICT, Wikipedia
