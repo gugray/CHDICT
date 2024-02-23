@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2024-02-12T02:10:01Z
+# Időbélyeg / Timestamp: 2024-02-23T02:10:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -76293,6 +76293,10 @@ XX XX [x x] /x/
 # ID-n68yW0A
 # Ver 2022-04-21T12:29:45Z NagyHenrik Stat-New >.
 腱鞘 腱鞘 [jian4 qiao4] /ínhüvely/
+
+# ID-n68zK5i
+# Ver 2024-02-22T09:17:12Z NagyHenrik Stat-New >.
+卡馬林斯卡亞 卡马林斯卡亚 [ka3 ma3 lin2 si1 ka3 ya4] /kamarinszkaja/
 
 # ID-n68Ap1J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
