@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2024-02-23T02:10:01Z
+# Időbélyeg / Timestamp: 2024-03-11T02:10:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -27343,7 +27343,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-e93fM9d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-搬走 搬走 [ban1 zou3] /el|költözik/ki|költözik/
+# 搬走 搬走 [ban1 zou3] /el|költözik/ki|költözik/
+# Ver 2024-03-10T11:13:24Z GaoYanuo Stat-Verif >发展汉语 tankönyv: 愚公决定带领全家搬走这两座大山。
+搬走 搬走 [ban1 zou3] /el|költözik/ki|költözik/elhord/
 
 # ID-e93nL4T
 # Ver 2021-03-28T23:24:10Z Adam Stat-New >CC-CEDICT, Wikipedia
@@ -59981,7 +59983,9 @@ X X [X] /X/
 
 # ID-k80dG7J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-翻過 翻过 [fan1 guo4] /át|alakít/meg|változtat/át|lapoz/
+# 翻過 翻过 [fan1 guo4] /át|alakít/meg|változtat/át|lapoz/
+# Ver 2024-03-10T11:08:45Z GaoYanuo Stat-Verif >发展汉语 tankönyv. 不管去哪儿，他们都得翻过这两座大山。
+翻過 翻过 [fan1 guo4] /át|alakít/meg|változtat/át|lapoz/átkel (hegyen)/
 
 # ID-k80iI3r
 # Ver 2020-03-07T00:02:42Z GaoYanuo Stat-New >Wechat, magyar Wikipédia, CC_CEDICT, korpusz és Pleco által megerősítve.
