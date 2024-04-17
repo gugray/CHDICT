@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2024-03-11T02:10:01Z
+# Időbélyeg / Timestamp: 2024-04-17T02:10:02Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -8948,6 +8948,12 @@
 # ID-b62eC8X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 速 速 [su4] /gyors/sebesség/
+
+# ID-b62mt7P
+# Ver 2024-04-16T11:37:11Z Adam Stat-New >Wiktionary, Wikipedia, Pleco
+# 清華大學 清华大学 [qing1 hua2 da4 xue2] /Csinghua Egyetem; Tsinghua University; THU (pekingi egyetem)/National Tsing Hua University; NTHU (tajvani egyetem)/
+# Ver 2024-04-16T12:26:25Z Adam Stat-New >.
+清華大學 清华大学 [qing1 hua2 da4 xue2] /Csinghua Egyetem; Tsinghua University; THU (pekingi egyetem)/National Tsing Hua University; NTHU; hivatalosan 国立清华大学 (tajvani egyetem)/
 
 # ID-b62qS1b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -74766,6 +74772,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 幸而 幸而 [xing4 er2] /szerencsére/
 
+# ID-n41vw4u
+# Ver 2024-04-16T11:18:21Z Adam Stat-New >Pleco PLC, CC, ABC szótárai
+副標題 副标题 [fu4 biao1 ti2] /alcím/
+
 # ID-n41wi7g
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 聲樂 声乐 [sheng1 yue4] /vokális zene/
@@ -84800,6 +84810,10 @@ XX XX [x x] /x/
 # ID-p20ff8f
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 紙巾 纸巾 [zhi3 jin1] /papír|törlő/szalvéta/zseb|kendő/SZ:張|张[zhang1],包[bao1]/
+
+# ID-p20hY9T
+# Ver 2024-04-16T14:15:10Z Adam Stat-New >Pleco és Bartos–Hamar-nagyszótár alapján
+國立 国立 [guo2 li4] /állami; államilag fenntartott; állami fenntartású/
 
 # ID-p20iU0D
 # Ver 2023-03-30T06:29:21Z NagyHenrik Stat-New >.
