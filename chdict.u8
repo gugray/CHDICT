@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2024-05-01T02:10:02Z
+# Időbélyeg / Timestamp: 2024-06-13T02:10:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -16638,6 +16638,10 @@
 # 白羊座 白羊座 [bai2 yang2 zuo4] /kos (csillagjegy)/
 # Ver 2017-12-12T22:14:48Z gabor Stat-Verif >.
 白羊座 白羊座 [bai2 yang2 zuo4] /kos (csillagjegy)/
+
+# ID-c98SL8z
+# Ver 2024-06-12T04:38:30Z NagyHenrik Stat-New >.
+黑鷹勛章 黑鹰勋章 [hei1 ying1 xun1 zhang1] /Fekete Sas-rend/
 
 # ID-c98SS1r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -76932,6 +76936,10 @@ XX XX [x x] /x/
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 食物鏈 食物链 [shi2 wu4 lian4] /táplálék|lánc/
 
+# ID-n79gD5q
+# Ver 2024-06-12T04:38:58Z NagyHenrik Stat-New >.
+紅鷹勛章 红鹰勋章 [hong2 ying1 xun1 zhang1] /Vörös Sas-rend/
+
 # ID-n79hI2Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 重演 重演 [chong2 yan3] /ismétlés (régi műsoré)/újra elő|ad; meg|ismétel/
@@ -79806,6 +79814,10 @@ XX XX [x x] /x/
 # ID-o31WA6x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 情緒 情绪 [qing2 xu4] /hangulat/kedv/SZ:種|种[zhong3]/
+
+# ID-o31Zg7u
+# Ver 2024-06-12T04:40:36Z NagyHenrik Stat-New >.
+馬耳他騎士團 马耳他骑士团 [ma3 er3 ta1 qi2 shi4 tuan2] /máltai lovagrend/
 
 # ID-o32gq3e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
