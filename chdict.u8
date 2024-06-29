@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2024-06-28T02:10:01Z
+# Időbélyeg / Timestamp: 2024-06-29T02:10:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -2748,6 +2748,10 @@
 # ID-a48jt2R
 # Ver 2022-03-23T02:10:07Z NagyHenrik Stat-New >.
 柔術師 柔术师 [rou2 shu4 shi1] /kígyóember/
+
+# ID-a48kX8p
+# Ver 2024-06-28T04:07:56Z NagyHenrik Stat-New >.
+幫襯 帮衬 [bang1 chen4] /anyagilag támogat/
 
 # ID-a48mK9n
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -6683,6 +6687,10 @@
 # ID-b19ct9y
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 氯氣 氯气 [lü4 qi4] /klór|gáz/
+
+# ID-b19hM1Q
+# Ver 2024-06-28T03:38:18Z NagyHenrik Stat-New >.
+最優秀的大英帝國勛章 最优秀的大英帝国勋章 [zui4 you1 xiu4 de5 da4 ying1 di4 guo2 xun1 zhang1] /a Brit Birodalom Rendje/
 
 # ID-b19mh2D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -53673,6 +53681,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 駕 驾 [jia4] /vezet (járművet)/húz (kocsit)/be|fog (kocsi elé)/(családnév) Jia/
 
+# ID-j66Vk6L
+# Ver 2024-06-28T02:38:54Z NagyHenrik Stat-New >.
+從男爵 从男爵 [cong2 nan2 jue2] /baronet/
+
 # ID-j66VB0F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 伯爵 伯爵 [bo2 jue2] /gróf/
@@ -69371,6 +69383,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 心想 心想 [xin1 xiang3] /gondol/vél/azt hiszi/
 
+# ID-m44Zs1A
+# Ver 2024-06-28T03:04:13Z NagyHenrik Stat-New >.
+喬治十字勛章 乔治十字勋章 [qiao2 zhi4 shi2 zi4 xun1 zhang1] /György-kereszt/
+
 # ID-m45jj3h
 # Ver 2017-11-26T18:13:23Z GaoYanuo Stat-New >http://dict.youdao.com/w/%E5%BF%AB%E7%82%B9/#keyfrom=dict2.top\nhttps://dict.hjenglish.com/w/%E5%BF%AB%E7%82%B9\nhttp://www.xyzdict.com/en/chinese-english/%E5%BF%AB%E7%82%B9
 # 快點 快点 [kuai4 dian3] /gyerünk/nyomás(szleng)/azonnal/siess|ünk/gyorsabban/
@@ -80451,6 +80467,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 歌舞 歌舞 [ge1 wu3] /ének és tánc/
 
+# ID-o43gr4r
+# Ver 2024-06-28T03:09:37Z NagyHenrik Stat-New >.
+最古老與最高貴的薊花勛章 最古老与最高贵的蓟花勋章 [zui4 gu3 lao3 yu3 zui4 gao1 gui4 de5 ji4 hua1 xun1 zhang1] /Bogáncsrend; A Legősibb és Legnemesebb Bogáncsrend /
+
 # ID-o43jx5b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 常識 常识 [chang2 shi2] /józan ész/általános ismeretek/
@@ -80601,6 +80621,10 @@ XX XX [x x] /x/
 # ID-o46Ed2w
 # Ver 2018-02-05T17:13:14Z gabor Stat-New >https://twitter.com/withoutdoing/status/959128541311877120
 點贊 点赞 [dian3 zan4] /lájkol/
+
+# ID-o46EJ9Y
+# Ver 2024-06-28T02:53:08Z NagyHenrik Stat-New >.
+喬治勛章 乔治勋章 [qiao2 zhi4 xun1 zhang1] /György-kereszt/
 
 # ID-o46Pt4S
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -84668,6 +84692,10 @@ XX XX [x x] /x/
 # ID-p16eU1Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 電臺 电台 [dian4 tai2] /rádió|állomás/adó-vevő/SZ:個|个[ge4],家[jia1]/
+
+# ID-p16qs0h
+# Ver 2024-06-28T02:47:59Z NagyHenrik Stat-New >.
+維多利亞十字勛章 维多利亚十字勋章 [wei2 duo1 li4 ya4 shi2 zi4 xun1 zhang1] /Viktória-kereszt/
 
 # ID-p16qR4M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
