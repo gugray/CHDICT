@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2024-06-29T02:10:01Z
+# Időbélyeg / Timestamp: 2024-07-13T02:10:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -40978,6 +40978,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 冷卻 冷却 [leng3 que4] /le|hűt/hűtés/
 
+# ID-h37wH3O
+# Ver 2024-07-12T07:33:44Z NagyHenrik Stat-New >.
+摩薩德 摩萨德 [mo2 sa4 de2] /Moszad (Izrael nemzeti hírszerző titkosszolgálata.)/
+
 # ID-h37zt2R
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 修辭 修辞 [xiu1 ci2] /retorika; szó|használat; stílus/
@@ -44893,6 +44897,10 @@ X X [X] /X/
 # ID-i07gx1x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 滿期 满期 [man3 qi1] /le|jár/esedékessé válik/
+
+# ID-i07hF5O
+# Ver 2024-07-12T04:25:17Z NagyHenrik Stat-New >.
+媒體反響 媒体反响 [mei2 ti3 fan3 xiang3] /sajtóvisszhang/
 
 # ID-i07hN4C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
