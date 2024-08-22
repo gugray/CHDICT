@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2024-07-13T02:10:01Z
+# Időbélyeg / Timestamp: 2024-08-22T02:10:02Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -22061,6 +22061,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # 太太 太太 [tai4 tai5] /házas nő/asszony/feleség/SZ:個|个[ge4],位[wei4]/
 # Ver 2017-05-23T17:18:00Z Adam Stat-Verif >+ jelentés (Teach Yourself Mandarin Chinese alapján)
 太太 太太 [tai4 tai5] /-né (családnév után: vki neje)/házas nő/asszony/feleség/SZ:個|个[ge4],位[wei4]/
+
+# ID-d95ED1T
+# Ver 2024-08-22T02:04:16Z NagyHenrik Stat-New >.
+雪鷺 雪鹭 [xue3 lu4] /hókócsag; hógém/Egretta thula/
 
 # ID-d95HE4q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
