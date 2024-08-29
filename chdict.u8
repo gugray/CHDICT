@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2024-08-22T02:10:02Z
+# Időbélyeg / Timestamp: 2024-08-29T02:10:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -32271,6 +32271,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 呼拉圈 呼拉圈 [hu1 la1 quan1] /hullahopp/
 
+# ID-f79KM3W
+# Ver 2024-08-28T03:55:36Z NagyHenrik Stat-New >.
+亢旱 亢旱 [kang4 han4] /súlyos szárazság/
+
 # ID-f79Lo8j
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 老舊 老旧 [lao3 jiu4] /régimódi/el|avult/
@@ -57918,6 +57922,10 @@ X X [X] /X/
 # ID-k40xP4m
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 說定 说定 [shuo1 ding4] /meg|állapodik; meg|egyezik/
+
+# ID-k40Ri9W
+# Ver 2024-08-28T03:54:38Z NagyHenrik Stat-New >.
+旱 旱 [han4] /szárazság; aszály/száraz; aszályos/
 
 # ID-k40Rj7T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
