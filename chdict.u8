@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2024-08-29T02:10:01Z
+# Időbélyeg / Timestamp: 2024-08-30T02:10:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -11936,6 +11936,10 @@
 # ID-c15Io1L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 涼快 凉快 [liang2 kuai5] /kellemesen hűvös/hűs/
+
+# ID-c15Li9C
+# Ver 2024-08-29T08:30:23Z jojo-chan Stat-New >https://zh.wikipedia.org/zh-cn/修正液
+塗改液 涂改液 [tu2 gai3 ye4] /folyékony hibajavító/hibajavító folyadék/hibajavító festék/
 
 # ID-c15Nk3K
 # Ver 2022-03-28T15:23:35Z NagyHenrik Stat-New >.
@@ -64774,6 +64778,10 @@ X X [X] /X/
 # Ver 2021-06-11T18:02:42Z gabor Stat-Verif >.
 瑞士 瑞士 [rui4 shi4] /(földrajzi név) Svájc/
 
+# ID-l61hX8l
+# Ver 2024-08-29T08:31:03Z jojo-chan Stat-New >https://zh.wikipedia.org/zh-cn/修正液
+修正液 修正液 [xiu1 zheng4 ye4] /folyékony hibajavító/hibajavító folyadék/hibajavító festék/
+
 # ID-l61ie3K
 # Ver 2022-02-20T07:10:38Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E9%87%8D%E5%95%86%E4%B8%BB%E4%B9%89/1597908?fr=aladdin
 重商主義 重商主义 [zhong4 shang1 zhu3 yi4] /merkantilizmus/重商主义是西欧封建制度向资本主义制度过渡时期（资本原始积累时期），受到普遍推崇的一种经济哲学。      Zhòng shāng zhǔyì shì xī'ōu fēngjiàn zhìdù xiàng zīběn zhǔyì zhìdù guòdù shíqí (zīběn yuánshǐ jīlěi shíqí), shòudào pǔbiàn tuīchóng de yī zhǒng jīngjì zhéxué.         A merkantilizmus a feudális rendszerből a kapitalista rendszerbe való átmenet során Nyugat-Európában (a kezdetleges tőkefelhalmozás időszakában) általánosan elfogatott közgazdasági filozófia volt./
@@ -72618,6 +72626,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 當事人 当事人 [dang1 shi4 ren2] /érintett felek/
 
+# ID-m99cu8L
+# Ver 2024-08-29T08:28:17Z jojo-chan Stat-New >https://zh.wikipedia.org/zh-cn/修正带
+修正帶 修正带 [xiu1 zheng4 dai4] /hibajavító/hibajavító roller/
+
 # ID-m99jD5w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 引申 引申 [yin3 shen1] /ki|terjeszt (pl. szó jelentését)/származtat; következtet/
@@ -79144,6 +79156,10 @@ XX XX [x x] /x/
 # ID-o18Ga4P
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 變硬 变硬 [bian4 ying4] /meg|keményedik/
+
+# ID-o18Lo2y
+# Ver 2024-08-29T08:27:26Z jojo-chan Stat-New >https://zh.wikipedia.org/zh-cn/修正带
+塗改帶 涂改带 [tu2 gai3 dai4] /hibajavító/hibajavító roller/
 
 # ID-o18NJ9V
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
