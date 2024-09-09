@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2024-08-30T02:10:01Z
+# Időbélyeg / Timestamp: 2024-09-09T02:10:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -66152,6 +66152,10 @@ X X [X] /X/
 # ID-l85YP2F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 值錢 值钱 [zhi2 qian2] /értékes/drága/
+
+# ID-l86kp4y
+# Ver 2024-09-08T20:47:31Z jojo-chan Stat-New >https://zh.wikipedia.org/zh-cn/橄欖油
+橄欖油 橄榄油 [gan3 lan3 you2] /olívaolaj/
 
 # ID-l86qX5G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
