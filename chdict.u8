@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2024-09-09T02:10:01Z
+# Időbélyeg / Timestamp: 2024-09-30T02:10:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -47090,6 +47090,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 注釋 注释 [zhu4 shi4] /jegyzetekkel el|lát; magyaráz/szél|jegyzet; meg|jegyzés/
 
+# ID-i47Vk4P
+# Ver 2024-09-29T10:42:36Z GaoYanuo Stat-New >Forrás: 发展汉语中级 tankönyv.
+農貿市場 农贸市场 [nong2 mao4 shi4 chang3] /őstermelői piac/
+
 # ID-i47VW2N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 商業 商业 [shang1 ye4] /kereskedelem/üzlet/
@@ -71471,6 +71475,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 容 容 [rong2] /tart/tartalmaz/meg|enged/lehetővé tesz/megjelenés/arc/(családnév) Rong/
 
+# ID-m79yf0t
+# Ver 2024-09-29T10:48:29Z GaoYanuo Stat-New >发展汉语 中级 tankönyv
+五星級 五星级 [wu3 xing1 ji2] /ötcsillagos (minősítés)/
+
 # ID-m79zn4v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 用處 用处 [yong4 chu5] /hasznosság/SZ:個|个[ge4]/
@@ -85319,7 +85327,9 @@ XX XX [x x] /x/
 
 # ID-p25QO8h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-上市 上市 [shang4 shi4] /tőzsdére visz/piacra dob/a piacon van/
+# 上市 上市 [shang4 shi4] /tőzsdére visz/piacra dob/a piacon van/
+# Ver 2024-09-29T10:05:41Z GaoYanuo Stat-Verif >发展汉语_中级综合 tankönyv és Bartos -Hamar alapján kiegészítve.
+上市 上市 [shang4 shi4] /tőzsdére visz/piacra dob/piacra megy vmiért/a piacon van; kapható; szezonja van/
 
 # ID-p25RH0c
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
