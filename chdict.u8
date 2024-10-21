@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2024-09-30T02:10:01Z
+# Időbélyeg / Timestamp: 2024-10-21T02:10:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -1104,6 +1104,10 @@
 # ID-a19zv8y
 # Ver 2017-05-27T18:28:36Z Adam Stat-New >összekapcsolt Wikipédia-szócikkek
 感嘆詞 感叹词 [gan3 tan4 ci2] /indulat|szó/
+
+# ID-a19BL7u
+# Ver 2024-10-20T09:14:20Z GaoYanuo Stat-New >Forrás: anyanyelvi tanár, szokásos szótárakkal ellenőrizve.
+脫殼 脱壳 [tuo1 ke2] /kikel a tojásból/vedlik/hámoz/
 
 # ID-a19Fp9R
 # Ver 2022-08-02T01:53:47Z NagyHenrik Stat-New >。
@@ -61982,6 +61986,10 @@ X X [X] /X/
 # ID-l13QH5S
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 魯畢克方塊 鲁毕克方块 [lu3 bi4 ke4 fang1 kuai4] /Rubik-kocka/
+
+# ID-l13Xb2t
+# Ver 2024-10-20T09:21:58Z GaoYanuo Stat-New >Forrás: anyanyelvi tanár. Csak az ARC Chinese erősíti meg, máshol nem találtam meg.
+計模 计模 [ji4 mo2] /cselszövés; számítás (inkább pejoratív)/mesterkedik, kieszel/
 
 # ID-l14fp1n
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
