@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2024-10-21T02:10:01Z
+# Időbélyeg / Timestamp: 2024-10-31T02:10:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -18335,6 +18335,10 @@
 # ID-d29QZ2S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 插手 插手 [cha1 shou3] /bele|ártja magát/bele|üti az orrát/
+
+# ID-d29So5T
+# Ver 2024-10-30T06:33:32Z NagyHenrik Stat-New >.
+氣哼哼 气哼哼 [qi4 heng1 heng1] /felbőszült; dühös; haragos/
 
 # ID-d30bh9b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -68012,6 +68016,10 @@ X X [X] /X/
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 保有 保有 [bao3 you3] /meg|őriz/meg|tart/
 
+# ID-m19Lk3U
+# Ver 2024-10-30T05:47:56Z NagyHenrik Stat-New >.
+弱相互作用 弱相互作用 [ruo4 xiang1 hu4 zuo4 yong4] / gyenge kölcsönhatás (részecskefizikában)/
+
 # ID-m19TF6e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 義 义 [yi4] /igazságosság/tisztesség/jelentés/
@@ -79978,6 +79986,10 @@ XX XX [x x] /x/
 # ID-o33hw4V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 專長 专长 [zhuan1 chang2] /szak|terület/
+
+# ID-o33yI8w
+# Ver 2024-10-30T05:20:04Z NagyHenrik Stat-New >.
+粒子物理學 粒子物理学 [li4 zi3 wu4 li3 xue2] /részecskefizika/
 
 # ID-o33zV0M
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
