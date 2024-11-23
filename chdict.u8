@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2024-10-31T02:10:01Z
+# Időbélyeg / Timestamp: 2024-11-23T02:10:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -80534,6 +80534,10 @@ XX XX [x x] /x/
 # ID-o43cN1V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 歌舞 歌舞 [ge1 wu3] /ének és tánc/
+
+# ID-o43cP8V
+# Ver 2024-11-22T06:16:41Z NagyHenrik Stat-New >.
+風暴之影導彈 风暴之影导弹 [feng1 bao4 zhi1 ying3 dao3 dan4] /storm shadow rakéta/
 
 # ID-o43gr4r
 # Ver 2024-06-28T03:09:37Z NagyHenrik Stat-New >.
