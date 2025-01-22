@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2025-01-14T02:10:02Z
+# Időbélyeg / Timestamp: 2025-01-22T02:10:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -20074,6 +20074,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-d60Gi2s
 # Ver 2022-08-10T05:09:08Z NagyHenrik Stat-New >.
 撲熱息痛 扑热息痛 [pu1 re4 xi1 tong4] /paracetamol/
+
+# ID-d60HD3O
+# Ver 2025-01-21T08:42:49Z NagyHenrik Stat-New >.
+隱語 隐语 [yin3 yu3] /talányos beszéd; /burkoltan célzó megjegyzés; /titkos nyelv; titkos beszélgetés; kétértelmű beszéd; /csibésznyelv; jassznyelv/rejtett vezetéknév/
 
 # ID-d60IM7G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -74588,6 +74592,10 @@ XX XX [x x] /x/
 # ID-n36hS1g
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 語句 语句 [yu3 ju4] /mondat/
+
+# ID-n36id6M
+# Ver 2025-01-21T08:52:06Z NagyHenrik Stat-New >.
+鄙諺 鄙谚 [bi3 yan4] /közmondás; szólásmondás; mondás; szólás; népi bölcsesség/
 
 # ID-n36ij5h
 # Ver 2022-06-17T06:34:36Z NagyHenrik Stat-New >.
