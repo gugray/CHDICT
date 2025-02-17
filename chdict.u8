@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2025-01-22T02:10:01Z
+# Időbélyeg / Timestamp: 2025-02-17T02:10:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -5834,6 +5834,10 @@
 # ID-b04vi1N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 萌芽 萌芽 [meng2 ya2] /rügy/rügyezik/ki|hajt/
+
+# ID-b04yE7s
+# Ver 2025-02-16T18:45:48Z GaoYanuo Stat-New >发展汉语 中级 tankönyv
+篷布 篷布 [peng2 bu4] /vízhatlan vászon; ponyva/
 
 # ID-b04BL5J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -18893,6 +18897,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 補 补 [bu3] /meg|javít/meg|foltoz/ki|egészít/
 
+# ID-d39OC2A
+# Ver 2025-02-16T19:48:57Z GaoYanuo Stat-New >发展汉语 中级 tankönyv
+瞧得起 瞧得起 [qiao2 de2 qi3] /egyenrangúnak tart; nem becsüli le/
+
 # ID-d39Sf2x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 有趣 有趣 [you3 qu4] /érdekes/szórakoztató/
@@ -19096,6 +19104,10 @@ U盤 U盘 [U pan2] /pendrive/
 # ID-d43nO0n
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 食草動物 食草动物 [shi2 cao3 dong4 wu4] /növény|evő állat/
+
+# ID-d43oy2P
+# Ver 2025-02-16T18:41:38Z GaoYanuo Stat-New >发展汉语 初级 tankönyv
+縫補 缝补 [feng2 bu3] /megvarr, megfoltoz/
 
 # ID-d43BF9s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -28159,7 +28171,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f08mX5D
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
-衝進 冲进 [chong1 jin4] /be|ront/
+# 衝進 冲进 [chong1 jin4] /be|ront/
+# Ver 2025-02-16T20:02:06Z GaoYanuo Stat-Verif >发展汉语 中级 tankönyv + purpleculture.net példamondat kereső
+衝進 冲进 [chong1 jin4] /be|ront/nekiront; nekimegy (nehéz helyzetnek)/
 
 # ID-f08ne4t
 # Ver 2018-11-24T18:59:12Z GaoYanuo Stat-New >http://www.dictall.com/dictall/result_sentence.jsp\nhttp://www.youdao.com/w/%E5%B9%BF%E5%9C%BA%E8%88%9E/#keyfrom=dict2.top
@@ -28536,7 +28550,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f14Re2h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-沿海 沿海 [yan2 hai3] /parti (parthoz közeli)/
+# 沿海 沿海 [yan2 hai3] /parti (parthoz közeli)/
+# Ver 2025-02-16T18:37:39Z GaoYanuo Stat-Verif >szinonima csak a keresés könnyítés miatt
+沿海 沿海 [yan2 hai3] /parti (parthoz közeli); partmenti/
 
 # ID-f14TX8P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -37262,7 +37278,9 @@ X X [X] /X/
 
 # ID-g67Uf2x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-掀起 掀起 [xian1 qi3] /fel|emel/neki|lódul/el|indít/
+# 掀起 掀起 [xian1 qi3] /fel|emel/neki|lódul/el|indít/
+# Ver 2025-02-16T19:33:07Z GaoYanuo Stat-Verif >发展汉语 中级 tankönyv + tanár +\nhttps://www.purpleculture.net/sample-sentences/?word=+%E6%8E%80%E8%B5%B7
+掀起 掀起 [xian1 qi3] /fel|emel/neki|lódul/el|indít/le|vesz; le|hord vmit vmiről (lefedett, letakart dologról: fedőt a fazékról, ponyvát a szél  az áruról, stb.)/
 
 # ID-g67XL9Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -39245,7 +39263,11 @@ X X [X] /X/
 
 # ID-h02Wc4E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-人家 人家 [ren2 jia5] /mások/más|valaki/ő; ők/az ember (általánosságban, magamról beszélve)/
+# 人家 人家 [ren2 jia5] /mások/más|valaki/ő; ők/az ember (általánosságban, magamról beszélve)/
+# Ver 2025-02-16T18:51:32Z GaoYanuo Stat-Verif >Forrás: anyanyelvi tanár.
+# 人家 人家 [ren2 jia5] /mások/más|valaki/ő; ők (jelen nem levő, a beszélőkön kívüliek személyek névmás pótlója)/az ember (általánosságban, magamról beszélve)/
+# Ver 2025-02-16T18:52:07Z GaoYanuo Stat-Verif >saját elgépelés javítva
+人家 人家 [ren2 jia5] /mások/más|valaki/ő; ők (jelen nem levő, a beszélőkön kívüli személyek névmás pótlója)/az ember (általánosságban, magamról beszélve)/
 
 # ID-h02ZT0d
 # Ver 2022-08-09T11:41:11Z NagyHenrik Stat-New >.
@@ -42800,6 +42822,10 @@ X X [X] /X/
 # ID-h71dR3S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 關聯 关联 [guan1 lian2] /kapcsolódó/össze|függ (vmivel)/kapcsolat/összefüggés/
+
+# ID-h71gF6v
+# Ver 2025-02-16T19:11:27Z GaoYanuo Stat-New >发展汉语 + Bartos-Hamar
+露天 露天 [lu4 tian1] /szabadtéren, szabad ég alatt, szabadban/szabadtéri (főnév előtt szóösszetételekben)/
 
 # ID-h71iH5B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -48693,6 +48719,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 牢房 牢房 [lao2 fang2] /börtön|cella/
 
+# ID-i75zg4M
+# Ver 2025-02-16T19:40:08Z GaoYanuo Stat-New >发展汉语 +  Bartos-Hamar
+高等教育 高等教育 [gao1 deng3 jiao4 yu4] /felsőoktatás/
+
 # ID-i75OX6e
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 來到 来到 [lai2 dao4] /meg|érkezik/
@@ -50788,6 +50818,10 @@ X X [X] /X/
 # 入格 入格 [ru4 ge2] /illativus (nyelvtani eset)/
 # Ver 2021-08-15T19:11:56Z gabor Stat-Verif >.
 入格 入格 [ru4 ge2] /illativus (nyelvtani eset)/
+
+# ID-j13ZW8Z
+# Ver 2025-02-16T19:23:19Z GaoYanuo Stat-New >发展汉语 中级 tankönyv 
+淋透 淋透 [lin2 tou4] /bőrig ázik/átázik (anyag)/
 
 # ID-j14iq6P
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -61393,6 +61427,10 @@ X X [X] /X/
 # Ver 2022-02-16T13:44:22Z NagyHenrik Stat-New >https://www.szotar.net/szocikk/lcnhu022018-23064-huy
 呼吁書 呼吁书 [hu1 yu4 shu1] /felhívás, petíció/已经签署了此次呼吁书 Yǐjīng qiānshǔ le cǐcì hūyùshū Már aláírták ezt petíciót./
 
+# ID-l02XL7o
+# Ver 2025-02-16T18:57:37Z GaoYanuo Stat-New >发展汉语 中级 tankönyv + anyanyelvi tanár
+自個兒 自个儿 [zi4 ge3 r5] /a saját vmije (pl. főztje)/maga; önmaga; egymaga (ige előtt)/
+
 # ID-l02YN2C
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 夫人 夫人 [fu1 ren5] /hölgy/feleség/-né (utótagként)/SZ:位[wei4]/
@@ -65646,6 +65684,10 @@ X X [X] /X/
 # ID-l76kl2t
 # Ver 2022-03-28T14:54:10Z NagyHenrik Stat-New >.
 昔蘭尼學派 昔兰尼学派 [xi1 lan2 ni2 xue2 pai4] /Kürénéi hedonizmus/
+
+# ID-l76so1d
+# Ver 2025-02-16T19:06:18Z GaoYanuo Stat-New >发展汉语 könyv + https://www.purpleculture.net/sample-sentences/?word=%E4%B8%A2%E5%BC%83
+丟棄 丢弃 [diu1 qi4] /kidob; eldob/felad; elvet (gondolatot, ötletet)/elutasít/figyelmen kívül hagy/
 
 # ID-l76EN8K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -77728,7 +77770,9 @@ XX XX [x x] /x/
 
 # ID-n91Xu4g
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-手下 手下 [shou3 xia4] /vezetésével/irányításával/kéznél van/
+# 手下 手下 [shou3 xia4] /vezetésével/irányításával/kéznél van/
+# Ver 2025-02-16T19:37:59Z GaoYanuo Stat-Verif >发展汉语 中级 tankönyv  és Bartos-Hamar alapján kiegészítve
+手下 手下 [shou3 xia4] /vezetésével/irányításával/kéznél van/alárendelt; beosztott/
 
 # ID-n91XG6Z
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
@@ -80229,6 +80273,10 @@ XX XX [x x] /x/
 # ID-o38js4r
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 身材 身材 [shen1 cai2] /termet/alak (emberé)/
+
+# ID-o38jK5a
+# Ver 2025-02-16T19:43:21Z GaoYanuo Stat-New >发展汉语 中级 tankönyv
+外商 外商 [wai4 shang1] /külföldi üzletember ( a 外国商人 rövid alakja)/
 
 # ID-o38pr0s
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
