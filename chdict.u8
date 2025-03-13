@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2025-02-17T02:10:01Z
+# Időbélyeg / Timestamp: 2025-03-13T02:10:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -18899,7 +18899,9 @@ U盤 U盘 [U pan2] /pendrive/
 
 # ID-d39OC2A
 # Ver 2025-02-16T19:48:57Z GaoYanuo Stat-New >发展汉语 中级 tankönyv
-瞧得起 瞧得起 [qiao2 de2 qi3] /egyenrangúnak tart; nem becsüli le/
+# 瞧得起 瞧得起 [qiao2 de2 qi3] /egyenrangúnak tart; nem becsüli le/
+# Ver 2025-03-12T05:45:32Z NagyHenrik Stat-New >.
+瞧得起 瞧得起 [qiao2 de2 qi3] /egyenrangúnak tart; nem becsüli le; /nagyra tart; felnéz (vmire, vkire); sokra néz vkit/
 
 # ID-d39Sf2x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -22101,6 +22103,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-d95In9w
 # Ver 2022-04-17T10:11:05Z NagyHenrik Stat-New >.
 門檻 门槛 [men2 kan3] /küszöb/fortély; fogás; trükk/
+
+# ID-d95KN2D
+# Ver 2025-03-12T06:54:51Z NagyHenrik Stat-New >.
+鬵 鬵 [xin2] /fazék; főzőedény [vízforraló típusú főzőedény]  ‹古›; → ua. mint: 甑 zèng/
 
 # ID-d95KR9T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -28552,7 +28558,11 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 沿海 沿海 [yan2 hai3] /parti (parthoz közeli)/
 # Ver 2025-02-16T18:37:39Z GaoYanuo Stat-Verif >szinonima csak a keresés könnyítés miatt
-沿海 沿海 [yan2 hai3] /parti (parthoz közeli); partmenti/
+# 沿海 沿海 [yan2 hai3] /parti (parthoz közeli); partmenti/
+# Ver 2025-03-12T05:18:00Z NagyHenrik Stat-Verif >.
+# 沿海 沿海 [yan2 hai3] /a (tenger)part mentén; parti (parthoz közeli); partmenti/
+# Ver 2025-03-12T05:21:21Z NagyHenrik Stat-Verif >1984 és 2015 között érvényes 11. helyesírási szabályzat alapján a part menti kifejezés különírandó
+沿海 沿海 [yan2 hai3] /a (tenger)part mentén; parti (parthoz közeli); part menti/
 
 # ID-f14TX8P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -37148,6 +37158,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 蜚語 蜚语 [fei1 yu3] /alaptalan pletyka; híresztelés/
 
+# ID-g64SO4X
+# Ver 2025-03-12T06:31:15Z NagyHenrik Stat-New >.
+露天劇場 露天剧场 [lu4 tian1 ju4 chang3] /szabadtéri színpad/
+
 # ID-g64Uq7t
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 傘兵 伞兵 [san3 bing1] /ejtő|ernyős katona/
@@ -37280,7 +37294,9 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 掀起 掀起 [xian1 qi3] /fel|emel/neki|lódul/el|indít/
 # Ver 2025-02-16T19:33:07Z GaoYanuo Stat-Verif >发展汉语 中级 tankönyv + tanár +\nhttps://www.purpleculture.net/sample-sentences/?word=+%E6%8E%80%E8%B5%B7
-掀起 掀起 [xian1 qi3] /fel|emel/neki|lódul/el|indít/le|vesz; le|hord vmit vmiről (lefedett, letakart dologról: fedőt a fazékról, ponyvát a szél  az áruról, stb.)/
+# 掀起 掀起 [xian1 qi3] /fel|emel/neki|lódul/el|indít/le|vesz; le|hord vmit vmiről (lefedett, letakart dologról: fedőt a fazékról, ponyvát a szél  az áruról, stb.)/
+# Ver 2025-03-12T06:08:45Z NagyHenrik Stat-Verif >.
+掀起 掀起 [xian1 qi3] /fel|emel/neki|lódul/el|indít/le|vesz; le|hord vmit vmiről (lefedett, letakart dologról: fedőt a fazékról, ponyvát a szél  az áruról, stb.)/fellebbent/
 
 # ID-g67XL9Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -38519,6 +38535,10 @@ X X [X] /X/
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 紕繆 纰缪 [pi1 miu4] /hiba/tévedés/
 
+# ID-g91kV3u
+# Ver 2025-03-12T07:27:20Z NagyHenrik Stat-New >.
+炊具 炊具 [chui1 ju4] /főzőedények/
+
 # ID-g91pg8I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 程序 程序 [cheng2 xu4] /el|járás/procedúra/folyamat/program (számítógépes)/
@@ -39560,6 +39580,10 @@ X X [X] /X/
 # ID-h08dN6P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 衰微 衰微 [shuai1 wei1] /hanyatlik/
+
+# ID-h08sO7q
+# Ver 2025-03-12T06:29:28Z NagyHenrik Stat-New >.
+步入 步入 [bu4 ru4] /belép; bemegy; besétál/
 
 # ID-h08zq1F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -58475,6 +58499,10 @@ X X [X] /X/
 # 氡 氡 [dong1] /radon (kémiai elem, Rn)/
 # Ver 2021-05-31T19:06:47Z gabor Stat-Verif >.
 氡 氡 [dong1] /radon (kémiai elem, Rn)/
+
+# ID-k50Pb5s
+# Ver 2025-03-12T07:21:01Z NagyHenrik Stat-New >.
+肏 肏 [cao4] /baszik; kúr; megbasz; megkúr; megdug; megkefél/közösül; nemi közösülés; koitusz (coitus) /behatol; penetrál /húsba hatol/
 
 # ID-k50PF5B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
