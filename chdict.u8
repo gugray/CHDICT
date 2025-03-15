@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2025-03-13T02:10:01Z
+# Időbélyeg / Timestamp: 2025-03-15T02:10:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -7379,6 +7379,10 @@
 # ID-b32La2s
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 機油 机油 [ji1 you2] /motor|olaj/
+
+# ID-b32Sf3i
+# Ver 2025-03-14T06:58:54Z NagyHenrik Stat-New >。
+防暴隊 防暴队 [fang2 bao4 dui4] /rohamrendőri alakulat/
 
 # ID-b32TU6S
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -40226,6 +40230,10 @@ X X [X] /X/
 # Ver 2022-05-01T07:21:15Z NagyHenrik Stat-New >.
 安史之亂 安史之乱 [an1 shi3 zhi1 luan4] /An Lushan és Shi Siming lázadása\felkelése [755-763]/
 
+# ID-h21DI1l
+# Ver 2025-03-14T07:12:23Z NagyHenrik Stat-New >.
+妨害 妨害 [fang2 hai4] /veszélyeztet; árt/
+
 # ID-h21Fq6M
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 恐慌發作 恐慌发作 [kong3 huang1 fa1 zuo4] /pánik|roham/
@@ -41043,6 +41051,10 @@ X X [X] /X/
 # ID-h36ZV1N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 村民 村民 [cun1 min2] /falusiak/
+
+# ID-h37br6H
+# Ver 2025-03-14T06:58:19Z NagyHenrik Stat-New >。
+防暴車 防暴车 [fang2 bao4 che1] /rohamrendőrségi jármű/
 
 # ID-h37sy3j
 # Ver 2022-02-20T14:10:40Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%88%B6%E5%8A%A8%E6%B6%B2
@@ -72864,6 +72876,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 嚴禁 严禁 [yan2 jin4] /szigorúan meg|tilt/
 
+# ID-n01ts4D
+# Ver 2025-03-14T06:57:19Z NagyHenrik Stat-New >。
+防暴 防暴 [fang2 bao4] /zavargást megfékez /
+
 # ID-n01tR1o
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 餿 馊 [sou1] /romlott; avas; savanyú (étel)/
@@ -81516,6 +81532,10 @@ XX XX [x x] /x/
 # Ver 2019-09-29T15:57:05Z gabor Stat-Verif >pvessz
 僅 仅 [jin3] /alig/csak; csupán; pusztán/épp/
 
+# ID-o59tm2v
+# Ver 2025-03-14T07:08:17Z NagyHenrik Stat-New >.
+妨 妨 [fang2] /akadályoz; feltart; gátol; hátráltat/árt; kárára van/
+
 # ID-o59Cf7I
 # Ver 2022-03-08T08:30:55Z NagyHenrik Stat-New >https://baike.baidu.com/item/%E5%A6%82%E5%9D%90%E6%98%A5%E9%A3%8E/4516935?fr=aladdin
 如坐春風 如坐春风 [ru2 zuo4 chun1 feng1] /(oly érzés) mintha tavaszi szellő repítne (ül), (szólás, Song-dinasztia )./Metafora arra, hogy a szilárd erkölcsű és tanult emberek között töltött idő inspirálóan hat./
@@ -83429,6 +83449,10 @@ XX XX [x x] /x/
 # 低頭族 低头族 [di1 tou2 zu2] /(köznyelvi) okostelefon-függők (szó szerint "lehajtott fejűek törzse": az okostelefonjukba mélyedőkre használt vicces-pejoratív megnevezés)/
 # Ver 2021-07-01T20:37:53Z gabor Stat-Verif >.
 低頭族 低头族 [di1 tou2 zu2] /(köznyelvi) okostelefon-függők (szó szerint "lehajtott fejűek törzse": az okostelefonjukba mélyedőkre használt vicces-pejoratív megnevezés)/
+
+# ID-o92Ng6Z
+# Ver 2025-03-14T07:01:06Z NagyHenrik Stat-New >.
+防暴警 防暴警 [fang2 bao4 jing3] /rohamrendőr; rohamrendőrség/
 
 # ID-o92ZP7z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
