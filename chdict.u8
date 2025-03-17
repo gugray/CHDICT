@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2025-03-15T02:10:01Z
+# Időbélyeg / Timestamp: 2025-03-17T02:10:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -2788,6 +2788,10 @@
 # ID-a48Ya4h
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 喜悅 喜悦 [xi3 yue4] /boldog/vidám/
+
+# ID-a48YO3t
+# Ver 2025-03-16T08:07:27Z NagyHenrik Stat-New >.
+乘以十 乘以十 [cheng2 yi3 shi2] /megtízszerez/
 
 # ID-a48Zx0Y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -23792,6 +23796,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 大餐 大餐 [da4 can1] /lakoma/
 
+# ID-e26jH3A
+# Ver 2025-03-16T08:18:32Z NagyHenrik Stat-New >.
+賊語 贼语 [zei2 yu3] /tolvajnyelv/
+
 # ID-e26jZ2p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 爆發 爆发 [bao4 fa1] /ki|tör (pl. vulkán)/robbanás/
@@ -41585,6 +41593,10 @@ X X [X] /X/
 # Ver 2019-10-17T16:11:46Z gabor Stat-Verif >felvettem a fizetséget, javadalmazást. a "treatment" benne van a kezelés, bánásmódban, amiket összevontam.
 待遇 待遇 [dai4 yu4] /kezelés; bánásmód/fizetés; fizetség; javadalmazás/
 
+# ID-h47qE7S
+# Ver 2025-03-16T08:08:31Z NagyHenrik Stat-New >.
+青霉素 青霉素 [qing1 mei2 su4] /penicillin/
+
 # ID-h47Av2N
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 武士刀 武士刀 [wu3 shi4 dao1] /szamuráj|kard; katana/
@@ -50372,6 +50384,10 @@ X X [X] /X/
 # Ver 2022-05-20T03:15:06Z NagyHenrik Stat-New >.
 硝化 硝化 [xiao1 hua4] /nitrifikál/
 
+# ID-j05NW4v
+# Ver 2025-03-16T08:10:09Z NagyHenrik Stat-New >.
+霉菌層 霉菌层 [mei2 jun1 ceng2] /penészbevonat/
+
 # ID-j05SW2t
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 面目可憎 面目可憎 [mian4 mu4 ke3 zeng1] /(kifejezés) vissza|taszító külsejű/
@@ -58917,6 +58933,10 @@ X X [X] /X/
 # ID-k58fZ4l
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 大可不必 大可不必 [da4 ke3 bu4 bi4] /(kifejezés) nem szükséges; nem kellett volna/
+
+# ID-k58kE4y
+# Ver 2025-03-16T08:19:20Z NagyHenrik Stat-New >.
+萬能鑰匙 万能钥匙 [wan4 neng2 yao4 shi5] /tolvajkulcs/
 
 # ID-k58ot8V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -71127,6 +71147,10 @@ XX XX [x x] /x/
 # Ver 2020-02-04T16:25:28Z gabor Stat-Verif >.
 霸王 霸王 [ba4 wang2] /zsarnok; despota/
 
+# ID-m72qd9E
+# Ver 2025-03-16T08:17:31Z NagyHenrik Stat-New >.
+砂紙 砂纸 [sha1 zhi3] /csiszolópapír; dörzspapír; smirglipapír/
+
 # ID-m72we7J
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 掌管 掌管 [zhang3 guan3] /irányít; felügyel/felelős (vmiért)/
@@ -73118,6 +73142,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 董事會 董事会 [dong3 shi4 hui4] /igazgató|tanács/igazgatóság/
 
+# ID-n06aA2B
+# Ver 2025-03-16T08:12:37Z NagyHenrik Stat-New >.
+滑雪纜車 滑雪缆车 [hua2 xue3 lan3 che1] /sífelvonó/
+
 # ID-n06fX6w
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 嚇唬 吓唬 [xia4 hu5] /meg|ijeszt/
@@ -74194,6 +74222,10 @@ XX XX [x x] /x/
 # ID-n26Mn2d
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 飛魚 飞鱼 [fei1 yu2] /repülő|hal/
+
+# ID-n26Qa1m
+# Ver 2025-03-16T08:12:07Z NagyHenrik Stat-New >.
+步行大道 步行大道 [bu4 hang2 da4 dao4] /sétány/
 
 # ID-n26SN6x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
