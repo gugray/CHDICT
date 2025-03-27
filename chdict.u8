@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2025-03-17T02:10:01Z
+# Időbélyeg / Timestamp: 2025-03-27T02:10:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -7938,6 +7938,10 @@
 # ID-b43BG2P
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 有限 有限 [you3 xian4] /korlátozott/véges/
+
+# ID-b43DR6x
+# Ver 2025-03-26T06:20:54Z NagyHenrik Stat-New >。
+自我不一緻理論 自我不一致理论 [zi4 wo3 bu4 yi1 zhi4 li3 lun4] /selfdiszkrepancia-elmélet/
 
 # ID-b43MS9q
 # Ver 2017-12-08T21:23:18Z GaoYanuo Stat-New >.
@@ -30635,6 +30639,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # ID-f49uv2N
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 橫隔膜 横隔膜 [heng2 ge2 mo2] /rekesz|izom/
+
+# ID-f49xj8J
+# Ver 2025-03-26T06:21:45Z NagyHenrik Stat-New >。
+自我差異理論 自我差异理论 [zi4 wo3 cha1 yi4 li3 lun4] /selfdiszkrepancia-elmélet/
 
 # ID-f49Qj8F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -72687,6 +72695,10 @@ XX XX [x x] /x/
 # ID-m97Tj4Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 提煉 提炼 [ti2 lian4] /ki|von (ércet, ásványt stb.)/finomít/
+
+# ID-m97Vw1Q
+# Ver 2025-03-26T05:20:08Z NagyHenrik Stat-New >。
+過份自信 过份自信 [guo4 fen4 zi4 xin4] /asszertivitás/
 
 # ID-m97Yv3I
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
