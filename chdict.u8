@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2025-03-27T02:10:01Z
+# Időbélyeg / Timestamp: 2025-03-28T02:10:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -63617,6 +63617,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 逃走 逃走 [tao2 zou3] /el|fut/el|menekül/
 
+# ID-l40dH7u
+# Ver 2025-03-27T03:07:54Z NagyHenrik Stat-New >.
+綜合徵 综合征 [zong1 he2 zheng1] /szindróma/
+
 # ID-l40jr1H
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 太子 太子 [tai4 zi3] /korona|herceg/
@@ -80666,6 +80670,10 @@ XX XX [x x] /x/
 # ID-o42QG1r
 # Ver 2022-05-20T04:28:20Z NagyHenrik Stat-New >.
 偽政權 伪政权 [wei3 zheng4 quan2] /bábhatalom/
+
+# ID-o42QH1E
+# Ver 2025-03-27T03:06:29Z NagyHenrik Stat-New >.
+阿斯伯格綜合征 阿斯伯格综合征 [a1 si1 bo2 ge2 zong1 he2 zheng1] /Asperger-szindróma/
 
 # ID-o42TC2E
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
