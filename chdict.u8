@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2025-03-28T02:10:01Z
+# Időbélyeg / Timestamp: 2025-04-07T02:10:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -42300,6 +42300,10 @@ X X [X] /X/
 # ID-h60YB5E
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 節日 节日 [jie2 ri4] /ünnep/fesztivál/
+
+# ID-h60Zt4Y
+# Ver 2025-04-06T09:01:59Z NagyHenrik Stat-New >.
+戰爭學家 战争学家 [zhan4 zheng1 xue2 jia1] /polemológus/
 
 # ID-h61aG3k
 # Ver 2020-09-15T16:02:18Z gabor Stat-New >Podcast; CEDICT, korpusz
