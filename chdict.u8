@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2025-04-07T02:10:01Z
+# Időbélyeg / Timestamp: 2025-04-28T02:10:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -11476,6 +11476,10 @@
 # ID-c07uA9C
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 格言 格言 [ge2 yan2] /mottó; mondás; jelmondat/
+
+# ID-c07wH7J
+# Ver 2025-04-27T13:28:23Z GaoYanuo Stat-New >anyanyelvi tanár
+曆史形勢圖 历史形势图 [li4 shi3 xing2 shi4 tu2] /történelmi térkép/
 
 # ID-c07ys2M
 # Ver 2017-12-08T21:00:45Z GaoYanuo Stat-New >ha pont "." a komment, akkor a CC-EDICT-ben benne van. Ha nem gond, ezután csak akkor jelölök külön referenciát, ha a CC-CEDICT-ben nem szerepel a címszó. Ellenőrizetlenül nem viszek be semmit, még akkor sem, ha kínaiaktól szedtem az igét.
@@ -39547,6 +39551,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 相應 相应 [xiang1 ying4] /meg|felelő; meg|felel (vminek)/releváns/alkalmasan módosít/kölcsönös/
 
+# ID-h07cJ0D
+# Ver 2025-04-27T13:38:15Z GaoYanuo Stat-New >Bratos-Hamar， tanár
+旅伴 旅伴 [lü3 ban4] /útitárs/
+
 # ID-h07dJ9b
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 小氣 小气 [xiao3 qi4] /fukar/kicsinyes/kapzsi/korlátolt/
@@ -50808,6 +50816,10 @@ X X [X] /X/
 # ID-j12nh1c
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 抗生素 抗生素 [kang4 sheng1 su4] /antibiotikum/
+
+# ID-j12zx6u
+# Ver 2025-04-27T13:18:07Z GaoYanuo Stat-New >anyanyelvi tanár
+民族服裝 民族服装 [min2 zu2 fu2 zhuang1] /népviselet/
 
 # ID-j12zT2Q
 # Ver 2020-10-01T16:07:58Z gabor Stat-New >GushiFM E179
@@ -84760,6 +84772,10 @@ XX XX [x x] /x/
 # ID-p13Gz5n
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 瞄 瞄 [miao2] /céloz/szándékozik/
+
+# ID-p13GP0K
+# Ver 2025-04-27T13:36:00Z GaoYanuo Stat-New >anyanyelvi tanár
+繚繞 缭绕 [liao2 rao4] /hömpölyög; terjeng; szállingózik; gomolyog/
 
 # ID-p13Ju1A
 # Ver 2019-03-09T18:38:10Z GaoYanuo Stat-New >tanár, CC_CEDICT\nhttps://www.purpleculture.net/sample-sentences/?word=%E9%BB%91%E6%88%B7
