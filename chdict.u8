@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2025-04-28T02:10:01Z
+# Időbélyeg / Timestamp: 2025-05-12T02:10:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -14835,6 +14835,10 @@
 # ID-c67kY9n
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 冰凍 冰冻 [bing1 dong4] /fagyaszt/be|fagy/
+
+# ID-c67ml4M
+# Ver 2025-05-11T21:55:07Z jojo-chan Stat-New >https://zh.wikipedia.org/zh-cn/卢浮宫博物馆
+盧浮宮 卢浮宫 [lu2 fu2 gong1] /Louvre (múzeum Párizsban)/
 
 # ID-c67za3B
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
