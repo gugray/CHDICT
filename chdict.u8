@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2025-05-12T02:10:01Z
+# Időbélyeg / Timestamp: 2025-05-30T02:10:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -1014,6 +1014,10 @@
 # ID-a18ak9f
 # Ver 2019-07-01T15:35:48Z GaoYanuo Stat-New >https://www.xyzdict.com/en/chinese-english/%E8%BE%93%E5%87%BA
 輸出 输出 [shu1 chu1] /kimenet, output/kivitel, export/
+
+# ID-a18bo6U
+# Ver 2025-05-29T06:07:05Z NagyHenrik Stat-New >.
+內務部 内务部 [nei4 wu4 bu4] /belügyminisztérium/
 
 # ID-a18bt5Q
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -13766,6 +13770,10 @@
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 前額 前额 [qian2 e2] /homlok/
 
+# ID-c50lK9N
+# Ver 2025-05-29T06:04:57Z NagyHenrik Stat-New >.
+威爾遜主義 威尔逊主义 [wei1 er3 xun4 zhu3 yi4] /Wilsonizmus/
+
 # ID-c50nD9Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 灰 灰 [hui1] /hamu/por/mész/szürke; hamu|szürke/le|vert; kedve|szegett/
@@ -14671,6 +14679,10 @@
 # ID-c64uQ0Q
 # Ver 2022-04-01T03:38:50Z NagyHenrik Stat-New >.
 微弱 微弱 [wei1 ruo4] /gyenge; erőtlen; halvány,/
+
+# ID-c64zM6W
+# Ver 2025-05-29T06:05:32Z NagyHenrik Stat-New >.
+德意志邦聯 德意志邦联 [de2 yi4 zhi4 bang1 lian2] /Német Szövetség /
 
 # ID-c64Bf7d
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -17381,6 +17393,10 @@
 # ID-d12eo0G
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 處分 处分 [chu3 fen4] /fegyelmez/meg|büntet/fegyelmi eljárás/el|dönt; meg|old (ügyet)/
+
+# ID-d12eq0I
+# Ver 2025-05-29T06:07:20Z NagyHenrik Stat-New >.
+內政部 内政部 [nei4 zheng4 bu4] /belügyminisztérium/
 
 # ID-d12eT4f
 # Ver 2022-10-13T02:42:31Z NagyHenrik Stat-New >.
@@ -29615,6 +29631,10 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 深感 深感 [shen1 gan3] /mélyen érez (vki\vmi iránt)/
 
+# ID-f33lD3A
+# Ver 2025-05-29T06:06:22Z NagyHenrik Stat-New >.
+國際關係現實主義 国际关系现实主义 [guo2 ji4 guan1 xi4 xian4 shi2 zhu3 yi4] /politikai realizmus/
+
 # ID-f33nL6D
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 碳原子 碳原子 [tan4 yuan2 zi3] /szén|atom/
@@ -40232,6 +40252,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 辦到 办到 [ban4 dao4] /el|ér/el|intéz/
 
+# ID-h20QZ6E
+# Ver 2025-05-29T06:05:51Z NagyHenrik Stat-New >.
+德意志統一 德意志统一 [de2 yi4 zhi4 tong3 yi1] /Németország egyesítése (1871)/
+
 # ID-h20Rv6D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 週末 周末 [zhou1 mo4] /hét|vége/
@@ -41684,6 +41708,10 @@ X X [X] /X/
 # ID-h49hl6y
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 馬背 马背 [ma3 bei4] /ló|hát/
+
+# ID-h49mu8g
+# Ver 2025-05-29T06:06:50Z NagyHenrik Stat-New >.
+觀念形態 观念形态 [guan1 nian4 xing2 tai4] /világnézet; ideológia; fogalomrendszer/
 
 # ID-h49nT5j
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -59545,6 +59573,10 @@ X X [X] /X/
 # Ver 2018-05-08T12:48:18Z gabor Stat-Flagged >ez igaz érvelés, és nem is igazán tudok/akarok vitatkozni az érdemi részével. egyedül a konzisztencia marad, hogy akkor ezt nemcsak a spanyolnál kellene megcsinálni, hanem szisztematikusan minden nyelvnél, országnál - méghozzá akkor már offline. ezért most ezt itt jól megjelölöm emlékeztetőnek.
 西班牙語 西班牙语 [xi1 ban1 ya2 yu3] /spanyol (nyelv)/
 
+# ID-k68Wo0h
+# Ver 2025-05-29T06:07:44Z NagyHenrik Stat-New >.
+國家利益 国家利益 [guo2 jia1 li4 yi4] /államérdek; nemzetérdek; államrezon//
+
 # ID-k68WT3K
 # Ver 2017-12-13T18:35:36Z gabor Stat-Verif 002>OpenSub2016 korpusz + automatikus kétnyelvű kinyerés + kézi feldolgozás
 臭名昭著 臭名昭著 [chou4 ming2 zhao1 zhu4] /(kifejezés) hírhedt; notórius/
@@ -64538,6 +64570,10 @@ X X [X] /X/
 # Ver 2021-05-31T19:29:23Z gabor Stat-Verif >.
 突變 突变 [tu1 bian4] /hirtelen meg|változik/mutáció; mutálódik/
 
+# ID-l53vE3J
+# Ver 2025-05-29T06:04:23Z NagyHenrik Stat-New >.
+十日談 十日谈 [shi2 ri4 tan2] /Decameron (Boccaccio novella)/
+
 # ID-l53vR9o
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 名聲 名声 [ming2 sheng1] /híresség/hírnév/
@@ -67342,6 +67378,10 @@ X X [X] /X/
 # Ver 2017-12-12T19:29:56Z GaoYanuo Stat-New >CC-CEDICT
 中指 中指 [zhong1 zhi3] /középső ujj/
 
+# ID-m06pz2f
+# Ver 2025-05-29T06:04:42Z NagyHenrik Stat-New >.
+腓特烈二世 腓特烈二世 [fei2 te4 lie4 er4 shi4] /II. Frigyes Roger/
+
 # ID-m06ti1z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 逃避 逃避 [tao2 bi4] /el|menekül (vmi elől)/ki|kerül (pl. kérdést)/ki|bújik (vmi alól)/
@@ -68218,6 +68258,10 @@ X X [X] /X/
 # ID-m20zX2D
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 廠 厂 [chang3] /gyár/üzem/raktár/
+
+# ID-m20Is7D
+# Ver 2025-05-29T06:06:05Z NagyHenrik Stat-New >.
+政治現實主義 政治现实主义 [zheng4 zhi4 xian4 shi2 zhu3 yi4] /politikai realizmus/
 
 # ID-m20Kg3H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -70357,6 +70401,10 @@ X X [X] /X/
 # ID-m58oW2Y
 # Ver 2022-07-20T02:14:15Z NagyHenrik Stat-New >.
 清晰度 清晰度 [qing1 xi1 du4] /felbontás; tisztaság; élesség/artikuláció; tagolás; tisztaság /
+
+# ID-m58pd3z
+# Ver 2025-05-29T06:08:00Z NagyHenrik Stat-New >.
+現實政治 现实政治 [xian4 shi2 zheng4 zhi4] /reálpolitika/
 
 # ID-m58AB3a
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -75021,6 +75069,10 @@ XX XX [x x] /x/
 # ID-n40ym1O
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 航行 航行 [hang2 xing2] /vitorlázik/repül/
+
+# ID-n40Ff9x
+# Ver 2025-05-29T06:05:14Z NagyHenrik Stat-New >.
+威爾遜理想主義 威尔逊理想主义 [wei1 er3 xun4 li3 xiang3 zhu3 yi4] /Wilsonizmus//
 
 # ID-n40ML0X
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
