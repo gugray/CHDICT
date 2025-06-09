@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2025-05-30T02:10:01Z
+# Időbélyeg / Timestamp: 2025-06-09T02:10:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -3298,6 +3298,10 @@
 # ID-a57Ex1I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 尖銳 尖锐 [jian1 rui4] /éles/metsző/átható/akut/
+
+# ID-a57GG1a
+# Ver 2025-06-08T19:19:19Z GaoYanuo Stat-New >céges kommunikáció
+可持續發展 可持续发展 [ke3 chi2 xu4 fa1 zhan3] /Fenntartható fejlődés/
 
 # ID-a57GY2q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -9864,6 +9868,8 @@
 
 # ID-b79dL0P
 # Ver 2022-03-17T07:20:26Z NagyHenrik Stat-New >http://dict.cn/%E5%9B%BD%E9%99%85%E5%8E%9F%E6%B2%B9%E8%A1%8C%E6%83%85
+# 國際原油行情 国际原油行情 [guo2 ji4 yuan2 you2 hang2 qing2] /nemzetközi nyersolajpiac/
+# Ver 2025-06-08T18:44:11Z GaoYanuo Stat-New >Túl hosszú bejegyzés. Három külön szócikk. A "行情" nem piacot jelent, hanem piaci helyzetet, piaci környezetet, árfolyamot.\n
 國際原油行情 国际原油行情 [guo2 ji4 yuan2 you2 hang2 qing2] /nemzetközi nyersolajpiac/
 
 # ID-b79ko1H
@@ -11696,6 +11702,10 @@
 # ID-c10lh6x
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 人間 人间 [ren2 jian1] /világ/világi/
+
+# ID-c10um3m
+# Ver 2025-06-08T18:58:13Z GaoYanuo Stat-New >Dokumentum
+編寫人 编写人 [bian1 xie3 ren2] /szerző (hivatalos dokumentumban "írta", "készítette", stb.)/
 
 # ID-c10zx0K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -16726,6 +16736,10 @@
 # ID-c99DS2U
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 雜交 杂交 [za2 jiao1] /keresztez (fajtákat)/hibrid/
+
+# ID-c99EV7M
+# Ver 2025-06-08T19:27:44Z GaoYanuo Stat-New >kínai kollégák
+勞動防護 劳动防护 [lao2 dong4 fang2 hu4] /munkavédelem, munkabiztonság/
 
 # ID-c99Fl4N
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -38311,6 +38325,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 神仙 神仙 [shen2 xian1] /halhatatlan/természetfeletti lény/
 
+# ID-g86GC6T
+# Ver 2025-06-08T18:48:45Z GaoYanuo Stat-New >céges dokumentum
+首席執行官 首席执行官 [shou3 xi2 zhi2 xing2 guan1] /vezérigazgató; CEO/
+
 # ID-g86Jk0A
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 輕而易舉 轻而易举 [qing1 er2 yi4 ju3] /(kifejezés) egyszerű; gyerekjáték/
@@ -51402,7 +51420,9 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 # 參考 参考 [can1 kao3] /hivatkozik (vmire; forrásra)/hivatkozás/
 # Ver 2021-03-28T21:58:48Z Adam Stat-Verif >+ szinonima
-參考 参考 [can1 kao3] /hivatkozik (vmire; forrásra)/hivatkozás; forrás|hivatkozás/
+# 參考 参考 [can1 kao3] /hivatkozik (vmire; forrásra)/hivatkozás; forrás|hivatkozás/
+# Ver 2025-06-08T19:02:35Z GaoYanuo Stat-Verif >Pl. 参考光束 referenciasugár; 参考资料 referenciaanyag
+參考 参考 [can1 kao3] /hivatkozik (vmire; forrásra)/hivatkozás; forrás|hivatkozás/referencia (főleg összetételekben)/
 
 # ID-j21gu1J
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -58774,7 +58794,9 @@ X X [X] /X/
 
 # ID-k53RU7Z
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-屬 属 [shu3] /tartozik (vhová\vmihez)/született (a 12 állat egyikének évében)/kategória/osztály/nemzetség (biológia)/
+# 屬 属 [shu3] /tartozik (vhová\vmihez)/született (a 12 állat egyikének évében)/kategória/osztály/nemzetség (biológia)/
+# Ver 2025-06-08T18:36:42Z GaoYanuo Stat-Verif >画面上 确认讯息 不属于人工处理. A képernyőn megjelenő üzenetek nyugtázása nem számít manuális beavatkozásnak. (kommunikáció kínai kollégával)
+屬 属 [shu3] /tartozik (vhová\vmihez\)/számít (vminek)/született (a 12 állat egyikének évében)/kategória/osztály/nemzetség (biológia)/
 
 # ID-k54gt9F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -78150,6 +78172,10 @@ XX XX [x x] /x/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 祝賀 祝贺 [zhu4 he4] /gratulál/gratuláció/
 
+# ID-n95BM4G
+# Ver 2025-06-08T19:26:31Z GaoYanuo Stat-New >kínai kolléga
+爆破片 爆破片 [bao4 po4 pian4] /biztonsági hasadótárcsa (túlnyomás elleni védelem)/
+
 # ID-n95CD9p
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 壁虎 壁虎 [bi4 hu3] /gekkó/házi gyík/
@@ -82226,6 +82252,10 @@ XX XX [x x] /x/
 # ID-o70KI6v
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 想睡 想睡 [xiang3 shui4] /álmosság/kába/
+
+# ID-o70TD5i
+# Ver 2025-06-08T19:13:22Z GaoYanuo Stat-New >Céges kommunikáció, Bartos-Hamar, + szokásos szótárak
+調度 调度 [diao4 du4] /diszpécser; forgalomirányító; termelésirányító/elindít; vezet (nagyobb járművet. Busz, vonat, stb)/ki|rendel (szobapincért, taxit, szerelőt, stb.)/
 
 # ID-o70XR9I
 # Ver 2019-10-15T18:25:38Z GaoYanuo Stat-New >HSK 5 tankönyv, CC-CEDICT
