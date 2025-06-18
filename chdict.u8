@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2025-06-09T02:10:01Z
+# Időbélyeg / Timestamp: 2025-06-18T02:10:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -77206,7 +77206,9 @@ XX XX [x x] /x/
 
 # ID-n78en2y
 # Ver 2022-02-16T11:50:37Z NagyHenrik Stat-New >https://hanyu.baidu.com/zici/s?wd=%E5%BF%90%E5%BF%91&query=%E5%BF%90%E5%BF%91&srcid=28232&from=kg0
-忐忑不安 忐忑不安 [tan3 te4 bu4 an1] /nyugtalan, ideges, nyughatatlan/他预感到有什么事情要发生，心里忐忑不安。 - Tā yùgǎn dào yǒu shé me shìqíng yào fāshēng, xīnlǐ tǎntèbù'ān - Érezte, hogy valami történni fog, és nyugtalan volt./
+# 忐忑不安 忐忑不安 [tan3 te4 bu4 an1] /nyugtalan, ideges, nyughatatlan/他预感到有什么事情要发生，心里忐忑不安。 - Tā yùgǎn dào yǒu shé me shìqíng yào fāshēng, xīnlǐ tǎntèbù'ān - Érezte, hogy valami történni fog, és nyugtalan volt./
+# Ver 2025-06-17T09:42:11Z Adam Stat-New >példamondatokat nem szoktunk berakni; a jelentések közé pontosvessző szokás
+忐忑不安 忐忑不安 [tan3 te4 bu4 an1] /nyugtalan; ideges; nyughatatlan/
 
 # ID-n78pA9H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
