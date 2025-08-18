@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2025-06-18T02:10:01Z
+# Időbélyeg / Timestamp: 2025-08-18T02:10:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -19385,6 +19385,10 @@ U盤 U盘 [U pan2] /pendrive/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 款式 款式 [kuan3 shi4] /minta/stílus/dizájn/SZ:種|种[zhong3]/
 
+# ID-d47VG9r
+# Ver 2025-08-17T10:02:34Z GaoYanuo Stat-New >Anyanyelvi tanár
+鬧笑話 闹笑话 [nao4 xiao4 hua4] /Nevetségessé teszi magát; bolondot csinál magából/
+
 # ID-d47Yv9J
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
 火花塞 火花塞 [huo3 hua1 sai1] /gyújtó|gyertya/
@@ -31748,7 +31752,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f69aG9L
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-打扮 打扮 [da3 ban5] /díszít/ki|öltözik/sminkel/öltözködési stílus/
+# 打扮 打扮 [da3 ban5] /díszít/ki|öltözik/sminkel/öltözködési stílus/
+# Ver 2025-08-17T09:43:36Z GaoYanuo Stat-Verif >Korpusz, HSK tankönyvi szövegek
+打扮 打扮 [da3 ban5] /díszít/ki|öltözik/sminkel/öltözködési stílus/kidekorál; kicsinosít (helyiséget)/
 
 # ID-f69lF6V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -37581,7 +37587,9 @@ X X [X] /X/
 
 # ID-g71Xi9M
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-偷 偷 [tou1] /lop/el|lop/
+# 偷 偷 [tou1] /lop/el|lop/
+# Ver 2025-08-17T10:24:55Z GaoYanuo Stat-Verif >Anyanyelvi tanár.
+偷 偷 [tou1] /lop/el|lop/tolvaj/
 
 # ID-g72ac6l
 # Ver 2022-07-25T07:13:15Z NagyHenrik Stat-New >，
@@ -53369,7 +53377,12 @@ X X [X] /X/
 
 # ID-j56Tl2q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-款 款 [kuan3] /pénz|összeg/pénz|alap/SZ:筆|笔[bi3]/szakasz; bekezdés (szövegben)/
+# 款 款 [kuan3] /pénz|összeg/pénz|alap/SZ:筆|笔[bi3]/szakasz; bekezdés (szövegben)/
+# Ver 2025-08-17T10:14:06Z GaoYanuo Stat-Verif >Anyanyelvi tanár és Bartos-Hamar alapján kiegészítve. A "pénz alap" után ki kéne venni a számlálószót és valahogy jelezni, hogy az összes jelentésben számlálószóként is funkcionál.\nTovábbá igeként, melléknévként ugyanez a karakter még egyéb jelentéssel is bír. Ezeket is ebbe a szócikkbe kéne beemelni?
+# 款 款 [kuan3] /pénz|összeg/pénz|alap/SZ:筆|究竟[bi3]/szakasz; bekezdés; paragrafus (szövegben)/modell, verzió, típus, stílusú/
+# Ver 2025-08-17T10:22:24Z GaoYanuo Stat-Verif >Az előző megjegyzésből a "A "pénz alap" után ki kéne venni a számlálószót... " részt tisztelettel visszavonnám.
+# Ver 2025-08-17T10:22:25Z GaoYanuo Stat-Verif >Az előző megjegyzésből a "A "pénz alap" után ki kéne venni a számlálószót... " részt tisztelettel visszavonnám.
+款 款 [kuan3] /pénz|összeg/pénz|alap/SZ:筆|究竟[bi3]/szakasz; bekezdés; paragrafus (szövegben)/modell, verzió, típus, stílusú/
 
 # ID-j56WX7F
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
@@ -61193,7 +61206,11 @@ X X [X] /X/
 
 # ID-k97jx7y
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-究竟 究竟 [jiu1 jing4] /vég|eredményben/ki|menet/ténylegesen/
+# 究竟 究竟 [jiu1 jing4] /vég|eredményben/ki|menet/ténylegesen/
+# Ver 2025-08-17T09:56:14Z GaoYanuo Stat-Verif >Magyarban gyakran használt kifejezés.
+# 究竟 究竟 [jiu1 jing4] /vég|eredményben/ki|menet/ténylegesen/tulajdonképpen/
+# Ver 2025-08-17T09:56:15Z GaoYanuo Stat-Verif >Magyarban gyakran használt kifejezés.
+究竟 究竟 [jiu1 jing4] /vég|eredményben/ki|menet/ténylegesen/tulajdonképpen/
 
 # ID-k97mo0t
 # Ver 2018-01-03T21:08:52Z gabor Stat-Verif 004>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
