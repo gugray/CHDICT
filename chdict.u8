@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2025-08-20T02:10:02Z
+# Időbélyeg / Timestamp: 2025-08-22T02:10:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -44565,6 +44565,10 @@ X X [X] /X/
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 表彰 表彰 [biao3 zhang1] /elismerőleg említ/dicsér; ki|tüntet/
 
+# ID-h98kR4A
+# Ver 2025-08-21T11:15:04Z NagyHenrik Stat-New >.
+成年累月 成年累月 [cheng2 nian2 lei3 yue4] /éveken keresztül/
+
 # ID-h98qu0s
 # Ver 2022-06-09T00:59:36Z NagyHenrik Stat-New >.
 太空探索技術公司 太空探索技术公司 [tai4 kong1 tan4 suo3 ji4 shu4 gong1 si1] /SpaceX; SpaceX amerikai űrkutatási vállalat/
@@ -44930,6 +44934,10 @@ X X [X] /X/
 # 流逝 流逝 [liu2 shi4] /múlik (idő)/
 # Ver 2021-06-18T20:51:38Z gabor Stat-Verif >.
 流逝 流逝 [liu2 shi4] /múlik (idő)/
+
+# ID-i04KB8d
+# Ver 2025-08-21T11:15:30Z NagyHenrik Stat-New >.
+尚未成年 尚未成年 [shang4 wei4 cheng2 nian2] /kiskorú/
 
 # ID-i04Li5G
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
@@ -68539,6 +68547,10 @@ X X [X] /X/
 # ID-m23ir9V
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 恩 恩 [en1] /jóság/kegy/
+
+# ID-m23yq9q
+# Ver 2025-08-21T11:10:21Z NagyHenrik Stat-New >.
+格格不入 格格不入 [ge2 ge2 bu4 ru4] /nincs összhangban/diszharmonikus/
 
 # ID-m23zC6Q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
