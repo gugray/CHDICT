@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2025-08-22T02:10:01Z
+# Időbélyeg / Timestamp: 2025-09-03T02:10:02Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -10187,6 +10187,10 @@
 # ID-b84MJ4T
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 照相 照相 [zhao4 xiang4] /fényképezés/fényképez/
+
+# ID-b84Qd4Q
+# Ver 2025-09-02T07:16:39Z NagyHenrik Stat-New >.
+過氧化氫 过氧化氢 [guo4 yang3 hua4 qing1] /hidrogén-peroxid /
 
 # ID-b84SN7H
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
