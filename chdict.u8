@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2025-09-03T02:10:02Z
+# Időbélyeg / Timestamp: 2025-09-04T02:10:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -11844,6 +11844,10 @@
 # ID-c12On7q
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 邊界 边界 [bian1 jie4] /határ/
+
+# ID-c12OC9q
+# Ver 2025-09-03T03:20:24Z NagyHenrik Stat-New >.
+上海合作組織 上海合作组织 [shang4 hai3 he2 zuo4 zu3 zhi1] /Sanghaji Együttműködési Szervezet; SCO/
 
 # ID-c13aP6v
 # Ver 2022-07-28T03:25:10Z NagyHenrik Stat-New >。
@@ -39258,6 +39262,10 @@ X X [X] /X/
 # ID-h01pH7R
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 風聞 风闻 [feng1 wen2] /hírét veszi/hallomásból értesül/
+
+# ID-h01qh3R
+# Ver 2025-09-03T03:20:04Z NagyHenrik Stat-New >.
+上合組織 上合组织 [shang4 he2 zu3 zhi1] /Sanghaji Együttműködési Szervezet; SCO/
 
 # ID-h01qk7n
 # Ver 2022-03-24T06:39:45Z NagyHenrik Stat-New >.
