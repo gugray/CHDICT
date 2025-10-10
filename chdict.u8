@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2025-09-04T02:10:01Z
+# Időbélyeg / Timestamp: 2025-10-10T02:10:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -75661,6 +75661,10 @@ XX XX [x x] /x/
 # ID-n47YW5I
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
 肺 肺 [fei4] /tüdő/
+
+# ID-n48jJ3S
+# Ver 2025-10-09T03:27:36Z NagyHenrik Stat-New >.
+宏觀經濟 宏观经济 [hong2 guan1 jing1 ji4] /makrogazdaság/
 
 # ID-n48ot6k
 # Ver 2017-12-13T18:37:20Z gabor Stat-Verif 003>OpenSub2016 korpusz + kétnyelvű vektortérmodell + kézi feldolgozás
