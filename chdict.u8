@@ -1,7 +1,7 @@
 ﻿# CHDICT
 # Nyílt forráskódú, közösségileg szerkesztett kínai-magyar szótár
 # Open-source, community-edited Chinese-Hungarian dictionary
-# Időbélyeg / Timestamp: 2025-10-10T02:10:01Z
+# Időbélyeg / Timestamp: 2026-06-23T02:10:01Z
 #
 # (c) Gábor L Ugray
 # Licenc / License: CC-BY-SA 4.0
@@ -33177,7 +33177,9 @@ C羅 C罗 [C luo1] /(tulajdonnév) Cristiano Ronaldo (portugál labdarúgó, 198
 
 # ID-f94fC6m
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
-親生 亲生 [qin1 sheng1] /biológiai; vér szerinti (szülő, gyerek stb.)/
+# 親生 亲生 [qin1 sheng1] /biológiai; vér szerinti (szülő, gyerek stb.)/
+# Ver 2026-06-22T15:27:00Z Adam Stat-Verif >magyarul gyakran így mondjuk
+親生 亲生 [qin1 sheng1] /biológiai; vér szerinti; édes- (szülő, gyerek stb.)/
 
 # ID-f94gg9K
 # Ver 2017-05-02T22:41:05Z gabor Stat-Verif 001>CHDICT törzsanyag
